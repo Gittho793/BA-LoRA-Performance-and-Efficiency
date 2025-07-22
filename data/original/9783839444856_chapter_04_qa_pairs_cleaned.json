@@ -1,0 +1,602 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the section?",
+    "output": "Forschungsfrage und Zielsetzungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does the section title translate to in English?",
+    "output": "Research question and objectives"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section about a research question?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section include objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of the section?",
+    "output": "Forschungsfrage und Zielsetzungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section numbered?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the number of the section?",
+    "output": "2"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section have a title?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What language is the section title in?",
+    "output": "German"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section about research?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are objectives mentioned in the section title?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a heading?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What type of section is it?",
+    "output": "Heading"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the section?",
+    "output": "To introduce the research question and objectives"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a subheading?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a main heading?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section part of a larger document?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section relevant to research?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section provide information about objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section about a specific research question?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title include the word 'Forschungsfrage'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title include the word 'Zielsetzungen'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title in German?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section have a brief title?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title descriptive?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title indicate the content?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title descriptive of the research question?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title describe the objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a research-oriented section?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section focus on research objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section part of a research document?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a research focus?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a research-oriented approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a focus on research objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a clear indication of the research question?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title provide a clear understanding of the objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key part of a research document?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section play a crucial role in a research paper?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section essential to understanding the research question?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section provide essential information about the objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a fundamental part of a research project?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a comprehensive approach to research?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a thorough analysis of the research question?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a detailed examination of the objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a critical component of a research study?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title provide a clear understanding of the research focus?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a clear indication of the research objectives?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a research-based approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a research-driven methodology?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a focus on research outcomes?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a vital part of a research proposal?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title provide a clear understanding of the research scope?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a clear indication of the research parameters?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a comprehensive research design?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a thorough research methodology?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a detailed research analysis?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key component of a research report?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a vital part of a research dissertation?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key part of a research thesis?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a vital part of a research article?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key component of a research paper?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a vital part of a research study?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a comprehensive research approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a thorough research design?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a detailed research plan?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key part of a research project?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a vital part of a research report?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a comprehensive research summary?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a thorough research overview?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a detailed research analysis?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key component of a research article?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a vital part of a research thesis?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a thorough research summary?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a detailed research overview?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key part of a research paper?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title provide a clear understanding of the research purpose?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a clear indication of the research goals?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title suggest a comprehensive research framework?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title indicative of a thorough research structure?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title imply a detailed research outline?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a key part of a research paper?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema der vorliegenden Arbeit?",
+    "output": "Anerkennungsberatung als eigenständige Fachberatung im Bereich der Bildungs- und Berufsberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Forschungsinteresse der Arbeit?",
+    "output": "Das Forschungsinteresse liegt auf dem beruflichen Selbstverständnis und den professionellen Handlungsstrategien der Berater_innen in der Anerkennungsberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Anlaufstellen für Anerkennungsberatung gibt es in Österreich?",
+    "output": "Vier Anlaufstellen in den Städten Wien, Linz, Graz und Innsbruck."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Anlaufstellen?",
+    "output": "Die Anlaufstellen bieten Beratung und Begleitung während des Anerkennungsverfahrens an."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist für die formale Anerkennung von Qualifikationen zuständig?",
+    "output": "Die rechtlich zuständigen Behörden und Institutionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Anerkennungs- und Bewertungsgesetz (AuBG)?",
+    "output": "Ein Gesetz, das Maßnahmen wie die Einrichtung eines zentralen Anerkennungsportals und die Einführung von speziellen Verfahren für geflüchtete Personen regelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Beratungsstellen nach § 5 AuBG?",
+    "output": "Die Beratungsstellen haben sieben Aufgaben, darunter umfassende Information und Beratung, Begleitung der Antragsteller_innen und Unterstützung bei der Einholung von Übersetzungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Personen wurden von August 2012 bis Ende 2016 in den IQ-Beratungsstellen beraten?",
+    "output": "103.581 Personen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der vorliegenden Arbeit?",
+    "output": "Das Ziel ist es, die professionellen Handlungsstrategien der Berater_innen in der Anerkennungsberatung zu untersuchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Daten für die Arbeit erhoben?",
+    "output": "Durch Expert_inneninterviews mit Koordinator_innen und Berater_innen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die zentrale Forschungsfrage der Arbeit?",
+    "output": "Welche professionellen Handlungsstrategien entwickeln Berater_innen in der Anerkennungsberatung, um innerhalb der Spannungsfelder von beruflichem Selbstverständnis und sozialstrukturellen Rahmenbedingungen handlungsfähig zu bleiben?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Teilfragen gibt es zur zentralen Forschungsfrage?",
+    "output": "Drei Teilfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die erste Teilfrage?",
+    "output": "Welche Perspektiven auf Anerkennungsberatung und ihre Aufgabenfelder werden durch die Koordinator_innen und Berater_innen formuliert?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die zweite Teilfrage?",
+    "output": "Welche sozialstrukturellen Rahmenbedingungen nehmen die Akteur_innen wahr und wie beurteilen sie diese in Bezug auf ihr berufliches Selbstverständnis?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die dritte Teilfrage?",
+    "output": "Welche Zielsetzungen und Handlungsweisen werden in Auseinandersetzung mit restriktiven Rahmenbedingungen entwickelt, um innerhalb der identifizierten Spannungsfelder handlungsfähig zu bleiben?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Daten für die Arbeit ausgewertet?",
+    "output": "Durch eine Kombination aus qualitativer Inhaltsanalyse und interpretativ-rekonstruktiven Verfahren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Arbeit?",
+    "output": "Die Arbeit entwickelt ein theoretisches Rahmenmodell, das die Auswertung der empirischen Daten strukturiert und die spezifischen Spannungsfelder in der Anerkennungsberatung sichtbar macht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung?",
+    "output": "Die Anerkennungsberatung bietet eine professionelle Unterstützung für Menschen mit im Ausland erworbenen Qualifikationen, um diese in Österreich anzuerkennen und zu bewerten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die IQ-Fachstelle 'Beratung und Qualifizierung'?",
+    "output": "Eine Fachstelle, die sich mit der Qualitätssicherung und -entwicklung in der Anerkennungsberatung beschäftigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der anerkennungstheoretischen Ansätze?",
+    "output": "Die anerkennungstheoretischen Ansätze bieten einen Rahmen, um die Anerkennungsprozesse und die damit verbundenen Herausforderungen besser zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Methodik der Arbeit?",
+    "output": "Die Arbeit verwendet eine Kombination aus qualitativer Inhaltsanalyse und interpretativ-rekonstruktiven Verfahren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zielgruppe der Anerkennungsberatung?",
+    "output": "Die Zielgruppe sind Menschen mit im Ausland erworbenen Qualifikationen, die in Österreich anerkannt und bewertet werden sollen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Gesellschaft?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass Menschen mit im Ausland erworbenen Qualifikationen ihre Fähigkeiten und Kenntnisse in Österreich einsetzen können und somit zur Gesellschaft beitragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kooperation zwischen den Beratungsstellen?",
+    "output": "Die Kooperation zwischen den Beratungsstellen ermöglicht es, dass die Anerkennungsberatung effizienter und effektiver durchgeführt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Evaluation der Anerkennungsberatung?",
+    "output": "Die Evaluation der Anerkennungsberatung ermöglicht es, die Qualität und Effektivität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Wirtschaft?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass die Wirtschaft von den Fähigkeiten und Kenntnissen der Menschen mit im Ausland erworbenen Qualifikationen profitiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Gesundheitsversorgung?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass Menschen mit im Ausland erworbenen Qualifikationen in der Gesundheitsversorgung eingesetzt werden können und somit zur Gesundheitsversorgung beitragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kooperation zwischen den Beratungsstellen in Österreich?",
+    "output": "Die Kooperation zwischen den Beratungsstellen in Österreich ermöglicht es, dass die Anerkennungsberatung effizienter und effektiver durchgeführt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Evaluation der Anerkennungsberatung in Österreich?",
+    "output": "Die Evaluation der Anerkennungsberatung in Österreich ermöglicht es, die Qualität und Effektivität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Bildung?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass Menschen mit im Ausland erworbenen Qualifikationen ihre Fähigkeiten und Kenntnisse in der Bildung einsetzen können und somit zur Bildung beitragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kooperation zwischen den Beratungsstellen in der Bildung?",
+    "output": "Die Kooperation zwischen den Beratungsstellen in der Bildung ermöglicht es, dass die Anerkennungsberatung effizienter und effektiver durchgeführt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Evaluation der Anerkennungsberatung in der Bildung?",
+    "output": "Die Evaluation der Anerkennungsberatung in der Bildung ermöglicht es, die Qualität und Effektivität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Berufsbildung?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass Menschen mit im Ausland erworbenen Qualifikationen ihre Fähigkeiten und Kenntnisse in der Berufsbildung einsetzen können und somit zur Berufsbildung beitragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kooperation zwischen den Beratungsstellen in der Berufsbildung?",
+    "output": "Die Kooperation zwischen den Beratungsstellen in der Berufsbildung ermöglicht es, dass die Anerkennungsberatung effizienter und effektiver durchgeführt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Evaluation der Anerkennungsberatung in der Berufsbildung?",
+    "output": "Die Evaluation der Anerkennungsberatung in der Berufsbildung ermöglicht es, die Qualität und Effektivität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Hochschulbildung?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass Menschen mit im Ausland erworbenen Qualifikationen ihre Fähigkeiten und Kenntnisse in der Hochschulbildung einsetzen können und somit zur Hochschulbildung beitragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kooperation zwischen den Beratungsstellen in der Hochschulbildung?",
+    "output": "Die Kooperation zwischen den Beratungsstellen in der Hochschulbildung ermöglicht es, dass die Anerkennungsberatung effizienter und effektiver durchgeführt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Evaluation der Anerkennungsberatung in der Hochschulbildung?",
+    "output": "Die Evaluation der Anerkennungsberatung in der Hochschulbildung ermöglicht es, die Qualität und Effektivität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Anerkennungsberatung für die Weiterbildung?",
+    "output": "Die Anerkennungsberatung trägt dazu bei, dass Menschen mit im Ausland erworbenen Qualifikationen ihre Fähigkeiten und Kenntnisse in der Weiterbildung einsetzen können und somit zur Weiterbildung beitragen."
+  }
+]

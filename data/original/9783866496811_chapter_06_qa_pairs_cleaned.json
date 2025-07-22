@@ -1,0 +1,897 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der aktuelle Trend in der Beratung?",
+    "output": "Die Beratung ist auf dem Weg der Akademisierung und auf dem Weg, sich als eigene Wissenschaft zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sollte bei der Beratung in der Pflege einbezogen werden?",
+    "output": "Die Angehörigen der Patienten sollten in individueller Weise einbezogen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist eine bekannte Pflegetheoretikerin, die sich durch ihre Kommunikation und Beratung auszeichnete?",
+    "output": "Florence Nightingale."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde Florence Nightingale bekannt?",
+    "output": "Als 'die Dame mit der Lampe', weil sie des Abends durch das Lazarett lief und mit den Soldaten sprach."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Gesetz finden sich die beratungsrelevanten Paragraphen?",
+    "output": "Im SGB XI."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde das Krankenpflegegesetz erlassen?",
+    "output": "1985"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das SGB XI erlassen?",
+    "output": "1995"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Paragraphen des SGB XI sind beratungsrelevant?",
+    "output": "§ 37, § 45, § 7"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Gesetze und Richtlinien regeln die Ausbildung in der Altenpflege?",
+    "output": "Altenpflegegesetz 2003, Empfehlende Ausbildungsrichtlinien der Altenpflege 2003 (NRW)"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde das Pflege-Weiterentwicklungsgesetz erlassen?",
+    "output": "2008"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche neuen Paragraphen wurden im Pflege-Weiterentwicklungsgesetz eingeführt?",
+    "output": "§ 7 Abs. 3, § 7a Pflegeberatung, § 92c Pflegestützpunkte"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Krankenpflegegesetz verabschiedet, das das Ausbildungsziel für Krankenschwestern und Krankenpflegehelfer regelt?",
+    "output": "1985"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Hauptziel der Ausbildung für Krankenschwestern gemäß dem Krankenpflegegesetz von 1985?",
+    "output": "Die Ausbildung soll Kenntnisse, Fähigkeiten und Fertigkeiten zur verantwortlichen Mitwirkung bei der Verhütung, Erkennung und Heilung von Krankheiten vermitteln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche spezifischen Aufgaben sollen Krankenschwestern gemäß dem Krankenpflegegesetz von 1985 übernehmen?",
+    "output": "Die sach- und fachkundige, umfassende, geplante Pflege des Patienten, die gewissenhafte Vorbereitung, Assistenz und Nachbereitung bei Maßnahmen der Diagnostik und Therapie, die Anregung und Anleitung zu gesundheitsförderndem Verhalten und die Beobachtung des körperlichen und seelischen Zustandes des Patienten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde das SGB XI verabschiedet, das Paragraphen zu Pflegegeld, Pflegekursen und Aufklärung enthält?",
+    "output": "1995"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regelt das Pflege-Weiterentwicklungsgesetz, SGB XI von 2008?",
+    "output": "Das Pflege-Weiterentwicklungsgesetz regelt unter anderem die Pflegeberatung und die Pflegestützpunkte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurde die Beratung im Krankenpflegegesetz von 1985 nicht explizit als Ausbildungsziel genannt?",
+    "output": "Die Beratung wurde im Krankenpflegegesetz von 1985 nicht explizit als Ausbildungsziel genannt, weil sie noch nicht als eigene Wissenschaft etabliert war und es keine eindeutige Definition gab."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden Beratungskompetenzen im Krankenpflegegesetz von 1985 bezeichnet?",
+    "output": "Als 'Anregen und Anleiten' und 'Beobachtung und Weitergabe'"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann trat die Pflege-Personalbedarfsregelung (PPR) in Kraft?",
+    "output": "1993"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer wurde von der Bundesregierung beauftragt, die Grundlagen für ein neues Personalbedarfsverfahren zu erarbeiten?",
+    "output": "Eine Expertengruppe aus Fachleuten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welches Pflegemodell diente der Expertengruppe als Orientierung?",
+    "output": "Das Pflegemodell nach Juchli 'Aktivitäten des Täglichen Lebens'"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viel Zeit pro Patient und Tag wurde für Kommunikation (Beratung) eingeplant?",
+    "output": "Etwa 5-10 Minuten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Arten von Gesprächen wurden im Rahmen der Kommunikation (Beratung) berücksichtigt?",
+    "output": "Entlastende und Orientierung gebende Patientengespräche, Begleiten des Patienten in der Phase des Sterbens, Gespräche mit Angehörigen einschließlich Beratung und patientenbezogene Informationsgespräche"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer legte die Minutenwerte für die pflegerischen Tätigkeiten fest?",
+    "output": "Die Expertengruppe"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viel Zeit wurde für Kommunikation pro Patient und Tag eingeplant?",
+    "output": "5-10 Minuten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was waren einige der Bereiche, in denen Kommunikation eingeplant war?",
+    "output": "Entlastende und Orientierung gebende Patientengespräche, Begleiten des Patienten in der Phase des Sterbens, Gespräche mit Angehörigen einschließlich Beratung, Patientenbezogene Informationsgespräche"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurde die Kommunikation nicht zeitgleich mit anderen pflegerischen Leistungen erbracht?",
+    "output": "Um einen Raum für Kommunikation (Beratung) zu schaffen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde die Pflegeversicherung eingeführt?",
+    "output": "1995"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo befinden sich die ersten konkreten Beratungsaufträge für Pflegende?",
+    "output": "Im SGB XI, §§37 und 45"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trägt die Vergütung für die Beratung?",
+    "output": "Die zuständige Pflegekasse"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann den Beratungseinsatz innerhalb der genannten Zeiträume zweimal in Anspruch nehmen?",
+    "output": "Pflegebedürftige, bei denen ein erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung nach § 45a festgestellt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrnehmen?",
+    "output": "Personen, bei denen ein erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung nach § 45a festgestellt ist und die noch nicht die Voraussetzungen der Pflegestufe I erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum besteht die Notwendigkeit zur Beratung?",
+    "output": "Um die Qualität der häuslichen Pflege zu sichern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer beschließt gemeinsam Empfehlungen zur Qualitätssicherung der Beratungsbesuche?",
+    "output": "Der Spitzenverband Bund der Pflegekassen, der Verband der privaten Krankenversicherung e. V. und die Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was passiert, wenn Pflegebedürftige die Beratung nach Absatz 3 Satz 1 nicht abrufen?",
+    "output": "Die Pflegekasse oder das private Versicherungsunternehmen hat das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erhalten pflegende Angehörige und ehrenamtlich Pflegende nach §45 SGB XI?",
+    "output": "Unentgeltliche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten körperlichen und seelischen Belastungen zu vermindern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer organisiert die Kurse für pflegende Angehörige und ehrenamtlich Pflegende?",
+    "output": "Die Krankenkassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen?",
+    "output": "Das Ziel ist, das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten körperlichen und seelischen Belastungen zu vermindern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer organisiert die Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen?",
+    "output": "Die Kurse werden von den Krankenkassen organisiert und von Pflegefachkräften durchgeführt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regelt §7 des SGB XI?",
+    "output": "§7 regelt die Aufklärung und Beratung durch die Pflegekassen, um die Eigenverantwortung der Versicherten zu unterstützen und eine gesunde, der Pflegebedürftigkeit vorbeugende Lebensführung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer wird durch die Pflegekassen nach §7 SGB XI beraten?",
+    "output": "Die Pflegekassen beraten die Versicherten, ihre Angehörigen und Lebenspartner in den mit der Pflegebedürftigkeit zusammenhängenden Fragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Pflegekassen ihre Beratungsaufgaben nach §7 SGB XI wahrnehmen?",
+    "output": "Die Pflegekassen können sich zur Wahrnehmung ihrer Beratungsaufgaben aus ihren Verwaltungsmitteln an der Finanzierung und arbeitsteiligen Organisation von Beratungsangeboten anderer Träger beteiligen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurde der Beratung durch Pflegende zunächst wenig Beachtung geschenkt?",
+    "output": "Der Beratung durch Pflegende wurde zunächst wenig Beachtung geschenkt, weil die Akademisierung der Pflege noch am Anfang stand und die ersten Absolventen von pflegerelevanten Studiengängen gerade erst die Hochschulen verließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer erbrachte die gesetzlich verankerte Beratung in der Vergangenheit oft?",
+    "output": "Die gesetzlich verankerte Beratung wurde oft von der schon länger akademisierten Profession der Sozialarbeiter erbracht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das SGB XI implementiert?",
+    "output": "1995"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war ein Ergebnis der Gesetzgebung nach §7 SGB XI auf Länderebene?",
+    "output": "Die Gesetzgebung wurde auf Länderebene in den Pflegegesetzen umgesetzt, jedoch wurde oftmals nur wenig an die Pflegenden selbst gedacht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer erbrachte die gesetzlich verankerte Beratung in Deutschland, als die Pflegewissenschaft noch nicht weit verbreitet war?",
+    "output": "Die gesetzlich verankerte Beratung wurde von der schon länger akademisierten Profession der Sozialarbeiter erbracht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regelte das Landespflegegesetz (NRW, 1996) in Bezug auf die Beratung von Pflegebedürftigen?",
+    "output": "Das Landespflegegesetz regelte, dass die Beratung von Pflegebedürftigen, von Pflegebedürftigkeit Bedrohten und deren Angehörigen im Zusammenwirken von Kommunen, den Pflegkassen und den anderen an der pflegerischen Versorgung Beteiligten erfolgen soll."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sah die Qualifizierung des Beratungspersonals nach dem Landespflegegesetz aus?",
+    "output": "Die Qualifizierung des Beratungspersonals sollte idealerweise sozialarbeiterische Kompetenz mit pflegerischer Erfahrung verknüpfen, aber dies ließ sich im kommunalpolitischen Alltag nur selten lösen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Pflegeberatungsstellen waren Ende 2001 in Nordrhein-Westfalen etabliert?",
+    "output": "Ende 2001 waren in allen 54 Kreisen und kreisfreien Städten von Nordrhein-Westfalen Pflegeberatungsstellen etabliert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer waren die Träger der Pflegeberatungsstellen in Nordrhein-Westfalen?",
+    "output": "Die Kommunen hatten 80% der Pflegeberatungsstellen in eigener Trägerschaft, die restlichen hatten geteilte Trägerschaften, und in zwei Kommunen wurden Verbraucherzentralen mit dieser Aufgabe betraut."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Aspekte waren die Beratungen in den Pflegeberatungsstellen vorrangig konzentriert?",
+    "output": "Die Beratungen in den Pflegeberatungsstellen waren vorrangig auf sozialrechtliche Aspekte konzentriert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann fand die Evaluation der Modellprojekte der Patientenberatungsstellen statt?",
+    "output": "Die Evaluation der Modellprojekte fand in der Zeit vom Juli 2003 bis Februar 2004 statt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Zeitraum fand die unabhängige Nutzerbefragung von Modellprojekten der Patientenberatungsstellen statt?",
+    "output": "Juli 2003 bis Februar 2004"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist für die Evaluation der Modellvorhaben nach allgemein anerkannten wissenschaftlichen Standards verantwortlich?",
+    "output": "Krankenkassen oder ihre Verbände"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Fragebögen lagen nach der Nutzerbefragung zur Auswertung vor?",
+    "output": "1292"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ziel der Nutzerbefragung?",
+    "output": "Verschiedene Informationen aus der Sicht der Ratsuchenden zu erfassen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welcher Prozentsatz der Befragten suchte eine Beratungsstelle wegen gesundheits- bzw. krankheitsbezogenen Problematiken auf?",
+    "output": "55,7%"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welcher Prozentsatz der Befragten suchte eine Beratungsstelle wegen Informationen zu sozialrechtlichen Situationen auf?",
+    "output": "12,6%"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer führte die Ergebnisse der Studie aus?",
+    "output": "Institut für Pflegewissenschaft der Universität Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurden die Ergebnisse der Studie veröffentlicht?",
+    "output": "2005"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Beratungsstellen wurden in der Nutzerbefragung einbezogen?",
+    "output": "17"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welcher Prozentsatz der Nutzer nahm an der Befragung teil?",
+    "output": "38% Rücklauf, also 62% nicht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Begrifflichkeiten Information, Schulung, Beratung und Anleitung in der Literatur verwendet?",
+    "output": "Sie werden häufig synonym verwendet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt der Einblick in andere Länder bezüglich der Patienteneducation?",
+    "output": "Viele Länder sind bereits weiter in der Patienteneducation oder in der Entwicklung von Patienteninformationsmaterialien."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was beinhaltet Patienteninformation?",
+    "output": "Sie beinhaltet das Informieren, Schulen und Beraten und geht über den Sinn des Informierens hinaus."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der zusammenfassende Begriff für informieren, schulen und beraten in den USA?",
+    "output": "Patient-/family-education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurde der Begriff 'Patienten-/Familien-Edukation' ins Deutsche übernommen?",
+    "output": "Aus Gründen der internationalen Sprachregelung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definiert Bartholomeyczik die Pflegekompetenz?",
+    "output": "Pflegekompetenz setzt sich aus vier spezifischen Schwerpunktkompetenzen zusammen: Fähigkeit zur Beziehungsgestaltung, Prozesssteuerung, Beratungs- und Anleitungsfähigkeiten sowie Case und Trajekt-Management."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was fehlt laut dem Text in Bartholomeycziks Definition der Pflegekompetenz?",
+    "output": "Die psychosozialen Randbereiche werden nicht genügend mit abgedeckt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Patienteninformation?",
+    "output": "Unterstützung zur Selbsthilfe."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die vier spezifischen Schwerpunktkompetenzen der Pflegekompetenz nach Bartholomeyczik?",
+    "output": "Fähigkeit zur Beziehungsgestaltung, Prozesssteuerung, Beratungs- und Anleitungsfähigkeiten sowie Case und Trajekt-Management."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Seit wann gibt es ein einheitliches bundesweites Gesetz für die Altenpflege?",
+    "output": "Seit dem Jahr 2000."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der 3-jährigen Grundausbildung in der Altenpflege?",
+    "output": "Die Ausbildung soll die Kenntnisse, Fähigkeiten und Fertigkeiten vermitteln, die zur selbständigen und eigenverantwortlichen Pflege einschließlich der Beratung, Begleitung und Betreuung alter Menschen erforderlich sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst die sach- und fachkundige Pflege nach § 3 (1) des Altenpflegegesetzes?",
+    "output": "Die umfassende und geplante Pflege, die den allgemein anerkannten pflegewissenschaftlichen, insbesondere den medizinisch-pflegerischen Erkenntnissen entspricht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine der Aufgaben der Pflegekräfte bei der Behandlung kranker alter Menschen?",
+    "output": "Die Mitwirkung bei der Behandlung kranker alter Menschen einschließlich der Ausführung ärztlicher Verordnungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der geriatrischen und gerontopsychiatrischen Rehabilitationskonzepte?",
+    "output": "Die Erhaltung und Wiederherstellung individueller Fähigkeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine der Aufgaben der Pflegekräfte im Bereich der Gesundheitsvorsorge?",
+    "output": "Die Gesundheitsvorsorge einschließlich der Ernährungsberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst die umfassende Begleitung Sterbender?",
+    "output": "Die Begleitung und Unterstützung von sterbenden Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll von den Pflegefachkräften angeleitet, beraten und unterstützt werden?",
+    "output": "Pflegekräfte, die nicht Pflegefachkräfte sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eines der zentralen Ziele der Altenpflegeausbildung?",
+    "output": "Beratung alter Menschen und deren Angehöriger."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Bereiche umfasst die Beratung durch Altenpflegefachkräfte?",
+    "output": "Ernährungsberatung, Beratung anderer Berufsgruppen, Psycho-soziale Beratung und Angehörigenberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regeln die Lehrpläne der Altenpflegeschulen und die Ausbildungspläne der Träger der praktischen Ausbildung?",
+    "output": "Das Nähere zur Ausbildung und den zu erlangenden Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Grundausbildung in der Altenpflege?",
+    "output": "Die Vermittlung von Hintergrundwissen und die Erlangung von Kompetenzen zur selbstständigen Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was liegt dem Bildungsverständnis der Ausbildung in der Altenpflege zugrunde?",
+    "output": "Persönlichkeitsentwicklung und Erlangung beruflicher Handlungskompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das übergeordnete Ausbildungsziel im Lernbereich 1?",
+    "output": "Beratung als eines von drei Zielen der enthaltenen Lernfelder."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of Lernfeld 1.4 in the Altenpflegeausbildung NRW?",
+    "output": "Anleiten, Beraten und Gespräche führen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "When did the new Krankenpfleggesetz come into effect?",
+    "output": "1.1.2004."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main goal of the Ausbildung für Gesundheits- und Krankenpflegerinnen according to §3 Abs.2 of the KrPflG?",
+    "output": "To provide fachliche, personale, soziale and methodische Kompetenzen for verantwortliche Mitwirkung in the healthcare sector."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the main tasks that Pflegefachpersonen should be able to perform eigenverantwortlich according to §3 Abs.2 of the KrPflG?",
+    "output": "Erhebung und Feststellung des Pflegebedarfs, Planung, Organisation, Durchführung und Dokumentation der Pflege, Evaluation der Pflege, Beratung, Anleitung und Unterstützung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main focus of the Pflege according to §3 Abs.1 of the KrPflG?",
+    "output": "Die Wiedererlangung, Verbesserung, Erhaltung und Förderung der physischen und psychischen Gesundheit der zu pflegenden Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the different types of Maßnahmen that Pflegefachpersonen should be able to perform according to §3 Abs.2 of the KrPflG?",
+    "output": "Maßnahmen der medizinischen Diagnostik, Therapie oder Rehabilitation, Maßnahmen in Krisen- und Katastrophensituationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of interdisziplinäre Zusammenarbeit in the healthcare sector according to §3 Abs.3 of the KrPflG?",
+    "output": "To develop multidisziplinäre and berufsübergreifende Lösungen von Gesundheitsproblemen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Krankenpflegeausbildung in Bezug auf Beratung?",
+    "output": "Das Ziel ist, dass die Schülerinnen und Schüler befähigt werden, die Beratung von zu pflegenden Menschen und ihrer Bezugsperson in der individuellen Auseinandersetzung mit Gesundheit und Krankheit eigenverantwortlich ausführen zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum muss sich die Profession Pflege von traditionellen Orientierungen lösen?",
+    "output": "Die Profession Pflege muss sich von traditionellen Orientierungen lösen, weil sie sich nicht nur auf medizinische Kuration in Krankenhäusern beschränken kann und einen größeren perspektivischen Blickwinkel für ihre Profession benötigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Kompetenzen müssen bei den Pflegenden gestärkt und ausgebildet werden?",
+    "output": "Die kommunikativen und empathischen Kompetenzen müssen bei den Pflegenden gestärkt und ausgebildet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was hat sich in der Bevölkerung gewandelt?",
+    "output": "Die soziodemographische Zusammensetzung der Bevölkerung hat sich gewandelt, es gibt eine Steigerung in der Art der Versorgung und Betreuung von multi-morbiden oder chronisch Erkrankten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die zentralen Forderungen der Zukunft für die Ausbildung der Gesundheits- und Krankenpfleger?",
+    "output": "Die zentralen Forderungen der Zukunft sind die Anpassung an den wandelnden Kontext der Gesellschaft und die Ausrichtung auf eine Qualitätssicherung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird in den Ausbildungsrichtlinien zum Thema Beratung formuliert?",
+    "output": "In den Ausbildungsrichtlinien wird die Veränderung der Pflege deutlich hervorgehoben und die Notwendigkeit einer größeren perspektivischen Blickwinkel für die Profession Pflege betont."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die zentralen Forderungen der Zukunft für die Ausbildung der Gesundheits- und Krankenpfleger?",
+    "output": "Die zentralen Forderungen der Zukunft sind die Qualitätssicherung der Pflege sowie eine Strukturreform der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die übergreifenden Ziele der Ausbildungsrichtlinien?",
+    "output": "Die übergreifenden Ziele sind Fachliche Kompetenz, Sozial-kommunikative Kompetenz, Methodische Kompetenz und Personale Kompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum umfasst der Lernbereich I in etwa die Hälfte der theoretischen Ausbildungszeit?",
+    "output": "Weil die in der Tabelle benannten Tätigkeiten in der Gegenwart und in der Zukunft den Kern des Pflegeberuflichen Handelns ausmachen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind berufsübergreifende Qualifizierungen in der Ausbildung wichtig?",
+    "output": "Berufsübergreifende Qualifizierungen sind wichtig, um eine einheitlich und generalistisch ausgerichtete Qualifizierung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Teilbereiche gehören zum Lernbereich I?",
+    "output": "Aktivierend und/ oder kompensierend pflegen, Bei der medizinischen Diagnostik und Therapie assistieren und in Notfällen handeln, Gespräche führen, beraten und anleiten, Organisieren, planen und dokumentieren, Menschen in besonderen Lebenssituationen oder mit spezifischen Belastungen betreuen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Lerneinheiten gehören zum Teilbereich 'Gespräche führen, beraten und anleiten'?",
+    "output": "LE I.19 Gespräche führen, LE I.20 Beraten und anleiten, LE I.21 Gespräche mit Pflegebedürftigen und Angehörigen führen, LE I.22 Gespräche mit KollegInnen und Vorgesetzten führen, LE I.23 Zu pflegeinhaltlichen Fragen beraten und anleiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Themen werden in den sechs weiteren Lerneinheiten der Lerneinheit I.23 behandelt?",
+    "output": "Haut- und Körperpflege, Mund- und Zahnpflege, Sich bewegen, Essen und Trinken, Ausscheiden, Atmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Lerneinheit I.23?",
+    "output": "Gesundheits- und KrankenpflegeschülerInnen und Gesundheits- und KinderkrankenpflegeschülerInnen dazu befähigen, Pflegebedürftige und/ oder ihre Angehörigen zu bestimmten Pflegethemen zu beraten und/ oder anzuleiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann trat das Pflege-Weiterentwicklungsgesetz in Kraft?",
+    "output": "1. Juli 2008"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist §7a im Sozialgesetzbuch?",
+    "output": "Pflegeberatung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist §92c im Sozialgesetzbuch?",
+    "output": "Pflegestützpunkte"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Seit wann gibt es die Pflegeversicherung in Deutschland?",
+    "output": "1995"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Pflegeberatung gemäß §7 Abs.3 unterstützen?",
+    "output": "Die Ausübung des Wahlrechts des Pflegebedürftigen sowie die Förderung des Wettbewerbs und der Überschaubarkeit des vorhandenen Angebots"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Leistungs- und Preisvergleichsliste?",
+    "output": "Eine Liste, die die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen enthält"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll die Leistungs- und Preisvergleichsliste zur Verfügung stellen?",
+    "output": "Der Landesverband der Pflegekassen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Beratung durch den Pflegestützpunkt und die Pflegeberatung beinhalten?",
+    "output": "Sie soll unentgeltlich sein und den Pflegebedürftigen über die verfügbaren Pflegeleistungen und Angebote informieren"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflegeberatung gemäß dem Pflege-Weiterentwicklungsgesetz?",
+    "output": "Die Unterstützung des Pflegebedürftigen bei der Ausübung seines Wahlrechts und die Förderung des Wettbewerbs und der Überschaubarkeit des vorhandenen Angebots"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll über die Ergebnisse von Qualitätsprüfungen informiert werden?",
+    "output": "Der Pflegebedürftige"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Pflicht der Pflegekassen gegenüber Pflegebedürftigen und Versicherten mit erheblichem allgemeinem Betreuungsbedarf?",
+    "output": "Die Pflegekassen müssen ihnen Informationen über Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen, den Standort der nächstgelegenen Pflegestützpunkte und Pflegeberatungsmöglichkeiten sowie Beratung und Unterstützung durch Pflegestützpunkte und der Pflegeberatung zukommen lassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Pflegeberatung im Kontext des Pflege-Weiterentwicklungsgesetzes leisten?",
+    "output": "Die Pflegeberatung soll dem Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf unentgeltliche Beratung und Unterstützung anbieten, um die individuelle Pflegeleistung zu ermitteln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Pflege-Weiterentwicklungsgesetzes?",
+    "output": "Das Ziel ist, die rechtlich zustehende pflegerische Unterstützung und Betreuung für den Pflegebedürftigen unkomplizierter zu gestalten und den Wettbewerb der Pflegekassen zu steigern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollen Pflegebedürftige und Versicherte mit erheblichem allgemeinem Betreuungsbedarf über niedrigschwellige Betreuungsangebote informiert werden?",
+    "output": "Die Pflegekassen sollen sie über niedrigschwellige Betreuungsangebote unterrichten und beraten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Pflegestützpunkte und der Pflegeberatung?",
+    "output": "Die Pflegestützpunkte und die Pflegeberatung sollen unentgeltliche Beratung und Unterstützung anbieten, um den Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Pflegeberatung im Kontext des Pflege-Weiterentwicklungsgesetzes definiert werden?",
+    "output": "Die Pflegeberatung wird im § 7a des Pflege-Weiterentwicklungsgesetzes definiert und erhält eine angemessene Rahmung für ihr Tätigkeitsprofil und ihre Aufgaben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Pflegeberatung wichtig für chronisch Erkrankte und multimorbide Menschen?",
+    "output": "Die Pflegeberatung ist wichtig, um chronisch Erkrankten und multimorbidem Menschen zu ermöglichen, länger und/oder auf Dauer in ihrer häuslichen Umgebung zu bleiben, anstatt eine institutionelle Einrichtung in Anspruch nehmen zu müssen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Bemühungen des Pflege-Weiterentwicklungsgesetzes?",
+    "output": "Durch die Bemühungen des Pflege-Weiterentwicklungsgesetzes wird der Versicherte als mündiger Bürger anerkannt und in die Verantwortung miteinbezogen, somit zum Experten seiner eigenen Pflegebedürftigkeit gemacht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann haben Personen, die Leistungen nach diesem Buch erhalten, Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater?",
+    "output": "Ab dem 1. Januar 2009."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Definition der Pflegeberatung?",
+    "output": "Die Pflegeberatung umfasst die individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die erste Aufgabe der Pflegeberatung?",
+    "output": "Den Hilfebedarf unter Berücksichtigung der Feststellungen der Begutachtung durch den Medizinischen Dienst der Krankenversicherung systematisch zu erfassen und zu analysieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann einen Leistungsantrag nach diesem oder dem Fünften Buch auch gegenüber dem Pflegeberater oder der Pflegeberaterin stellen?",
+    "output": "Ein Versicherter."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo kann die Pflegeberatung auf Wunsch erfolgen?",
+    "output": "In der häuslichen Umgebung oder in der Einrichtung, in der der Anspruchsberechtigte lebt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann in die Pflegeberatung einbezogen werden?",
+    "output": "Dritte, insbesondere Angehörige und Lebenspartner."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Pflegeberatung bei der Erstellung und Umsetzung des Versorgungsplans?",
+    "output": "Einvernehmen mit dem Hilfesuchenden und allen an der Pflege, Versorgung und Betreuung Beteiligten anzustreben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die Aufgaben der Pflegeberatung ganz oder teilweise auf Dritte übertragen?",
+    "output": "Die Pflegekassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo kann die Pflegeberatung auf Wunsch des Pflegebedürftigen stattfinden?",
+    "output": "In der häuslichen Umgebung oder in der Einrichtung, in der der Anspruchsberechtigte lebt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann in die Pflegeberatung miteinbezogen werden?",
+    "output": "Angehörige und Lebenspartner, also das engere soziale Umfeld."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Pflegeberatung?",
+    "output": "Die Pflegeberatung soll den Hilfebedarf feststellen und analysieren, einen individuellen Versorgungsplan erstellen und die erforderlichen Sozialleistungen und gesundheitsfördernden, präventiven, kurativen, rehabilitativen oder sonstigen medizinischen/pflegerischen/sozialen Hilfen beinhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer setzt die Qualifikationsanforderungen für Pflegeberater und Pflegeberaterinnen fest?",
+    "output": "Der Spitzenverband Bund der Pflegekassen gibt Empfehlungen ab."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann müssen die Qualifikationsanforderungen für Pflegeberater und Pflegeberaterinnen erfüllt sein?",
+    "output": "Spätestens zum 30. Juni 2011."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was gehört zur Aufgabe der Pflegeberatung?",
+    "output": "Die Erstellung und Umsetzung des Versorgungsplans, die Beantragung erforderlicher Maßnahmen, die Überwachung und Anpassung des Versorgungsplans sowie die Auswertung und Dokumentation des Hilfeprozesses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann einen Leistungsantrag nach diesem oder dem Fünften Buch stellen?",
+    "output": "Ein Versicherter kann einen Leistungsantrag auch gegenüber dem Pflegeberater oder der Pflegeberaterin stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was passiert mit dem Leistungsantrag nach seinem Eingang?",
+    "output": "Der Antrag ist unverzüglich der zuständigen Pflege- oder Krankenkasse zu übermitteln, die den Leistungsbescheid unverzüglich dem Antragsteller und zeitgleich dem Pflegeberater oder der Pflegeberaterin zuleitet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Anforderung an die Anzahl von Pflegeberatern und Pflegeberaterinnen?",
+    "output": "Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu bemessen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrgenommen werden können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen eingesetzt werden?",
+    "output": "Entsprechend qualifiziertes Personal, insbesondere Pflegefachkräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Berufsgruppen werden als qualifiziertes Personal für Pflegeberater anerkannt?",
+    "output": "Pflegefachkräfte, Sozialversicherungsfachangestellte und Sozialarbeiter."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Einschränkung für die Tätigkeit des Pflegeberaters?",
+    "output": "Die Tätigkeit des Pflegeberaters darf nur mit der jeweils erforderlichen Zusatzqualifikation ausgeübt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll eine Empfehlung zur erforderlichen Anzahl und Qualifikation von Pflegeberatern erstellen?",
+    "output": "Der Spitzenverband Bund der Pflegekassen (GKV)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann müssen die Qualifikationsanforderungen für Pflegeberater erfüllt sein?",
+    "output": "Spätestens zum 30. Juni 2011."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das neue Handlungsfeld der Pflege, das durch das Pflege-Weiterentwicklungsgesetz implementiert wurde?",
+    "output": "Die Pflegestützpunkte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist für die Einführung der Pflegestützpunkte verantwortlich?",
+    "output": "Die Landesbehörden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird in § 7a Abs.3 Satz 2 SGB XI festgelegt?",
+    "output": "Die Qualifikationsanforderungen für Pflegeberater und die erforderliche Anzahl von Pflegeberatern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann soll der Spitzenverband Bund der Pflegekassen Empfehlungen zur Anzahl und Qualifikation von Pflegeberatern abgeben?",
+    "output": "Bis zum 31. August 2008."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regelt das Pflege-Weiterentwicklungsgesetz?",
+    "output": "Das Pflege-Weiterentwicklungsgesetz regelt unter anderem den §92c, welcher die Tätigkeiten der Pflege in einem bereits bestehendem Gefüge definiert und ein neues Handlungsfeld der Pflegestützpunkte erschließt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist für die Einführung von Pflegestützpunkten verantwortlich?",
+    "output": "Die Einführung von Pflegestützpunkten obliegt den Landesbehörden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer richtet Pflegestützpunkte ein?",
+    "output": "Die Pflegekassen und Krankenkassen richten Pflegestützpunkte ein, sofern die zuständige oberste Landesbehörde dies bestimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Innerhalb welcher Frist müssen Pflegestützpunkte eingerichtet werden?",
+    "output": "Die Einrichtung von Pflegestützpunkten muss innerhalb von sechs Monaten nach der Bestimmung durch die oberste Landesbehörde erfolgen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Aufgaben von Pflegestützpunkten?",
+    "output": "Die Aufgaben von Pflegestützpunkten umfassen umfassende Auskunft und Beratung, Koordinierung von Versorgung und Betreuung sowie Vernetzung von pflegerischen und sozialen Versorgungs- und Betreuungsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Träger von Pflegestützpunkten?",
+    "output": "Die Träger von Pflegestützpunkten sind die beteiligten Kosten- und Leistungsträger."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte eingebunden werden?",
+    "output": "Ja, die Träger sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte einbinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollen Mitglieder von Selbsthilfegruppen und ehrenamtliche Personen in die Tätigkeit der Pflegestützpunkte eingebunden werden?",
+    "output": "Ja, die Träger haben nach Möglichkeit Mitglieder von Selbsthilfegruppen sowie ehrenamtliche und sonstige zum bürgerschaftlichen Engagement bereite Personen und Organisationen in die Tätigkeit der Pflegestützpunkte einzubinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie lange haben die Landesverbände der Pflegekassen Zeit, um den Inhalt der Verträge festzulegen, wenn diese nicht innerhalb von drei Monaten zustande kommen?",
+    "output": "Die Landesverbände der Pflegekassen haben einen weiteren Monat Zeit, um den Inhalt der Verträge festzulegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Haben Widerspruch und Anfechtungsklage gegen Maßnahmen der Aufsichtsbehörden zur Einrichtung von Pflegestützpunkten aufschiebende Wirkung?",
+    "output": "Nein, Widerspruch und Anfechtungsklage gegen Maßnahmen der Aufsichtsbehörden zur Einrichtung von Pflegestützpunkten haben keine aufschiebende Wirkung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollen die Träger der Pflegestützpunkte tun, um Pflegefachkräfte einzubinden?",
+    "output": "Die Träger sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte einbinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll an den Pflegestützpunkten beteiligt werden?",
+    "output": "Interessierte kirchliche sowie sonstige religiöse und gesellschaftliche Träger und Organisationen sollen die Beteiligung an den Pflegestützpunkten ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Aufgaben der Pflegestützpunkte?",
+    "output": "Die Aufgaben der Pflegestützpunkte sind umfassende sowie unabhängige Auskunft und Beratung, Koordinierung aller für die wohnortnahe Versorgung und Betreuung in Betracht kommenden Hilfs- und Unterstützungsangebote und Vernetzung aufeinander abgestimmter pflegerischer und sozialer Versorgungs- und Betreuungsangebote."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo können Pflegebedürftige und deren Angehörige eine unabhängige Beratung erhalten?",
+    "output": "Pflegebedürftige und deren Angehörige können eine unabhängige Beratung und Auskünfte über gesundheitsfördernde, präventive, kurative, rehabilitative und sonstige medizinische sowie pflegerische und soziale Hilfs- und Unterstützungsangebote bei den Pflegestützpunkten erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Mit wem sollen die Träger der Pflegestützpunkte zusammenarbeiten?",
+    "output": "Die Träger der Pflegestützpunkte sollen mit dem Träger der Arbeitsförderung nach dem Dritten Buch und den Trägern der Grundsicherung für Arbeitssuchende nach dem Zweiten Buch zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurden die Pflegestützpunkte eingerichtet?",
+    "output": "Die Pflegestützpunkte wurden eingerichtet, um eine zentrale Anlaufstelle für Pflegebedürftige und deren Angehörige zu schaffen, die bisher nicht existierte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regelt der §92c des Elften Sozialgesetzbuches?",
+    "output": "Der §92c des Elften Sozialgesetzbuches regelt die Pflegestützpunkte und ihre Aufgaben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann sich zur Erfüllung ihrer Aufgaben dritter Stellen bedienen?",
+    "output": "Die Träger der Pflegestützpunkte können sich zur Erfüllung ihrer Aufgaben dritter Stellen bedienen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Pflegestützpunkte für die Pflegebedürftigen?",
+    "output": "Die Pflegestützpunkte bieten Pflegebedürftigen und deren Angehörigen eine zentrale Anlaufstelle für Beratung und Unterstützung bei der Auswahl und Inanspruchnahme von Sozialleistungen und Hilfsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rechtsgrundlage bilden die Pflegestützpunkte?",
+    "output": "Die Pflegestützpunkte bilden den §92c des Elften Sozialgesetzbuches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Aufgaben der Pflegestützpunkte gemäß §92c Abs.2 Satz 1 SGB XI?",
+    "output": "Koordinierung aller für die wohnortnahe Versorgung und Betreuung in Betracht kommenden gesundheitsfördernden, präventiven, kurativen, rehabilitativen und sonstigen medizinischen sowie pflegerischen und sozialen Hilfs- und Unterstützungsangebote."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll nach §92c Abs.2 letzter Satz in die Tätigkeiten der Pflegestützpunkte eingebunden werden?",
+    "output": "Pflegefachkräfte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollen die Träger der Pflegestützpunkte mit anderen Trägern zusammenarbeiten?",
+    "output": "Ja, sie sollen mit den Trägern der Arbeitsförderung und der Grundsicherung für Arbeitssuchende zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann nach Vorschlägen in den Pflegestützpunkten eingebunden werden?",
+    "output": "Mitglieder von Selbsthilfegruppen oder ehrenamtlich Tätige."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das einzige konkret benannte Berufsbild, das in den Pflegestützpunkten eingesetzt werden soll?",
+    "output": "Pflegefachkräfte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde durch das Pflege-Weiterentwicklungsgesetz gestellt?",
+    "output": "Das Berufsbild 'Pflegeberatung' in den institutionellen Kontext der Kranken- bzw. Pflegeversicherungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was handelt es sich bei der Pflegeberatung um?",
+    "output": "Eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Pflegestützpunkte?",
+    "output": "Die Vernetzung aufeinander abgestimmter pflegerischer und sozialer Versorgungs- und Betreuungsangebote."
+  }
+]

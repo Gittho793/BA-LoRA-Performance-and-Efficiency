@@ -1,0 +1,1177 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Beratung in der Pflege?",
+    "output": "Beratung ist ein erweitertes bzw. neues Handlungsfeld der Pflege und eine Antwortmöglichkeit auf die aktuellen Veränderungen in der Pflegelandschaft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erfordert kompetentes Handeln in Pflege- und Pflegebildungssituationen?",
+    "output": "Klinisches Wissen, das sich aus theoriegeleitetem Wissen und praktischem Erfahrungswissen zusammensetzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat das Konzept des klinischen Wissens beschrieben?",
+    "output": "Benner (2004)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz?",
+    "output": "Die beraterische Kompetenz ist eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Kompetenzentwicklung?",
+    "output": "Die Eigenverantwortlichkeit des Lernenden im Lernprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde in den Modellprojekten zur Pflegeausbildung in den vergangenen Jahren thematisiert?",
+    "output": "Der Wissenstransfer, die Kompetenzentwicklung und die Ausgestaltung zwischen dem betrieblichen und schulischen Lernort."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Lernanlässe?",
+    "output": "Eine fachliche und personale Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann der Anknüpfungspunkt für Beratungsprozesse sein?",
+    "output": "Die Thematisierung und Unterstützung methodisch-fachlicher Aspekte oder personale Aspekte des Lernprozesses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Forschung zu lernförderlichen Lernumgebungen?",
+    "output": "Dass es sehr förderlich ist, den Lernenden eigenverantwortlich in die Lernprozesse einzubeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die Einbeziehung der Lernenden in die Lernprozesse erreicht werden?",
+    "output": "Die professionelle Pflegepraxis kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die gezielte Unterstützung durch Pflegebildungseinrichtungen erreicht werden?",
+    "output": "Die Professionalität in der Pflegebildung kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was muss die lernende Organisation anbieten?",
+    "output": "Geeignete und passende Rahmenbedingungen zur Verfügung stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo können Anregungen für die Weiterentwicklung der beraterischen Kompetenz gefunden werden?",
+    "output": "In den Veröffentlichungen zum europäischen und nationalen Qualifikationsrahmen für lebendiges Lernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat Veröffentlichungen zum Qualifikationsrahmen erstellt?",
+    "output": "Die Bund-Länder-Kommission (2004), das BMBF und die KMK (2006) und das BiBB (2007)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Weiterentwicklung der beraterischen Kompetenz?",
+    "output": "Die Erhaltung und Würdigung bereits vorhandener und praktizierter beraterischer Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz ein Teil von?",
+    "output": "Der erworbenen Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz notwendig für?",
+    "output": "Die erfolgreiche Bewältigung der situativen und kontextualen Anforderung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz ein Beispiel für?",
+    "output": "Eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Forschung zu lernförderlichen Lernumgebungen?",
+    "output": "Dass es sehr förderlich ist, den Lernenden eigenverantwortlich in die Lernprozesse einzubeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die Einbeziehung der Lernenden in die Lernprozesse erreicht werden?",
+    "output": "Die professionelle Pflegepraxis kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die gezielte Unterstützung durch Pflegebildungseinrichtungen erreicht werden?",
+    "output": "Die Professionalität in der Pflegebildung kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was muss die lernende Organisation anbieten?",
+    "output": "Geeignete und passende Rahmenbedingungen zur Verfügung stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo können Anregungen für die Weiterentwicklung der beraterischen Kompetenz gefunden werden?",
+    "output": "In den Veröffentlichungen zum europäischen und nationalen Qualifikationsrahmen für lebendiges Lernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat Veröffentlichungen zum Qualifikationsrahmen erstellt?",
+    "output": "Die Bund-Länder-Kommission (2004), das BMBF und die KMK (2006) und das BiBB (2007)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Weiterentwicklung der beraterischen Kompetenz?",
+    "output": "Die Erhaltung und Würdigung bereits vorhandener und praktizierter beraterischer Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz ein Teil von?",
+    "output": "Der erworbenen Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz notwendig für?",
+    "output": "Die erfolgreiche Bewältigung der situativen und kontextualen Anforderung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz ein Beispiel für?",
+    "output": "Eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz?",
+    "output": "Die beraterische Kompetenz ist eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Kompetenzentwicklung?",
+    "output": "Die Eigenverantwortlichkeit des Lernenden im Lernprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde in den Modellprojekten zur Pflegeausbildung in den vergangenen Jahren thematisiert?",
+    "output": "Der Wissenstransfer, die Kompetenzentwicklung und die Ausgestaltung zwischen dem betrieblichen und schulischen Lernort."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Lernanlässe?",
+    "output": "Eine fachliche und personale Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann der Anknüpfungspunkt für Beratungsprozesse sein?",
+    "output": "Die Thematisierung und Unterstützung methodisch-fachlicher Aspekte oder personale Aspekte des Lernprozesses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Forschung zu lernförderlichen Lernumgebungen?",
+    "output": "Dass es sehr förderlich ist, den Lernenden eigenverantwortlich in die Lernprozesse einzubeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die Einbeziehung der Lernenden in die Lernprozesse erreicht werden?",
+    "output": "Die professionelle Pflegepraxis kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die gezielte Unterstützung durch Pflegebildungseinrichtungen erreicht werden?",
+    "output": "Die Professionalität in der Pflegebildung kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo können Anregungen für die Weiterentwicklung der beraterischen Kompetenz gefunden werden?",
+    "output": "In den Veröffentlichungen zum europäischen und nationalen Qualifikationsrahmen für lebendiges Lernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat Veröffentlichungen zum Qualifikationsrahmen erstellt?",
+    "output": "Die Bund-Länder-Kommission (2004), das BMBF und die KMK (2006) und das BiBB (2007)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Weiterentwicklung der beraterischen Kompetenz?",
+    "output": "Die Erhaltung und Würdigung bereits vorhandener und praktizierter beraterischer Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz notwendig für?",
+    "output": "Die erfolgreiche Bewältigung der situativen und kontextualen Anforderung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz ein Beispiel für?",
+    "output": "Eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz?",
+    "output": "Die beraterische Kompetenz ist eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Kompetenzentwicklung?",
+    "output": "Die Eigenverantwortlichkeit des Lernenden im Lernprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde in den Modellprojekten zur Pflegeausbildung in den vergangenen Jahren thematisiert?",
+    "output": "Der Wissenstransfer, die Kompetenzentwicklung und die Ausgestaltung zwischen dem betrieblichen und schulischen Lernort."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Lernanlässe?",
+    "output": "Eine fachliche und personale Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann der Anknüpfungspunkt für Beratungsprozesse sein?",
+    "output": "Die Thematisierung und Unterstützung methodisch-fachlicher Aspekte oder personale Aspekte des Lernprozesses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Forschung zu lernförderlichen Lernumgebungen?",
+    "output": "Dass es sehr förderlich ist, den Lernenden eigenverantwortlich in die Lernprozesse einzubeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die Einbeziehung der Lernenden in die Lernprozesse erreicht werden?",
+    "output": "Die professionelle Pflegepraxis kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die gezielte Unterstützung durch Pflegebildungseinrichtungen erreicht werden?",
+    "output": "Die Professionalität in der Pflegebildung kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo können Anregungen für die Weiterentwicklung der beraterischen Kompetenz gefunden werden?",
+    "output": "In den Veröffentlichungen zum europäischen und nationalen Qualifikationsrahmen für lebendiges Lernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat Veröffentlichungen zum Qualifikationsrahmen erstellt?",
+    "output": "Die Bund-Länder-Kommission (2004), das BMBF und die KMK (2006) und das BiBB (2007)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Weiterentwicklung der beraterischen Kompetenz?",
+    "output": "Die Erhaltung und Würdigung bereits vorhandener und praktizierter beraterischer Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz notwendig für?",
+    "output": "Die erfolgreiche Bewältigung der situativen und kontextualen Anforderung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz ein Beispiel für?",
+    "output": "Eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die beraterische Kompetenz?",
+    "output": "Die beraterische Kompetenz ist eine erworbenen Kompetenz, die in der erfolgreichen Bewältigung der situativen und kontextualen Anforderung entäußert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für die Kompetenzentwicklung?",
+    "output": "Die Eigenverantwortlichkeit des Lernenden im Lernprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo ergeben sich Lernanlässe?",
+    "output": "In den realen Pflegesituationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Lernanlässe?",
+    "output": "Eine fachliche und personale Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann der Anknüpfungspunkt für Beratungsprozesse sein?",
+    "output": "Die Thematisierung und Unterstützung methodisch-fachlicher Aspekte oder personale Aspekte des Lernprozesses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Forschung zu lernförderlichen Lernumgebungen?",
+    "output": "Dass es sehr förderlich ist, den Lernenden eigenverantwortlich in die Lernprozesse einzubeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die Einbeziehung der Lernenden in die Lernprozesse erreicht werden?",
+    "output": "Die professionelle Pflegepraxis kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die gezielte Unterstützung durch Pflegebildungseinrichtungen erreicht werden?",
+    "output": "Die Professionalität in der Pflegebildung kann weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Überlegungen und Anregungen zur Weiterentwicklung?",
+    "output": "Die Entwicklung, Erhaltung und Würdigung bereits vorhandener und praktizierter beraterischer Kompetenzen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was lenkt der systemische Blick auf?",
+    "output": "Die Kontexte der Handelnden und der Handlungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was werden in der systemischen Perspektive betrachtet?",
+    "output": "Die interaktionellen Zusammenhänge und wechselseitigen Wirkungen zwischen organisationalen, räumlich-strukturellen, fachlichen, zeitlichen personellen, individuellen Werten und Bewertungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollte man Erfahrungen und Beschreibungen betrachten?",
+    "output": "Aus mindestens drei Perspektiven/Rollen heraus"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann systemische Beratung initiieren, unterstützen und reflektieren?",
+    "output": "Evolutions- und Entwicklungsprozesse und damit Lernprozesse"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann systemische Beratung die Chance geben, evolutionsprozess- bzw. lernprozessfördernde Informationen zu gewinnen?",
+    "output": "Indem auf Differenzen von System(en) und Umwelt(en) aufmerksam gemacht wird"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der wesentliche Gegenstandsbereich beraterischen Handelns?",
+    "output": "Die Bearbeitung der Fragen 'Was kann ich tun?'"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ergibt sich aus den Gütekriterien der systemischen Beratung?",
+    "output": "Die hohe Achtung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stärkt und stützt der systemische Berater?",
+    "output": "Den Beratung-Suchenden auf dem Weg zu seinem eigenen Selbst"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was thematisieren systemische Beratungssettings?",
+    "output": "Das noch nicht reflektierte implizite Wissen des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann systemische Beratung einen Beitrag zur Professionalisierung der Pflegeberufe leisten?",
+    "output": "Indem sie über die Möglichkeiten der Unterrichtung, der Praxisanleitung und der Praxisbegleitung hinausgeht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Überzeugung, die zur Frage nach der Beratung in der Pflege und Pflegebildung geführt hat?",
+    "output": "Dass beraten wird und Beratung ein wesentliches Tätigkeitsfeld in der Pflege und Pflegebildung darstellt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die systemische Beratung?",
+    "output": "Ein Angebot, das Evolutions- und Entwicklungsprozesse initiieren, unterstützen und reflektieren kann"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Lernprozess in der systemischen Beratung?",
+    "output": "Ein Prozess, der durch die Betrachtung von Differenzen zwischen Systemen und Umwelten gefördert wird"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Autonomie des Beratung-Suchenden stärken?",
+    "output": "Indem sie den Beratung-Suchenden auf dem Weg zu seinem eigenen Selbst stärkt und stützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des systemischen Beraters?",
+    "output": "Der systemische Berater erfüllt keine Lehrplanaufträge, sondern stärkt und stützt den Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Beratung in der Pflege?",
+    "output": "Die systemische Beratung ist ein wesentliches Tätigkeitsfeld in der Pflege und Pflegebildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflege verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der systemischen Beratung in der Pflegebildung?",
+    "output": "Die systemische Beratung ist ein wesentliches Tätigkeitsfeld in der Pflegebildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Lernprozesse in der Pflegebildung unterstützen?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Pflegebildung?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflegebildung verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung in der Pflegebildung?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Beratung in der Pflegelandschaft?",
+    "output": "Die systemische Beratung ist ein wesentliches Tätigkeitsfeld in der Pflegelandschaft"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflegelandschaft verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Pflegelandschaft?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Lernprozesse in der Pflegelandschaft unterstützen?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung in der Pflegelandschaft?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der systemischen Beratung in der Professionalisierung der Pflegeberufe?",
+    "output": "Die systemische Beratung ist ein wesentliches Tätigkeitsfeld in der Professionalisierung der Pflegeberufe"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Professionalisierung der Pflegeberufe fördern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Professionalisierung der Pflegeberufe?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflegeberufe verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung in der Professionalisierung der Pflegeberufe?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Beratung in der Pflege?",
+    "output": "Die systemische Beratung ist ein wesentliches Tätigkeitsfeld in der Pflege"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflege verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Pflege?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Lernprozesse in der Pflege unterstützen?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung in der Pflege?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der systemischen Beratung in der Pflegebildung?",
+    "output": "Die systemische Beratung ist ein wesentliches Tätigkeitsfeld in der Pflegebildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflegebildung verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Pflegebildung?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Lernprozesse in der Pflegebildung unterstützen?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung in der Pflegebildung?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Kommunikation zwischen den Beteiligten in der Pflegebildung verbessern?",
+    "output": "Indem sie die Betrachtung von Differenzen zwischen Systemen und Umwelten fördert"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflegelandschaft verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Pflegelandschaft?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Lernprozesse in der Pflegelandschaft unterstützen?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche systemische Beratung in der Pflegelandschaft?",
+    "output": "Die Achtung der Autonomie des Beratung-Suchenden und die Förderung von Evolutions- und Entwicklungsprozessen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Kommunikation zwischen den Beteiligten in der Pflegelandschaft verbessern?",
+    "output": "Indem sie die Betrachtung von Differenzen zwischen Systemen und Umwelten fördert"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Professionalisierung der Pflegeberufe fördern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung in der Professionalisierung der Pflegeberufe?",
+    "output": "Die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Qualität der Pflegeberufe verbessern?",
+    "output": "Indem sie die Förderung von Evolutions- und Entwicklungsprozessen und die Stärkung der Autonomie des Beratung-Suchenden unterstützt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was thematisieren systemische Beratungssettings?",
+    "output": "Das noch nicht reflektierte implizite Wissen des Beratung-Suchenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie helfen systemische Beratungssettings dem Lernenden?",
+    "output": "Sie helfen dem Lernenden, die Intuition, die Expertise gedanklich und sprachlich zu erfassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann systemische Beratung leisten?",
+    "output": "Systemische Beratung kann einen wesentlichen Beitrag zur Professionalisierung der Pflegeberufe leisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann systemische Beratung aufbauen?",
+    "output": "Systemische Beratung kann auf den Ressourcen der schulischen und betrieblichen Lernorte sowie den Berufsausbildungsgesetzen aufbauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die notwendigen Kompetenzen für die Beratung vermittelt werden?",
+    "output": "Die notwendigen Kompetenzen können frühzeitig vermittelt und erworben werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bieten die Pflegeeinrichtungen und Pflegeausbildungsstätten an?",
+    "output": "Die Pflegeeinrichtungen und Pflegeausbildungsstätten bieten Möglichkeiten für gezielte Beratungsangebote an."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedarf es für die Weiterentwicklung der Beratungshandlungen?",
+    "output": "Es bedarf differenzierter und spezifisch ausgerichteter Fort- und Weiterbildungsmaßnahmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind notwendig für die Erweiterung pflegeberuflicher Kompetenzen?",
+    "output": "Zusatzmodule systemischer Beratung auf Hochschulebene sind notwendig und sinnvoll."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo können systemische Beratungskompetenzen angebahnt werden?",
+    "output": "Systemische Beratungskompetenzen können innerhalb beruflicher und akademischer Erstausbildung angebahnt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollten die Fachgesellschaften vorantreiben?",
+    "output": "Die Fachgesellschaften sollten die Professionalisierungsprozesse von familienorientierter und arbeitsorientierter Beratung vorantreiben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bieten die Mindeststandards der DGSF und die DGfB an?",
+    "output": "Die Mindeststandards der DGSF und die DGfB bieten Orientierungen zur Konstruktion von Fort- und Weiterbildungsangeboten an."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind notwendig für die Beratungspraxis?",
+    "output": "Vielfältige Trainee-Programme sind notwendig für die Beratungspraxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wirkt sich der Professionalisierungsprozess der Pflege auf die zukünftigen Beratungssettings aus?",
+    "output": "Der Professionalisierungsprozess der Pflege wird sich auf die zukünftigen Beratungssettings in der Pflegelandschaft auswirken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was gilt die Aufmerksamkeit?",
+    "output": "Die Aufmerksamkeit gilt insbesondere den zukünftigen Forschungsbeiträgen zu den vielfältigen Facetten von Beratungsthemen in der Pflege und Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die blinden Flecken in der Forschung?",
+    "output": "Die blinden Flecken sind noch sehr groß in der Forschung zu den vielfältigen Facetten von Beratungsthemen in der Pflege und Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Prozesse der Beratung und der Pflege miteinander verknüpft werden?",
+    "output": "Die Prozesse der Beratung und der Pflege können parallel derzeit entwickelnden Prozesse miteinander sinnhaft verknüpft werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die gemeinsamen Projekte der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Gemeinsame Projekte der Sozialen Arbeit und dem Gesundheitswesen können entstehen und in systemisch- und/oder fachlich ausgerichteten Foren sektorenübergreifende Impulse entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Verantwortlichen für systemische Settings?",
+    "output": "Nicht nur Einzelne, sondern auch Institutionen und Träger sind mitverantwortlich für systemische Settings."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflege?",
+    "output": "Beratung ist integraler Bestandteil vom Pflegehandeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege verbessert werden?",
+    "output": "Die Beratung in der Pflege kann durch systemische Beratungskompetenzen und Fort- und Weiterbildungsmaßnahmen verbessert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der systemischen Beratung?",
+    "output": "Die Ziele der systemischen Beratung sind die Professionalisierung der Pflegeberufe und die Verbesserung der Beratung in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege umgesetzt werden?",
+    "output": "Die systemische Beratung kann in der Pflege durch die Implementierung von Zusatzmodulen systemischer Beratung auf Hochschulebene und die Förderung von Fort- und Weiterbildungsmaßnahmen umgesetzt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen bei der Implementierung der systemischen Beratung?",
+    "output": "Die Herausforderungen bei der Implementierung der systemischen Beratung sind die Notwendigkeit von differenzierten und spezifisch ausgerichteten Fort- und Weiterbildungsmaßnahmen und die Abhängigkeit von den Ressourcen der schulischen und betrieblichen Lernorte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege evaluiert werden?",
+    "output": "Die Beratung in der Pflege kann durch die Erforschung der Wirksamkeit von Beratungsangeboten und die Entwicklung von Evaluationsinstrumenten evaluiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die ethischen Aspekte der systemischen Beratung?",
+    "output": "Die ethischen Aspekte der systemischen Beratung sind die Notwendigkeit von Transparenz, die Wahrung der Vertraulichkeit und die Beachtung der Autonomie des Klienten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflegepraxis umgesetzt werden?",
+    "output": "Die systemische Beratung kann in der Pflegepraxis durch die Integration von Beratungskompetenzen in die Pflegeprozesse und die Förderung von Kooperation und Kommunikation zwischen den Pflegekräften umgesetzt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der systemischen Beratung in der Pflege?",
+    "output": "Die Vorteile der systemischen Beratung in der Pflege sind die Verbesserung der Pflegequalität, die Steigerung der Patientenzufriedenheit und die Förderung der Professionalisierung der Pflegeberufe."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege weiterentwickelt werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Förderung von Forschung und Entwicklung, die Implementierung von innovativen Beratungsansätzen und die Stärkung der Kooperation zwischen den Pflegekräften weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grenzen der systemischen Beratung in der Pflege?",
+    "output": "Die Grenzen der systemischen Beratung in der Pflege sind die Notwendigkeit von Ressourcen, die Abhängigkeit von den Fähigkeiten und der Erfahrung der Pflegekräfte und die möglichen Widerstände gegen die Implementierung von Veränderungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflegepraxis gestärkt werden?",
+    "output": "Die systemische Beratung in der Pflegepraxis kann durch die Förderung von Fort- und Weiterbildungsmaßnahmen, die Implementierung von Qualitätsmanagement-Systemen und die Stärkung der Führungskompetenz der Pflegekräfte gestärkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren für die Implementierung der systemischen Beratung?",
+    "output": "Die Erfolgsfaktoren für die Implementierung der systemischen Beratung sind die Unterstützung der Führungskräfte, die Beteiligung der Pflegekräfte und die Verfügbarkeit von Ressourcen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege evaluiert werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Erforschung der Wirksamkeit von Beratungsangeboten, die Entwicklung von Evaluationsinstrumenten und die Durchführung von Qualitätsaudits evaluiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Evaluation der systemischen Beratung?",
+    "output": "Die Ziele der Evaluation der systemischen Beratung sind die Überprüfung der Wirksamkeit von Beratungsangeboten, die Identifizierung von Verbesserungspotentialen und die Förderung der Qualitätssicherung in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege weiterentwickelt werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Förderung von Forschung und Entwicklung, die Implementierung von innovativen Beratungsansätzen und die Stärkung der Kooperation zwischen den Pflegekräften weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grenzen der systemischen Beratung in der Pflege?",
+    "output": "Die Grenzen der systemischen Beratung in der Pflege sind die Notwendigkeit von Ressourcen, die Abhängigkeit von den Fähigkeiten und der Erfahrung der Pflegekräfte und die möglichen Widerstände gegen die Implementierung von Veränderungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflegepraxis gestärkt werden?",
+    "output": "Die systemische Beratung in der Pflegepraxis kann durch die Förderung von Fort- und Weiterbildungsmaßnahmen, die Implementierung von Qualitätsmanagement-Systemen und die Stärkung der Führungskompetenz der Pflegekräfte gestärkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren für die Implementierung der systemischen Beratung?",
+    "output": "Die Erfolgsfaktoren für die Implementierung der systemischen Beratung sind die Unterstützung der Führungskräfte, die Beteiligung der Pflegekräfte und die Verfügbarkeit von Ressourcen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege evaluiert werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Erforschung der Wirksamkeit von Beratungsangeboten, die Entwicklung von Evaluationsinstrumenten und die Durchführung von Qualitätsaudits evaluiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Evaluation der systemischen Beratung?",
+    "output": "Die Ziele der Evaluation der systemischen Beratung sind die Überprüfung der Wirksamkeit von Beratungsangeboten, die Identifizierung von Verbesserungspotentialen und die Förderung der Qualitätssicherung in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege weiterentwickelt werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Förderung von Forschung und Entwicklung, die Implementierung von innovativen Beratungsansätzen und die Stärkung der Kooperation zwischen den Pflegekräften weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grenzen der systemischen Beratung in der Pflege?",
+    "output": "Die Grenzen der systemischen Beratung in der Pflege sind die Notwendigkeit von Ressourcen, die Abhängigkeit von den Fähigkeiten und der Erfahrung der Pflegekräfte und die möglichen Widerstände gegen die Implementierung von Veränderungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflegepraxis gestärkt werden?",
+    "output": "Die systemische Beratung in der Pflegepraxis kann durch die Förderung von Fort- und Weiterbildungsmaßnahmen, die Implementierung von Qualitätsmanagement-Systemen und die Stärkung der Führungskompetenz der Pflegekräfte gestärkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren für die Implementierung der systemischen Beratung?",
+    "output": "Die Erfolgsfaktoren für die Implementierung der systemischen Beratung sind die Unterstützung der Führungskräfte, die Beteiligung der Pflegekräfte und die Verfügbarkeit von Ressourcen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege evaluiert werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Erforschung der Wirksamkeit von Beratungsangeboten, die Entwicklung von Evaluationsinstrumenten und die Durchführung von Qualitätsaudits evaluiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Evaluation der systemischen Beratung?",
+    "output": "Die Ziele der Evaluation der systemischen Beratung sind die Überprüfung der Wirksamkeit von Beratungsangeboten, die Identifizierung von Verbesserungspotentialen und die Förderung der Qualitätssicherung in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege weiterentwickelt werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Förderung von Forschung und Entwicklung, die Implementierung von innovativen Beratungsansätzen und die Stärkung der Kooperation zwischen den Pflegekräften weiterentwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grenzen der systemischen Beratung in der Pflege?",
+    "output": "Die Grenzen der systemischen Beratung in der Pflege sind die Notwendigkeit von Ressourcen, die Abhängigkeit von den Fähigkeiten und der Erfahrung der Pflegekräfte und die möglichen Widerstände gegen die Implementierung von Veränderungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflegepraxis gestärkt werden?",
+    "output": "Die systemische Beratung in der Pflegepraxis kann durch die Förderung von Fort- und Weiterbildungsmaßnahmen, die Implementierung von Qualitätsmanagement-Systemen und die Stärkung der Führungskompetenz der Pflegekräfte gestärkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren für die Implementierung der systemischen Beratung?",
+    "output": "Die Erfolgsfaktoren für die Implementierung der systemischen Beratung sind die Unterstützung der Führungskräfte, die Beteiligung der Pflegekräfte und die Verfügbarkeit von Ressourcen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung in der Pflege evaluiert werden?",
+    "output": "Die systemische Beratung in der Pflege kann durch die Erforschung der Wirksamkeit von Beratungsangeboten, die Entwicklung von Evaluationsinstrumenten und die Durchführung von Qualitätsaudits evaluiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie könnte die Soziale Arbeit und das Gesundheitswesen zusammenarbeiten?",
+    "output": "Durch gemeinsame Projekte und sektorenübergreifende Impulse in systemisch- und/oder fachlich ausgerichteten Foren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trägt die Verantwortung in systemischen Settings?",
+    "output": "Nicht nur Einzelne, sondern auch Institutionen und Träger sind mitverantwortlich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ziel der Autorinnen?",
+    "output": "Das Ziel war, die Möglichkeiten und Grenzen von Beratung in den Handlungsfeldern von Pflege und Pflegeausbildung auszuloten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verliefen die Professionalisierungsbestrebungen im Feld Beratung und Pflege?",
+    "output": "Sie verliefen parallel zueinander, aber dennoch in Beziehung zueinander."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erscheint den Autorinnen als wesentlich?",
+    "output": "Betroffene zu Beteiligten zu machen und miteinander die spezifischen Problemstellungen zu behandeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollen die Problemstellungen behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können politische und kulturelle Fragen berücksichtigt werden?",
+    "output": "Sie müssen von der Gesellschaft und ihren Systemen immer mitbedacht werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Beispiel für eine sektorenübergreifende Zusammenarbeit?",
+    "output": "Gemeinsame Projekte der Sozialen Arbeit und dem Gesundheitswesen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der systemischen Settings?",
+    "output": "Nicht nur Einzelne, sondern auch Institutionen und Träger mitverantwortlich zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie Impulse für weitere Entwicklung geben und die Möglichkeiten und Grenzen von Beratung ausloten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflege und Beratung?",
+    "output": "Sie verlaufen parallel zueinander, aber dennoch in Beziehung zueinander."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Settings?",
+    "output": "Die Mitverantwortung von Institutionen und Trägern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflegeausbildung?",
+    "output": "Sie verlaufen parallel zu den Prozessen in der Beratung und Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Settings?",
+    "output": "Die Mitverantwortung von Institutionen und Trägern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Autorinnen?",
+    "output": "Impulse für weitere Entwicklung zu geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflege?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflege und Beratung?",
+    "output": "Sie verlaufen parallel zueinander, aber dennoch in Beziehung zueinander."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Autorinnen?",
+    "output": "Impulse für weitere Entwicklung zu geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflegeausbildung?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflegeausbildung?",
+    "output": "Sie verlaufen parallel zu den Prozessen in der Beratung und Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Autorinnen?",
+    "output": "Impulse für weitere Entwicklung zu geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflege?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflege und Beratung?",
+    "output": "Sie verlaufen parallel zueinander, aber dennoch in Beziehung zueinander."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Autorinnen?",
+    "output": "Impulse für weitere Entwicklung zu geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflegeausbildung?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflegeausbildung?",
+    "output": "Sie verlaufen parallel zu den Prozessen in der Beratung und Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Autorinnen?",
+    "output": "Impulse für weitere Entwicklung zu geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflege?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflege und Beratung?",
+    "output": "Sie verlaufen parallel zueinander, aber dennoch in Beziehung zueinander."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Settings?",
+    "output": "Die Mitverantwortung von Institutionen und Trägern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflegeausbildung?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflegeausbildung?",
+    "output": "Sie verlaufen parallel zu den Prozessen in der Beratung und Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Settings?",
+    "output": "Die Mitverantwortung von Institutionen und Trägern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflege?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflege und Beratung?",
+    "output": "Sie verlaufen parallel zueinander, aber dennoch in Beziehung zueinander."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Settings?",
+    "output": "Die Mitverantwortung von Institutionen und Trägern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflegeausbildung?",
+    "output": "Beratung ist ein integraler Bestandteil des Pflegehandelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verlaufen die Prozesse der Professionalisierung in der Pflegeausbildung?",
+    "output": "Sie verlaufen parallel zu den Prozessen in der Beratung und Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Settings?",
+    "output": "Die Mitverantwortung von Institutionen und Trägern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Problemstellungen in der Pflege und Pflegebildung behandelt werden?",
+    "output": "Prozesshaft und im Kontext sich verändernder gesellschaftlicher und wissenschaftlicher Rahmungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beziehung zwischen der Sozialen Arbeit und dem Gesundheitswesen?",
+    "output": "Sie können durch gemeinsame Projekte und sektorenübergreifende Impulse zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Autorinnen ihre Ziele erreichen?",
+    "output": "Indem sie die Möglichkeiten und Grenzen von Beratung ausloten und Impulse für weitere Entwicklung geben."
+  }
+]

@@ -1,0 +1,2127 @@
+[
+  {
+    "instruction": "Was ist das Ziel der Forschung?",
+    "input": "",
+    "output": "Das Ziel ist es, aus dem empirischen Material die professionellen Handlungsstrategien zu rekonstruieren, welche die Berater_innen innerhalb der Spannungsfelder von beruflichem Selbstverst\u00e4ndnis und sozialstrukturellen Rahmenbedingungen entwickeln."
+  },
+  {
+    "instruction": "Wie wird die Forschungsfrage in Teilschritte gegliedert?",
+    "input": "",
+    "output": "Die Forschungsfrage wird in drei Teilschritte gegliedert: Zuerst wird untersucht, welches berufliche Selbstverst\u00e4ndnis die Interviewpartner_innen mit Anerkennungsberatung verbinden, dann werden die Rahmenbedingungen dargestellt, die von den Interviewpartner_innen als erm\u00f6glichende oder eingrenzende Handlungsbedingungen diskutiert werden, und abschlie\u00dfend werden die professionellen Handlungsstrategien in Beziehung zu dem beruflichen Selbstverst\u00e4ndnis gesetzt."
+  },
+  {
+    "instruction": "Was wird im ersten Teil des Interviewleitfadens erhoben?",
+    "input": "",
+    "output": "Im ersten Teil des Interviewleitfadens wird die Erhebung der berufsbio-grafischen Daten der Interviewpartner_innen, der Qualifikationen im Team und der Ausgestaltung der Beratungsstellen durchgef\u00fchrt."
+  },
+  {
+    "instruction": "Wie werden die Informationen zu den Beratungsstellen erg\u00e4nzt?",
+    "input": "",
+    "output": "Die Informationen zu den Beratungsstellen werden durch systematische Beobachtungen w\u00e4hrend der Besuche erg\u00e4nzt."
+  },
+  {
+    "instruction": "Wie wurden die Informationen zu den Interviewpartner_innen erhoben?",
+    "input": "",
+    "output": "Die Informationen wurden durch die Interviewpartner_innen eingebracht oder durch Beobachtungen zum Zeitpunkt des Besuchs zug\u00e4nglich."
+  },
+  {
+    "instruction": "Was wurde den Interviewpartner_innen zu Beginn der Interviews gefragt?",
+    "input": "",
+    "output": "Zu Beginn der Interviews wurde nach den individuellen Berufsbiografien gefragt."
+  },
+  {
+    "instruction": "Wie wurden die Antworten der Interviewpartner_innen vergleichbar gehalten?",
+    "input": "",
+    "output": "Im Verlauf des Interviews wurden gezielt zus\u00e4tzliche Informationen nachgefragt, um die Antworten vergleichbar zu halten."
+  },
+  {
+    "instruction": "Wie viele Beratungsstellen in \u00d6sterreich und Deutschland wurden f\u00fcr die Interpretation des Datenmaterials ber\u00fccksichtigt?",
+    "input": "",
+    "output": "In \u00d6sterreich wurden alle f\u00fcnf Beratungsstellen an den vier Standorten ber\u00fccksichtigt, w\u00e4hrend in Deutschland nur ein sehr begrenzter Einblick in ausgew\u00e4hlte Beratungsstellen in zwei Bundesl\u00e4ndern gegeben wird."
+  },
+  {
+    "instruction": "Wie wurden die Interviewpartner_innen f\u00fcr die Darstellung aufgeteilt?",
+    "input": "",
+    "output": "Die Interviewpartner_innen wurden nach ihrer beruflichen Position in die Koordinations- oder Beratungsebene aufgeteilt."
+  },
+  {
+    "instruction": "Wie viele Personen \u00fcbernehmen ausschlie\u00dflich Aufgaben in der Koordination?",
+    "input": "",
+    "output": "In \u00d6sterreich zwei und in Deutschland eine Person der insgesamt zw\u00f6lf interviewten Personen \u00fcbernehmen ausschlie\u00dflich Aufgaben in der Koordination."
+  },
+  {
+    "instruction": "Was beschreiben die drei Personen mit ausschlie\u00dflich koordinierenden T\u00e4tigkeiten interview\u00fcbergreifend?",
+    "input": "",
+    "output": "Eine starke Verschr\u00e4nkung ihrer individuellen Berufsbiografie mit der institutionellen Entwicklung der Anerkennungsberatung."
+  },
+  {
+    "instruction": "In welchem Bereich waren die Akteur_innen im Kontext der Migrationsberatung t\u00e4tig?",
+    "input": "",
+    "output": "Im migrationspolitischen Bereich und im Bereich der Anerkennungsberatung."
+  },
+  {
+    "instruction": "Was war die Motivation zur Entwicklung einer eigenst\u00e4ndigen Fachberatung?",
+    "input": "",
+    "output": "Der Bedarf der Zielgruppe, der innerhalb des spezifischen Arbeitsfeldes deutlich geworden war."
+  },
+  {
+    "instruction": "Welche Tradition hatte die Fachberatung in \u00d6sterreich und Deutschland?",
+    "input": "",
+    "output": "Eine Tradition aus dem arbeitsmarktpolitischen, recht- und ausl\u00e4nderrechtlichen Bereich."
+  },
+  {
+    "instruction": "Wie entwickelte sich die Anerkennungsberatung in Deutschland?",
+    "input": "",
+    "output": "Parallel zum Prozess der Weiterentwicklung der gesetzlichen Strukturen und als Reaktion auf die begrenzten Einsatzm\u00f6glichkeiten bestehender Ans\u00e4tze und Instrumente."
+  },
+  {
+    "instruction": "Wann und wie wurde die erste Anerkennungsberatung in Deutschland etabliert?",
+    "input": "",
+    "output": "2007, durch die Konzeptionierung und Erprobung einer Beratungsform, die die formale Anerkennung von Qualifikationen aufgreift."
+  },
+  {
+    "instruction": "Wann wurde in \u00d6sterreich die Anerkennungsberatung als spezifische Fachberatung angeboten?",
+    "input": "",
+    "output": "Seit 2006."
+  },
+  {
+    "instruction": "Wie viele Bundesl\u00e4nder in \u00d6sterreich haben Anlaufstellen f\u00fcr Anerkennungsberatung?",
+    "input": "",
+    "output": "Alle Bundesl\u00e4nder."
+  },
+  {
+    "instruction": "Wie ist die Struktur der Anerkennungsberatung in \u00d6sterreich organisiert?",
+    "input": "",
+    "output": "Es handelt sich um ein Netzwerk von eigenst\u00e4ndigen Vereinen, die jeweils f\u00fcr ein bis zwei Bundesl\u00e4nder zust\u00e4ndig sind."
+  },
+  {
+    "instruction": "Was ist das Ziel der Koordinierungsstelle in \u00d6sterreich?",
+    "input": "",
+    "output": "Das Ziel ist es, eine m\u00f6glichst einheitliche Qualit\u00e4t von der Anerkennungsberatung in allen Bundesl\u00e4ndern zu gew\u00e4hrleisten."
+  },
+  {
+    "instruction": "Wie werden die Beratungsstandards in \u00d6sterreich vereinheitlicht?",
+    "input": "",
+    "output": "Durch den Aufbau gemeinsamer Standards und die organisations\u00fcbergreifende Qualit\u00e4tsicherung."
+  },
+  {
+    "instruction": "Welche Aufgaben \u00fcbernimmt die Koordinierungsstelle in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Koordinierungsstelle \u00fcbernimmt organisations\u00fcbergreifende Aufgaben in der Berichterstattung und der Veranstaltung von Tagungen, Seminaren und Austauschrunden mit relevanten bildungs- und arbeitsmarktpolitischen Einrichtungen."
+  },
+  {
+    "instruction": "Was sind die Aufgaben der Koordinierungsstelle in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Koordinierungsstelle in \u00d6sterreich \u00fcbernimmt organisations\u00fcbergreifende Aufgaben in der Berichterstattung und der Veranstaltung von Tagungen, Seminaren und Austauschrunden mit relevanten bildungs- und arbeitsmarktpolitischen Einrichtungen."
+  },
+  {
+    "instruction": "Wie wird die Qualit\u00e4tssicherung in Deutschland diskutiert?",
+    "input": "",
+    "output": "In Deutschland wird ein institutionen\u00fcbergreifendes System der Qualit\u00e4tssicherung diskutiert, bei dem die Beratungsstellen im Rahmen des IQ-Netzwerkes deutschlandweit vernetzt und organisiert sind."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Beratungserfahrung f\u00fcr die Leitung einer Beratungsstelle?",
+    "input": "",
+    "output": "Die Beratungserfahrung wird als wichtig erachtet, um eine leitende Funktion innerhalb der Beratungsstelle und repr\u00e4sentative Aufgaben nach au\u00dfen wahrnehmen zu k\u00f6nnen und f\u00fcr die aktive Mitgestaltung und konzeptionelle Weiterentwicklung der Anerkennungsberatung."
+  },
+  {
+    "instruction": "Wie entwickelte sich die Anerkennungsberatung in Deutschland?",
+    "input": "",
+    "output": "Die Anerkennungsberatung entwickelte sich in Deutschland aus der bestehenden Beratungspraxis heraus, insbesondere nach der Ver\u00f6ffentlichung der Studie 'Brain Waste' im Jahr 2007."
+  },
+  {
+    "instruction": "Was war das Ziel der ersten Studien zur Anerkennung im Ausland erworbener Qualifikationen in Deutschland und \u00d6sterreich?",
+    "input": "",
+    "output": "Das Ziel der ersten Studien war es, einen umfassenden \u00dcberblick \u00fcber das rechtliche Anerkennungssystem und die unterschiedlichen Zust\u00e4ndigkeiten im Anerkennungsprozess zu geben."
+  },
+  {
+    "instruction": "Wie reagierten Beratungsstellen auf die zunehmende Auseinandersetzung mit dem Thema der Anerkennung von im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Beratungsstellen, insbesondere Migrationsberatungsstellen, \u00fcbernahmen das Aufgabenfeld der Anerkennungsberatung als Querschnittsaufgabe und entwickelten ihre Beratungst\u00e4tigkeit entsprechend weiter."
+  },
+  {
+    "instruction": "Warum war es notwendig, die Anerkennungsberatung aufzubauen?",
+    "input": "",
+    "output": "Die Anerkennungsberatung war notwendig, um die fehlende Transparenz auf rechtlicher Ebene durch personenbezogene Beratung auszugleichen und die betroffenen Personen in diesem System zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie ver\u00e4nderte sich die Beratungspraxis durch den Zuzug von (hoch-)qualifizierten Migrant_innen?",
+    "input": "",
+    "output": "Die Beratungspraxis ver\u00e4nderte sich durch den Zuzug von (hoch-)qualifizierten Migrant_innen, da die Beratungsanliegen sich \u00e4nderten und neues Fachwissen der Berater_innen erforderten."
+  },
+  {
+    "instruction": "Welche Herausforderungen gab es in der Beratungspraxis bei der Bearbeitung von Beratungsanliegen?",
+    "input": "",
+    "output": "Die Beratungsanliegen konnten aufgrund des fehlenden Beratungsauftrags und begrenzter Ressourcen nicht ausreichend ber\u00fccksichtigt werden und es gab keine entsprechenden Angebotsstrukturen, um die Ratsuchenden an geeignete Stellen weiterzuvermitteln."
+  },
+  {
+    "instruction": "Warum war es wichtig, die Anerkennungsberatung als eigenst\u00e4ndiges Beratungsangebot zu etablieren?",
+    "input": "",
+    "output": "Die Anerkennungsberatung als eigenst\u00e4ndiges Beratungsangebot erm\u00f6glicht die Spezialisierung und den Einsatz entsprechender zeitlicher und fachlicher Ressourcen, was f\u00fcr andere Beratungsstellen eine Form der Entlastung darstellt."
+  },
+  {
+    "instruction": "Welche Qualifikationen haben die meisten Berater_innen in den Beratungsstellen?",
+    "input": "",
+    "output": "Die Mehrzahl der Berater_innen verf\u00fcgt \u00fcber eine akademische Qualifikation im p\u00e4dagogischen Bereich, insbesondere sozialp\u00e4dagogische Abschl\u00fcsse."
+  },
+  {
+    "instruction": "Welche Erfahrungen haben die Interviewpartner_innen aus \u00d6sterreich?",
+    "input": "",
+    "output": "Fast alle Interviewpartner_innen aus \u00d6sterreich verf\u00fcgen \u00fcber im Ausland erworbene Qualifikationen und k\u00f6nnen auf biografische Erfahrungen mit dem Anerkennungsprozess zur\u00fcckgreifen."
+  },
+  {
+    "instruction": "Warum haben die meisten Berater_innen eine weitere Ausbildung oder Zertifizierung abgeschlossen?",
+    "input": "",
+    "output": "Die meisten Berater_innen haben aufgrund fehlender M\u00f6glichkeiten der Anerkennung im p\u00e4dagogischen Bereich in \u00d6sterreich eine weitere Ausbildung oder Zertifizierung abgeschlossen, um ihre Qualifikationen anerkennen zu lassen."
+  },
+  {
+    "instruction": "Welche Bedeutung haben die formal erworbenen Qualifikationen f\u00fcr die Interviewpartner_innen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die formal erworbenen Qualifikationen haben eine geringere Bedeutung f\u00fcr die Interviewpartner_innen in der Anerkennungsberatung, w\u00e4hrend die Berufserfahrung eine gr\u00f6\u00dfere Rolle spielt."
+  },
+  {
+    "instruction": "Welche fachlichen Schwerpunkte werden von den Interviewpartner_innen genannt, die bereits vor Beginn der Anerkennungsberatung in dem Arbeitsfeld t\u00e4tig waren?",
+    "input": "",
+    "output": "Die Interviewpartner_innen nennen vor allem die Rechts- und Sozialberatung f\u00fcr Migrant_innen sowie verschiedene Formen von Kompetenzberatungen als fachliche Schwerpunkte."
+  },
+  {
+    "instruction": "Warum ist die Berufserfahrung f\u00fcr die Interviewpartner_innen in der Anerkennungsberatung wichtig?",
+    "input": "",
+    "output": "Die Berufserfahrung ist wichtig, weil die Interviewpartner_innen ihre berufliche Position in der Anerkennungsberatung prim\u00e4r auf ihre Berufserfahrung zur\u00fcckf\u00fchren."
+  },
+  {
+    "instruction": "Welche Rolle spielen die Qualifikationen und Kompetenzen der Berater_innen in der Entwicklung eines gemeinsamen Beratungsverst\u00e4ndnisses?",
+    "input": "",
+    "output": "Die Qualifikationen und Kompetenzen der Berater_innen spielen eine gro\u00dfe Rolle in der Entwicklung eines gemeinsamen Beratungsverst\u00e4ndnisses, da sie die Grundlage f\u00fcr die Beschreibung und Definition von Anerkennungsberatung als eigenst\u00e4ndige Beratungsleistung bilden."
+  },
+  {
+    "instruction": "Welche Qualifikationen haben die Interviewpartner_innen?",
+    "input": "",
+    "output": "Die Interviewpartner_innen haben verschiedene Qualifikationen, wie z.B. Sozialp\u00e4dagogik, Soziale Arbeit, P\u00e4dagogik, Bildungswissenschaft, Bildungsberatung, Sprachstudium und Rechts- und Politikwissenschaften."
+  },
+  {
+    "instruction": "Haben die Interviewpartner_innen Erfahrungen mit der Anerkennung im Ausland erworbener Qualifikationen?",
+    "input": "",
+    "output": "Ja, einige Interviewpartner_innen haben Erfahrungen mit der Anerkennung im Ausland erworbener Qualifikationen, andere nicht."
+  },
+  {
+    "instruction": "Welche Berufserfahrung haben die Interviewpartner_innen?",
+    "input": "",
+    "output": "Die Interviewpartner_innen haben langj\u00e4hrige Berufserfahrung in verschiedenen Bereichen, wie z.B. Anerkennung im Ausland erworbener Qualifikationen, Berufsorientierung, Jugendberufshilfe, Bewerbungscoaching und arbeitsmarktpolitische Beratung."
+  },
+  {
+    "instruction": "Wie setzen sich die Teams in den Beratungsstellen zusammen?",
+    "input": "",
+    "output": "Die Teams in den Beratungsstellen setzen sich interdisziplin\u00e4r zusammen, mit Qualifikationen aus dem p\u00e4dagogischen und sozialen Bereich."
+  },
+  {
+    "instruction": "Welche Qualifikationen sind f\u00fcr die Einstellung als Berater_in in diesem Feld relevant?",
+    "input": "",
+    "output": "Qualifikationen aus dem p\u00e4dagogischen und sozialen Bereich sind f\u00fcr die Einstellung als Berater_in in diesem Feld von Bedeutung."
+  },
+  {
+    "instruction": "Welche Bedeutung haben Sprachkenntnisse f\u00fcr die Beratung in der Migrationsgesellschaft?",
+    "input": "",
+    "output": "Mehrsprachigkeit ist ein wichtiges Kriterium bei der Einstellung von Berater_innen, um muttersprachliche Beratung anbieten zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie wichtig ist die p\u00e4dagogische Ausbildung f\u00fcr Berater_innen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine p\u00e4dagogische Ausbildung ist eine Grundvoraussetzung f\u00fcr Berater_innen in der Anerkennungsberatung."
+  },
+  {
+    "instruction": "Wie wird die Mehrsprachigkeit in der Anerkennungsberatung umgesetzt?",
+    "input": "",
+    "output": "Die Beratungsstellen bieten ihre Dienste in mehreren Sprachen an, um muttersprachliche Beratung zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "Welche Auswirkungen hat die Mehrsprachigkeit auf die Einstellung von Berater_innen?",
+    "input": "",
+    "output": "Die Mehrsprachigkeit ist ein wichtiges Kriterium bei der Einstellung von Berater_innen, um eine breite Palette von Sprachen abdecken zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie wird die formale Qualifikation von Berater_innen in Einrichtungen mit langj\u00e4hriger Arbeitserfahrung im Migrationsbereich bewertet?",
+    "input": "",
+    "output": "Die formale Qualifikation wird nicht zwangsl\u00e4ufig als entscheidende Voraussetzung f\u00fcr Beratungskompetenz gesehen."
+  },
+  {
+    "instruction": "Warum wurde der Schwerpunkt in der Anerkennungsberatung nicht ausschlie\u00dflich auf formale Qualifikationen gelegt?",
+    "input": "",
+    "output": "Der Schwerpunkt wurde nicht ausschlie\u00dflich auf formale Qualifikationen gelegt, weil die spezifischen formalen Abschl\u00fcsse, die auf die Beratungsarbeit im Migrationsbereich abgestimmt sind, sich erst parallel zum Aufbau der Beratung entwickelt haben."
+  },
+  {
+    "instruction": "Welche M\u00f6glichkeiten der Zertifizierung gibt es f\u00fcr Personen mit im Ausland erworbenen Qualifikationen in \u00d6sterreich?",
+    "input": "",
+    "output": "Es gibt die M\u00f6glichkeit der Zertifizierung als Erwachsenenbildner_in durch die Weiterbildungsakademie, mit der M\u00f6glichkeit, einen Schwerpunkt auf Beratung als erwachsenenp\u00e4dagogisches Handlungsfeld zu legen."
+  },
+  {
+    "instruction": "Was ist die Abgrenzung von etablierten Qualifikationen und bekannten Zug\u00e4ngen wichtig f\u00fcr?",
+    "input": "",
+    "output": "Die Entwicklung eines neuen Beratungsangebotes."
+  },
+  {
+    "instruction": "Wie wichtig ist es, interdisziplin\u00e4r zu arbeiten, in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Sehr wichtig, da in diesem Bereich interdisziplin\u00e4res Arbeiten erforderlich ist."
+  },
+  {
+    "instruction": "Welche Rolle spielen fachliche Weiterbildungen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine zentrale Rolle, da es keine konkreten Rezepte gibt und Beraterinnen mit l\u00e4ngerer Beratungserfahrung eine wichtige Funktion \u00fcbernehmen."
+  },
+  {
+    "instruction": "Wie werden in \u00d6sterreich spezifische Weiterbildungen f\u00fcr die Anerkennungsberatung organisiert?",
+    "input": "",
+    "output": "\u00dcber die Koordinierungsstelle, die Vor-Ort-Besuche in den Bundesl\u00e4ndern organisiert, um Erfahrungen weiterzugeben."
+  },
+  {
+    "instruction": "Wie wichtig ist der fachliche Austausch zwischen den Beraterinnen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Sehr wichtig, da er es erm\u00f6glicht, Erfahrungen auszutauschen und Fallkonstellationen zu besprechen."
+  },
+  {
+    "instruction": "Welche Rolle spielt der fachliche Austausch zwischen den Berater_innen?",
+    "input": "",
+    "output": "Dem fachlichen Austausch zwischen den Berater_innen wird eine wichtige Rolle zugeschrieben, um einen guten Austausch \u00fcber bestimmte Fallkonstellationen, Berufe und Erfahrungen zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "Wie sieht das institutionelle Feld an Tr\u00e4gern in Deutschland aus?",
+    "input": "",
+    "output": "In Deutschland zeigt sich ein sehr heterogenes Feld an institutionellen Tr\u00e4gern, das von niedrigschwelligen Beratungsstellen bis hin zu etablierten Wohlfahrtsverb\u00e4nden und st\u00e4dtischen Beratungsstellen reicht."
+  },
+  {
+    "instruction": "Welche Vorteile haben \u00f6ffentliche Tr\u00e4ger in der Beratungsarbeit?",
+    "input": "",
+    "output": "\u00d6ffentliche Tr\u00e4ger haben Vorteile in den Netzwerkstrukturen und der \u00d6ffentlichkeitsarbeit, da sie als \u00f6ffentlich anerkannt wahrgenommen werden und die Zusammenarbeit mit den Beh\u00f6rden erleichtert wird."
+  },
+  {
+    "instruction": "Welche Vorteile haben kirchliche Tr\u00e4ger in der Beratungsarbeit?",
+    "input": "",
+    "output": "Kirchliche Tr\u00e4ger haben Vorteile in dem Bekanntheitsgrad bei der Zielgruppe und k\u00f6nnen auf langj\u00e4hrige Beratungserfahrung im Migrationsbereich zur\u00fcckgreifen, was ein Vertrauensverh\u00e4ltnis der Klient_innen in die Institutionen entstehen l\u00e4sst."
+  },
+  {
+    "instruction": "Was ist die institutionelle Verortung von Anerkennungsberatung?",
+    "input": "",
+    "output": "Die institutionelle Verortung von Anerkennungsberatung stellt eine wichtige Rahmenbedingung f\u00fcr die Ausgestaltung des Beratungsauftrags und des beruflichen Selbstverst\u00e4ndnisses der Berater_innen dar."
+  },
+  {
+    "instruction": "Welche Aufgabengebiete und Prinzipien sind Gegenstand der Analyse und Interpretation der Expert_inneninterviews?",
+    "input": "",
+    "output": "Die Aufgabengebiete und Prinzipien, welche institutionen- und l\u00e4nder\u00fcbergreifend das Selbstverst\u00e4ndnis von Anerkennungsberatung charakterisieren, sind Gegenstand der Analyse und Interpretation der Expert_inneninterviews."
+  },
+  {
+    "instruction": "Wie werden die Aufgabenbereiche von Anerkennungsberatung rekonstruiert?",
+    "input": "",
+    "output": "Die Aufgabenbereiche von Anerkennungsberatung werden durch das anerkennungstheoretische Rahmenmodell auf unterschiedlichen Ebenen rekonstruiert."
+  },
+  {
+    "instruction": "Welche Ebenen werden bei der Analyse der Aufgabenfelder von Anerkennungsberatung ber\u00fccksichtigt?",
+    "input": "",
+    "output": "Die Analyse der Aufgabenfelder von Anerkennungsberatung ber\u00fccksichtigt die Interaktionsebene des Beratungsgespr\u00e4chs, die gesellschaftliche und die rechtliche Ebene."
+  },
+  {
+    "instruction": "Was ist das Ziel der Analyse der argumentativen Textpassagen?",
+    "input": "",
+    "output": "Das Ziel der Analyse der argumentativen Textpassagen ist es, durch den Vergleich der Textpassagen zu analysieren, inwiefern ein geteiltes Beratungsverst\u00e4ndnis sichtbar wird."
+  },
+  {
+    "instruction": "Was ist die Interaktionsebene der Beratung?",
+    "input": "",
+    "output": "Die Interaktionsebene der Beratung ist die erste Analyseebene, in der Anerkennungsverh\u00e4ltnisse hergestellt und Erfahrungen verweigerter Anerkennung ausgedr\u00fcckt und bearbeitet werden k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie wird der Begriff 'Anerkennungsberatung' in Deutschland und \u00d6sterreich verwendet?",
+    "input": "",
+    "output": "In Deutschland ist der Begriff 'Anerkennungsberatung' verbreitet, w\u00e4hrend in \u00d6sterreich die Bezeichnung 'Anlaufstellen' f\u00fcr Beratungsangebote verwendet wird, die sich auf Information und Orientierung konzentrieren."
+  },
+  {
+    "instruction": "Was sind die beiden wichtigsten Aufgabengebiete in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die beiden wichtigsten Aufgabengebiete in der Anerkennungsberatung sind Information und Orientierung sowie die Herstellung einer spezifischen Beratungsbeziehung, die durch eine wertsch\u00e4tzende und empathische Beratungshaltung charakterisiert wird."
+  },
+  {
+    "instruction": "Was versteht man unter 'Orientierungsberatung'?",
+    "input": "",
+    "output": "Orientierungsberatung bezieht sich auf die Kl\u00e4rung der individuellen Zielsetzungen der Klient_innen und der Verf\u00fcgbarkeit \u00fcber die hierf\u00fcr notwendigen Informationen, wie z.B. die zust\u00e4ndigen Stellen im Anerkennungsverfahren oder das System von Beratungs- und Unterst\u00fctzungsleistungen."
+  },
+  {
+    "instruction": "Wie wird die Funktion der Beratungsstellen in der Anerkennungsberatung beschrieben?",
+    "input": "",
+    "output": "Die Beratungsstellen werden als 'erste Anlaufstelle' f\u00fcr das Themenfeld der Anerkennung im Ausland erworbener Qualifikationen beschrieben, die als 'Einstieg' in das Themenfeld und die damit verbundenen Verfahren und notwendigen Handlungsschritte dienen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung ist es, den Klient_innen zu helfen, ihr Wissen zu ordnen, zu reflektieren und in die konkrete Situation zu \u00fcbersetzen, sowie ihre eigenverantwortliche Entscheidungsf\u00e4higkeit zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie wird die Anerkennungsberatung genutzt?",
+    "input": "",
+    "output": "Die Anerkennungsberatung wird zur Validierung von als unsicher empfundenen Wissensbest\u00e4nden genutzt und erm\u00f6glicht den Zugang zu Informationen."
+  },
+  {
+    "instruction": "Wer trifft die Entscheidungen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Entscheidungen in der Anerkennungsberatung werden ausschlie\u00dflich durch die Klient_innen getroffen."
+  },
+  {
+    "instruction": "Was ist die Funktion einer Anlaufstelle in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Funktion einer Anlaufstelle in der Anerkennungsberatung ist es, ein breites Spektrum an Beratungsanliegen zu bearbeiten und die Abkl\u00e4rung, welche Beratungsanliegen bearbeitet werden k\u00f6nnen, durchzuf\u00fchren."
+  },
+  {
+    "instruction": "Was passiert, wenn ein Beratungsanliegen nicht bearbeitet werden kann?",
+    "input": "",
+    "output": "Wenn ein Beratungsanliegen nicht bearbeitet werden kann, \u00fcbernimmt die Anerkennungsberatung die Aufgabe der Weitervermittlung an entsprechende Angebote."
+  },
+  {
+    "instruction": "Wie wichtig ist die Einbindung der Anerkennungsberatungsstellen in etablierte Organisationen?",
+    "input": "",
+    "output": "Die Einbindung der Anerkennungsberatungsstellen in etablierte Organisationen ist von Vorteil, da sie die Weiterleitung an fachlich geeignete Beratungsstellen oder weitere Angebote innerhalb der eigenen Organisation erm\u00f6glicht."
+  },
+  {
+    "instruction": "Was ist das Ziel der intensiven Netzwerkarbeit in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel ist die fachliche Spezialisierung der Anerkennungsberatung zu erm\u00f6glichen und zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Was ist wichtig in der Beratung, um die Entscheidungsf\u00e4higkeit der Klient_innen zu unterst\u00fctzen?",
+    "input": "",
+    "output": "Die emotionale Dimension des Entscheidungsprozesses muss ber\u00fccksichtigt werden, indem eine offene, unterst\u00fctzende und kritisch fragende Atmosph\u00e4re hergestellt wird."
+  },
+  {
+    "instruction": "Wie wird die Beratungsbeziehung in der Anerkennungsberatung beschrieben?",
+    "input": "",
+    "output": "Als ressourcenorientiert, da die Klient_innen als Personen mit im Ausland erworbenen Qualifikationen und damit als Personen mit bereits erreichten Zielen im Leben gesehen werden."
+  },
+  {
+    "instruction": "Was sind die Ressourcen, die in der Anerkennungsberatung ber\u00fccksichtigt werden?",
+    "input": "",
+    "output": "Die im Ausland erworbenen Qualifikationen und Kompetenzen, die biografische Erfahrung der Migration sowie die Motivation."
+  },
+  {
+    "instruction": "Warum ist eine ressourcenorientierte Beratungshaltung wichtig?",
+    "input": "",
+    "output": "Um die emotionale Belastung der Klient_innen zu ber\u00fccksichtigen und um Frustration und Resignation zu vermeiden."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der mehrsprachigen Beratung?",
+    "input": "",
+    "output": "Sie erm\u00f6glicht es den Klient_innen, sich unabh\u00e4ngig von ihren sprachlichen Kenntnissen mit den Anerkennungsverfahren auseinanderzusetzen und wird als ressourcenorientierter Beratungszugang beschrieben."
+  },
+  {
+    "instruction": "Warum ist eine wertsch\u00e4tzende Haltung gegen\u00fcber den Personen mit ihren Qualifikationen und Kompetenzen wichtig?",
+    "input": "",
+    "output": "Eine wertsch\u00e4tzende Haltung gegen\u00fcber den Personen mit ihren Qualifikationen und Kompetenzen ist wichtig, weil sie aufgrund erfahrener Dequalifizierung und sozialen Abstiegs eine besondere Bedeutung hat."
+  },
+  {
+    "instruction": "Wie wird die mehrsprachige Beratung in den Interviews beschrieben?",
+    "input": "",
+    "output": "Die mehrsprachige Beratung wird in den Interviews als ein ressourcenorientierter Beratungszugang beschrieben, der es den Klient_innen erm\u00f6glicht, ihre Kompetenzen und Entscheidungsf\u00e4higkeit unabh\u00e4ngig von ihren sprachlichen Kenntnissen anzuerkennen."
+  },
+  {
+    "instruction": "Welchen Vorteil bietet die mehrsprachige Beratung?",
+    "input": "",
+    "output": "Die mehrsprachige Beratung erm\u00f6glicht es den Klient_innen, sich bereits zu einem fr\u00fchen Zeitpunkt des Integrationsprozesses mit den Anerkennungsverfahren auseinanderzusetzen und bietet die M\u00f6glichkeit, in der Muttersprache unterst\u00fctzt zu werden."
+  },
+  {
+    "instruction": "Wie wichtig ist die Mehrsprachigkeit in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Mehrsprachigkeit ist sehr wichtig, da sie es den Klient_innen erm\u00f6glicht, in ihrer Muttersprache beraten zu werden und eine bessere Verbindung zur beratenden Person aufzubauen."
+  },
+  {
+    "instruction": "Was ist ein Vorteil der Beratungsbeziehung in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Ein Vorteil der Beratungsbeziehung in der Anerkennungsberatung ist, dass die beratende Person \u00e4hnliche biografische Erfahrungen wie die Klient_innen hat, was eine bessere Verbindung und Verst\u00e4ndnis erm\u00f6glicht."
+  },
+  {
+    "instruction": "Wie wird die Beratungsbeziehung in den Interviews thematisiert?",
+    "input": "",
+    "output": "Die Beratungsbeziehung wird in den Interviews als ein eigenst\u00e4ndiges Aufgabenfeld thematisiert, das eine wertsch\u00e4tzende und anerkennende Haltung gegen\u00fcber den Personen mit ihren individuellen Bildungs- und Berufsbiografien erfordert."
+  },
+  {
+    "instruction": "Was ist der ressourcenorientierte Zugang in der Beratung?",
+    "input": "",
+    "output": "Der ressourcenorientierte Zugang wird in der Bezeichnung der Zielgruppe sowie in der Konzeption einer mehrsprachigen Beratung deutlich."
+  },
+  {
+    "instruction": "Was ist die zweite Analyseebene in der Beratung?",
+    "input": "",
+    "output": "Die zweite Analyseebene bezieht sich auf die Herstellung von Anerkennungsverh\u00e4ltnissen auf der rechtlichen Ebene, welche sich hier vor allem in formalen Anerkennungen von im Ausland erworbenen Qualifikationen konkretisieren."
+  },
+  {
+    "instruction": "Was sind die Aufgaben der Beratungsstellen auf der rechtlichen Ebene?",
+    "input": "",
+    "output": "Die Beratungsstellen f\u00fchren selbst keine formalen Anerkennungsverfahren durch, sondern k\u00f6nnen nur unterst\u00fctzend auf beh\u00f6rdliche Anerkennungsverfahren einwirken, wie z.B. die \u00dcbernahme einer Filterfunktion, die rechtliche Informationsvermittlung und die Verfahrensbegleitung."
+  },
+  {
+    "instruction": "Was ist die Filterfunktion in der Beratung?",
+    "input": "",
+    "output": "Die Filterfunktion bezieht sich auf die Entlastung der Anerkennungsstellen, indem die zust\u00e4ndigen Beh\u00f6rden ermittelt und die Unterlagen vor der Einreichung auf Vollst\u00e4ndigkeit \u00fcberpr\u00fcft werden."
+  },
+  {
+    "instruction": "Was umfasst die Verfahrensbegleitung in der Beratung?",
+    "input": "",
+    "output": "Die Verfahrensbegleitung umfasst alle praktischen Unterst\u00fctzungsleistungen w\u00e4hrend des formalen Prozesses der Anerkennung im Ausland erworbener Qualifikationen."
+  },
+  {
+    "instruction": "Wie wird die Filterfunktion im Beratungsprozess umgesetzt?",
+    "input": "",
+    "output": "Im Beratungsprozess wird zun\u00e4chst gekl\u00e4rt, ob ein formales Anerkennungsverfahren notwendig und zielf\u00fchrend ist, und dann werden die Zust\u00e4ndigkeiten und formalen Anforderungen gekl\u00e4rt, wodurch die Filterfunktion \u00fcbernommen wird."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzen Berater_innen die Klient_innen bei der Anerkennung?",
+    "input": "",
+    "output": "Sie helfen bei der Kl\u00e4rung der Zust\u00e4ndigkeit, unterst\u00fctzen bei der Antragstellung und gehen gemeinsam die Unterlagen durch."
+  },
+  {
+    "instruction": "Welche Rolle spielen Berater_innen in der Zusammenarbeit mit den Anerkennungsstellen?",
+    "input": "",
+    "output": "Sie nehmen eine parteiliche Haltung f\u00fcr die Klient_innen ein, setzen sich f\u00fcr eine rechtskonforme Umsetzung der Verfahren ein und thematisieren Benachteiligungen."
+  },
+  {
+    "instruction": "Wie wichtig ist die pers\u00f6nliche Kommunikation zwischen den beteiligten Akteur_innen?",
+    "input": "",
+    "output": "Die pers\u00f6nliche Kommunikation spielt einen bedeutenden Anteil an der positiven Entwicklung in der Zusammenarbeit."
+  },
+  {
+    "instruction": "Was ist das Ziel der Netzwerkarbeit der Beratungsstellen?",
+    "input": "",
+    "output": "Das Ziel ist, den positiven Nutzen der Beratungsstellen f\u00fcr die Anerkennungsstellen zu vermitteln und entsprechende Kooperationen aufzubauen."
+  },
+  {
+    "instruction": "Wie werden die Beratungsstellen von den zust\u00e4ndigen Stellen wahrgenommen?",
+    "input": "",
+    "output": "Die Beratungsstellen werden als wichtige Beratungsstelle akzeptiert, die Unterst\u00fctzung bieten kann und nicht nur Kritik \u00fcbt."
+  },
+  {
+    "instruction": "Was ist die \u00fcbergreifende organisatorische Leistung der Koordinierungsstelle in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Koordinierungsstelle erm\u00f6glicht ein abgestimmtes Auftreten nach au\u00dfen und unterst\u00fctzt die Anerkennungsberatung."
+  },
+  {
+    "instruction": "Welche Funktion \u00fcbernimmt die Anerkennungsberatung bei der Antragstellung und Verfahrensbegleitung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung \u00fcbernimmt eine wichtige Funktion bei der Antragstellung und der anschlie\u00dfenden Verfahrensbegleitung, einschlie\u00dflich der Zusammenstellung von Antragsunterlagen, dem Einholen von beglaubigten \u00dcbersetzungen und der Nachreichung von erforderlichen Unterlagen."
+  },
+  {
+    "instruction": "Warum ist die Anerkennungsberatung auch nach Abschluss eines Verfahrens wichtig?",
+    "input": "",
+    "output": "Die Anerkennungsberatung ist auch nach Abschluss eines Verfahrens wichtig, um auf M\u00f6glichkeiten der Nachqualifizierung oder Weiterbildung aufmerksam zu machen und um Klient_innen bei der Nutzung dieser M\u00f6glichkeiten zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie reagiert die Anerkennungsberatung auf die gesetzlichen Ver\u00e4nderungen in Deutschland?",
+    "input": "",
+    "output": "Die Anerkennungsberatung bietet einen Anlass, bereits abgeschlossene Verfahren nochmals zu thematisieren und unterst\u00fctzt Klient_innen bei der Nutzung der neuen Gesetze und M\u00f6glichkeiten."
+  },
+  {
+    "instruction": "Was bietet die Fachberatung zu Qualifizierungsm\u00f6glichkeiten (Qualifizierungsberatung) in Deutschland?",
+    "input": "",
+    "output": "Die Fachberatung zu Qualifizierungsm\u00f6glichkeiten bietet Unterst\u00fctzung, um eine volle berufliche Anerkennung und eine qualifikationsad\u00e4quate Besch\u00e4ftigung zu erreichen."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzt die Beratung Klient_innen in einem kollektiven Kontext?",
+    "input": "",
+    "output": "Die Beratung unterst\u00fctzt Klient_innen in einem kollektiven Kontext durch die Angebot von Workshops und Gruppenberatungen f\u00fcr Personen, die sich in \u00e4hnlichen Situationen befinden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Workshops unter Klient_innen?",
+    "input": "",
+    "output": "Das Ziel der Workshops ist es, Erfahrungen weiterzugeben und den Klient_innen emotionale Unterst\u00fctzung durch den Kontakt zu Gleichbetroffenen zu bieten."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzen die Beratungsleistungen die Klient_innen?",
+    "input": "",
+    "output": "Die Beratungsleistungen bieten Raum f\u00fcr Vernetzung und Erfahrungsaustausch und unterst\u00fctzen die Klient_innen bei der Entwicklung von Handlungsoptionen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung formaler Anerkennungen f\u00fcr den weiteren Bildungsweg?",
+    "input": "",
+    "output": "Formale Anerkennungen sind von zentraler Bedeutung f\u00fcr den weiteren Bildungsweg und die berufliche Integration."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung auf der gesellschaftlichen Ebene?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung auf der gesellschaftlichen Ebene ist es, die Herstellung positionalen Anerkennung und damit auch die soziale und berufliche Integration zu f\u00f6rdern."
+  },
+  {
+    "instruction": "Wer sind die Zielgruppen der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Zielgruppen der Anerkennungsberatung sind nicht nur die betroffenen Personen als Klient_innen, sondern auch Arbeitgeber_innen und die \u00d6ffentlichkeit."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Anerkennungsberatung bei der gesellschaftlichen Aufkl\u00e4rung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung hat die Aufgabe, die \u00d6ffentlichkeit f\u00fcr den Bereich der Anerkennung im Ausland erworbener Qualifikationen und f\u00fcr die Folgen von Dequalifizierung zu sensibilisieren."
+  },
+  {
+    "instruction": "Was sind die Aufgaben der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung unterst\u00fctzt Individuen bei der Anerkennung im Ausland erworbener Qualifikationen und f\u00f6rdert die berufliche Integration."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzt die Anerkennungsberatung die berufliche Integration?",
+    "input": "",
+    "output": "Die Anerkennungsberatung unterst\u00fctzt die berufliche Integration durch die Vermittlung zwischen unterschiedlichen Bildungs- und Qualifikationssystemen und die Herstellung von Anerkennungsverh\u00e4ltnissen im Bildungs- und Arbeitsmarktsystem."
+  },
+  {
+    "instruction": "Was ist die Funktion der Anerkennungsberatung bei der Vermittlung zwischen Bildungssystemen?",
+    "input": "",
+    "output": "Die Anerkennungsberatung \u00fcbernimmt eine wichtige Funktion bei der Vermittlung zwischen unterschiedlichen Bildungs- und Qualifikationssystemen und versucht, eine \u00dcbersetzungsleistung zu erbringen zwischen allen Bildungssystemen und dem deutschen Bildungssystem."
+  },
+  {
+    "instruction": "Warum ist die Anerkennung von im Ausland erworbenen Qualifikationen im p\u00e4dagogischen Bereich schwierig?",
+    "input": "",
+    "output": "Die Anerkennung von im Ausland erworbenen Qualifikationen im p\u00e4dagogischen Bereich ist aufgrund der vielfach restriktiven rechtlichen Rahmenbedingungen schwierig."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzt die Anerkennungsberatung bei der Kl\u00e4rung der M\u00f6glichkeiten und Zust\u00e4ndigkeiten im Anerkennungsverfahren?",
+    "input": "",
+    "output": "Die Anerkennungsberatung unterst\u00fctzt bei der Kl\u00e4rung der M\u00f6glichkeiten und Zust\u00e4ndigkeiten im Anerkennungsverfahren durch die Einordnung des im Ausland erworbenen Abschlusses in das inl\u00e4ndische Bildungssystem und die Feststellung eines Referenzberufs."
+  },
+  {
+    "instruction": "Warum ist es wichtig, alternative Bildungswege aufzuzeigen?",
+    "input": "",
+    "output": "Aufgrund der vielfach restriktiven rechtlichen Rahmenbedingungen kann es erforderlich werden, alternative Bildungswege aufzuzeigen, um die berufliche Integration zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "In welchem Bereich zeigt sich die Anerkennung von im Ausland erworbenen Qualifikationen als besonders schwierig?",
+    "input": "",
+    "output": "Insbesondere im p\u00e4dagogischen Bereich bzw. im Lehramt zeigt sich die Anerkennung von im Ausland erworbenen Qualifikationen als schwierig."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Beratung bei der Anerkennung von Qualifikationen?",
+    "input": "",
+    "output": "Die Aufgabe der Beratung ist es, zu kl\u00e4ren, was die Person genau will, und dann die nicht vorhandenen Anerkennungsm\u00f6glichkeiten zu erkl\u00e4ren und Alternativen aufzuzeigen."
+  },
+  {
+    "instruction": "Was sind weitere Unterst\u00fctzungsleistungen f\u00fcr den Prozess der beruflichen Integration?",
+    "input": "",
+    "output": "Weitere Unterst\u00fctzungsleistungen f\u00fcr den Prozess der beruflichen Integration sind die Vermittlung von Informationen \u00fcber die berufsspezifische Situation auf dem inl\u00e4ndischen Arbeitsmarkt, \u00fcber Weiterbildungsangebote bzw. deren Finanzierung und den Erwerb der erforderlichen Sprachkenntnisse."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass die Betroffenen alle notwendigen Informationen haben?",
+    "input": "",
+    "output": "Es ist wichtig, dass die Betroffenen alle notwendigen Informationen haben, damit sie bei Bewerbungsgespr\u00e4chen gest\u00e4rkt sind und Arbeitgeber_innen nicht unsicher sind."
+  },
+  {
+    "instruction": "Was \u00fcbernimmt die Anerkennungsberatung neben der direkten Beratung von Personen mit im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Die Anerkennungsberatung \u00fcbernimmt auch Aufgaben, die sich nicht direkt auf Personen mit im Ausland erworbenen Qualifikationen als Klient_innen beziehen, wie z.B. die gesellschaftliche Sensibilisierung f\u00fcr das Thema der Anerkennung im Ausland erworbener Qualifikationen."
+  },
+  {
+    "instruction": "Wer sind die Zielgruppen der Beratung?",
+    "input": "",
+    "output": "Die Zielgruppen der Beratung sind nicht nur Migrant_innen, sondern auch Arbeitgeber_innen, politisch Verantwortliche und zust\u00e4ndige Stellen."
+  },
+  {
+    "instruction": "Welche Form der \u00d6ffentlichkeitsarbeit wird in den Interviews hervorgehoben?",
+    "input": "",
+    "output": "Kurze Videos einer Beratungseinrichtung, die auf der Homepage abrufbar sind oder auf Veranstaltungen und in lokalen Kinos gezeigt werden k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist das Ziel der \u00d6ffentlichkeits- und Netzwerkarbeit?",
+    "input": "",
+    "output": "Die gesellschaftliche Sensibilisierung f\u00fcr das Thema der Anerkennung im Ausland erworbener Qualifikationen."
+  },
+  {
+    "instruction": "Wie wird das Thema der Anerkennung im Ausland erworbener Qualifikationen in der \u00d6ffentlichkeit wahrgenommen?",
+    "input": "",
+    "output": "Das Thema ist in der \u00d6ffentlichkeit pr\u00e4sent geworden und hat zu einer Meinungsbildung gef\u00fchrt."
+  },
+  {
+    "instruction": "Was wird durch die \u00d6ffentlichkeits- und Netzwerkarbeit unterst\u00fctzt?",
+    "input": "",
+    "output": "Die Herstellung und Ausweitung von Anerkennungsverh\u00e4ltnissen auf gesellschaftlicher Ebene."
+  },
+  {
+    "instruction": "Wie wird der Begriff der Anerkennung in der Beratung wahrgenommen?",
+    "input": "",
+    "output": "Der Begriff der Anerkennung wird auf sehr differenzierte Weise wahrgenommen und mit unterschiedlichen Schwerpunktsetzungen bei den Aufgaben verbunden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Untersuchung von Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel ist es, die Definitionen und Selbstbeschreibungen von Anerkennungsberatung zu untersuchen und die unterschiedlichen Positionierungen hinsichtlich der Frage zu vergleichen, ob es sich bei Anerkennungsberatung um einen p\u00e4dagogischen Zugang handelt."
+  },
+  {
+    "instruction": "Wie wird Anerkennungsberatung von den Interviewpartnern definiert?",
+    "input": "",
+    "output": "Anerkennungsberatung wird als eine spezialisierte Fachberatung definiert, die sich auf die Anerkennung von im Ausland erworbenen Qualifikationen konzentriert."
+  },
+  {
+    "instruction": "Warum wird der Begriff der Fachberatung in den Interviews verwendet?",
+    "input": "",
+    "output": "Der Begriff der Fachberatung wird verwendet, um die Spezialisierung von Anerkennungsberatung auf einen konkreten Beratungsgegenstand hervorzuheben und um Unterschiede zu etablierten Beratungsleistungen aufzuzeigen."
+  },
+  {
+    "instruction": "Wie wird die Spezialisierung von Anerkennungsberatung beschrieben?",
+    "input": "",
+    "output": "Die Spezialisierung von Anerkennungsberatung wird als eine Schnittstelle aus unterschiedlichen Disziplinen und Feldern beschrieben, die es den Beratern erm\u00f6glicht, einen spezifischen Zugang zu dem Themenfeld zu entwickeln."
+  },
+  {
+    "instruction": "Welche Funktion hat Anerkennungsberatung im System der unterschiedlichen Beratungsangebote?",
+    "input": "",
+    "output": "Anerkennungsberatung hat eine unterst\u00fctzende Funktion gegen\u00fcber weiter gefassten Beratungen, wie z.B. Rechts- und Sozialberatung."
+  },
+  {
+    "instruction": "Warum ist eine Fachberatung f\u00fcr die Anerkennung im Ausland erworbener Qualifikationen notwendig?",
+    "input": "",
+    "output": "Eine Fachberatung ist notwendig, weil der Anerkennungsprozess und das Anerkennungsverfahren komplex und unterschiedlich sind und eine fachliche Expertise erfordern."
+  },
+  {
+    "instruction": "Was ist die Bedeutung des Informations- und Wissensmanagements f\u00fcr die Expertise in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Informations- und Wissensmanagement ist wichtig, um den Aufbau und die Weiterentwicklung von Fachwissen in der Anerkennungsberatung zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "Warum sollte die Anerkennungsberatung als eigene Beratung und nicht als Zusatzthema in der Migrationsberatung oder Weiterbildungsberatung durchgef\u00fchrt werden?",
+    "input": "",
+    "output": "Die Anerkennungsberatung sollte als eigene Beratung durchgef\u00fchrt werden, weil sie zu komplex ist und eine spezifische Expertise erfordert, die nicht als Zusatzthema in anderen Beratungsleistungen abgedeckt werden kann."
+  },
+  {
+    "instruction": "Was ist die gesellschaftliche Relevanz der Bezeichnung einer Fachberatung f\u00fcr die Anerkennung im Ausland erworbener Qualifikationen?",
+    "input": "",
+    "output": "Die Bezeichnung einer Fachberatung best\u00e4tigt die gesellschaftliche Relevanz des Themas und legitimiert den Entwicklungsprozess eines eigenst\u00e4ndigen und neuen Beratungsangebots."
+  },
+  {
+    "instruction": "Was erm\u00f6glicht die Selbstbeschreibung als Fachberatung den Interviewpartner_innen?",
+    "input": "",
+    "output": "Sie erm\u00f6glicht eine fachliche Eingrenzung der Beratungsleistung sowie die Begr\u00fcndung der Professionalit\u00e4t des Zugangs durch die Entwicklung einer spezifischen Expertise."
+  },
+  {
+    "instruction": "Wie unterscheidet sich die Anerkennungsberatung von Ma\u00dfnahmen des AMS?",
+    "input": "",
+    "output": "Die Anerkennungsberatung ist freiwillig und parteilich, im Gegensatz zu Ma\u00dfnahmen des AMS, die f\u00fcr einen bestimmten Personenkreis verpflichtend sind."
+  },
+  {
+    "instruction": "Was ist ein wichtiger Aspekt der Beratungshaltung in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Ein wichtiger Aspekt ist die parteiliche Unterst\u00fctzung im Umgang mit beh\u00f6rdlichen Entscheidungen und die Ausrichtung am jeweiligen Einzelfall."
+  },
+  {
+    "instruction": "Wie lange kann die Anerkennungsberatung dauern?",
+    "input": "",
+    "output": "Die Anerkennungsberatung hat keine Zeitbeschr\u00e4nkung, au\u00dfer dem Druck, den die Berater selbst machen, und es gibt auch keine Jahresbegrenzung."
+  },
+  {
+    "instruction": "Was umfasst die Anerkennungsberatung nach dem Beratungsverst\u00e4ndnis?",
+    "input": "",
+    "output": "Die Anerkennungsberatung umfasst nicht nur die Erkl\u00e4rung von Bescheiden und Entscheidungen, sondern auch die \u00dcberpr\u00fcfung der Rechtm\u00e4\u00dfigkeit und Angemessenheit dieser Entscheidungen im Sinne der Klient_innen."
+  },
+  {
+    "instruction": "Was ist das Hauptziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Hauptziel der Anerkennungsberatung ist es, gemeinsam mit den Klienten einen Weg zu finden, wie sie ihre ausl\u00e4ndische Qualifikation am Arbeitsmarkt verwerten k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie unterscheidet sich die Anerkennungsberatung von arbeitsmarktpolitischen Instrumenten?",
+    "input": "",
+    "output": "Die Anerkennungsberatung ist keine Notfallberatung und hat einen ressourcenorientierten Zugang, w\u00e4hrend arbeitsmarktpolitische Instrumente tendenziell defizitorientiert sind."
+  },
+  {
+    "instruction": "Was sind die Schritte im Anerkennungsberatungsprozess?",
+    "input": "",
+    "output": "Die Schritte umfassen die Kl\u00e4rung der Ausbildung und Zust\u00e4ndigkeit, die Diskussion \u00fcber Nachhaltigkeit und Sinnhaftigkeit, die Unterst\u00fctzung bei der Vorbereitung der ben\u00f6tigten Unterlagen, die Antragstellung und die weitere Begleitung bis zum Abschluss des Verfahrens."
+  },
+  {
+    "instruction": "Welche Rolle spielen Sprachkenntnisse in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Klienten werden aufmerksam gemacht, welches Sprachniveau f\u00fcr bestimmte Anerkennungsverfahren erforderlich ist, aber die Berater sind keine Gutachter und \u00fcberpr\u00fcfen die Sprachkenntnisse nicht."
+  },
+  {
+    "instruction": "Wie wird die individuelle und gesellschaftliche Wirkungsebene von Beratung in der Anerkennungsberatung ber\u00fccksichtigt?",
+    "input": "",
+    "output": "Die Anerkennungsberatung hat eine Ausrichtung auf die individuelle und gesellschaftliche Wirkungsebene von Beratung, w\u00e4hrend die rechtliche Ebene dem untergeordnet wird."
+  },
+  {
+    "instruction": "Was passiert nach der Antragstellung in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Person wird weiterbegleitet, wenn der Bescheid von der zust\u00e4ndigen Beh\u00f6rde ausgestellt wird."
+  },
+  {
+    "instruction": "Was ist das Ziel der Verfahrensbegleitung in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel ist es, die Klient_innen bis zum Abschluss des Verfahrens zu unterst\u00fctzen und alle notwendigen Schritte zu unternehmen, um eine erfolgreiche Anerkennung zu erreichen."
+  },
+  {
+    "instruction": "Wer kann in der Anerkennungsberatung beraten werden?",
+    "input": "",
+    "output": "Alle Personen unabh\u00e4ngig von der Dauer ihres Aufenthaltes und dem Zeitpunkt des Abschlusses ihrer Ausbildung k\u00f6nnen beraten werden."
+  },
+  {
+    "instruction": "Warum ist die Anerkennungsberatung besonders wichtig f\u00fcr Personen, die bereits langj\u00e4hrig unterhalb ihrer Qualifikation besch\u00e4ftigt sind?",
+    "input": "",
+    "output": "Die Anerkennungsberatung ist wichtig, weil sie Personen hilft, ihre formale Anerkennung zu erhalten und somit ihre berufliche Situation zu verbessern, nachdem sie oft Jahre unterhalb ihrer Qualifikation besch\u00e4ftigt waren."
+  },
+  {
+    "instruction": "Was ist die Situation von Personen, die langj\u00e4hrig unterhalb ihrer Qualifikation besch\u00e4ftigt sind?",
+    "input": "",
+    "output": "Diese Personen erleben oft eine strukturelle Benachteiligung, die zu Ausbeutung und negativen Auswirkungen auf ihre k\u00f6rperliche und psychische Gesundheit f\u00fchren kann."
+  },
+  {
+    "instruction": "Welche Auswirkungen hat die fehlende formale Anerkennung von Abschl\u00fcssen auf die Betroffenen?",
+    "input": "",
+    "output": "Die fehlende formale Anerkennung von Abschl\u00fcssen kann zu einer Besch\u00e4ftigung unterhalb der Qualifikation f\u00fchren, was negative Auswirkungen auf die Pension, den Berufsschutz und die soziale Sicherheit haben kann."
+  },
+  {
+    "instruction": "Wie wird die Anerkennungsberatung in \u00d6sterreich organisiert?",
+    "input": "",
+    "output": "Die Anerkennungsberatung in \u00d6sterreich wird durch eine Koordinierungsstelle organisiert, die zweimal im Jahr AST-Treffen mit allen Beratungsstellen durchf\u00fchrt, um gemeinsam zu planen und auszutauschen."
+  },
+  {
+    "instruction": "Welche Zielsetzung verfolgt die Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung zielt darauf ab, soziale Gerechtigkeit in dem Bereich der Anerkennung von Qualifikationen herzustellen und die Benachteiligung von Personen, die unterhalb ihrer Qualifikation besch\u00e4ftigt sind, zu \u00fcberwinden."
+  },
+  {
+    "instruction": "Wie wird die Anerkennungsberatung von den Interviewpartner_innen wahrgenommen?",
+    "input": "",
+    "output": "Die Anerkennungsberatung wird von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen, die einen positiven Einfluss auf das Selbstbewusstsein der Klient_innen haben kann."
+  },
+  {
+    "instruction": "Warum ist der Austausch zwischen den Beratungsstellen wichtig?",
+    "input": "",
+    "output": "Der Austausch ist wichtig, weil er den Berater_innen erm\u00f6glicht, sich von dem Handlungsdruck in der konkreten Beratungssituation zu entlasten und ein gemeinsames Selbstverst\u00e4ndnis von Anerkennungsberatung zu entwickeln."
+  },
+  {
+    "instruction": "Wie wirkt sich die Vernetzung auf die Klient_innen aus?",
+    "input": "",
+    "output": "Die Vernetzung wirkt sich auf die Klient_innen aus, indem sie ein gest\u00e4rktes Selbstbewusstsein entwickeln, das auch auf gesellschaftlicher Ebene wirkt."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Koordinierungsstelle in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Koordinierungsstelle in \u00d6sterreich ist strukturell verankert und dient als Schnittstelle zwischen den Personen und den Stellen, um das Recht richtig umzusetzen und Missverst\u00e4ndnisse auszur\u00e4umen."
+  },
+  {
+    "instruction": "Was bedeutet die strukturelle Arbeit in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die strukturelle Arbeit bedeutet, dass die fachliche Expertise um Wissen erg\u00e4nzt wird, das in der Beratung generiert und f\u00fcr die Einflussnahme auf die Rahmenbedingungen genutzt wird, wie z.B. die Umsetzung von rechtlichen Regelungen und die Identifizierung von gesetzlichen L\u00fccken."
+  },
+  {
+    "instruction": "Wie sieht das Selbstverst\u00e4ndnis der Beratungsstellen in Deutschland aus?",
+    "input": "",
+    "output": "Das Selbstverst\u00e4ndnis der Beratungsstellen in Deutschland reicht nicht nur auf die Beratungst\u00e4tigkeit beschr\u00e4nkt, sondern wird mit einem gesellschaftlichen Auftrag verbunden, der es den Berater_innen erm\u00f6glicht, sich in die Gestaltung des Prozesses einzumischen und Verantwortung f\u00fcr die Umsetzung in der Praxis zu \u00fcbernehmen."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr die Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Neutralit\u00e4t der Beratungsstelle."
+  },
+  {
+    "instruction": "Warum kann die Beratung nicht bei der Arbeitsagentur stattfinden?",
+    "input": "",
+    "output": "Weil die Beratung dann immer arbeitsmarktbezogen sein muss."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung soll individuelle und unabh\u00e4ngige Beratungsleistungen anbieten, die sich von extern definierten Anforderungen und Erwartungen abgrenzen."
+  },
+  {
+    "instruction": "Was ist das charakteristische Merkmal der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Unabh\u00e4ngigkeit und Neutralit\u00e4t der Beratung."
+  },
+  {
+    "instruction": "Warum ist die Unabh\u00e4ngigkeit der Anerkennungsberatung wichtig?",
+    "input": "",
+    "output": "Um sich von den beh\u00f6rdlichen Anerkennungsstellen abzugrenzen und um unabh\u00e4ngig und kostenfrei beraten zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Was bietet die Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine individuelle und unabh\u00e4ngige Beratungsleistung, die kostenfrei ist und f\u00fcr alle da ist."
+  },
+  {
+    "instruction": "Was ist das Besondere an der Beratung, die von den Interviewpartnern angeboten wird?",
+    "input": "",
+    "output": "Das Besondere ist, dass die Beratung als offenes Angebot f\u00fcr Personen mit verschiedenen Qualifikationen gesehen wird und nicht nur auf spezifische Berufe oder Abschl\u00fcsse ausgerichtet ist."
+  },
+  {
+    "instruction": "Was bedeutet die starke identit\u00e4tsstiftende Wirkung der Fachberatung?",
+    "input": "",
+    "output": "Die starke identit\u00e4tsstiftende Wirkung bedeutet, dass die Interviewpartner_innen ein gemeinsames Beratungsverst\u00e4ndnis innerhalb des Netzwerkes haben und sich auf einen gemeinsamen Standard und Anforderungen einigen."
+  },
+  {
+    "instruction": "Was ist die Haltung der Interviewpartner_innen zur Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Interviewpartner_innen betonen, dass eine Anerkennungsberatung nicht nur eine Verweisberatung oder Weiterleitung sein sollte, sondern dass es eine individuelle, unabh\u00e4ngige Beratung geben muss."
+  },
+  {
+    "instruction": "Was wird mit dem Begriff der Fachberatung definiert?",
+    "input": "",
+    "output": "Mit dem Begriff der Fachberatung werden gemeinsame Qualit\u00e4tsstandards sowie ein geteiltes Beratungsverst\u00e4ndnis im Sinne eines Leitbildes definiert."
+  },
+  {
+    "instruction": "Was ist das p\u00e4dagogische Beratungsverst\u00e4ndnis?",
+    "input": "",
+    "output": "Das p\u00e4dagogische Beratungsverst\u00e4ndnis wird als ein ressourcenorientiertes Unterst\u00fctzungsangebot definiert, welches auf die St\u00e4rkung der Handlungs- und Entscheidungsf\u00e4higkeit der Klient_innen ausgerichtet ist."
+  },
+  {
+    "instruction": "Was ist das Ziel einer ressourcenorientierten Beratung?",
+    "input": "",
+    "output": "Das Ziel einer ressourcenorientierten Beratung ist die Wertsch\u00e4tzung vorhandener F\u00e4higkeiten und Kompetenzen der Klient_innen und die St\u00e4rkung ihrer Selbstverantwortung und Entscheidungsmacht."
+  },
+  {
+    "instruction": "Wie grenzt sich p\u00e4dagogische Beratung von reinen Informationsgespr\u00e4chen oder therapeutischen Interventionen ab?",
+    "input": "",
+    "output": "P\u00e4dagogische Beratung grenzt sich von reinen Informationsgespr\u00e4chen oder therapeutischen Interventionen ab, indem sie praxisrelevante Kriterien wie die Wertsch\u00e4tzung von Autonomie und Selbstverantwortung der Klient_innen und die St\u00e4rkung ihrer Handlungsinitiative betont."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Berater_innen in einer ressourcenorientierten Beratung?",
+    "input": "",
+    "output": "Die Aufgabe der Berater_innen in einer ressourcenorientierten Beratung beschr\u00e4nkt sich auf die St\u00e4rkung der Handlungsinitiative und der Qualit\u00e4tssteigerung von Entscheidungen durch die Integration von Informationen und Fachwissen in den Beratungsprozess."
+  },
+  {
+    "instruction": "Warum distanzieren sich einige Interviewpartner_innen von einem p\u00e4dagogischen Beratungsverst\u00e4ndnis?",
+    "input": "",
+    "output": "Einige Interviewpartner_innen distanzieren sich von einem p\u00e4dagogischen Beratungsverst\u00e4ndnis, weil sie es mit einer bevormundenden Haltung und einem Erziehungs- und Bildungsauftrag assoziieren, der den Klient_innen ein gewisses Ma\u00df an Bed\u00fcrftigkeit unterstellt."
+  },
+  {
+    "instruction": "Was sind die grundlegenden Prinzipien eines emanzipatorischen Beratungsansatzes?",
+    "input": "",
+    "output": "Die grundlegenden Prinzipien eines emanzipatorischen Beratungsansatzes sind der Respekt vor der Autonomie der Klient_innen und die St\u00e4rkung ihrer Selbstverantwortung und Entscheidungsmacht."
+  },
+  {
+    "instruction": "Wie beschreiben die interviewten Personen die p\u00e4dagogische Beratung?",
+    "input": "",
+    "output": "Die interviewten Personen verbinden p\u00e4dagogische Beratung tendenziell mit einer bevormundenden Haltung, die den Klient_innen ein gewisses Ma\u00df an Bed\u00fcrftigkeit unterstellt."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung ist es, die Eigenst\u00e4ndigkeit der Klient_innen zu st\u00e4rken und ihnen die notwendigen Informationen und Kenntnisse zu vermitteln, um selbst\u00e4ndige Entscheidungen treffen zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie definieren die interviewten Personen ihre eigene Rolle in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die interviewten Personen definieren ihre eigene Rolle vor allem \u00fcber den 'Wissensvorsprung' als Expert_in und sehen ihr Aufgabenfeld in der Unterst\u00fctzung der selbst\u00e4ndigen Handlungs- und Entscheidungsf\u00e4higkeit der Klient_innen."
+  },
+  {
+    "instruction": "Wie grenzen die interviewten Personen ihre T\u00e4tigkeit von der p\u00e4dagogischen Beratung ab?",
+    "input": "",
+    "output": "Die interviewten Personen grenzen ihre T\u00e4tigkeit explizit von der Bezeichnung als p\u00e4dagogische Beratung ab und identifizieren sich eher mit einem sozialp\u00e4dagogischen Beratungszugang oder einer Fachberatung."
+  },
+  {
+    "instruction": "Was ist die Haltung, die die interviewten Personen in der Anerkennungsberatung f\u00fcr wichtig erachten?",
+    "input": "",
+    "output": "Die interviewten Personen erachten eine ressourcenorientierte Haltung f\u00fcr wichtig, die auf die St\u00e4rkung der Eigenst\u00e4ndigkeit der Klient_innen ausgerichtet ist, anstatt einer defizitorientierten Beratungshaltung."
+  },
+  {
+    "instruction": "Wie hat sich die \u00f6ffentliche Wahrnehmung der Anerkennungsberatung ver\u00e4ndert?",
+    "input": "",
+    "output": "Die Anerkennungsberatung ist jetzt angekommen in der \u00d6ffentlichkeit und wird nicht mehr als Entwicklungsfeld, sondern als institutionalisiertes Angebot gesehen."
+  },
+  {
+    "instruction": "Welche Rolle spielen sozialp\u00e4dagogische Kompetenzen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Sozialp\u00e4dagogische Kompetenzen sind nicht prim\u00e4r f\u00fcr eine etablierte Beratungsleistung, sondern vor allem f\u00fcr die Entwicklung und Konzeptualisierung von neuen, bedarfsorientierten Beratungsangeboten notwendig."
+  },
+  {
+    "instruction": "Wann ist eine p\u00e4dagogische Beratung in der Anerkennungsberatung erforderlich?",
+    "input": "",
+    "output": "Eine p\u00e4dagogische Beratung ist erforderlich, wenn die Informationen und Entscheidungen mit einer hohen psychischen Belastung f\u00fcr die Klient_innen verbunden sind und eine Krisenintervention notwendig ist."
+  },
+  {
+    "instruction": "Wie versteht die Anerkennungsberatung ihre Zielrichtung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung verfolgt eine andere Zielrichtung, bei der die Informations- und Wissensvermittlungsebene eine zentrale Stellung einnimmt, aber auch Beratungsf\u00e4lle beschrieben werden, in denen eine Krisenintervention n\u00f6tig ist."
+  },
+  {
+    "instruction": "Was ist die emotionale Ebene in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die emotionale Ebene steht im Vordergrund, wenn eine Krisenintervention notwendig ist und die Anerkennung allein keine L\u00f6sung bietet."
+  },
+  {
+    "instruction": "Wie oft haben Klienten in der Regel Beratungskontakte mit der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die meisten Klienten haben nur einmaligen Beratungskontakt, etwa 70 Prozent kommen nur einmal und nie wieder."
+  },
+  {
+    "instruction": "Wann wird eine p\u00e4dagogische Haltung in der Anerkennungsberatung als notwendig erachtet?",
+    "input": "",
+    "output": "Eine p\u00e4dagogische Haltung wird als notwendig erachtet, sobald die spezifischen Lebensbedingungen und der soziale Kontext in der Beratung mitber\u00fccksichtigt werden."
+  },
+  {
+    "instruction": "Warum ist eine p\u00e4dagogische Qualifikation f\u00fcr die Durchf\u00fchrung einer Fachberatung vorteilhaft?",
+    "input": "",
+    "output": "Eine p\u00e4dagogische Qualifikation ist vorteilhaft, weil sie die notwendige distanzierte Haltung und das Handwerkszeug f\u00fcr die Beratung bietet, insbesondere wenn es um emotionale Belastungen oder komplexe Probleme geht."
+  },
+  {
+    "instruction": "Was ist die Meinung der interviewten Person zu der Frage, ob eine reine Fachberatung ohne p\u00e4dagogische Haltung m\u00f6glich ist?",
+    "input": "",
+    "output": "Die interviewte Person ist der Meinung, dass eine reine Fachberatung ohne p\u00e4dagogische Haltung m\u00f6glich ist, wenn der Klient genau wei\u00df, was er will und nur Unterst\u00fctzung bei der Antragstellung ben\u00f6tigt."
+  },
+  {
+    "instruction": "Wird f\u00fcr die informationsorientierte Beratung eine p\u00e4dagogische Ausbildung vorausgesetzt?",
+    "input": "",
+    "output": "Nein, jedoch wird die F\u00e4higkeit zur Abgrenzung ben\u00f6tigt, die einer p\u00e4dagogischen Ausbildung zugeschrieben wird."
+  },
+  {
+    "instruction": "Was ist die Bedeutung einer p\u00e4dagogischen Ausbildung in der Fachberatung?",
+    "input": "",
+    "output": "Sie erm\u00f6glicht die notwendige Abgrenzung und Spezialisierung in der Fachberatung."
+  },
+  {
+    "instruction": "Wie definieren die Interviewpartner_innen Anerkennungsberatung?",
+    "input": "",
+    "output": "Als eine spezialisierte Beratungsleistung, die einen bestimmten Beratungsgegenstand fokussiert und auf eine spezifische Zielgruppe ausgerichtet ist."
+  },
+  {
+    "instruction": "Was ist die Bedeutung einer parteilichen Haltung in der Beratung?",
+    "input": "",
+    "output": "Sie erfordert eine umfassende Begleitung w\u00e4hrend des gesamten Anerkennungsverfahrens und hebt den Expert_innenstatus der Berater_innen hervor."
+  },
+  {
+    "instruction": "Was hebt der Begriff der Fachberatung hervor?",
+    "input": "",
+    "output": "Den Expert_innenstatus der Berater_innen."
+  },
+  {
+    "instruction": "Was erm\u00f6glicht die Zuordnung als Fachberatung auf institutionen\u00fcbergreifender Ebene?",
+    "input": "",
+    "output": "Die Formulierung von gemeinsamen Qualit\u00e4tsstandards als ein unabh\u00e4ngiges und individuelles Beratungsangebot."
+  },
+  {
+    "instruction": "Wie wird die Beratungshaltung in der Anerkennungsberatung eingeordnet?",
+    "input": "",
+    "output": "Als eine p\u00e4dagogische Beratung, wobei die Positionen von der Ablehnung der Bezeichnung als p\u00e4dagogische Beratung bis hin zur Auffassung reichen, dass p\u00e4dagogische Qualifikationen f\u00fcr die T\u00e4tigkeit in der Anerkennungsberatung eine Voraussetzung bilden."
+  },
+  {
+    "instruction": "Was ist auff\u00e4llig bei der Distanzierung von einem p\u00e4dagogischen Beratungsverst\u00e4ndnis?",
+    "input": "",
+    "output": "Dass sich die Distanzierung nicht auf den Gegensatz zwischen Fach- und Prozessberatung bezieht, sondern auf eine m\u00f6gliche bevormundende Beratungshaltung im Sinne eines Erziehungsauftrages und einer damit verbundenen Hilfsbed\u00fcrftigkeit."
+  },
+  {
+    "instruction": "Was stellen alle Interviewpartner_innen unabh\u00e4ngig von dem Grad der Identifizierung mit einer p\u00e4dagogischen Beratung in den Mittelpunkt?",
+    "input": "",
+    "output": "Die Eigent\u00e4tigkeit der Klient_innen im Sinne einer \u00bbHilfe zur Selbsthilfe\u00ab."
+  },
+  {
+    "instruction": "Warum ist eine p\u00e4dagogische Ausbildung f\u00fcr die Durchf\u00fchrung einer Fachberatung von besonderem Interesse?",
+    "input": "",
+    "output": "Weil mit einer p\u00e4dagogischen Qualifikation die F\u00e4higkeit zur professionellen Abgrenzung verbunden wird, welche eine notwendige Voraussetzung f\u00fcr eine spezialisierte Fachberatung darstellt."
+  },
+  {
+    "instruction": "Was erm\u00f6glicht der Begriff der Fachberatung in den Selbstbeschreibungen?",
+    "input": "",
+    "output": "Die Kombination eines emanzipativen Beratungsansatzes mit dem Zugang einer fachlichen Expert_innenberatung, wodurch auch der Handlungsspielraum der Beratung erweitert wird."
+  },
+  {
+    "instruction": "Wie wird die Einordnung als Fachberatung herangezogen?",
+    "input": "",
+    "output": "Als Argumentationszusammenhang f\u00fcr den Einsatz bestimmter Ressourcen und fachlicher Kompetenzen in Abgrenzung zu anderen Beratungsleistungen."
+  },
+  {
+    "instruction": "Was zeigt sich f\u00fcr die Anerkennungsberatung aus der bisherigen Analyse der Interviews?",
+    "input": "",
+    "output": "Ein breites Aufgabenfeld auf unterschiedlichen Ebenen."
+  },
+  {
+    "instruction": "Was kann die Verfolgung der Aufgaben und Zielsetzungen in der Beratungspraxis oft nicht erm\u00f6glichen?",
+    "input": "",
+    "output": "Der eingeschr\u00e4nkte Handlungsraum durch institutionelle, gesellschaftliche oder rechtliche Rahmenbedingungen."
+  },
+  {
+    "instruction": "Wie werden Rahmenbedingungen in diesem Kontext verstanden?",
+    "input": "",
+    "output": "Als externe Strukturen, welche au\u00dferhalb des Handlungsspielraums der Berater_innen liegen und als konstante und feststehende Bedingungen wahrgenommen werden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Untersuchung der Rahmenbedingungen?",
+    "input": "",
+    "output": "Die Identifizierung von Spannungsfeldern, die charakteristisch f\u00fcr die Anerkennungsberatung sind."
+  },
+  {
+    "instruction": "Wie unterscheiden sich die Standorte in Bezug auf die institutionellen Rahmenbedingungen?",
+    "input": "",
+    "output": "In Bezug auf die Tr\u00e4ger, Gr\u00f6\u00dfe und Ausstattung der Beratungsstellen sowie die Erreichbarkeit von Beh\u00f6rden und Einrichtungen."
+  },
+  {
+    "instruction": "Was nimmt in der Beratung einen hohen Stellenwert ein?",
+    "input": "",
+    "output": "Der Aufbau einer individuellen Beratungsbeziehung."
+  },
+  {
+    "instruction": "Welche Bedeutung hat der Aufbau einer individuellen Beratungsbeziehung in der Beratung?",
+    "input": "",
+    "output": "Der Aufbau einer individuellen Beratungsbeziehung hat einen hohen Stellenwert in der Beratung."
+  },
+  {
+    "instruction": "Wie hat sich die Nachfrage nach Beratung in den Jahren nach 2014 entwickelt?",
+    "input": "",
+    "output": "Die Nachfrage nach Beratung hat sich durch die ver\u00e4nderten Migrationsbewegungen weiter verst\u00e4rkt."
+  },
+  {
+    "instruction": "Welche Herausforderungen resultieren aus den knappen zeitlichen und personellen Ressourcen in der Beratungspraxis?",
+    "input": "",
+    "output": "Die knappen zeitlichen und personellen Ressourcen f\u00fchren zu einem hohen Handlungs- und Zeitdruck in der Beratungspraxis und erfordern einen Abw\u00e4gungsprozess in Bezug auf die m\u00f6gliche Intensit\u00e4t und den zeitlichen Umfang der Beratung."
+  },
+  {
+    "instruction": "Wie werden Beratungen in den Beratungsstellen durchgef\u00fchrt?",
+    "input": "",
+    "output": "Beratungen werden als pers\u00f6nliche Gespr\u00e4che, telefonisch und per E-Mail durchgef\u00fchrt sowie teilweise durch Gruppenangebote erg\u00e4nzt."
+  },
+  {
+    "instruction": "Was ist die Alternative zu pers\u00f6nlichen Beratungsgespr\u00e4chen, wenn diese nicht m\u00f6glich sind?",
+    "input": "",
+    "output": "Eine genau gleichwertige Beratung kann per Telefon und E-Mail stattfinden, wenn eine Fachberatung mit qualitativ guter Beratung vorhanden ist."
+  },
+  {
+    "instruction": "Welche Rahmenbedingungen auf institutioneller Ebene grenzen die Beratungspraxis ein?",
+    "input": "",
+    "output": "Die fehlende Kontinuit\u00e4t und Handlungssicherheit aufgrund der befristeten Projektfinanzierung sind eingrenzende Rahmenbedingungen auf institutioneller Ebene."
+  },
+  {
+    "instruction": "Wie wirkt sich die strukturell bedingte Unsicherheit auf die Berater_innen und die Anerkennungsberatung aus?",
+    "input": "",
+    "output": "Die strukturell bedingte Unsicherheit f\u00fchrt zu einer zus\u00e4tzlichen Belastung der Berater_innen und schr\u00e4nkt die Weiterentwicklung und Etablierung der Anerkennungsberatung als neuem Beratungsangebot ein."
+  },
+  {
+    "instruction": "Welche Rahmenbedingungen auf institutioneller Ebene werden in den Interviews als eingrenzend genannt?",
+    "input": "",
+    "output": "Die begrenzten zeitlichen und personellen Ressourcen, die fehlende Kontinuit\u00e4t und Handlungssicherheit aufgrund der befristeten Projektfinanzierung."
+  },
+  {
+    "instruction": "Warum ist eine Sicherung der Arbeit f\u00fcr die Berater_innen wichtig?",
+    "input": "",
+    "output": "Um den bereits gestressten Berater_innen Ruhe und Sicherheit zu bieten und die Weiterentwicklung und Etablierung der Anerkennungsberatung als neuem Beratungsangebot zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "Ist die Anerkennungsberatung in Deutschland gesetzlich verankert?",
+    "input": "",
+    "output": "Nein, die Anerkennungsberatung ist in Deutschland nicht gesetzlich verankert, im Gegensatz zu \u00d6sterreich, wo das Angebot einer spezifischen Beratung seit Mitte 2016 gesetzlich verankert ist."
+  },
+  {
+    "instruction": "Wie wird die Frage einer gesetzlichen Verankerung und Finanzierung in den Interviews in Deutschland diskutiert?",
+    "input": "",
+    "output": "Die Frage wird unterschiedlich diskutiert, ein gesetzlicher Anspruch auf Bundesebene bietet Transparenz und Sicherheit, aber auch eine gesetzliche Verortung auf Landesebene kann eine sinnvolle Alternative darstellen."
+  },
+  {
+    "instruction": "Warum sind bundeslandspezifische Beratungsstellen wichtig?",
+    "input": "",
+    "output": "Weil die Unterschiede in den rechtlichen Rahmenbedingungen und den Strukturen des Arbeitsmarktes Beratungsstellen in den unterschiedlichen Bundesl\u00e4ndern erfordern, die mit den jeweiligen Bedingungen vor Ort vertraut sind."
+  },
+  {
+    "instruction": "Was wird mit der rechtlichen Verankerung der Finanzierung in den Interviews verbunden?",
+    "input": "",
+    "output": "Handlungssicherheit, Kontinuit\u00e4t und eine Form der gesellschaftlichen Anerkennung und Wertsch\u00e4tzung der Beratungsstellen und der involvierten Personen."
+  },
+  {
+    "instruction": "Was ist das Ziel einer ressourcenorientierten Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel einer ressourcenorientierten Anerkennungsberatung ist es, die Ressourcen der Personen zu ber\u00fccksichtigen und deren Leistungen auch in Bezug auf den gesellschaftlichen und arbeitsmarktpolitischen Beitrag hervorzuheben."
+  },
+  {
+    "instruction": "Warum ist die rechtliche Verankerung der Finanzierung f\u00fcr die Beratungsstellen wichtig?",
+    "input": "",
+    "output": "Die rechtliche Verankerung der Finanzierung ist wichtig, weil sie Handlungssicherheit und Kontinuit\u00e4t verbunden wird und auch eine Form der gesellschaftlichen Anerkennung und Wertsch\u00e4tzung der Beratungsstellen und der involvierten Personen darstellt."
+  },
+  {
+    "instruction": "Welche Rolle spielt die Sprache im Beratungsprozess?",
+    "input": "",
+    "output": "Die Sprache spielt eine gro\u00dfe Bedeutung f\u00fcr den Aufbau der Beratungsbeziehung, da sie als zentrales Medium im Beratungsprozess gilt."
+  },
+  {
+    "instruction": "Wie wichtig ist es, dass die Beratungsstellen mehrsprachig sind?",
+    "input": "",
+    "output": "Es ist wichtig, dass die Beratungsstellen mehrsprachig sind, um eine authentische Beratungsbeziehung erm\u00f6glichen zu k\u00f6nnen und um den Bed\u00fcrfnissen der Klienten gerecht zu werden, die m\u00f6glicherweise noch kein gutes Deutsch sprechen."
+  },
+  {
+    "instruction": "Was ist ein konzeptioneller Unterschied zwischen den Beratungsstellen und den Beh\u00f6rden?",
+    "input": "",
+    "output": "Ein konzeptioneller Unterschied zwischen den Beratungsstellen und den Beh\u00f6rden ist die Schwerpunktsetzung auf interkulturelle \u00d6ffnung und die M\u00f6glichkeit, Beratung unabh\u00e4ngig von dem Stand der deutschen Sprachkenntnisse anzubieten."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Berater_innen mehrere Sprachen sprechen?",
+    "input": "",
+    "output": "Damit sie mit Klienten in deren Muttersprache kommunizieren k\u00f6nnen, auch wenn diese noch kein Wort Deutsch sprechen."
+  },
+  {
+    "instruction": "Wie wird die Verwendung von Dolmetscher_innen in der Beratung in \u00d6sterreich und Deutschland wahrgenommen?",
+    "input": "",
+    "output": "In \u00d6sterreich wird die Verwendung von Dolmetscher_innen als Hindernis f\u00fcr die Herstellung einer pers\u00f6nlichen Beratungsbeziehung gesehen, w\u00e4hrend in Deutschland der Einsatz von Dolmetscher_innen als selbstverst\u00e4ndlicher Bestandteil der Beratungsarbeit dargestellt wird."
+  },
+  {
+    "instruction": "Welchen Vorteil bietet die Kommunikation in der Muttersprache in der Beratung?",
+    "input": "",
+    "output": "Die Kommunikation in der Muttersprache ist pers\u00f6nlicher und erm\u00f6glicht eine direktere Verst\u00e4ndigung zwischen Berater_in und Klient."
+  },
+  {
+    "instruction": "Wie werden institutionelle Ressourcen f\u00fcr die Verwendung von Dolmetscher_innen in Deutschland genutzt?",
+    "input": "",
+    "output": "Viele Organisationen in Deutschland haben einen Dolmetscher_innenpool, auf den sie bei Bedarf zur\u00fcckgreifen k\u00f6nnen, insbesondere wenn Klienten keine Privatpersonen mitbringen k\u00f6nnen, die dolmetschen k\u00f6nnen."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Berater_innen biografische Erfahrungen von Migration und Anerkennungsprozessen haben?",
+    "input": "",
+    "output": "Weil dies als Vorbildfunktion bzw. Authentizit\u00e4t hinsichtlich der beruflichen Integration von Berater_innen mit im Ausland erworbenen Qualifikationen wahrgenommen wird."
+  },
+  {
+    "instruction": "Wie erfolgt die Umsetzung der mehrsprachigen Beratung in den Beratungsstellen?",
+    "input": "",
+    "output": "Die Umsetzung der mehrsprachigen Beratung erfolgt in den Beratungsstellen in Abh\u00e4ngigkeit von den zur Verf\u00fcgung stehenden Ressourcen, den jeweiligen institutionellen Vorgaben und dem zugrundeliegenden Beratungsverst\u00e4ndnis."
+  },
+  {
+    "instruction": "Was sind die zentralen Rahmenbedingungen, die in den Interviews genannt werden?",
+    "input": "",
+    "output": "Die zentralen Rahmenbedingungen, die in den Interviews genannt werden, sind die zeitlichen und personellen Ressourcen, die Erreichbarkeit einer Fachberatung und die sprachliche Konzeption."
+  },
+  {
+    "instruction": "Was spielt eine zentrale Rolle in der Beratung?",
+    "input": "",
+    "output": "Die Informations- und Wissensvermittlung zu den rechtlichen Voraussetzungen und Abl\u00e4ufen formaler Anerkennungsprozesse spielt eine zentrale Rolle in der Beratung."
+  },
+  {
+    "instruction": "Wie setzen sich die gesetzlichen Rahmenbedingungen im Bereich der Anerkennung im Ausland erworbener Qualifikationen zusammen?",
+    "input": "",
+    "output": "Die gesetzlichen Rahmenbedingungen setzen sich im Bereich der Anerkennung im Ausland erworbener Qualifikationen aus den Richtlinien und Konventionen auf europ\u00e4ischer Ebene, nationalstaatlichen Gesetzen und bundeslandspezifischen Vorgaben zusammen."
+  },
+  {
+    "instruction": "Was war das Problem der Frau aus Slowenien, die bei der Beratung vorstellig wurde?",
+    "input": "",
+    "output": "Die Frau aus Slowenien hatte eine Berufsbezeichnung als Gesundheitstechnikerin und konnte deshalb nicht als Krankenschwester, sondern nur als Pflegehelferin zugelassen werden."
+  },
+  {
+    "instruction": "Wie reagierte die Frau aus Slowenien auf die Mitteilung, dass sie nicht als Krankenschwester zugelassen werden konnte?",
+    "input": "",
+    "output": "Die Frau aus Slowenien war beleidigt und sagte, sie w\u00fcrde lieber putzen als als Pflegehelferin arbeiten."
+  },
+  {
+    "instruction": "Wie interpretiert die interviewte Person die Situation der Klientin?",
+    "input": "",
+    "output": "Die interviewte Person interpretiert die Situation der Klientin als Auswirkung strukturell bedingter Benachteiligung auf individueller Ebene."
+  },
+  {
+    "instruction": "Was ist der Widerspruch, der in der Beratung besteht?",
+    "input": "",
+    "output": "Der Widerspruch besteht zwischen dem beruflichen Selbstverst\u00e4ndnis einer anerkennenden und wertsch\u00e4tzenden Haltung und den restriktiven rechtlichen Rahmenbedingungen."
+  },
+  {
+    "instruction": "Was kann die Ausgestaltung des formalen Anerkennungsprozesses f\u00fcr die Klientinnen bedeuten?",
+    "input": "",
+    "output": "Die Ausgestaltung des formalen Anerkennungsprozesses kann f\u00fcr die Klientinnen die Gefahr der Dequalifizierung bedeuten, nicht nur durch einen negativen Bescheid, sondern bereits durch die Ausgestaltung des Prozesses selbst."
+  },
+  {
+    "instruction": "Was kann bei \u00c4rztinnen zur fachlichen Dequalifizierung f\u00fchren?",
+    "input": "",
+    "output": "Die Dauer des Anerkennungsverfahrens aufgrund fehlender M\u00f6glichkeiten der Berufsaus\u00fcbung kann zur fachlichen Dequalifizierung f\u00fchren."
+  },
+  {
+    "instruction": "Warum kann die fehlende \u00dcbereinstimmung mit einem passenden Referenzberuf zu Dequalifizierung f\u00fchren?",
+    "input": "",
+    "output": "Die fehlende \u00dcbereinstimmung mit einem passenden Referenzberuf kann zu Dequalifizierung f\u00fchren, weil im Anerkennungsverfahren die Gleichwertigkeit von formalen Qualifikationen \u00fcberpr\u00fcft wird und ein inl\u00e4ndischer Referenzberuf erforderlich ist."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung im Unterschied zu gesetzlichen Anerkennungsverfahren?",
+    "input": "",
+    "output": "Die Anerkennungsberatung beschreibt eine ganzheitliche Sichtweise, welche die beratene Person mit ihrer individuellen Berufs- und Bildungsbiografie in den Mittelpunkt stellt."
+  },
+  {
+    "instruction": "Warum kann die Dequalifizierung nicht nur aufgrund der Unterschiede zwischen den Bildungssystemen entstehen?",
+    "input": "",
+    "output": "Die Dequalifizierung kann auch aufgrund unterschiedlicher Spezialisierungen entstehen, wie die interviewte Person hervorhebt."
+  },
+  {
+    "instruction": "Welche Schwierigkeit besteht bei der Anerkennung von Berufen aus dem Ausland?",
+    "input": "",
+    "output": "Die Schwierigkeit besteht darin, dass es f\u00fcr manche Berufe keine passenden Referenzberufe in Deutschland gibt, wie zum Beispiel f\u00fcr Rauchfangkehrer oder Erzieherinnen mit einer hochspezialisierten Ausbildung f\u00fcr den Kindergarten."
+  },
+  {
+    "instruction": "Was pr\u00fcfen Anerkennungsverfahren?",
+    "input": "",
+    "output": "Anerkennungsverfahren pr\u00fcfen die Gleichwertigkeit von formalen Qualifikationen und nicht die notwendigen Voraussetzungen, um einen bestimmten Beruf auszu\u00fcben."
+  },
+  {
+    "instruction": "Warum sind Anerkennungsverfahren systematisch blind gegen\u00fcber unbekannten Qualifikationen?",
+    "input": "",
+    "output": "Anerkennungsverfahren sind systematisch blind gegen\u00fcber unbekannten Qualifikationen, weil sie nur \u00e4hnliche Qualifikationen ber\u00fccksichtigen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist das Problem bei der Teilanerkennung in Deutschland?",
+    "input": "",
+    "output": "Das Problem bei der Teilanerkennung in Deutschland ist, dass es oft nicht klar ist, wie man weitermachen kann, um eine volle Anerkennung zu erlangen, und dass die Finanzierung von Qualifizierungsangeboten oft ein Problem darstellt."
+  },
+  {
+    "instruction": "Warum sto\u00dfen Anerkennungsberatung und -verfahren bei gefl\u00fcchteten Personen an Grenzen?",
+    "input": "",
+    "output": "Anerkennungsberatung und -verfahren sto\u00dfen bei gefl\u00fcchteten Personen an Grenzen, weil diese oft keine Dokumente und Unterlagen vorlegen k\u00f6nnen, die f\u00fcr die Antragstellung erforderlich sind."
+  },
+  {
+    "instruction": "Wie kann der Nachweis von Qualifikationen erfolgen, wenn keine Zeugnisse vorliegen?",
+    "input": "",
+    "output": "Durch eine Qualifikationsanalyse, die Arbeitsproben, Fachgespr\u00e4che, praktische und theoretische Pr\u00fcfungen sowie Gutachten von Sachverst\u00e4ndigen umfassen kann."
+  },
+  {
+    "instruction": "Wie wird die F\u00fchrung akademischer Grade im Ausland in Deutschland geregelt?",
+    "input": "",
+    "output": "Jeder ausl\u00e4ndische Abschluss, der legal bei einer anerkannten ausl\u00e4ndischen Universit\u00e4t erworben wurde, gilt automatisch, muss aber in der Originalform gef\u00fchrt werden."
+  },
+  {
+    "instruction": "Gibt es Einschr\u00e4nkungen bei der F\u00fchrung akademischer Grade im Ausland in Deutschland?",
+    "input": "",
+    "output": "Ja, eine Umwandlung in einen deutschen Titel ist mit Ausnahme der Sp\u00e4taussiedler_innen nach dem Bundesvertriebenengesetz nicht mehr m\u00f6glich."
+  },
+  {
+    "instruction": "Was ist das Ziel der gesetzlichen Ver\u00e4nderungen durch das Anerkennungsgesetz in Deutschland?",
+    "input": "",
+    "output": "Das Ziel ist eine bildungsad\u00e4quate berufliche Integration, jedoch erweist sich dies insbesondere bei \u00e4lteren Abschl\u00fcssen als schwierig."
+  },
+  {
+    "instruction": "Welche Vorteile bringt das neue Anerkennungsgesetz nach Meinung der Interviewten?",
+    "input": "",
+    "output": "Die Vorteile liegen weniger in den gesetzlichen \u00c4nderungen, sondern vielmehr in der gesellschaftlichen Bewusstseinsbildung und der St\u00e4rkung der Position der Antragsteller_innen."
+  },
+  {
+    "instruction": "Wie hat sich die Position der Antragsteller_innen durch das Anerkennungsgesetz ver\u00e4ndert?",
+    "input": "",
+    "output": "Die Position der Antragsteller_innen wurde gest\u00e4rkt, insbesondere durch die Einf\u00fchrung einer dreimonatigen Frist zur Bearbeitung von Antr\u00e4gen und die Ausweitung des Rechts auf ein Anerkennungsverfahren auch auf Drittstaatsangeh\u00f6rige."
+  },
+  {
+    "instruction": "Warum ist die Einf\u00fchrung einer dreimonatigen Frist zur Bearbeitung von Antr\u00e4gen wichtig?",
+    "input": "",
+    "output": "Die Frist ist wichtig, da sie verhindert, dass Antragsteller_innen lange auf eine Antwort warten m\u00fcssen, wie es in der Vergangenheit oft der Fall war, und es ihnen erm\u00f6glicht, schneller nachzufragen."
+  },
+  {
+    "instruction": "Wie bleibt die Situation f\u00fcr im Ausland erworbene Qualifikationen trotz der Verbesserungen durch das Anerkennungsgesetz?",
+    "input": "",
+    "output": "Die gesetzlichen Rahmenbedingungen f\u00fcr im Ausland erworbene Qualifikationen bleiben ein ausdifferenziertes und un\u00fcbersichtliches System, was die Anerkennungsberatung als Unterst\u00fctzungsleistung notwendig macht."
+  },
+  {
+    "instruction": "Was sind die gesellschaftlichen Rahmenbedingungen, die in den Interviews thematisiert werden?",
+    "input": "",
+    "output": "Die strukturellen Voraussetzungen und gesellschaftlichen Bedingungen in Bezug auf das Ziel einer bildungsad\u00e4quaten beruflichen Integration."
+  },
+  {
+    "instruction": "Was sind die Grenzen der Anerkennungsberatung bei der Unterst\u00fctzung von Klient_innen?",
+    "input": "",
+    "output": "Die Anerkennungsberatung kann kein vollst\u00e4ndiges Bewerbungscoaching oder Laufbahnberatung machen und kann Klient_innen keinen Job vermitteln, da sie weder das Instrumentarium noch die Kontakte daf\u00fcr hat."
+  },
+  {
+    "instruction": "Was sind die Schwierigkeiten, mit denen sich die Berater_innen in der Anerkennungsberatung auseinandersetzen m\u00fcssen?",
+    "input": "",
+    "output": "Die schwierigen Bedingungen der beruflichen Integration, insbesondere wenn Klient_innen trotz formaler Anerkennung keine Arbeit finden k\u00f6nnen."
+  },
+  {
+    "instruction": "Was bedeutet ein formales Anerkennungsverfahren f\u00fcr die Klient_innen?",
+    "input": "",
+    "output": "Ein hoher zeitlicher und oft auch finanzieller Aufwand, der zu Entt\u00e4uschung und Frustration f\u00fchren kann, wenn die erwartete erfolgreiche bildungsad\u00e4quate berufliche Integration nicht erreicht wird."
+  },
+  {
+    "instruction": "Warum ist es schwierig, soziale Wertsch\u00e4tzung ohne formale Anerkennung zu erreichen?",
+    "input": "",
+    "output": "Weil die Nachfrage am Arbeitsmarkt und die Vereinbarung mit den Arbeitgeber_innen eine wichtige Rolle spielen."
+  },
+  {
+    "instruction": "Was ist wichtig f\u00fcr die Anerkennung von im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Die Bereitschaft der Arbeitgeber_innen zur Anerkennung und die Sensibilisierung des Marktes sind wichtig."
+  },
+  {
+    "instruction": "Warum sind Arbeitgeber_innen manchmal nicht bereit, Personen mit im Ausland erworbenen Qualifikationen einzustellen?",
+    "input": "",
+    "output": "Weil sie Unsicherheit und fehlendes Wissen in Bezug auf die Gleichwertigkeit und die rechtlichen Voraussetzungen im Inland haben."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass die Anerkennung von Qualifikationen gesetzlich geregelt ist?",
+    "input": "",
+    "output": "Damit es keine Unsicherheit und keine Probleme bei der Anerkennung gibt."
+  },
+  {
+    "instruction": "Was ist das Problem f\u00fcr Handwerker, wenn sie im Ausland erworbenen Qualifikationen in \u00d6sterreich anerkennen lassen m\u00f6chten?",
+    "input": "",
+    "output": "Das Problem ist, dass es sich um einen nichtreglementierten Beruf handelt und es keine rechtlichen Regelungen gibt, um das Vertrauen in die Qualifikation zu gewinnen."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Bewertungen f\u00fcr im Ausland erworbenen Qualifikationen in \u00d6sterreich ausgestellt werden?",
+    "input": "",
+    "output": "Bewertungen k\u00f6nnen durch ENIC-NARIC ausgestellt werden, jedoch nur f\u00fcr akademische Qualifikationen im nichtreglementierten Bereich."
+  },
+  {
+    "instruction": "Was w\u00e4re hilfreich f\u00fcr Beratungsstellen, um die Anerkennung von im Ausland erworbenen Qualifikationen zu unterst\u00fctzen?",
+    "input": "",
+    "output": "Es w\u00e4re hilfreich, wenn Bewertungen auch f\u00fcr sekund\u00e4re Abschl\u00fcsse im nichtreglementierten Bereich ausgestellt werden k\u00f6nnten."
+  },
+  {
+    "instruction": "Warum ist die Anerkennung von im Ausland erworbenen Qualifikationen wichtig?",
+    "input": "",
+    "output": "Die Anerkennung ist wichtig, um Transparenz zwischen der im Ausland erworbenen Qualifikation und dem inl\u00e4ndischen Arbeitsmarkt herzustellen und um die gesellschaftliche Anerkennung und Wertsch\u00e4tzung zu f\u00f6rdern."
+  },
+  {
+    "instruction": "Was ist die Herausforderung bei der Anerkennung von im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Die Herausforderung ist, dass es sich um eine globale Frage der Sensibilisierung und gesellschaftlichen Aufkl\u00e4rung handelt, die sich den Einflussm\u00f6glichkeiten der Beratung zun\u00e4chst entzieht."
+  },
+  {
+    "instruction": "Welche Sichtweise wird in der \u00d6ffentlichkeit oft vertreten, wenn es um ausl\u00e4ndische Abschl\u00fcsse geht?",
+    "input": "",
+    "output": "Ein defizitorientiertes Denken, das sich auf das fehlende betrachtet, anstatt auf die zus\u00e4tzlichen Ressourcen, die die Person mitbringt."
+  },
+  {
+    "instruction": "Was ist ein gro\u00dfes Ziel in Bezug auf die Anerkennung ausl\u00e4ndischer Qualifikationen?",
+    "input": "",
+    "output": "Dass ausl\u00e4ndische Abschl\u00fcsse als wertvoll betrachtet werden und dass sich die Sichtweise von einem Defizitdenken zu einem ressourcenorientierten Ansatz \u00e4ndert."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Arbeitgeber_innen bei der Anerkennung ausl\u00e4ndischer Qualifikationen unterst\u00fctzt werden?",
+    "input": "",
+    "output": "Durch direkten Kontakt und Informationsvermittlung, um sie \u00fcber die notwendigen Abl\u00e4ufe zu informieren."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Arbeitgeber_innen sich an die Beratungsstellen wenden, um sich \u00fcber die Anerkennung ausl\u00e4ndischer Qualifikationen zu informieren?",
+    "input": "",
+    "output": "Damit sie wissen, wie sie Personen mit im Ausland erworbenen Qualifikationen einstellen k\u00f6nnen und um den Erfolg der Anerkennungsberatung zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie h\u00e4ufig werden Arbeitgeber_innen in den Interviews als Zielgruppe genannt?",
+    "input": "",
+    "output": "Arbeitgeber_innen werden in den Interviews nur vereinzelt und auf R\u00fcckfrage als Zielgruppe genannt."
+  },
+  {
+    "instruction": "Wie findet der Kontakt zwischen Arbeitgeber_innen und Beratungsstellen statt?",
+    "input": "",
+    "output": "Der Kontakt zwischen Arbeitgeber_innen und Beratungsstellen findet prim\u00e4r per E-Mail statt und betrifft meistens konkrete Einzelf\u00e4lle."
+  },
+  {
+    "instruction": "Welche Branchen zeigen eine Differenzierung bei der Kontaktaufnahme mit Beratungsstellen?",
+    "input": "",
+    "output": "Es zeigt sich eine Differenzierung nach unterschiedlichen Branchen, insbesondere im Pflegebereich, Zeitarbeitsbereich und bei der Handwerkskammer."
+  },
+  {
+    "instruction": "Warum ist das Interesse der Arbeitgeber_innen an Anerkennungsberatung gering?",
+    "input": "",
+    "output": "Das geringe Interesse der Arbeitgeber_innen an Anerkennungsberatung liegt nicht zwangsl\u00e4ufig an fehlendem Interesse oder fehlender Bereitschaft, sondern teilweise auch daran, dass Anerkennungsberatung nicht als geeignete Anlaufstelle wahrgenommen wird."
+  },
+  {
+    "instruction": "Wie k\u00f6nnte die Situation des Fachkr\u00e4ftemangels genutzt werden, um Arbeitgeber_innen in den Prozess der beruflichen Integration einzubinden?",
+    "input": "",
+    "output": "Die Situation des Fachkr\u00e4ftemangels k\u00f6nnte als Chance genutzt werden, Arbeitgeber_innen in den Prozess der bildungsad\u00e4quaten beruflichen Integration verst\u00e4rkt einzubinden, insbesondere durch das Anerkennungsgesetz in Deutschland."
+  },
+  {
+    "instruction": "Wie wird das Anerkennungsgesetz in Deutschland im Kontext der gesellschaftlichen Wahrnehmung gesehen?",
+    "input": "",
+    "output": "Das Anerkennungsgesetz in Deutschland kann als wichtiger Fortschritt gesehen werden, der allerdings noch nicht mit der gesellschaftlichen Wahrnehmung \u00fcbereinstimmt."
+  },
+  {
+    "instruction": "Welche Herausforderungen sehen die Interviewpartner_innen auf gesellschaftlicher Ebene?",
+    "input": "",
+    "output": "Die Interviewpartner_innen thematisieren die fehlende soziale Wertsch\u00e4tzung von formalen Anerkennungen und die teilweise geringe Bereitschaft von Arbeitgeber_innen, im Ausland erworbene Qualifikationen anzuerkennen."
+  },
+  {
+    "instruction": "Wie wird die gesellschaftliche Sensibilisierung im Kontext der Anerkennungsberatung wahrgenommen?",
+    "input": "",
+    "output": "Die gesellschaftliche Sensibilisierung wird als ein umfassender Entwicklungsprozess wahrgenommen, der sich den Zielsetzungen und dem Wirkungsbereich der Anerkennungsberatung gr\u00f6\u00dftenteils entzieht und in dem dadurch nur sehr langsame Fortschritte m\u00f6glich sind."
+  },
+  {
+    "instruction": "Welche Spannungsfelder gibt es in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Es gibt Spannungsfelder zwischen dem Selbstverst\u00e4ndnis und den Handlungsbedingungen von Berater_innen, insbesondere auf den Ebenen des Beratungsgespr\u00e4chs, der institutionellen Ebene und der rechtlichen Ebene."
+  },
+  {
+    "instruction": "Welche Rahmenbedingungen erschweren einen ressourcenorientierten Zugang zur Beratung?",
+    "input": "",
+    "output": "Die fehlende soziale Wertsch\u00e4tzung auf der gesellschaftlichen Ebene, restriktive rechtliche Rahmenbedingungen, knappe Personal- und Zeitressourcen sowie Planungsunsicherheit durch befristete Projektfinanzierungen erschweren einen ressourcenorientierten Zugang zur Beratung."
+  },
+  {
+    "instruction": "Was umfasst das Aufgabenfeld auf rechtlicher Ebene in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Aufgabenfeld auf rechtlicher Ebene umfasst die Unterst\u00fctzung und Begleitung bei dem Prozess der formalen Anerkennung."
+  },
+  {
+    "instruction": "Welche Voraussetzungen m\u00fcssen erf\u00fcllt sein, damit die Anerkennungsberatung erfolgreich sein kann?",
+    "input": "",
+    "output": "Voraussetzung f\u00fcr die \u00dcbernahme einer Filterfunktion und die Weitergabe der fachlichen Expertise sind funktionierende Kommunikations- und Kooperationsstrukturen mit den beh\u00f6rdlichen Anerkennungsstellen sowie eine entsprechende Anerkennung der Beratungsstellen durch Arbeitgeber_innen und politische Akteur_innen."
+  },
+  {
+    "instruction": "Welche Aufgaben \u00fcbernimmt die Anerkennungsberatung auf gesellschaftlicher Ebene?",
+    "input": "",
+    "output": "Die Anerkennungsberatung \u00fcbernimmt Aufgaben zur Unterst\u00fctzung der beruflichen und bildungsbezogenen Integration."
+  },
+  {
+    "instruction": "Was erschwert die Umsetzung der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Umsetzung wird erschwert durch individuelle und strukturelle Diskriminierung, geringe soziale Wertsch\u00e4tzung von formalen Anerkennungen und die Unsicherheit im Umgang mit im Ausland erworbenen Qualifikationen."
+  },
+  {
+    "instruction": "Was sind die Herausforderungen bei der Anerkennung von Qualifikationen, die im Ausland erworben wurden?",
+    "input": "",
+    "output": "F\u00fcr Qualifikationen, die im Ausland erworben wurden, existieren keine Anerkennungs- oder Bewertungsverfahren, insbesondere bei fehlenden Nachweisen und Dokumenten aufgrund von Flucht."
+  },
+  {
+    "instruction": "Was sind die Spannungsfelder in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Spannungsfelder in der Anerkennungsberatung sind restriktive Rahmenbedingungen, knappe Zeit- und Personalressourcen, fehlende Anerkennung der Beratungsstellen, ausdifferenzierte und un\u00fcbersichtliche rechtliche Rahmenbedingungen und Zust\u00e4ndigkeiten, fehlende (Weiter-)Bildungsangebote, verweigerte soziale Wertsch\u00e4tzung, mangelnde Bereitschaft, Unsicherheit und Diskriminierung."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung ist es, M\u00f6glichkeiten aufzuzeigen, im Ausland erworbene Qualifikationen im Kontext der beruflichen Entwicklung von Ratsuchenden in Deutschland zu nutzen."
+  },
+  {
+    "instruction": "Wie wird erfolgreiche Beratung in der Anerkennungsberatung gemessen?",
+    "input": "",
+    "output": "Erfolgreiche Beratung wird unter anderem \u00fcber das Kriterium der Zufriedenheit der beratenen Personen erfasst und gemessen, sowie durch strukturelle Ver\u00e4nderungen wie die erfolgreiche berufliche Integration oder den positiven Abschluss eines formalen Anerkennungsverfahrens."
+  },
+  {
+    "instruction": "Was sind die Zielsetzungen von Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Zielsetzungen von Anerkennungsberatung sind die Erh\u00f6hung der Handlungs- und Entscheidungsf\u00e4higkeit der beratenen Person auf individueller Ebene oder die bildungsad\u00e4quate berufliche Integration auf gesellschaftlicher Ebene."
+  },
+  {
+    "instruction": "Wie wichtig ist der Zugang zu relevanten Informationen f\u00fcr den Anerkennungs- und Integrationsprozess?",
+    "input": "",
+    "output": "Der Zugang zu relevanten Informationen wird als zentral f\u00fcr den Verlauf des Anerkennungs- und Integrationsprozesses betrachtet."
+  },
+  {
+    "instruction": "Wie wird die formale Anerkennung auf rechtlicher Ebene in den Interviews thematisiert?",
+    "input": "",
+    "output": "Die formale Anerkennung auf rechtlicher Ebene wird in keinem Interview als prim\u00e4res Ziel der Anerkennungsberatung thematisiert."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, den Klient_innen die notwendigen Informationen und das Wissen zu Verf\u00fcgung zu stellen, damit sie nach der Beratung Entscheidungen selbstst\u00e4ndig treffen und eigenverantwortlich umsetzen k\u00f6nnen."
+  },
+  {
+    "instruction": "Warum ist der Zugang zu relevanten Informationen wichtig?",
+    "input": "",
+    "output": "Der Zugang zu relevanten Informationen wird eine zentrale Bedeutung f\u00fcr den Verlauf des Anerkennungs- und Integrationsprozesses zugesprochen."
+  },
+  {
+    "instruction": "Was bedeutet erfolgreiche Beratung f\u00fcr die Berater_innen?",
+    "input": "",
+    "output": "Erfolgreiche Beratung bedeutet f\u00fcr die Berater_innen, dass die Klient_innen Klarheit und Transparenz haben und ihre Ziele nach der Beratung selbstst\u00e4ndig umsetzen k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie soll die Eigent\u00e4tigkeit und Selbst\u00e4ndigkeit der Klient_innen gest\u00e4rkt werden?",
+    "input": "",
+    "output": "Die Eigent\u00e4tigkeit und Selbst\u00e4ndigkeit der Klient_innen soll durch die Vorbereitung der weiteren Handlungsschritte und die Selbstst\u00e4ndigkeit bei der Entscheidungsfindung gest\u00e4rkt werden."
+  },
+  {
+    "instruction": "Was sind die Kriterien f\u00fcr erfolgreiche Beratung?",
+    "input": "",
+    "output": "Die Kriterien f\u00fcr erfolgreiche Beratung sind die Erh\u00f6hung der individuellen Entscheidungs- und Handlungsf\u00e4higkeit, die Klarheit \u00fcber die n\u00e4chsten Schritte und die F\u00e4higkeit, eigenst\u00e4ndig Entscheidungen und Handlungen umzusetzen."
+  },
+  {
+    "instruction": "Wie kann die Erfolgsdefinition von Beratung in F\u00e4llen mit zeitlicher Begrenzung der Beratungsbeziehung aussehen?",
+    "input": "",
+    "output": "In F\u00e4llen mit zeitlicher Begrenzung der Beratungsbeziehung kann erfolgreiche Beratung auch darin gesehen werden, dass die Klient_innen die Beratung nicht nochmals aufgrund des gleichen Beratungsanliegens in Anspruch nehmen, sondern eigenst\u00e4ndig ihre Entscheidungen und Handlungen umsetzen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was sind die Erfolgskriterien f\u00fcr eine erfolgreiche Beratung?",
+    "input": "",
+    "output": "Die Erfolgskriterien f\u00fcr eine erfolgreiche Beratung sind nicht die erfolgreiche berufliche Integration oder die formale Anerkennung, sondern die Herstellung von Transparenz zwischen dem Diplom und dem \u00f6sterreichischen Arbeitsmarkt."
+  },
+  {
+    "instruction": "Warum wird die bildungsad\u00e4quate berufliche Integration als Erfolgskriterium abgelehnt?",
+    "input": "",
+    "output": "Die bildungsad\u00e4quate berufliche Integration wird als Erfolgskriterium abgelehnt, weil die Erreichung dieses Ziels im Kontext des unmittelbaren Beratungsgespr\u00e4chs nicht erfahren werden kann."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung ist es, eine Vermittlung zwischen den individuellen Handlungsm\u00f6glichkeiten und den arbeitsmarkt-politisch und strukturell begr\u00fcndeten Handlungsbedingungen zu schaffen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung wird in der Vermittlung zwischen den individuellen Handlungsm\u00f6glichkeiten und den arbeitsmarkt- und strukturell begr\u00fcndeten Handlungsbedingungen gesehen."
+  },
+  {
+    "instruction": "Wie definiert die interviewte Person Erfolg in der Beratung?",
+    "input": "",
+    "output": "Erfolg ist, wenn die Person die notwendigen Informationen erhalten und verstanden hat, unabh\u00e4ngig davon, ob die Information positiv ist oder nicht."
+  },
+  {
+    "instruction": "Warum ist die Abgrenzung von externen Erwartungen f\u00fcr die eigene professionelle T\u00e4tigkeit wichtig?",
+    "input": "",
+    "output": "Die Abgrenzung von externen Erwartungen ist wichtig, um die eigene professionelle T\u00e4tigkeit realistisch zu bewerten und nicht an unerreichbaren Zielen wie qualifikationsad\u00e4quater Besch\u00e4ftigung zu scheitern."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung gem\u00e4\u00df dem Interview?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, dass die Person nach der Beratung wei\u00df, welche M\u00f6glichkeiten sie in Deutschland hat und was sie tun muss, um ihre Ziele zu erreichen."
+  },
+  {
+    "instruction": "Warum ist die Abgrenzung von dem extern definierten Kriterium der formalen Anerkennung wichtig?",
+    "input": "",
+    "output": "Die Abgrenzung von dem extern definierten Kriterium der formalen Anerkennung ist wichtig, weil die Beratung nicht immer eine Anerkennung garantieren kann und das Ziel vielmehr darin besteht, die Person zu bef\u00e4higen, ihre eigenen Entscheidungen zu treffen und ihre Ziele zu erreichen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel ist, dass die Person nach der Beratung wei\u00df, welche M\u00f6glichkeiten sie in Deutschland mit ihrem Abschluss hat und was sie tun muss, um ihre Ziele zu erreichen."
+  },
+  {
+    "instruction": "Warum wird die formale Anerkennung auf rechtlicher Ebene als Erfolgskriterium abgelehnt?",
+    "input": "",
+    "output": "Die Anerkennungsberatung kann nicht direkt auf das formale Anerkennungsverfahren einwirken und die R\u00fcckmeldungen zu erfolgreich abgeschlossenen Verfahren sind nur eingeschr\u00e4nkt."
+  },
+  {
+    "instruction": "Was fordert die interviewte Person stattdessen?",
+    "input": "",
+    "output": "Eine st\u00e4rkere Positionierung der Anerkennungsberatung in Abgrenzung von der externen Anforderung einer formalen Anerkennung."
+  },
+  {
+    "instruction": "Warum gibt es so viel Beratung, aber so wenig Antr\u00e4ge?",
+    "input": "",
+    "output": "Es gibt viele Gr\u00fcnde, wie z.B. dass es ein langer Prozess ist, dass die Personen noch nicht entschieden haben, einen Antrag zu stellen, oder dass die Kosten abschreckend sind."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung in Bezug auf Antr\u00e4ge?",
+    "input": "",
+    "output": "Das Ziel ist nicht, so viele Antr\u00e4ge wie m\u00f6glich zu haben, sondern dass die Personen das Bestm\u00f6gliche f\u00fcr sich herausholen."
+  },
+  {
+    "instruction": "Wie kann die erfolgreiche Beratung auch \u00fcber die Zusammenarbeit mit den anerkennenden Stellen erfolgen?",
+    "input": "",
+    "output": "Durch die Zielsetzung, individuelle Orientierung zu geben, und die R\u00fcckmeldungen der zust\u00e4ndigen Stellen als zus\u00e4tzliche Erfolgskriterien heranzuziehen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung im Kontext der Anerkennung ausl\u00e4ndischer Abschl\u00fcsse?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, die individuelle Handlungs- und Entscheidungsf\u00e4higkeit zu st\u00e4rken."
+  },
+  {
+    "instruction": "Wie wird eine erfolgreiche Beratung im Kontext der Anerkennung ausl\u00e4ndischer Abschl\u00fcsse definiert?",
+    "input": "",
+    "output": "Eine erfolgreiche Beratung wird definiert, wenn die Entscheidungen und Handlungen der Klient_innen tats\u00e4chlich umgesetzt und damit l\u00e4ngerfristig etwas bewirkt werden konnte."
+  },
+  {
+    "instruction": "Was ist ein Kriterium f\u00fcr eine erfolgreiche Beratung im Kontext der Anerkennung ausl\u00e4ndischer Abschl\u00fcsse?",
+    "input": "",
+    "output": "Ein Kriterium f\u00fcr eine erfolgreiche Beratung ist die Erh\u00f6hung der Entscheidungs- und Handlungsf\u00e4higkeit der Klient_innen."
+  },
+  {
+    "instruction": "Wie wird die R\u00fcckmeldung \u00fcber eine erfolgreiche Beratung im Kontext der Anerkennung ausl\u00e4ndischer Abschl\u00fcsse erfolgen?",
+    "input": "",
+    "output": "Die R\u00fcckmeldung \u00fcber eine erfolgreiche Beratung kann \u00fcber die individuelle Ebene des Beratungsgespr\u00e4chs hinaus auch durch die jeweiligen Beh\u00f6rden auf struktureller Ebene erfolgen."
+  },
+  {
+    "instruction": "Was ist ein weiteres Kriterium f\u00fcr eine erfolgreiche Beratung im Kontext der Anerkennung ausl\u00e4ndischer Abschl\u00fcsse?",
+    "input": "",
+    "output": "Ein weiteres Kriterium f\u00fcr eine erfolgreiche Beratung ist, dass eine ausbildungsad\u00e4quate Besch\u00e4ftigung gefunden wird."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung laut den Experten?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist ein qualifikationsad\u00e4quater Arbeitsmarkteinstieg."
+  },
+  {
+    "instruction": "Wie wird die erfolgreiche Beratung von den Gespr\u00e4chspartnern wahrgenommen?",
+    "input": "",
+    "output": "Eine erfolgreiche Beratung wird wahrgenommen, wenn die Person zufrieden ist mit dem Ergebnis und eine ausbildungsad\u00e4quate Besch\u00e4ftigung gefunden wird."
+  },
+  {
+    "instruction": "Wie wichtig ist die Beratungsbeziehung f\u00fcr den Erfolg der Beratung?",
+    "input": "",
+    "output": "Die Beratungsbeziehung ist sehr wichtig, da sie aufgrund der mehrfachen pers\u00f6nlichen und schriftlichen Beratungskontakte sowie der praktischen Unterst\u00fctzung im Verfahren entsteht und zu einer positiv erlebten Beratung f\u00fchrt."
+  },
+  {
+    "instruction": "Wie bleiben die Berater mit den Klienten in Kontakt?",
+    "input": "",
+    "output": "Die Berater bleiben mit den Klienten in Kontakt durch mehrere Gespr\u00e4che, Telefonate und E-Mails, auch nach dem Erstgespr\u00e4ch."
+  },
+  {
+    "instruction": "Was ist ein Beispiel f\u00fcr eine erfolgreiche Beratung?",
+    "input": "",
+    "output": "Ein Beispiel f\u00fcr eine erfolgreiche Beratung ist die Geschichte einer Klientin, die als ausgebildete Krankenschwester mit null Deutschkenntnissen begann, dann bis zu B2 kam, ihren Nostrifizierungslehrgang machte und letztendlich im Krankenhaus als Krankenschwester arbeitet."
+  },
+  {
+    "instruction": "Warum melden sich die Klienten zur\u00fcck, um von ihrem weiteren beruflichen Verlauf zu berichten?",
+    "input": "",
+    "output": "Die Klienten melden sich zur\u00fcck, weil sie sich bei den Beratern best\u00e4tigt und wahrgenommen f\u00fchlen und weil sie eine positive Beziehung zu den Beratern aufgebaut haben."
+  },
+  {
+    "instruction": "Was ist f\u00fcr die interviewte Person ein Zeichen daf\u00fcr, dass die Beratung erfolgreich war?",
+    "input": "",
+    "output": "Ein Zeichen daf\u00fcr ist, wenn die Person mittel- oder langfristig eine berufliche Integration schafft, die f\u00fcr sie zufriedenstellend ist."
+  },
+  {
+    "instruction": "Warum f\u00fchlen sich die Klienten bei der interviewten Person best\u00e4tigt und wahrgenommen?",
+    "input": "",
+    "output": "Weil die interviewte Person als Migrant mit \u00e4hnlicher Bildungs- und Berufsbiografie verstanden wird und deshalb ein Verst\u00e4ndnis f\u00fcr die individuelle Situation der Klienten hat."
+  },
+  {
+    "instruction": "Was ist ein weiteres Ziel der Beratung neben der beruflichen Integration?",
+    "input": "",
+    "output": "Ein weiteres Ziel ist es, den Klienten zu helfen, ihre Bildungsabschl\u00fcsse wertgesch\u00e4tzt zu bekommen und sich damit bewerben zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie beschreibt die interviewte Person den Erfolg der Beratung?",
+    "input": "",
+    "output": "Die interviewte Person beschreibt den Erfolg als eine Kombination aus beruflicher Integration, Wertgesch\u00e4tzung der Bildungsabschl\u00fcsse und der M\u00f6glichkeit, sich weiterzuentwickeln."
+  },
+  {
+    "instruction": "Was ist ANABIN und wie wird es in der Beratung verwendet?",
+    "input": "",
+    "output": "ANABIN ist ein Infoportal zu im Ausland erworbenen Bildungsabschl\u00fcssen und wird verwendet, um den Klienten zu erkl\u00e4ren, dass ihre Abschl\u00fcsse auch in Deutschland anerkannt werden und sie sich damit bewerben k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist nach Meinung der interviewten Person ein Erfolg in der Beratung?",
+    "input": "",
+    "output": "Ein Erfolg in der Beratung ist nach Meinung der interviewten Person die berufliche Integration, insbesondere wenn die Person eine qualifikationsad\u00e4quate Stelle erh\u00e4lt."
+  },
+  {
+    "instruction": "Welche Ebenen von Anerkennung werden durch Beratung unterst\u00fctzt?",
+    "input": "",
+    "output": "Durch Beratung werden verschiedene Ebenen von Anerkennung unterst\u00fctzt, wie zum Beispiel die formale oder gesellschaftliche Anerkennung der im Ausland erworbenen Qualifikation, das pers\u00f6nliche Selbstwertgef\u00fchl, der weitere Bildungsweg und die Anerkennung gegen\u00fcber Beh\u00f6rden."
+  },
+  {
+    "instruction": "Was ist nach Meinung der interviewten Person ein wichtiger Aspekt in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Ein wichtiger Aspekt in der Anerkennungsberatung ist nach Meinung der interviewten Person die klare Positionierung und die Erreichung konkreter Ergebnisse f\u00fcr die Klient_innen auf gesellschaftlicher und rechtlicher Ebene."
+  },
+  {
+    "instruction": "Warum ist die Anerkennungsberatung wichtig?",
+    "input": "",
+    "output": "Die Anerkennungsberatung ist wichtig, weil Migration immer stattfinden wird und es wichtig ist, dass es Beratungsstellen gibt, die sich mit ausl\u00e4ndischen Qualifikationen besch\u00e4ftigen und den Menschen helfen, ihre Ziele zu erreichen."
+  },
+  {
+    "instruction": "Welche F\u00e4higkeiten sind nach Meinung der interviewten Person wichtig f\u00fcr eine erfolgreiche Anerkennungsberatung?",
+    "input": "",
+    "output": "F\u00fcr eine erfolgreiche Anerkennungsberatung sind nach Meinung der interviewten Person eine umfassende Ausbildung, Empathie und viele unterschiedliche Kompetenzen wichtig."
+  },
+  {
+    "instruction": "Was sind die wichtigsten Faktoren f\u00fcr eine erfolgreiche Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine umfassende Ausbildung, Empathie und sehr viele unterschiedliche Kompetenzen."
+  },
+  {
+    "instruction": "Wie misst die interviewte Person den Erfolg einer Beratung?",
+    "input": "",
+    "output": "Wenn die Klient_innen ein bestimmtes Ziel erreicht haben und sich selbstst\u00e4ndig weiterentwickeln k\u00f6nnen."
+  },
+  {
+    "instruction": "Welche Rolle spielen l\u00e4ngerfristige Ziele in der Anerkennungsberatung?",
+    "input": "",
+    "output": "L\u00e4ngerfristige Ziele sind wichtig, um den Erfolg einer Beratung zu messen und um sicherzustellen, dass die Klient_innen ihre Ziele erreichen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was sind die Vorteile einer pers\u00f6nlichen Beratung im Vergleich zur E-Mail-Beratung?",
+    "input": "",
+    "output": "Pers\u00f6nliche Beratung erm\u00f6glicht es, regelm\u00e4\u00dfig Folgetermine zu vereinbaren und den Fortschritt der Klient_innen besser zu verfolgen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung im Sinne einer bildungsad\u00e4quaten Integration in den Arbeitsmarkt?",
+    "input": "",
+    "output": "Das Ziel ist die Integration in den Arbeitsmarkt durch eine passende Berufst\u00e4tigkeit."
+  },
+  {
+    "instruction": "Wie beurteilen die Berater_innen den Erfolg einer Beratung?",
+    "input": "",
+    "output": "Der Erfolg wird durch das Kriterium einer bildungsad\u00e4quaten beruflichen Integration beurteilt."
+  },
+  {
+    "instruction": "Warum bevorzugen die interviewten Personen pers\u00f6nliche Beratungsgespr\u00e4che?",
+    "input": "",
+    "output": "Weil hier aufgrund der entwickelten Beratungsbeziehung mit gr\u00f6\u00dferer Wahrscheinlichkeit eine R\u00fcckmeldung erfolgt als bei k\u00fcrzeren oder anonymisierten Beratungskontakten."
+  },
+  {
+    "instruction": "Was ist die erste Kategorie von Handlungsstrategien, die die Berater_innen anwenden?",
+    "input": "",
+    "output": "Die erste Kategorie sind Handlungen, die auf das Anerkennungsverh\u00e4ltnis auf der Interaktionsebene des Beratungsgespr\u00e4chs zur\u00fcckgreifen und dieses im Sinn eines emanzipativen Beratungsansatzes weiter st\u00e4rken."
+  },
+  {
+    "instruction": "Was ist die Funktion der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Anerkennungsberatung bezieht sich auf die individuelle Ebene der Klient_innen und auch auf eine strukturelle Ebene, um die sozialstrukturellen Rahmenbedingungen zu ver\u00e4ndern."
+  },
+  {
+    "instruction": "Wie wird die St\u00e4rkung der Handlungs- und Entscheidungsf\u00e4higkeit der Klient_innen erreicht?",
+    "input": "",
+    "output": "Die St\u00e4rkung der Handlungs- und Entscheidungsf\u00e4higkeit der Klient_innen wird durch eine anerkennende Beratungsbeziehung und die Affirmation pers\u00f6nlicher F\u00e4higkeiten und Eigenschaften erreicht."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beratung im Umgang mit formalen Bescheiden zu Anerkennungsverfahren?",
+    "input": "",
+    "output": "Die Beratung \u00fcbernimmt die Funktion, die Ratsuchenden zu best\u00e4rken, sich im Umgang mit formalen Bescheiden zu Anerkennungsverfahren selbstbewusster zu positionieren und die praktische Bedeutung von formalen Bescheiden zu erkl\u00e4ren."
+  },
+  {
+    "instruction": "Wie wird die Unterst\u00fctzungsleistung der Beratung erreicht?",
+    "input": "",
+    "output": "Die Unterst\u00fctzungsleistung der Beratung wird \u00fcber die Vermittlung von Informationen und Wissen in Verbindung mit einer anerkennenden Beratungshaltung erreicht."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Anerkennungstheorie f\u00fcr die Beratung?",
+    "input": "",
+    "output": "Die Anerkennungstheorie betont die Bedeutung von Interaktionen, die als Anerkennungsverh\u00e4ltnisse charakterisiert werden k\u00f6nnen, f\u00fcr die Selbstentwicklung der Klient_innen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung in der Migrationsgesellschaft?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, eine Best\u00e4tigung von Anerkennungsverh\u00e4ltnissen zu erm\u00f6glichen und die Klient_innen in ihrer eigenst\u00e4ndigen Entscheidungsf\u00e4higkeit zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie wird die Transparenz in der Beratung hergestellt?",
+    "input": "",
+    "output": "Die Transparenz wird durch die Unterst\u00fctzung bei der Herstellung von Transparenz erm\u00f6glicht, wodurch eigenst\u00e4ndige Entscheidungen der Klient_innen erm\u00f6glicht werden."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr die Herstellung von Transparenz in der Beratung?",
+    "input": "",
+    "output": "Die Voraussetzung f\u00fcr die Herstellung von Transparenz ist eine ressourcenorientierte Perspektive in der Beratung, aus der heraus die erworbenen Qualifikationen und Kompetenzen unabh\u00e4ngig von formaler Anerkennung wertgesch\u00e4tzt und anerkannt werden."
+  },
+  {
+    "instruction": "Was ist das Ziel des ressourcenorientierten Beratungsansatzes?",
+    "input": "",
+    "output": "Das Ziel des ressourcenorientierten Beratungsansatzes ist es, die Klient_innen in ihrer Handlungsf\u00e4higkeit und Entscheidungsf\u00e4higkeit zu unterst\u00fctzen und zu st\u00e4rken, auch angesichts struktureller Hindernisse und Grenzen."
+  },
+  {
+    "instruction": "Was ist ein ressourcenorientierter Zugang in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Ein ressourcenorientierter Zugang in der Anerkennungsberatung ist besonders wichtig f\u00fcr die Herstellung eines Anerkennungsverh\u00e4ltnisses auf pers\u00f6nlicher Ebene und die Entwicklung von Handlungsalternativen im Sinne von Empowerment."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzen Berater_innen Klient_innen bei verweigerter Anerkennung auf rechtlicher oder gesellschaftlicher Ebene?",
+    "input": "",
+    "output": "Berater_innen unterst\u00fctzen Klient_innen bei verweigerter Anerkennung auf rechtlicher oder gesellschaftlicher Ebene, indem sie erfahrene Aberkennung bzw. verweigerte Anerkennung zum Beratungsgegenstand machen und nach Alternativen suchen."
+  },
+  {
+    "instruction": "Was ist die Kompetenz der beratenden Person in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Kompetenz der beratenden Person in der Anerkennungsberatung besteht darin, erfahrene Aberkennung bzw. verweigerte Anerkennung auf rechtlicher und gesellschaftlicher Ebene zum Beratungsgegenstand zu machen, ohne das Anerkennungsverh\u00e4ltnis auf der Interaktionsebene des Beratungsgespr\u00e4chs zu gef\u00e4hrden."
+  },
+  {
+    "instruction": "Wie kann die Herstellung eines Anerkennungsverh\u00e4ltnisses auf der Beratungsebene unterst\u00fctzt werden?",
+    "input": "",
+    "output": "Die Herstellung eines Anerkennungsverh\u00e4ltnisses auf der Beratungsebene kann durch die Verwendung von Empowermentstrategien unterst\u00fctzt werden, um die Person in ihrer eigenst\u00e4ndigen Entscheidungs- und Handlungsf\u00e4higkeit zu st\u00e4rken."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Anerkennungsberatung bei der Weitervermittlung innerhalb der strukturellen Bedingungen?",
+    "input": "",
+    "output": "Die Anerkennungsberatung unterst\u00fctzt die Ratsuchenden dabei, sich innerhalb der un\u00fcbersichtlichen gesetzlichen Rahmenbedingungen und in dem ausdifferenzierten System an spezialisierten Unterst\u00fctzungsleistungen zu orientieren und gegebenenfalls Weitervermittlungen zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "In welchem Spannungsfeld befinden sich die Berater_innen?",
+    "input": "",
+    "output": "Zwischen der Aufrechterhaltung des Anerkennungsverh\u00e4ltnisses in Form der Beratungsbeziehung und der fachlichen Abgrenzung aufgrund des institutionellen Beratungsauftrages."
+  },
+  {
+    "instruction": "Wie verwenden die Berater_innen Weitervermittlungen?",
+    "input": "",
+    "output": "Als Handlungsstrategie, um mit den begrenzten Handlungsm\u00f6glichkeiten in der Beratung umgehen zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist die Herausforderung f\u00fcr die Berater_innen?",
+    "input": "",
+    "output": "Die Abw\u00e4gung des notwendigen Beratungsbedarfs und des institutionellen Beratungsauftrags."
+  },
+  {
+    "instruction": "Was stellt die Professionalit\u00e4t der Berater_innen dar?",
+    "input": "",
+    "output": "Die F\u00e4higkeit, professionelle Distanz zu wahren, Beratungsanliegen bearbeitbar zu halten und bei Bedarf an entsprechende Institutionen weiter zu verweisen."
+  },
+  {
+    "instruction": "Warum sind Weitervermittlungen wichtig?",
+    "input": "",
+    "output": "Weitervermittlungen stellen eine wichtige Handlungsstrategie f\u00fcr die Berater_innen innerhalb der Rahmenbedingungen dar, welche es ihnen erm\u00f6glichen, Abgrenzungen vorzunehmen, die zugleich mit dem beruflichen Selbstverst\u00e4ndnis vereinbar sind."
+  },
+  {
+    "instruction": "Welche Herausforderung besteht f\u00fcr Berater_innen im Umgang mit Beratungsanliegen?",
+    "input": "",
+    "output": "Die Abw\u00e4gung des notwendigen Beratungsbedarfs und des institutionellen Beratungsauftrags."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Berater_innen Abgrenzungen vornehmen, die mit ihrem beruflichen Selbstverst\u00e4ndnis vereinbar sind?",
+    "input": "",
+    "output": "Durch Weitervermittlungen und die Filterfunktion gegen\u00fcber den Anerkennungsstellen."
+  },
+  {
+    "instruction": "Wie wirkt sich die Zusammenarbeit zwischen Beratung und Anerkennungsstellen auf die Klient_innen aus?",
+    "input": "",
+    "output": "Positiv, da die Anerkennungsstellen Informationen zu Referenzberufen und Verfahrensabl\u00e4ufen geben und die Berater_innen somit eine Unterst\u00fctzungsleistung f\u00fcr die Klient_innen \u00fcbernehmen."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Berater_innen auf L\u00fccken oder Fehler in der Umsetzung gesetzlicher Regelungen hinweisen?",
+    "input": "",
+    "output": "Durch den Austausch mit den Anerkennungsstellen und die Nutzung ihrer Handlungsf\u00e4higkeit, um ihren Handlungsspielraum zu erweitern."
+  },
+  {
+    "instruction": "Welche Handlungsstrategie wird in \u00d6sterreich zum Zeitpunkt der ersten Interviews besonders in der Erstellung von Beschreibungen von Schulabschl\u00fcssen im nichtreglementierten Bereich deutlich?",
+    "input": "",
+    "output": "Die Erstellung von Beschreibungen f\u00fcr sekund\u00e4re Abschl\u00fcsse, obwohl dies dem Selbstverst\u00e4ndnis nach nicht zu ihrem Aufgabenbereich geh\u00f6rt."
+  },
+  {
+    "instruction": "Warum erstellen Berater_innen Beschreibungen f\u00fcr sekund\u00e4re Abschl\u00fcsse, obwohl dies nicht zu ihrem Aufgabenbereich geh\u00f6rt?",
+    "input": "",
+    "output": "Die Berater_innen erstellen Beschreibungen f\u00fcr sekund\u00e4re Abschl\u00fcsse, weil es ein strukturelles Defizit gibt und sie \u00fcber entsprechende Expertise verf\u00fcgen."
+  },
+  {
+    "instruction": "Was macht die ENIC-NARIC?",
+    "input": "",
+    "output": "Die ENIC-NARIC macht Bewertungen von terti\u00e4ren Abschl\u00fcssen."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr die \u00dcbernahme der Aufgabe der Erstellung von Beschreibungen durch die Beratung?",
+    "input": "",
+    "output": "Die Voraussetzung f\u00fcr die \u00dcbernahme dieser Aufgabe durch die Beratung ist eine entsprechende Anerkennung der spezifischen Expertise der Beratungsstellen durch die jeweiligen Beh\u00f6rden bzw. die Arbeitgeber_innen."
+  },
+  {
+    "instruction": "Wie hat sich die Bewertung von Qualifikationen in \u00d6sterreich seit Juli 2016 entwickelt?",
+    "input": "",
+    "output": "In \u00d6sterreich ist durch das AuBG seit Juli 2016 die Bewertung auch f\u00fcr Qualifikationen im sekund\u00e4ren Bereich erm\u00f6glicht worden und wird durch unterschiedliche Abteilungen im BMBWF durchgef\u00fchrt."
+  },
+  {
+    "instruction": "Was hat das Anerkennungsgesetz 2013 in Deutschland gebracht?",
+    "input": "",
+    "output": "Das Anerkennungsgesetz 2013 hat den Anspruch auf formale Anerkennung auch auf Berufe im nichtreglementierten Bereich ausgeweitet."
+  },
+  {
+    "instruction": "Warum suchen Klient_innen aufgrund der positiven Beratungsbeziehung oft erneut die Anerkennungsberatung auf?",
+    "input": "",
+    "output": "Weil sie einen positiven Eindruck von den Beratern haben und glauben, dass sie ihnen helfen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist die Rolle der Berater_innen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Sie verf\u00fcgen \u00fcber fachspezifisches Expert_innenwissen, welches durch in der Beratung generiertes Wissen kontinuierlich erweitert wird."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen die Grenzen der konkreten Beratungssituation interpretiert werden?",
+    "input": "",
+    "output": "Nicht als individuelle Probleme, sondern auf einer \u00fcbergeordneten Ebene als strukturell bedingte Defizite."
+  },
+  {
+    "instruction": "Was ist die Funktion der \u00f6sterreichweiten Koordinierungsstelle?",
+    "input": "",
+    "output": "Sie schafft Strukturen, um Beratungsf\u00e4lle auf einer \u00fcbergeordneten Ebene zu systematisieren, aufzubereiten und dadurch auf das System der Handlungsbedingungen kontinuierlich einzuwirken."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen die Berater_innen durch den Kontakt mit Klient_innen dazu beitragen, Probleme zu erkennen und zu l\u00f6sen?",
+    "input": "",
+    "output": "Durch die Weiterleitung von Informationen auf strukturelle Ebene und die Sammlung von Daten von Klient_innen und Beh\u00f6rden."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr eine kritische Auseinandersetzung mit den strukturellen Bedingungen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine Generalisierung der Einzelf\u00e4lle, wodurch eine kritische Auseinandersetzung mit den strukturellen Bedingungen des Systems m\u00f6glich wird."
+  },
+  {
+    "instruction": "Wie wird die systematische Bearbeitung der Beratungsf\u00e4lle in \u00d6sterreich und Deutschland organisiert?",
+    "input": "",
+    "output": "In \u00d6sterreich ist die systematische Bearbeitung der Beratungsf\u00e4lle und die landesweite Zusammenarbeit durch die Koordinierungsstelle strukturell verankert, w\u00e4hrend in Deutschland diese Rolle gr\u00f6\u00dftenteils vom IQ-Netzwerk \u00fcbernommen wird."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel der Anerkennungsberatung ist es, die Person m\u00f6glichst gut zu beraten, aber auch, am System immer zu arbeiten und immer wieder zu sagen, dass es nicht nur um die Beratung geht, sondern um die Verbesserung des Systems."
+  },
+  {
+    "instruction": "Warum ist es wichtig, \u00fcber den Einzelfall hinauszudenken?",
+    "input": "",
+    "output": "Es ist wichtig, \u00fcber den Einzelfall hinauszudenken, weil sonst das gleiche Problem in den n\u00e4chsten F\u00e4llen immer wieder auftreten wird und man den Aufwand nicht nur f\u00fcr die einzelne Person, sondern auch f\u00fcr alle, die nachfolgen werden, machen muss."
+  },
+  {
+    "instruction": "Was ist der gr\u00f6\u00dfte Unterschied in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Der gr\u00f6\u00dfte Unterschied ist die strukturelle Komponente, die beratungstheoretisch in den Aufgabenbereich der Beratung eingeordnet werden kann."
+  },
+  {
+    "instruction": "Was steht im Mittelpunkt der organisationsbezogenen Beratung?",
+    "input": "",
+    "output": "Nicht der Auftrag der zu beratenden Organisation, sondern die Bedarfslagen der Klient_innen, f\u00fcr welche stellevertretend agiert wird."
+  },
+  {
+    "instruction": "Wie wird die intervenierende Funktion der Berater_innen gesehen?",
+    "input": "",
+    "output": "Kritisch, aber durch ein spezifisches Selbstverst\u00e4ndnis begr\u00fcndet, welches \u00fcber die klassische Beratungst\u00e4tigkeit hinausreicht."
+  },
+  {
+    "instruction": "Was ist das Ziel der Organisation bei der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Organisation hat immer einen Anspruch, Strukturen zu ver\u00e4ndern, wenn sie in die Regelarbeit kommt."
+  },
+  {
+    "instruction": "Wie wird die Umsetzung der strukturellen Weiterentwicklung beschrieben?",
+    "input": "",
+    "output": "Als eine Komponente des Qualit\u00e4tsverst\u00e4ndnisses von Beratung, die nicht als elementarer Bestandteil des Beratungsangebotes verstanden wird, sondern als eine zus\u00e4tzliche Wirkungsebene."
+  },
+  {
+    "instruction": "Was ist der Vorteil der strukturellen Ver\u00e4nderung gegen\u00fcber der individuellen Beratung?",
+    "input": "",
+    "output": "Durch die Ver\u00e4nderung einer Struktur kann man m\u00f6glicherweise Hunderte oder Tausende von Menschen weiterhelfen, w\u00e4hrend die individuelle Beratung nur einzelne Personen betrifft."
+  },
+  {
+    "instruction": "Was ist die Bedeutung von Beratung bei strukturellen Ver\u00e4nderungen?",
+    "input": "",
+    "output": "Beratung ist notwendig bei strukturellen Ver\u00e4nderungen, um die Rahmenbedingungen zu \u00fcberlegen und die Strukturen so zu ver\u00e4ndern, dass alle damit weiterkommen."
+  },
+  {
+    "instruction": "Wie wird die Leistung der Anerkennungsberatung beschrieben?",
+    "input": "",
+    "output": "Die Leistung der Anerkennungsberatung wird nicht als genuine Beratungsaufgabe beschrieben, sondern als ein Handlungsfeld, welches Anerkennungsberatung aufgrund struktureller Defizite \u00fcbernimmt."
+  },
+  {
+    "instruction": "Was ist die vierte Handlungsstrategie in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die vierte Handlungsstrategie bezieht sich auf die kritische Auseinandersetzung mit den strukturellen Rahmenbedingungen, welche Anerkennungsverh\u00e4ltnisse erm\u00f6glichen, aber auch verhindern k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie wirkt die Anerkennungsberatung auf gesellschaftlicher und rechtlicher Ebene?",
+    "input": "",
+    "output": "Die Anerkennungsberatung wirkt auf gesellschaftlicher und rechtlicher Ebene durch die Ausweitung der Beratung auf die Arbeitgeber_innen und die \u00d6ffentlichkeit und nimmt Einfluss auf die Bedingungen gesellschaftlicher Anerkennungsverh\u00e4ltnisse."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beratungsstellen in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Beratungsstellen in \u00d6sterreich leisten fachliche Unterst\u00fctzung und Beratung auf politischer Ebene, zum Beispiel bei der Entwicklung des AuBG und der Berufsanerkennungshomepage."
+  },
+  {
+    "instruction": "Wie wird die Zusammenarbeit zwischen Beratungsstellen und anderen Akteuren bewertet?",
+    "input": "",
+    "output": "Die Zusammenarbeit wird positiv als Best\u00e4tigung des fachlichen Expert_innenstatus bewertet und als eine M\u00f6glichkeit gesehen, auf die strukturellen Bedingungen Einfluss zu nehmen."
+  },
+  {
+    "instruction": "Was ist die Gefahr, die bei der Individualisierung der Rahmenbedingungen vermieden werden sollte?",
+    "input": "",
+    "output": "Die Gefahr der Individualisierung der Rahmenbedingungen gilt es, explizit zu vermeiden, woraus sich die Notwendigkeit der Auseinandersetzung mit den strukturellen Verh\u00e4ltnissen ergibt."
+  },
+  {
+    "instruction": "Was zeichnet p\u00e4dagogische Professionalit\u00e4t aus?",
+    "input": "",
+    "output": "P\u00e4dagogische Professionalit\u00e4t zeichnet sich dadurch aus, innerhalb der Widerspr\u00fcche und Gegens\u00e4tze handlungsf\u00e4hig zu bleiben."
+  },
+  {
+    "instruction": "Was ist das Ziel der Untersuchung von Handlungsstrategien in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel ist, zu untersuchen, welche Perspektiven auf erfolgreiche Beratung und welche Handlungsstrategien die Interviewpartner_innen innerhalb der Spannungsfelder in Auseinandersetzung mit den restriktiven Rahmenbedingungen entwickeln."
+  },
+  {
+    "instruction": "Wie viele Aushandlungsmuster werden in der Analyse unterschieden?",
+    "input": "",
+    "output": "Drei Aushandlungsmuster werden unterschieden, welche jeweils eine spezifische Kombination von Zielsetzungen, Handlungsstrategien und Selbstverst\u00e4ndnis darstellen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung von Beratung als Raum f\u00fcr Selbstvergewisserung?",
+    "input": "",
+    "output": "Beratung kann als ein Raum begriffen werden, der den erforderlichen Schutz bietet, um \u00c4ngste und Unsicherheiten artikulieren zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie werden die Aushandlungsmuster in der Anerkennungsberatung rekonstruiert?",
+    "input": "",
+    "output": "Die Aushandlungsmuster werden auf Grundlage der analysierten und interpretierten Expert_inneninterviews rekonstruiert."
+  },
+  {
+    "instruction": "Was ist das Ziel von Berater_innen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel von Berater_innen in der Anerkennungsberatung ist die Erh\u00f6hung der Handlungs- und Entscheidungsf\u00e4higkeit der Klient_innen."
+  },
+  {
+    "instruction": "Wie werden die Erfolge der Anerkennungsberatung beurteilt?",
+    "input": "",
+    "output": "Die Erfolge der Anerkennungsberatung werden vor allem \u00fcber die subjektive Wahrnehmung der Berater_innen und \u00fcber verschiedene Formen des strukturierten Feedbacks beurteilt."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr eine erfolgreiche Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine ressourcenorientierte Perspektive in der Beratung und die Aufrechterhaltung einer anerkennenden und wertsch\u00e4tzenden Beratungshaltung sind die Voraussetzungen f\u00fcr eine erfolgreiche Anerkennungsberatung."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr eine erfolgreiche Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine klare und transparente Einordnung von Anerkennungsberatung innerhalb des Systems von unterschiedlichen Beratungsstellen und Unterst\u00fctzungsangeboten."
+  },
+  {
+    "instruction": "Was ist ein wichtiges Kriterium f\u00fcr erfolgreiche Beratung?",
+    "input": "",
+    "output": "Die bildungsad\u00e4quate berufliche Integration."
+  },
+  {
+    "instruction": "Was ist entscheidend f\u00fcr die Zielerreichung in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Inwiefern die Anliegen der Klient_innen umgesetzt werden konnten."
+  },
+  {
+    "instruction": "Was ist die Rolle der Berater_innen in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Sie unterst\u00fctzen die Klient_innen durch die Entwicklung von Handlungsalternativen und erweitern den Handlungsspielraum."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratungssuchenden in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Eine Anerkennung ihrer mitgebrachten Qualifikation und einen entsprechenden Arbeitsplatz."
+  },
+  {
+    "instruction": "Warum kann die Beratung alleine die W\u00fcnsche der Beratungssuchenden nicht erf\u00fcllen?",
+    "input": "",
+    "output": "Rechtliche H\u00fcrden und Rahmenbedingungen des Arbeitsmarktes stehen dem entgegen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung im dritten rekonstruierten Handlungsmuster?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist die Erh\u00f6hung der individuellen Handlungs- und Entscheidungsf\u00e4higkeit der Klient_innen durch die Herstellung von Transparenz."
+  },
+  {
+    "instruction": "Wie wird die Herstellung von Transparenz im dritten Handlungsmuster erreicht?",
+    "input": "",
+    "output": "Die Herstellung von Transparenz findet auf Beratungsebene und auf struktureller Ebene statt, durch die institutionen\u00fcbergreifende Systematisierung und Generalisierung von Beratungsf\u00e4llen."
+  },
+  {
+    "instruction": "Was ist die Funktion der Vermittlung in der Beratung?",
+    "input": "",
+    "output": "Die Funktion der Vermittlung ist es, zwischen den unterschiedlichen Systemen mit ihren jeweiligen Anforderungen zu vermitteln und die Klient_innen bei der Entwicklung von Handlungsstrategien zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie wird die Partei f\u00fcr die Klient_innen ergriffen?",
+    "input": "",
+    "output": "Die Partei f\u00fcr die Klient_innen wird ergriffen, indem ihre Anliegen auf rechtlicher und gesellschaftlicher Ebene vertreten werden, durch die \u00fcberinstitutionelle Zusammenarbeit zwischen den Beratungsstellen."
+  },
+  {
+    "instruction": "Was ist das Ergebnis der Handlungsstrategie im dritten Handlungsmuster?",
+    "input": "",
+    "output": "Das Ergebnis der Handlungsstrategie ist die Etablierung einrichtungs\u00fcbergreifender Qualit\u00e4tsstandards und die Vertretung eines gemeinsamen beruflichen Selbstverst\u00e4ndnisses nach au\u00dfen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung als Anerkennung?",
+    "input": "",
+    "output": "Das Ziel der Beratung als Anerkennung ist die Erh\u00f6hung der Handlungs- und Entscheidungsf\u00e4higkeit und damit die Herstellung eines Anerkennungsverh\u00e4ltnisses auf individueller Ebene."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung f\u00fcr Anerkennung?",
+    "input": "",
+    "output": "Das Ziel der Beratung f\u00fcr Anerkennung ist die Herstellung und Ausweitung von gesellschaftlichen und rechtlichen Anerkennungsverh\u00e4ltnissen auf struktureller Ebene."
+  },
+  {
+    "instruction": "Was ist das Ziel des dritten Aushandlungsmusters in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Das Ziel des dritten Aushandlungsmusters ist die Ver\u00e4nderung von Rahmenbedingungen und damit die Erh\u00f6hung der individuellen Handlungsf\u00e4higkeit der Klient_innen durch die Ver\u00e4nderung von Anerkennungsverh\u00e4ltnissen auf individueller und struktureller Ebene."
+  },
+  {
+    "instruction": "Wie kann die Beratungshaltung in der Anerkennungsberatung beschrieben werden?",
+    "input": "",
+    "output": "Die Beratungshaltung in der Anerkennungsberatung kann als parteilich und emanzipativ beschrieben werden, mit dem Ziel, gesellschaftliche und rechtliche Problemlagen zu thematisieren und strukturelle Defizite aufzugreifen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Koordinationsebene in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Die Koordinationsebene ist wichtig, um einrichtungs\u00fcbergreifende Qualit\u00e4tsstandards zu etablieren und ein gemeinsames berufliches Selbstverst\u00e4ndnis auch nach au\u00dfen zu vertreten."
+  },
+  {
+    "instruction": "Was ist das Ziel des Aushandlungsmusters in der Beratung?",
+    "input": "",
+    "output": "Das Ziel des Aushandlungsmusters in der Beratung ist die Ver\u00e4nderung von Rahmenbedingungen und die Erh\u00f6hung der individuellen Handlungsf\u00e4higkeit der Klient_innen durch die Weitergabe von Wissen auf struktureller Ebene."
+  },
+  {
+    "instruction": "Was passiert, wenn nur auf der strukturellen Handlungs- und Anerkennungsebene gehandelt wird?",
+    "input": "",
+    "output": "Wenn nur auf der strukturellen Handlungs- und Anerkennungsebene gehandelt wird, besteht kein Bezug mehr zur Beratung und es wird eher dem Bereich Organisations- oder Politikberatung zugeordnet."
+  },
+  {
+    "instruction": "Welche Ebenen werden in der Anerkennungsberatung unterschieden?",
+    "input": "",
+    "output": "In der Anerkennungsberatung werden zwei Ebenen unterschieden: die individuelle Ebene und die strukturelle Ebene."
+  },
+  {
+    "instruction": "Was sind die unterschiedlichen Handlungszug\u00e4nge in der Beratung?",
+    "input": "",
+    "output": "Es gibt drei unterschiedliche Handlungszug\u00e4nge in der Beratung: der erste Handlungszugang wird eher in Verbindung mit k\u00fcrzeren Beratungen beschrieben, der zweite Handlungszugang steht im Vordergrund bei Beratungen, die als Begleitprozesse \u00fcber mehrere Beratungskontakte andauern, und der dritte Handlungszugang wird vor allem auf der Koordinationsebene beschrieben."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Arbeitsteilung auf Beratungs- und Koordinationsebene?",
+    "input": "",
+    "output": "Die Arbeitsteilung auf Beratungs- und Koordinationsebene kann zu einer Entlastung von den jeweils anderen Handlungszug\u00e4ngen f\u00fchren."
+  }
+]

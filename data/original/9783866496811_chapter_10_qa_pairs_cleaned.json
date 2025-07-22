@@ -1,0 +1,1117 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Profession Pflege und wie muss sie sich anpassen?",
+    "output": "Die Profession Pflege ist ein Berufsbild, das sich bezogen auf die kontinuierliche Veränderung der Gesellschaft immer wieder neu ausrichten muss, um den Anforderungen gerecht zu werden und den Bedürfnissen der Bevölkerung nachzukommen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Demographische Wandel und wie wirkt er sich auf die Pflege aus?",
+    "output": "Der Demographische Wandel hat bereits dazu geführt, dass im Sektor der ambulanten pflegerischen Versorgung spezifische Veränderungsprozesse stattgefunden haben, und es wird erwartet, dass die Zahl der Pflegebedürftigen steigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Pflegebedürftigkeit in Deutschland definiert und eingeteilt?",
+    "output": "Die Pflegebedürftigkeit wird im §14, SGB XI definiert und im §15, SGB XI in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit eingeteilt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Pflegebedürftige gab es in Deutschland im Jahr 2005 und wie wurden sie versorgt?",
+    "output": "Im Jahr 2005 gab es 2,13 Millionen Pflegebedürftige in Deutschland, davon wurden 68% zu Hause gepflegt und 32% in Pflegeheimen versorgt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Pflegebedürftige werden in Deutschland für das Jahr 2030 erwartet?",
+    "output": "Die statistischen Ämter des Bundes und der Länder erwarten für das Jahr 2030 3,36 Millionen Pflegebedürftige, was eine Steigerung von 58% gegenüber 2005 darstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Altenquotient und wie entwickelt er sich?",
+    "output": "Der Altenquotient ist eine Zahl, die die Anzahl der 65-jährigen und älteren Menschen bezogen auf 100 Personen im Alter von 20-64 Jahren angibt, und er wird aufgrund der Demographie voraussichtlich ansteigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt sich anhand der Statistik von 1970 bis 2030?",
+    "output": "Die Quotienten haben sich fast genau umgedreht, d.h. die Anzahl der Personen der arbeitsfähigen Gesellschaft pro Rentner hat abgenommen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflege nach vielen Theorien?",
+    "output": "Das Ziel der Pflege ist die Erlangung der Unabhängigkeit des Kranken durch einen Interaktionsprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Unabhängigkeit des Kranken gefördert?",
+    "output": "Die Unabhängigkeit des Kranken wird durch einen Interaktionsprozess zwischen Pflegekraft und Betroffenem gefördert, bei dem eine Zielvereinbarung getroffen wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet der Schweregrad der Erkrankung für die Abhängigkeit eines Menschen?",
+    "output": "Der Schweregrad der Erkrankung bedeutet gleich dem Grad der Abhängigkeit, unabhängig davon, ob die Erkrankung körperlich, seelisch, geistig oder sozial ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Aktivierenden Pflege?",
+    "output": "Das Ziel der Aktivierenden Pflege ist, dass der Betroffene das größtmögliche Maß an Selbstständigkeit wieder erlangt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Aktivierende Pflege umgesetzt?",
+    "output": "Die Aktivierende Pflege wird umgesetzt, indem die gesunden Anteile eines Menschen gefördert werden, damit dieser seine Erkrankung überwinden oder ausgleichen kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet die Aktivierende Pflege für den Patienten?",
+    "output": "Die Aktivierende Pflege bedeutet für den Patienten, dass er dazu angehalten wird, sich aktiv am Geschehen zu beteiligen und Eigenverantwortlichkeit zu übernehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie soll die Pflege nach einem Schlaganfall aussehen?",
+    "output": "Die Pflege nach einem Schlaganfall sollte auf einem einheitlichen Konzept (z.B. Bobath) und Aktivierender Pflege beruhen, bei der der Kranke auch durch die pflegerischen Maßnahmen zur Selbständigkeit und Eigenverantwortlichkeit zurückgeführt werden soll."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflege im Allgemeinen?",
+    "output": "Das Ziel der Pflege ist, den Patienten aufzubauen und nicht zu entmüdigen, sondern ihm zu helfen, seine alten Handlungsressourcen wiederzugewinnen und ein selbständiges Leben zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann ein Patient nach einem Schicksalsschlag wie einem Schlaganfall wieder Unabhängigkeit erlangen?",
+    "output": "Ein Patient kann nach einem Schicksalsschlag wie einem Schlaganfall wieder Unabhängigkeit erlangen, indem er im Rahmen seiner Möglichkeiten ein Experte seiner eigenen Erkrankung wird und Selbstmanagement-Kompetenzen entwickelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, dass ein Patient nach einem Schicksalsschlag Experte seiner eigenen Erkrankung wird?",
+    "output": "Um die Unabhängigkeit und Selbstständigkeit wieder zu erlangen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Grad der Kompetenz im Selbstmanagement bei chronisch kranken Menschen vergrößert werden?",
+    "output": "Durch professionelle Unterstützung, z.B. durch das Pflegekonzept nach Bobath, die Aktivierende Pflege, Anleiten von Tätigkeiten oder auch durch psychosozial-pflegerische Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst das Selbstmanagement bei chronisch kranken Menschen?",
+    "output": "Nicht nur die körperlichen Symptome und den Umgang mit der Behandlung bzw. Behinderung, sondern auch die daraus resultierenden psychosozialen Folgen der Lebensbewältigung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle kann eine Pflegefachkraft mit systemischer Beratungskompetenz bei der Unterstützung von Schlaganfall-Patienten einnehmen?",
+    "output": "Die entwickelnde/ wachstumsfördernde Beratungsrolle nach GELSO und FRETZ."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann durch Pflegeberatung Schlaganfall-Patienten mit bleibender Behinderung geholfen werden?",
+    "output": "Indem ihnen geholfen wird, ihre vorhandenen Ressourcen im häuslichen Umfeld zu erkennen und gezielt einzusetzen, um die größtmögliche Selbstständigkeit zu erlangen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Voraussetzung dafür, dass Pflegeberater und Pflegeberaterinnen systemische Beratung durchführen können?",
+    "output": "Dass sie die entsprechende Weiterbildung erfahren haben und in den Grundzügen das systemische Beratungskonzept bzw. systemische Interventionen und die systemische Sichtweise verinnerlichen bzw. anwenden können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regelt das Pflege-Weiterentwicklungsgesetz bezüglich der Pflegeberatung?",
+    "output": "Das Pflege-Weiterentwicklungsgesetz regelt die Rahmenbedingungen des neuen pflegerischen Handlungsfeldes 'Pflegeberatung' im § 7a des Elften Sozialgesetzbuch."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer erstellte die Empfehlung zur Anzahl und Qualifikation von Pflegeberatern?",
+    "output": "Der Spitzenverband Bund der Pflegekassen (GKV) erstellte die Empfehlung zur Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer war an der Ausarbeitung der Empfehlung zur Anzahl und Qualifikation von Pflegeberatern beteiligt?",
+    "output": "Neben der GKV waren der Deutsche Berufsverband für Soziale Arbeit e.V. (DBSH) und die Deutsche Vereinigung für Sozialarbeit im Gesundheitswesen e.V. (DVSG) an der Ausarbeitung beteiligt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was enthält die Empfehlung zur Weiterbildung des Pflegeberaters?",
+    "output": "Die Empfehlung enthält unter anderem Punkte wie Anzahl der Pflegeberaterinnen und Berater, berufliche Grundqualifikation, Qualifikationsanforderung, Weiterbildung, Pflegepraktikum und Anerkennung bereits erworbener Qualifikationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Module gliedert sich die Weiterbildung für Pflegeberaterinnen und Pflegeberater?",
+    "output": "3 Module: Pflegefachwissen, Case Management und Recht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Mindestumfang des Moduls 'Pflegefachwissen'?",
+    "output": "100 Stunden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Paragraphen des Dokumentes der GKV befinden sich die Inhalte der Weiterbildung?",
+    "output": "§§ 4 und 5."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Kenntnisse sollten Teilnehmerinnen und Teilnehmer der Weiterbildung für Pflegeberaterinnen und Pflegeberater nachweisen?",
+    "output": "Kenntnisse in der Kommunikation und Gesprächsführung, der Moderation und in Verhandlungstechniken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das neue Berufsbild, das in GKV 2008:4 ff deutlich wird?",
+    "output": "Die Tätigkeit des Pflegeberaters."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer legt fest, dass der GKV-Spitzenverband keine Richtlinien zur Qualifizierung des Pflegeberaters erstellen soll?",
+    "output": "Der Gesetzgeber mit dem § 7a."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Empfehlungen zur Qualifikation des Pflegeberaters und der Pflegeberaterin?",
+    "output": "Die Bewältigung der kurz- und mittelfristigen Ziele der über 2 Millionen Pflegebedürftigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum werden die Empfehlungen der GKV als 'Empfehlungen' und nicht als 'Richtlinien' bezeichnet?",
+    "output": "Weil 'Richtlinie' ein juristisch definierter Begriff ist, der bindend wäre und bei einer Weiterentwicklung eine neue Gesetzgebung erfordern würde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll nach der Entwicklung der Empfehlungen zur Qualifikation des Pflegeberaters und der Pflegeberaterin nun erreicht werden?",
+    "output": "Der Praxisbezug soll hergestellt werden, um auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errichten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Gestaltungsfreiraum-Einrichtung in der Pflege?",
+    "output": "Das Ziel ist es, die Empfehlungen der GKV-Evidenzbasierend weiterzuentwickeln und auf diese Weise noch fehlende Aspekte des neuen Berufsbildes der Pflege zu berücksichtigen und in der Weiterbildung zu integrieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst das Tätigkeitsprofil der Pflegeberatung?",
+    "output": "Das Tätigkeitsprofil der Pflegeberatung umfasst verschiedene Aufgaben, wie z.B. Informationsvermittlung, pflegerische Handlungsanleitung, Rechtsberatung, Case Management und individuelle Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, Pflegeberatern und Pflegeberaterinnen Beratungsqualifikationen zu vermitteln?",
+    "output": "Es ist wichtig, um den Leistungsempfängern die ihnen rechtlich zustehende individuelle Beratung zukommen zu lassen und um den Pflegeberatern und Pflegeberaterinnen zu ermöglichen, bei dem Ratsuchenden in Problemlagen und Krisensituationen Ressourcen zu aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Leitbild des Patienten in der Gesundheitspolitik?",
+    "output": "Das Leitbild des Patienten ist der mündige, kompetente und verantwortungsbewusste Partner des Arztes, der die prinzipielle Selbstbestimmtheit und Mündigkeit der Patienten respektiert und den Behandlungserfolg in Abhängigkeit von ihrer aktiven Einbeziehung definiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Unabhängigkeit in der Patientenberatung wichtig?",
+    "output": "Die Unabhängigkeit ist wichtig, um aufmerksam zu machen, dass Beratung in der Pflegeszene abhängig sein kann, und um Menschen in Not, in Krankheit und mit einer hohen Unterstützungsbedürftigkeit vor weiteren freiheitsentziehenden Handlungen zu schützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Patientenorientierung in der Gesundheitspolitik?",
+    "output": "Die Patientenorientierung setzt ein hohes Maß an Informiertheit und gesundheitsbezogener Bildung auf Seiten der Nutzer des Gesundheitssystems voraus und definiert den Behandlungserfolg in Abhängigkeit von ihrer aktiven Einbeziehung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Hervorhebung der Unabhängigkeit in der Patientenberatung notwendig?",
+    "output": "Um aufmerksam zu machen, dass Beratung in der Pflegeszene abhängig ist und um Menschen in Not, in Krankheit und mit einer hohen Unterstützungsbedürftigkeit vor weiteren freiheitsberaubenden Handlungen zu schützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie lange lief die Studie 'Entlastungsprogramm bei Demenz'?",
+    "output": "Die Studie hatte eine drei jährige Laufzeit von Mai 2006 bis April 2009."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stand im Mittelpunkt der Interventionen im Modellprojekt 'Entlastungsprogramm bei Demenz – EDe'?",
+    "output": "Zugehende Beratung als zentrale Hilfe für pflegende Angehörige demenzerkrankter Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche psychischen Auswirkungen können pflegende Angehörige von Menschen mit Demenz erleben?",
+    "output": "Psychische Stresssymptome und Depressivität, insbesondere aufgrund der Verhaltensänderungen der demenzerkrankten Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer führte die Studie 'Entlastungsprogramm bei Demenz' durch?",
+    "output": "Das Deutsche Institut für angewandte Pflegeforschung e.V (dip)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Hauptursache für psychische Stresssymptome und Depressivität bei pflegenden Angehörigen?",
+    "output": "Verhaltensänderungen der demenzerkrankten Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann suchen pflegende Angehörige in der Regel nach Hilfe?",
+    "output": "Erst wenn sie durch die Pflegesituation psychisch und physisch stark mitgenommen und zum Teil irreversibel gesundheitlich beeinträchtigt sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Hauptziel des Modellvorhabens 'Entlastungsprogramm bei Demenz – Ede'?",
+    "output": "Eine spürbare und nachhaltige Entlastung der Pflegepersonen zu erreichen und die häusliche Lebens- und Pflegesituation zu stabilisieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Familien konnten für die Teilnahme am Projekt gewonnen werden?",
+    "output": "320 Familien."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer übernahm die wissenschaftliche Begleitung des Projekts?",
+    "output": "Das Deutsche Institut für angewandte Pflegeforschung e. V. in Köln (dip)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Hausbesuche wurden von den Gesundheitsberaterinnen und -beratern durchgeführt?",
+    "output": "1431 Hausbesuche."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Belastungen der Angehörigen und der Beratungsbedarf erfasst?",
+    "output": "Mit einem umfassenden strukturierten EDV-gestützten Assessmentinstrument, dem Berliner Inventar zur Angehörigenbelastung bei Demenz, Minden – BIZA-D-M."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was beinhalteten die individuellen Unterstützungsprogramme?",
+    "output": "Informationen über die Erkrankung, Leistungen der Pflegeversicherung und Hilfsangebote in der Region, Beratungen, Einzel- und Gruppenschulungen, Anleitungen zu praktischen Tätigkeiten und Beratungen zur Inanspruchnahme von zeitlichen Freiräumen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde die Entlastung der teilnehmenden Familien nachgewiesen?",
+    "output": "Durch verschiedene Evaluationsverfahren, wie Belastungsmessung, Telefoninterviews, Evaluationsworkshops, Fragebögen, Dokumenten-analyse und Gesamtinterpretation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was waren die Ergebnisse des Projekts?",
+    "output": "Die häusliche Versorgung der Menschen mit Demenz konnte verbessert und gesichert werden, die Überlastung vieler pflegender Angehöriger reduziert werden und die pflegenden Angehörigen sahen sich besser imstande, mit demenzbedingten Verhaltensänderungen umzugehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Familien während des Projekts unterstützt?",
+    "output": "Durch bedarfsorientierte und kontinuierliche Begleitung, Hausbesuche und die Vermittlung von entsprechenden Angeboten wie stundenweise Betreuung und Betreuung in Einrichtungen der Tagespflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war die Rolle der Gesundheitsberaterinnen und -berater?",
+    "output": "Sie gingen auf die Familien zu, noch bevor diese den Bedarf angemeldet hatten, und ergriffen während des Projekts immer wieder die Initiative, um die Familien zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ziel der zugehenden und proaktiven Strategie der Beratung?",
+    "output": "Das Ziel war es, instabile und belastete Lebens- und Pflegesituationen in den Familien aufzudecken und die häusliche Versorgung der Menschen mit Demenz zu verbessern und zu sichern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie haben sich die pflegenden Angehörigen durch die Beratung verändert?",
+    "output": "Sie sahen sich besser imstande, mit demenzbedingten Verhaltensänderungen umzugehen, hatten einen besseren Zugang zu Unterstützungsangeboten und einen Wissenszuwachs über ihre leistungsrechtlichen Ansprüche."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Evaluationsverfahren wurden im Projekt angewendet?",
+    "output": "Belastungsmessung durch strukturiertes Assessmentinstrument, Telefoninterviews, Evaluationsworkshops, Fragebögen, Dokumentenanalyse und Gesamtinterpretation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war eine zentrale Empfehlung zur Weiterentwicklung der Pflegeversicherung?",
+    "output": "Die Bündelung von Leistungen der Pflegeversicherung zu einer 'Programmleistung Demenz', die im Pflegeversicherungsgesetz neben die Sach-, Geld- und Kombileistungen gestellt werden sollte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde die Bedarfseinschätzung und Hilfeplanung im Projekt durchgeführt?",
+    "output": "Mit dem Assessment-Instrument BIZA-D-M, das 172 Items umfasste und den Gesundheitsberaterinnen und -beratern einen umfassenden ersten Einblick in verschiedene Belastungsdimensionen der pflegenden Angehörigen gab."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie reagierten die pflegenden Angehörigen auf die Assessmentgespräche?",
+    "output": "Sie empfanden die Gespräche als große Wertschätzung ihrer täglichen Arbeit und reagierten teilweise mit heftigen emotionalen Reaktionen, aber auch mit einer eigenständigen Initiierung von Unterstützung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo fand die Beratungsarbeit der Gesundheitsberaterinnen und -berater statt?",
+    "output": "In der häuslichen Umgebung der Familien."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war die Herausforderung für die Gesundheitsberaterinnen und -berater bei der Diagnostik?",
+    "output": "Die Diagnostik war nicht abgeschlossen, da der progrediente Krankheitsverlauf oder tiefer liegende familiäre Probleme dazu führten, dass zu Beginn oft schnell entwickelte Lösungsvorschläge von den Familien nicht umgesetzt wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welchen Beratungsansatz wurde für die Beratungsarbeit in den Familien mit demenzerkrankten Menschen umgesetzt?",
+    "output": "Ein systemisch-lösungsorientierter Beratungsansatz, welcher der gesamtfamiliären Betrachtung der Demenz Rechnung trägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ziel der Beratungsinterventionen?",
+    "output": "Das Anstoßen und Begleiten von Veränderungsprozessen in den Familien und das Stärken des Bewusstseins für die Notwendigkeit von Veränderungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sahen die Gesundheitsberaterinnen und -berater ihre Rolle in der häuslichen Umgebung?",
+    "output": "Sie sahen sich als Gäste, die nur bedingt die Möglichkeit hatten, auf Störfaktoren Einfluss zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Grundhaltung entwickelten die Gesundheitsberaterinnen und -berater im Laufe des Projektes?",
+    "output": "Eine ressourcenorientierte Grundhaltung, bei der der Blick der pflegenden Angehörigen immer wieder abgewendet wurde von der Fixierung auf das Problem hin zu ihren Stärken und Möglichkeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was entwickelten die Gesundheitsberaterinnen und -berater im Laufe des Projektes?",
+    "output": "Eine ressourcenorientierte Grundhaltung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war der größte Entwicklungsschritt, den die Berater gemacht haben?",
+    "output": "Die Einsicht, dass die einzelnen Beratungsschritte Zeit brauchen, wenn sich die Situation in den Familien verändern und stabilisieren soll."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was beinhalteten die Schulungen und Anleitungen für die Familien?",
+    "output": "Den Umgang mit der Erkrankung, pflegefachliche Fragen, Selbstständigkeit im Umgang mit den Leistungen der Pflegeversicherung und der Inanspruchnahme von Unterstützungsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war ein wichtiger Aspekt der Schulungen und Anleitungen?",
+    "output": "Die Fähigkeit, das Fachwissen auf den individuellen Fall zu übertragen und eine den Familien angemessene Sprachwahl zu verwenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie oft fanden Schulungen zum Umgang mit demenzbedingten Verhaltensänderungen statt?",
+    "output": "In fast allen Familien wiederholt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was standen die Schulungen zum Umgang mit demenzbedingten Verhaltensänderungen immer in engem Zusammenhang mit?",
+    "output": "Den systemisch-lösungsorientierten Beratungsinterventionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was hatte in den Beratungsprozessen einen großen Anteil?",
+    "output": "So genannte 'Entlastungsgespräche' hatten einen großen Anteil in den Beratungsprozessen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sahen die Gesundheitsberaterinnen und -berater als ihre Aufgabe in den Entlastungsgesprächen?",
+    "output": "Die Gesundheitsberaterinnen und -berater sahen ihre Aufgabe darin, zunächst zuzuhören, die pflegenden Angehörigen ernst zu nehmen und das Berichtete nicht zu bewerten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was boten die Entlastungsgespräche den pflegenden Angehörigen?",
+    "output": "Die Entlastungsgespräche boten Raum für Affekte wie Traurigkeit, Zorn oder Scham."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was gaben die pflegenden Angehörigen in den abschließenden Telefoninterviews als wichtigste Aspekte im Projekt an?",
+    "output": "Sie gaben Antworten wie 'die Offenheit in den Gesprächen', 'das persönliche Gespräch, der persönliche Ansprechpartner', 'das Vertrauen, das man zu Frau …(Name der Beraterin/des Beraters) haben konnte' und andere ähnliche Antworten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum waren die Entlastungsgespräche für die Gesundheitsberaterinnen und -berater schwierig?",
+    "output": "Das Zulassen von Nähe und emotionaler Verbundenheit beinhaltet die Gefahr der eigenen Verwicklung in den Fall."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie reagierten die pflegenden Angehörigen auf das persönliche Gespräch und die persönliche Ansprache durch die Gesundheitsberaterinnen und -berater?",
+    "output": "Von den Angehörigen wurde es vielfach bereits als Wertschätzung empfunden, dass die Gesundheitsberaterin/der Gesundheitsberater zu ihnen nach Hause kam und sie die Gelegenheit hatten, ausführlich über ihre Situation zu sprechen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war für die Teilnehmer des Projekts das Wichtigste?",
+    "output": "Die Offenheit in den Gesprächen, das persönliche Gespräch, das Vertrauen, jemanden zu haben, der hinter einem steht, die Bestätigung und dass man sich durch die Gespräche gut gefühlt hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Herausforderung hatten die Gesundheitsberaterinnen und -berater im Projekt?",
+    "output": "Die Abgrenzung und die Gefahr der eigenen Verwicklung in den Fall durch das Zulassen von Nähe und emotionaler Verbundenheit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche berufliche Erfahrung hatten die Gesundheitsberaterinnen und -berater zu Beginn des Projekts?",
+    "output": "Sie hatten keine oder nur geringe Beratungserfahrungen und waren als Pflegefachkräfte in ambulanten Pflegediensten tätig."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erfordert Beratungshandeln im Gegensatz zum praktischen Handeln in einer Pflegesituation?",
+    "output": "Beratungshandeln erfordert, den Klienten aus einer Außenperspektive Handlungsanstöße im Hinblick auf eine Veränderung zu geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Grundlage wurde im Projekt entwickelt, um die Pflegefachkräfte für ihre Aufgabe zu qualifizieren?",
+    "output": "Ein spezifisches Qualifizierungskonzept, das sich inhaltlich an den Anforderungen einer präventiven Arbeit im Gesundheitswesen orientiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche didaktische Grundlage wurde für das Qualifizierungskonzept verwendet?",
+    "output": "Das Konzept der Kompetenzorientierung, das auf eine Spezifizierung bereits vorhandener beruflicher Handlungskompetenz abzielt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Richtlinien wurden bei der Entwicklung des Qualifizierungskonzepts einbezogen?",
+    "output": "Die Richtlinien der Deutschen Gesellschaft für Care- und Case Management (DGCC) für die Weiterbildung von Case Managern im Sozial- und Gesundheitswesen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welcher Beratungsansatz wurde im Projekt gewählt?",
+    "output": "Der systemisch-lösungsorientierte Beratungsansatz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der zentrale Gegenstand und Ausgangspunkt von Beratung?",
+    "output": "Das subjektive Erleben des Beratungsklienten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum benötigen pflegende Angehörige professionelle Beratung?",
+    "output": "Weil sie aufgrund ihrer subjektiven Betroffenheit häufig nicht selbst in der Lage sind, sich objektiv mit den pflegebezogenen Problemen auseinanderzusetzen und sie zu lösen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Beratende als Handlungsgrundlage?",
+    "output": "Wissenschaftlich fundierte Kenntnisse in den handlungsrelevanten Bereichen Bedarfseinschätzung, Beratungsintervention, Vermittlung von Unterstützungsangeboten und Evaluation/Reflexion."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, dass Beratende sich der subjektiven Betroffenheit der Beratungsklienten bewusst sind?",
+    "output": "Weil die ständige Konfrontation mit Belastungen und Leiden Bewältigungskompetenzen auch auf Seiten der Beratenden erfordert, die begleitend entwickelt und erhalten werden müssen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wesentlicher Aspekt, der zur aktuellen Pflegesituation beiträgt?",
+    "output": "Die Bedeutung, die die Pflege eines demenzerkrankten Menschen für den pflegenden Angehörigen hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratenden in der Pflegesituation?",
+    "output": "Ein Fallverstehen zu entwickeln, das es ermöglicht, die individuelle Pflegesituation vor dem Hintergrund des Lebenszusammenhangs der Betroffenen zu deuten und zu erklären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist analytische Distanz in der Beratungsbeziehung notwendig?",
+    "output": "Um einer subjektiven Betroffenheit der Beratenden zu begegnen und die Gesamtsituation, Pflege im System Familie, in den Blick zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann passieren, wenn die Beratenden keine analytische Distanz herstellen?",
+    "output": "Die Gefahr ist groß, dass die Beratenden selbst zu Hauptakteuren werden und eigene Ressourcen verbrauchen, ohne effektiv zu beraten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist das Respektieren der Autonomie der Lebenspraxis der zu Beratenden wichtig?",
+    "output": "Es ist ein wichtiger Grundsatz der Beratung, aber nicht immer uneingeschränkt anzuwenden, da die Autonomie der Lebenspraxis eines Menschen dort aufhört, wo sie zur Beeinträchtigung eines anderen Menschen führt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer entscheidet letztendlich, ob und welche Unterstützungsleistung in Anspruch genommen wird?",
+    "output": "Der Angehörige selbst entscheidet, ob und welche Unterstützungsleistung er in Anspruch nimmt und auch, ob er die Beratung weiter in Anspruch nehmen möchte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wesentliches Kriterium in der systemischen Beratung?",
+    "output": "Ein wesentliches Kriterium ist, dass der zu Beratende die Beratung tatsächlich will und sich freiwillig entscheidet, das Beratungsangebot anzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratung?",
+    "output": "Das Ziel der Beratung ist die Entlastung des pflegenden Angehörigen, um die häusliche Pflegesituation möglichst lange aufrechtzuerhalten, ohne dass der Angehörige überlastet und der Pflegebedürftige unterversorgt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollen die Beratenden die Angehörigen unterstützen?",
+    "output": "Die Beratenden sollen die Angehörigen befähigen, ihre Situation selbst (mit-) einzuschätzen und Lösungsstrategien zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was steht im Vordergrund der Beratung?",
+    "output": "Die Stärkung der Autonomie des „Pflegegefüges“ steht im Vordergrund der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Beratung bei Pflegesituationen?",
+    "output": "Ein Ziel der Beratung ist es, die Pflegesituation mit den zur Verfügung stehenden Ressourcen und der notwendigen Unterstützung aufrechtzuerhalten und zukunftsorientiert zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist eine vollständige Standardisierbarkeit von Beratung und Interventionszuordnung nicht möglich?",
+    "output": "Eine vollständige Standardisierbarkeit ist nicht möglich, weil professionelle Beratung immer subjekt- und kontextbezogen ist und auf Grund von Problemen oder antizipierten Problemen stattfindet, die aus der individuellen Perspektive der betroffenen Person stammen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Organisation hat einen Standard für Psychosoziale Beratung von alten Menschen und Angehörigen veröffentlicht?",
+    "output": "Die Bundesarbeitsgemeinschaft Alten- und Angehörigenberatung (BAGA e.V.) hat einen Standard für Psychosoziale Beratung von alten Menschen und Angehörigen veröffentlicht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum müssen Beratende ihre eigenen Grenzen erkennen und mit anderen Berufsgruppen zusammenarbeiten?",
+    "output": "Beratende müssen ihre eigenen Grenzen erkennen und mit anderen Berufsgruppen zusammenarbeiten, weil die Problemlagen, die sich während der Beratungsbesuche zeigen, sehr komplex sein können und fachlich nicht immer zu bewältigen sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist eine klare Auftrags- und Zielklärung im Beratungsprozess wichtig?",
+    "output": "Um die Komplexität der Situation und des Prozesses zu reduzieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Beratenden im Beratungsprozess?",
+    "output": "Die Beratenden müssen ihre eigenen Grenzen kennen und anerkennen und entscheiden können, wann es notwendig ist, die Familien an andere Stellen oder Berufsgruppen weiterzuleiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielt die Vernetzung der Angebote im Sinne der Angehörigen und der Pflegebedürftigen?",
+    "output": "Es ist Aufgabe der Beratenden, ein Zusammenwirken mit anderen Berufsgruppen und eine Vernetzung der Angebote im Sinne der Angehörigen und der Pflegebedürftigen zu initiieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welches Modell der Beratung wurde im Projekt EDe verwendet?",
+    "output": "Das Modell der lösungsorientierten Beratung von BÜRGI (2006)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird das Problem im Beratungsprozess erfasst?",
+    "output": "Durch ein Assessmentgespräch mit Hilfe eines strukturierten Fragenkatalogs."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Zielvorstellung im Beratungsprozess entwickelt?",
+    "output": "Die/der pflegende Angehörige wird darin unterstützt, eine Zielvorstellung zu entwickeln, indem die Gesundheitsberaterin/der Gesundheitsberater selbst Hypothesen zu möglichen Zielen des Angehörigen formuliert und in die Beratung einbringt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann die Gesundheitsberaterin/der Gesundheitsberater tun, um die Ziele des Angehörigen zu unterstützen?",
+    "output": "Die Gesundheitsberaterin/der Gesundheitsberater kann Hypothesen zu möglichen Zielen des Angehörigen formulieren und in die Beratung einbringen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was geschieht im nächsten Schritt nach der Zielvereinbarung?",
+    "output": "Die Gesundheitsberaterin/der Gesundheitsberater überlegt zusammen mit der/dem pflegenden Angehörigen, welche Schritte unternommen werden können, um dem Ziel ein Stück näherzukommen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird der Erfolg der vereinbarten Schritte im nächsten Beratungsgespräch überprüft?",
+    "output": "Die Gesundheitsberaterin/der Gesundheitsberater schätzt gemeinsam mit der/dem Angehörigen ein, ob der geplante Weg zum Ziel führt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielen systemisch-lösungsorientierte Fragetechniken im Beratungsprozess?",
+    "output": "Die systemisch-lösungsorientierten Fragetechniken sollen die/den Angehörige/n dazu anregen, die gewohnten „alten“ Denkprozesse zu verlassen und neue Gedanken und Ideen zuzulassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind berufliche klientenbezogene Dienstleistungen nicht standardisierbar?",
+    "output": "Berufliche klientenbezogene Dienstleistungen sind nicht standardisierbar, weil sie unter Komplexität, Uneindeutigkeit, Nichtvorhersehbarkeit und Unsicherheit stattfinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Fallkonferenzen?",
+    "output": "Das Ziel der Fallkonferenzen ist es, den Gesundheitsberaterinnen und -beratern Unterstützung in konkreten Beratungsprozessen zu bieten und ihnen zu mehr Handlungskompetenz zu verhelfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welchen Beratungsansatz lehnen sich die Fallbesprechungen an?",
+    "output": "Die Fallbesprechungen lehnen sich am systemisch-lösungsorientierten Beratungsansatz an."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie unterstützen die Fallkonferenzen die Gesundheitsberaterinnen und -berater?",
+    "output": "Die Fallkonferenzen unterstützen die Gesundheitsberaterinnen und -berater, indem sie ihnen ermöglichen, Erfahrungen und Strategien aus den Fallkonferenzen in ihre Beratungsgespräche zu übertragen und ihnen nicht nur inhaltliche, sondern auch beratungsstrategische Impulse im Hinblick auf eine Lösungsorientierung in den Familien geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurden Supervisionen im Projekt nicht eingeplant?",
+    "output": "Supervisionen wurden zu Projektbeginn nicht eingeplant, da davon ausgegangen wurde, dass wöchentliche Fallkonferenzen und Fallbesprechungen auch als mentale Begleitung der Gesundheitsberaterinnen und -berater ausreichen würden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigte sich in der Evaluation hinsichtlich der Fallkonferenzen?",
+    "output": "In der Evaluation zeigte sich, dass der Beratungsansatz durch die regelmäßig stattfindenden Fallkonferenzen effektiv unterstützt wurde und dass die Fallkonferenzen für die Gesundheitsberaterinnen und -berater zum elementar wichtigen Bestandteil ihrer Beratungstätigkeit geworden waren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum fühlten sich die Gesundheitsberaterinnen und -berater oft überlastet?",
+    "output": "Weil sie in den Gesprächen mit den Angehörigen viel über deren Situation erfahren und sich teilweise dafür verantwortlich fühlten, diese zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was waren die wesentlichen Ziele und Inhalte der Supervisionen?",
+    "output": "Die emotionale Entlastung der Gesundheitsberaterinnen und -berater bei Überlastungs- und Überforderungsgefühlen sowie die Qualifizierungsbegleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie halfen die Supervisionen den Gesundheitsberatern bei ihrer Arbeit?",
+    "output": "Die Supervisionen halfen den Gesundheitsberatern, ein größeres Einfühlungsvermögen in die Probleme der Familien zu erreichen und Erfahrungen in die Beratungen einbinden zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Supervisionen auf die Beratungsprozesse in den Familien?",
+    "output": "Die nachfolgenden Beratungen konnten zielgerichteter und effektiver stattfinden, da die Gesundheitsberaterinnen und -berater durch die Supervisionen ein sichereres Auftreten in den Familien hatten und diesen mehr Sicherheit vermitteln konnten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was lernten die Gesundheitsberaterinnen und -berater in den Supervisionen zusätzlich?",
+    "output": "Sie lernten, Schweigen und Stille auszuhalten und Grenzen der Familien zu akzeptieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ziel des Projekts 'Entlastungsprogramm bei Demenz – EDe'?",
+    "output": "Das Projekt hat gezeigt, wie pflegende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützt werden können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche drei Bereiche hatten den größten Hilfebedarf für Familien mit demenzerkrankten Menschen?",
+    "output": "Beratungsbedarf im Hinblick auf eine Problemlösung und emotionale Entlastung, Bedarf an Schulung und Anleitung zu demenzspezifischen Pflegeproblemen und Bedarf an Information über die Leistungen der Pflegeversicherung und regionalen Angebote."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welcher Beratungsansatz hat sich im Projekt als hilfreich und effektiv erwiesen?",
+    "output": "Der systemisch-lösungsorientierte Beratungsansatz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum war die pflegefachliche Expertise der Gesundheitsberaterinnen und -berater wichtig?",
+    "output": "Die pflegefachliche Expertise war wichtig, weil sie eine zentrale Bedeutung für die prozessorientierte Diagnostik und passenden Interventionen hatte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war eine grundlegende Voraussetzung für eine wirksame Pflegeunterstützung?",
+    "output": "Ein gewisser Grad an emotionaler Verbundenheit zwischen den Gesundheitsberaterinnen und -beratern und den Familien."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war eine wesentliche Empfehlung für die Weiterentwicklung der Pflegeversicherung?",
+    "output": "Die 'Förderung der Professionalität von zielgruppenorientiert eingesetzten Beraterinnen und Beratern'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was hat die fachliche und mentale Begleitung der Gesundheitsberaterinnen und -berater in Fallkonferenzen und Supervisionen bewirkt?",
+    "output": "Sie haben dadurch die Aufgabe, in komplexen häuslichen Pflegesituationen individuell passend zu agieren, über die Projektzeit hinweg bewältigen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was besagt § 92c SGB XI?",
+    "output": "§ 92c SGB XI besagt, dass für jeden Versicherten eine wohnortnahe Beratung, Versorgung und Betreuung eingerichtet werden soll."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wird der ambulanten Pflege der Vorrang vor der stationären Pflege gegeben?",
+    "output": "Der Vorrang der ambulanten Pflege beruht auf den Wünschen und Bedürfnissen der Pflegebedürftigen selbst, die überwiegend so lange wie möglich in ihrer gewohnten Umgebung bleiben möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch lag die Zahl der zu Hause versorgten pflegebedürftigen Personen im Jahr 2005?",
+    "output": "Laut der statistischen Ämter des Bundes und der Länder lag die Zahl der zu Hause versorgten pflegebedürftigen Personen im Jahr 2005 bei 68%."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum könnte der Rückgang der ambulanten versorgten Personen seit 1999 ein Hinweis sein?",
+    "output": "Der Rückgang könnte ein Hinweis darauf sein, dass die Möglichkeiten der familiären Versorgungen rückläufig sind, möglicherweise wegen der zunehmenden gesellschaftlichen Mobilität oder weil sich viele Angehörige mit der Versorgung und notwendigen Pflege ihrer Eltern oder Schwiegereltern überfordert fühlen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum fühlen sich viele Angehörige mit der Versorgung und Pflege ihrer Eltern oder Schwiegereltern überfordert?",
+    "output": "Plötzliche oder schrittweise Veränderung des Ehepartners oder der Eltern, wie z.B. das Auftreten oder Fortschreiten von Krankheitsverläufen, können im engeren sozialen Gefüge große Veränderungen bewirken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was passiert, wenn der Medizinische Dienst Mängel an der Versorgung oder Pflege der bedürftigen Person feststellt?",
+    "output": "Der Medizinische Dienst kann mit Einwilligung der pflegebedürftigen Person den ambulanten Pflegedienst einschalten oder auf eine Heimunterbringung hinwirken, oder den Pflegeberater hinzuziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe des Pflegeberaters?",
+    "output": "Der Pflegeberater soll die Defizite der Pflege und Betreuung erkennen und diese mit Einsicht der Betroffenen ausgleichen, um die Unabhängigkeit und die häusliche Umgebung zu erhalten und die Kompetenz der Versorgung zu steigern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann der Pflegeberater tun, wenn die Problematik der ehrenamtlich Pflegenden im fehlenden Wissen von pflegerischen Handlungen liegt?",
+    "output": "Der Pflegeberater kann einen Pflegekurs für die/den Angehörigen nach § 45, SGB XI veranlassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Pflegeberater bei Problemen in der Interaktion zwischen ehrenamtlich Pflegendem und zu pflegender Person helfen?",
+    "output": "Der Pflegeberater kann in Beratungsgesprächen die vielschichtigen Gründe des Versorgungsdefizits herausarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was könnte ein Pflege- oder Versorgungsproblem in einer langjährigen Beziehung sein?",
+    "output": "Dass die Angehörigen oder der Ehepartner die Symptomverschlimmerung nicht erkennen oder wahrhaben möchten, während das Selbstpflegedefizit des Betroffenen immer stärker wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was besagt ein systemischer Grundgedanke?",
+    "output": "Dass jedes System bereits über alle Ressourcen verfügt, die es zur Lösung seiner Probleme benötigt, aber diese derzeit nicht nutzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Vernetzung der sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige?",
+    "output": "Die Stabilisierung der Struktur der häuslichen Pflege, ohne Doppelstrukturen zu schaffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kernkompetenz der Pflegestützpunkte?",
+    "output": "Die Vernetzung der vorhandenen sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Aufgaben der Pflegestützpunkte gemäß §92c?",
+    "output": "Umfassende und unabhängige Auskunft und Beratung, Koordinierung von Hilfsangeboten und Vernetzung von Versorgungs- und Betreuungsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat den Auftrag erhalten, ein Pilotprojekt 'Werkstatt Pflegestützpunkt' durchzuführen?",
+    "output": "Das Kuratorium Deutsche Altershilfe (KDA)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie soll die Arbeit eines Pflegestützpunktes beschrieben werden?",
+    "output": "Durch ein Sondierungsgespräch, bei dem festgestellt wird, welcher Leistungskomplex oder welche Leistungskomplexsituation benötigt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann ein Sondierungsgespräch erfolgen?",
+    "output": "Persönlich, telefonisch oder schriftlich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird im Sondierungsgespräch festgestellt?",
+    "output": "Welcher Leistungskomplex oder welche Leistungskomplexsituation benötigt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Leistungsrubriken, die im Pflegestützpunkt verstanden werden können?",
+    "output": "Sondierungsgespräch, Einzelinformation, Beratung sowie das Care Management."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum muss ein Care Management durchgeführt werden?",
+    "output": "Damit die Leistungskomplexe effizient bereitgestellt werden können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat Standards zur systemischen Beratung, die als Grundlage verwendet werden können?",
+    "output": "Die DGSF (Deutsche Gesellschaft für Systemische Therapie und Familientherapie)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielt das Sondierungsgespräch im Pflegestützpunkt?",
+    "output": "Das Sondierungsgespräch wird als erste und richtungweisende Funktion im Pflegestützpunkt betrachtet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Anforderungen ergeben sich für systemische Beratung?",
+    "output": "Anforderungen, die sich im speziellen auf systemisches Fragen, Adressaten- und Kundenorientierung, bzw. deren Auftragsklärung beziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Qualifikationen werden für die Durchführung des Sondierungsgesprächs abverlangt?",
+    "output": "Besondere Qualifikationen, wie das kompetente Einschätzen der vorhandenen Ressourcen und das Erkennen von nicht geäußerten Informationen bzw. Unterstützungsbedarfes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche systemischen Fragetechniken können in einem Gespräch mit dem Rat- und Hilfesuchenden angewendet werden?",
+    "output": "Zirkuläre Fragen, Klassifikationsfragen, Prozentfragen, Übereinstimmungsfragen und Subsystemvergleiche."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trifft Entscheidungen über die Leistungen des Pflegestützpunkts?",
+    "output": "Die Entscheidungen über welche Leistungen und auch ob diese von dem Pflegestützpunkt und dem Pflegeberater durchgeführt werden, werden vom Rat- und Hilfesuchenden getroffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Bedarfserhebung im Sondierungsgespräch?",
+    "output": "Das Ziel ist, eine individuelle und professionelle Bedarfserhebung gemeinsam mit dem Rat- und Hilfesuchenden durchzuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trifft Entscheidungen über die Leistungen des Pflegestützpunkts und des Pflegeberaters?",
+    "output": "Der Rat- und Hilfesuchende selbst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet die Systemische Dienstleistungsphilosophie?",
+    "output": "Das Angebot soll genau auf die Nachfrage abgestimmt werden und der Kunde soll subjektiv das erhalten, was er möchte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie richtet sich die Entscheidung des Pflegeberaters aus?",
+    "output": "Nach dem subjektiven Bedarf des Kunden, nicht nach objektiver Indikation oder Bedürftigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Einzelinformation im Pilotprojekt 'Werkstatt Pflegestützpunkt'?",
+    "output": "Der Rat- und Hilfesuchende erhält Informationen zu den Hilfs- und Unterstützungsangeboten inklusive Umfang und Preis der Leistungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wird den Pflegeberatern geraten, auf die Vorteile einer Beratung hinzuweisen?",
+    "output": "Damit die Kunden nicht fachlich suboptimale Entscheidungen treffen, die durch Erhalt von Einzelinformationen entstehen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde der Leistungskomplex Beratung unterteilt?",
+    "output": "In zwei Bausteine: die Basis- und die Spezialberatung, um allgemeine und spezielle Informationen abzugrenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde der Leistungskomplex Beratung unterteilt?",
+    "output": "In zwei Bausteine: die Basis- und die Spezialberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Unterteilung in Basis- und Spezialberatung nötig?",
+    "output": "Weil die Erfahrung zeigt, dass die Pflegestützpunkte die erste Anlaufstelle für alle pflegerelevanten Fragen sind, sowie Fragen die noch weit darüber hinausgehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle eines Pflegeberaters bei der Kooperation mit anderen Fachleuten?",
+    "output": "Ein Pflegeberater muss erkennen können, an welchen Stellen in einem Fall Vernetzungen und Kooperationen einsetzen sollten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann ist es erforderlich, einen Kunden einer Spezialberatung zuzuführen?",
+    "output": "Wenn ein Rat- und Hilfesuchender tiefer gehende Information benötigt oder in einer anderen Art der Entscheidungsfindung begleitet werden muss."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die systemische Intervention Wirklichkeits- und Möglichkeitskonstruktion?",
+    "output": "Eine Intervention, die hilfreich sein kann, um die wichtigen Bedürfnisse des Pflegeberaters und des Kunden besser sichtbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die beiden Arten von Informationen, die ein System benötigt, um sich zu verändern?",
+    "output": "1. Wirklichkeitskonstruktion (Informationen über den aktuellen Zustand) und 2. Möglichkeitskonstruktion (Informationen über mögliche Zukunftszustände)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Möglichkeitskonstruktion?",
+    "output": "Das Ziel der Möglichkeitskonstruktion ist es, neue Perspektiven und Lösungen für das Problem in den Blick zu rücken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trägt die Hauptverantwortung in der Fallklärung und -steuerung?",
+    "output": "Die Hauptverantwortung verbleibt immer bei einer Person, auch wenn weitere Fachleute zu diesem Fall hinzugezogen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Methode wird als bewährteste Methode für die Fallklärung und -steuerung beschrieben?",
+    "output": "Die Kombination eines 'Allgemeinen' Assessmentverfahrens verbunden mit gezielten Fragetechniken der Pflegeberater."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des Beraters in der systemisch-beraterischen Fallsteuerung?",
+    "output": "Der Berater ist für einen guten feinstofflichen Prozess der Übereinkunft von Beratungsanliegen, Zielvorgabe durch den Adressaten und dessen Veränderungsbemühen zuständig."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, dass die Fallklärung und -steuerung präzise sein muss?",
+    "output": "Damit die Fallklärung und -steuerung möglichst präzise sein muss und ebenfalls für den Rat- und Hilfesuchenden nicht viel Zeit in Anspruch nehmen darf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Philosophie der systemisch-beraterischen Fallsteuerung?",
+    "output": "Die Steuerung des gesamten Vorganges liegt beim Adressaten, dem Kunden, und seine Anliegen leiten den Prozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum kann eine umfassende Erhebung des Hilfebedarfs schwierig sein?",
+    "output": "Weil in einer Familie sowie beim Pflegebedürftigen selbst Meinungen und Einschätzungen einer Sache oder Situation ganz unterschiedlich dargestellt werden können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet es, dass dem Menschen nur subjektive Realitäten zugänglich sind?",
+    "output": "Dass jeder Mensch ganz individuell aus der Position, in welcher dieser sich befindet, die Welt, also seine Umgebung, die Personen darin und die Empfindungen dazu als seine Wirklichkeit konstruiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, verschiedene Meinungen und Einschätzungen zur Problemlösung gemeinsam zu erarbeiten?",
+    "output": "Um den Spielraum für das Tun zu vergrößern und dem Kunden Wahlmöglichkeiten zu schaffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was liegt am Berater, um den Kunden zu unterstützen?",
+    "output": "Die dazu notwendigen Informationen dem Rat- und Hilfesuchenden zu übersetzen, um auf diese Weise den Spielraum für das Tun zu vergrößern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, verschiedene Meinungen und Einschätzungen zur Problemlösung gemeinsam zu erarbeiten?",
+    "output": "Um den Spielraum für das Tun zu vergrößern und wenn nötig zu Neuentscheidungen ermutigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst das Care Management im Bereich der Pflegestützpunkte?",
+    "output": "Leistungen auf der Systemebene, die notwendig sind, um Hilfeleistungen für den Rat- und Hilfesuchenden erbringen zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das vorrangige Ziel der systemisch ausgebildeten Pflegeberater?",
+    "output": "Die Daten und Informationen zu identifizieren, zu erfassen und zu aktualisieren sowie Versorgungslücken aus einer Beratung heraus zu erarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war ein Ergebnis des Pilotprojekts 'Werkstatt Pflegestützpunkt'?",
+    "output": "Ein ausführliches Profil von Tätigkeiten der Pflegeberatung/Care Management wurde erstellt und Schwachstellen in den Strukturen wurden benannt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo liegen die Schwierigkeiten im Kontakt mit den Rat- und Hilfesuchenden?",
+    "output": "In Gesprächs- und Beratungssituationen fehlen noch nötige Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie könnte die Fachweiterbildung zur 'Systemischen Beratung in der Pflege' die Schwachstellen im Betriebsmodell Pflegestützpunkt verbessern?",
+    "output": "Indem sie den Pflegeberatern entsprechendes Werkzeug an die Seite stellt, um die hochkomplexen Beratungsleistungen im Care Management zu meistern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wäre eine Verbesserungsmöglichkeit für die Schwachstellen im Betriebsmodell Pflege-Stützpunkt?",
+    "output": "Die Fachweiterbildung zur 'Systemischen Beratung in der Pflege'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind psychische und soziale Belange bei der Unterstützung Pflegebedürftiger bisher vernachlässigt worden?",
+    "output": "Weil es bisher eine Konzentration auf körperliche Probleme oder einzelne Episoden im Krankheitsverlauf gab."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine wesentliche Anforderung an die zukünftigen Strukturen in der pflegerischen Versorgung?",
+    "output": "Die Potenziale für Eigenverantwortung, Eigeninitiative und gegenseitige Hilfe zu stärken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet das Pflege-Weiterentwicklungsgesetz für die Zukunft der Pflegestützpunkte?",
+    "output": "Es gibt den Anstoß für eine weiterführende Strukturveränderung des Gesundheitssystems mittels PflegeberaterInnen und Pflegestützpunkte und bietet einen Gestaltungsfreiraum zur zukunftsorientierten Weiterentwicklung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein möglicher Ausbau für die Qualifikationen der PflegeberaterInnen?",
+    "output": "Die Fachweiterbildung 'Systemische Beratung in der Pflege' als Qualifizierung zur PflegeberaterIn."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet das Pflege-Weiterentwicklungsgesetz für das Gesundheitssystem?",
+    "output": "Das Pflege-Weiterentwicklungsgesetz gibt den Anstoß für eine weiterführende Strukturveränderung des Gesundheitssystems mittels PflegeberaterInnen und Pflegestützpunkte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Qualifikationen sollten PflegeberaterInnen haben?",
+    "output": "PflegeberaterInnen sollten systemische Qualifikationen haben, wie die Weiterbildung 'Systemische Beratung in der Pflege'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Können PflegeberaterInnen Spezialberatung anbieten?",
+    "output": "Ja, wenn sie eine entsprechende Fachweiterbildung haben, können PflegeberaterInnen Spezialberatung in ihrem Fachgebiet durchführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können PflegeberaterInnen pflegende Angehörige unterstützen?",
+    "output": "PflegeberaterInnen können pflegende Angehörige beratend unterstützen, indem sie systemisch-lösungsorientierte Beratung anbieten, wie im Modellprojekt 'Entlastungsprogramm bei Demenz – Ede' dargestellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflegestützpunkte?",
+    "output": "Das Ziel der Pflegestützpunkte ist es, eine flächendeckende Verwurzelung zu erreichen, um pflegende Angehörige und Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde die Rolle der PflegeberaterInnen im Projekt 'Entlastungsprogramm bei Demenz – Ede' definiert?",
+    "output": "Im Projekt 'Entlastungsprogramm bei Demenz – Ede' wurden Pflegefachkräfte in drei Hauptschwerpunkten unterrichtet: Bedarfseinschätzung und Hilfeplanung, Beratungsinterventionen und Schulung, sowie Vermittlung und Koordination von Hilfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der flächendeckenden Verwurzelung von Pflegestützpunkten?",
+    "output": "Das Ziel ist, dass der Ansprechpartner, die PflegeberaterIn, für pflegende Angehörige und Angehörige von demenziellerkrankten Menschen stets in erreichbarer Nähe ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die drei wesentlichen Punkte, auf die sich die Tendenz der Langzeitversorgung durch Pflegestützpunkte ausrichtet?",
+    "output": "Die drei wesentlichen Punkte sind: Prävention, Ambulant vor Stationär und Rat- und Hilfesuchende sollen Experte für die eigene Erkrankung werden – Hilfe zur Selbsthilfe – Souveränität des Verbrauchers."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was haben Versicherte nach § 27 Abs.1 Satz1, SGB V Anspruch auf?",
+    "output": "Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann eine PflegeberaterIn mit einer weiteren speziellen Qualifikation im Pflegestützpunkt anbieten?",
+    "output": "Eine PflegeberaterIn mit einer weiteren speziellen Qualifikation kann Spezialberatungen im Pflegestützpunkt anbieten und auf diese Weise dem Pflegestützpunkt eine Spezialisierung geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was könnte ein spezialisierter Pflegestützpunkt mit einer PflegeberaterIn, die eine Fachweiterbildung zur Schmerzmanagerin besitzt, anbieten?",
+    "output": "Ein solcher Pflegestützpunkt könnte sich auf ambulante Schmerztherapie spezialisieren und bereits begonnene medikamentöse Therapien schnittstellenfrei weiter begleiten, Veränderungen bzw. Verschlechterungen in Therapieplänen erkennen und den Bedarf an Therapie feststellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel bei der Begleitung von Patienten mit bereits begonnener medikamentöser Therapie?",
+    "output": "Das Ziel ist, Veränderungen oder Verschlechterungen in Therapieplänen zu erkennen, den Bedarf an Therapie festzustellen und dadurch Chronifizierungen zu vermeiden oder frühzeitig vorzubeugen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den chronischen Schmerz im Care-Management zu betrachten?",
+    "output": "Es ist wichtig, den chronischen Schmerz im Care-Management zu betrachten, weil er das Leben eines Betroffenen stark einschränken kann und eine effektive Behandlung erfordert, die die Ganzheitlichkeit des Klienten berücksichtigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Faktoren können zur Entstehung von chronischen Schmerzen beitragen?",
+    "output": "Faktoren zur Entstehung von chronischen Schmerzen können Störung der psychischen Befindlichkeit, schwere psychische und körperliche Erkrankungen, Verlust von Bezugspersonen, schwere Erkrankungen in der Familie, das Erleben psychischer oder physischer Gewalt und drohender Arbeitsplatzverlust oder zu hoher Leistungsdruck auf der Arbeit sein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den chronischen Schmerz mit einem bio-psycho-sozialen Verständnis zu betrachten?",
+    "output": "Es ist wichtig, den chronischen Schmerz mit einem bio-psycho-sozialen Verständnis zu betrachten, weil die Faktoren, die zur Entstehung von chronischen Schmerzen beitragen, sehr unterschiedlich sein können und eine effektive Behandlung die Berücksichtigung aller Aspekte erfordert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Methode wird heute als die Wahl für die Behandlung von chronischen Schmerzen angesehen?",
+    "output": "Die multimodale Behandlung, bei der verschiedene Maßnahmen gleichzeitig zur Anwendung kommen, wird heute als die Methode der Wahl für die Behandlung von chronischen Schmerzen angesehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Gesprächsführung über Schmerzen und Beratungskompetenzen im Schmerzmanagement wichtig?",
+    "output": "Die Gesprächsführung über Schmerzen und Beratungskompetenzen sind wichtig, weil sie es ermöglichen, die Komplexität der möglichen Chronifizierungsfaktoren zu verstehen und eine effektive Behandlung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Methode der Wahl, um den Chronifizierungsfaktoren entgegenzuwirken und eine effektive Behandlung zu gewährleisten?",
+    "output": "Eine multimodale Behandlung, in welcher verschiedene Maßnahmen gleichzeitig zur Anwendung kommen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Bausteine kann eine multimodale Behandlung bei Rückenschmerzen bestehen?",
+    "output": "Edukation, Rückenschule, krankengymnastische und sportmedizinische Übungen, Entspannungsübungen, verhaltenstherapeutische Elemente, konfliktzentrierte psychodynamische Verfahren und sozialmedizinische Interventionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind Informationen und Schulungen bei Rückenschmerzpatienten nötig?",
+    "output": "Um die physiologischen mit den psychischen und sozialen Faktoren zu verbinden und so einer Therapieresistenz entgegenzuwirken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist der Anteil von Tumorpatienten, die nicht kurativ behandelt werden können und an chronischen Schmerzen leiden?",
+    "output": "Etwa 60% der Tumorpatienten können nicht kurativ behandelt werden und bis zu 90% der Patienten im fortgeschrittenen Stadium der Erkrankung klagen über chronische Schmerzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Versicherte die Unterstützung der Schmerz-PflegeberaterIn erhalten?",
+    "output": "Durch die flächendeckende Versorgung durch Pflegestützpunkte und die punktuelle Spezialisierung einzelner auf Schmerzmanagement, wohnortnah."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Versicherte einen Beratungstermin mit der Schmerz-PflegeberaterIn ausmachen?",
+    "output": "Versicherte können selbstständig und ohne über einen Arzt geschickt zu werden einen Beratungstermin mit der Schmerz-PflegeberaterIn ausmachen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Leistungen kann die PflegeberaterIn durch die Spezialisierung des Pflegestützpunktes anbieten?",
+    "output": "Die PflegeberaterIn kann Care Management von Schmerzpatienten, Einberufen einer Schmerzkonferenz, Psycho-soziale und psycho-sozial-pflegerische Beratung, Schmerzpatienten informieren und individuell Schulen, Regelmäßige Patienten und Angehörigen Schulungen, Offene Schmerzsprechstunden und Individuelle Therapiemöglichkeiten anbieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, psycho-sozial-pflegerisch mit einem Versicherten umzugehen?",
+    "output": "Es ist wichtig, psycho-sozial-pflegerisch mit einem Versicherten umzugehen, um die eigentliche Ursache der Chronifizierung im System zu entdecken und somit auch dem Schmerz eine Lösung zu zuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Versicherte Klient der Schmerz-PflegeberaterIn werden?",
+    "output": "Versicherte können auf drei unterschiedlichen Wegen Klient der Schmerz-PflegeberaterIn werden: durch Überweisung von der Algesiologischen Klinik, durch Überweisung von Fachärzten, Hausärzten und Therapeuten oder durch selbstständige Kontaktaufnahme."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch die Fachspezialisierung einzelner Pflegestützpunkte erreicht werden?",
+    "output": "Durch die Fachspezialisierung einzelner Pflegestützpunkte kann die Struktur des Gesundheitssystems flächendeckend gestärkt, Hausärzte entlastet und eine lückenlose Betreuung für Versicherte ermöglicht werden."
+  }
+]

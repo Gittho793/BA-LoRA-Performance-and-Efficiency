@@ -1,0 +1,512 @@
+[
+  {
+    "instruction": "Was ist die Bedeutung des Begriffs Anerkennung im Kontext der Zuwanderung in Europa?",
+    "input": "",
+    "output": "Der Begriff Anerkennung gewinnt an Bedeutung aufgrund der gestiegenen Anzahl an Menschen, die in europ\u00e4ischen L\u00e4ndern Schutz suchen, und bezieht sich zun\u00e4chst auf das Ergebnis eines rechtlichen Asylverfahrens."
+  },
+  {
+    "instruction": "Wie definiert die Genfer Fl\u00fcchtlingskonvention (GFK) einen Fl\u00fcchtling?",
+    "input": "",
+    "output": "Die GFK definiert einen Fl\u00fcchtling als eine Person, die aufgrund bestimmter Merkmale (z.B. Nationalit\u00e4t, politische \u00dcberzeugung) verfolgt wird und ihr Herkunftsland verlassen musste."
+  },
+  {
+    "instruction": "Was bedeutet Anerkennung nach der GFK?",
+    "input": "",
+    "output": "Nach der GFK f\u00fchrt Anerkennung zu Schutz und sozialen Rechten."
+  },
+  {
+    "instruction": "Welche Widerspr\u00fcche gibt es bei der Anerkennung von Fl\u00fcchtlingen?",
+    "input": "",
+    "output": "Es gibt einen offenen Widerspruch zwischen der Anerkennung des Rechts auf Asyl als universelles Menschenrecht und der Wahrung territorialer Souver\u00e4nit\u00e4t."
+  },
+  {
+    "instruction": "Was ist die Bedeutung von Anerkennung in der Regulierung und (Re-)Produktion von Machtverh\u00e4ltnissen?",
+    "input": "",
+    "output": "Anerkennung kommt in der Regulierung und (Re-)Produktion von Machtverh\u00e4ltnissen eine bedeutsame und \u00fcberaus generelle Rolle zu."
+  },
+  {
+    "instruction": "Wie wichtig sind kulturelle Gr\u00fcnde f\u00fcr Migrationsprozesse?",
+    "input": "",
+    "output": "Kulturelle Gr\u00fcnde sind nur selten die Ursache f\u00fcr Migrationsprozesse, stattdessen sind Armut, politische Unterdr\u00fcckung und Krieg die h\u00e4ufigsten Ursachen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung von beruflicher Integration in der Migrationsgesellschaft?",
+    "input": "",
+    "output": "Berufliche Integration bezieht sich auf die strukturelle Partizipation und nicht auf die kulturelle Teilhabe, und durch Anerkennungsprozesse auf verschiedenen Ebenen werden die notwendigen Voraussetzungen geschaffen."
+  },
+  {
+    "instruction": "Warum wird in Deutschland und \u00d6sterreich die Migration vor allem unter dem Gesichtspunkt der Quantit\u00e4ts- und Nutzenfrage diskutiert?",
+    "input": "",
+    "output": "In Deutschland und \u00d6sterreich wird Migration vor allem unter dem Gesichtspunkt der Quantit\u00e4ts- und Nutzenfrage diskutiert, um die Notwendigkeit von Migration aus der Perspektive des Aufnahmelandes zu legitimieren, insbesondere aufgrund des Alterns der Bev\u00f6lkerung, des Fachkr\u00e4ftemangels und der ungesicherten Rentenfrage."
+  },
+  {
+    "instruction": "Welche Vorteile werden durch die Zuwanderung und berufliche Integration von qualifizierten Fachkr\u00e4ften aus dem Ausland genannt?",
+    "input": "",
+    "output": "Die Vorteile sind die sprachlichen und interkulturellen Kompetenzen von Menschen mit Migrationserfahrung, welche oft unhinterfragt zugeschrieben werden, sowie die Schlie\u00dfung des Fachkr\u00e4fteengpasses insbesondere im Bereich des Gesundheits- und Sozialwesens."
+  },
+  {
+    "instruction": "Warum ist die Anerkennung von im Ausland erworbenen Qualifikationen wichtig?",
+    "input": "",
+    "output": "Die Anerkennung von im Ausland erworbenen Qualifikationen ist wichtig, um den beruflichen Integrationsprozess zu erleichtern, die soziale Wertsch\u00e4tzung durch Arbeitgeber zu f\u00f6rdern und die individuelle Ebene der Personen zu st\u00e4rken, die trotz entsprechender Bildungsabschl\u00fcsse unter ihrem Qualifikationsniveau arbeiten."
+  },
+  {
+    "instruction": "Was sind die Folgen einer verweigerten Anerkennung von Qualifikationen?",
+    "input": "",
+    "output": "Die Folgen einer verweigerten Anerkennung von Qualifikationen sind berufliche und sozialrechtliche Einschr\u00e4nkungen, sowie eine 'Aberkennung' individueller Bildungs- und Berufsbiografien, was zu einer 'Lose-lose-Situation' f\u00fcr das Aufnahmeland und die betroffenen Menschen f\u00fchrt."
+  },
+  {
+    "instruction": "Was ist das Ziel der Integration von Personen mit im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Die bildungsad\u00e4quate Integration von Personen mit im Ausland erworbenen Qualifikationen auf individueller und struktureller Ebene."
+  },
+  {
+    "instruction": "Warum k\u00f6nnen Zuwanderer ihre Kompetenzen oft nicht f\u00fcr eine entsprechende berufliche Integration nutzen?",
+    "input": "",
+    "output": "Weil ihre im Ausland erworbenen Qualifikationen oft nicht anerkannt werden und es rechtliche und arbeitsmarktpolitische Hindernisse gibt."
+  },
+  {
+    "instruction": "Wie hoch war der Anteil der Besch\u00e4ftigten mit Migrationshintergrund, die sich in \u00d6sterreich f\u00fcr ihre T\u00e4tigkeit \u00fcberqualifiziert f\u00fchlten?",
+    "input": "",
+    "output": "22% laut Mikrozensus 2014."
+  },
+  {
+    "instruction": "Was sind die Gr\u00fcnde f\u00fcr die un\u00fcbersichtliche Ausdifferenzierung der gesetzlichen Regelungen zur Anerkennung von im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Die fehlenden Bewertungsma\u00dfst\u00e4be und die un\u00fcbersichtliche Ausdifferenzierung der gesetzlichen Regelungen sowie die fehlenden Zust\u00e4ndigkeiten."
+  },
+  {
+    "instruction": "Wie wird die Forschungslandschaft zum Thema Anerkennung von im Ausland erworbenen Qualifikationen in \u00d6sterreich beschrieben?",
+    "input": "",
+    "output": "Als wenig etabliert, obwohl die Thematik in den vergangenen Jahren st\u00e4rkere Beachtung gefunden hat."
+  },
+  {
+    "instruction": "Was ist ein wichtiger Aspekt bei der Anerkennung von im Ausland erworbenen Qualifikationen?",
+    "input": "",
+    "output": "Die gesellschaftliche Wertsch\u00e4tzung, die oft an institutionalisierte Formen der Anerkennung wie formale Anerkennungsverfahren gebunden ist."
+  },
+  {
+    "instruction": "Welches Problem stehen Menschen mit einer ausl\u00e4ndischen Ausbildung vor?",
+    "input": "",
+    "output": "Menschen mit einer ausl\u00e4ndischen Ausbildung stehen vor dem Problem, dass potenzielle Arbeitgeber ihre Abschl\u00fcsse mit Skepsis betrachten, da sie weder das notwendige Wissen \u00fcber Bildungssysteme anderer Staaten haben noch deren Wert einsch\u00e4tzen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist die bewusste und unbewusste Diskriminierung am Arbeitsmarkt?",
+    "input": "",
+    "output": "Die bewusste und unbewusste Diskriminierung am Arbeitsmarkt ist ein Problem, das Menschen mit einer ausl\u00e4ndischen Ausbildung erfahren, wenn sie unterhalb ihres Ausbildungsniveaus besch\u00e4ftigt und entlohnt werden."
+  },
+  {
+    "instruction": "Wann ist das Anerkennungsgesetz des Bundes in Deutschland in Kraft getreten?",
+    "input": "",
+    "output": "Das Anerkennungsgesetz des Bundes in Deutschland ist am 1. April 2012 in Kraft getreten."
+  },
+  {
+    "instruction": "Was bietet das IQ-Netzwerk in Deutschland?",
+    "input": "",
+    "output": "Das IQ-Netzwerk bietet in Deutschland ein Informationsportal und Anerkennungsberatungsstellen an, um Menschen mit einer ausl\u00e4ndischen Ausbildung zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wann ist das Anerkennungs- und Bewertungsgesetz in \u00d6sterreich in Kraft getreten?",
+    "input": "",
+    "output": "Das Anerkennungs- und Bewertungsgesetz in \u00d6sterreich ist im Juli 2016 in Kraft getreten."
+  },
+  {
+    "instruction": "Was bieten die Beratungsstellen in \u00d6sterreich an?",
+    "input": "",
+    "output": "Die Beratungsstellen in \u00d6sterreich bieten eine spezialisierte Fachberatung zur Unterst\u00fctzung des Anerkennungsprozesses im Ausland erworbener Qualifikationen an."
+  },
+  {
+    "instruction": "Welche Begriffe und Konzepte spielen eine zentrale Bedeutung in der Arbeit?",
+    "input": "",
+    "output": "Die Begriffe und Konzepte von \u00bbMigration\u00ab, \u00bbQualifizierung\u00ab und \u00bbAnerkennung\u00ab."
+  },
+  {
+    "instruction": "Was sind die zwei grundlegenden Vorannahmen in der Diskussion um die Zuwanderung qualifizierter Migrant_innen?",
+    "input": "",
+    "output": "Die Vorannahmen sind die \u00bbdichotomisierende Logik\u00ab und die Differenzierung zwischen den Kategorien \u00bbqualifiziert\u00ab und \u00bbunqualifiziert\u00ab."
+  },
+  {
+    "instruction": "Was bezieht sich der Begriff Migration auf?",
+    "input": "",
+    "output": "Der Begriff Migration bezieht sich nicht nur auf die grenz\u00fcberschreitende Mobilit\u00e4t."
+  },
+  {
+    "instruction": "Was stellt die Bezeichnung \u00bbAusl\u00e4nder_innen\u00ab dar?",
+    "input": "",
+    "output": "Die Bezeichnung \u00bbAusl\u00e4nder_innen\u00ab stellt einen politischen Rechtsbegriff in Bezug auf die Staatsangeh\u00f6rigkeit dar."
+  },
+  {
+    "instruction": "Was stellt die Bezeichnung \u00bbAusl\u00e4nder_innen\u00ab dar?",
+    "input": "",
+    "output": "Die Bezeichnung \u00bbAusl\u00e4nder_innen\u00ab stellt einen politischen Rechtsbegriff in Bezug auf die Staatsangeh\u00f6rigkeit dar."
+  },
+  {
+    "instruction": "Warum wird in der Arbeit die Bezeichnung \u00bbMigrant_innen\u00ab verwendet?",
+    "input": "",
+    "output": "Die Bezeichnung \u00bbMigrant_innen\u00ab wird verwendet, um Personen zu beschreiben, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt haben."
+  },
+  {
+    "instruction": "Was ist die Kategorie \u00bbMigrant_in\u00ab in dieser Arbeit?",
+    "input": "",
+    "output": "Die Kategorie \u00bbMigrant_in\u00ab wird als analytische Ungleichheitsdimension verwendet, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet."
+  },
+  {
+    "instruction": "Wie wird die Differenzierung nach \u00bbqualifizierten\u00ab und \u00bbnichtqualifizierten\u00ab Migrantinnen kritisch gesehen?",
+    "input": "",
+    "output": "Die Differenzierung nach \u00bbqualifizierten\u00ab und \u00bbnichtqualifizierten\u00ab Migrantinnen wird kritisch gesehen, weil sie oftmals nicht aufgrund der Analyse ungleicher gesellschaftlicher Ausgangsbedingungen, sondern als Zuteilung infolge fehlender oder nur teilweise erfolgter Anerkennung stattfindet."
+  },
+  {
+    "instruction": "Was ist der Ausgangspunkt der Beratung in der Anerkennungsberatung?",
+    "input": "",
+    "output": "Der Ausgangspunkt der Beratung ist die im Ausland erworbene Qualifikation unabh\u00e4ngig von der rechtlichen Anerkennung."
+  },
+  {
+    "instruction": "Warum wurden Frauenmigration und Arbeitsmigration in der traditionellen Migrationsforschung unterschiedlich betrachtet?",
+    "input": "",
+    "output": "Frauenmigration wurde als passive Form durch Heirat oder infolge des Familiennachzugs betrachtet, w\u00e4hrend Arbeitsmigration als m\u00e4nnliches Ph\u00e4nomen angesehen wurde."
+  },
+  {
+    "instruction": "Was hat den Einfuss von feministischen Forschungsans\u00e4tzen in der Migrationsforschung bewirkt?",
+    "input": "",
+    "output": "Die Genderperspektive in der Migrationsforschung hat an Bedeutung gewonnen und Arbeitsmigration wird nun auch als Migration von Frauen thematisiert."
+  },
+  {
+    "instruction": "Was bedeutet der Begriff der formalen Anerkennung im Kontext der Anerkennung im Ausland erworbener Qualifikationen?",
+    "input": "",
+    "output": "Ein gesetzlich geregeltes Verfahren zur Best\u00e4tigung der Gleichwertigkeit eines im Ausland erworbenen Abschlusses mit einem inl\u00e4ndischen Referenzabschluss."
+  },
+  {
+    "instruction": "Wer oder was wird als Anerkennungsstellen bezeichnet?",
+    "input": "",
+    "output": "Die zust\u00e4ndigen Institutionen und Beh\u00f6rden, welche die Anerkennungsverfahren im staatlichen Auftrag durchf\u00fchren und Bescheide sowie Bewertungen ausstellen, wie z.B. Beh\u00f6rden, Ministerien, Berufsorganisationen oder Universit\u00e4ten."
+  },
+  {
+    "instruction": "Was ist das Ergebnis eines formalen Anerkennungsverfahrens?",
+    "input": "",
+    "output": "Ein rechtsf\u00e4higer Bescheid, der die Gleichwertigkeit eines im Ausland erworbenen Abschlusses mit einem inl\u00e4ndischen Referenzabschluss best\u00e4tigt."
+  },
+  {
+    "instruction": "Was kann eine Anerkennungsstelle sein?",
+    "input": "",
+    "output": "Eine Anerkennungsstelle kann eine Beh\u00f6rde, ein Ministerium, eine Berufsorganisation oder eine Universit\u00e4t sein."
+  },
+  {
+    "instruction": "Was umfasst die berufliche Anerkennung?",
+    "input": "",
+    "output": "Die berufliche Anerkennung umfasst den Prozess der Best\u00e4tigung der Gleichwertigkeit und den damit verbundenen Zweck, n\u00e4mlich die Bewerbung mit dem Bescheid auf dem Arbeitsmarkt."
+  },
+  {
+    "instruction": "Was ist die formale Anerkennung?",
+    "input": "",
+    "output": "Die formale Anerkennung ist die Best\u00e4tigung der Gleichwertigkeit einer Qualifikation, die f\u00fcr berufliche oder akademische Zwecke verwendet werden kann."
+  },
+  {
+    "instruction": "Was ist die Bewertung von Qualifikationen?",
+    "input": "",
+    "output": "Die Bewertung von Qualifikationen ist eine nicht-rechtlich bindende Einsch\u00e4tzung, die f\u00fcr Bewerbungen auf dem Arbeitsmarkt genutzt werden kann, aber keine bestimmten Rechte in Zusammenhang mit der Berufsaus\u00fcbung verleiht."
+  },
+  {
+    "instruction": "Was ist Validierung?",
+    "input": "",
+    "output": "Validierung ist ein Verfahren, um nonformal oder informell erworbene Lernergebnisse \u00fcber formale, summative oder formative Prozesse sichtbar zu machen."
+  },
+  {
+    "instruction": "Warum ist die gesellschaftliche Anerkennung wichtig?",
+    "input": "",
+    "output": "Die gesellschaftliche Anerkennung ist wichtig, weil sie den gesellschaftlichen Wert und die tats\u00e4chliche Verwertbarkeit von Kompetenzen und Qualifikationen in der Praxis bestimmt."
+  },
+  {
+    "instruction": "Was bedeutet der Anerkennungsbegriff nach Englmann und M\u00fcller?",
+    "input": "",
+    "output": "Der Anerkennungsbegriff bezeichnet die gesellschaftliche Akzeptanz einer Qualifikation, das Verfahren der Anerkennung sowie ihr positives Ergebnis."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der gesellschaftlichen Anerkennung nach Sommer?",
+    "input": "",
+    "output": "Die gesellschaftliche Anerkennung geht \u00fcber die Relevanz f\u00fcr den \u00f6konomischen Kontext hinaus und bezieht sich auf die tiefere Bedeutung des Begriffs der Anerkennung."
+  },
+  {
+    "instruction": "Was sind die Hindernisse, die durch eine formale Anerkennung nicht gel\u00f6st werden k\u00f6nnen?",
+    "input": "",
+    "output": "Die Hindernisse, die durch eine formale Anerkennung nicht gel\u00f6st werden k\u00f6nnen, sind unter anderem aufenthalts- und asylrechtliche Vorschriften sowie unterschiedliche Formen der Diskriminierung."
+  },
+  {
+    "instruction": "Was sind die unterschiedlichen Gr\u00fcnde f\u00fcr Anerkennungsverfahren nach Maier et al.?",
+    "input": "",
+    "output": "Die unterschiedlichen Gr\u00fcnde f\u00fcr Anerkennungsverfahren sind unter anderem der Zugang zu reglementierten Berufen, der Zugang zu Schul- und Berufsausbildung, die Verbesserung der Bewerbungs- und Arbeitsplatzchancen, die Hochschulzugangsberechtigung, die Zulassung zu Fortbildungen und Umschulungen, die tarifliche Eingruppierung, die Wertsch\u00e4tzung und die Selbstbest\u00e4tigung."
+  },
+  {
+    "instruction": "Was ist die Bedeutung von Anerkennungsverh\u00e4ltnissen nach Honneth?",
+    "input": "",
+    "output": "Die Anerkennungsverh\u00e4ltnisse sind wichtig, weil die Subjekte zu einem praktischen Selbstverh\u00e4ltnis nur gelangen k\u00f6nnen, wenn sie sich aus der normativen Perspektive ihrer Interaktionspartner als deren soziale Adressaten zu begreifen lernen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Anerkennung f\u00fcr die berufliche Integration?",
+    "input": "",
+    "output": "Die Anerkennung ist eine Voraussetzung f\u00fcr die berufliche Integration und kann unterschiedliche Dimensionen umfassen, die sich teilweise auch gegenseitig bedingen."
+  },
+  {
+    "instruction": "Was ist das Ziel des Anerkennungsgesetzes in Deutschland?",
+    "input": "",
+    "output": "Das Ziel des Anerkennungsgesetzes ist die Erm\u00f6glichung einer qualifikationsnahen Besch\u00e4ftigung durch eine verbesserte Nutzung von im Ausland erworbenen Berufsqualifikationen auf dem Arbeitsmarkt."
+  },
+  {
+    "instruction": "Wann ist das Anerkennungsgesetz in Deutschland in Kraft getreten?",
+    "input": "",
+    "output": "Das Anerkennungsgesetz ist in Deutschland am 1. April 2012 in Kraft getreten."
+  },
+  {
+    "instruction": "Was regelt das Berufsqualifikationsfeststellungsgesetz (BQFG)?",
+    "input": "",
+    "output": "Das Berufsqualifikationsfeststellungsgesetz (BQFG) regelt die Feststellung der Gleichwertigkeit von Berufsqualifikationen."
+  },
+  {
+    "instruction": "Wer kann einen Antrag auf Anerkennung stellen?",
+    "input": "",
+    "output": "Personen aus dem Ausland oder im Asylverfahren k\u00f6nnen einen Antrag auf Anerkennung stellen, unabh\u00e4ngig von ihrer Nationalit\u00e4t und ihrem Aufenthaltstitel."
+  },
+  {
+    "instruction": "Wie lange dauert die Entscheidung \u00fcber einen Antrag auf Anerkennung?",
+    "input": "",
+    "output": "Die Entscheidung der zust\u00e4ndigen Stelle muss in der Regel innerhalb von drei Monaten getroffen werden."
+  },
+  {
+    "instruction": "Sind die Verfahren nach dem neuen Anerkennungsgesetz geb\u00fchrenpflichtig?",
+    "input": "",
+    "output": "Nein, die Verfahren nach dem neuen Anerkennungsgesetz sind grunds\u00e4tzlich geb\u00fchrenfrei."
+  },
+  {
+    "instruction": "Wann ist das Bundesgesetz \u00fcber die Vereinfachung der Verfahren zur Anerkennung und Bewertung ausl\u00e4ndischer Bildungsabschl\u00fcsse und Berufsqualifikationen in \u00d6sterreich in Kraft getreten?",
+    "input": "",
+    "output": "Am 12. Juli 2016."
+  },
+  {
+    "instruction": "Was ist das Ziel des Anerkennungs- und Bewertungsgesetzes?",
+    "input": "",
+    "output": "Das Ziel ist die Vereinfachung der Verfahren zur Anerkennung von Qualifikationen aus Drittstaaten."
+  },
+  {
+    "instruction": "Wer sind die Personen, auf die sich das Anerkennungs- und Bewertungsgesetz bezieht?",
+    "input": "",
+    "output": "Personen mit im Ausland erworbenen Qualifikationen, die beabsichtigen in \u00d6sterreich eine Erwerbst\u00e4tigkeit aufzunehmen."
+  },
+  {
+    "instruction": "Was wird durch das Anerkennungs- und Bewertungsgesetz geregelt?",
+    "input": "",
+    "output": "Das Gesetz regelt die Bewertungsverfahren f\u00fcr terti\u00e4re und schulische Ausbildungen in \u00d6sterreich."
+  },
+  {
+    "instruction": "Was sind die Neuerungen im Anerkennungs- und Bewertungsgesetz?",
+    "input": "",
+    "output": "Die Neuerungen sind die viermonatige Bearbeitungsfrist nach Eingang der vollst\u00e4ndigen Antragsunterlagen und die M\u00f6glichkeit alternativer Verfahren f\u00fcr gefl\u00fcchtete Menschen ohne formale Nachweise."
+  },
+  {
+    "instruction": "Wie wird die berufliche Anerkennung nach Englmann und M\u00fcller unterteilt?",
+    "input": "",
+    "output": "Die berufliche Anerkennung wird in die De-jure-Anerkennung und die De-facto-Anerkennung unterteilt."
+  },
+  {
+    "instruction": "Was umfasst die De-jure-Anerkennung?",
+    "input": "",
+    "output": "Die De-jure-Anerkennung umfasst alle formalen Anerkennungen von reglementierten Berufen."
+  },
+  {
+    "instruction": "Was bezieht sich die De-facto-Anerkennung auf?",
+    "input": "",
+    "output": "Die De-facto-Anerkennung bezieht sich auf alle nichtreglementierten Abschl\u00fcsse aus dem akademischen und beruflichen Bereich."
+  },
+  {
+    "instruction": "Was ist das Ziel des Bologna-Prozesses?",
+    "input": "",
+    "output": "Das Ziel des Bologna-Prozesses ist die Schaffung eines gemeinsamen europ\u00e4ischen Hochschulraumes durch die Gestaltung einer Studienstrukturreform."
+  },
+  {
+    "instruction": "Was wird durch das Diploma Supplement erreicht?",
+    "input": "",
+    "output": "Das Diploma Supplement soll die Transparenz in der Hochschulbildung f\u00f6rdern, die akademische und berufliche Anerkennung erleichtern und eine sachkundige Beurteilung von Studienabschl\u00fcssen m\u00f6glich machen."
+  },
+  {
+    "instruction": "Was ist das European Credit Transfer System?",
+    "input": "",
+    "output": "Das European Credit Transfer System ist ein Leistungspunktesystem, das die Anrechnung von Leistungen an unterschiedlichen Hochschulen erleichtern soll."
+  },
+  {
+    "instruction": "Was ist die Funktion des Diploma Supplements?",
+    "input": "",
+    "output": "Das Diploma Supplement ist ein Transparenzinstrument, das das absolvierte Studium hinsichtlich der Art, des Niveaus, Inhalts und Status beschreibt."
+  },
+  {
+    "instruction": "Gibt es eine automatische Anerkennung von Studienabschl\u00fcssen durch das Diploma Supplement?",
+    "input": "",
+    "output": "Nein, das Diploma Supplement geht nicht mit einem Anspruch auf eine automatische Anerkennung des Studienabschlusses einher."
+  },
+  {
+    "instruction": "Wie wirkt sich der Bologna-Prozess auf den Bereich der Anerkennung aus?",
+    "input": "",
+    "output": "Der Bologna-Prozess wirkt sich auf den Bereich der Anerkennung durch die grundlegende Ver\u00e4nderung der europ\u00e4ischen Hochschulstruktur und die Einf\u00fchrung von Instrumenten wie dem Diploma Supplement und dem European Credit Transfer System aus."
+  },
+  {
+    "instruction": "Warum bleiben die Anerkennungsverfahren kompliziert und zeitaufwendig?",
+    "input": "",
+    "output": "Die Anerkennungsverfahren bleiben kompliziert und zeitaufwendig, weil sie nicht automatisch und kostenlos in jedem EHEA-Land durchgef\u00fchrt werden und die Anerkennung von vorherigen Lernleistungen noch in einem fr\u00fchen Stadium der Umsetzung ist."
+  },
+  {
+    "instruction": "Was ist das Ziel des Bologna-Prozesses?",
+    "input": "",
+    "output": "Das Ziel des Bologna-Prozesses ist die Schaffung eines gemeinsamen europ\u00e4ischen Hochschulraums."
+  },
+  {
+    "instruction": "Was regelt das Lissabonner Abkommen?",
+    "input": "",
+    "output": "Das Lissabonner Abkommen regelt die Anerkennung von Qualifikationen im Hochschulbereich in der europ\u00e4ischen Region und schafft einen Rahmen f\u00fcr die Anerkennung von Studienleistungen in Europa."
+  },
+  {
+    "instruction": "Wer ist f\u00fcr die Anerkennung von Abschl\u00fcssen mit dem Zweck der Hochschulzulassung zust\u00e4ndig?",
+    "input": "",
+    "output": "Die Hochschulen sind f\u00fcr die Anerkennung von Abschl\u00fcssen mit dem Zweck der Hochschulzulassung zust\u00e4ndig."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr die Anerkennung von Abschl\u00fcssen?",
+    "input": "",
+    "output": "Die Voraussetzung f\u00fcr die Anerkennung von Abschl\u00fcssen ist, dass der Abschluss bereits im Herkunftsland eine Hochschulzugangsqualifikation darstellt."
+  },
+  {
+    "instruction": "Wie wird die Anerkennung von Abschl\u00fcssen aus EU- und EWR-Staaten gehandhabt?",
+    "input": "",
+    "output": "Die Anerkennung von Abschl\u00fcssen aus EU- und EWR-Staaten ist in der Regel direkt m\u00f6glich, wenn die Bewerber_innen bereits im Herkunftsland zum Studium zugelassen sind."
+  },
+  {
+    "instruction": "Was ist die Funktion der Anerkennungsbescheide bei nichtreglementierten Berufen?",
+    "input": "",
+    "output": "Die Anerkennungsbescheide bei nichtreglementierten Berufen sollen die Transparenz auf dem Arbeitsmarkt verbessern und sind nicht als Voraussetzung f\u00fcr die Berufsaus\u00fcbung notwendig."
+  },
+  {
+    "instruction": "Was regelt die Anerkennungsrichtlinie 2005/36/EG?",
+    "input": "",
+    "output": "Die Anerkennungsrichtlinie 2005/36/EG regelt die berufliche Anerkennung im Bereich der reglementierten Berufe auf europ\u00e4ischer Ebene und macht die Qualifikation zum zentralen Vergleichskriterium."
+  },
+  {
+    "instruction": "Welche Richtlinie regelt die Anerkennung von beruflichen Qualifikationen in der EU?",
+    "input": "",
+    "output": "Die Anerkennungsrichtlinie 2005/36/EG."
+  },
+  {
+    "instruction": "Was ist das zentrale Vergleichskriterium f\u00fcr die Anerkennung von Qualifikationen?",
+    "input": "",
+    "output": "Die Funktion der Qualifikation, also ob eine Qualifikation auch im Herkunftsland zur Berufsausf\u00fchrung berechtigt."
+  },
+  {
+    "instruction": "Wie viele Systeme zur Anerkennung von beruflichen Qualifikationen definiert die Richtlinie?",
+    "input": "",
+    "output": "Vier: Anzeige grenz\u00fcberschreitender Dienstleistungen, Gleichhaltung von Ausbildungsnachweisen, Anerkennung von Berufserfahrung und automatische Anerkennung auf Basis harmonisierter Ausbildungserfordernisse."
+  },
+  {
+    "instruction": "Wie lange hat die zust\u00e4ndige Beh\u00f6rde Zeit, um einen Bescheid \u00fcber die Anerkennung einer Qualifikation zu erstellen?",
+    "input": "",
+    "output": "Drei Monate nach Eingang der vollst\u00e4ndigen Unterlagen."
+  },
+  {
+    "instruction": "Was muss ein negativer Bescheid \u00fcber die Anerkennung einer Qualifikation enthalten?",
+    "input": "",
+    "output": "Eine Begr\u00fcndung und Informationen \u00fcber Klagem\u00f6glichkeiten."
+  },
+  {
+    "instruction": "Unter welcher Voraussetzung k\u00f6nnen Qualifikationen aus Nicht-EU-L\u00e4ndern anerkannt werden?",
+    "input": "",
+    "output": "Wenn eine dreij\u00e4hrige Berufserfahrung in einem EU-Mitgliedsstaat nachgewiesen werden kann."
+  },
+  {
+    "instruction": "Was ist die Grundlage f\u00fcr die berufliche Anerkennung im Bereich der reglementierten Berufe in Deutschland?",
+    "input": "",
+    "output": "Das neue Anerkennungsgesetz und die EU-Berufsanerkennungsrichtlinie."
+  },
+  {
+    "instruction": "Was ist die Alternative, wenn bei reglementierten Berufen wesentliche Unterschiede festgestellt werden?",
+    "input": "",
+    "output": "Eine Teilanerkennung, die mit individuellen Auflagen versehen wird."
+  },
+  {
+    "instruction": "K\u00f6nnen ungen\u00fcgende Sprachkenntnisse als Aufgaben f\u00fcr die Anerkennung eines Berufs begr\u00fcndet werden?",
+    "input": "",
+    "output": "Nein, die f\u00fcr die Berufsaus\u00fcbung notwendigen sprachlichen Kompetenzen d\u00fcrfen von den Aufnahmel\u00e4ndern gepr\u00fcft werden, jedoch ist diese Pr\u00fcfung nicht Gegenstand des Anerkennungsverfahrens."
+  },
+  {
+    "instruction": "Was ist die Nostrifizierung und was beinhaltet sie?",
+    "input": "",
+    "output": "Die Nostrifizierung beinhaltet die Gleichstellung einer im Ausland erworbenen akademischen Qualifikation mit dem inl\u00e4ndischen Abschluss in Bezug auf die F\u00fchrung des akademischen Grades und die Berechtigung zur Aus\u00fcbung des jeweiligen Berufs."
+  },
+  {
+    "instruction": "Welche Bedeutung hat die Nostrifizierung durch die EU-Berufsanerkennungsrichtlinie?",
+    "input": "",
+    "output": "Die Nostrifizierung verliert durch die EU-Berufsanerkennungsrichtlinie an Bedeutung, da Antr\u00e4ge auf Nostrifizierung nur noch bei Abschl\u00fcssen aus Drittstaaten notwendig sind, die nicht durch die Richtlinie erfasst werden."
+  },
+  {
+    "instruction": "Was ist der Unterschied zwischen Nostrifizierung und Nostrifikation in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Nostrifizierung bezieht sich auf die Anerkennung akademischer Qualifikationen, w\u00e4hrend die Nostrifikation die formale Anerkennung im Ausland erworbener Schul- und Reifezeugnisse bzw. von Qualifikationsnachweisen f\u00fcr Gesundheitsberufe bezeichnet."
+  },
+  {
+    "instruction": "Wer ist f\u00fcr die Anerkennung schulischer Zeugnisse und Gesundheitsberufe zust\u00e4ndig?",
+    "input": "",
+    "output": "Die Anerkennung schulischer Zeugnisse sind die unterschiedlichen Abteilungen des Bundesministeriums f\u00fcr Bildung, Wissenschaft und Forschung (BMBWF) zust\u00e4ndig, w\u00e4hrend die Nostrifikation in den Gesundheitsberufen von verschiedenen Stellen in den L\u00e4ndern und durch das f\u00fcr Gesundheit zust\u00e4ndige Bundesministerium durchgef\u00fchrt wird."
+  },
+  {
+    "instruction": "Was regelt die Anerkennung von nichtreglementierten Berufen auf europ\u00e4ischer Ebene?",
+    "input": "",
+    "output": "Die Anerkennung von nichtreglementierten Berufen wird auf europ\u00e4ischer Ebene unter anderem durch das \u00dcbereinkommen \u00fcber die Anerkennung von Qualifikationen im Hochschulbereich in der europ\u00e4ischen Region des Europarats und der UNESCO geregelt."
+  },
+  {
+    "instruction": "Was ist das Ziel des ENIC-NARIC-Netzwerks?",
+    "input": "",
+    "output": "Das Ziel des ENIC-NARIC-Netzwerks ist es, das Informationsangebot f\u00fcr Antragsteller, Anerkennungsstellen und potentielle Arbeitgeber zu verbessern, indem es den Zugang zu Informationen \u00fcber das jeweilige inl\u00e4ndische Hochschulsystem und die Hochschulqualifikationen sowie \u00fcber die Vertragsparteien bereitstellt."
+  },
+  {
+    "instruction": "Welche Beh\u00f6rde ist in Deutschland f\u00fcr die Anerkennung im nichtreglementierten Bereich zust\u00e4ndig?",
+    "input": "",
+    "output": "Die Zentralstelle f\u00fcr ausl\u00e4ndisches Bildungswesen im Sekretariat der St\u00e4ndigen Konferenz der Kultusminister der L\u00e4nder in Bonn."
+  },
+  {
+    "instruction": "Was ist das ENIC-NARIC Austria und welchem Ministerium geh\u00f6rt es an?",
+    "input": "",
+    "output": "Das ENIC-NARIC Austria geh\u00f6rt zum Bundesministerium f\u00fcr Bildung, Wissenschaft und Forschung (BMBWF)."
+  },
+  {
+    "instruction": "Wie kann in \u00d6sterreich die Gleichhaltung von im Ausland erworbenen beruflichen Qualifikationen erfolgen?",
+    "input": "",
+    "output": "Durch das Bundesministerium f\u00fcr Digitalisierung und Wirtschaftsstandort (BMDW) kann die Gleichhaltung von im Ausland erworbenen beruflichen Qualifikationen nach dem Berufsausbildungsgesetz erfolgen."
+  },
+  {
+    "instruction": "Wie kann in Deutschland die Anerkennung von im Ausland erworbenen Hochschulabschl\u00fcssen im nichtreglementierten Bereich erfolgen?",
+    "input": "",
+    "output": "Durch eine individuelle Zeugnisbewertung durch den deutschen NARIC kann die Anerkennung von im Ausland erworbenen Hochschulabschl\u00fcssen im nichtreglementierten Bereich erfolgen."
+  },
+  {
+    "instruction": "Was bietet die Bewertung von akademischen Abschl\u00fcssen und schulischen Diplomen in \u00d6sterreich?",
+    "input": "",
+    "output": "Die Bewertung bietet eine Orientierung f\u00fcr eine Positionierung auf dem Arbeitsmarkt und f\u00fcr eine qualifikationsad\u00e4quate Betreuung durch das AMS."
+  },
+  {
+    "instruction": "Was ist die Voraussetzung f\u00fcr p\u00e4dagogisches Handeln innerhalb der sozialstrukturellen Rahmenbedingungen?",
+    "input": "",
+    "output": "Ein berufliches Selbstverst\u00e4ndnis, welches die Abgrenzung von externen Anforderungen und Erwartungen erm\u00f6glicht."
+  },
+  {
+    "instruction": "Was wird in der vorliegenden Arbeit untersucht?",
+    "input": "",
+    "output": "Die Perspektiven der Interviewpartner_innen auf Anerkennungsberatung als eine sich neu institutionalisierende Beratung und die professionellen Handlungsstrategien, um unter den gegebenen Rahmenbedingungen handlungsf\u00e4hig im Sinne des beruflichen Selbstverst\u00e4ndnisses zu bleiben."
+  },
+  {
+    "instruction": "Wie wird die Datenerhebung und -analyse durchgef\u00fchrt?",
+    "input": "",
+    "output": "Anhand der qualitativen Inhaltsanalyse in Kombination mit einer vertiefenden interpretativ-rekonstruktiven Auswertung."
+  },
+  {
+    "instruction": "Was ist das Ziel der Arbeit?",
+    "input": "",
+    "output": "Die Bedeutung und die Unterst\u00fctzungsleistungen von Anerkennungsberatung durch die Herausarbeitung der professionellen Handlungsstrategien zu analysieren und zugleich auf beratungstheoretischer Ebene einen Beitrag zur konzeptionellen Entwicklung einer migrationssensiblen Beratung im Bereich Bildung und Beruf zu leisten."
+  },
+  {
+    "instruction": "Wie wird das anerkennungstheoretische Rahmenmodell genutzt?",
+    "input": "",
+    "output": "Um die Aufgabenbereiche und Rahmenbedingungen in der Anerkennungsberatung strukturiert analysieren und darstellen zu k\u00f6nnen und eine theoretisch begr\u00fcndete Perspektive auf die Interpretation der Argumentationen und Selbstbeschreibungen der Interviewpartner_innen zu erm\u00f6glichen."
+  }
+]

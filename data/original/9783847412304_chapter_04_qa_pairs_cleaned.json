@@ -1,0 +1,782 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren des Textes über Beratung im Kontext des Lebenslangen Lernens?",
+    "output": "Cornelia Maier-Gutheil, Christiane Schiersmann, Carola Iller, Olaf Dörner und Inge Schüßler."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Textes?",
+    "output": "Beratung im Kontext des Lebenslangen Lernens: Konzepte, Organisation, Politik, Spannungsfelder."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hat sich das Feld der Beratung in Bildung, Beruf und Beschäftigung entwickelt?",
+    "output": "Das Feld hat sich weiter ausdifferenziert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche eigenständigen professionellen Angebote gibt es in der Beratung?",
+    "output": "Karriereberatung, Beratung bestimmter Zielgruppen wie Frauen, Rehabilitand*innen, Migrant*innen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo ist Beratung teilweise verankert?",
+    "output": "In Weiterbildungseinrichtungen oder anderen öffentlich-rechtlichen Trägern wie Agenturen für Arbeit, Industrie- und Handelskammern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lernberatung?",
+    "output": "Ein zentraler Bestandteil pädagogischen Handelns mit einer langen Tradition."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wen adressiert die Beratung?",
+    "output": "Neben Personen auch Organisationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Formen der Beratung entwickeln sich neu?",
+    "output": "Aufsuchende und technologiegestützte Beratung, wie Telefon- bzw. Onlineberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer fungieren als Berater*innen im unmittelbaren Lebensumfeld von Erwachsenen?",
+    "output": "Akteur*innen wie Freund*innen, Kolleg*innen, Vorgesetzte, Familie, Vereine."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Thema der Jahrestagung der Sektion Erwachsenenbildung der Deutschen Gesellschaft für Erziehungswissenschaft (DGfE) 2017?",
+    "output": "Die wechselseitigen Bezüge der Themen Beratung – Organisation – Politik im Kontext der Erwachsenenbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo fand die Jahrestagung 2017 statt?",
+    "output": "In Heidelberg."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Aus welchen Perspektiven wird das Feld Beratung in der Erwachsenenbildung beleuchtet?",
+    "output": "Aus disziplinären, institutionellen, organisationalen, gesellschaftlichen und bildungspolitischen Perspektiven."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ergebnis der Ausdifferenzierung des Feldes der Beratung?",
+    "output": "Es gibt eigenständige professionelle Angebote und eine Vielzahl von Beratungsformaten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die Inanspruchnahme von Bildungsangeboten?",
+    "output": "Die Beratung ist nicht unwesentlich für die Inanspruchnahme und Nichtinanspruchnahme von institutionellen Beratungsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lernberatung in der Erwachsenenbildung?",
+    "output": "Die Lernberatung ist ein zentraler Bestandteil pädagogischen Handelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Zielgruppen der Beratung in der Erwachsenenbildung?",
+    "output": "Frauen, Rehabilitand*innen, Migrant*innen und andere spezifische Gruppen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Spannungsfelder im Feld der Beratung in der Erwachsenenbildung?",
+    "output": "Die Spannungsfelder resultieren aus den unterschiedlichen disziplinären, institutionellen, organisationalen, gesellschaftlichen und bildungspolitischen Perspektiven."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie entwickelt sich die Beratung in der Erwachsenenbildung weiter?",
+    "output": "Die Beratung entwickelt sich durch neue Formate und Angebote weiter, wie z.B. technologiegestützte Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung für die Erwachsenenbildung?",
+    "output": "Die Beratung ist ein wichtiger Bestandteil der Erwachsenenbildung, um Entscheidungen zu finden und Bildungsangebote in Anspruch zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Organisation im Kontext der Beratung?",
+    "output": "Die Organisation ist wichtig, um Beratungsangebote effektiv und effizient anzubieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Politik im Feld der Beratung?",
+    "output": "Die Politik spielt eine wichtige Rolle bei der Gestaltung des Feldes der Beratung und der Erwachsenenbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sehen die neuen Entwicklungsperspektiven im Feld der Beratung aus?",
+    "output": "Es gibt interessante neue Entwicklungsperspektiven, auch über Grundbildungskontexte hinaus."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion der Beratung in der Erwachsenenbildung?",
+    "output": "Die Beratung unterstützt Erwachsene bei der Entscheidungsfindung und der Inanspruchnahme von Bildungsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die Karriereentwicklung?",
+    "output": "Die Beratung ist wichtig für die Karriereentwicklung, um die richtigen Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der technologiegestützten Beratung?",
+    "output": "Die technologiegestützte Beratung bietet eine flexible und zugängliche Möglichkeit der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung verbessert werden?",
+    "output": "Die Beratung kann durch neue Formate, Angebote und eine verbesserte Organisation verbessert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Akteur*innen im unmittelbaren Lebensumfeld für die Beratung?",
+    "output": "Die Akteur*innen im unmittelbaren Lebensumfeld spielen eine wichtige Rolle als Berater*innen in Erwachsenenbildungs- und Weiterbildungsangelegenheiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die soziale Integration?",
+    "output": "Die Beratung ist wichtig für die soziale Integration, um Menschen zu unterstützen, die in der Gesellschaft integriert werden möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen im Feld der Beratung?",
+    "output": "Die Herausforderungen resultieren aus den unterschiedlichen Perspektiven und Spannungsfeldern im Feld der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung evaluiert werden?",
+    "output": "Die Beratung kann durch Evaluationen und Forschung evaluiert werden, um ihre Effektivität und Effizienz zu überprüfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung im Feld der Beratung?",
+    "output": "Die Forschung spielt eine wichtige Rolle bei der Entwicklung und Evaluation von Beratungsangeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Kooperation zwischen den Akteur*innen im Feld der Beratung?",
+    "output": "Die Kooperation zwischen den Akteur*innen ist wichtig, um effektive und effiziente Beratungsangebote anzubieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Beratung in der Erwachsenenbildung?",
+    "output": "Die Ziele der Beratung sind, Erwachsene bei der Entscheidungsfindung und der Inanspruchnahme von Bildungsangeboten zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Qualitätssicherung im Feld der Beratung?",
+    "output": "Die Qualitätssicherung ist wichtig, um die Effektivität und Effizienz von Beratungsangeboten zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Fortbildung für Berater*innen?",
+    "output": "Die Fortbildung ist wichtig, um Berater*innen auf dem aktuellen Stand zu halten und ihre Kompetenzen zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die ethischen Aspekte im Feld der Beratung?",
+    "output": "Die ethischen Aspekte resultieren aus der Verantwortung von Berater*innen gegenüber ihren Klient*innen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung zugänglicher gemacht werden?",
+    "output": "Die Beratung kann durch neue Formate und Angebote zugänglicher gemacht werden, wie z.B. technologiegestützte Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Selbstreflexion im Feld der Beratung?",
+    "output": "Die Selbstreflexion ist wichtig, um die eigene Rolle und Funktion als Berater*in zu reflektieren und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Dokumentation im Feld der Beratung?",
+    "output": "Die Dokumentation ist wichtig, um die Effektivität und Effizienz von Beratungsangeboten zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung international verglichen werden?",
+    "output": "Die Beratung kann durch internationale Vergleiche und Studien verglichen werden, um Best Practices und neue Entwicklungen zu identifizieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Vernetzung im Feld der Beratung?",
+    "output": "Die Vernetzung ist wichtig, um Kooperationen und Partnerschaften zwischen den Akteur*innen im Feld der Beratung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Transparenz im Feld der Beratung?",
+    "output": "Die Transparenz ist wichtig, um die Effektivität und Effizienz von Beratungsangeboten zu gewährleisten und die Klient*innen zu informieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung durch Technologie unterstützt werden?",
+    "output": "Die Beratung kann durch technologiegestützte Beratung, wie z.B. Onlineberatung, unterstützt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung bei der Förderung von Bildung und Beschäftigung?",
+    "output": "Die Beratung spielt eine wichtige Rolle bei der Förderung von Bildung und Beschäftigung, um Menschen zu unterstützen, die ihre Fähigkeiten und Kenntnisse verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die Gesundheit und das Wohlbefinden?",
+    "output": "Die Beratung ist wichtig für die Gesundheit und das Wohlbefinden, um Menschen zu unterstützen, die ihre Gesundheit und ihr Wohlbefinden verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Beratung in der Erwachsenenbildung im Bereich der Gesundheit?",
+    "output": "Die Ziele der Beratung sind, Menschen zu unterstützen, die ihre Gesundheit und ihr Wohlbefinden verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung im Bereich der Gesundheit durchgeführt werden?",
+    "output": "Die Beratung kann durch Gesundheitsberatung, wie z.B. Ernährungsberatung, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung bei der Förderung von Nachhaltigkeit?",
+    "output": "Die Beratung spielt eine wichtige Rolle bei der Förderung von Nachhaltigkeit, um Menschen zu unterstützen, die ihre Umwelt und ihre Gesellschaft verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die soziale Gerechtigkeit?",
+    "output": "Die Beratung ist wichtig für die soziale Gerechtigkeit, um Menschen zu unterstützen, die ihre Rechte und ihre Chancen verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Beratung in der Erwachsenenbildung im Bereich der sozialen Gerechtigkeit?",
+    "output": "Die Ziele der Beratung sind, Menschen zu unterstützen, die ihre Rechte und ihre Chancen verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung im Bereich der sozialen Gerechtigkeit durchgeführt werden?",
+    "output": "Die Beratung kann durch Beratung zu Rechten und Chancen, wie z.B. Beratung zu Diskriminierung, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung bei der Förderung von Diversity und Inklusion?",
+    "output": "Die Beratung spielt eine wichtige Rolle bei der Förderung von Diversity und Inklusion, um Menschen zu unterstützen, die ihre Vielfalt und ihre Zugehörigkeit verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die Förderung von Diversity und Inklusion?",
+    "output": "Die Beratung ist wichtig für die Förderung von Diversity und Inklusion, um Menschen zu unterstützen, die ihre Vielfalt und ihre Zugehörigkeit verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Beratung in der Erwachsenenbildung im Bereich der Diversity und Inklusion?",
+    "output": "Die Ziele der Beratung sind, Menschen zu unterstützen, die ihre Vielfalt und ihre Zugehörigkeit verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung im Bereich der Diversity und Inklusion durchgeführt werden?",
+    "output": "Die Beratung kann durch Beratung zu Diversity und Inklusion, wie z.B. Beratung zu Interkulturalität, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung bei der Förderung von digitaler Kompetenz?",
+    "output": "Die Beratung spielt eine wichtige Rolle bei der Förderung von digitaler Kompetenz, um Menschen zu unterstützen, die ihre digitalen Fähigkeiten verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die Förderung von digitaler Kompetenz?",
+    "output": "Die Beratung ist wichtig für die Förderung von digitaler Kompetenz, um Menschen zu unterstützen, die ihre digitalen Fähigkeiten verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Beratung in der Erwachsenenbildung im Bereich der digitalen Kompetenz?",
+    "output": "Die Ziele der Beratung sind, Menschen zu unterstützen, die ihre digitalen Fähigkeiten verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Erwachsenenbildung im Bereich der digitalen Kompetenz durchgeführt werden?",
+    "output": "Die Beratung kann durch Beratung zu digitalen Fähigkeiten, wie z.B. Beratung zu Online-Sicherheit, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung bei der Förderung von Umweltbewusstsein?",
+    "output": "Die Beratung spielt eine wichtige Rolle bei der Förderung von Umweltbewusstsein, um Menschen zu unterstützen, die ihre Umwelt und ihre Gesellschaft verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung für die Förderung von Umweltbewusstsein?",
+    "output": "Die Beratung ist wichtig für die Förderung von Umweltbewusstsein, um Menschen zu unterstützen, die ihre Umwelt und ihre Gesellschaft verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Beratung in der Erwachsenenbildung im Bereich des Umweltbewusstseins?",
+    "output": "Die Ziele der Beratung sind, Menschen zu unterstützen, die ihre Umwelt und ihre Gesellschaft verbessern möchten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo fand die Jahrestagung der Sektion Erwachsenenbildung der Deutschen Gesellschaft für Erziehungswissenschaft 2017 statt?",
+    "output": "Heidelberg"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Thema der Jahrestagung der Sektion Erwachsenenbildung der Deutschen Gesellschaft für Erziehungswissenschaft 2017?",
+    "output": "Die wechselseitigen Bezüge der Themen Beratung – Organisation – Politik im Kontext der Erwachsenenbildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Aus welchen Perspektiven wird das Feld Beratung in der Erwachsenenbildung beleuchtet?",
+    "output": "Disziplinären, institutionellen, organisationalen, gesellschaftlichen und bildungspolitischen Perspektiven"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Beispiel für die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter?",
+    "output": "Projektförmigkeit"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo ergeben sich Herausforderungen für die Ausgestaltung von Beratung?",
+    "output": "In betrieblichen Kontexten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Beispiele für die Ausgestaltung von Beratung in betrieblichen Kontexten?",
+    "output": "Personalentwicklung/Human Ressource Management oder Organisationsentwicklung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind institutionalisierte Beratungsfelder?",
+    "output": "Hochschulberatung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Beispiele für Beratungsfelder in der Hochschulberatung?",
+    "output": "Übergangs- und Laufbahnberatung, Lernberatung und Mentoring oder Organisationsberatung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist Beratung im Kontext der Politik Lebenslangen Lernens bedeutsam?",
+    "output": "Weil sie Fragen der Wirkung von Beratung sowie diesbezüglich geeignete Forschungsdesigns aufwirft"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Aus welcher Perspektive sind Fragen der Wirkung von Beratung virulent?",
+    "output": "Europäischer und länderspezifischer Perspektive"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Beispiele für Forschungsdesigns zur Wirkung von Beratung?",
+    "output": "Input-, Prozess-, Output-, Outcome-Dimensionen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Folgen von (bildungs-)politischen Steuerungsmechanismen auf der Ebene der Organisation?",
+    "output": "Orientierung an wirtschaftlichen Effizienzkriterien und unklare Finanzierungsmodelle"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Spannungsfeld zwischen Individualisierung und Ökonomisierung?",
+    "output": "Einfluss auf die Interaktionsebene, etwa hinsichtlich der Fundierung von Beratung an Aufklärung, Mündigkeit und Autonomisierung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Fragen nach der gesellschaftlichen Verortung von Beratung?",
+    "output": "Ihre Rolle und Funktion(en) im Kontext gesellschaftskritisch-reflexiver Zugänge"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Beratung in der Erwachsenenbildung?",
+    "output": "Sie unterstützt die Inanspruchnahme und Nichtinanspruchnahme von institutionellen Beratungsangeboten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Adressaten von Beratung in der Erwachsenenbildung?",
+    "output": "Erwachsene"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele von Beratung in der Erwachsenenbildung?",
+    "output": "Die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung im Kontext der Erwachsenenbildung?",
+    "output": "Sie ist nicht unwesentlich für die Inanspruchnahme und Nichtinanspruchnahme von institutionellen Beratungsangeboten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Ausgestaltung von Beratung in der Erwachsenenbildung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Chancen von Beratung in der Erwachsenenbildung?",
+    "output": "Die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Risiken von Beratung in der Erwachsenenbildung?",
+    "output": "Die Abhängigkeit von finanziellen und institutionellen Rahmenbedingungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren von Beratung in der Erwachsenenbildung?",
+    "output": "Die Qualität der Beratung und die Zufriedenheit der Klienten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Hemmnisse von Beratung in der Erwachsenenbildung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung im Kontext der Bildungspolitik?",
+    "output": "Sie ist wichtig für die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele von Beratung im Kontext der Bildungspolitik?",
+    "output": "Die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Ausgestaltung von Beratung im Kontext der Bildungspolitik?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Chancen von Beratung im Kontext der Bildungspolitik?",
+    "output": "Die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Risiken von Beratung im Kontext der Bildungspolitik?",
+    "output": "Die Abhängigkeit von finanziellen und institutionellen Rahmenbedingungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren von Beratung im Kontext der Bildungspolitik?",
+    "output": "Die Qualität der Beratung und die Zufriedenheit der Klienten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Hemmnisse von Beratung im Kontext der Bildungspolitik?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung im Kontext der Erwachsenenbildungsforschung?",
+    "output": "Sie ist wichtig für die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Ausgestaltung von Beratung im Kontext der Erwachsenenbildungsforschung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Risiken von Beratung im Kontext der Erwachsenenbildungsforschung?",
+    "output": "Die Abhängigkeit von finanziellen und institutionellen Rahmenbedingungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren von Beratung im Kontext der Erwachsenenbildungsforschung?",
+    "output": "Die Qualität der Beratung und die Zufriedenheit der Klienten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Hemmnisse von Beratung im Kontext der Erwachsenenbildungsforschung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung im Kontext der Bildungsberatung?",
+    "output": "Sie ist wichtig für die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Ausgestaltung von Beratung im Kontext der Bildungsberatung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Risiken von Beratung im Kontext der Bildungsberatung?",
+    "output": "Die Abhängigkeit von finanziellen und institutionellen Rahmenbedingungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren von Beratung im Kontext der Bildungsberatung?",
+    "output": "Die Qualität der Beratung und die Zufriedenheit der Klienten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Hemmnisse von Beratung im Kontext der Bildungsberatung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung im Kontext der Erwachsenenbildung und Weiterbildung?",
+    "output": "Sie ist wichtig für die Förderung von Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Ausgestaltung von Beratung im Kontext der Erwachsenenbildung und Weiterbildung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Risiken von Beratung im Kontext der Erwachsenenbildung und Weiterbildung?",
+    "output": "Die Abhängigkeit von finanziellen und institutionellen Rahmenbedingungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Erfolgsfaktoren von Beratung im Kontext der Erwachsenenbildung und Weiterbildung?",
+    "output": "Die Qualität der Beratung und die Zufriedenheit der Klienten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Hemmnisse von Beratung im Kontext der Erwachsenenbildung und Weiterbildung?",
+    "output": "Die prekären finanziellen und institutionellen Rahmenbedingungen der Beratungsanbieter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Textes?",
+    "output": "Das Thema des Textes ist die Beratungsforschung in der Erwachsenenbildungswissenschaft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Tagungsbandes?",
+    "output": "Das Ziel des Tagungsbandes ist es, die Vielfalt der Beiträge der Jahrestagung 2017 zu dokumentieren und die Bandbreite der Beratungsforschung in der Erwachsenenbildungswissenschaft aufzuzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Spannungsfeld zwischen Individualisierung und Ökonomisierung?",
+    "output": "Das Spannungsfeld zwischen Individualisierung und Ökonomisierung kann auf der Interaktionsebene Einfluss nehmen, etwa hinsichtlich der Fundierung von Beratung an Aufklärung, Mündigkeit und Autonomisierung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Henning Pätzold?",
+    "output": "Henning Pätzold ist ein Autor, der in seinem Aufsatz das Verhältnis von Organisationsberatung und organisationalem Lernen auslotet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema von Hildegard Machas Beitrag?",
+    "output": "Das Thema von Hildegard Machas Beitrag ist transformative Beratung mit einem auf organisationale Lernprozesse zielenden Beratungskonzept."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Kira Nierobisch?",
+    "output": "Kira Nierobisch ist eine Autorin, die Prozesse der Fremd- und Selbststeuerung im Kontext Hochschule analysiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Konzept einer rekonstruktiven pädagogischen Beratung?",
+    "output": "Das Konzept einer rekonstruktiven pädagogischen Beratung wird von Kira Nierobisch im Kontext eines universitätsspezifischen Projekts zur Institutionalisierung und Professionalisierung der Studien(fach)beratung diskutiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Shahinaz Khalil?",
+    "output": "Shahinaz Khalil ist eine Autorin, die die Einflussfaktoren eines konkreten ägyptischen Bildungs- bzw. Karriereberatungsprogramms für Jugendliche erforscht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Transformationsprozesse, die im Verlauf des Programms ergeben?",
+    "output": "Die Transformationsprozesse, die im Verlauf des Programms ergeben, werden von Shahinaz Khalil aus der Sicht der beteiligten erwachsenen Akteure erforscht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Tagungsbandes für die Beratungsforschung?",
+    "output": "Der Tagungsband trägt zur Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes der Beratungsforschung bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Handbuch 'Pädagogische Beratung über die Lebensspanne'?",
+    "output": "Das Handbuch 'Pädagogische Beratung über die Lebensspanne' ist ein von Wiltrud Gieseke und Dieter Nittel herausgegebenes Werk."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Bernd Käpplinger?",
+    "output": "Bernd Käpplinger ist ein Autor, der gemeinsam mit Cornelia Maier-Gutheil den Artikel 'Ansätze und Ergebnisse zur Beratung(sforschung) in der Erwachsenen- und Weiterbildung' veröffentlicht hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zeitschrift 'Zeitschrift für Weiterbildungsforschung'?",
+    "output": "Die Zeitschrift 'Zeitschrift für Weiterbildungsforschung' ist eine Publikation, in der der Artikel 'Ansätze und Ergebnisse zur Beratung(sforschung) in der Erwachsenen- und Weiterbildung' veröffentlicht wurde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Christiane Schiersmann?",
+    "output": "Christiane Schiersmann ist eine Autorin, die gemeinsam mit Peter Weber das Buch 'Beratung in Bildung, Beruf und Beschäftigung' herausgegeben hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Buch 'Beratung in Bildung, Beruf und Beschäftigung'?",
+    "output": "Das Buch 'Beratung in Bildung, Beruf und Beschäftigung' ist ein von Christiane Schiersmann und Peter Weber herausgegebenes Werk."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Marc Weinhardt?",
+    "output": "Marc Weinhardt ist ein Autor, der das Buch 'Kompetenzorientiert systemisch Beraten lernen' veröffentlicht hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Buch 'Kompetenzorientiert systemisch Beraten lernen'?",
+    "output": "Das Buch 'Kompetenzorientiert systemisch Beraten lernen' ist ein von Marc Weinhardt veröffentlichtes Werk."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Arbeitsstelle für Beratungsforschung?",
+    "output": "Die Arbeitsstelle für Beratungsforschung wird von Marc Weinhardt geleitet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratungsforschung?",
+    "output": "Das Ziel der Beratungsforschung ist es, die Bedingungen professionellen Beratungshandelns zu rekonstruieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bandbreite der Beratungsforschung?",
+    "output": "Die Bandbreite der Beratungsforschung umfasst verschiedene Praxisfelder der Begleitung und Beratung von Bildungsprozessen im Erwachsenenalter."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratungsforschung für die Praxis?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung des Praxisfeldes bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die altbekannten Fragen der Beratungsforschung?",
+    "output": "Die altbekannten Fragen der Beratungsforschung umfassen Fragen nach der Professionalisierung, Institutionalisierung und Zielgruppenorientierung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratungsforschung in der Gesellschaft?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratungsforschung für die Bildungspolitik?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung der Bildungspolitik bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsforschung?",
+    "output": "Die Herausforderungen der Beratungsforschung umfassen die Entwicklung neuer Zugänge und forschungsmethodischer Ansätze."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratungsforschung?",
+    "output": "Die Zukunft der Beratungsforschung wird durch die Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes geprägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Implikationen der Beratungsforschung für die Praxis?",
+    "output": "Die Implikationen der Beratungsforschung für die Praxis umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratungsforschung für die Gesellschaft?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung der Gesellschaft bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Beiträge der Beratungsforschung zur Gesellschaft?",
+    "output": "Die Beiträge der Beratungsforschung zur Gesellschaft umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratungsforschung in der Bildung?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung der Bildung bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsforschung in der Bildung?",
+    "output": "Die Herausforderungen der Beratungsforschung in der Bildung umfassen die Entwicklung neuer Zugänge und forschungsmethodischer Ansätze."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratungsforschung in der Bildung?",
+    "output": "Die Zukunft der Beratungsforschung in der Bildung wird durch die Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes geprägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Implikationen der Beratungsforschung für die Bildungspraxis?",
+    "output": "Die Implikationen der Beratungsforschung für die Bildungspraxis umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratungsforschung für die Bildungspolitik?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung der Bildungspolitik bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Beiträge der Beratungsforschung zur Bildungspolitik?",
+    "output": "Die Beiträge der Beratungsforschung zur Bildungspolitik umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratungsforschung in der Erwachsenenbildung?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung der Erwachsenenbildung bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsforschung in der Erwachsenenbildung?",
+    "output": "Die Herausforderungen der Beratungsforschung in der Erwachsenenbildung umfassen die Entwicklung neuer Zugänge und forschungsmethodischer Ansätze."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratungsforschung in der Erwachsenenbildung?",
+    "output": "Die Zukunft der Beratungsforschung in der Erwachsenenbildung wird durch die Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes geprägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Implikationen der Beratungsforschung für die Erwachsenenbildung?",
+    "output": "Die Implikationen der Beratungsforschung für die Erwachsenenbildung umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratungsforschung für die Erwachsenenbildungspolitik?",
+    "output": "Die Beratungsforschung trägt zur Weiterentwicklung der Erwachsenenbildungspolitik bei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Beiträge der Beratungsforschung zur Erwachsenenbildungspolitik?",
+    "output": "Die Beiträge der Beratungsforschung zur Erwachsenenbildungspolitik umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsforschung in der Gesellschaft?",
+    "output": "Die Herausforderungen der Beratungsforschung in der Gesellschaft umfassen die Entwicklung neuer Zugänge und forschungsmethodischer Ansätze."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratungsforschung in der Gesellschaft?",
+    "output": "Die Zukunft der Beratungsforschung in der Gesellschaft wird durch die Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes geprägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Beiträge der Beratungsforschung zur Sozialpolitik?",
+    "output": "Die Beiträge der Beratungsforschung zur Sozialpolitik umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsforschung in der Sozialarbeit?",
+    "output": "Die Herausforderungen der Beratungsforschung in der Sozialarbeit umfassen die Entwicklung neuer Zugänge und forschungsmethodischer Ansätze."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratungsforschung in der Sozialarbeit?",
+    "output": "Die Zukunft der Beratungsforschung in der Sozialarbeit wird durch die Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes geprägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Beiträge der Beratungsforschung zur Gesundheitspolitik?",
+    "output": "Die Beiträge der Beratungsforschung zur Gesundheitspolitik umfassen die Entwicklung neuer Beratungsansätze und -methoden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsforschung in der Gesundheitsversorgung?",
+    "output": "Die Herausforderungen der Beratungsforschung in der Gesundheitsversorgung umfassen die Entwicklung neuer Zugänge und forschungsmethodischer Ansätze."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratungsforschung in der Gesundheitsversorgung?",
+    "output": "Die Zukunft der Beratungsforschung in der Gesundheitsversorgung wird durch die Weiterentwicklung des wissenschaftlichen Diskurses und des Praxisfeldes geprägt."
+  }
+]

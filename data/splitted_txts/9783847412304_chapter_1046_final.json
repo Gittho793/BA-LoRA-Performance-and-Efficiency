@@ -1,0 +1,167 @@
+[
+  {
+    "instruction": "Wie viel Prozent der Befragten gaben Studienabbruchgedanken an?",
+    "input": "",
+    "output": "Rund 30% der Befragten gaben Studienabbruchgedanken an."
+  },
+  {
+    "instruction": "Was umfassten die Studienabbruchgedanken?",
+    "input": "",
+    "output": "Die Studienabbruchgedanken beziehen sich sowohl auf den Wechsel des Studiengangs oder der Universit\u00e4t als auch auf eine Unterbrechung des Studiengangs oder einen Abbruch des Studien- gangs ohne Wiedereinstieg."
+  },
+  {
+    "instruction": "Welche statistischen Verfahren wurden f\u00fcr die Analyse der Daten der Auftaktbefragung eingesetzt?",
+    "input": "",
+    "output": "Bivariate statistische Verfahren wurden eingesetzt, um erste Anhaltspunkte f\u00fcr m\u00f6gliche Einflussvariablen auf Studienabbruchge- danken an der TU Dresden zu erlangen."
+  },
+  {
+    "instruction": "Welche Aspekte des individuellen Studier- und Lernverhaltens standen in einem Zusammenhang mit Studienabbruchgedanken?",
+    "input": "",
+    "output": "Bisher erworbenen Leistungspunkte, die nicht den Studienempfehlungen entsprechen, und nichtbestandene Module standen in einem Zusammenhang mit Studienabbruchgedanken."
+  },
+  {
+    "instruction": "Wie stark war der Zusammenhang zwischen den erworbenen Leistungspunkten und Studienabbruchgedanken?",
+    "input": "",
+    "output": "Der Zusammenhang war schwach, aber statistisch signifikant (Cramer-V=.15, p<.05)."
+  },
+  {
+    "instruction": "Wie stark war der Zusammenhang zwischen nichtbestandenen Modulen und Studienabbruchgedanken?",
+    "input": "",
+    "output": "Der Zusammenhang war schwach, aber statistisch signifikant (Cramer-V=.19, p<.05)."
+  },
+  {
+    "instruction": "Welche weitere Variable stand in einem Zusammenhang mit Studienabbruchgedanken?",
+    "input": "",
+    "output": "Die Einsch\u00e4tzung des eigenen Leistungsstands im Vergleich zu anderen Studierenden stand in einem Zusammenhang mit Studienabbruchgedanken (Cramer-V=.24, p=.00)."
+  },
+  {
+    "instruction": "Wie stark war der Zusammenhang zwischen der Zufriedenheit mit den eigenen Leistungen im Studium und Studienabbruchgedanken?",
+    "input": "",
+    "output": "Der Zusammenhang war statistisch signifikant (Cramer-V=.23, p=.00)."
+  },
+  {
+    "instruction": "Was formulierten 63% der Studierenden als Bedarf?",
+    "input": "",
+    "output": "63% der Studierenden formulierten einen Bedarf an besserer Betreuung."
+  },
+  {
+    "instruction": "Welche multivariate Verfahren wurden f\u00fcr die Analyse der Daten eingesetzt?",
+    "input": "",
+    "output": "Eine bin\u00e4r-logistische Regression mit einem hierarchischen Einschlussverfahren von drei Variablenbl\u00f6cken wurde eingesetzt."
+  },
+  {
+    "instruction": "Was zeigte sich bei der Analyse der Daten?",
+    "input": "",
+    "output": "Ung\u00fcnstige Eingangsvoraussetzungen f\u00fcr das Studium, wie ein schlechter Informationsstand \u00fcber das gew\u00e4hlte Studienfach, beeinflussten die Studienabbruchneigung."
+  },
+  {
+    "instruction": "Welche Studienbedingungen hatten einen Effekt auf die Studienabbruchneigung?",
+    "input": "",
+    "output": "Die Transparenz der Studienanforderungen und die Zufriedenheit mit diesen Faktoren hatten einen Effekt auf die Studienabbruchneigung."
+  },
+  {
+    "instruction": "Welche belastenden Lebensumst\u00e4nde hatten einen signifikanten Effekt auf die Studienabbruchneigung?",
+    "input": "",
+    "output": "Psychische Belastungen hatten einen signifikanten Effekt auf die Studienabbruchneigung."
+  },
+  {
+    "instruction": "Wie wurden die Interviews ausgewertet?",
+    "input": "",
+    "output": "Die Interviews wurden inhaltsanalytisch auf der Basis eines induktiv-deduktiv erstellten Kategoriensystems ausgewertet."
+  },
+  {
+    "instruction": "Welche Schwierigkeiten nannten die Studierenden in den Interviews?",
+    "input": "",
+    "output": "Die Studierenden nannten Leistungsprobleme, Probleme bei der Studienorganisation, Unvereinbarkeit von Studium und Familie, Beruf oder Freundschaften und Probleme mit den Studieninhalten."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr Leistungsprobleme?",
+    "input": "",
+    "output": "Es gab 26 Nennungen f\u00fcr Leistungsprobleme."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr Probleme bei der Studienorganisation?",
+    "input": "",
+    "output": "Es gab 21 Nennungen f\u00fcr Probleme bei der Studienorganisation."
+  },
+  {
+    "instruction": "Was nannten die Studierenden als Reaktionen auf Probleme und Schwierigkeiten?",
+    "input": "",
+    "output": "Die Studierenden nannten Konsultation von und Austausch mit Kommilitoninnen und Kommilitonen, Nutzung von Beratung und strategische Studienorganisation."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr die Konsultation von und Austausch mit Kommilitoninnen und Kommilitonen?",
+    "input": "",
+    "output": "Es gab 9 Nennungen f\u00fcr die Konsultation von und Austausch mit Kommilitoninnen und Kommilitonen."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr die Nutzung von Beratung?",
+    "input": "",
+    "output": "Es gab 15 Nennungen f\u00fcr die Nutzung von Beratung."
+  },
+  {
+    "instruction": "Was stellt das aktive Einfordern von Unterst\u00fctzung dar?",
+    "input": "",
+    "output": "Das aktive Einfordern von Unterst\u00fctzung stellt eine weitere Voice-Strategie dar, indem Unterst\u00fctzungsbedarfe klar benannt werden."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr das aktive Einfordern von Unterst\u00fctzung?",
+    "input": "",
+    "output": "Es gab 13 Nennungen f\u00fcr das aktive Einfordern von Unterst\u00fctzung."
+  },
+  {
+    "instruction": "Was kann der Studienabbruchgedanke als Exit verstanden werden?",
+    "input": "",
+    "output": "Der Studienabbruchgedanke kann als Exit verstanden werden, wenn Studierende nach Alternativen zur jetzigen Studiensituation suchen."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr den Studienabbruchgedanken als Exit?",
+    "input": "",
+    "output": "Es gab 1 Nennung f\u00fcr den Studienabbruchgedanken als Exit."
+  },
+  {
+    "instruction": "Wie viele Nennungen gab es f\u00fcr die Recherche nach Alternativen zur jetzigen Studiensituation?",
+    "input": "",
+    "output": "Es gab 8 Nennungen f\u00fcr die Recherche nach Alternativen zur jetzigen Studiensituation."
+  },
+  {
+    "instruction": "Welche Quelle wurde f\u00fcr die Analyse der Daten der Auftaktbefragung zitiert?",
+    "input": "",
+    "output": "Schulze-Stocker et al. (2017) wurde f\u00fcr die Analyse der Daten der Auftaktbefragung zitiert."
+  },
+  {
+    "instruction": "Welche Quelle wurde f\u00fcr die bin\u00e4r-logistische Regression zitiert?",
+    "input": "",
+    "output": "Pelz/Schulze-Stocker (2018) wurde f\u00fcr die bin\u00e4r-logistische Regression zitiert."
+  },
+  {
+    "instruction": "Welche Quelle wurde f\u00fcr die Auswertung der Interviews zitiert?",
+    "input": "",
+    "output": "Nawratil/Sch\u00f6nhagen (2008) wurde f\u00fcr die Auswertung der Interviews zitiert."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Studie?",
+    "input": "",
+    "output": "Die Studie untersucht die Gr\u00fcnde f\u00fcr Studienabbruchgedanken und die Bedarfe von Studierenden an der TU Dresden."
+  },
+  {
+    "instruction": "Welche Methoden wurden f\u00fcr die Studie eingesetzt?",
+    "input": "",
+    "output": "F\u00fcr die Studie wurden eine Auftaktbefragung und eine Interviewstudie eingesetzt."
+  },
+  {
+    "instruction": "Was sind die Ergebnisse der Studie?",
+    "input": "",
+    "output": "Die Ergebnisse der Studie zeigen, dass ung\u00fcnstige Eingangsvoraussetzungen f\u00fcr das Studium, wie ein schlechter Informationsstand \u00fcber das gew\u00e4hlte Studienfach, die Studienabbruchneigung beeinflussen."
+  },
+  {
+    "instruction": "Welche Implikationen hat die Studie f\u00fcr die Praxis?",
+    "input": "",
+    "output": "Die Studie hat Implikationen f\u00fcr die Praxis, indem sie zeigt, dass Studierende mehr Unterst\u00fctzung bei der Studien- und Pr\u00fcfungsorganisation ben\u00f6tigen."
+  },
+  {
+    "instruction": "Welche weiteren Forschungsfragen ergeben sich aus der Studie?",
+    "input": "",
+    "output": "Weitere Forschungsfragen ergeben sich aus der Studie, indem sie zeigt, dass weitere Forschung zu den Gr\u00fcnden f\u00fcr Studienabbruchgedanken und den Bedarfen von Studierenden ben\u00f6tigt wird."
+  }
+]

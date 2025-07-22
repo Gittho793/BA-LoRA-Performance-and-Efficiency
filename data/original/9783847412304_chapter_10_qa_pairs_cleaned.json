@@ -1,0 +1,937 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of section V?",
+    "output": "Beratung in unterschiedlichen Alters- und Lebensphasen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Beratung' mean in English?",
+    "output": "Counseling or advice."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the key aspects discussed in section V?",
+    "output": "Bedarfe, Anlässe, Übergänge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Bedarfe' mean in English?",
+    "output": "Needs."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Anlässe' mean in English?",
+    "output": "Occasions or events."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Übergänge' mean in English?",
+    "output": "Transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is section V about counseling for all ages?",
+    "output": "Yes, it discusses counseling in different age and life phases."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are needs assessed during counseling?",
+    "output": "Yes, Bedarfe or needs are assessed."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What triggers counseling sessions?",
+    "output": "Anlässe or occasions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are transitions in life considered important for counseling?",
+    "output": "Yes, Übergänge or transitions are considered."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of 'Alters- und Lebensphasen'?",
+    "output": "It signifies the importance of considering different age and life phases in counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling be tailored to individual needs?",
+    "output": "Yes, based on the assessment of Bedarfe or needs."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling help with life transitions?",
+    "output": "Yes, it considers Übergänge or transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does counseling address different age groups?",
+    "output": "It considers the different Alters- und Lebensphasen or age and life phases."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title of section V descriptive of its content?",
+    "output": "Yes, it outlines the main topics of counseling in different age and life phases."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does the title imply about the content of section V?",
+    "output": "It implies a comprehensive approach to counseling across different life phases."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the information in section V be applied to real-life situations?",
+    "output": "Yes, it provides a framework for counseling in different contexts."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does section V provide a structured approach to counseling?",
+    "output": "Yes, it considers specific aspects like needs, occasions, and transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does section V contribute to the broader discussion of counseling?",
+    "output": "It highlights the importance of considering different age and life phases."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can section V serve as a guide for counselors?",
+    "output": "Yes, it outlines key considerations for counseling in different life phases."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How might section V influence counseling practices?",
+    "output": "It could lead to more tailored and phase-specific counseling approaches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Übergangsforschung?",
+    "output": "Das Ziel der Übergangsforschung ist es, Übergänge im Erwerbsverlauf zu untersuchen und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist reflexive Beratung?",
+    "output": "Reflexive Beratung ist ein Format der lernförderlichen Supportstruktur, das darauf abzielt, Übergangszeit als persönlich bedeutsamen Entwicklungs- und Bildungsprozess zu gestalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Projekt Spurwechsel?",
+    "output": "Das Projekt Spurwechsel ist ein Praxisforschungsprojekt, das sich mit der Gestaltung von Übergängen in der Bildungs- und Erwerbsbiografie betrieblicher Interessenvertreter/innen beschäftigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Coaching?",
+    "output": "Coaching ist eine intensive und systematische Förderung der Reflexionen und Selbstreflexionen sowie Beratung von Personen oder Gruppen zur Verbesserung der Erreichung selbstkongruenter Ziele oder zur bewussten Selbstveränderung und Selbstentwicklung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Wirkfaktoren?",
+    "output": "Wirkfaktoren sind Merkmale, die in der Interaktion zwischen Klient, Coach und ihrer Umgebung realisiert und aufrechterhalten werden müssen, damit das Coaching zum Erfolg führt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die subjektwissenschaftliche Lerntheorie?",
+    "output": "Die subjektwissenschaftliche Lerntheorie bezieht sich auf die Problemstellungen der Subjekte und sieht Lernen als eine spezifische Form von Handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist intentionales Lernen?",
+    "output": "Intentionales Lernen ist ein Lernen, das aus der Handlungsproblematik entsteht und darauf abzielt, die erlebte Diskrepanz zwischen dem, was man kann, und dem, was man will, zu überwinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Methode Lebensprofil?",
+    "output": "Die Methode Lebensprofil ist eine bildhafte Darstellung der eigenen Biografie, der unterschiedlichen Lebensbereiche und Etappen, die dazu dient, persönliche Ressourcen und biografische Kontinuitäten herauszuarbeiten und sichtbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Methode Lebensrad?",
+    "output": "Die Methode Lebensrad ist eine visuelle Darstellung der unterschiedlichen Lebensbereiche, die dazu dient, die aktuelle Lebenssituation zu reflektieren und Schlussfolgerungen für die zukünftige Gestaltung abzuleiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Übergangskompetenz?",
+    "output": "Übergangskompetenz ist die Fähigkeit, biografische Transitionen in einem gering strukturierten und somit offenen Prozessverlauf zu gestalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Übergangsberatung?",
+    "output": "Das Ziel der Übergangsberatung ist es, die gelingende Gestaltung von Übergängen und die Förderung von Übergangskompetenz zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wichtigsten Aspekte der Übergangsforschung?",
+    "output": "Die wichtigsten Aspekte der Übergangsforschung sind die Untersuchung von Übergängen im Erwerbsverlauf, die Gestaltung von Übergängen und die Förderung von Übergangskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von reflexiver Beratung?",
+    "output": "Reflexive Beratung ist wichtig, um Übergangszeit als persönlich bedeutsamen Entwicklungs- und Bildungsprozess zu gestalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kompetenzbilanzierung in der Übergangsberatung?",
+    "output": "Die Kompetenzbilanzierung spielt eine wichtige Rolle in der Übergangsberatung, um die eigenen Fähigkeiten und Ressourcen zu reflektieren und zu bewerten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der Methode Lebensprofil?",
+    "output": "Die Methode Lebensprofil bietet die Möglichkeit, persönliche Ressourcen und biografische Kontinuitäten herauszuarbeiten und sichtbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der Methode Lebensrad?",
+    "output": "Die Methode Lebensrad bietet die Möglichkeit, die aktuelle Lebenssituation zu reflektieren und Schlussfolgerungen für die zukünftige Gestaltung abzuleiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Wirkfaktoren in der Übergangsberatung?",
+    "output": "Wirkfaktoren sind wichtig, um die Interaktion zwischen Klient, Coach und ihrer Umgebung zu unterstützen und den Erfolg der Beratung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wichtigsten Lernprozesse in der Übergangsberatung?",
+    "output": "Die wichtigsten Lernprozesse in der Übergangsberatung sind die Reflexion von Handlungsproblematiken, die Entwicklung von Lösungsperspektiven und die Förderung von Übergangskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der subjektwissenschaftlichen Lerntheorie in der Übergangsberatung?",
+    "output": "Die subjektwissenschaftliche Lerntheorie spielt eine wichtige Rolle in der Übergangsberatung, um Lernen als eine spezifische Form von Handeln zu sehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von intentionalem Lernen in der Übergangsberatung?",
+    "output": "Intentionales Lernen ist wichtig, um die erlebte Diskrepanz zwischen dem, was man kann, und dem, was man will, zu überwinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der Übergangsberatung?",
+    "output": "Die Übergangsberatung bietet die Möglichkeit, die gelingende Gestaltung von Übergängen und die Förderung von Übergangskompetenz zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kompetenzbilanzierung in der Förderung von Übergangskompetenz?",
+    "output": "Die Kompetenzbilanzierung spielt eine wichtige Rolle in der Förderung von Übergangskompetenz, um die eigenen Fähigkeiten und Ressourcen zu reflektieren und zu bewerten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wichtigsten Aspekte der reflexiven Beratung?",
+    "output": "Die wichtigsten Aspekte der reflexiven Beratung sind die Reflexion von Handlungsproblematiken, die Entwicklung von Lösungsperspektiven und die Förderung von Übergangskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Wirkfaktoren in der Förderung von Übergangskompetenz?",
+    "output": "Wirkfaktoren sind wichtig, um die Interaktion zwischen Klient, Coach und ihrer Umgebung zu unterstützen und den Erfolg der Beratung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der Methode Lebensprofil in der Übergangsberatung?",
+    "output": "Die Methode Lebensprofil bietet die Möglichkeit, persönliche Ressourcen und biografische Kontinuitäten herauszuarbeiten und sichtbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der subjektwissenschaftlichen Lerntheorie in der Förderung von Übergangskompetenz?",
+    "output": "Die subjektwissenschaftliche Lerntheorie spielt eine wichtige Rolle in der Förderung von Übergangskompetenz, um Lernen als eine spezifische Form von Handeln zu sehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Betriebsratsarbeit in der Übergangsgestaltung?",
+    "output": "Die Herausforderungen der Betriebsratsarbeit in der Übergangsgestaltung liegen in der komplexen Problematik und den wachsenden Anforderungen, die eine intensive Lern- und Weiterbildungsphase erfordern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von intentionalem Lernen in der Förderung von Übergangskompetenz?",
+    "output": "Intentionales Lernen ist wichtig, um die erlebte Diskrepanz zwischen dem, was man kann, und dem, was man will, zu überwinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der Übergangsberatung in der Förderung von Übergangskompetenz?",
+    "output": "Die Übergangsberatung bietet die Möglichkeit, die gelingende Gestaltung von Übergängen und die Förderung von Übergangskompetenz zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kompetenzbilanzierung in der Übergangsberatung?",
+    "output": "Die Kompetenzbilanzierung spielt eine wichtige Rolle in der Übergangsberatung, um die eigenen Fähigkeiten und Ressourcen zu reflektieren und zu bewerten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Übergangsberatung?",
+    "output": "Übergangsberatung ist eine lernförderliche Supportstruktur, weil Lernprozesse reflektiert und initiiert und dadurch Ressourcen für eine gelingende Übergangsgestaltung aktiviert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Übergangsberatung?",
+    "output": "Das Ziel von Übergangsberatung ist es, Ressourcen für eine gelingende Übergangsgestaltung zu aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Freiwillige Soziale Jahr (FSJ)?",
+    "output": "Das Freiwillige Soziale Jahr (FSJ) ist ein außerschulisches Bildungs- und Orientierungsangebot für Heranwachsende."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Außerschulischen Jugendbildung (AJB)?",
+    "output": "Die AJB soll junge Menschen unterstützen, selbstbestimmte und gemeinschaftsfähige Mitglieder der Gesellschaft zu werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Beratung in der AJB?",
+    "output": "Beratung in der AJB ist ein Kommunikations- und Interaktionsprozess zwischen Beratenden und Ratsuchenden, der auf die Aktivierung der Fähigkeiten zur Selbstbestimmung, Neuorientierung von Einstellungen und Haltungen und Erkundung möglichst eigenständiger Lösungsmöglichkeiten zielt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Bildungsreferenten im FSJ?",
+    "output": "Die Bildungsreferenten sind für die pädagogische Begleitung der Freiwilligen im FSJ verantwortlich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung im FSJ?",
+    "output": "Beratung im FSJ ist eine pädagogische Unterstützungsleistung, die den Freiwilligen helfen soll, ihre Ziele und Probleme zu bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was waren die Leitfragen für den Themenkomplex Beratung?",
+    "output": "Die Leitfragen lauteten: 'Wenn Sie spontan einen Fortbildungskurs für ihre pädagogischen Mitarbeitenden anbieten würden, wie würde der Titel lauten?' und 'Welche Rolle spielt Beratung innerhalb des Aufgabenspektrums ihrer pädagogischen Mitarbeitenden?'"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die beiden Subkategorien der Kategorie 'Beratungsanlässen/-themen im FSJ'?",
+    "output": "Die beiden Subkategorien sind 'Psychische und psychosoziale Problemlagen' und 'Auseinandersetzung mit der eigenen Identität'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die pädagogischen Mitarbeitenden im FSJ?",
+    "output": "Die Herausforderungen sind der Umgang mit sehr heterogenen Gruppen mit verschiedenen Problemlagen der Jugendlichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Problemlagen, die Frau R bei den Freiwilligen wahrnimmt?",
+    "output": "Frau R wahrnimmt Problemlagen wie Essstörungen, Selbstverletzungen und andere psychische Auffälligkeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Meinung von Herrn D zu Beratung im FSJ?",
+    "output": "Herr D denkt, dass Beratung im FSJ eine Möglichkeit ist, junge Menschen bei ihrer persönlichen Orientierung zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Themen, die Herr D bei den Freiwilligen wahrnimmt?",
+    "output": "Herr D wahrnimmt Themen wie Traumaerfahrungen, Selbstfindung und Abgrenzungsnotwendigkeiten zu Eltern oder gesellschaftlichen Konventionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion des FSJ?",
+    "output": "Die Funktion des FSJ ist es, junge Menschen bei ihrer persönlichen Orientierung zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung in der AJB?",
+    "output": "Beratung in der AJB ist eine pädagogische Handlungsform, die auf die Initiierung von Selbstbildungsprozessen zielt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Zielgruppen von Beratung in der AJB?",
+    "output": "Die Zielgruppen von Beratung in der AJB sind junge Menschen, die Unterstützung bei ihrer persönlichen und beruflichen Orientierung benötigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele von Beratung in der AJB?",
+    "output": "Die Ziele von Beratung in der AJB sind die Förderung von Selbstbestimmung, Neuorientierung von Einstellungen und Haltungen und die Erkundung möglichst eigenständiger Lösungsmöglichkeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird Beratung in der AJB durchgeführt?",
+    "output": "Beratung in der AJB wird durch Kommunikations- und Interaktionsprozesse zwischen Beratenden und Ratsuchenden durchgeführt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Pädagoginnen und Pädagogen in der AJB?",
+    "output": "Die Rolle der Pädagoginnen und Pädagogen in der AJB ist es, junge Menschen bei ihrer persönlichen und beruflichen Orientierung zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Pädagoginnen und Pädagogen in der AJB?",
+    "output": "Die Herausforderungen für die Pädagoginnen und Pädagogen in der AJB sind der Umgang mit sehr heterogenen Gruppen und die Förderung von Selbstbestimmung und Neuorientierung bei den jungen Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann Beratung in der AJB verbessert werden?",
+    "output": "Beratung in der AJB kann durch eine stärkere Fokussierung auf die Bildungsaspekte von Beratung und durch die Entwicklung von Konzepten, die auf die spezifischen Bedürfnisse der jungen Menschen abgestimmt sind, verbessert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Forschung in der AJB?",
+    "output": "Forschung in der AJB ist wichtig, um die Effektivität von Beratung und anderen pädagogischen Maßnahmen zu überprüfen und um neue Konzepte und Methoden zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Zusammenarbeit zwischen Pädagoginnen und Pädagogen und anderen Fachkräften in der AJB verbessert werden?",
+    "output": "Die Zusammenarbeit zwischen Pädagoginnen und Pädagogen und anderen Fachkräften in der AJB kann durch regelmäßige Kommunikation und Kooperation verbessert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Auswirkungen von Beratung in der AJB auf die junge Menschen?",
+    "output": "Beratung in der AJB kann zu einer verbesserten Selbstbestimmung, Neuorientierung von Einstellungen und Haltungen und einer besseren Erkundung von Lösungsmöglichkeiten bei den jungen Menschen führen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Qualität von Beratung in der AJB sichergestellt werden?",
+    "output": "Die Qualität von Beratung in der AJB kann durch regelmäßige Evaluation und Qualitätssicherung sichergestellt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die ethischen Aspekte von Beratung in der AJB?",
+    "output": "Die ethischen Aspekte von Beratung in der AJB umfassen die Wahrung der Vertraulichkeit, die Respektierung der Autonomie der jungen Menschen und die Vermeidung von Diskriminierung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann Beratung in der AJB auf die Bedürfnisse von jungen Menschen mit Behinderungen abgestimmt werden?",
+    "output": "Beratung in der AJB kann auf die Bedürfnisse von jungen Menschen mit Behinderungen abgestimmt werden, indem spezielle Konzepte und Methoden entwickelt werden, die auf ihre Bedürfnisse zugeschnitten sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen für die Pädagoginnen und Pädagogen bei der Beratung von jungen Menschen mit Migrationshintergrund?",
+    "output": "Die Herausforderungen für die Pädagoginnen und Pädagogen bei der Beratung von jungen Menschen mit Migrationshintergrund umfassen die Überwindung von Sprachbarrieren und die Berücksichtigung von kulturellen Unterschieden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind beraterische Herausforderungen im FSJ?",
+    "output": "Psychische und psychosoziale Problemlagen der Teilnehmenden sind beraterische Herausforderungen im FSJ."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, pädagogisch begründbare Grenzen der Beratungsarbeit im FSJ zu diskutieren?",
+    "output": "Es ist wichtig, pädagogisch begründbare Grenzen der Beratungsarbeit im FSJ zu diskutieren, um das Selbstverständnis des FSJ als außerschulisches Bildungsjahr zu vertiefen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der Beratungsarbeit im FSJ?",
+    "output": "Die Herausforderungen der Beratungsarbeit im FSJ sind psychische und psychosoziale Problemlagen der Teilnehmenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Beratung im FSJ wichtig?",
+    "output": "Die Beratung im FSJ ist wichtig, weil sie eine gewisse Relevanz in der pädagogischen Arbeit der FSJ-Bildungsreferent*innen zukommt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der pädagogischen Arbeit?",
+    "output": "Die Beratung in der pädagogischen Arbeit ist wichtig, weil sie eine gewisse Relevanz in der Arbeit der FSJ-Bildungsreferent*innen zukommt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, das Selbstverständnis des FSJ zu vertiefen?",
+    "output": "Es ist wichtig, das Selbstverständnis des FSJ zu vertiefen, um pädagogisch begründbare Grenzen der Beratungsarbeit im FSJ zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der außerschulischen Jugendbildung?",
+    "output": "Die außerschulische Jugendbildung ist wichtig, weil sie eine Möglichkeit bietet, Jugendliche zu bilden und zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat das Buch 'In der Balance liegt die Chance' geschrieben?",
+    "output": "Ursula Sauer-Schiffer hat das Buch 'In der Balance liegt die Chance' geschrieben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch 'In der Balance liegt die Chance' veröffentlicht?",
+    "output": "Das Buch 'In der Balance liegt die Chance' wurde 2006 veröffentlicht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Jugendbildung?",
+    "output": "Die Beratung in der Jugendbildung ist wichtig, weil sie eine Möglichkeit bietet, Jugendliche zu unterstützen und zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Qualitätsentwicklung im FSJ?",
+    "output": "Die Qualitätsentwicklung im FSJ ist wichtig, weil sie eine Möglichkeit bietet, die Qualität der Bildungsarbeit im FSJ zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the DFG-Forschungsprojekt 'Transition Processing'?",
+    "output": "The focus of the project is on the pedagogical rationalities in person-related services for accompanying and advising transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of the article?",
+    "output": "The main topic of the article is an ethnographic view of materiality in consulting, using the example of coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the publication where the article is found?",
+    "output": "Bildung und Beratung. Beratungskompetenz als neue Herausforderung für Weiterbildung und außerschulische Jugendbildung?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who are the authors of the article?",
+    "output": "Heike Chyle, Nina Wlassow, and Christiane Dittrich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What research method is used in the 'Transition Processing' project?",
+    "output": "Participatory observation is used to empirically record typical situations and real actions of the participants."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the analysis in the article?",
+    "output": "The focus of the analysis is on the handling of artifacts and their role in the staging of consulting in coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of the 'Transition Processing' project?",
+    "output": "The goal of the project is to conduct a fundamental theoretical comparative analysis of five different offers for consulting and accompanying transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the guiding questions of the 'Transition Processing' project?",
+    "output": "The guiding questions are how pedagogical rationalities show up in the knowledge of the actors, how they are processed in the different organizational forms of these services, and whether common and/or field-specific interpretation patterns emerge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the underlying assumption of the 'Transition Processing' project?",
+    "output": "The assumption is that these services are socially shaped, i.e., their design, use, and framing are based on socially shared knowledge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is meant by 'social Vollzugswirklichkeit' in the article?",
+    "output": "It refers to the result and process of a social production achievement, where the services are shaped by the interactions of the actors."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How is consulting understood in the 'Transition Processing' project?",
+    "output": "Consulting is understood as a conversation-shaped social interaction that takes place on an equal footing and with mutual recognition of the parties involved."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the characteristics of the social interaction in consulting according to the article?",
+    "output": "The interaction is temporally defined, process-oriented, interest-sensitive, and open-ended."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of artifacts in the consulting process?",
+    "output": "Artifacts play a central role in the staging of consulting in coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the article?",
+    "output": "The purpose of the article is to present an ethnographic view of materiality in consulting using the example of coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the context of the 'Transition Processing' project?",
+    "output": "The project is situated in the context of transitions in work and the increasing importance of pedagogical approaches in this field."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the analysis in the 'Transition Processing' project?",
+    "output": "The focus is on the pedagogical rationalities in person-related services for accompanying and advising transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many different offers for consulting and accompanying transitions in work are analyzed in the 'Transition Processing' project?",
+    "output": "Five different offers are analyzed."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the section where the 'Transition Processing' project is presented?",
+    "output": "2. Forschungskontext"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the section where the theoretical and methodological foundations are presented?",
+    "output": "3. Theoretische und methodologische Grundlegung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main research question of the 'Transition Processing' project?",
+    "output": "The main research question is how pedagogical rationalities show up in the knowledge of the actors and how they are processed in the different organizational forms of these services."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the underlying theory of the 'Transition Processing' project?",
+    "output": "The project is based on the assumption that the services are socially shaped and that the design, use, and framing of the services are based on socially shared knowledge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the methodological approach of the 'Transition Processing' project?",
+    "output": "The project uses participatory observation to empirically record typical situations and real actions of the participants."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the empirical analysis in the 'Transition Processing' project?",
+    "output": "The focus is on the handling of artifacts and their role in the staging of consulting in coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the expected outcomes of the 'Transition Processing' project?",
+    "output": "The project aims to provide a fundamental theoretical comparative analysis of five different offers for consulting and accompanying transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of the 'Transition Processing' project?",
+    "output": "The project is relevant for understanding the pedagogical rationalities in person-related services for accompanying and advising transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main contribution of the article?",
+    "output": "The article provides an ethnographic view of materiality in consulting using the example of coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main conclusion of the article?",
+    "output": "The article concludes that artifacts play a central role in the staging of consulting in coaching and transfer companies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the 'Transition Processing' project?",
+    "output": "The project has implications for the development of person-related services for accompanying and advising transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the future direction of the 'Transition Processing' project?",
+    "output": "The project aims to provide a fundamental theoretical comparative analysis of person-related services for accompanying and advising transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the 'Transition Processing' project?",
+    "output": "The project is significant for understanding the pedagogical rationalities in person-related services for accompanying and advising transitions in work."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of the article?",
+    "output": "The main theme of the article is the ethnographic view of materiality in consulting."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the context of the article?",
+    "output": "The article is situated in the context of transitions in work and the increasing importance of pedagogical approaches in this field."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Analyse der ethnografischen Protokolle?",
+    "output": "Die Analyse soll die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung aufzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Methodologie wird für die Auswertung des ethnografischen Studienteils verwendet?",
+    "output": "Die Grounded Theory wird als methodologische Orientierung verwendet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Leitfragen für die praxistheoretische Analyse?",
+    "output": "Die Leitfragen sind: Welche Rollen werden von wem wie 'gespielt'? Worin zeigen sich Rollenerwartungen, Verhaltensregeln und Rollenverpflichtungen? Wie wird Beratung durch Körper, Raum und Artefakte gestaltet?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird der Raum in der Coachingsitzung gestaltet?",
+    "output": "Der Raum wirkt sachlich und nüchtern, er strahlt eine Arbeitsatmosphäre aus, und die ovale Tischform lockert die Sitzpositionen auf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Funktion haben Artefakte in der Coachingsitzung?",
+    "output": "Artefakte dienen als strukturierendes Element, um den Coachingprozess zu steuern und die Expertise des Coachs hervorzuheben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Raum und Artefakten in der Transfergesellschaft?",
+    "output": "Raum und Artefakte spielen eine wichtige Rolle bei der Herstellung des Settings für den Profiling-Prozess und der Initiierung, Strukturierung und Steuerung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Funktion haben Profiling-Bögen in der Transfergesellschaft?",
+    "output": "Profiling-Bögen dienen zur Erfassung der für die Vermittlung in neue Arbeit relevanten beruflichen Fähigkeiten der Teilnehmenden und zur Vorbereitung des Termins bei der Agentur für Arbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielen Artefakte im Coaching und in der Transfergesellschaft?",
+    "output": "Artefakte ermöglichen den Berater*innen, sich in ihrer Rolle als steuernde Expert*innen für die Übergangsbearbeitung zu positionieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Relevanz der Forschung im Handlungsfeld Beratung?",
+    "output": "Die Forschung im Handlungsfeld Beratung ist relevant, da die Bewältigung von Übergängen in Arbeit im Verlauf einer Biografie zunehmend schwieriger und unsicherer wird und Beratung politisch als Lösungsansatz angesehen wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann Beratung am Übergang in Arbeit beschrieben werden?",
+    "output": "Beratung am Übergang in Arbeit kann als Lern- und Bildungsprozess verstanden werden, der eng mit der Frage des Lernens bzw. des Lernens Erwachsener verknüpft ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Funktion haben professionelle Berater*innen im Beratungsprozess?",
+    "output": "Professionelle Berater*innen haben eine erhebliche Steuerungsfunktion im Beratungsprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Analyse der ethnografischen Protokolle im Projekt 'Transition Processing'?",
+    "output": "Das Ziel der Analyse ist es, die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung aufzuzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Grounded Theory als methodologische Orientierung verwendet?",
+    "output": "Die Grounded Theory wird verwendet, um die Analyse der ethnografischen Protokolle zu strukturieren und die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung aufzuzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wichtigsten Aspekte der praxistheoretischen Analyse?",
+    "output": "Die wichtigsten Aspekte sind: Materialität, Interaktion und Wissen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Materialität von Praktiken im Coaching und in der Transfergesellschaft beschrieben?",
+    "output": "Die Materialität von Praktiken wird als Steuerungselement beschrieben, das die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung ermöglicht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Raum und Artefakten in der Coachingsitzung?",
+    "output": "Raum und Artefakte spielen eine wichtige Rolle bei der Herstellung des Settings für die Coachingsitzung und der Initiierung, Strukturierung und Steuerung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die räumliche Gestaltung in der Coachingsitzung beschrieben?",
+    "output": "Die räumliche Gestaltung wirkt sachlich und nüchtern, er strahlt eine Arbeitsatmosphäre aus, und die ovale Tischform lockert die Sitzpositionen auf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Funktion haben Artefakte in der Coachingsitzung?",
+    "output": "Artefakte dienen als strukturierendes Element, um den Coachingprozess zu steuern und die Expertise des Coachs hervorzuheben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Profiling-Bögen in der Transfergesellschaft?",
+    "output": "Profiling-Bögen dienen zur Erfassung der für die Vermittlung in neue Arbeit relevanten beruflichen Fähigkeiten der Teilnehmenden und zur Vorbereitung des Termins bei der Agentur für Arbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Ergebnisse der Transfergesellschaft verwendet?",
+    "output": "Die ermittelten Kompetenzen werden an übergeordnete und sonstige relevante Institutionen weitergeleitet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielen Artefakte im Coaching und in der Transfergesellschaft?",
+    "output": "Artefakte ermöglichen den Berater*innen, sich in ihrer Rolle als steuernde Expert*innen für die Übergangsbearbeitung zu positionieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Relevanz der Forschung im Handlungsfeld Beratung?",
+    "output": "Die Forschung im Handlungsfeld Beratung ist relevant, da die Bewältigung von Übergängen in Arbeit im Verlauf einer Biografie zunehmend schwieriger und unsicherer wird und Beratung politisch als Lösungsansatz angesehen wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann Beratung am Übergang in Arbeit beschrieben werden?",
+    "output": "Beratung am Übergang in Arbeit kann als Lern- und Bildungsprozess verstanden werden, der eng mit der Frage des Lernens bzw. des Lernens Erwachsener verknüpft ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Funktion haben professionelle Berater*innen im Beratungsprozess?",
+    "output": "Professionelle Berater*innen haben eine erhebliche Steuerungsfunktion im Beratungsprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Analyse der ethnografischen Protokolle im Projekt 'Transition Processing'?",
+    "output": "Das Ziel der Analyse ist es, die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung aufzuzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Grounded Theory als methodologische Orientierung verwendet?",
+    "output": "Die Grounded Theory wird verwendet, um die Analyse der ethnografischen Protokolle zu strukturieren und die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung aufzuzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Materialität von Praktiken im Coaching und in der Transfergesellschaft beschrieben?",
+    "output": "Die Materialität von Praktiken wird als Steuerungselement beschrieben, das die Herstellung sozialer Rollen und die Initiierung, Strukturierung und Steuerung von Beratung ermöglicht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Raum und Artefakten in der Coachingsitzung?",
+    "output": "Raum und Artefakte spielen eine wichtige Rolle bei der Herstellung des Settings für die Coachingsitzung und der Initiierung, Strukturierung und Steuerung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Buches 'Coaching für die neu ernannte Führungskraft'?",
+    "output": "Coaching für die neu ernannte Führungskraft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Buches 'Beratung im Kontext von Lebenslangem Lernen und Life Design'?",
+    "output": "Beratung im Kontext von Lebenslangem Lernen und Life Design."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Buches 'Zukunftsfeld Bildungs- und Berufsberatung II'?",
+    "output": "Zukunftsfeld Bildungs- und Berufsberatung II."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Buches 'Handbuch pädagogische Beratung über die Lebensspanne'?",
+    "output": "Pädagogische Beratung über die Lebensspanne."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Artikels 'Die Entdeckung der jungen Erwachsenen'?",
+    "output": "Die Entdeckung der jungen Erwachsenen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Verlag wurde das Buch 'Beratung im Kontext von Lebenslangem Lernen und Life Design' veröffentlicht?",
+    "output": "VS Verlag für Sozialwissenschaften."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Verlag wurde das Buch 'Coaching für die neu ernannte Führungskraft' veröffentlicht?",
+    "output": "VS Verlag für Sozialwissenschaften."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Verlag wurde das Buch 'Subjektorientierte Übergangsforschung' veröffentlicht?",
+    "output": "Juventa."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Verlag wurde das Buch 'Zukunftsfeld Bildungs- und Berufsberatung II' veröffentlicht?",
+    "output": "W. Bertelsmann Verlag."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Verlag wurde das Buch 'Handbuch pädagogische Beratung über die Lebensspanne' veröffentlicht?",
+    "output": "Beltz Juventa."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the definition of study dropout intention?",
+    "output": "Study dropout intention is defined as the frequency or seriousness of thoughts about leaving the university."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of adult education in shaping learning cultures in society?",
+    "output": "Adult education should actively participate in shaping learning cultures in society."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are early warning systems used for in German universities?",
+    "output": "Early warning systems are used to prevent study dropouts and provide support to students."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the early warning system at the Technical University of Dresden?",
+    "output": "The early warning system at the Technical University of Dresden is called 'Partnership · Study Success · TU Dresden' (PASST?!)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many students participated in the quantitative survey at the Technical University of Dresden?",
+    "output": "463 students participated in the quantitative survey."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What percentage of students reported thoughts of dropping out of their studies?",
+    "output": "Around 30% of students reported thoughts of dropping out of their studies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What factors influence the intention to drop out of studies?",
+    "output": "Unfavorable entry requirements, study conditions, and performance difficulties influence the intention to drop out of studies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the Exit-Voice theory?",
+    "output": "The Exit-Voice theory states that individuals who are dissatisfied with an institution or situation have two options: exit (leave the situation) or voice (try to change the situation)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do students at the Technical University of Dresden react to difficulties in their studies?",
+    "output": "Students at the Technical University of Dresden use both exit and voice strategies to react to difficulties in their studies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some examples of voice strategies used by students?",
+    "output": "Some examples of voice strategies used by students include consulting with fellow students, seeking counseling, and strategic study organization."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some examples of exit strategies used by students?",
+    "output": "Some examples of exit strategies used by students include dropping out of studies or researching alternative study programs."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of counseling in the context of early warning systems?",
+    "output": "Counseling plays a crucial role in supporting students and preventing study dropouts in the context of early warning systems."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the Exit-Voice theory for educational research?",
+    "output": "The Exit-Voice theory has implications for understanding how students react to difficulties in their studies and can inform the development of support services."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the PASST?! program at the Technical University of Dresden?",
+    "output": "The purpose of the PASST?! program is to support students and prevent study dropouts through early warning systems and counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many students participated in the qualitative interviews at the Technical University of Dresden?",
+    "output": "17 students participated in the qualitative interviews."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What were some of the difficulties reported by students in the qualitative interviews?",
+    "output": "Students reported difficulties such as performance problems, study organization problems, and incompatibility of study and family or work life."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the Exit-Voice theory in understanding student behavior?",
+    "output": "The Exit-Voice theory is significant in understanding student behavior as it provides a framework for understanding how students react to difficulties in their studies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the limitations of the study on early warning systems at the Technical University of Dresden?",
+    "output": "The study has limitations, including the fact that the data collection is still ongoing and the results are preliminary."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the potential impact of early warning systems on student behavior?",
+    "output": "Early warning systems may have unintended consequences, such as increasing the intention to drop out of studies, but can also provide a chance for students to re-evaluate their study plans."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of loyalty in the Exit-Voice theory?",
+    "output": "Loyalty refers to the attachment or commitment an individual has to an institution or situation, which can influence their decision to exit or voice."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the study for educational practice?",
+    "output": "The study has implications for educational practice, including the importance of providing support services to students and the need for further research on early warning systems."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the quantitative survey at the Technical University of Dresden?",
+    "output": "The purpose of the quantitative survey is to identify students who are at risk of dropping out of their studies and to provide support to these students."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the results of the quantitative survey at the Technical University of Dresden?",
+    "output": "The results of the quantitative survey show that around 30% of students reported thoughts of dropping out of their studies, and that unfavorable entry requirements, study conditions, and performance difficulties influence the intention to drop out of studies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the study on early warning systems at the Technical University of Dresden?",
+    "output": "The study is significant as it provides insights into the effectiveness of early warning systems in preventing study dropouts and supporting students."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the study for policy and practice?",
+    "output": "The study has implications for policy and practice, including the importance of providing support services to students and the need for further research on early warning systems."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the limitations of the Exit-Voice theory?",
+    "output": "The Exit-Voice theory has limitations, including the fact that it does not account for the complexity of individual decision-making processes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the study on early warning systems at the Technical University of Dresden for the development of support services?",
+    "output": "The study is significant as it provides insights into the effectiveness of early warning systems in preventing study dropouts and supporting students, and can inform the development of support services."
+  }
+]

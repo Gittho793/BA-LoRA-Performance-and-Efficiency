@@ -1,0 +1,827 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird Beratung in den Handlungsfeldern der beruflichen Pflege und Pflegebildung dargestellt?",
+    "output": "Inhaltlich selten ausreichend reflektiert und begründet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wuchs die Zahl der Veröffentlichungen zur gesundheitsorientierten Beratung im deutschen Sprachraum?",
+    "output": "Ende der 90-er Jahre und Anfang 2000."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche zwei Stilrichtungen lassen sich in den Veröffentlichungen zur gesundheitsorientierten Beratung entdecken?",
+    "output": "Praxis- und Berufsfeldorientierung als ‚Beratung in…‘ und die Beschreibung von relevanten Feldern der Gesundheitsförderung und der Prävention sowie deren Ergänzungsbedürftigkeit um die Beratungskompetenz als ‚... und Beratung‘."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wollen die Autorinnen in diesem Fachbuch?",
+    "output": "Sie wollen noch ein Stück voran und heben die systemische Bezogenheit besonders hervor."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erscheint als brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung?",
+    "output": "Systemische Beratung und systemische Orientierung generell."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Worauf zielt das Fachbuch?",
+    "output": "Auf die Weiterentwicklung der Curricula zum Teilbereich Beratung in der Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was geht es darum, deutlicher in Augenschein zu nehmen?",
+    "output": "Die Schnittstellen der systemischen Beratung in pädagogischen Handlungsfeldern der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigen beratungswissenschaftliche Neuentwicklungen generell an?",
+    "output": "Neue Bedeutungen für die Praxis der Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was braucht kompetenzorientierte Beratung?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Expertinnen in Pflegebildung und in der Pflegeausbildung?",
+    "output": "Grundlagenwissen für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die systemische Bezogenheit?",
+    "output": "Eine besondere Hervorhebung in der Beratung und im Pflegehandeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Beratung in der Pflege?",
+    "output": "Eine brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die wissenschaftliche Verortung von psychosozialer Beratung in gesundheitsorientierten Formaten?",
+    "output": "Sehr wichtig, aber relativ wenig beachtet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Pflegebildung?",
+    "output": "Wie können Wissen und Haltung als systemische Kernkompetenz einhergehen mit einem Konzept des systemischen Beratungshandelns?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Schnittstellen der systemischen Beratung in pädagogischen Handlungsfeldern der Pflegeausbildung?",
+    "output": "Deutlich in Augenschein zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der kompetenzorientierten Beratung?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Grundlagenwissens für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen?",
+    "output": "Sehr wichtig für Expertinnen in Pflegebildung und in der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der zirkulären Prozesse von Wissen und Handeln?",
+    "output": "Sehr wichtig für die Beratung in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beratung in der Pflege?",
+    "output": "Sehr wichtig, aber oft dargestellt als ‚Kontaktmachen‘ und ‚gute Gesprächsführung‘."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Orientierung generell?",
+    "output": "Eine brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Autorinnen in diesem Fachbuch?",
+    "output": "Sie wollen noch ein Stück voran und heben die systemische Bezogenheit besonders hervor."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Veröffentlichungen zur gesundheitsorientierten Beratung im deutschen Sprachraum?",
+    "output": "Sehr wichtig, aber oft dargestellt als ‚Kontaktmachen‘ und ‚gute Gesprächsführung‘."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Stilrichtungen in den Veröffentlichungen zur gesundheitsorientierten Beratung?",
+    "output": "Praxis- und Berufsfeldorientierung als ‚Beratung in…‘ und die Beschreibung von relevanten Feldern der Gesundheitsförderung und der Prävention sowie deren Ergänzungsbedürftigkeit um die Beratungskompetenz als ‚... und Beratung‘."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Weiterentwicklung der Curricula zum Teilbereich Beratung in der Pflegebildung?",
+    "output": "Sehr wichtig für die Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Schnittstellen der systemischen Beratung in pädagogischen Handlungsfeldern der Pflegeausbildung?",
+    "output": "Deutlich in Augenschein zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der kompetenzorientierten Beratung in der Pflege?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Grundlagenwissens für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen in der Pflege?",
+    "output": "Sehr wichtig für Expertinnen in Pflegebildung und in der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die systemische Beratung in der Pflege?",
+    "output": "Sehr wichtig, eine brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Pflegebildung?",
+    "output": "Wie können Wissen und Haltung als systemische Kernkompetenz einhergehen mit einem Konzept des systemischen Beratungshandelns?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der kompetenzorientierten Beratung in der Pflege?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Grundlagenwissens für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen in der Pflege?",
+    "output": "Sehr wichtig für Expertinnen in Pflegebildung und in der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Orientierung generell?",
+    "output": "Eine brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Stilrichtungen in den Veröffentlichungen zur gesundheitsorientierten Beratung?",
+    "output": "Praxis- und Berufsfeldorientierung als ‚Beratung in…‘ und die Beschreibung von relevanten Feldern der Gesundheitsförderung und der Prävention sowie deren Ergänzungsbedürftigkeit um die Beratungskompetenz als ‚... und Beratung‘."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Weiterentwicklung der Curricula zum Teilbereich Beratung in der Pflegebildung?",
+    "output": "Sehr wichtig für die Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der kompetenzorientierten Beratung in der Pflege?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Grundlagenwissens für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen in der Pflege?",
+    "output": "Sehr wichtig für Expertinnen in Pflegebildung und in der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die systemische Beratung in der Pflege?",
+    "output": "Sehr wichtig, eine brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Pflegebildung?",
+    "output": "Wie können Wissen und Haltung als systemische Kernkompetenz einhergehen mit einem Konzept des systemischen Beratungshandelns?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der kompetenzorientierten Beratung in der Pflege?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Grundlagenwissens für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen in der Pflege?",
+    "output": "Sehr wichtig für Expertinnen in Pflegebildung und in der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Orientierung generell?",
+    "output": "Eine brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege-(aus)bildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Stilrichtungen in den Veröffentlichungen zur gesundheitsorientierten Beratung?",
+    "output": "Praxis- und Berufsfeldorientierung als ‚Beratung in…‘ und die Beschreibung von relevanten Feldern der Gesundheitsförderung und der Prävention sowie deren Ergänzungsbedürftigkeit um die Beratungskompetenz als ‚... und Beratung‘."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Weiterentwicklung der Curricula zum Teilbereich Beratung in der Pflegebildung?",
+    "output": "Sehr wichtig für die Pflegebildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der kompetenzorientierten Beratung in der Pflege?",
+    "output": "Eine neue Sicherheit in der Unterscheidung von Pflege und Beratung und eine gut reflektierte Sicht auf die Schnittstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Grundlagenwissens für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen in der Pflege?",
+    "output": "Sehr wichtig für Expertinnen in Pflegebildung und in der Pflegeausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der zirkulären Prozesse von Wissen und Handeln in der Pflege?",
+    "output": "Sehr wichtig für die Beratung in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Expertinnen in Pflegebildung und Pflegeausbildung?",
+    "output": "Grundlagenwissen für fachliches Verstehen, für Expertise und das Training neuer Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Reicht Wissen um Beratung und gute Pflegehandlungen aus als Fundament für Beratung in der Pflege?",
+    "output": "Nein, es sind zirkuläre Prozesse von Verstehen, Wissen, Handeln, Diagnostizieren, Konstruieren, Intervenieren, Reflektieren und Evaluieren notwendig."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig für eine umfassende Beratung in der Pflege?",
+    "output": "Permanente Selbstreflexion und die Überprüfung der eigenen Selbstwirksamkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Kontexte müssen bei der Beratung in der Pflege berücksichtigt werden?",
+    "output": "Die unterschiedlichen Kontexte pflegeberuflichen Handelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann disziplin- und systemübergreifendes Denken bei der Beratung in der Pflege bewirken?",
+    "output": "Es kann neuartige Lösungen aufzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was möchten die Autorinnen erreichen?",
+    "output": "Sie möchten dazu einladen, weitere Schritte vom althergebrachten Verständnis der Pflegeberatung zu einem neuen Profil von Beratung in pflegerelevanten Handlungsfeldern zu gehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum muss der neue Weg von Beratung nachhaltiger sein?",
+    "output": "Weil Menschen heute vermehrt Teilleistungen für ihre Lebensbewältigung suchen und Leben lernen mit Handicaps angesichts der Bevölkerungsentwicklung eine neue Perspektive ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigen sich in der Pflege und Beratung?",
+    "output": "Veränderungen, die das Restsystem der Familien rundum den einzelnen Menschen deutlicher fokussieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Autorinnen?",
+    "output": "Ein neues Profil von Beratung in pflegerelevanten Handlungsfeldern zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Beratung in der Pflege wichtig?",
+    "output": "Weil sie Menschen bei ihrer Lebensbewältigung unterstützen kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Pflegeausbildung bei der Beratung?",
+    "output": "Sie sollte die Kompetenz der Pflegefachkräfte stärken, um eine umfassende Beratung anzubieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege verbessert werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und disziplin- und systemübergreifendes Denken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstreflexion bei der Beratung in der Pflege?",
+    "output": "Sie ist notwendig, um die eigene Selbstwirksamkeit zu überprüfen und die Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege nachhaltiger gestaltet werden?",
+    "output": "Durch die Entwicklung von neuartigen Lösungen und die Berücksichtigung der Bedürfnisse der Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung bei der Beratung in der Pflege?",
+    "output": "Sie kann neue Erkenntnisse und Lösungen für die Beratung in der Pflege liefern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Zusammenarbeit zwischen den verschiedenen Akteuren in der Pflege verbessert werden?",
+    "output": "Durch disziplin- und systemübergreifendes Denken und die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Gesellschaft?",
+    "output": "Sie kann dazu beitragen, die Lebensqualität der Menschen zu verbessern und die Gesundheit zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Pflegefachkräfte bei der Beratung in der Pflege?",
+    "output": "Sie sollten die Menschen bei ihrer Lebensbewältigung unterstützen und eine umfassende Beratung anbieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege evaluiert werden?",
+    "output": "Durch die Überprüfung der Ergebnisse und die Berücksichtigung der Bedürfnisse der Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Fortbildung für die Pflegefachkräfte?",
+    "output": "Sie kann dazu beitragen, die Kompetenz der Pflegefachkräfte zu stärken und die Beratung in der Pflege zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Handicaps angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Familie bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Beratung in der Pflege zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der älteren Menschen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die öffentliche Gesundheit?",
+    "output": "Sie kann dazu beitragen, die Gesundheit der Bevölkerung zu fördern und die Lebensqualität zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit chronischen Krankheiten angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Gesundheitspolitik bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Rahmenbedingungen für die Beratung in der Pflege zu verbessern und die Gesundheit der Bevölkerung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit psychischen Erkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die soziale Arbeit?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die soziale Integration zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Suchterkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Selbsthilfegruppen bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Beratung in der Pflege zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Behinderungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Rehabilitation?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Rehabilitation zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit palliativen Bedürfnissen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Hospizbewegung bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Beratung in der Pflege zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Demenz angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Gesundheitsökonomie?",
+    "output": "Sie kann dazu beitragen, die Gesundheitskosten zu reduzieren und die Effizienz der Gesundheitsversorgung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit seltenen Erkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Patientenorganisationen bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Beratung in der Pflege zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Krebs angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Onkologie?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Onkologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Herz-Kreislauf-Erkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kardiologie bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Kardiologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Diabetes angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Diabetologie?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Diabetologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Nierenkrankheiten angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Nephrologie bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Nephrologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Lebererkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Gastroenterologie?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Gastroenterologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Hauterkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Dermatologie bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Dermatologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Augenerkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Ophthalmologie?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die Ophthalmologie zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit HNO-Erkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der HNO-Heilkunde bei der Beratung in der Pflege?",
+    "output": "Sie kann dazu beitragen, die Menschen bei ihrer Lebensbewältigung zu unterstützen und die HNO-Heilkunde zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege an die Bedürfnisse der Menschen mit Zahn-, Mund- und Kiefererkrankungen angepasst werden?",
+    "output": "Durch die Berücksichtigung der unterschiedlichen Kontexte pflegeberuflichen Handelns und die Entwicklung von neuartigen Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Worin liegen die Veränderungen in der Pflege?",
+    "output": "In einem stärkeren Fokus auf das Restsystem der Familien und die einzelnen Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was fordert die Beratung heraus?",
+    "output": "Den Blick auf die Elemente des Gelingens von Leben trotz Einschränkungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was hilft der ressourcenorientierte Ansatz systemischer Beratung?",
+    "output": "Nachhaltig zu mehr Halt in Krisen und aktiviert oft brachliegende und verborgene Fähigkeiten von Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll der Leser lernen?",
+    "output": "Beratung in (pflege-)fachlichen Standards zu verstehen und zu schätzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wieso soll der Leser zum kollegialen Diskurs eingeladen werden?",
+    "output": "Um die unterschiedlichen Bedeutungen und Erkenntnisse miteinander zu teilen und Veränderungen für möglich zu halten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Beitrags?",
+    "output": "Einen einführenden und impulsgebenden Beitrag zur Beratung in der professionellen Pflege zu leisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Beratung wichtig?",
+    "output": "Sie hilft nachhaltig zu mehr Halt in Krisen und aktiviert oft brachliegende und verborgene Fähigkeiten von Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung der Beratung?",
+    "output": "Den Blick auf die Elemente des Gelingens von Leben trotz Einschränkungen zu richten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung unterstützen?",
+    "output": "Indem sie die oft brachliegenden und verborgenen Fähigkeiten von Menschen aktiviert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege umgesetzt werden?",
+    "output": "Durch die Anwendung des ressourcenorientierten Ansatzes systemischer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege?",
+    "output": "Sie hilft, die Menschen in ihrer Selbstständigkeit zu unterstützen und ihre Fähigkeiten zu aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege verbessert werden?",
+    "output": "Durch die Fortbildung und Weiterbildung der Pflegekräfte in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Pflege?",
+    "output": "Sie unterstützt die Menschen in ihrer Selbstständigkeit und hilft, ihre Fähigkeiten zu aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege evaluiert werden?",
+    "output": "Durch die Überprüfung der Ergebnisse und der Zufriedenheit der Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratung in der Pflege?",
+    "output": "Sie wird weiterentwickelt und verbessert, um den Bedürfnissen der Menschen gerecht zu werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Pflege für die Gesellschaft?",
+    "output": "Sie trägt dazu bei, die Menschen in ihrer Selbstständigkeit zu unterstützen und ihre Fähigkeiten zu aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege organisiert werden?",
+    "output": "Durch die Einrichtung von Beratungsstellen und die Schulung von Pflegekräften in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Pflegekräfte in der Beratung?",
+    "output": "Sie unterstützen die Menschen in ihrer Selbstständigkeit und helfen, ihre Fähigkeiten zu aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Dokumentation in der Beratung?",
+    "output": "Sie ermöglicht die Überprüfung und Evaluation der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege qualifiziert werden?",
+    "output": "Durch die Fortbildung und Weiterbildung der Pflegekräfte in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Qualität in der Beratung?",
+    "output": "Sie gewährleistet die Effektivität und Effizienz der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege verbessert werden?",
+    "output": "Durch die Einrichtung von Qualitätsmanagement-Systemen in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Qualitätssicherung in der Beratung?",
+    "output": "Sie gewährleistet die Einhaltung von Standards und Richtlinien in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Zertifizierung in der Beratung?",
+    "output": "Sie gewährleistet die Qualität und Effektivität der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Akkreditierung in der Beratung?",
+    "output": "Sie gewährleistet die Qualität und Effektivität der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege evaluiert werden?",
+    "output": "Durch die Überprüfung der Ergebnisse und der Zufriedenheit der Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Evaluation in der Beratung?",
+    "output": "Sie ermöglicht die Überprüfung und Verbesserung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege verbessert werden?",
+    "output": "Durch die Einrichtung von Evaluations- und Forschungsprojekten in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung in der Beratung?",
+    "output": "Sie ermöglicht die Entwicklung von neuen Methoden und Ansätzen in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege unterstützt werden?",
+    "output": "Durch die Bereitstellung von Ressourcen und Mitteln für die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Unterstützung in der Beratung?",
+    "output": "Sie ermöglicht die Umsetzung und Durchführung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Finanzierung in der Beratung?",
+    "output": "Sie ermöglicht die Umsetzung und Durchführung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege organisiert werden?",
+    "output": "Durch die Einrichtung von Beratungsstellen und die Schulung von Pflegekräften in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Organisation in der Beratung?",
+    "output": "Sie ermöglicht die Umsetzung und Durchführung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege koordiniert werden?",
+    "output": "Durch die Einrichtung von Koordinationsstellen und die Schulung von Pflegekräften in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Koordination in der Beratung?",
+    "output": "Sie ermöglicht die Umsetzung und Durchführung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege kommuniziert werden?",
+    "output": "Durch die Verwendung von Kommunikationsmitteln und die Schulung von Pflegekräften in der Kommunikation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kommunikation in der Beratung?",
+    "output": "Sie ermöglicht die Umsetzung und Durchführung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Dokumentation in der Beratung?",
+    "output": "Sie ermöglicht die Überprüfung und Evaluation der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Archivierung in der Beratung?",
+    "output": "Sie ermöglicht die langfristige Aufbewahrung und Überprüfung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege gesichert werden?",
+    "output": "Durch die Einrichtung von Sicherheitsmaßnahmen und die Führung von Dokumenten und Akten über die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Sicherung in der Beratung?",
+    "output": "Sie ermöglicht die langfristige Aufbewahrung und Überprüfung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege entwickelt werden?",
+    "output": "Durch die Einrichtung von Entwicklungsprojekten und die Schulung von Pflegekräften in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Entwicklung in der Beratung?",
+    "output": "Sie ermöglicht die Verbesserung und Erweiterung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege implementiert werden?",
+    "output": "Durch die Einrichtung von Implementierungsprojekten und die Schulung von Pflegekräften in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Implementierung in der Beratung?",
+    "output": "Sie ermöglicht die Umsetzung und Durchführung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege überprüft werden?",
+    "output": "Durch die Einrichtung von Überprüfungsprojekten und die Führung von Dokumenten und Akten über die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Überprüfung in der Beratung?",
+    "output": "Sie ermöglicht die Evaluation und Verbesserung der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege verbessert werden?",
+    "output": "Durch die Einrichtung von Verbesserungsprojekten und die Schulung von Pflegekräften in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege unterstützt werden?",
+    "output": "Durch die Bereitstellung von Ressourcen und Mitteln für die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege kooperiert werden?",
+    "output": "Durch die Einrichtung von Kooperationsprojekten und die Schulung von Pflegekräften in der Kooperation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege vernetzt werden?",
+    "output": "Durch die Einrichtung von Vernetzungsprojekten und die Schulung von Pflegekräften in der Vernetzung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege gesteuert werden?",
+    "output": "Durch die Einrichtung von Steuerungsprojekten und die Schulung von Pflegekräften in der Steuerung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege kontrolliert werden?",
+    "output": "Durch die Einrichtung von Kontrollprojekten und die Führung von Dokumenten und Akten über die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kontrolle in der Beratung?",
+    "output": "Sie ermöglicht die Überprüfung und Evaluation der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege reguliert werden?",
+    "output": "Durch die Einrichtung von Regulierungsprojekten und die Führung von Dokumenten und Akten über die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Regulierung in der Beratung?",
+    "output": "Sie ermöglicht die Überprüfung und Evaluation der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege standardisiert werden?",
+    "output": "Durch die Einrichtung von Standardisierungsprojekten und die Führung von Dokumenten und Akten über die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Standardisierung in der Beratung?",
+    "output": "Sie ermöglicht die Überprüfung und Evaluation der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege zertifiziert werden?",
+    "output": "Durch die Einhaltung von Standards und Richtlinien in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Zertifizierung in der Beratung?",
+    "output": "Sie gewährleistet die Qualität und Effektivität der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Pflege akkreditiert werden?",
+    "output": "Durch die Einhaltung von Standards und Richtlinien in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Akkreditierung in der Beratung?",
+    "output": "Sie gewährleistet die Qualität und Effektivität der Beratung."
+  }
+]

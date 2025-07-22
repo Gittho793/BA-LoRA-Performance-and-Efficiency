@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of section 6?",
+    "output": "Diskussion der Ergebnisse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Diskussion der Ergebnisse' translate to in English?",
+    "output": "Discussion of the Results."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What would typically be found in a 'Diskussion der Ergebnisse' section?",
+    "output": "An analysis or interpretation of the results found in a study or experiment."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Erkenntnisinteresse dieser Arbeit?",
+    "output": "Das Erkenntnisinteresse dieser Arbeit wurde von der Frage geleitet, welche professionellen Handlungsstrategien in der Anerkennungsberatung im Umgang mit widersprüchlichen Anforderungen entwickelt werden, um innerhalb der Spannungsfelder handlungsfähig zu bleiben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bildete die Grundlage für die Formulierung des theoretischen Rahmenkonzeptes?",
+    "output": "Die Darstellung ausgewählter beratungs- und anerkennungstheoretischer Ansätze bildete die Grundlage für die Formulierung des theoretischen Rahmenkonzeptes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglichten die ausgearbeiteten Differenzierungen?",
+    "output": "Die ausgearbeiteten Differenzierungen ermöglichten es, die Anerkennungsverhältnisse auf unterschiedlichen Ebenen zu verorten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie übernehmen die Berater_innen ihre Aufgaben?",
+    "output": "Die Berater_innen übernehmen ein breites Spektrum an unterschiedlichen Aufgaben, die sich aus dem beruflichen Selbstverständnis ableiten und im konkreten Einzelfall gegenüber externen Erwartungen und den Beratungsanliegen der Klient_innen ausgehandelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es schwierig, Anerkennungsberatung zu definieren?",
+    "output": "Die Schwierigkeit, Anerkennungsberatung zu definieren, lässt sich zuerst auf den laufenden Entstehungs- und Institutionalisierungsprozess als neue und eigenständige Beratungsform zurückführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird unter Fachberatung verstanden?",
+    "output": "Fachberatung wird als eigentliche pädagogische Beratung angewandt, die sich von der Prozessberatung abgrenzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird der Begriff Fachberatung in den Interviews verwendet?",
+    "output": "Der Begriff Fachberatung wird in den Interviews in unterschiedlichen Argumentationslinien verwendet und auf die Intensität der Beratung, auf die Expertise der Berater_innen wie auch auf Parteilichkeit als Handlungsprinzip während der Verfahrensbegleitung bezogen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein charakteristisches Merkmal von Beratung im Bereich Bildung und Beruf?",
+    "output": "Die Interdisziplinarität der Teams ist ein charakteristisches Merkmal von Beratung im Bereich Bildung und Beruf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird als Einstellungskriterien in allen Expert_inneninterviews hervorgehoben?",
+    "output": "(Sozial-)pädagogische Qualifikationen werden als Einstellungskriterien in allen Expert_inneninterviews hervorgehoben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definieren sich die Interviewpartner_innen selbst?",
+    "output": "Die Interviewpartner_innen definieren sich selbst als Fachberater_innen und nicht als pädagogische Berater_innen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt sich bei der Beschreibung der Beratungspraxis?",
+    "output": "Bei der Beschreibung der Beratungspraxis zeigen sich Übereinstimmungen mit dem auf theoretischer Ebene dargestellten pädagogischen Beratungsverständnis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird unter pädagogischer Qualifikation verstanden?",
+    "output": "Pädagogische Qualifikation wird mit Kompetenzen in Bezug auf die Gestaltung des Beratungsprozesses und die Entwicklung des Beratungsangebotes verbunden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird der Begriff der Fachberatung erweitert?",
+    "output": "Der Begriff der Fachberatung wird zu einer pädagogisch begründeten Fachberatung erweitert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht eine anerkennungstheoretische Perspektive?",
+    "output": "Eine anerkennungstheoretische Perspektive ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Aufgabenfelder?",
+    "output": "Die Analyse der Aufgabenfelder zeigt, dass die Interaktionsebene des Beratungsgespräches selbst als Anerkennungsverhältnis gestaltet und damit die Herstellung von Anerkennung auch auf rechtlicher und gesellschaftlicher Ebene unterstützt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird erfolgreiche Beratung definiert?",
+    "output": "Erfolgreiche Beratung wird über die Erhöhung der individuellen Handlungs- und Entscheidungsfähigkeit auf der Ebene der Beratungsinteraktion und auf struktureller Ebene über die bildungsadäquate berufliche Integration definiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt sich im Umgang mit widersprüchlichen Anforderungen?",
+    "output": "Im Umgang mit widersprüchlichen Anforderungen zeigen sich unterschiedliche Handlungsstrategien auf individueller und struktureller Ebene."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird in konsequenter Umsetzung einer ressourcenorientierten Beratungshaltung verfolgt?",
+    "output": "In konsequenter Umsetzung einer ressourcenorientierten Beratungshaltung wird auch bei verweigerter Anerkennung auf rechtlicher und gesellschaftlicher Ebene im Beratungsprozess ein Empowermentansatz verfolgt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Koordinierungsstelle?",
+    "output": "Die Koordinierungsstelle ermöglicht eine übergeordnete Interessensvertretung der Anerkennungsberatungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bestätigen die Ergebnisse?",
+    "output": "Die Ergebnisse bestätigen die Annahme von Ertelt, dass die Bildungs- und Berufsberatung eine typische Weiterbildungs- und Netzwerksprofession zu sein scheint."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Voraussetzung für die Professionalisierung von Beratung?",
+    "output": "Ein gesellschaftlich anerkanntes Selbstverständnis ist die Voraussetzung für die Professionalisierung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Professionalisierung von Beratung?",
+    "output": "Professionalisierung von Beratung bedeutet die Übernahme von gesellschaftlicher Verantwortung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Handlungsstrategie der strukturellen Einflussnahme?",
+    "output": "Die Handlungsstrategie der strukturellen Einflussnahme ist ein elementarer Bestandteil pädagogischer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die Weitergabe der in der Beratung generierten Wissensbestände?",
+    "output": "Die Weitergabe der in der Beratung generierten Wissensbestände kann eine Entlastung der Berater_innen stattfinden und einer Individualisierung sozialstruktureller Rahmenbedingungen entgegengewirkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt die anerkennungstheoretische Perspektive dar?",
+    "output": "Die anerkennungstheoretische Perspektive ist ein möglicher Rahmen der Beobachtung und der Reflexion pädagogischer Praxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Aufgabenfelder und Zielsetzungen?",
+    "output": "Die Analyse der Aufgabenfelder und Zielsetzungen zeigt, dass Anerkennungsberatung als eine pädagogisch begründete Fachberatung definiert werden kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Anerkennungsberatung?",
+    "output": "Das Ziel der Anerkennungsberatung ist die Stärkung der individuellen Entscheidungs- und Handlungsfähigkeit und die Einwirkung auf die strukturellen Bedingungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Berater_innen?",
+    "output": "Die Aufgabe der Berater_innen ist die Bereitstellung von Informationen und Wissen und die Stärkung der individuellen Entscheidungs- und Handlungsfähigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Handlungsstrategien?",
+    "output": "Die Analyse der Handlungsstrategien zeigt, dass die Berater_innen unterschiedliche Strategien anwenden, um die widersprüchlichen Anforderungen zu bewältigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der anerkennungstheoretischen Perspektive?",
+    "output": "Die anerkennungstheoretische Perspektive ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Koordinierungsstelle?",
+    "output": "Die Koordinierungsstelle ermöglicht eine übergeordnete Interessensvertretung der Anerkennungsberatungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Voraussetzung für die Professionalisierung von Beratung?",
+    "output": "Ein gesellschaftlich anerkanntes Selbstverständnis ist die Voraussetzung für die Professionalisierung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Professionalisierung von Beratung?",
+    "output": "Professionalisierung von Beratung bedeutet die Übernahme von gesellschaftlicher Verantwortung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Handlungsstrategie der strukturellen Einflussnahme?",
+    "output": "Die Handlungsstrategie der strukturellen Einflussnahme ist ein elementarer Bestandteil pädagogischer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die Weitergabe der in der Beratung generierten Wissensbestände?",
+    "output": "Die Weitergabe der in der Beratung generierten Wissensbestände kann eine Entlastung der Berater_innen stattfinden und einer Individualisierung sozialstruktureller Rahmenbedingungen entgegengewirkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der anerkennungstheoretischen Perspektive?",
+    "output": "Die anerkennungstheoretische Perspektive ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Aufgabenfelder und Zielsetzungen?",
+    "output": "Die Analyse der Aufgabenfelder und Zielsetzungen zeigt, dass Anerkennungsberatung als eine pädagogisch begründete Fachberatung definiert werden kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Anerkennungsberatung?",
+    "output": "Das Ziel der Anerkennungsberatung ist die Stärkung der individuellen Entscheidungs- und Handlungsfähigkeit und die Einwirkung auf die strukturellen Bedingungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Berater_innen?",
+    "output": "Die Aufgabe der Berater_innen ist die Bereitstellung von Informationen und Wissen und die Stärkung der individuellen Entscheidungs- und Handlungsfähigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Handlungsstrategien?",
+    "output": "Die Analyse der Handlungsstrategien zeigt, dass die Berater_innen unterschiedliche Strategien anwenden, um die widersprüchlichen Anforderungen zu bewältigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der anerkennungstheoretischen Perspektive?",
+    "output": "Die anerkennungstheoretische Perspektive ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Koordinierungsstelle?",
+    "output": "Die Koordinierungsstelle ermöglicht eine übergeordnete Interessensvertretung der Anerkennungsberatungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Voraussetzung für die Professionalisierung von Beratung?",
+    "output": "Ein gesellschaftlich anerkanntes Selbstverständnis ist die Voraussetzung für die Professionalisierung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Professionalisierung von Beratung?",
+    "output": "Professionalisierung von Beratung bedeutet die Übernahme von gesellschaftlicher Verantwortung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Handlungsstrategie der strukturellen Einflussnahme?",
+    "output": "Die Handlungsstrategie der strukturellen Einflussnahme ist ein elementarer Bestandteil pädagogischer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die Weitergabe der in der Beratung generierten Wissensbestände?",
+    "output": "Die Weitergabe der in der Beratung generierten Wissensbestände kann eine Entlastung der Berater_innen stattfinden und einer Individualisierung sozialstruktureller Rahmenbedingungen entgegengewirkt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der anerkennungstheoretischen Perspektive?",
+    "output": "Die anerkennungstheoretische Perspektive ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Aufgabenfelder und Zielsetzungen?",
+    "output": "Die Analyse der Aufgabenfelder und Zielsetzungen zeigt, dass Anerkennungsberatung als eine pädagogisch begründete Fachberatung definiert werden kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Anerkennungsberatung?",
+    "output": "Das Ziel der Anerkennungsberatung ist die Stärkung der individuellen Entscheidungs- und Handlungsfähigkeit und die Einwirkung auf die strukturellen Bedingungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Berater_innen?",
+    "output": "Die Aufgabe der Berater_innen ist die Bereitstellung von Informationen und Wissen und die Stärkung der individuellen Entscheidungs- und Handlungsfähigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Analyse der Handlungsstrategien?",
+    "output": "Die Analyse der Handlungsstrategien zeigt, dass die Berater_innen unterschiedliche Strategien anwenden, um die widersprüchlichen Anforderungen zu bewältigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der anerkennungstheoretischen Perspektive?",
+    "output": "Die anerkennungstheoretische Perspektive ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Koordinierungsstelle?",
+    "output": "Die Koordinierungsstelle ermöglicht eine übergeordnete Interessensvertretung der Anerkennungsberatungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Voraussetzung für die Professionalisierung von Beratung?",
+    "output": "Ein gesellschaftlich anerkanntes Selbstverständnis ist die Voraussetzung für die Professionalisierung von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Professionalisierung von Beratung?",
+    "output": "Professionalisierung von Beratung bedeutet die Übernahme von gesellschaftlicher Verantwortung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Handlungsstrategie der strukturellen Einflussnahme?",
+    "output": "Die Handlungsstrategie der strukturellen Einflussnahme ist ein elementarer Bestandteil pädagogischer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die Weitergabe der in der Beratung generierten Wissensbestände?",
+    "output": "Die Weitergabe der in der Beratung generierten Wissensbestände kann eine Entlastung der Berater_innen stattfinden und einer Individualisierung sozialstruktureller Rahmenbedingungen entgegengewirkt werden."
+  }
+]

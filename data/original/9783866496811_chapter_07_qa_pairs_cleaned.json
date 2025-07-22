@@ -1,0 +1,842 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wird Beratung in der Pflege als notwendig erachtet?",
+    "output": "Aufgrund eines sich kontinuierlich verändernden Aufgabenfelds in der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde Krankheit in der Vergangenheit betrachtet?",
+    "output": "Nicht als ein rein naturgebundenes Phänomen, sondern in Verbindung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Lebenswandel und der Lebenssituation der Kranken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle hatten Heilkundige und Pflegende in der Vergangenheit?",
+    "output": "Sie nahmen Einfluss auf die Komplexität des Krankheitsgeschehens in all ihrer Vielfalt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie bestand der Einfluss von Heilkundigen und Pflegenden?",
+    "output": "Nicht nur in den grund- und behandlungspflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer führte empirische Studien zur Beratung in der Pflege durch?",
+    "output": "Knelang und Schieron."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Daten für die Studien gewonnen?",
+    "output": "Durch leitfadengestützte Experteninterviews, die mit Tonband aufgenommen und anschließend transkribiert wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Daten für die Studien ausgewertet?",
+    "output": "In Anlehnung an die qualitative Inhaltsanalyse nach Mayring."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Art von Pflegekräften wurden für die Studien befragt?",
+    "output": "Pflegekräfte mit dreijährigem Staatsexamen, die in stationären Bereichen der Krankenpflege arbeiteten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Bereiche der Krankenpflege wurden in den Studien untersucht?",
+    "output": "Die psychiatrische Krankenpflege und der somatische Bereich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welcher Bereich der Krankenpflege konzentrierte sich die Diplomarbeit von Christel Knelang?",
+    "output": "Die psychiatrische Krankenpflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war die wichtigste Frage in der Studie von Christel Knelang?",
+    "output": "Ob das Führen von Gesprächen und insbesondere die Beratung ein Aufgabenbereich der psychiatrischen Pflege sei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Ist Beratung in der psychiatrischen Personalverordnung erwähnt?",
+    "output": "Nein, Beratung findet in der Personalverordnung keine Erwähnung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele der befragten Pflegekräfte waren der Meinung, dass Beratung ein Aufgabenbereich der psychiatrischen Pflege sei?",
+    "output": "Alle Befragten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verstehen die meisten Pflegekräfte unter Beratung?",
+    "output": "Informieren, aufklären, Tipps und konkrete Hilfestellung geben oder Ratschläge erteilen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie versteht eine Befragte mit Zusatzausbildung unter Beratung?",
+    "output": "Eine Begleitung, eine Unterstützung des Patienten in seinem Vorhaben, Probleme zu erkennen und selbst zu lösen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Teil der Auswahlkriterien der Befragten in der Studie von Christel Knelang?",
+    "output": "Dass die Pflegekräfte mindestens seit zwei Jahren auf einer psychiatrischen stationären Abteilung tätig sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verstehen die meisten Pflegekräfte den Begriff 'Beratung'?",
+    "output": "Die meisten Pflegekräfte verstehen unter Beratung, zu informieren, aufzuklären, Tipps und konkrete Hilfestellung zu geben oder Ratschläge zu erteilen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie unterscheidet sich das Verständnis von Beratung bei Pflegekräften mit Zusatzausbildung?",
+    "output": "Pflegekräfte mit Zusatzausbildung verstehen unter Beratung eine Begleitung und Unterstützung des Patienten bei der Problemlösung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchen Situationen fühlen sich Pflegekräfte unsicher oder überfordert?",
+    "output": "Pflegekräfte fühlen sich unsicher oder überfordert bei Gesprächssituationen mit aggressiven oder suizidalen Patienten oder wenn immer wieder die gleichen Probleme angesprochen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Woher erhalten Pflegekräfte mit Fachweiterbildung ihre Qualifikation zur Gesprächsführung und Beratung?",
+    "output": "Pflegekräfte mit Fachweiterbildung erhalten ihre Qualifikation zur Gesprächsführung und Beratung aus ihrer Fachweiterbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sehen Pflegekräfte mit Zusatzausbildung den Weg zu Beratungskompetenzen?",
+    "output": "Pflegekräfte mit Zusatzausbildung glauben, dass Fortbildungen alleine nicht ausreichen, sondern dass Übungsmomente und praktische Erfahrungen notwendig sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wünschen sich Pflegekräfte mit Zusatzausbildung für die Entwicklung von Beratungskompetenzen?",
+    "output": "Pflegekräfte mit Zusatzausbildung wünschen sich verschiedene Übungsmomente, wie z.B. das Erlernen von Beratungstechniken anhand von Beispielen oder das Begleiten eines Profis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Pflegekräfte mit Zusatzausbildung fühlen sich ausreichend für Beratung qualifiziert?",
+    "output": "Zwei der befragten Pflegekräfte mit Zusatzausbildung fühlen sich ausreichend für Beratung qualifiziert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Hindernis für die Durchführung von Gesprächen in der Pflege?",
+    "output": "Ein Hindernis für die Durchführung von Gesprächen ist oft die fehlende Zeit und der fehlende Raum dafür."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Bereich der Pflege wurde die Studie durchgeführt?",
+    "output": "Die Studie wurde in der somatischen Krankenpflege durchgeführt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Fragen standen im Mittelpunkt der Studie?",
+    "output": "Die zentralen Fragen der Studie waren, ob Beratung als Arbeitsauftrag gesehen wird und ob sich die Pflegekräfte einer solchen Aufgabe gewachsen fühlen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Befragten für die Studie ausgewählt?",
+    "output": "Die Befragten wurden ausgewählt, weil sie keine Zusatzqualifikation hatten und ausschließlich auf allgemeinen Pflegestationen tätig waren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Voraussetzungen mussten die Befragten für die Studie erfüllen?",
+    "output": "Die Befragten mussten eine abgeschlossene dreijährige Krankenpflegeausbildung haben und im Lebensalter aktiv in der Pflege tätig sein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das zentrale Thema der Studie?",
+    "output": "Das zentrale Thema der Studie ist Beratung als Aufgabenbereich der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Altersgruppe hatten die befragten Pflegekräfte?",
+    "output": "Die befragten Pflegekräfte waren zwischen 22 und 41 Jahren alt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie lange lag die Berufserfahrung der befragten Pflegekräfte?",
+    "output": "Die Berufserfahrung lag zwischen 1½ und 17 Jahren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Aus welchen Bereichen kamen die befragten Pflegekräfte?",
+    "output": "Die Pflegekräfte kamen aus sechs verschiedenen Bereichen: Pneumologie, HNO, Allgemein-Chirurgie, Innere Station, Gynäkologie/Geburtshilfe und Neurologie."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was verstehen Pflegekräfte unter Beratung?",
+    "output": "Pflegekräfte verstehen unter Beratung das Vermitteln von Informationen, Erklären von fachspezifischen Fragen und eine in speziellen Institutionen erbrachte Dienstleistung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Beratungsformen wurden den Pflegekräften vorgestellt?",
+    "output": "Den Pflegekräften wurden drei Beratungsformen vorgestellt: Alltagsberatung/-gespräch, psychosoziale Beratung und klinische Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie ordnen Pflegekräfte den kommunikativen Aspekt ihrer Tätigkeit unter professioneller Sichtweise ein?",
+    "output": "Ein Drittel benennt ausschließlich die Alltagsberatung, ein Drittel benennt ausschließlich die psychosoziale Beratung und ein Drittel benennt die Alltags-, die psychosoziale Beratung und zum Teil auch die klinische Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum betonen die Befragten die Alltagsberatung?",
+    "output": "Die starke Betonung der Alltagsberatung lässt darauf schließen, dass die Befragten den Anfragen durch Patienten und Angehörigen keinen hohen Wert beimessen und dass sie oft den Berufsalltag nicht vom alltäglichen Privatleben trennen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Liegen Beratungsanfragen im pflegerischen Verantwortungsbereich?",
+    "output": "Die Befragten fühlen sich für alle Anfragen von Seiten der Patienten und Angehörigen verantwortlich, außer für Aufklärungsgespräche über bevorstehende Untersuchungen und die häusliche Versorgung nach dem Krankenhausaufenthalt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Kooperationspartner wenden sich an die Pflegekräfte mit spezifischen Anfragen?",
+    "output": "Nahezu alle kooperierenden Berufsgruppen eines Krankenhauses sowie Patienten und Angehörige wenden sich mit spezifischen Anfragen an die Pflegekräfte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was deutet die mangelnde Trennung zwischen Berufsalltag und Privatleben auf?",
+    "output": "Dies deutet auf mangelnde reflexive Kompetenzen um die eigene berufliche Rolle reflektieren zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer wendet sich an Pflegekräfte mit spezifischen Anfragen?",
+    "output": "Nahezu alle kooperierenden Berufsgruppen eines Krankenhauses sowie Patienten und Angehörige."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Für welche Anfragen fühlen sich Pflegekräfte verantwortlich?",
+    "output": "Alle Anfragen von Seiten der Patienten und Angehörigen, außer für Aufklärungsgespräche über bevorstehende Untersuchungen und die häusliche Versorgung nach dem Krankenhausaufenthalt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie variieren die Wahrnehmungen der Beratungsaufgaben unter Pflegekräften?",
+    "output": "Die Wahrnehmungen variieren stark von dem subjektiven Empfinden der einzelnen Pflegekraft ab, von 'gehört halt dazu' bis 'sehr wichtig' und 'entscheidend für meine Berufswahl'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Art von Beratungsanfragen aus der eigenen Berufsgruppe fallen in den Verantwortungsbereich von Pflegekräften?",
+    "output": "Arbeitsbezogener Informationsaustausch und Austausch über problematische Arbeitssituationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde die vorhandene Beratungskompetenz von Pflegekräften erworben?",
+    "output": "Die meisten Pflegekräfte benennen die Lebens- und Berufserfahrung als 'Lehrmeister', nicht die Ausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind äußere Faktoren, die Pflegekräften bei Gesprächen mit Angehörigen/Patienten Grenzen setzen?",
+    "output": "Zeitdruck und rechtliche Unsicherheiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind personeneigene Aspekte, die Pflegekräften bei Gesprächen mit Angehörigen/Patienten Grenzen setzen?",
+    "output": "Mangelnde Kenntnisse über den eigenen Umgang mit belastenden Gesprächen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum werden Beratungsanfragen von Patienten und/oder Angehörigen häufig nicht bearbeitet?",
+    "output": "Weil die Pflegekräfte diese Situationen als zu belastend empfinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beziehung zum Gesprächspartner beim Führen beruflicher Beratungsgespräche?",
+    "output": "Die Beziehung ist wichtig, da Sympathie oder Antipathie zum Ratsuchenden die Beratung beeinflusst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was passiert, wenn die Beziehung zum Ratsuchenden als 'stimmig' empfunden wird?",
+    "output": "Das erwünschte Maß an Beratung kann stattfinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was passiert, wenn die Beziehung zum Ratsuchenden nicht als 'stimmig' empfunden wird?",
+    "output": "Die Beratung fällt 'schon etwas anders aus'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie vermutet SCHIERON die Auswirkung des hohen Grads der subjektiven Bewertung von Beratung auf die Annahme von Beratungsaufträgen?",
+    "output": "SCHIERON vermutet, dass der hohe Grad der subjektiven Bewertung von Beratung auch Auswirkung auf die Annahme von Beratungsaufträgen hat, besonders bei Anfragen, die weniger Fachwissen als menschliche Zuwendung bedürfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beziehung zum Gesprächspartner beim Führen beruflicher Beratungsgespräche?",
+    "output": "Die Beziehung zum Ratsuchenden ist wichtig, da Sympathie oder Antipathie viel bedingt und das Maß an Beratung beeinflusst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie verarbeiten Pflegekräfte die Belastung?",
+    "output": "Pflegekräfte verarbeiten die Belastung durch individuelle Mechanismen wie Gespräche im privaten Umfeld, Distanzierung oder Teilzeitarbeit, sowie durch Supervision."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Hilfen wünschen sich Pflegekräfte, um mit Belastungen klar zu kommen?",
+    "output": "Pflegekräfte wünschen sich vermehrten kollegialen Austausch, Supervision und Möglichkeiten der eigenen Fort- und Weiterbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum fühlen sich Pflegende bei intensiven Beratungsgesprächen oft hilflos?",
+    "output": "Pflegende fühlen sich bei intensiven Beratungsgesprächen oft hilflos, weil sie sich unter Druck setzen, etwas bewegen zu wollen, aber nicht wissen, wie sie dies erreichen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was fehlt den befragten Pflegekräften, um Beratung professionell auszuüben?",
+    "output": "Den befragten Pflegekräften fehlt es an reflexiven Kompetenzen, um Beratung professionell auszuüben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie bewerten Pflegekräfte die Wirkung von Gesprächen mit Patienten?",
+    "output": "Pflegekräfte bewerten die Wirkung von Gesprächen mit Patienten als gering, obwohl sie für sich selbst als entlastend empfunden werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie empfinden die Befragten die Supervision?",
+    "output": "Die Befragten empfinden die Supervision als sehr entlastend."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind Pflegekräfte noch nicht in der Lage, Beratung professionell auszuüben?",
+    "output": "Es fehlt an reflexiven Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Fühlen sich Pflegekräfte mit psychiatrischer Fachweiterbildung für Beratung qualifiziert?",
+    "output": "Ja, sie fühlen sich zumindest theoretisch für Beratung qualifiziert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Beratung in der somatischen Pflege durchgeführt?",
+    "output": "Die Beratung wird als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche bedingt wird durch Sympathie und Antipathie zum Ratsuchenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum fühlen sich viele Pflegekräfte in Beratungssituationen überfordert?",
+    "output": "Überforderungsmomente stehen im Zusammenhang von Beratungsanfragen, den äußeren Umständen, wie z.B. der Zeitdruck und der eigenen emotionalen Verfassung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benennen KNELANGE und SCHIERON als wichtige Aspekte für Beratungsgespräche?",
+    "output": "Theoretisches Wissen, praktische kommunikative Kompetenzen und ein hohes Maß an professioneller Selbstreflexion."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird durch die Förderung der Persönlichkeitsentwicklung in der Krankenpflegeausbildung erreicht?",
+    "output": "Eine kritische Auseinandersetzung mit der eigenen Person und dem beruflichen Handeln kann erfolgen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Studien von KNELANGE und SCHIERON?",
+    "output": "Beratung wird bereits von Pflegekräften durchgeführt, aber es fehlt an professioneller Selbstreflexion und reflexiven Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Wissenschaften werden in der Literaturstudie von MERTIN u.a. (2005) der Pflegewissenschaft gegenübergestellt?",
+    "output": "Erziehungswissenschaft, Psychologie, Wirtschaftswissenschaft und Organisationsentwicklung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Ziele werden mit der Beratung in der Pflege formuliert?",
+    "output": "Verhaltensänderungen beim Patienten und die Darstellung von Handlungsalternativen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definiert DI PIAZZA Beratung?",
+    "output": "Als einen Versuch, Veränderungen im Fühlen, Denken und Handeln durch die Aktivierung von Lernprozessen herbeizuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Patientenedukation?",
+    "output": "Die Patientenedukation soll den Patienten ermöglichen, sich frei zu entscheiden und Veränderungen in seinem Verhalten herbeizuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definiert ABT-ZEGELIN die drei Unterbegriffe von Pflegeedukation?",
+    "output": "Information meint Mitteilung, Schulung wird verstanden als geplante und prozesshafte Veranstaltung und Beratung bezeichnet einen ergebnisoffenen gemeinsamen Problemlösungsprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definiert ABT-ZEGELIN die drei Unterbegriffe von Pflegeedukation?",
+    "output": "Information meint Mitteilung, Schulung wird verstanden als geplante und prozesshafte Veranstaltung und Beratung bezeichnet einen ergebnisoffenen gemeinsamen Problemlösungsprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Schwerpunkt von LONDONs Arbeit?",
+    "output": "Der Schwerpunkt von LONDON liegt darin, in dem engen Zeitplan von Pflegekräften eine Möglichkeit der Patientenbildung zu integrieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was macht LONDON im Kapitel 'Die Beratung individualisieren' deutlich?",
+    "output": "LONDON macht deutlich, dass der Klient die Lösung für sein Problem und auch gewisse Kompetenzen bereits als Ressource in sich trägt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Hypothese von LONDON?",
+    "output": "Die Hypothese von LONDON ist, dass die Berücksichtigung personaler Ressourcen Zeitersparnisse bewirken kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Folge der konzeptlosen Beratung in der Pflege?",
+    "output": "Durch die konzeptlose Beratung entstehen unterschiedliche Problematiken für die Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie soll die Beratung individualisiert werden?",
+    "output": "Die Beratung soll individualisiert werden, indem man sich auf den einzelnen Klienten einstellt und dessen Vorwissen und Lernbedürfnisse berücksichtigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die personalen Ressourcen des Klienten zu berücksichtigen?",
+    "output": "Es ist wichtig, die personalen Ressourcen des Klienten zu berücksichtigen, weil sie für den zu gestaltenden Lern- und Entwicklungsprozess hilfreich sein können und Zeitersparnisse bewirken können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum gibt es Probleme in der Pflege durch konzeptlose Beratung?",
+    "output": "Weil Pflege und Pflegewissenschaft in Deutschland kein konkretes Beratungskonzept zur Verfügung stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie fühlen sich Pflegekräfte in Gesprächssituationen?",
+    "output": "Fast alle befragten Pflegekräfte fühlen sich in manchen oder belastenden Gesprächssituationen unsicher, hilflos oder überfordert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was empfinden Pflegekräfte als helfend und entlastend?",
+    "output": "Das eigene Gespräch unter Kollegen oder in einer Supervision empfinden Pflegekräfte als helfend und entlastend."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was braucht es, um zwischen verschiedenen Beratungskompetenzen zu unterscheiden?",
+    "output": "Es braucht verschiedene Beratungskompetenzen, welche eine Pflegekraft erlernen kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden Begriffe wie Information, Schulung und Beratung im Arbeitsalltag der Pflege verwendet?",
+    "output": "Diese Begriffe werden synonym verwendet, aber jeder Begriff hat letztlich ein eigenes Ziel und eine eigenständige Definition."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum fällt es Pflegekräften schwer, den Begriff Beratung abzugrenzen und zu bestimmen?",
+    "output": "Weil es keine Richtlinien gibt und die synonyme Verwendung dieser Begriffe verwirrend ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird benötigt, um den gesetzlich festgelegten Beratungsauftrag anzunehmen und umzusetzen?",
+    "output": "Eine Aufklärung, ein Training und die Entwicklung eines Beratungskonzeptes werden benötigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen chronisch Erkrankte, alte Menschen und kurzzeitig hilfebedürftige Patienten?",
+    "output": "Sie benötigen nicht nur pflegerische Profession, sondern auch beratende Unterstützung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wirkt sich die Budgetierung mittels DRG's in deutschen Krankenhäusern aus?",
+    "output": "Die Budgetierung mittels DRG's führt zu einer steigenden Zahl an chronisch Erkrankten, alten Menschen und kurzzeitig hilfebedürftigen Patienten in der häuslichen und ambulanten Versorgung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum gibt es eine steigende Zahl an chronisch Erkrankten und alten Menschen in der häuslichen und ambulanten Versorgung?",
+    "output": "Auf Grund der Änderung der soziodemographischen Zusammensetzung der Gesellschaft und der Budgetierung mittels DRG’s in deutschen Krankenhäusern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Art von Unterstützung benötigen chronisch Erkrankte und ihre Angehörigen?",
+    "output": "Nicht nur pflegerische Profession, sondern auch beratende Unterstützung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sagt die Pflegewissenschaftlerin Koch-Straube über die Beratung in der Pflege?",
+    "output": "Das Rad muss nicht neu erfunden werden, jedoch sollten bestehende Konzepte nicht wahllos übernommen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Arten von Beratungskonzepten werden von Koch-Straube aufgezählt?",
+    "output": "Psychologische Beratungskonzepte, sozialwissenschaftliche Beratungskonzepte und integrative Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche zwei Konzepte schlägt die Pflegewissenschaftlerin Kordula Schneider vor?",
+    "output": "Die nicht-direktive Beratung und die lösungsorientierte Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die nicht-direktive Beratung?",
+    "output": "Eine Beratung nach C. R. Rogers, stellvertretend für handlungsleitende Prinzipien der humanistischen Psychologie."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die lösungsorientierte Beratung?",
+    "output": "Eine Beratung nach G. G. Bamberger, stellvertretend für einen systemischen Ansatz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind wichtige Aspekte der systemischen Beratung?",
+    "output": "Kontextvariablen des Problems im Blick haben, prozessorientierte systemische Diagnostik und kreative Lösungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Fähigkeiten von Pflegekräften können ihnen bei der systemischen Beratung helfen?",
+    "output": "Fähigkeiten, Sicherheit zu vermitteln, einfühlsam zu beobachten, körperliche Nähe und Unmittelbarkeit zum Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was setzt die Unterstützung von Patienten durch Pflegekräfte voraus?",
+    "output": "Eine professionelle Unterstützung in allen Pflegehandlungen und eine respektvolle und empathische Grundhaltung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielen Pflegekräfte bei der Begleitung von Patienten?",
+    "output": "Pflegekräfte begleiten Personen in der Zeit der Hilfsbedürftigkeit, Abhängigkeit oder Veränderung der Lebensumstände und Neuorientierung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt des Pflegeprozesses?",
+    "output": "Kommunikation und Beobachtung des Patienten sowie deren Angehörigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die systemische Beratung die Pflege bereichern?",
+    "output": "Indem sie eine neue Perspektive auf die Bedürfnisse und Anliegen der Patienten bietet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Analyse der Schnittstellen zwischen Pflege und Beratung?",
+    "output": "Zu erkennen, was in der Pflege bereits vorhanden ist und für systemische Beratung von Nutzen sein kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Worauf beruht die ausführliche Pflegeplanung?",
+    "output": "Die ausführliche Pflegeplanung beruht auf Kommunikation und der Beobachtung des Patienten sowie deren Angehörigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie erstreckt sich die Beobachtung in der Praxis?",
+    "output": "Die Beobachtung erstreckt sich in der Praxis über Tag und Nacht, bei jedem Kontakt mit dem Patienten, bei der Grundpflege, Behandlungspflege und in Gesprächen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst die Beobachtung in der Pflege?",
+    "output": "Die Beobachtung umfasst den Patienten in seiner Ganzheit: auf der körperlichen, psychischen und sozialen Ebene."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Ziele der Beobachtung in der Pflege?",
+    "output": "Ziele der Beobachtung sind unter anderem: Selbstpflegefähigkeit bzw. Pflegebedürftigkeit einzuschätzen, Veränderungen am Patienten festzustellen, den Patienten und den Therapieerfolg zu überwachen und Wünsche und Bedürfnisse des Patienten zu erfassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Ressourcen des Patienten bekannt und eingeschätzt werden?",
+    "output": "Die Ressourcen des Patienten können durch Kommunikation und Beobachtung bekannt und eingeschätzt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist das Kennen, Respektieren und der Umgang mit den Ressourcen wichtig?",
+    "output": "Das Kennen, Respektieren und der Umgang mit den Ressourcen ist wichtig, weil es eine der leitenden Kompetenzen von systemischer Beratung ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann Begriffsverwirrung in der Pflege vermieden werden?",
+    "output": "Begriffsverwirrung kann vermieden werden, indem in der Ausbildung ein besonderer Wert auf Unterscheidung und die Ausdifferenzierung der Begriffe gelegt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Patient Anknüpfungspunkte für Fragen oder psychosoziale Probleme finden?",
+    "output": "Der Patient kann Anknüpfungspunkte für Fragen oder psychosoziale Probleme finden, indem die Pflegekraft eine professionelle Rolle mit Offenheit vermittelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann durch ein Beratungskonzept in der Pflege erreicht werden?",
+    "output": "Durch ein Beratungskonzept können Hoffnungen und Erwartungen von Patienten in einem professionellen Gespräch Orientierung finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer definierte Pflegetheorie als Konzeptualisierung einiger Aspekte der Pflegerealität?",
+    "output": "MELEIS."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Pflegetheorien nach MELEIS?",
+    "output": "Sammelbecken, in denen Erkenntnisse von Pflegekonzepten aufbewahrt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bieten Pflegetheorien in einer Profession?",
+    "output": "Einen Orientierungsrahmen in einer Profession, die einen ganzheitlichen Ansatz hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Von welchen Wissenschaften und Theorien haben sich die Theoretikerinnen leiten lassen?",
+    "output": "Vom Humanismus, Interaktionismus, von der Existenzphilosophie, der Phänomenologie, der Hierarchie der Bedürfnisse, der Entwicklungspsychologie, sowie von der Systemtheorie."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind einige Theoretikerinnen, die sich mit der Systemtheorie zur Entwicklung der Pflegetheorie beschäftigt haben?",
+    "output": "Johnson, Levine, Rogers, Roy, Neumann und Newmann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird Kommunikation mit dem Klienten in den meisten Theorien anerkannt?",
+    "output": "Als eine unabdingbare Voraussetzung, um gute Ergebnisse zu erzielen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benennt Johnson als pflegetherapeutisches Handeln?",
+    "output": "Hemmen, einschränken, ersetzen, schützen, stützen, unterstützen, erhalten, belehren, beraten und Verhaltensmodifikation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Hat das systemische Denken bereits Einzug in Pflegetheorien erhalten?",
+    "output": "Ja, das systemische Denken hat bereits seit geraumer Zeit Einzug in Pflegetheorien erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definiert B. Johnson das pflegetherapeutische Handeln?",
+    "output": "Hemmen, einschränken, ersetzen, schützen, stützen (unterstützen/erhalten, belehren, beraten und Verhaltensmodifikation)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt das Konzept der Salutogenese in der Pflege dar?",
+    "output": "Eine große Ressource für die Beratung und Gesundheitsförderung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer entwickelte das Konzept der Salutogenese?",
+    "output": "Aaron Antonovsky."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet der Begriff Salutogenese?",
+    "output": "Lat. salus = Unverletztheit, Heil, Glück; griech. Genese = Entstehung, gibt die Antwort auf die Frage: „Was erhält Menschen gesund?“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie beschreibt Antonovsky den Gesundheitszustand eines Menschen?",
+    "output": "Ein Gesundheits–Krankheits–Kontinuum, in welchem sich der Mensch befindet, ohne jemals die beiden Pole der völligen Gesundheit bzw. völligen Krankheit erreichen zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kritisiert Antonovsky an der üblichen Trennung der Begriffe Gesundheit und Krankheit?",
+    "output": "Die Trennung in der wissenschaftlichen Medizin und dem Versicherungssystem."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was geht man heutzutage in der Pflege davon aus?",
+    "output": "Dass ein kranker Mensch nicht durch und durch krank und hilfsbedürftig ist, sondern neben kranken auch gesunde Anteile besitzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt die Pathogenese dar?",
+    "output": "Den Gegenspieler der Salutogenese, der die Entstehung und Auslöser von Krankheiten erforscht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet der Begriff Pathogenese?",
+    "output": "Griech. Pathos = Leiden, Leid; Genese = Entstehung, gibt eine Antwort auf die Frage: „Wie und warum werden Menschen krank?“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum reicht der Gesundheitsschutz durch die Medizin alleine nicht aus?",
+    "output": "Weil chronische und nicht infektiöse Erkrankungen deutlich zunehmen und/oder verstärkt ins Blickfeld geraten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die heutige Sichtweise auf Krankheit in der Pflege?",
+    "output": "Ein kranker Mensch ist nicht durch und durch krank und hilfsbedürftig, sondern besitzt neben kranken auch gesunde Anteile."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Widerstandsressourcen?",
+    "output": "Eigene Fähigkeiten, sich gegen Dinge zu wehren, die die eigene Gesundheit bedrohen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Arten von Widerstandsressourcen gibt es?",
+    "output": "Physikalisch, biochemisch, materiell, kognitiv, emotional, sozial, kulturell oder politisch."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Beispiele für Widerstandsressourcen?",
+    "output": "Die richtige Kleidung anziehen, gesunde Ernährung, Wissen über Gesundheit, Einkommen, Glück und Zufriedenheit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Stressoren?",
+    "output": "Eine von innen oder außen kommende Anforderung an den Organismus, die sein Gleichgewicht stört."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie definieren sich die Auswirkungen von Stressoren?",
+    "output": "Sie stören das Gleichgewicht des Organismus und erfordern eine nicht-automatische und nicht unmittelbar verfügbare, energieverbrauchende Handlung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Faktoren können zu einer Störung des gesundheitlichen Gleichgewichts führen?",
+    "output": "Umweltbelastungen, soziale Konflikte, psychische Krisen, Krankheitserreger."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist erforderlich, um das gesundheitliche Gleichgewicht zu erhalten?",
+    "output": "Widerstandsressourcen müssen mindestens gleichstark oder stärker als Stressoren sein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Kohärenzgefühl (SOC)?",
+    "output": "Die positive Lebenseinstellung und die Welt/ seine Umwelt als verstehbar und handhabbar."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung des Kohärenzgefühls für die Gesundheit?",
+    "output": "Es ermöglicht es, die Welt und die Umwelt als verstehbar und handhabbar zu sehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was beschreibt ANTONOVSKY als Kohärenzgefühl (SOC)?",
+    "output": "Die positive Lebenseinstellung und die Welt/ seine Umwelt als verstehbar, handhabbar und sinnhaft zu empfinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Aus welchen Dimensionen setzt sich das Kohärenzgefühl zusammen?",
+    "output": "Verstehbarkeit, Handhabbarkeit und Sinnhaftigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Verstehbarkeit im Kontext des Kohärenzgefühls?",
+    "output": "Das Gefühl, wahrgenommene Reize verarbeiten und einordnen zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Handhabbarkeit im Kontext des Kohärenzgefühls?",
+    "output": "Das Gefühl, die geeigneten Ressourcen zu Verfügung zu haben, um den Anforderungen zu begegnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Sinnhaftigkeit im Kontext des Kohärenzgefühls?",
+    "output": "Das Gefühl, das Leben als sinnvoll zu empfinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Pflegende Patienten mit ausgeprägten Widerstandsressourcen und einem guten Kohärenzgefühl unterstützen?",
+    "output": "Indem sie Widerstandsressourcen stärken und das Kohärenzgefühl erhöhen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Patientenautonomie respektiert werden?",
+    "output": "Indem dem Patienten ein Gefühl der Kontrolle über die pflegerischen Abläufe vermittelt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, soziale Unterstützung zu fördern?",
+    "output": "Um den Patienten zu unterstützen und seine Genesung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was kann ein zu großes Maß an anhaltendem oder wiederholten Stress in Kombination mit physischen Schwächen verursachen?",
+    "output": "Eine Gefährdung des Gesundheitszustandes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann verhindert werden, dass Spannungen sich in Belastungen verwandeln?",
+    "output": "Indem die Widerstandsressourcen den Stressoren überliegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind wichtige Faktoren in einer effektiven Gesundheitsförderung?",
+    "output": "Faktoren wie Stress, Widerstandskraft, familiäre, berufliche und soziale Gegebenheiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann verhindert werden, dass Spannungen sich in Belastungen verwandeln?",
+    "output": "Indem die Widerstandsressourcen den Stressoren überliegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel einer effektiven Gesundheitsförderung?",
+    "output": "Die Stärkung der Widerstandsressourcen und die Unterstützung eines positiven Kohärenzgefühls."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer gründete die ersten Universitäten der Medizin?",
+    "output": "Verschiedene Klöster."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hatte Zugang zu den Universitäten der Medizin?",
+    "output": "Das männliche Geschlecht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was verloren die Pflege und die Medizin im Laufe der Geschichte aus den Augen?",
+    "output": "Die ganzheitliche Betrachtung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird der Begriff der Ganzheitlichkeit in der Pflege derzeit diskutiert?",
+    "output": "Er wird wieder neu diskutiert und fast alle Pflegetheorien beziehen sich auf die ganzheitliche Betrachtungsweise des Menschen als Patienten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflege laut den meisten Pflegetheorien?",
+    "output": "Die ganzheitliche Betrachtung und Anwendung am Menschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer beschreibt die Schwierigkeiten, einen Menschen in seiner Ganzheitlichkeit zu betrachten?",
+    "output": "Renate Stemmer."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer beschreibt die Schwierigkeiten, einen Menschen in seiner Ganzheitlichkeit zu betrachten?",
+    "output": "Renate STEMMER."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt Renate STEMMER als Hypothese auf?",
+    "output": "Eine große Nähe zwischen der Ganzheit und den systemtheoretischen Überlegungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Forderung nach Beachtung der Ganzheitlichkeit in der Pflege problematisch?",
+    "output": "Weil sie keine Abgrenzung zulässt und die Pflege potenziell für alle Bedürfnisse zuständig macht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was liegt im Fokus von Renate STEMMERs Arbeit?",
+    "output": "Die psychosozialen Aspekte, die aus ihrer Sicht eine stärkere Berücksichtigung finden müssen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer veröffentlichte etwa drei Jahre nach Renate STEMMERs Artikel eine Antwort?",
+    "output": "Ursula KOCH-STRAUBE."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was beschreibt Ursula KOCH-STRAUBE in ihrem Artikel?",
+    "output": "Die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was fordert Ursula KOCH-STRAUBE von der Pflege?",
+    "output": "Dass sie den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und Beratung als ein unabdingbares Element des Pflegehandelns integriert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine zentrale Dimension im Beratungshandeln?",
+    "output": "Ganzheitlichkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollten Menschen in der Pflege und Beratung betrachtet werden?",
+    "output": "Nicht nur als defekt oder begrenzt, sondern vorübergehend eingeschränkt in einer der vielen Dimensionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die gemeinsame Eigenschaft von Pflege und Beratung?",
+    "output": "Die Betrachtung von Menschen als vorübergehend eingeschränkt in einer der vielen Dimensionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist noch nicht weit fortgeschritten in der Theoriebildung von Beratung in der Pflege?",
+    "output": "Die Einbeziehung der gemeinsamen Schnittstellen von Pflege und Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Sinn der Darlegungen aus der Pflege?",
+    "output": "Theoriegeleitet in ein neues Praxishandeln wechseln zu können."
+  }
+]

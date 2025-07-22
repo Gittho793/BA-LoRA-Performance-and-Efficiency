@@ -1,0 +1,767 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Methodologische Einordnung' translate to in English?",
+    "output": "Methodological orientation"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is 'methodisches Vorgehen' in English?",
+    "output": "Methodical approach or methodical procedure"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is typically discussed in a section titled 'Methodologische Einordnung und methodisches Vorgehen'?",
+    "output": "The methodology and methods used in the research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is methodological orientation important in research?",
+    "output": "It provides a framework for the research and helps in choosing appropriate methods."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does a methodical approach in research entail?",
+    "output": "A systematic and structured way of conducting the research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section 'Methodologische Einordnung und methodisches Vorgehen' crucial for the validity of research findings?",
+    "output": "Yes, because it outlines how the research was conducted."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What might be included in the discussion of methodological orientation?",
+    "output": "Theoretical frameworks, research paradigms, and philosophical underpinnings."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is transparency in methodical approach important?",
+    "output": "So that the research can be replicated and verified."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the outcomes of the research?",
+    "output": "Yes, the choice of methods can significantly impact the findings."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does methodological orientation play in ensuring research quality?",
+    "output": "It helps in establishing the credibility and reliability of the research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the overall research design?",
+    "output": "It outlines the steps and procedures for data collection and analysis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Methodologische Einordnung und methodisches Vorgehen' a common section in academic research papers?",
+    "output": "Yes, especially in fields like social sciences and humanities."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of detailing the methodical approach in research?",
+    "output": "To allow for critique, replication, and further research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section be considered a critical component of a research thesis?",
+    "output": "Yes, as it justifies the methods chosen for the study."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does understanding methodological orientation help in evaluating research?",
+    "output": "It provides insight into the research's strengths and limitations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What might be some challenges in selecting a methodical approach for research?",
+    "output": "Balancing between qualitative and quantitative methods, or choosing appropriate data analysis techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is consistency important in the methodical approach?",
+    "output": "To ensure reliability and validity of the research findings."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can software tools aid in the methodical approach of research?",
+    "output": "Yes, for data collection, analysis, and presentation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the interpretation of research results?",
+    "output": "It influences how the findings are understood and applied."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some common mistakes in the methodical approach that can lead to flawed research?",
+    "output": "Biases in sampling, inappropriate use of statistical methods, and poor data quality control."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is it essential to document the methodical approach thoroughly?",
+    "output": "For transparency, reproducibility, and facilitating peer review."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation and approach change during the research process?",
+    "output": "Yes, based on preliminary findings or unforeseen challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach relate to the research questions or hypotheses?",
+    "output": "It is designed to address and test them effectively."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does ethical consideration play in the methodical approach?",
+    "output": "It ensures that the research is conducted with respect for participants and minimal harm."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation influence the selection of research participants?",
+    "output": "Yes, by determining the criteria for inclusion or exclusion."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is flexibility important in the methodical approach?",
+    "output": "To adapt to unexpected issues or new information that arises during the research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach impact the timeline of the research project?",
+    "output": "It can affect the duration by influencing the speed of data collection and analysis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some benefits of a well-planned methodical approach?",
+    "output": "Efficiency, cost-effectiveness, and higher quality research outcomes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation be influenced by the research budget?",
+    "output": "Yes, as certain methods may be more costly than others."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the research's generalizability?",
+    "output": "By ensuring that the sample and methods are representative and applicable to other contexts."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relationship between the methodical approach and the research's validity?",
+    "output": "A well-designed methodical approach enhances the research's internal and external validity."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section of a research paper serve as a guide for future studies?",
+    "output": "Yes, by providing a model or framework for similar research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is it important to critically evaluate the methodical approach of published research?",
+    "output": "To assess the reliability and applicability of the findings."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does understanding the methodological orientation help in applying research findings to practice?",
+    "output": "It provides insight into the limitations and potential biases of the research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can interdisciplinary research benefit from a clear methodological orientation?",
+    "output": "Yes, by integrating diverse methods and perspectives effectively."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does collaboration play in the methodical approach of research?",
+    "output": "It can enhance the quality and validity of the research by combining expertise."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach impact the dissemination of research findings?",
+    "output": "It influences how the results are communicated and to whom."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation influence the policy implications of research?",
+    "output": "Yes, by shaping how the findings are interpreted and applied to policy decisions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is it essential to consider the methodical approach when evaluating the impact of research?",
+    "output": "To understand how the methods used might have influenced the outcomes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation contribute to the development of research questions?",
+    "output": "By guiding the formulation of questions that can be effectively addressed through research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach be a factor in determining the research's potential for innovation?",
+    "output": "Yes, by facilitating the discovery of new knowledge or applications."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the methodological orientation in interdisciplinary collaboration?",
+    "output": "It facilitates a common understanding and approach among researchers from different disciplines."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach impact the research's relevance to societal needs?",
+    "output": "By ensuring that the research addresses significant problems or questions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section serve as a teaching tool for research methods?",
+    "output": "Yes, by providing examples and discussions of methodological choices."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is it important for researchers to be transparent about their methodical approach?",
+    "output": "To maintain the integrity of the research and facilitate scrutiny."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation influence the selection of data analysis techniques?",
+    "output": "By determining the appropriate statistical or qualitative methods to use."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodical approach play in ensuring the research's objectivity?",
+    "output": "It helps in minimizing biases and ensuring that the methods are systematic and unbiased."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation impact the research's potential for publication?",
+    "output": "Yes, as journals often evaluate the soundness of the methodical approach."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the research's contribution to the field?",
+    "output": "By advancing knowledge, challenging existing theories, or providing new insights."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some common ethical considerations in the methodical approach of research?",
+    "output": "Informed consent, privacy, and avoiding harm to participants."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation influence the researcher's relationship with participants?",
+    "output": "Yes, by determining the level of interaction and the nature of the participant-researcher dynamic."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach impact the management of research data?",
+    "output": "By influencing how data is collected, stored, and shared."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in research funding decisions?",
+    "output": "It can influence whether a project is deemed worthy of funding."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach be a criterion for evaluating research proposals?",
+    "output": "Yes, as it indicates the feasibility and potential impact of the proposed research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation contribute to the research's compliance with regulatory requirements?",
+    "output": "By ensuring that the research adheres to legal and ethical standards."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section of a research paper be useful for educators?",
+    "output": "Yes, as a resource for teaching research methods and critical thinking."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach impact the assessment of research quality?",
+    "output": "By providing a basis for evaluating the research's rigor and validity."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in facilitating research collaboration across institutions?",
+    "output": "It helps in establishing a common framework and language for the collaboration."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the career development of researchers?",
+    "output": "Yes, by contributing to their expertise and reputation in their field."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the development of research policies?",
+    "output": "By informing guidelines and standards for conducting research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some benefits of reflecting on the methodical approach after completing a research project?",
+    "output": "Identifying lessons learned, areas for improvement, and best practices."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation be a factor in the commercialization of research findings?",
+    "output": "Yes, by influencing how the research is translated into practical applications."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the public engagement with research?",
+    "output": "By making the research accessible and understandable to a broader audience."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in the digital transformation of research?",
+    "output": "It involves adapting methods to leverage digital tools and data."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach be influenced by emerging technologies?",
+    "output": "Yes, as new technologies can enable new methods and approaches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the research's alignment with societal values?",
+    "output": "By ensuring that the research is conducted in a way that respects and reflects these values."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some challenges in integrating innovative methods into the methodical approach?",
+    "output": "Ensuring validity, reliability, and ethical considerations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section of a research paper serve as a blueprint for conducting similar research?",
+    "output": "Yes, by providing a detailed description of the methods used."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the development of new research methods?",
+    "output": "By experimenting with and evaluating innovative approaches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in the peer review process?",
+    "output": "It is a critical aspect evaluated by reviewers to assess the research's quality."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the research's impact on policy and practice?",
+    "output": "Yes, by informing decisions and interventions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the research's contribution to theoretical knowledge?",
+    "output": "By testing, refining, or challenging existing theories."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some benefits of using mixed methods in the methodical approach?",
+    "output": "Combining the strengths of qualitative and quantitative methods to provide a more comprehensive understanding."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation be a factor in the research's potential for interdisciplinary collaboration?",
+    "output": "Yes, by facilitating the integration of methods and perspectives from different fields."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the research's relevance to contemporary issues?",
+    "output": "By addressing timely and significant problems or questions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in ensuring the research's cultural sensitivity?",
+    "output": "It involves considering the cultural context and potential biases in the methods used."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the research's potential for community engagement?",
+    "output": "Yes, by determining how the research interacts with and involves the community."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the research's ability to inform intervention strategies?",
+    "output": "By providing insights into the causes of problems and the effectiveness of solutions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some challenges in applying the methodical approach in real-world settings?",
+    "output": "Dealing with complexity, uncertainty, and the need for practical solutions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section of a research paper serve as a resource for policymakers?",
+    "output": "Yes, by providing evidence and insights to inform policy decisions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the research's potential for knowledge translation?",
+    "output": "By facilitating the application of research findings to practical problems."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in the research's compliance with ethical standards?",
+    "output": "It ensures that the research is conducted in an ethical and responsible manner."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the research's potential for commercial applications?",
+    "output": "Yes, by identifying opportunities for innovation and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the research's contribution to public discourse?",
+    "output": "By providing evidence and insights that can inform public debate and decision-making."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some benefits of using participatory methods in the methodical approach?",
+    "output": "Empowering participants, increasing relevance, and enhancing validity."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation be a factor in the research's potential for international collaboration?",
+    "output": "Yes, by facilitating the integration of methods and perspectives from different countries and cultures."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the research's ability to address global challenges?",
+    "output": "By providing insights and solutions that can be applied across different contexts."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in ensuring the research's sustainability?",
+    "output": "It involves considering the long-term impact and potential of the research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the research's potential for innovation and entrepreneurship?",
+    "output": "Yes, by identifying opportunities for new products, services, or processes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the research's contribution to social change?",
+    "output": "By providing evidence and insights that can inform strategies for social impact."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some challenges in evaluating the impact of the methodical approach on research outcomes?",
+    "output": "Attributing outcomes to specific methods, and dealing with complexity and variability."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodological orientation section of a research paper serve as a model for future research in the field?",
+    "output": "Yes, by providing a framework and guidelines for conducting similar research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodical approach contribute to the research's potential for intersectoral collaboration?",
+    "output": "By facilitating the integration of methods and perspectives from different sectors."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the methodological orientation play in ensuring the research's accountability?",
+    "output": "It involves being transparent about methods and taking responsibility for the research's impact."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the methodical approach influence the research's potential for contributing to the development of new technologies?",
+    "output": "Yes, by identifying opportunities for innovation and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the methodological orientation impact the research's ability to inform decision-making?",
+    "output": "By providing evidence and insights that can inform choices and policies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die methodologische Einordnung der Studie?",
+    "output": "Die Studie ist im Kontext einer qualitativ-interpretativen Forschungstradition angesiedelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Methode wurde für die Datenerhebung verwendet?",
+    "output": "Die Datenerhebung erfolgte durch Expert_inneninterviews."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Expert_inneninterviews wurden durchgeführt?",
+    "output": "Insgesamt wurden 12 Expert_inneninterviews durchgeführt, 7 in Österreich und 5 in Deutschland."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Interviewpartner_innen ausgewählt?",
+    "output": "Die Interviewpartner_innen wurden aufgrund ihrer beruflichen Rolle als Berater_innen und Koordinator_innen in der Anerkennungsberatung ausgewählt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Studie?",
+    "output": "Das Ziel der Studie ist die Anreicherung und Erweiterung des theoretischen Rahmenmodells durch die empirisch gewonnenen Erkenntnisse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Daten analysiert?",
+    "output": "Die Daten wurden durch eine qualitative Inhaltsanalyse und interpretative Verfahren analysiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Software wurde für die Datenanalyse verwendet?",
+    "output": "Die Software MAXQDA wurde für die Datenanalyse verwendet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Kategorien für die Analyse gebildet?",
+    "output": "Die Kategorien wurden durch eine Kombination von deduktiver und offener Kodierung gebildet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Dimensionen für die Analyse gebildet?",
+    "output": "Die Dimensionen wurden durch die Zusammenstellung thematisch vergleichbarer Textpassagen der unterschiedlichen Transkripte gebildet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Handlungsmuster in der Anerkennungsberatung rekonstruiert?",
+    "output": "Die Handlungsmuster wurden durch die Analyse der inhaltlichen Sinnzusammenhänge zwischen den gebildeten Dimensionen rekonstruiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie präsentiert?",
+    "output": "Die Ergebnisse der Studie wurden durch Zitate aus den Expert_inneninterviews und eine systematische Darstellung der Ergebnisse präsentiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Interviewpartner_innen anonymisiert?",
+    "output": "Die Interviewpartner_innen wurden durch die Verwendung von Pseudonymen und die Entfernung von persönlichen Daten anonymisiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Zitate aus den Expert_inneninterviews verwendet?",
+    "output": "Die Zitate aus den Expert_inneninterviews wurden verwendet, um die Ergebnisse der Studie zu illustrieren und die Interpretationen zu untermauern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Daten transkribiert?",
+    "output": "Die Daten wurden vollständig transkribiert, um eine genaue Analyse der Interviews zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Expert_inneninterviews durchgeführt?",
+    "output": "Die Expert_inneninterviews wurden als Einzelgespräche durchgeführt, mit einer Dauer von etwa 45 Minuten bis 1,5 Stunden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Interviewleitfäden entwickelt?",
+    "output": "Die Interviewleitfäden wurden auf der Grundlage von theoretischen Vorannahmen und praxisnahen Fragen entwickelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Beobachtungsprotokolle verwendet?",
+    "output": "Die Beobachtungsprotokolle wurden verwendet, um die institutionellen Rahmbedingungen und die räumliche Ausstattung der Beratungsstellen zu dokumentieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Dokumente analysiert?",
+    "output": "Die Dokumente wurden analysiert, um die Informationen über die Beratungsstellen und ihre Angebote zu ergänzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie interpretiert?",
+    "output": "Die Ergebnisse der Studie wurden interpretiert, um die Handlungsmuster in der Anerkennungsberatung zu rekonstruieren und die theoretischen Konzepte zu überprüfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie validiert?",
+    "output": "Die Ergebnisse der Studie wurden validiert, indem die Interviewpartner_innen die Ergebnisse überprüften und korrigierten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie generalisiert?",
+    "output": "Die Ergebnisse der Studie wurden generalisiert, indem die Ergebnisse auf andere Kontexte und Beratungsstellen übertragen wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Praxis?",
+    "output": "Die Studie hat eine Bedeutung für die Praxis, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie kommuniziert?",
+    "output": "Die Ergebnisse der Studie wurden kommuniziert, indem sie in einer Studie veröffentlicht und an die relevanten Stakeholder weitergegeben wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Limitation der Studie?",
+    "output": "Die Limitation der Studie liegt in der begrenzten Anzahl von Interviewpartner_innen und der Fokussierung auf bestimmte Beratungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die ethischen Aspekte der Studie berücksichtigt?",
+    "output": "Die ethischen Aspekte der Studie wurden berücksichtigt, indem die Interviewpartner_innen informiert wurden und ihre Einwilligung für die Teilnahme an der Studie gaben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Daten geschützt?",
+    "output": "Die Daten wurden geschützt, indem sie anonymisiert und sicher gespeichert wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie überprüft?",
+    "output": "Die Ergebnisse der Studie wurden überprüft, indem sie von den Interviewpartner_innen und anderen Expert_innen überprüft wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunftsperspektive der Studie?",
+    "output": "Die Zukunftsperspektive der Studie liegt in der Weiterentwicklung der Ergebnisse und der Übertragung auf andere Kontexte und Beratungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie verbreitet?",
+    "output": "Die Ergebnisse der Studie wurden verbreitet, indem sie in einer Studie veröffentlicht und an die relevanten Stakeholder weitergegeben wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Theorie?",
+    "output": "Die Studie hat eine Bedeutung für die Theorie, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und die theoretischen Konzepte überprüft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie in die Praxis umgesetzt?",
+    "output": "Die Ergebnisse der Studie wurden in die Praxis umgesetzt, indem sie als Empfehlungen für die Verbesserung der Beratungspraxis verwendet wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forscherin in der Studie?",
+    "output": "Die Rolle der Forscherin in der Studie ist die Durchführung der Interviews, die Analyse der Daten und die Interpretation der Ergebnisse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie reflektiert?",
+    "output": "Die Ergebnisse der Studie wurden reflektiert, indem sie auf ihre Bedeutung für die Praxis und die Theorie hin überprüft wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Gesellschaft?",
+    "output": "Die Studie hat eine Bedeutung für die Gesellschaft, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Ergebnisse der Studie auf andere Kontexte übertragen?",
+    "output": "Die Ergebnisse der Studie wurden auf andere Kontexte übertragen, indem sie als Empfehlungen für die Verbesserung der Beratungspraxis in anderen Beratungsstellen verwendet wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Beratungspraxis zu verbessern und die Handlungsmuster in der Anerkennungsberatung zu rekonstruieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Politik?",
+    "output": "Die Studie hat eine Bedeutung für die Politik, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie in die Politik umgesetzt werden?",
+    "output": "Die Ergebnisse der Studie können in die Politik umgesetzt werden, indem sie als Empfehlungen für die Verbesserung der Beratungspraxis verwendet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Politik in der Anerkennungsberatung?",
+    "output": "Die Rolle der Politik in der Anerkennungsberatung ist die Schaffung von Rahmenbedingungen für die Beratungspraxis und die Förderung der Weiterentwicklung der Beratungspraxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Gesellschaft zu verbessern?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Gesellschaft zu verbessern, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Wissenschaft?",
+    "output": "Die Studie hat eine Bedeutung für die Wissenschaft, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und die theoretischen Konzepte überprüft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie in die Wissenschaft umgesetzt werden?",
+    "output": "Die Ergebnisse der Studie können in die Wissenschaft umgesetzt werden, indem sie als Empfehlungen für die Verbesserung der Beratungspraxis verwendet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Wissenschaft in der Anerkennungsberatung?",
+    "output": "Die Rolle der Wissenschaft in der Anerkennungsberatung ist die Weiterentwicklung der theoretischen Konzepte und die Überprüfung der Handlungsmuster in der Anerkennungsberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Praxis zu verbessern?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Praxis zu verbessern, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Beratungspraxis?",
+    "output": "Die Studie hat eine Bedeutung für die Beratungspraxis, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie in die Beratungspraxis umgesetzt werden?",
+    "output": "Die Ergebnisse der Studie können in die Beratungspraxis umgesetzt werden, indem sie als Empfehlungen für die Verbesserung der Beratungspraxis verwendet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratungspraxis in der Anerkennungsberatung?",
+    "output": "Die Rolle der Beratungspraxis in der Anerkennungsberatung ist die Umsetzung der Handlungsmuster in der Anerkennungsberatung und die Förderung der Weiterentwicklung der Beratungspraxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Anerkennungsberatung zu verbessern?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Anerkennungsberatung zu verbessern, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Zukunft der Anerkennungsberatung?",
+    "output": "Die Studie hat eine Bedeutung für die Zukunft der Anerkennungsberatung, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Zukunft der Anerkennungsberatung zu gestalten?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Zukunft der Anerkennungsberatung zu gestalten, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung in der Anerkennungsberatung?",
+    "output": "Die Rolle der Forschung in der Anerkennungsberatung ist die Weiterentwicklung der theoretischen Konzepte und die Überprüfung der Handlungsmuster in der Anerkennungsberatung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Forschung in der Anerkennungsberatung zu fördern?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Forschung in der Anerkennungsberatung zu fördern, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Entwicklung der Anerkennungsberatung?",
+    "output": "Die Studie hat eine Bedeutung für die Entwicklung der Anerkennungsberatung, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Entwicklung der Anerkennungsberatung zu fördern?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Entwicklung der Anerkennungsberatung zu fördern, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Anerkennungsberatung in der Gesellschaft?",
+    "output": "Die Rolle der Anerkennungsberatung in der Gesellschaft ist die Förderung der Integration und die Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ergebnisse der Studie verwendet werden, um die Anerkennungsberatung in der Gesellschaft zu stärken?",
+    "output": "Die Ergebnisse der Studie können verwendet werden, um die Anerkennungsberatung in der Gesellschaft zu stärken, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruieren und Empfehlungen für die Verbesserung der Beratungspraxis geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie für die Politik und die Gesellschaft?",
+    "output": "Die Studie hat eine Bedeutung für die Politik und die Gesellschaft, indem sie die Handlungsmuster in der Anerkennungsberatung rekonstruiert und Empfehlungen für die Verbesserung der Beratungspraxis gibt."
+  }
+]

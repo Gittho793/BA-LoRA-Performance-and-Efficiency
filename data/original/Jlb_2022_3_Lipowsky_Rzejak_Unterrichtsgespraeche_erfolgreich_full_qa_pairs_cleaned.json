@@ -1,0 +1,467 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren des Artikels über Gesprächsführung im Unterricht?",
+    "output": "Frank Lipowsky und Daniela Rzejak."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Ansätze zur Gestaltung anregender Unterrichtsgespräche?",
+    "output": "Das Ziel ist, dass sich Lernende mit ausführlichen, inhaltlich gehaltvollen und begründeten Beiträgen am Unterrichtsgespräch beteiligen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollen Lernende auf die Beiträge ihrer Mitschüler*innen reagieren?",
+    "output": "Sie sollen diese kritisch hinterfragen und weiterentwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Verhaltensweisen und Gesprächsstrategien der Lehrperson fördern ein solches Diskursverhalten der Schüler*innen?",
+    "output": "Die Lehrperson soll die Lernenden mit anregenden Fragen und Impulsen kognitiv herausfordern und sich mit unmittelbarem Feedback an die Lernenden zurückhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist elementar für die Lehrperson, um die Lernenden zu fördern?",
+    "output": "Die Lehrperson soll die Lernenden dazu anregen, selbst auf die Beiträge ihrer Mitschüler*innen zu reagieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum täuscht der Eindruck, dass sich Lehrkräfte die geschilderten Praktiken leicht aneignen können?",
+    "output": "Weil nicht alle aufwändig geplanten Fortbildungen zur Weiterentwicklung der Gesprächsgestaltung mit positiven Wirkungen einhergehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Lerngewinne und Kompetenzzuwächse der fortgebildeten Lehrkräfte?",
+    "output": "Sie beziehen sich auf einzelne Facetten ihres Gesprächsverhaltens, z.B. auf das Stellen von Fragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Gibt es Effekte der Fortbildung auf das Gesprächsverhalten der fortgebildeten Lehrkräfte?",
+    "output": "Ja, in einigen Studien sind solche Effekte feststellbar."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt dialogischer Unterricht an die Lehrkraft?",
+    "output": "Erhebliche Anforderungen an die Aufmerksamkeit und Präsenz der Lehrkraft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie soll die Lehrperson agieren, um dialogischen Unterricht zu fördern?",
+    "output": "Respektvoll und wertschätzend, und die Schülerbeiträge in das Gespräch integrieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was muss die Lehrperson einschätzen, um dialogischen Unterricht zu fördern?",
+    "output": "Den fachlichen Gehalt der Schülerbeiträge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Forscher, die Studien über die Effekte von Fortbildungen auf das Gesprächsverhalten von Lehrkräften durchgeführt haben?",
+    "output": "Hennessy, Davies, Osborne, Simon, Christodoulou, Howell-Richardson, Richardson, Ruthven, Mercer, Taber, Guardia und Hofmann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Studien von Hennessy und Davies?",
+    "output": "Die Lerngewinne und Kompetenzzuwächse der fortgebildeten Lehrkräfte beziehen sich auf einzelne Facetten ihres Gesprächsverhaltens, z.B. auf das Stellen von Fragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollen Lehrkräfte die Schülerbeiträge in das Gespräch integrieren?",
+    "output": "Indem sie die Schülerbeiträge respektvoll und wertschätzend behandeln und in das Gespräch einbeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von dialogischem Unterricht?",
+    "output": "Dialogischer Unterricht fördert die aktive Teilnahme der Schüler*innen am Unterrichtsgespräch und die Entwicklung ihrer kommunikativen Fähigkeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu aktiver Teilnahme am Unterrichtsgespräch ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert und sich mit unmittelbarem Feedback an die Lernenden zurückhält."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrkraft im dialogischen Unterricht?",
+    "output": "Die Lehrkraft soll die Schüler*innen zu aktiver Teilnahme am Unterrichtsgespräch ermutigen, die Schülerbeiträge respektvoll und wertschätzend behandeln und in das Gespräch einbeziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu kritischer Hinterfragung und Weiterentwicklung der Beiträge ihrer Mitschüler*innen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert und sich mit unmittelbarem Feedback an die Lernenden zurückhält."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Fortbildungen für die Lehrkräfte?",
+    "output": "Fortbildungen können die Lehrkräfte bei der Entwicklung ihrer Gesprächsführungsfähigkeiten unterstützen und ihnen helfen, dialogischen Unterricht zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Fortbildungen die Gesprächsführungsfähigkeiten der Lehrkräfte verbessern?",
+    "output": "Indem sie die Lehrkräfte mit Strategien und Methoden zur Förderung von dialogischem Unterricht vertraut machen und ihnen helfen, ihre Gesprächsführungsfähigkeiten zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beobachtungs- und Reflexionsbögen für die Analyse des Gesprächsverhaltens von Lehrkräften und Lernenden?",
+    "output": "Beobachtungs- und Reflexionsbögen können helfen, das Gesprächsverhalten von Lehrkräften und Lernenden zu analysieren und zu bewerten, um Verbesserungsmöglichkeiten zu identifizieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Beobachtungs- und Reflexionsbögen die Lehrkräfte bei der Entwicklung ihrer Gesprächsführungsfähigkeiten unterstützen?",
+    "output": "Indem sie die Lehrkräfte helfen, ihre Gesprächsführungsfähigkeiten zu reflektieren und zu bewerten, und ihnen Verbesserungsmöglichkeiten aufzeigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von dialogischem Unterricht für die Schüler*innen?",
+    "output": "Dialogischer Unterricht kann die Schüler*innen zu aktiver Teilnahme am Unterrichtsgespräch ermutigen, ihre kommunikativen Fähigkeiten entwickeln und ihre Lernmotivation steigern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann dialogischer Unterricht die Lernmotivation der Schüler*innen steigern?",
+    "output": "Indem er die Schüler*innen zu aktiver Teilnahme am Unterrichtsgespräch ermutigt, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von respektvoller und wertschätzender Behandlung der Schülerbeiträge?",
+    "output": "Respektvolle und wertschätzende Behandlung der Schülerbeiträge kann die Schüler*innen zu aktiver Teilnahme am Unterrichtsgespräch ermutigen und ihre Lernmotivation steigern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu selbstständigem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von selbstständigem Lernen für die Schüler*innen?",
+    "output": "Selbstständiges Lernen kann die Schüler*innen zu eigenverantwortlichem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu eigenverantwortlichem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von eigenverantwortlichem Lernen für die Schüler*innen?",
+    "output": "Eigenverantwortliches Lernen kann die Schüler*innen zu selbstständigem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu kooperativem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kooperativem Lernen für die Schüler*innen?",
+    "output": "Kooperatives Lernen kann die Schüler*innen zu gemeinsamem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu gemeinsamem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von gemeinsamem Lernen für die Schüler*innen?",
+    "output": "Gemeinsames Lernen kann die Schüler*innen zu kooperativem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu kreativem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kreativem Lernen für die Schüler*innen?",
+    "output": "Kreatives Lernen kann die Schüler*innen zu innovativem Denken ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu innovativem Denken ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von innovativem Denken für die Schüler*innen?",
+    "output": "Innovatives Denken kann die Schüler*innen zu kreativem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu problemlösendem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von problemlösendem Lernen für die Schüler*innen?",
+    "output": "Problemlösendes Lernen kann die Schüler*innen zu kritischen Denken ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu kritischen Denken ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kritischen Denken für die Schüler*innen?",
+    "output": "Kritisches Denken kann die Schüler*innen zu problemlösendem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu reflexivem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von reflexivem Lernen für die Schüler*innen?",
+    "output": "Reflexives Lernen kann die Schüler*innen zu selbstständigem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu selbstreflexivem Lernen ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von selbstreflexivem Lernen für die Schüler*innen?",
+    "output": "Selbstreflexives Lernen kann die Schüler*innen zu eigenverantwortlichem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu kooperativer Arbeit ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kooperativer Arbeit für die Schüler*innen?",
+    "output": "Kooperative Arbeit kann die Schüler*innen zu gemeinsamem Lernen ermutigen, ihre Lernmotivation steigern und ihre kommunikativen Fähigkeiten entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrkraft die Schüler*innen zu konstruktiver Kritik ermutigen?",
+    "output": "Indem sie die Schüler*innen mit anregenden Fragen und Impulsen kognitiv herausfordert, ihre Meinungen und Ideen hört und ihre Beiträge wertschätzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrperson im Unterricht?",
+    "output": "Die Lehrperson ist gefordert, respektvoll und wertschätzend zu agieren und die Schülerbeiträge in das Gespräch zu integrieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was muss die Lehrperson beim Gespräch mit Schülern beachten?",
+    "output": "Die Lehrperson muss den fachlichen Gehalt der Schülerbeiträge einschätzen und relevante Teile der Beiträge aufgreifen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Funktion hat die Tabelle 1?",
+    "output": "Die Tabelle 1 dient als Beobachtungs- und Reflexionsbogen zur Analyse des Gesprächsverhaltens von Lehrkräften und Lernenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollte die Lehrperson tun, um die Lernenden zur Partizipation am Unterricht anzuregen?",
+    "output": "Die Lehrperson sollte variantenreiche Fragen und Impulse nutzen, die zur Partizipation am Unterricht anregen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie lange sollte die Lehrperson warten, bevor sie nach einer komplexen Frage antwortet?",
+    "output": "Die Lehrperson sollte ausreichend Wartezeiten lassen, insbesondere nach komplexeren Fragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollte die Lehrperson die Lernenden auffordern, ihre Meinungen und Positionen zu begründen?",
+    "output": "Ja, die Lehrperson sollte die Lernenden auffordern, ihre Meinungen und Positionen zu begründen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollte die Lehrperson die Lernenden ermutigen, aufeinander Bezug zu nehmen?",
+    "output": "Die Lehrperson sollte die Lernenden anregen, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollte die Lehrperson tun, wenn sie einen Beitrag eines Lernenden aufgreift?",
+    "output": "Die Lehrperson sollte den Beitrag aufgreifen, ohne in ein Lehrerecho zu verfallen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollte die Lehrperson sofortiges Feedback geben?",
+    "output": "Nein, die Lehrperson sollte verzichten auf sofortiges Feedback und den Ball an die Lernenden weitergeben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollte die Lehrperson unterschiedliche Meinungen und Positionen der Lernenden darstellen?",
+    "output": "Die Lehrperson sollte unterschiedliche Meinungen und Positionen der Lernenden gegenüberstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollte die Lehrperson die Lernenden ermutigen, zu den Beiträgen ihrer Mitlernenden Stellung zu nehmen?",
+    "output": "Ja, die Lehrperson sollte die Lernenden ermutigen, zu den Beiträgen ihrer Mitlernenden Stellung zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Arbeitsschwerpunkte von Frank Lipowsky?",
+    "output": "Die Arbeitsschwerpunkte von Frank Lipowsky sind Unterrichtsqualität und Unterrichtsentwicklung sowie Professionalisierung von Lehrpersonen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Arbeitsschwerpunkte von Daniela Rzejak?",
+    "output": "Die Arbeitsschwerpunkte von Daniela Rzejak sind Professionalisierung von Lehrpersonen sowie Schul- und Unterrichtsentwicklung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der dialogischen Lehre?",
+    "output": "Das Ziel der dialogischen Lehre ist es, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen und ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur aktiven Teilnahme am Unterricht anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur aktiven Teilnahme am Unterricht anregen, indem sie offene Fragen stellt, die Lernenden auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der dialogischen Lehre?",
+    "output": "Die Vorteile der dialogischen Lehre sind, dass die Lernenden ihre Fähigkeiten zur Argumentation und Diskussion entwickeln, dass die Lernenden zur aktiven Teilnahme am Unterricht angeregt werden und dass die Lehrperson die Lernenden besser verstehen kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Reflexion anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Reflexion anregen, indem sie sie auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Wartezeit im Unterricht?",
+    "output": "Die Wartezeit ist wichtig, um den Lernenden die Möglichkeit zu geben, ihre Gedanken zu ordnen und ihre Antworten zu formulieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Kooperation anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Kooperation anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, gemeinsam an Aufgaben zu arbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Anforderungen an die Lehrperson im Unterricht?",
+    "output": "Die Lehrperson muss respektvoll und wertschätzend agieren, die Schülerbeiträge in das Gespräch integrieren, den fachlichen Gehalt der Schülerbeiträge einschätzen und relevante Teile der Beiträge aufgreifen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Selbstreflexion anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Selbstreflexion anregen, indem sie sie auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Feedback-Kultur im Unterricht?",
+    "output": "Die Feedback-Kultur ist wichtig, um den Lernenden die Möglichkeit zu geben, ihre Stärken und Schwächen zu erkennen und ihre Leistungen zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur konstruktiven Kritik anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur konstruktiven Kritik anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, ihre Meinungen und Positionen zu begründen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für eine erfolgreiche dialogische Lehre?",
+    "output": "Die Voraussetzungen für eine erfolgreiche dialogische Lehre sind, dass die Lehrperson respektvoll und wertschätzend agiert, die Schülerbeiträge in das Gespräch integriert, den fachlichen Gehalt der Schülerbeiträge einschätzt und relevante Teile der Beiträge aufgreift."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Argumentationsfähigkeiten anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Argumentationsfähigkeiten anregen, indem sie sie auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der dialogischen Lehre für die Lernenden?",
+    "output": "Die dialogische Lehre ist wichtig, um den Lernenden die Möglichkeit zu geben, ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln, und um sie zur aktiven Teilnahme am Unterricht anzuregen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Diskussionsfähigkeiten anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Diskussionsfähigkeiten anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, ihre Meinungen und Positionen zu begründen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der dialogischen Lehre?",
+    "output": "Die Ziele der dialogischen Lehre sind, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln und sie zur Selbstreflexion anzuregen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Argumentation anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Argumentation anregen, indem sie sie auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der dialogischen Lehre für die Lehrperson?",
+    "output": "Die dialogische Lehre ist wichtig, um die Lehrperson zu unterstützen, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, und um die Fähigkeiten der Lernenden zur Argumentation und Diskussion zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Diskussion anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Diskussion anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, ihre Meinungen und Positionen zu begründen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der dialogischen Lehre?",
+    "output": "Die Herausforderungen der dialogischen Lehre sind, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln und die Lehrperson zu unterstützen, die Lernenden zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Selbstreflexion anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Selbstreflexion anregen, indem sie sie auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der dialogischen Lehre für die Schule?",
+    "output": "Die dialogische Lehre ist wichtig, um die Schule zu unterstützen, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, und um die Fähigkeiten der Lernenden zur Argumentation und Diskussion zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Kooperation anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Kooperation anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, gemeinsam an Aufgaben zu arbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der dialogischen Lehre für die Lernenden?",
+    "output": "Die Vorteile der dialogischen Lehre für die Lernenden sind, dass sie ihre Fähigkeiten zur Argumentation und Diskussion entwickeln, dass sie zur aktiven Teilnahme am Unterricht angeregt werden und dass sie ihre Selbstreflexion entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Argumentation und Diskussion anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Argumentation und Diskussion anregen, indem sie sie auffordert, ihre Meinungen und Positionen zu begründen, und sie ermutigt, aufeinander Bezug zu nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der dialogischen Lehre für die Gesellschaft?",
+    "output": "Die dialogische Lehre ist wichtig, um die Gesellschaft zu unterstützen, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, und um die Fähigkeiten der Lernenden zur Argumentation und Diskussion zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der dialogischen Lehre für die Lernenden?",
+    "output": "Die Ziele der dialogischen Lehre für die Lernenden sind, ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln, zur aktiven Teilnahme am Unterricht angeregt zu werden und ihre Selbstreflexion zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der dialogischen Lehre für die Bildung?",
+    "output": "Die dialogische Lehre ist wichtig, um die Bildung zu unterstützen, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, und um die Fähigkeiten der Lernenden zur Argumentation und Diskussion zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Herausforderungen der dialogischen Lehre für die Lehrperson?",
+    "output": "Die Herausforderungen der dialogischen Lehre für die Lehrperson sind, die Lernenden zur aktiven Teilnahme am Unterricht anzuregen, ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln und die Lernenden zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Teamarbeit anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Teamarbeit anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, gemeinsam an Aufgaben zu arbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der dialogischen Lehre für die Lernenden?",
+    "output": "Die dialogische Lehre ist wichtig, um den Lernenden die Möglichkeit zu geben, ihre Fähigkeiten zur Argumentation und Diskussion zu entwickeln, und um sie zur aktiven Teilnahme am Unterricht anzuregen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Lehrperson die Lernenden zur Entwicklung ihrer Fähigkeiten zur Kommunikation anregen?",
+    "output": "Die Lehrperson kann die Lernenden zur Entwicklung ihrer Fähigkeiten zur Kommunikation anregen, indem sie sie ermutigt, aufeinander Bezug zu nehmen, und sie auffordert, ihre Meinungen und Positionen zu begründen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile der dialogischen Lehre für die Lehrperson?",
+    "output": "Die Vorteile der dialogischen Lehre für die Lehrperson sind, dass sie die Lernenden zur aktiven Teilnahme am Unterricht anregen kann, ihre Fähigkeiten zur Argumentation und Diskussion entwickeln kann und die Lernenden besser verstehen kann."
+  }
+]

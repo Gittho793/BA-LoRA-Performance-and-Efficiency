@@ -1,0 +1,202 @@
+[
+  {
+    "instruction": "Was ist das Wesentliche in jedem Beratungsgespr\u00e4ch?",
+    "input": "",
+    "output": "Die Begegnung zweier Menschen in einer wechselseitigen Rahmung der Erwartungen."
+  },
+  {
+    "instruction": "Was stellen Beraterinnen und Berater im Beratungsprozess zur Verf\u00fcgung?",
+    "input": "",
+    "output": "Ihr Fachwissen und die Metaperspektive."
+  },
+  {
+    "instruction": "Wer sind die Experten f\u00fcr das eigene Leben im Beratungsprozess?",
+    "input": "",
+    "output": "Die Ratsuchenden."
+  },
+  {
+    "instruction": "Was erwarten beide Seiten in der Beratung?",
+    "input": "",
+    "output": "Ein professionelles, strukturiertes Gespr\u00e4ch unter (zun\u00e4chst) Fremden."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen die Beratungsphasen auftreten?",
+    "input": "",
+    "output": "Sowohl in einer einmaligen Beratung als auch in einem komplexeren Beratungszyklus."
+  },
+  {
+    "instruction": "Was steht im Vordergrund in einer einmaligen Beratung?",
+    "input": "",
+    "output": "Anregungen und Impulsgebung."
+  },
+  {
+    "instruction": "Was erm\u00f6glicht die Chance zur kl\u00e4renden Vertiefung in einem l\u00e4ngeren Beratungszyklus?",
+    "input": "",
+    "output": "Die verf\u00fcgbare zeitliche Ressource."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Beraterin bzw. des Beraters in der Anfangsphase?",
+    "input": "",
+    "output": "Den Raum f\u00fcr die Kl\u00e4rung des Kontextes zu er\u00f6ffnen."
+  },
+  {
+    "instruction": "Wie n\u00e4hern sich die Beraterin bzw. der Berater den Anliegen des Ratsuchenden?",
+    "input": "",
+    "output": "Wertsch\u00e4tzend."
+  },
+  {
+    "instruction": "Was ist das Ziel in der Anfangsphase?",
+    "input": "",
+    "output": "Eine gute vertrauensvolle Beziehung zu entwickeln."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Beraterin bzw. des Beraters in der Mittelphase?",
+    "input": "",
+    "output": "Problemerhellung und Entfaltungsw\u00fcnsche zu kl\u00e4ren."
+  },
+  {
+    "instruction": "Was ist das Ziel der Schlussphase?",
+    "input": "",
+    "output": "Die \u00dcberzeugung, dass das Anliegen ausf\u00fchrlich und sorgf\u00e4ltig umfassend betrachtet wurde."
+  },
+  {
+    "instruction": "Was zeichnet die Abschlussphase aus?",
+    "input": "",
+    "output": "Der Blickwinkel der zu beratenden Person wird nun bewusst l\u00f6sungsorientiert wieder verengt."
+  },
+  {
+    "instruction": "Was begleiten die Beraterin bzw. der Berater in der abschlie\u00dfenden Entscheidungsfindung?",
+    "input": "",
+    "output": "Die Ratsuchenden bei der Suche nach angemessenen L\u00f6sungen."
+  },
+  {
+    "instruction": "Was k\u00f6nnen strukturierende und wertsch\u00e4tzende Fragen sein?",
+    "input": "",
+    "output": "Welche Impulse m\u00f6chte der zu Beratende weiter verfolgen, und welche Fragen, W\u00fcnsche und Ziele haben sich aus der oder den Beratungen ergeben?"
+  },
+  {
+    "instruction": "Wie gestalten die Beraterin bzw. der Berater den Abschied?",
+    "input": "",
+    "output": "Behutsam, mit einer Kurzevaluation des Beratungsprozesses und einem angemessenen Abschiedsritual."
+  },
+  {
+    "instruction": "Was ist wichtig in der Ausstiegsphase?",
+    "input": "",
+    "output": "Klarheit, Rahmen gebende Sicherheit und Wertsch\u00e4tzung."
+  },
+  {
+    "instruction": "Was ist das Ergebnis der Beratung?",
+    "input": "",
+    "output": "Eine vertrauensvolle Beziehung und eine L\u00f6sung f\u00fcr das Anliegen des Ratsuchenden."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters?",
+    "input": "",
+    "output": "Ein professioneller Begleiter im Beratungsprozess."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Beratung?",
+    "input": "",
+    "output": "Eine Chance, Probleme zu kl\u00e4ren und L\u00f6sungen zu finden."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Beraterin bzw. des Beraters in der Anfangsphase - Joining?",
+    "input": "",
+    "output": "Den Raum f\u00fcr die Kl\u00e4rung des Kontextes zu er\u00f6ffnen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Anfangsphase - Situation und Anliegen kl\u00e4ren?",
+    "input": "",
+    "output": "Die Kl\u00e4rung des Kontextes und die Identifizierung der Anliegen des Ratsuchenden."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Mittelphase - Problemerhellung und Entfaltungsw\u00fcnsche kl\u00e4ren?",
+    "input": "",
+    "output": "Die Problemerhellung und die Kl\u00e4rung der Entfaltungsw\u00fcnsche des Ratsuchenden."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Schlussphase - Zielgerade der Beratung?",
+    "input": "",
+    "output": "Die Erreichung der Ziele und die L\u00f6sung des Anliegens des Ratsuchenden."
+  },
+  {
+    "instruction": "Was ist die Aufgabe der Beraterin bzw. des Beraters in der Abschlussphase?",
+    "input": "",
+    "output": "Die Begleitung des Ratsuchenden bei der Entscheidungsfindung und der Ma\u00dfnahmensicherung."
+  },
+  {
+    "instruction": "Was ist die Bedeutung des Abschieds in der Beratung?",
+    "input": "",
+    "output": "Der Abschied ist ein wichtiger Teil des Beratungsprozesses und erm\u00f6glicht den Ratsuchenden, sich von der Beratungsbeziehung zu l\u00f6sen."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters beim Abschied?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater begleitet den Ratsuchenden beim Abschied und stellt sicher, dass der Ratsuchende sich von der Beratungsbeziehung l\u00f6sen kann."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Prozessverantwortung der Beraterin bzw. des Beraters?",
+    "input": "",
+    "output": "Die Prozessverantwortung der Beraterin bzw. des Beraters ist wichtig, um den Ratsuchenden auf das bevorstehende Loslassen der Beratungsbeziehung einzustimmen."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Nachbereitung der Beratung?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater reflektiert den Beratungsprozess und bereitet sich auf neue Beratungsherausforderungen vor."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Nachbereitung der Beratung?",
+    "input": "",
+    "output": "Die Nachbereitung der Beratung ist wichtig, um den Beratungsprozess zu reflektieren und sich auf neue Beratungsherausforderungen vorzubereiten."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Evaluation der Beratung?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater evaluiert den Beratungsprozess und \u00fcberpr\u00fcft, ob die Ziele erreicht wurden."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Evaluation der Beratung?",
+    "input": "",
+    "output": "Die Evaluation der Beratung ist wichtig, um den Beratungsprozess zu \u00fcberpr\u00fcfen und zu verbessern."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Dokumentation der Beratung?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater dokumentiert den Beratungsprozess und die Ergebnisse."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Dokumentation der Beratung?",
+    "input": "",
+    "output": "Die Dokumentation der Beratung ist wichtig, um den Beratungsprozess und die Ergebnisse zu dokumentieren und f\u00fcr zuk\u00fcnftige Beratungen zu nutzen."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Qualit\u00e4tssicherung der Beratung?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater sichert die Qualit\u00e4t des Beratungsprozesses und \u00fcberpr\u00fcft, ob die Standards eingehalten werden."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Qualit\u00e4tssicherung der Beratung?",
+    "input": "",
+    "output": "Die Qualit\u00e4tssicherung der Beratung ist wichtig, um die Qualit\u00e4t des Beratungsprozesses zu sichern und zu verbessern."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Fortbildung und Weiterbildung?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater nimmt an Fortbildungen und Weiterbildungen teil, um die eigenen F\u00e4higkeiten und Kenntnisse zu verbessern."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Fortbildung und Weiterbildung f\u00fcr die Beraterin bzw. den Berater?",
+    "input": "",
+    "output": "Die Fortbildung und Weiterbildung sind wichtig, um die eigenen F\u00e4higkeiten und Kenntnisse zu verbessern und den Beratungsprozess zu optimieren."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Supervision?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater nimmt an Supervisionen teil, um den eigenen Beratungsprozess zu reflektieren und zu verbessern."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Supervision f\u00fcr die Beraterin bzw. den Berater?",
+    "input": "",
+    "output": "Die Supervision ist wichtig, um den eigenen Beratungsprozess zu reflektieren und zu verbessern und die Qualit\u00e4t des Beratungsprozesses zu sichern."
+  }
+]

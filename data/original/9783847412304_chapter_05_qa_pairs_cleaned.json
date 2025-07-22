@@ -1,0 +1,717 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the text?",
+    "output": "Beratung im Rampenlicht – Von Sisyphos zu Prometheus?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the text?",
+    "output": "Bernd Käpplinger"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text mention any historical figures?",
+    "output": "Yes, Sisyphos and Prometheus are mentioned."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Textes?",
+    "output": "Der Text diskutiert die Bedeutungszuwachs von Bildungsberatung und die damit verbundenen Problematiken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo basiert der Text auf?",
+    "output": "Der Text basiert auf einer Keynote bei der Jahrestagung 2017 der Sektion Erwachsenenbildung der Deutschen Gesellschaft für Erziehungswissenschaft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren, die im Text erwähnt werden?",
+    "output": "Der Text erwähnt Autoren wie Siebert, Illich, Schrader, Kowalski, Christof, Ribolits, Zuber, Kossack, Bengtson, Käpplinger, Klein, Schiersmann, Weber, Hartz, Egetenmeyer, Forneck, Wrana, Wolf, Schober, Langner, Bremer, Dörner, Enoch, Großmaß, Plecas und Sork."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Bildungsberatung?",
+    "output": "Das Ziel der Bildungsberatung ist es, den Klienten zu helfen, ihre eigenen Ziele und Bedürfnisse zu erkennen und zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Mehrebenenmodell?",
+    "output": "Das Mehrebenenmodell ist ein Modell, das die verschiedenen Ebenen der Bildungsberatung, wie den gesellschaftlichen Kontext, den organisationalen Kontext, den Beratungsprozess und das Beratersystem, beschreibt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der gesellschaftliche Kontext?",
+    "output": "Der gesellschaftliche Kontext umfasst die gesellschaftlichen, politischen, wirtschaftlichen und technischen Faktoren, die die Bildungsberatung beeinflussen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der organisatorische Kontext?",
+    "output": "Der organisatorische Kontext umfasst die Strukturen und Prozesse der Organisationen, in denen die Bildungsberatung stattfindet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Beratungsprozess?",
+    "output": "Der Beratungsprozess umfasst die Interaktionen zwischen dem Berater und dem Klienten, bei denen der Klient unterstützt wird, seine Ziele und Bedürfnisse zu erkennen und zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Beratersystem?",
+    "output": "Das Beratersystem umfasst die Strukturen und Prozesse, die die Arbeit der Berater unterstützen und steuern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die klientenorientierte Beratung?",
+    "output": "Die klientenorientierte Beratung ist eine Form der Beratung, die sich auf die Bedürfnisse und Ziele des Klienten konzentriert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Professionalisierung der Beratung?",
+    "output": "Die Professionalisierung der Beratung umfasst die Entwicklung von Standards, Qualitätskriterien und Weiterbildungsangeboten für Berater."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung in der Bildungsberatung?",
+    "output": "Die Forschung in der Bildungsberatung dient der Entwicklung von Theorien, Modellen und Methoden, die die Praxis der Bildungsberatung unterstützen und verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für Forschende in der Bildungsberatung?",
+    "output": "Die Herausforderung für Forschende in der Bildungsberatung besteht darin, die Komplexität der Bildungsberatung zu erfassen und zu verstehen, um relevante und wirksame Forschung zu betreiben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Digitalisierung für die Bildungsberatung?",
+    "output": "Die Digitalisierung bietet neue Möglichkeiten für die Bildungsberatung, wie z.B. die Nutzung von Online-Plattformen und digitalen Tools für die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Bildungsberatung in Bezug auf die Digitalisierung?",
+    "output": "Die Herausforderung für die Bildungsberatung in Bezug auf die Digitalisierung besteht darin, die Chancen und Risiken der Digitalisierung zu erkennen und zu nutzen, um die Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Politik in der Bildungsberatung?",
+    "output": "Die Politik spielt eine wichtige Rolle in der Bildungsberatung, indem sie Rahmenbedingungen und Ressourcen für die Beratung bereitstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Politik in Bezug auf die Bildungsberatung?",
+    "output": "Die Herausforderung für die Politik in Bezug auf die Bildungsberatung besteht darin, die Bedürfnisse und Ziele der Klienten zu erkennen und zu unterstützen, um wirksame Beratung zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Bildungsberatung für die Gesellschaft?",
+    "output": "Die Bildungsberatung ist wichtig für die Gesellschaft, weil sie dazu beiträgt, dass Menschen ihre Ziele und Bedürfnisse erkennen und erreichen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Gesellschaft in Bezug auf die Bildungsberatung?",
+    "output": "Die Herausforderung für die Gesellschaft in Bezug auf die Bildungsberatung besteht darin, die Bedürfnisse und Ziele der Klienten zu erkennen und zu unterstützen, um wirksame Beratung zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Berater in der Bildungsberatung?",
+    "output": "Die Berater spielen eine wichtige Rolle in der Bildungsberatung, indem sie den Klienten unterstützen, ihre Ziele und Bedürfnisse zu erkennen und zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Berater in Bezug auf die Bildungsberatung?",
+    "output": "Die Herausforderung für die Berater in Bezug auf die Bildungsberatung besteht darin, die Komplexität der Bildungsberatung zu erfassen und zu verstehen, um relevante und wirksame Beratung zu bieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Weiterbildung für die Berater?",
+    "output": "Die Weiterbildung ist wichtig für die Berater, weil sie dazu beiträgt, dass sie ihre Fähigkeiten und Kenntnisse aktualisieren und verbessern können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung in der Weiterbildung?",
+    "output": "Die Forschung in der Weiterbildung dient der Entwicklung von Theorien, Modellen und Methoden, die die Praxis der Weiterbildung unterstützen und verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Forschung in Bezug auf die Weiterbildung?",
+    "output": "Die Herausforderung für die Forschung in Bezug auf die Weiterbildung besteht darin, die Komplexität der Weiterbildung zu erfassen und zu verstehen, um relevante und wirksame Forschung zu betreiben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Bildungsberatung für die Gesellschaft?",
+    "output": "Die Bildungsberatung ist wichtig für die Gesellschaft, weil sie dazu beiträgt, dass Menschen ihre Ziele und Bedürfnisse erkennen und erreichen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Gesellschaft in Bezug auf die Bildungsberatung?",
+    "output": "Die Herausforderung für die Gesellschaft in Bezug auf die Bildungsberatung besteht darin, die Bedürfnisse und Ziele der Klienten zu erkennen und zu unterstützen, um wirksame Beratung zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Politik in der Bildungsberatung?",
+    "output": "Die Politik spielt eine wichtige Rolle in der Bildungsberatung, indem sie Rahmenbedingungen und Ressourcen für die Beratung bereitstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Politik in Bezug auf die Bildungsberatung?",
+    "output": "Die Herausforderung für die Politik in Bezug auf die Bildungsberatung besteht darin, die Bedürfnisse und Ziele der Klienten zu erkennen und zu unterstützen, um wirksame Beratung zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Digitalisierung für die Bildungsberatung?",
+    "output": "Die Digitalisierung bietet neue Möglichkeiten für die Bildungsberatung, wie z.B. die Nutzung von Online-Plattformen und digitalen Tools für die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Bildungsberatung in Bezug auf die Digitalisierung?",
+    "output": "Die Herausforderung für die Bildungsberatung in Bezug auf die Digitalisierung besteht darin, die Chancen und Risiken der Digitalisierung zu erkennen und zu nutzen, um die Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Berater in der Bildungsberatung?",
+    "output": "Die Berater spielen eine wichtige Rolle in der Bildungsberatung, indem sie den Klienten unterstützen, ihre Ziele und Bedürfnisse zu erkennen und zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Berater in Bezug auf die Bildungsberatung?",
+    "output": "Die Herausforderung für die Berater in Bezug auf die Bildungsberatung besteht darin, die Komplexität der Bildungsberatung zu erfassen und zu verstehen, um relevante und wirksame Beratung zu bieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Weiterbildung für die Berater?",
+    "output": "Die Weiterbildung ist wichtig für die Berater, weil sie dazu beiträgt, dass sie ihre Fähigkeiten und Kenntnisse aktualisieren und verbessern können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung in der Weiterbildung?",
+    "output": "Die Forschung in der Weiterbildung dient der Entwicklung von Theorien, Modellen und Methoden, die die Praxis der Weiterbildung unterstützen und verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Forschung in Bezug auf die Weiterbildung?",
+    "output": "Die Herausforderung für die Forschung in Bezug auf die Weiterbildung besteht darin, die Komplexität der Weiterbildung zu erfassen und zu verstehen, um relevante und wirksame Forschung zu betreiben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Bildungsberatung für die Gesellschaft?",
+    "output": "Die Bildungsberatung ist wichtig für die Gesellschaft, weil sie dazu beiträgt, dass Menschen ihre Ziele und Bedürfnisse erkennen und erreichen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Politik in der Bildungsberatung?",
+    "output": "Die Politik spielt eine wichtige Rolle in der Bildungsberatung, indem sie Rahmenbedingungen und Ressourcen für die Beratung bereitstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Digitalisierung für die Bildungsberatung?",
+    "output": "Die Digitalisierung bietet neue Möglichkeiten für die Bildungsberatung, wie z.B. die Nutzung von Online-Plattformen und digitalen Tools für die Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Bildungsberatung in Bezug auf die Digitalisierung?",
+    "output": "Die Herausforderung für die Bildungsberatung in Bezug auf die Digitalisierung besteht darin, die Chancen und Risiken der Digitalisierung zu erkennen und zu nutzen, um die Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Berater in der Bildungsberatung?",
+    "output": "Die Berater spielen eine wichtige Rolle in der Bildungsberatung, indem sie den Klienten unterstützen, ihre Ziele und Bedürfnisse zu erkennen und zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Weiterbildung für die Berater?",
+    "output": "Die Weiterbildung ist wichtig für die Berater, weil sie dazu beiträgt, dass sie ihre Fähigkeiten und Kenntnisse aktualisieren und verbessern können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Forschung in der Weiterbildung?",
+    "output": "Die Forschung in der Weiterbildung dient der Entwicklung von Theorien, Modellen und Methoden, die die Praxis der Weiterbildung unterstützen und verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die Forschung in Bezug auf die Weiterbildung?",
+    "output": "Die Herausforderung für die Forschung in Bezug auf die Weiterbildung besteht darin, die Komplexität der Weiterbildung zu erfassen und zu verstehen, um relevante und wirksame Forschung zu betreiben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Bildungsberatung für die Gesellschaft?",
+    "output": "Die Bildungsberatung ist wichtig für die Gesellschaft, weil sie dazu beiträgt, dass Menschen ihre Ziele und Bedürfnisse erkennen und erreichen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Politik in der Bildungsberatung?",
+    "output": "Die Politik spielt eine wichtige Rolle in der Bildungsberatung, indem sie Rahmenbedingungen und Ressourcen für die Beratung bereitstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Problem mit der Berufsberatung aus der Genderperspektive?",
+    "output": "Das Problem ist, dass die Berufsberatung oft von einer männlichen Perspektive geprägt ist und Frauen und Minderheiten nicht ausreichend berücksichtigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Forschung?",
+    "output": "Das Ziel von Forschung ist es, Neues zu entdecken und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, das Unbequeme aufzuspüren?",
+    "output": "Es ist wichtig, das Unbequeme aufzuspüren, um die bestehenden Strukturen und Machtverhältnisse zu hinterfragen und zu verändern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die breite Öffentlichkeit zu suchen?",
+    "output": "Es ist wichtig, die breite Öffentlichkeit zu suchen, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Strategien in der Beratung und Weiterbildung?",
+    "output": "Strategien sind situationsangemessen zu verfolgen und es bedarf nicht allein einer Strategie, sondern vieler Strategien."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Problem mit der Forschung in der Weiterbildung?",
+    "output": "Das Problem ist, dass die Forschung oft in Nischen jenseits der öffentlichen Wahrnehmung stattfindet und nicht ausreichend beachtet wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Tabus in der Forschung?",
+    "output": "Tabus sind Themen, die nicht angesprochen werden dürfen, aber es ist wichtig, sie zu thematisieren, um die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion und ihre Mitglieder?",
+    "output": "Der Autor fordert die Sektion und ihre Mitglieder auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von konstruktivem Streit in der Forschung?",
+    "output": "Konstruktiver Streit ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Bildung?",
+    "output": "Das Ziel von Bildung ist es, die Menschen zu befähigen, kritisch und selbstironisch zu denken und zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Selbstironie in der Forschung?",
+    "output": "Selbstironie ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Öffentlichkeit in der Forschung?",
+    "output": "Öffentlichkeit ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion?",
+    "output": "Der Autor fordert die Sektion auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Courage in der Forschung?",
+    "output": "Courage ist wichtig, um das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Diskussion in der Forschung?",
+    "output": "Diskussion ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion und ihre Mitglieder?",
+    "output": "Der Autor fordert die Sektion und ihre Mitglieder auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von konstruktivem Streit in der Forschung?",
+    "output": "Konstruktiver Streit ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Bildung?",
+    "output": "Das Ziel von Bildung ist es, die Menschen zu befähigen, kritisch und selbstironisch zu denken und zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Selbstironie in der Forschung?",
+    "output": "Selbstironie ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Öffentlichkeit in der Forschung?",
+    "output": "Öffentlichkeit ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion?",
+    "output": "Der Autor fordert die Sektion auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Courage in der Forschung?",
+    "output": "Courage ist wichtig, um das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Diskussion in der Forschung?",
+    "output": "Diskussion ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion und ihre Mitglieder?",
+    "output": "Der Autor fordert die Sektion und ihre Mitglieder auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von konstruktivem Streit in der Forschung?",
+    "output": "Konstruktiver Streit ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Bildung?",
+    "output": "Das Ziel von Bildung ist es, die Menschen zu befähigen, kritisch und selbstironisch zu denken und zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Selbstironie in der Forschung?",
+    "output": "Selbstironie ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Öffentlichkeit in der Forschung?",
+    "output": "Öffentlichkeit ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kritik an der Forschung in der Weiterbildung?",
+    "output": "Die Kritik ist, dass die Forschung oft in Nischen jenseits der öffentlichen Wahrnehmung stattfindet und nicht ausreichend beachtet wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion?",
+    "output": "Der Autor fordert die Sektion auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Courage in der Forschung?",
+    "output": "Courage ist wichtig, um das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Diskussion in der Forschung?",
+    "output": "Diskussion ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kritik an der Forschung in der Weiterbildung?",
+    "output": "Die Kritik ist, dass die Forschung oft in Nischen jenseits der öffentlichen Wahrnehmung stattfindet und nicht ausreichend beachtet wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion und ihre Mitglieder?",
+    "output": "Der Autor fordert die Sektion und ihre Mitglieder auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von konstruktivem Streit in der Forschung?",
+    "output": "Konstruktiver Streit ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Bildung?",
+    "output": "Das Ziel von Bildung ist es, die Menschen zu befähigen, kritisch und selbstironisch zu denken und zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Selbstironie in der Forschung?",
+    "output": "Selbstironie ist ein Ansatz, der es ermöglicht, kritisch und selbstironisch zu denken und zu handeln und die bestehenden Erkenntnisse zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Forscher?",
+    "output": "Der Autor fordert die Forscher auf, das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Öffentlichkeit in der Forschung?",
+    "output": "Öffentlichkeit ist wichtig, um die Ergebnisse und Erkenntnisse der Forschung zu teilen und zu diskutieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kritik an der Forschung in der Weiterbildung?",
+    "output": "Die Kritik ist, dass die Forschung oft in Nischen jenseits der öffentlichen Wahrnehmung stattfindet und nicht ausreichend beachtet wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forderung des Autors an die Sektion?",
+    "output": "Der Autor fordert die Sektion auf, mit ihren Ergebnissen und Erkenntnissen die breite Öffentlichkeit zu suchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Courage in der Forschung?",
+    "output": "Courage ist wichtig, um das Unbequeme aufzuspüren und die bestehenden Strukturen und Machtverhältnisse zu hinterfragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll nach der Verfolgung von Strategien erfolgen?",
+    "output": "offene Diskussion und konstruktives Streiten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist die Autorin des Buches 'Voraussetzungen einer Erzählung: Kassandra'?",
+    "output": "Wolf, Christa"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde das Buch 'Voraussetzungen einer Erzählung: Kassandra' veröffentlicht?",
+    "output": "2008"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Wirksamkeit der Beratung in Bildung, Beruf und Beschäftigung' veröffentlicht?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Struktur und Wandel der Weiterbildung' veröffentlicht?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Weiterbildungsberatung – Qualität definieren, gestalten, reflektieren' veröffentlicht?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Bildung im Schatten der Postmoderne: von Prometheus zu Sisyphos' veröffentlicht?",
+    "output": "Frankfurt/Main"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Beratung in der Weiterbildung als institutionelle Interaktion' veröffentlicht?",
+    "output": "Frankfurt/Main"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Erwachsenenbildung und Zeitdiagnose' veröffentlicht?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch 'Voraussetzungen einer Erzählung: Kassandra' veröffentlicht?",
+    "output": "Frankfurt/Main"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Wirksamkeit der Beratung in Bildung, Beruf und Beschäftigung'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Struktur und Wandel der Weiterbildung'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Weiterbildungsberatung – Qualität definieren, gestalten, reflektieren'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Erwachsenenbildung und Zeitdiagnose'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Beratung in der Weiterbildung als institutionelle Interaktion'?",
+    "output": "Peter Lang"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Voraussetzungen einer Erzählung: Kassandra'?",
+    "output": "Suhrkamp"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Bildung im Schatten der Postmoderne: von Prometheus zu Sisyphos'?",
+    "output": "VAS"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren der Literatur?",
+    "output": "Schober, Karin, Langner, Judith, Schrader, Josef, Schröder, Frank, Schlögl, Peter, Siebert, Horst, Stanik, Tim, Wittpoth, Jürgen, Wolf, Christa"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Bücher sind in der Literatur aufgeführt?",
+    "output": "8"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Wittpoth, Jürgen?",
+    "output": "Herausgeber"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Schober, Karin und Langner, Judith?",
+    "output": "Autoren"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Schrader, Josef?",
+    "output": "Autor"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Schröder, Frank und Schlögl, Peter?",
+    "output": "Autoren"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Siebert, Horst?",
+    "output": "Autor"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Stanik, Tim?",
+    "output": "Autor"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Wolf, Christa?",
+    "output": "Autorin"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Wirksamkeit der Beratung in Bildung, Beruf und Beschäftigung' veröffentlicht?",
+    "output": "2017"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Struktur und Wandel der Weiterbildung' veröffentlicht?",
+    "output": "2011"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Weiterbildungsberatung – Qualität definieren, gestalten, reflektieren' veröffentlicht?",
+    "output": "2014"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Bildung im Schatten der Postmoderne: von Prometheus zu Sisyphos' veröffentlicht?",
+    "output": "1992"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Beratung in der Weiterbildung als institutionelle Interaktion' veröffentlicht?",
+    "output": "2016"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Erwachsenenbildung und Zeitdiagnose' veröffentlicht?",
+    "output": "2001"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurde das Buch mit dem Titel 'Voraussetzungen einer Erzählung: Kassandra' veröffentlicht?",
+    "output": "2008"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Wirksamkeit der Beratung in Bildung, Beruf und Beschäftigung' verlegt?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Struktur und Wandel der Weiterbildung' verlegt?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Weiterbildungsberatung – Qualität definieren, gestalten, reflektieren' verlegt?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Bildung im Schatten der Postmoderne: von Prometheus zu Sisyphos' verlegt?",
+    "output": "Frankfurt/Main"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Beratung in der Weiterbildung als institutionelle Interaktion' verlegt?",
+    "output": "Frankfurt/Main"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Erwachsenenbildung und Zeitdiagnose' verlegt?",
+    "output": "Bielefeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo wurde das Buch mit dem Titel 'Voraussetzungen einer Erzählung: Kassandra' verlegt?",
+    "output": "Frankfurt/Main"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Wirksamkeit der Beratung in Bildung, Beruf und Beschäftigung'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Struktur und Wandel der Weiterbildung'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Weiterbildungsberatung – Qualität definieren, gestalten, reflektieren'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Bildung im Schatten der Postmoderne: von Prometheus zu Sisyphos'?",
+    "output": "VAS"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Beratung in der Weiterbildung als institutionelle Interaktion'?",
+    "output": "Peter Lang"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Erwachsenenbildung und Zeitdiagnose'?",
+    "output": "wbv"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Verlag des Buches 'Voraussetzungen einer Erzählung: Kassandra'?",
+    "output": "Suhrkamp"
+  }
+]

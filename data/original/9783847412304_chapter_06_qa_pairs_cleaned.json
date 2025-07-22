@@ -1,0 +1,582 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of section I?",
+    "output": "Theoretische Zugänge zum Beratungshandeln: Verortung und Diskurse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Theoretische Zugänge' mean in English?",
+    "output": "Theoretical approaches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is 'Beratungshandeln'?",
+    "output": "Counseling action or advisory action."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Verortung' mean?",
+    "output": "Localization or placement."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are 'Diskurse'?",
+    "output": "Discourses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text about practical applications?",
+    "output": "No, it seems to focus on theoretical aspects."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What section is being discussed?",
+    "output": "Section I."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the topic related to counseling?",
+    "output": "Yes, it appears to be related to counseling or advisory services."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What language is the original text in?",
+    "output": "German."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide historical context?",
+    "output": "No, there is no historical context provided in the given text."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are there any specific theories mentioned?",
+    "output": "No, the text does not mention specific theories."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Beratungshandeln' a common term?",
+    "output": "It is a term used in German-speaking contexts related to counseling or advisory actions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Verortung und Diskurse' be related to social sciences?",
+    "output": "Yes, these terms can be related to the field of social sciences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text imply a focus on methodology?",
+    "output": "It might, as it discusses theoretical approaches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are there any case studies mentioned?",
+    "output": "No, there are no case studies mentioned in the provided text."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text part of a larger academic work?",
+    "output": "It appears to be, given the structured format with sections."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the importance of theory in counseling?",
+    "output": "It implies the importance of theoretical approaches but does not explicitly discuss their importance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Theoretische Zugänge' be applied to various fields?",
+    "output": "Yes, theoretical approaches can be applied to various fields, not just counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide a conclusion?",
+    "output": "No, the provided text does not include a conclusion."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text suitable for beginners in the field of counseling?",
+    "output": "It might not be, as it assumes some background knowledge of theoretical approaches and terminology."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss cultural aspects of counseling?",
+    "output": "No, the provided text does not discuss cultural aspects."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the concepts discussed be used in practice?",
+    "output": "While the text focuses on theory, the concepts could potentially be applied in practical counseling scenarios."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text mention any critics of theoretical approaches in counseling?",
+    "output": "No, the text does not mention critics or criticisms."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is there a specific geographical focus?",
+    "output": "No, the text does not indicate a specific geographical focus."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text imply that counseling is a global issue?",
+    "output": "It does not explicitly imply that, but counseling can be considered a global issue."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the text be used as a reference for research?",
+    "output": "The provided text is too limited to serve as a substantial reference for research."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the role of technology in counseling?",
+    "output": "No, the text does not mention technology."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text written for professionals in the field?",
+    "output": "It seems to be, given the use of specialized terminology."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide an overview of counseling theories?",
+    "output": "No, the text is too brief to provide a comprehensive overview."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Diskurse' be related to communication studies?",
+    "output": "Yes, discourses can be a subject of study in communication sciences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss ethical considerations in counseling?",
+    "output": "No, ethical considerations are not mentioned."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text part of a series of sections on counseling?",
+    "output": "It appears to be, as it is labeled 'I.'"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Theoretische Zugänge' be considered foundational knowledge?",
+    "output": "Yes, theoretical approaches can be considered foundational in many fields, including counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Verortung' a key concept in geography?",
+    "output": "While 'Verortung' means localization, it is not exclusively a geographical term and can be used in other contexts."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Diskurse' be related to power dynamics in counseling?",
+    "output": "Yes, discourses can be related to how power is discussed or understood in counseling contexts."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text written in an academic tone?",
+    "output": "Yes, the text appears to be written in an academic tone."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the concepts in the text be applied to other helping professions?",
+    "output": "Yes, theoretical approaches in counseling can have applications in other helping professions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Theoretische Zugänge' be seen as a foundation for counseling research?",
+    "output": "Yes, theoretical approaches can serve as a foundation for research in counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the importance of cultural competence in counseling?",
+    "output": "No, cultural competence is not discussed."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Verortung' be related to the concept of place in counseling?",
+    "output": "Yes, 'Verortung' or localization can be related to how place or context influences counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text a critique of existing counseling theories?",
+    "output": "No, the text does not critique existing theories."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide guidelines for counseling practice?",
+    "output": "No, the text does not provide guidelines for practice."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the role of assessment in counseling?",
+    "output": "No, assessment is not mentioned in the text."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text mention any notable counselors or theorists?",
+    "output": "No, notable counselors or theorists are not mentioned."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Diskurse' be related to the way counseling is perceived by the public?",
+    "output": "Yes, discourses can influence how counseling is perceived and understood by the public."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide an analysis of counseling theories?",
+    "output": "No, the text does not provide an in-depth analysis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text focused on a specific counseling modality?",
+    "output": "No, the text does not focus on a specific modality."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the importance of self-care for counselors?",
+    "output": "No, self-care for counselors is not mentioned."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the concepts in the text be applied to community counseling?",
+    "output": "Yes, theoretical approaches can be applied to various settings, including community counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text a reflection on the state of counseling today?",
+    "output": "No, the text does not serve as a reflection on the current state of counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide resources for counselors working with diverse populations?",
+    "output": "No, the text does not provide such resources."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Theoretische Zugänge' be seen as a way to understand counseling outcomes?",
+    "output": "Yes, theoretical approaches can help in understanding counseling outcomes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the impact of counseling on mental health?",
+    "output": "No, the impact of counseling on mental health is not discussed."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text mention any technology-based counseling methods?",
+    "output": "No, technology-based methods are not mentioned."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide a framework for understanding counseling theories?",
+    "output": "No, the text does not provide a comprehensive framework."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text focused on the training of counselors?",
+    "output": "No, the training of counselors is not a focus of the text."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the importance of empathy in counseling?",
+    "output": "No, empathy is not mentioned in the text."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Verortung' be related to the physical environment of counseling?",
+    "output": "Yes, 'Verortung' or localization can consider the physical environment in which counseling takes place."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text provide strategies for counselors to work with clients?",
+    "output": "No, strategies for working with clients are not discussed."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text discuss the role of supervision in counseling?",
+    "output": "No, supervision is not mentioned in the text."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the text mention any counseling certifications or credentials?",
+    "output": "No, certifications or credentials are not mentioned."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Diskurse' be related to the social construction of counseling?",
+    "output": "Yes, discourses can relate to how counseling is socially constructed and understood."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can the concepts in the text be applied to counseling in educational settings?",
+    "output": "Yes, theoretical approaches can be applied to various settings, including educational settings."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Theoretische Zugänge' be seen as a foundation for counseling ethics?",
+    "output": "Yes, theoretical approaches can inform ethical considerations in counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of the text?",
+    "output": "The main topic of the text is the concept of resonance in the context of counseling and adult education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the text?",
+    "output": "The author of the text is Jana Wienberg."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the text?",
+    "output": "The title of the text is 'Eine resonanztheoretische Betrachtung von Beratung'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the text?",
+    "output": "The focus of the text is on the concept of resonance in counseling and its relation to adult education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is Erich Ribolits?",
+    "output": "Erich Ribolits is an Austrian education researcher who has written about counseling and adult education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of resonance in the context of counseling?",
+    "output": "The concept of resonance in counseling refers to the idea of creating a relationship between the counselor and the client that is characterized by mutual understanding and empathy."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the resonance model?",
+    "output": "The role of the counselor in the resonance model is to create a resonant relationship with the client, which involves being empathetic, understanding, and non-judgmental."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of counseling in the resonance model?",
+    "output": "The goal of counseling in the resonance model is to help the client achieve a deeper understanding of themselves and their situation, and to develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Entfremdung' in the context of counseling?",
+    "output": "The concept of 'Entfremdung' in the context of counseling refers to the idea of alienation or disconnection from oneself or others."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is Hartmut Rosa?",
+    "output": "Hartmut Rosa is a German sociologist who has written about the concept of resonance and its relation to counseling and adult education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of ' Beschleunigung' in the context of counseling?",
+    "output": "The concept of 'Beschleunigung' in the context of counseling refers to the idea of acceleration or speeding up of modern life, which can lead to feelings of overwhelm and disconnection."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of counseling in the context of 'Beschleunigung'?",
+    "output": "The role of counseling in the context of 'Beschleunigung' is to help individuals slow down and reflect on their lives, and to develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Resonanzachse' in the context of counseling?",
+    "output": "The concept of 'Resonanzachse' in the context of counseling refers to the idea of a resonance axis or a axis of resonance, which is a framework for understanding the concept of resonance in counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relationship between counseling and adult education?",
+    "output": "The relationship between counseling and adult education is that counseling can be seen as a form of adult education, as it aims to help individuals develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Lebenslanges Lernen' in the context of counseling?",
+    "output": "The concept of 'Lebenslanges Lernen' in the context of counseling refers to the idea of lifelong learning, which is the idea that individuals can continue to learn and develop throughout their lives."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of counseling in the context of 'Lebenslanges Lernen'?",
+    "output": "The role of counseling in the context of 'Lebenslanges Lernen' is to help individuals develop a greater sense of self-awareness and self-acceptance, and to support them in their ongoing learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Lernberatung' in the context of counseling?",
+    "output": "The concept of 'Lernberatung' in the context of counseling refers to the idea of learning counseling or educational counseling, which is a form of counseling that focuses on supporting individuals in their learning and educational pursuits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relationship between Lernberatung and adult education?",
+    "output": "The relationship between Lernberatung and adult education is that Lernberatung can be seen as a form of adult education, as it aims to support individuals in their ongoing learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Selbstlernarchitekturen' in the context of Lernberatung?",
+    "output": "The concept of 'Selbstlernarchitekturen' in the context of Lernberatung refers to the idea of self-learning architectures, which is a framework for understanding how individuals can take ownership of their own learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Selbstlernarchitekturen?",
+    "output": "The role of the counselor in the context of Selbstlernarchitekturen is to support individuals in developing their own self-learning architectures, and to help them take ownership of their own learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Rekonstruktive Lernberatung' in the context of counseling?",
+    "output": "The concept of 'Rekonstruktive Lernberatung' in the context of counseling refers to the idea of reconstructive learning counseling, which is a form of counseling that focuses on helping individuals reconstruct their own learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Rekonstruktive Lernberatung?",
+    "output": "The role of the counselor in the context of Rekonstruktive Lernberatung is to support individuals in reconstructing their own learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Beobachtungstheoretische Analyse' in the context of counseling?",
+    "output": "The concept of 'Beobachtungstheoretische Analyse' in the context of counseling refers to the idea of observational theoretical analysis, which is a framework for understanding how counselors can observe and analyze the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Beobachtungstheoretische Analyse?",
+    "output": "The role of the counselor in the context of Beobachtungstheoretische Analyse is to observe and analyze the counseling process, and to use this analysis to inform their practice and support the client's development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Sinnzuschreibungen' in the context of counseling?",
+    "output": "The concept of 'Sinnzuschreibungen' in the context of counseling refers to the idea of meaning attributions, which is the process of attributing meaning to the counseling process and the client's experiences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Sinnzuschreibungen?",
+    "output": "The role of the counselor in the context of Sinnzuschreibungen is to support the client in attributing meaning to their experiences, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Lernberatungskonzeptionen' in the context of counseling?",
+    "output": "The concept of 'Lernberatungskonzeptionen' in the context of counseling refers to the idea of learning counseling concepts, which is a framework for understanding how counselors can support individuals in their learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Lernberatungskonzeptionen?",
+    "output": "The role of the counselor in the context of Lernberatungskonzeptionen is to support individuals in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Beratungskonzepte' in the context of counseling?",
+    "output": "The concept of 'Beratungskonzepte' in the context of counseling refers to the idea of counseling concepts, which is a framework for understanding how counselors can support individuals in their learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Beratungskonzepte?",
+    "output": "The role of the counselor in the context of Beratungskonzepte is to support individuals in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Lernprozesse' in the context of counseling?",
+    "output": "The concept of 'Lernprozesse' in the context of counseling refers to the idea of learning processes, which is a framework for understanding how individuals learn and develop."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Lernprozesse?",
+    "output": "The role of the counselor in the context of Lernprozesse is to support individuals in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Bildung' in the context of counseling?",
+    "output": "The concept of 'Bildung' in the context of counseling refers to the idea of education or formation, which is a framework for understanding how individuals develop and learn."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Bildung?",
+    "output": "The role of the counselor in the context of Bildung is to support individuals in their development and learning, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Erwachsenenbildung' in the context of counseling?",
+    "output": "The concept of 'Erwachsenenbildung' in the context of counseling refers to the idea of adult education, which is a framework for understanding how adults learn and develop."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Erwachsenenbildung?",
+    "output": "The role of the counselor in the context of Erwachsenenbildung is to support adults in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Weiterbildung' in the context of counseling?",
+    "output": "The concept of 'Weiterbildung' in the context of counseling refers to the idea of further education or continuing education, which is a framework for understanding how individuals can continue to learn and develop throughout their lives."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Weiterbildung?",
+    "output": "The role of the counselor in the context of Weiterbildung is to support individuals in their ongoing learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Lernberatung' in the context of adult education?",
+    "output": "The concept of 'Lernberatung' in the context of adult education refers to the idea of learning counseling or educational counseling, which is a form of counseling that focuses on supporting individuals in their learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Lernberatung in adult education?",
+    "output": "The role of the counselor in the context of Lernberatung in adult education is to support individuals in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Selbstlernarchitekturen' in the context of Lernberatung?",
+    "output": "The concept of 'Selbstlernarchitekturen' in the context of Lernberatung refers to the idea of self-learning architectures, which is a framework for understanding how individuals can take ownership of their own learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Selbstlernarchitekturen in Lernberatung?",
+    "output": "The role of the counselor in the context of Selbstlernarchitekturen in Lernberatung is to support individuals in developing their own self-learning architectures, and to help them take ownership of their own learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Rekonstruktive Lernberatung' in the context of adult education?",
+    "output": "The concept of 'Rekonstruktive Lernberatung' in the context of adult education refers to the idea of reconstructive learning counseling, which is a form of counseling that focuses on helping individuals reconstruct their own learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Rekonstruktive Lernberatung in adult education?",
+    "output": "The role of the counselor in the context of Rekonstruktive Lernberatung in adult education is to support individuals in reconstructing their own learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Beobachtungstheoretische Analyse' in the context of Lernberatung?",
+    "output": "The concept of 'Beobachtungstheoretische Analyse' in the context of Lernberatung refers to the idea of observational theoretical analysis, which is a framework for understanding how counselors can observe and analyze the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Beobachtungstheoretische Analyse in Lernberatung?",
+    "output": "The role of the counselor in the context of Beobachtungstheoretische Analyse in Lernberatung is to observe and analyze the counseling process, and to use this analysis to inform their practice and support the client's development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Sinnzuschreibungen' in the context of Lernberatung?",
+    "output": "The concept of 'Sinnzuschreibungen' in the context of Lernberatung refers to the idea of meaning attributions, which is the process of attributing meaning to the counseling process and the client's experiences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Sinnzuschreibungen in Lernberatung?",
+    "output": "The role of the counselor in the context of Sinnzuschreibungen in Lernberatung is to support the client in attributing meaning to their experiences, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Lernberatungskonzeptionen' in the context of adult education?",
+    "output": "The concept of 'Lernberatungskonzeptionen' in the context of adult education refers to the idea of learning counseling concepts, which is a framework for understanding how counselors can support individuals in their learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Lernberatungskonzeptionen in adult education?",
+    "output": "The role of the counselor in the context of Lernberatungskonzeptionen in adult education is to support individuals in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the concept of 'Didaktik' in the context of Lernberatung?",
+    "output": "The concept of 'Didaktik' in the context of Lernberatung refers to the idea of teaching or instruction, which is a framework for understanding how counselors can support individuals in their learning and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the counselor in the context of Didaktik in Lernberatung?",
+    "output": "The role of the counselor in the context of Didaktik in Lernberatung is to support individuals in their learning and development, and to help them develop a greater sense of self-awareness and self-acceptance."
+  }
+]

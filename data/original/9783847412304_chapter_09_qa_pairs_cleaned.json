@@ -1,0 +1,957 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Grundlage für die Darstellung in diesem Beitrag?",
+    "output": "Ein Teilvorhaben im Rahmen des Projektes zur Beratungsqualität (BeQu)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer waren die Hauptakteure im Projekt zur Beratungsqualität?",
+    "output": "Das Institut für Bildungswissenschaft der Universität Heidelberg und dem Nationalen Forum Beratung (nfb)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer förderte das Projekt zur Beratungsqualität?",
+    "output": "Das Bundesministerium für Bildung und Forschung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde im Rahmen des Projektes entwickelt und erprobt?",
+    "output": "Verschiedene Instrumente zur Erfassung und Bewertung der Kompetenzen von Beratenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden Kompetenzen in diesem Kontext beschrieben?",
+    "output": "Als Kern der Professionalität von Beratenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Kompetenzverständnis, das in diesem Beitrag vertreten wird?",
+    "output": "Ein performanzorientierter Kompetenzbegriff, der den Zusammenhang von Dispositionen und Handeln fokussiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet der performanzorientierte Kompetenzbegriff?",
+    "output": "Die Performanz wird betrachtet, die auf vielfältigen Ressourcen bzw. Dispositionen basiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ressourcen, auf denen die Performanz basiert?",
+    "output": "Wissen, Fertigkeiten, Emotionen und Motivation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer schlägt vor, bestimmte Metakompetenzen zu berücksichtigen?",
+    "output": "Weinert (2001)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglichen Metakompetenzen?",
+    "output": "Es Individuen, in einer konkreten Situation adäquat auf Fähigkeiten und Wissen zurückzugreifen, um die Situation erfolgreich zu bewältigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird Kompetenz und spezifischer Beratungskompetenz verstanden?",
+    "output": "Als erfolgreiche, selbstorganisierte Bewältigung einer konkreten Problemstellung unter Rückgriff auf verschiedene aktivierbare Ressourcen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist notwendig, um Kompetenzen zu erfassen?",
+    "output": "Ein Kompetenzmodell und ein daraus abgeleitetes Kompetenzprofil."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde entwickelt, um Kompetenzen von Beratenden zu erfassen?",
+    "output": "Ein systemisches Modell arbeitsweltbezogener Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde das Kompetenzprofil für Beratende entwickelt?",
+    "output": "Unter intensivem Einbezug von Fachleuten aus unterschiedlichen Beratungsfeldern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurden die Kompetenzgruppen mit versehen, um die Kompetenzen messbar zu machen?",
+    "output": "Indikatoren und Verhaltensmerkmale."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer entwickelte die Instrumente zur Kompetenzerfassung?",
+    "output": "Christiane Schiersmann und Peter Weber."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Instrumente zur Kompetenzerfassung?",
+    "output": "Die Erfassung und Bewertung der Kompetenzen von Beratenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kompetenzen für Beratende?",
+    "output": "Sie sind der Kern der Professionalität von Beratenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Kompetenzen von Beratenden definiert?",
+    "output": "Durch ein Kompetenzmodell und ein daraus abgeleitetes Kompetenzprofil."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Kompetenzgruppen in der Abbildung 3 dargestellt?",
+    "output": "Die Kompetenzgruppen wurden auf einzelne Kompetenzen heruntergebrochen und diese wiederum mit Indikatoren versehen sowie um Verhaltensmerkmale ergänzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurden die Kompetenzgruppen heruntergebrochen?",
+    "output": "Um die Kompetenzen messbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt Abbildung 3?",
+    "output": "Das Kompetenzprofil für Beratende in Bildung, Beruf und Beschäftigung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Instrumente zur Kompetenzerfassung entwickelt?",
+    "output": "Durch die Einbindung von fachkundigen Beratenden und Expertenworkshops."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde durch die Expertenworkshops und die inhaltsanalytische Auswertung von schriftlichem Beobachtungsmaterial entwickelt?",
+    "output": "Eine strukturierte und validierte Sammlung von Verhaltensmerkmalen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was konkretisiert die strukturierte Sammlung von Verhaltensmerkmalen?",
+    "output": "Die einzelnen Indikatoren der prozessbezogenen Beratungskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Instrumente zur Erfassung von Handlungsaspekten der Beratungskompetenz erprobt?",
+    "output": "In einer Reihe von Anwenderworkshops."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer war an der Erprobung und Weiterentwicklung der Instrumente beteiligt?",
+    "output": "Die beteiligten Beratenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt Abbildung 4?",
+    "output": "Die Instrumente zur Erfassung von Handlungsaspekten der Beratungskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer entwickelte die Publikation von 2017?",
+    "output": "Schiersmann/Petersen/Weber."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde durch die Einbindung von fachkundigen Beratenden und Expertenworkshops erreicht?",
+    "output": "Eine strukturierte und validierte Sammlung von Verhaltensmerkmalen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurde die Sammlung von Verhaltensmerkmalen entwickelt?",
+    "output": "Um die Kompetenzen messbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Verhaltensmerkmale konkretisiert?",
+    "output": "Durch die inhaltsanalytische Auswertung von schriftlichem Beobachtungsmaterial."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wurde durch die Anwenderworkshops erreicht?",
+    "output": "Die Erprobung und Weiterentwicklung der Instrumente zur Erfassung von Handlungsaspekten der Beratungskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Expertenworkshops und der inhaltsanalytischen Auswertung?",
+    "output": "Eine strukturierte und validierte Sammlung von Verhaltensmerkmalen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Instrumente zur Erfassung von Handlungsaspekten der Beratungskompetenz?",
+    "output": "Die Kompetenzen messbar zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurde das Kompetenzprofil für Beratende entwickelt?",
+    "output": "Das Kompetenzprofil für Beratende wurde durch eine Reihe von Anwenderworkshops erprobt und mit den beteiligten Beratenden diskutiert und weiterentwickelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Beobachtungsbogens?",
+    "output": "Der Beobachtungsbogen dient zur Dokumentation und Beurteilung von Beratungsgesprächen durch den Einsatz von Simulationsklientel oder videographierten realen Beratungssituationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Teilkompetenzen zur Gestaltung von Beratungsprozessen umfasst das Kompetenzprofil?",
+    "output": "Das Kompetenzprofil umfasst sieben Teilkompetenzen zur Gestaltung von Beratungsprozessen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sollte die Bewertung der Kompetenzen von Beratenden vornehmen?",
+    "output": "Die Bewertung sollte von erfahrenen und geschulten Personen vorgenommen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Herausforderung besteht bei der Beobachtung von Performanz auf die Kompetenz von Beratenden?",
+    "output": "Die Herausforderung besteht darin, die dargestellten Beobachtungen, Bewertungen und Reflexionen im Kompetenzmodell einzuordnen und dabei auch offen zu bleiben für sinnvolle Alternativen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des ersten Schritts im Verfahren zur Kompetenzerfassung und -beurteilung?",
+    "output": "Im ersten Schritt werden die von den Beratenden im jeweiligen Instrument dargestellten Verhaltensweisen sowie die Begründung der Vorgehensweise im Beratungsprozess und die Handlungsoptionen dokumentiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie erfolgt die Gesamteinschätzung im zweiten Schritt des Verfahrens?",
+    "output": "Die Gesamteinschätzung erfolgt auf Basis der vom Beratenden zur Beschreibung genutzten Verhaltensmerkmale und der Begründung der Vorgehensweise bezüglich des jeweiligen Kompetenzaspektes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Ziele der Weiterentwicklung des Verfahrens zur Kompetenzerfassung und -beurteilung?",
+    "output": "Die Ziele sind die erweiterte Erprobung des Verfahrens, die inhaltliche Weiterentwicklung und Erprobung des Konzeptes zur Beurteilung der Kompetenzen, die Optimierung der Instrumente und die Entwicklung und Validierung von Niveaudifferenzierungen der Beratungskompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann das Verfahren zur Kompetenzerfassung und -beurteilung in der Praxis eingesetzt werden?",
+    "output": "Das Verfahren kann im Rahmen von Personalauswahl und Personalentwicklung eingesetzt werden und eröffnet Wege zu einer fundierten und professionsangemessenen Zertifizierung von formell und informell erworbenen Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung bei der Erfassung und Anerkennung von Kompetenzen in sozialkommunikativen Berufsfeldern?",
+    "output": "Die Herausforderung besteht in der transparenten und validen Erfassung von Kompetenzen, insbesondere bei der Simulation von handlungs- bzw. praxisnahen Aspekten von Kompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Erfassung von Kompetenzen in der Beratung verbessert werden?",
+    "output": "Durch die Erprobung verschiedener Instrumente und die Entwicklung von Niveaudifferenzierungen der Beratungskompetenz kann die Erfassung von Kompetenzen verbessert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion ist wichtig, um die Kompetenzen von Beratenden zu erfassen und zu beurteilen, da sie die Fähigkeit zum reflektierten Handeln und zur Selbstreflexion umfasst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Professionalisierung von Beratenden gefördert werden?",
+    "output": "Durch die Entwicklung von Instrumenten zur Kompetenzerfassung und -beurteilung und die Förderung von Reflexionsprozessen kann die Professionalisierung von Beratenden gefördert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Projekts BeQu?",
+    "output": "Das Ziel des Projekts BeQu ist die Entwicklung von Instrumenten zur Kompetenzerfassung und -beurteilung für Beratende in Bildung, Beruf und Beschäftigung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Instrumente zur Kompetenzerfassung und -beurteilung entwickelt?",
+    "output": "Die Instrumente wurden durch eine Reihe von Anwenderworkshops erprobt und mit den beteiligten Beratenden diskutiert und weiterentwickelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Validität und Reliabilität bei der Erfassung von Kompetenzen?",
+    "output": "Die Validität und Reliabilität sind wichtig, um sicherzustellen, dass die Instrumente zur Kompetenzerfassung und -beurteilung genau und zuverlässig sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Erfassung von Kompetenzen in verschiedenen Beratungsfeldern erfolgen?",
+    "output": "Die Erfassung von Kompetenzen kann durch die Anwendung von Instrumenten zur Kompetenzerfassung und -beurteilung in verschiedenen Beratungsfeldern erfolgen, wie z.B. in der Bildung, im Beruf und in der Beschäftigung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung bei der Anerkennung von Kompetenzen?",
+    "output": "Die Herausforderung besteht darin, die Anerkennung von Kompetenzen so zu gestalten, dass sie valide, reliabel und praxisrelevant ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Zertifizierung von Kompetenzen erfolgen?",
+    "output": "Die Zertifizierung von Kompetenzen kann durch die Anwendung von Instrumenten zur Kompetenzerfassung und -beurteilung und die Anerkennung von Kompetenzen durch eine zuständige Stelle erfolgen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Perspektive wird in dem Text als Alternative zur strukturbezogenen Sichtweise auf Professionalisierung vorgeschlagen?",
+    "output": "Eine subjektorientierte Perspektive, die die individuellen und berufsbiographisch früh entfalteten Perspektiven von sich hinsichtlich Beratung bildenden Subjekten in den Vordergrund stellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der empirischen Frage in dem Text?",
+    "output": "Das Ziel ist es, zu untersuchen, ob eine frühe Professionalisierung an der Hochschule möglich ist und wie sie sinnvoll auszugestalten und zu theoretisieren sei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird im BeraLab realisiert?",
+    "output": "Eine produktive Verbindung zwischen Lernen, Lehren und Forschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Faktoren enthält die Zwei-Faktor-Lösung der TBKS-Daten?",
+    "output": "Zwei Faktoren: TM (Techniken und Methoden) und IAB (Interesse, Anerkennung und Beziehung)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt der Faktor TM dar?",
+    "output": "Die technisch-methodischen Aspekte psychosozialer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt der Faktor IAB dar?",
+    "output": "Beziehungsgestaltungaspekte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Erstgespräche aus dem BeraLab wurden für die Trendstudie ausgewertet?",
+    "output": "206 Erstgespräche."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren, die im Text erwähnt werden?",
+    "output": "Hohenshil et al."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Jahr wurden die Daten von Hohenshil et al. veröffentlicht?",
+    "output": "2015."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der empirischen Daten zum Beratungskompetenzerwerb an der Hochschule?",
+    "output": "Die Daten zeigen die Entwicklungsperspektive über das Studium hinweg und einen teilnehmerInnenspezifischen Blick auf die Heterogenität von Professionalisierungsprozessen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe des BeraLab?",
+    "output": "Das BeraLab dient als Simulationsumgebung für die Erfassung von Beratungskompetenz in Forschung, Lehre und Praxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung für die herkömmlichen Professionalisierungsmuster?",
+    "output": "Die Umstellung auf Bologna-Studiengänge und die Veränderungen in den Erwartungen an Hochschulbildung und Beratungspraxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Folge der Änderungen in den Erwartungen an Hochschulbildung und Beratungspraxis?",
+    "output": "Die Frage entsteht, ob ein überwiegend strukturbezogener Blick auf Professionalisierung nicht einer subjektorientierten Sichtweise weichen müsste."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Subjekte in der Professionalisierung?",
+    "output": "Die Subjekte sollten im Vordergrund stehen, da ihre individuellen und berufsbiographisch früh entfalteten Perspektiven wichtig für die Professionalisierung sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der empirischen Daten für die Theorie?",
+    "output": "Die empirischen Daten liefern eine Grundlage für die Theoretisierung der Professionalisierung und die Entwicklung von Konzepten für die Beratungsausbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Perspektive auf Kompetenzerwerb, die in dem Text diskutiert wird?",
+    "output": "Eine subjektorientierte Perspektive, die den Kompetenzerwerb als eine Veränderung von Professionalisierungsstrukturen in der Beratung betrachtet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt Abbildung 1?",
+    "output": "Eine Trendstudie über die Semester 1 bis 12 von angehenden SozialpädagogInnen, die am BeraLab teilgenommen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die TBKS-Daten in Abbildung 1 verdichtet?",
+    "output": "Zu einer Zwei-Faktor-Lösung, in der der Faktor TM die technisch-methodischen Aspekte psychosozialer Beratung und der Faktor IAB Beziehungsgestaltungaspekte abbildet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt der Faktor TM dar?",
+    "output": "Die technisch-methodischen Aspekte psychosozialer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt der Faktor IAB dar?",
+    "output": "Beziehungsgestaltungaspekte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Erstgespräche aus dem BeraLab wurden für Abbildung 1 ausgewertet?",
+    "output": "n=206."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Vielfalt der individuellen Kompetenzprofile?",
+    "output": "Eine unterschiedliche quantitative Ausprägung und Heterogenität der Profilzusammensetzungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Beispiel für die Heterogenität der Profilzusammensetzungen?",
+    "output": "Einige StudentInnen haben Probleme mit der Strukturierung, während andere von Natur aus BeziehungskünstlerInnen sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt Abbildung 2?",
+    "output": "TBKS-Kompetenzprofile von 16 StudentInnen zu Beginn eines Beratungsseminars."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel zukünftiger Studien?",
+    "output": "Gezielte Mixed-Method-Studien, um Verbindungen zwischen den quantitativen und qualitativen Daten herzustellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die detaillierte Auswertung der Think-Aloud-Transkripte?",
+    "output": "Dass Studierende im Anschluss an das Identifizieren relevanter Stellen sehr differenzierte Reflexionen über ihr Handeln abgeben können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ergebnis der Forschung?",
+    "output": "Das Erfassen und Bilanzieren individueller Unterschiede in der Beratungskompetenz birgt die Chance, in subjektorientierte Professionalisierungsprozesse einzutreten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet Subjektorientierte Professionalisierung?",
+    "output": "Ein Programm für handlungswissenschaftliche Studiengänge, das darauf abzielt, individuelle Lern- und Bildungsprozesse zu initiieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Beispiel für Instrumente der Erwachsenenbildung?",
+    "output": "Portfolioarbeit oder Lernarrangements, die konsequent auf Nutzung von Digitalisierung setzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Modell für die didaktische Konkretisierung subjektorientierter Professionalisierung?",
+    "output": "Ein Modell, in dessen Zentrum individuelle fachliche Entwicklungsaufgaben stehen, die im Spannungsfeld zwischen personengebundenen Eingangsvoraussetzungen und strukturellen Setzungen eines Bildungsgangs gelöst werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren des Buches 'Professionalisierungs- und Kompetenzentwicklungsprozesse in der sozialpädagogischen Beratung'?",
+    "output": "Bauer, Petra und Weinhardt, Marc."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde das Buch 'Perspektiven sozialpädagogischer Beratung' veröffentlicht?",
+    "output": "2014."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Artikels?",
+    "output": "Subjektorientierte Professionalisierung als Programm für handlungswissenschaftliche Studiengänge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Subjektorientierten Professionalisierung?",
+    "output": "Das Thema Beratung intensiv und direkt auf die Person bezogen zu erschließen und gleichzeitig selbst für Beratung zu erschließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ergebnis der Forschung zur Subjektorientierten Professionalisierung?",
+    "output": "Dass Praxisformationen, in denen bisher Beratung gelernt wurde, ersetzt werden durch stark reflexive und bewusst gestaltete individuelle Kombinationen von Zugangswegen zum Wissenserwerb."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Where is the publication 'ProfiL_-_Professionalisierung_durch_Beratung_im_Lehramtsstudium' available online?",
+    "output": "https://www.researchgate.net/publication/316687708"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who edited the publication 'Beratung im Übergang' in 2013?",
+    "output": "Walther, Andreas; Weinhardt, Marc"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what year was the publication 'Kompetenzentwicklung in der psychosozialen Beratung am Beispiel von Studierenden der Erziehungswissenschaft' published?",
+    "output": "2014"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who published 'Psychosoziale Beratungskompetenz. Pilotstudien aus der Arbeitsstelle für Beratungsforschung' in 2015?",
+    "output": "Weinhardt, Marc"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the publication by Weinhardt in 2016 where he discusses 'Haltung und Methode, Person und Technik'?",
+    "output": "Empirische Perspektiven auf Struktur und Vermittlung von Beratungskompetenz"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what publication did Weinhardt discuss 'Jugendhilfe und Systemische Beratung' in 2016?",
+    "output": "Pädagogische Beratung über die Lebensspanne"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the publication by Weinhardt in 2017?",
+    "output": "Subjektorientierte Professionalisierung, Lebenslanges Lernen und der EQR/DQR in der Systemischen Fort- und Weiterbildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what year was the publication 'Beraten' by Weinhardt published?",
+    "output": "2018"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who published 'Kompetenzorientiert systemisch beraten lernen' in 2018?",
+    "output": "Weinhardt, Marc"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who co-authored 'Die Professionalisierung von Personal als Leitungsaufgabe' with Weinhardt in 2016?",
+    "output": "Bauer, Petra"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the publication by Weinhardt and Kelava in 2016?",
+    "output": "Die performanzorientierte Erfassung psychosozialer Beratungskompetenz"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who published 'Communities of practice. Learning, meaning, and identity' in 1998?",
+    "output": "Wenger, Etienne"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the institute where the publication 'Social Talk 2015' was presented?",
+    "output": "Institut für Zukunftsfragen der Gesundheits- und Sozialwirtschaft (IZGS) der Evangelischen Hochschule Darmstadt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who edited the publication 'Perspektiven sozialpädagogischer Beratung' in 2014?",
+    "output": "Petra Bauer, Marc Weinhardt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the publication by Weinhardt in 'neue praxis' in 2016?",
+    "output": "Die performanzorientierte Erfassung psychosozialer Beratungskompetenz"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who published 'Soziale Arbeit. Eine elementare Einführung' in 2018?",
+    "output": "Gunther Graßhoff, Anna Renker, Wolfgang Schröer"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of the book 'Psychosoziale Beratungskompetenz'?",
+    "output": "Beltz"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who co-authored 'Professionalisierungs- und Kompetenzentwicklungsprozesse in der sozialpädagogischen Beratung' with Weinhardt?",
+    "output": "Petra Bauer"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who wrote the book 'Communities of practice. Learning, meaning, and identity'?",
+    "output": "Etienne Wenger."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what year was the book 'Communities of practice. Learning, meaning, and identity' published?",
+    "output": "1998."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of Johannes Wahl's work?",
+    "output": "Beratung zwischen biographischen Negativerfahrungen und offener biographischer Zukunft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the erziehungswissenschaftlicher interest in the given text?",
+    "output": "The focus is on the relevance of the counseled individuals' wishes and goal ideas in the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What type of analysis is not performed in the given text?",
+    "output": "An immediate analysis of the statements of the counseled individuals themselves."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What study is referenced in the text?",
+    "output": "The PAELL-Studie."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the two questions discussed in the text?",
+    "output": "1. How is the core activity of counseling related to other pedagogical core activities in the professional self-descriptions of pedagogically active individuals? 2. What counseling occasions and time references can be identified in the professional self-descriptions of pedagogically active individuals?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of time in the context of counseling?",
+    "output": "Time is considered a crucial factor in counseling, influencing the quality and outcome of the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is meant by 'Eigenzeiten von Lernimpulsen'?",
+    "output": "The subjective interests and relevance settings when declaring time periods as learning times."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who wrote about the temporal situation constitution in counseling conversations?",
+    "output": "Maier-Gutheil."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the availability of time in counseling?",
+    "output": "The availability of time can be seen as a quality criterion for counseling, with a good counseling process being characterized by a suitable allocation of time for the counseled individuals."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the 'biographische Exploration' method used for?",
+    "output": "Reconstructing biographical patterns of social time."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who discussed the theme of time in the context of counseling?",
+    "output": "Several authors, including Brödel, Yendell, Schmidt-Lauff, Maier-Gutheil, Kossack, Seel, Schiersmann, and Weber."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relationship between time and learning outcomes in counseling?",
+    "output": "A suitable allocation of time can lead to significant learning outcomes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the two main aspects of the text's focus on counseling?",
+    "output": "1. The relation of counseling to other pedagogical core activities, and 2. The time references and counseling occasions in the professional self-descriptions of pedagogically active individuals."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the target group of the counseling process in the given text?",
+    "output": "The counseled individuals, whose wishes and goal ideas are considered in the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the temporal dimension in counseling?",
+    "output": "The temporal dimension is crucial in counseling, as it influences the quality and outcome of the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main research question of the given text?",
+    "output": "How is the core activity of counseling related to other pedagogical core activities, and what time references and counseling occasions can be identified in the professional self-descriptions of pedagogically active individuals?"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielt der Faktor Zeit in Beratungskontexten?",
+    "output": "Dem Faktor Zeit wird in Beratungskontexten eine wichtige Rolle zugeschrieben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie zeigt sich die temporale Ausrichtung in der beruflichen Bildung?",
+    "output": "Die Vorbereitung der pädagogisch Anderen auf die zukünftig anstehende Übernahme einer Berufsrolle steht im Mittelpunkt der Aussagen zum lebenslangen Lernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist lebenslanges Lernen in der Erwachsenenbildung wichtig?",
+    "output": "Lebenslanges Lernen ist wichtig, weil es aufgrund zukünftig auftretender berufsbezogener Lernanforderungen notwendig ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Bezüge zeigen sich in der Erwachsenenbildung?",
+    "output": "Retrospektiv-kompensatorische Bezüge, wobei das lebenslange Lernen als wichtig für die Kompensation negativer schulischer Lernerfahrungen erachtet wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie zeigt sich die Relationierung pädagogischer Kernaktivitäten in der beruflichen Bildung?",
+    "output": "Beratende Aktivitäten werden verstärkt mit der Kernaktivität des Unterrichtens in Verbindung gebracht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Kontext beraten pädagogisch Tätige in der beruflichen Bildung?",
+    "output": "Im Bereich der Berufsorientierung an den Übergängen zwischen Schule und Beruf bzw. zwischen Schule und Hochschule."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie zeigt sich die Kombination von Kernaktivitäten in der Erwachsenenbildung?",
+    "output": "Die Studienteilnehmenden verweisen auf Konstellationen, in denen sie zusätzlich zu anderen Kernaktivitäten wie bspw. dem Unterrichten beratend tätig werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Kernaktivität des Beratens in pädagogischen Handlungsfeldern eingesetzt werden?",
+    "output": "In unterschiedlichsten Konstellationen, wie z.B. direkt adressiert oder im Verbund mit weiteren Kernaktivitäten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Differenz zeigt sich bei der Kontrastierung der drei pädagogischen Arbeitsfelder?",
+    "output": "Die Differenz zwischen dem Beraten als eigenständiges Setting der individuellen Fallarbeit und dem Beraten im Verbund mit weiteren Kernaktivitäten, die eher auf kollektive Fallarbeit ausgerichtet sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rolle spielt das Beraten in der beruflichen Bildung?",
+    "output": "Das Beraten spielt eine wichtige Rolle in der beruflichen Bildung, insbesondere bei der Vorbereitung der pädagogisch Anderen auf die zukünftig anstehende Übernahme einer Berufsrolle."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Zukunft der pädagogisch Anderen in der Erwachsenenbildung?",
+    "output": "Die Zukunft der pädagogisch Anderen ist wichtig, da sie aufgrund zukünftig auftretender berufsbezogener Lernanforderungen notwendig ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Konsequenzen hat die Ungewissheit von zukünftigen Herausforderungen in der Erwachsenenbildung?",
+    "output": "Die Ungewissheit von zukünftigen Herausforderungen führt zu einer stärkeren Betonung des lebenslangen Lernens, um auf diese Herausforderungen vorbereitet zu sein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie zeigt sich die Verwobenheit von individueller und kollektiver Fallarbeit in der beruflichen Bildung?",
+    "output": "Die Verwobenheit zeigt sich in der Kombination von beratenden Aktivitäten mit der Kernaktivität des Unterrichtens."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Bedeutung hat die Kernaktivität des Beratens in pädagogischen Handlungsfeldern?",
+    "output": "Die Kernaktivität des Beratens hat eine wichtige Bedeutung in pädagogischen Handlungsfeldern, da sie dazu beiträgt, die pädagogisch Anderen auf ihre Zukunft vorzubereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Kernaktivität des Beratens in der Erwachsenenbildung eingesetzt werden?",
+    "output": "Die Kernaktivität des Beratens kann in der Erwachsenenbildung eingesetzt werden, um die pädagogisch Anderen auf ihre zukünftigen Herausforderungen vorzubereiten und ihnen zu helfen, ihre Lernanforderungen zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Auswirkungen hat die Betonung des lebenslangen Lernens in der Erwachsenenbildung?",
+    "output": "Die Betonung des lebenslangen Lernens in der Erwachsenenbildung führt zu einer stärkeren Fokussierung auf die Zukunft der pädagogisch Anderen und ihrer Bedürfnisse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie zeigt sich die Differenz zwischen dem Beraten als eigenständiges Setting und dem Beraten im Verbund mit weiteren Kernaktivitäten?",
+    "output": "Die Differenz zeigt sich in der Art und Weise, wie das Beraten eingesetzt wird, entweder als eigenständiges Setting oder im Verbund mit weiteren Kernaktivitäten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchen pädagogischen Arbeitsfeldern kann Beratung stattfinden?",
+    "output": "Beratung kann in der beruflichen Bildung, der Erwachsenenbildung und dem Elementarbereich stattfinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ergibt sich aus der Kontrastierung der drei pädagogischen Arbeitsfelder?",
+    "output": "Die Differenz zwischen dem Beraten als eigenständiges Setting der individuellen Fallarbeit und dem Beraten im Verbund mit weiteren Kernaktivitäten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird Beratung in anderen pädagogischen Kontexten durchgeführt?",
+    "output": "Beratung wird in Kombination mit anderen pädagogischen Kernaktivitäten wie Unterrichten durchgeführt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt sich durch die komparative Sicht auf Beratungsanlässe?",
+    "output": "Dass Beraten in anderen pädagogischen Kontexten erst in Kombination mit anderen pädagogischen Kernaktivitäten dazu führt, dass der pädagogische Auftrag erreicht wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ergibt die Sekundäranalyse der PAELL-Studie?",
+    "output": "Dass die pädagogisch Tätigen aus allen drei pädagogischen Arbeitsfeldern sowohl prospektiv-teleologische als auch retrospektiv-kompensatorische Beratungsanlässe wahrnehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfassen Anliegen, die den Umgang mit negativen Erfahrungen umfassen?",
+    "output": "Diese Anliegen weisen einen Zeitbezug zur biographischen Vergangenheit auf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die biographische Zukunft in beruflichen Selbstbeschreibungen kontextualisiert?",
+    "output": "Die biographische Zukunft wird chronologisch kontextualisiert, in denen mögliche Gestaltungsoptionen für die weitere Berufs- und/oder Bildungsbiographie den Beratungsanlass darstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was führt die Pluralität der möglichen Negativerfahrungen und die potentiell zunehmende Vielfalt der berufs- und bildungsbio-graphischen Gestaltungsoptionen zu?",
+    "output": "Zu steigenden Anforderungen an die pädagogisch Tätigen, die ihren Wissensstand entsprechend anpassen müssen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht der Vergleich der beruflichen Selbstbeschreibungen von pädagogisch Tätigen?",
+    "output": "Ein Einblick in die Vielfalt von Beratungsanlässen, mit denen die pädagogisch Anderen bzw. deren Angehörige sie aufsuchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt sich durch die Sekundäranalyse der PAELL-Studie in Bezug auf die Zeitbezüge von Beratungsanlässen?",
+    "output": "Dass die pädagogisch Tätigen sowohl prospektiv-teleologische als auch retrospektiv-kompensatorische Beratungsanlässe wahrnehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Folge der steigenden Anforderungen an die pädagogisch Tätigen?",
+    "output": "Eine professionstheoretisch anschlussfähige Folge, die zu einer Anpassung des Wissensstandes der pädagogisch Tätigen führt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst die biographische Vergangenheit in Bezug auf Beratungsanlässe?",
+    "output": "Die biographische Vergangenheit umfasst Anliegen, die den Umgang mit negativen Erfahrungen umfassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der biographischen Zukunft in Bezug auf Beratungsanlässe?",
+    "output": "Die biographische Zukunft ist von Bedeutung, da sie mögliche Gestaltungsoptionen für die weitere Berufs- und/oder Bildungsbiographie darstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Kontrastierung der drei pädagogischen Arbeitsfelder in Bezug auf Beratung?",
+    "output": "Die Differenz zwischen dem Beraten als eigenständiges Setting der individuellen Fallarbeit und dem Beraten im Verbund mit weiteren Kernaktivitäten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was führt zu steigenden Anforderungen an die pädagogisch Tätigen?",
+    "output": "Die Pluralität der möglichen Negativerfahrungen und die potentiell zunehmende Vielfalt der berufs- und bildungsbio-graphischen Gestaltungsoptionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main goal of the Bildungsberatungs-Radar project?",
+    "output": "To identify and analyze educational barriers and provide recommendations for improvement"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the three structural levels used to analyze the cases in the project?",
+    "output": "Institutionelle Praxis, Angebotsstruktur, and gesetzlicher Rahmen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is one of the challenges mentioned in the text regarding the project's results?",
+    "output": "The need for early involvement of relevant stakeholders"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is suggested as a way to improve the project's impact?",
+    "output": "Additional public relations work, such as annual reports or quarterly publications"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is one of the initial results of the project?",
+    "output": "The development of a common understanding of counseling and its social role"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what year was the concept of Aktionsforschung developed?",
+    "output": "1946"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the Bildungsberatungs-Radar project's intervention?",
+    "output": "To provide feedback and recommendations for improvement"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the expected outcome of the Bildungsberatungs-Radar project?",
+    "output": "To make educational barriers visible and provide solutions for improvement"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who are the target audience of the Bildungsberatungs-Radar project's results?",
+    "output": "Relevant stakeholders in the system of lifelong learning"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was lässt sich aus der Pilotphase bereits formulieren?",
+    "output": "Erste Ergebnisse hinsichtlich der Entwicklung eines gemeinsamen Beratungsverständnisses und der Sensibilisierung für die gesellschaftliche Rolle von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was übernimmt die wissenschaftliche Begleitung im Pilotprojekt?",
+    "output": "Eine wichtige Funktion durch die Aufbereitung und Kommunikation der Ergebnisse zur Entlastung der BeraterInnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der wissenschaftlichen Forschung im Pilotprojekt?",
+    "output": "Eine explizit gesellschaftskritische Rolle, die sich nicht darauf beschränkt, Beratung zu optimieren, sondern gesellschaftliche Problemlagen systematisch herausarbeitet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet die Begleitforschung im Pilotprojekt?",
+    "output": "Eine kritische Beratungsforschung, die Beratungsrealität durch die gemeinsame Analyse in strukturelle Zusammenhänge eingeordnet und Bildungs- und Berufsberatung in ihrer gesellschaftlichen Funktion unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bietet das Projekt Bildungsberatungs-Radar aus erwachsenenpädagogischer Perspektive?",
+    "output": "Mehrere Anknüpfungspunkte für weitere Forschungen und ein zusätzliches Evaluierungs- und Qualitätsförderungsinstrument für ein lernendes System der Erwachsenenbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die AdressatInnen des Bildungsberatungs-Radars?",
+    "output": "Politik, Verwaltung, Bildung und Betriebe sowie das Beratungssystem selbst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellt der Bildungsberatungs-Radar dar?",
+    "output": "Ein mögliche Lernquelle für BildungsberaterInnen und eine systematische und kontinuierliche Verbindung von Forschungsergebnissen und der Aus- und Fortbildung von BeraterInnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht der strukturierte Prozess des Bildungsberatungsradars?",
+    "output": "Einen Rahmen für die überinstitutionelle Systematisierung von Wissensbeständen und eine Anerkennung der spezifischen Expertise der BeraterInnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Voraussetzung für die Umsetzung des Bildungsberatungs-Radars?",
+    "output": "Förderkontexte, die den Freiraum für innovative Entwicklungen aus der Beratungspraxis heraus ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratungsforschung im Pilotprojekt?",
+    "output": "Eine systematische und kontinuierliche Verbindung von Forschungsergebnissen und der Aus- und Fortbildung von BeraterInnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet die Rolle der wissenschaftlichen Forschung im Pilotprojekt?",
+    "output": "Eine explizit gesellschaftskritische Rolle, die gesellschaftliche Problemlagen systematisch herausarbeitet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion der Begleitforschung im Pilotprojekt?",
+    "output": "Eine kritische Beratungsforschung, die Beratungsrealität durch die gemeinsame Analyse in strukturelle Zusammenhänge eingeordnet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bietet der Bildungsberatungs-Radar für Weiterbildungseinrichtungen?",
+    "output": "Nützliche Informationen über die Nachfrage von Weiterbildungen oder Hindernisse für die Inanspruchnahme von Angeboten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Pilotphase?",
+    "output": "Erste Ergebnisse hinsichtlich der Entwicklung eines gemeinsamen Beratungsverständnisses und der Sensibilisierung für die gesellschaftliche Rolle von Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der wissenschaftlichen Begleitung im Pilotprojekt?",
+    "output": "Die Aufbereitung und Kommunikation der Ergebnisse zur Entlastung der BeraterInnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet der Begriff 'kritische Beratungsforschung' im Pilotprojekt?",
+    "output": "Eine Beratungsforschung, die Beratungsrealität durch die gemeinsame Analyse in strukturelle Zusammenhänge eingeordnet und Bildungs- und Berufsberatung in ihrer gesellschaftlichen Funktion unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Perspektive des Bildungsberatungs-Radars?",
+    "output": "Ein Perspektivenwechsel, indem Beratung als Generierung von zielgruppenspezifischem Wissen verstanden wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung im Bildungsberatungs-Radar?",
+    "output": "Eine 'Aufklärungsinstanz', die nicht nur auf individueller, sondern auch auf struktureller Ebene unterstützt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was könnte der Bildungs-beratungs-Radar ermöglichen?",
+    "output": "Eine systematische und kontinuierliche Verbindung von Forschungsergebnissen und der Aus- und Fortbildung von BeraterInnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Voraussetzung für die Ermöglichung durch den Bildungs-beratungs-Radar?",
+    "output": "Förderkontexte, die den Freiraum für innovative Entwicklungen aus der Beratungspraxis heraus ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welcher Stadt ist der Verlag 'Springer VS' ansässig?",
+    "output": "Wiesbaden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Buches 'Zukunftsfeld Bildungs- und Berufsberatung IV'?",
+    "output": "Schwierige Zeiten – Positionierungen und Perspektiven."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Bildungs-beratungs-Radar?",
+    "output": "Eine systematische und kontinuierliche Verbindung von Forschungsergebnissen und der Aus- und Fortbildung von BeraterInnen zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Voraussetzungen für die Umsetzung des Bildungs-beratungs-Radar?",
+    "output": "Förderkontexte, die den Freiraum für innovative Entwicklungen aus der Beratungspraxis heraus ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Positionierung der Herausgeber des Buches 'Zukunftsfeld Bildungs- und Berufsberatung IV'?",
+    "output": "Die Herausgeber positionieren sich mit dem Buch in schwierigen Zeiten und bieten Perspektiven."
+  }
+]

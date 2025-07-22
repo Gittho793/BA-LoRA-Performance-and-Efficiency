@@ -1,0 +1,1082 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "When did the Deutsche Gesellschaft für Beratung/Counseiling (DGfB) discuss standards for counseling?",
+    "output": "In the fall of 2009."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the Richtlinien zum Systemischen Berater/DGSF?",
+    "output": "To establish the standards for systemically oriented counseling and to recognize institutes that meet these standards."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the minimum duration of a recognized Weiterbildungsgang?",
+    "output": "Two years with a minimum of 550 teaching units."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many teaching units can be credited per Weiterbildungstag?",
+    "output": "A maximum of 10 teaching units."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the composition of the verantwortliche Leitung of a Weiterbildungsgang?",
+    "output": "Up to two Lehrenden für Beratung (DGSF)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What percentage of seminars must the verantwortliche Leitung conduct themselves?",
+    "output": "At least 60 percent."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many additional Lehrende für Beratung or SupervisorInnen must be integrated into the Weiterbildung?",
+    "output": "At least two."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Where must all Weiterbildungsbestandteile, including Supervisionen and Selbsterfahrung, be completed?",
+    "output": "Within the Weiterbildung and under the responsibility of the institute."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the Basisqualifikation des Systemischen Beraters?",
+    "output": "To cover the basic competence of counseling as a partial competence in various psycho-social professions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the definition of a teaching unit (UE) in the context of the Weiterbildungsgang?",
+    "output": "At least 45 minutes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can a Quereinstieg into the Weiterbildungsgang be enabled?",
+    "output": "Yes, the curriculum should allow for a Quereinstieg."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the Zertifikat that can be awarded upon completion of the Weiterbildung?",
+    "output": "The Zertifikat 'Systemische Beratung' (DGSF)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What type of Weiterbildung is the focus of the Richtlinien?",
+    "output": "Systemische Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is responsible for ensuring that all Weiterbildungsbestandteile are completed within the Weiterbildung?",
+    "output": "The institute."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo müssen alle Weiterbildungsbestandteile, insbesondere die Supervisionen und die Selbsterfahrung, innerhalb der Weiterbildung geleistet werden?",
+    "output": "Innerhalb der Weiterbildung und unter Verantwortung des Instituts."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was muss das Institut gewährleisten hinsichtlich der Leistung aller beteiligten Lehrenden und SupervisorInnen?",
+    "output": "Dass die Leistung aller beteiligten Lehrenden und SupervisorInnen den Richtlinien der DGSF entsprechen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Müssen die Gesamtkosten der Weiterbildung in der Ausschreibung genannt sein?",
+    "output": "Ja, die Gesamtkosten der Weiterbildung müssen in der Ausschreibung genannt sein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Weiterbildung durch das Institut evaluiert?",
+    "output": "Kontinuierlich und angemessen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine Voraussetzung für die Anerkennung des Instituts?",
+    "output": "Das antragstellende Institut ist Mitglied der DGSF."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie lange gilt die Anerkennung des Instituts?",
+    "output": "Für die Dauer der Mitgliedschaft, längstens jedoch für 5 Jahre."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Eingangsvoraussetzungen für die Weiterbildung?",
+    "output": "Hochschul- oder Fachhochschulabschluss im Bereich der Humanwissenschaften und psychosoziale Praxiserfahrungen oder eine abgeschlossene Berufsausbildung und eine mindestens 3-jährige Berufstätigkeit im psychosozialen oder beraterischen Feld."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine weitere Eingangsvoraussetzung für die Weiterbildung?",
+    "output": "Möglichkeit zur Umsetzung systemischer Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Unterrichtseinheiten (UE) umfasst der Bereich 'Theorie und Methodik'?",
+    "output": "200 UE."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Inhalte des Bereichs 'Systemische Supervision'?",
+    "output": "100 UE angeleitete fortlaufende begleitende Supervision (als Gruppen- bzw. Einzelsupervision) der systemischen Beratungspraxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Unterrichtseinheiten (UE) umfasst der Bereich 'Systemische Supervision'?",
+    "output": "100 UE."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein Ziel der Weiterbildung?",
+    "output": "Entwicklung einer professionellen, beraterischen Identität."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird im Bereich 'Theorie und Methodik' behandelt?",
+    "output": "Theoretische Grundlagen systemischer Beratung und unterschiedlicher Klientensysteme."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Gesprächsführung?",
+    "output": "Kontextsensibilität."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele UE umfasst die systemische Supervision?",
+    "output": "100 UE."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist während der Weiterbildung in der Supervision vorzustellen?",
+    "output": "Mindestens eine Arbeitssitzung (Live, per Video oder Audio)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele UE umfasst die Berufsfeldrelevante Selbsterfahrung?",
+    "output": "100 UE."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Worauf bezieht sich die Selbsterfahrung?",
+    "output": "Auf die aktuelle Berufs- und Lebenssituation sowie die Herkunftsfamilie."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele UE umfasst die systemische Beratungspraxis?",
+    "output": "70 UE."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Beratungsstunden müssen unter begleitender Supervision durchgeführt werden?",
+    "output": "Mindestens 70 Beratungsstunden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die während des Weiterbildungsganges durchgeführten systemischen Beratungen dokumentiert?",
+    "output": "Unter Berücksichtigung der geltenden Datenschutzbestivalungen, Protokollierung des für die jeweilige Sitzung zentralen Prozesses und der Interventionen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele ausführlich dokumentierte abgeschlossene Beratungsprozesse müssen nachgewiesen werden?",
+    "output": "Drei."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Intervision durchgeführt?",
+    "output": "Von den WeiterbildungsteilnehmerInnen in Kleingruppen selbst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie erfolgt der Abschluss der Weiterbildung?",
+    "output": "Durch eine schriftliche Abschlussarbeit und/oder ein Abschlusskolloquium."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erhalten AbsolventInnen anerkannter Weiterbildungen auf Antrag?",
+    "output": "Ein Zertifikat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was lautet das von der DGSF verliehene Zertifikat?",
+    "output": "„Frau/ Herr ... hat eine den Richtlinien der Deutschen Gesellschaft für Systemische Therapie und Familientherapie (DGSF) entsprechende Weiterbildung in Systemischer Beratung abgeschlossen und ist anerkannt als Systemische BeraterIn (DGSF)“."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann Einzelanerkennungen erhalten?",
+    "output": "AbsolventInnen anerkannter Weiterbildungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bleibt für AbsolventInnen nicht anerkannter Weiterbildungen unberührt?",
+    "output": "Die Möglichkeit, über den Quereinstieg in einen Weiterbildungsgang eines Institutes mit anerkannter Weiterbildung die notwendigen Voraussetzungen für die Anerkennung zu erlangen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann sollen Ausnahmeregelungen beim Fort- und Weiterbildungsausschuss der DGSF beantragt werden?",
+    "output": "Vor Beginn der Weiterbildung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum besteht die Notwendigkeit, sich dem Thema der Beratung in der Pflege auseinanderzusetzen?",
+    "output": "Spätestens seit der aktuellen Gesetzesreform in den Pflegeberufen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was reicht bei der Beratung in der Pflege nicht aus?",
+    "output": "Ein alltagssprachliches Verständnis von Beratung i.S. von Informieren und Ratschläge geben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll durch die feldorientierte Weiterbildung erreicht werden?",
+    "output": "Der Mehrwert in den Blick genommen werden, in dem die Grundlagen eines systemischen Beratungsverständnisses vermittelt und auf das Handlungsfeld der Pflegefachberufe übertragen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was gilt es zu entwickeln und in den persönlichen und pflegerischen Professionalisierungsprozess zu integrieren?",
+    "output": "Die systemische Kompetenz."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll das vorliegende Curriculum benennen?",
+    "output": "Spezifische Inhalte, Kompetenzziele und Stundenverteilung, um eine Orientierung zu geben, wie die Thematik der Systemischen Beratung für die Pflege in modulatisierter Form ins Lehrprogramm integriert werden kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die modulatisierte Form des Curriculums?",
+    "output": "Die Möglichkeit, die nachgewiesenen Lernleistungen i.S. eines Creditpunktesystems zu erfassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "An welchen Standards orientiert sich das Curriculum?",
+    "output": "An den Standards der DGSF und den Vorgaben des Europäischen Qualifikationsrahmen und dem Deutschen Qualitätsrahmen (EQR und DQR)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat Standards zur Entwicklung der Beratungskompetenz vorgelegt?",
+    "output": "Der Fachverband der Systemischen Therapie und Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sollen die Lerninhalte in thematische Lernpakete geschnürt werden?",
+    "output": "Damit sie ein neues Format erhalten, das sich an den Vorgaben des Europäischen Qualifikationsrahmen und dem Deutschen Qualitätsrahmen (EQR und DQR) orientiert und den Vorgaben des Bologna-Prozesses der Hochschulen folgt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die modulare Struktur des Curriculums?",
+    "output": "Die gegenseitige Anerkennung von Modulleistungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des vorliegenden Curriculums?",
+    "output": "Das Ziel ist es, eine Orientierung zu geben, wie die Thematik der Systemischen Beratung für die Pflege in modularrisierter Form ins Lehrprogramm integriert werden kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Richtlinien wurden bei der Entwicklung des Curriculums berücksichtigt?",
+    "output": "Die Richtlinien der Zertifizierung für die Weiterbildung systemische Beratung der Deutschen Gesellschaft für Systemische Therapie und Familientherapie (DGSF)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Unterrichtsstunden umfasst das Aufbaumodul I?",
+    "output": "40 Ustd. (1 UE = 45 Min.) plus 10 UE Selbsterfahrung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Kompetenzziele des Moduls?",
+    "output": "Die TeilnehmerInnen wissen um die Prinzipien der systemischen Gesprächsführung und Fragetechniken und wenden sie in der eigenen Beratungspraxis unterstützend und lösungsorientiert ein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Themen werden im Modul I behandelt?",
+    "output": "Systemische Gesprächsführung und Fragetechnik, Moderationstechniken, Interventionsmöglichkeiten, Kreative und darstellende Methoden, Interinstitutionelle Kontexte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Creditpoints entspricht das Modul I?",
+    "output": "40 Creditpoints."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der systemischen Gesprächsführung und Fragetechnik?",
+    "output": "Die TeilnehmerInnen wissen um die Prinzipien der systemischen Gesprächsführung und Fragetechniken und wenden sie in der eigenen Beratungspraxis unterstützend und lösungsorientiert ein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die TeilnehmerInnen mit Moderationstechniken vertraut gemacht?",
+    "output": "Durch die Moderationstechniken der Mediation und der kollegialen Beratung, wie z.B. dem Erfurter Modell und dem Reflecting Team."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind systemische Interventionstechniken?",
+    "output": "Skulpturen, Zeugenarbeit, Metapher, Tetralemma, Familienbrett etc."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind interinstitutionelle Kontexte?",
+    "output": "Kontexte systemischer Arbeit in der Gesellschaft, insbesondere in der Pflegelandschaft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können systemische Beratung in der Überleitungsphase umgesetzt werden?",
+    "output": "Durch die Berücksichtigung von Überweisungskontexten und Möglichkeiten systemischer Beratung in der Überleitungsphase."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Organisation hat die Richtlinien für die Zertifizierung systemischer Beratung entwickelt?",
+    "output": "Die Deutsche Gesellschaft für Systemische Therapie und Familientherapie (DGSF)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Inhalte des Moduls I?",
+    "output": "Planung, Realisierung und Evaluation eines Beratungssettings im eigenen Arbeitsbereich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Kompetenzziele für die TeilnehmerInnen?",
+    "output": "Die TeilnehmerInnen wissen um die theoretischen Grundlagen systemischer Beratung und unterschiedlicher Klientensysteme und analysieren ihr persönliches und pflegeberufliches Handlungsfeld."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein System im Kontext der systemischen Beratung?",
+    "output": "Ein System ist eine Einheit, die aus verschiedenen Elementen und Beziehungen besteht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die systemische Haltung?",
+    "output": "Die systemische Haltung bezieht sich auf die Fähigkeit, Situationen in verschiedenen Kontexten systemisch zu verstehen und zu analysieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Theoretischen Grundlagen systemischer Beratung?",
+    "output": "Theoretische Grundlagen systemischer Beratung und unterschiedlicher Klientensysteme (Familien, Gruppen, Teams, Institutionen, Organisationen)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die historische Entwicklung des systemischen Arbeitens?",
+    "output": "Von der Familientherapie zur systemischen Therapie und Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind pflegerelevante Beratungskonzepte?",
+    "output": "Ressourcenorientierte, lösungsorientierte, präventions- und gesundheitsfördernde Konzepte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der sozialen und gesellschaftlichen Rahmenbedingungen für systemische Beratung?",
+    "output": "Die sozialen und gesellschaftlichen Rahmenbedingungen haben eine Bedeutung für systemische Beratung und die eigene beraterische Kompetenzentwicklung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Kybernetik 2. Ordnung?",
+    "output": "Entwicklung selbstreflexiver Haltung – TN beziehen sich selbst in die Beobachtung der Systeme und Beziehungsmuster mit ein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lernaufgabe für die Peer-Gruppe im Anschluss an Modul II?",
+    "output": "Planung, Realisierung und Evaluation eines Beratungssettings im eigenen Arbeitsbereich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Inhalte der Selbstreflexion in Modul II?",
+    "output": "Entwicklung selbstreflexiver Haltung und Beziehung der eigenen beraterischen Kompetenzentwicklung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der TeilnehmerInnen in Bezug auf soziale und gesellschaftliche Rahmenbedingungen?",
+    "output": "Die TeilnehmerInnen wissen um soziale und gesellschaftliche Rahmenbedingungen und leiten daraus zukünftiges Wachstum für systemisch-beraterische Kompetenzen im pflegeberuflichen Handlungsfeld ab."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt der systemischen Beratung?",
+    "output": "Systemisches Verständnis von Situationen in verschiedenen Kontexten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der historischen Grundlagen und aktuellen Entwicklungen des systemischen Arbeitens?",
+    "output": "Von der Familientherapie zur systemischen Therapie und Beratung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Arten von Beratungskonzepten werden in der Pflege erwähnt?",
+    "output": "Ressourcenorientierte, lösungsorientierte, präventions- und gesundheitsfördernde Konzepte"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstreflexion in der systemischen Beratung?",
+    "output": "Entwicklung selbstreflexiver Haltung – TN beziehen sich selbst in die Beobachtung der Systeme und Beziehungsmuster mit ein"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lernaufgabe für die Peer-Gruppe im Anschluss an Modul II?",
+    "output": "Strukturelle Darstellung des eigenen Arbeitssystems und Reflexion der Bedeutung der verschiedenen Kontexte"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Ustd. umfasst Modul III?",
+    "output": "40 Ustd. (1 UE = 45 Min.) plus 10 UE Selbsterfahrung und 40 Ustd. Familienrekonstruktion"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Kompetenzziele der TeilnehmerInnen in Modul III?",
+    "output": "Die TeilnehmerInnen wissen um systemische Grundhaltungen und reflektieren ihre persönliche Grundhaltung, die Prinzipien der Lösungs- und Ressourcenorientierung, der Prozessorientierung und der Kontextsensibilität und die Anforderungen an eine professionelle beraterische Identität"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der systemischen Grundhaltungen?",
+    "output": "Die TeilnehmerInnen wissen um systemische Grundhaltungen und reflektieren ihre persönliche Grundhaltung auf dem Hintergrund der eigenen Familiengeschichte"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Lösungs- und Ressourcenorientierung?",
+    "output": "Die TeilnehmerInnen wissen und wenden die Prinzipien der Lösungs- und Ressourcenorientierung im beraterischen Handeln an"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kontextsensibilität?",
+    "output": "Die TeilnehmerInnen wissen und wenden die Prinzipien der Kontextsensibilität im beraterischen Handeln an"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der TeilnehmerInnen in Bezug auf ihre beraterische Identität?",
+    "output": "Die TeilnehmerInnen entwickeln einen persönlichen Wachstumsprozess hin zu einer professionellen beraterischen Identität"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the systemische Grundhaltungen mentioned in the text?",
+    "output": "Lösungs- und Ressourcenorientierung, Prozessorientierung, Kontextsensibilität"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of developing a professionelle beraterische Identität?",
+    "output": "To develop a personal growth process towards a professional counseling identity"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of Modul III in the pflegerischen Kontext?",
+    "output": "Systemische Grundhaltungen, Beratungspraxis, and therapienaher Beratungskonzepte"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of the Lernaufgabe for the Peer-Gruppe after Modul III?",
+    "output": "To work out the requirements for their own Beraterpersönlichkeit and further growth steps"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the Kompetenzziele for Modul IV?",
+    "output": "To understand the importance of context in counseling, to recognize complex systems and their dynamics, and to apply strategies for change and crisis management"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the Kontextanalyse in Modul IV?",
+    "output": "Kontextualisierung of beratungspraxis and analysis of Klientensysteme in the pflegerischen Handlungsfeld"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of systemische Netzwerkarbeit in Modul IV?",
+    "output": "To show the complexity and networking in the healthcare and social welfare system"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of the Analyse and Dynamik of Institutionen and Organisationen in Modul IV?",
+    "output": "To analyze the possibilities and limitations of systemische Beratung in the role of Pflegefachkraft"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of the Auftragsklärung in Modul IV?",
+    "output": "To clarify the assignment and contract in the counseling process"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wissen die TeilnehmerInnen über Strategien der Veränderungen und Krisenbewältigung?",
+    "output": "Die TeilnehmerInnen wissen um Strategien der Veränderungen und Krisenbewältigung in Klientensystemen und können sie in der Beratungspraxis anwenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wissen die TeilnehmerInnen über die Anforderungen der Qualitätssicherung?",
+    "output": "Die TeilnehmerInnen wissen um die Anforderungen der Qualitätssicherung in der systemischen Beratung und beachten sie in der Beratungspraxis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kontextanalyse?",
+    "output": "Die Kontextanalyse ist die Kontextualisierung von beratendem Handeln und die Kontextanalyse anhand der Klientensysteme im pflegerischen Handlungsfeld."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist systemische Netzwerkarbeit?",
+    "output": "Systemische Netzwerkarbeit ist die Analyse der Komplexität und Vernetzung im Gesundheits- und Sozialwesen, ausgehend vom Klientensystem im pflegerischen Kontext."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Analyse und Dynamik von Institutionen und Organisationen?",
+    "output": "Die Analyse und Dynamik von Institutionen und Organisationen umfasst die Möglichkeiten und Grenzen systemischer Beratung in der beruflichen Rolle 'Pflegefachkraft' und die Analyse und Dynamik der eigenen Institution mit anderen Institutionen und Organisationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Auftragsklärung?",
+    "output": "Die Auftragsklärung ist die Klärung des Auftrags im Pflegeprozess unter Berücksichtigung der Selbstpflegekompetenzen nach Orem und der Homöostase nach Friedemann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lernaufgabe für die Peer-Gruppe?",
+    "output": "Die Lernaufgabe für die Peer-Gruppe ist die Ermittlung von Möglichkeiten und Grenzen für die systemische Beratung im eigenen pflegerischen Arbeitsbereich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was hat die Deutsche Gesellschaft für Beratung beschlossen?",
+    "output": "Die Deutsche Gesellschaft für Beratung hat als Mindestanforderung für Beratungsausbildungen beschlossen, dass die Teilnahme an einer Beratungsausbildung einen entsprechenden Hochschulabschluss erfordert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Mindestanforderung für Beratungsausbildungen nach der DGfB?",
+    "output": "Ein entsprechender Hochschulabschluss."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele theoretische und praktische Unterrichtsstunden umfasst die Beratungsausbildung?",
+    "output": "570 Stunden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Aufklärung und Beratung durch die Pflegekassen?",
+    "output": "Die Unterstützung der Eigenverantwortung der Versicherten durch Aufklärung und Beratung über eine gesunde, der Pflegebedürftigkeit vorbeugende Lebensführung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat das Recht, die Pflegekasse über den Eintritt von Pflegebedürftigkeit zu benachrichtigen?",
+    "output": "Der behandelnde Arzt, das Krankenhaus, die Rehabilitations- und Vorsorgeeinrichtungen sowie die Sozialleistungsträger."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer stellt die Leistungs- und Preisvergleichsliste zur Verfügung?",
+    "output": "Der Landesverband der Pflegekassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Pflegestützpunkt?",
+    "output": "Ein Angebot, das den Pflegebedürftigen bei der Ausübung seines Wahlrechts unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Ist die Beratung und Unterstützung durch den Pflegestützpunkt und die Pflegeberatung kostenlos?",
+    "output": "Ja, sie sind unentgeltlich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratung durch die Pflegekasse?",
+    "output": "Die Unterstützung des Pflegebedürftigen bei der Ausübung seines Wahlrechts und die Förderung des Wettbewerbs und der Überschaubarkeit des vorhandenen Angebots."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Pflegekasse dem Pflegebedürftigen anbieten?",
+    "output": "Eine Beratung darüber, welche Pflegeleistungen für ihn in seiner persönlichen Situation in Betracht kommen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist wichtig bei der Beteiligung an der Finanzierung und arbeitsteiligen Organisation von Beratungsangeboten?",
+    "output": "Die Neutralität und Unabhängigkeit der Beratung ist zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Ab wann haben Personen, die Leistungen nach diesem Buch erhalten, Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater?",
+    "output": "Ab dem 1. Januar 2009."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Pflegeberatung?",
+    "output": "Die Pflegeberatung soll den Hilfebedarf systematisch erfassen und analysieren, einen individuellen Versorgungsplan erstellen, auf die Durchführung des Plans hinwirken, die Durchführung überwachen und erforderlichenfalls anpassen sowie den Hilfeprozess auswerten und dokumentieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die Pflegeberatung in Anspruch nehmen?",
+    "output": "Personen, die Leistungen nach diesem Buch erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was beinhaltet der Versorgungsplan?",
+    "output": "Der Versorgungsplan beinhaltet insbesondere Empfehlungen zu den im Einzelfall erforderlichen Maßnahmen, Hinweise zu dem dazu vorhandenen örtlichen Leistungsangebot sowie zur Überprüfung und Anpassung der empfohlenen Maßnahmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll bei der Erstellung und Umsetzung des Versorgungsplans einbezogen werden?",
+    "output": "Der Hilfesuchende und alle an der Pflege, Versorgung und Betreuung Beteiligten sollen bei der Erstellung und Umsetzung des Versorgungsplans einbezogen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Kann die Pflegeberatung auch vor dem 1. Januar 2009 gewährt werden?",
+    "output": "Ja, wenn und soweit eine Pflegekasse eine entsprechende Struktur aufgebaut hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo kann die Pflegeberatung in Anspruch genommen werden?",
+    "output": "Im jeweiligen Pflegestützpunkt nach § 92c."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Ist die Unabhängigkeit der Beratung sicherzustellen?",
+    "output": "Ja, die Unabhängigkeit der Beratung ist sicherzustellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Kann die Pflegeberatung auch unter Einbeziehung von Dritten erfolgen?",
+    "output": "Ja, auf Wunsch kann die Pflegeberatung unter Einbeziehung von Dritten, insbesondere Angehörigen und Lebenspartnern, erfolgen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo kann die Pflegeberatung auf Wunsch des Versicherten erfolgen?",
+    "output": "In der häuslichen Umgebung oder in der Einrichtung, in der der Anspruchsberechtigte lebt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Können die Pflegekassen die Aufgaben der Pflegeberatung auf Dritte übertragen?",
+    "output": "Ja, die Pflegekassen können die Aufgaben der Pflegeberatung ganz oder teilweise auf Dritte übertragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiger Aspekt bei der Übertragung der Aufgaben der Pflegeberatung auf Dritte?",
+    "output": "Die Neutralität und Unabhängigkeit der Beratung ist zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Gibt es auch dann einen Anspruch auf Pflegeberatung, wenn ein Antrag auf Leistungen nach diesem Buch gestellt wurde?",
+    "output": "Ja, wenn erkennbar ein Hilfe- und Beratungsbedarf besteht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Soll eine enge Zusammenarbeit mit anderen Koordinierungsstellen sichergestellt werden?",
+    "output": "Ja, insbesondere mit den gemeinsamen Servicestellen nach § 23 des Neunten Buches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was muss in einem Pflegestützpunkt nach § 92c gewährleistet sein?",
+    "output": "Die Unabhängigkeit der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann einen Leistungsantrag nach diesem oder dem Fünften Buch stellen?",
+    "output": "Ein Versicherter kann einen Leistungsantrag auch gegenüber dem Pflegeberater oder der Pflegeberaterin stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wohin wird der Leistungsantrag unverzüglich übermittelt?",
+    "output": "Der Antrag ist unverzüglich der zuständigen Pflege- oder Krankenkasse zu übermitteln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie soll die Anzahl von Pflegeberatern und Pflegeberaterinnen bemessen werden?",
+    "output": "Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu bemessen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrgenommen werden können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Qualifikationen müssen Pflegeberater und Pflegeberaterinnen haben?",
+    "output": "Pflegefachkräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann müssen die Qualifikationsanforderungen nach Satz 2 erfüllt sein?",
+    "output": "Spätestens zum 30. Juni 2011."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer gibt Empfehlungen zur erforderlichen Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen ab?",
+    "output": "Der Spitzenverband Bund der Pflegekassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann müssen die Pflegekassen im Land Pflegeberater und Pflegeberaterinnen zur Sicherstellung einer wirtschaftlichen Aufgabenwahrnehmung bereitzustellen?",
+    "output": "Bis zum 31. Oktober 2008."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die durch die Tätigkeit von Pflegeberatern und Pflegeberaterinnen entstehenden Aufwendungen getragen?",
+    "output": "Die durch die Tätigkeit von Pflegeberatern und Pflegeberaterinnen entstehenden Aufwendungen werden von den Pflegekassen getragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Aufwendungen zur Hälfte angerechnet?",
+    "output": "Auf die Verwaltungskostenpauschale nach § 46 Abs. 3 Satz 1."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Können private Versicherungsunternehmen Pflegeberater und Pflegeberaterinnen der Pflegekassen nutzen?",
+    "output": "Ja, unter bestimmten Voraussetzungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was setzt die Nutzung von Pflegeberatern und Pflegeberaterinnen durch private Versicherungsunternehmen voraus?",
+    "output": "Eine vertragliche Vereinbarung mit den Pflegekassen über Art, Inhalt und Umfang der Inanspruchnahme sowie über die Vergütung der hierfür je Fall entstehenden Aufwendungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann untereinander Vereinbarungen über eine abgestimmte Bereitstellung von Pflegeberatern und Pflegeberaterinnen treffen, wenn Vereinbarungen mit den Pflegekassen nicht zustande kommen?",
+    "output": "Private Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer darf Sozialdaten für Zwecke der Pflegeberatung erheben, verarbeiten und nutzen?",
+    "output": "Bestimmte Stellen nach Landesrecht, Unternehmen der privaten Kranken- und Pflegeversicherung, Pflegeeinrichtungen und Einzelpersonen nach § 77, Mitglieder von Selbsthilfegruppen, ehrenamtliche und sonstige zum bürgerlichen Engagement bereite Personen und Organisationen sowie Agenturen für Arbeit und Träger der Grundsicherung für Arbeitsuchende."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann muss der Spitzenverband Bund der Pflegekassen dem Bundesministerium für Gesundheit einen Bericht über die Erfahrungen mit der Pflegeberatung vorlegen?",
+    "output": "Bis zum 30. Juni 2011."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was setzt der Anspruch auf Pflegegeld voraus?",
+    "output": "Dass der Pflegebedürftige mit dem Pflegegeld dessen Umfang entsprechend die erforderliche Grundpflege und hauswirtschaftliche Versorgung in geeigneter Weise selbst sicherstellt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist das Pflegegeld für Pflegebedürftige der Pflegestufe I ab 1. Juli 2008?",
+    "output": "215 Euro je Kalendermonat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist das Pflegegeld für Pflegebedürftige der Pflegestufe II ab 1. Juli 2008?",
+    "output": "420 Euro je Kalendermonat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist das Pflegegeld für Pflegebedürftige der Pflegestufe III ab 1. Juli 2008?",
+    "output": "675 Euro je Kalendermonat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie oft müssen Pflegebedürftige der Pflegestufe I und II eine Beratung in der eigenen Häuslichkeit abrufen?",
+    "output": "Halbjährlich einmal."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie oft müssen Pflegebedürftige der Pflegestufe III eine Beratung in der eigenen Häuslichkeit abrufen?",
+    "output": "Vierteljährlich einmal."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trägt die Vergütung für die Beratung?",
+    "output": "Die zuständige Pflegekasse, bei privat Pflegeversicherten das zuständige private Versicherungsunternehmen, im Fall der Beihilfeberechtigung anteilig die Beihilfefestsetzungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist die Vergütung für die Beratung in den Pflegestufen I und II?",
+    "output": "Bis zu 21 Euro."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist die Vergütung für die Beratung in der Pflegestufe III?",
+    "output": "Bis zu 31 Euro."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was dient die Beratung?",
+    "output": "Der Sicherung der Qualität der häuslichen Pflege und der regelmäßigen Hilfestellung und praktischen pflegefachlichen Unterstützung der häuslich Pflegenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann den Beratungseinsatz innerhalb der genannten Zeiträume zweimal in Anspruch nehmen?",
+    "output": "Pflegebedürftige, bei denen ein erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung nach § 45a festgestellt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis wann wird das Pflegegeld geleistet?",
+    "output": "Bis zum Ende des Kalendermonats, in dem der Pflegebedürftige gestorben ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer trägt die Vergütung für die Beratung?",
+    "output": "Die zuständige Pflegekasse, bei privat Pflegeversicherten das zuständige private Versicherungsunternehmen, im Fall der Beihilfeberechtigung anteilig die Beihilfefestsetzungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist die Vergütung für die Beratung in den Pflegestufen I und II?",
+    "output": "Bis zu 21 Euro."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist die Vergütung für die Beratung in der Pflegestufe III?",
+    "output": "Bis zu 31 Euro."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist berechtigt, den Beratungseinsatz zweimal in Anspruch zu nehmen?",
+    "output": "Pflegebedürftige, bei denen ein erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung nach § 45a festgestellt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie oft können Personen, bei denen ein erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung festgestellt ist, einen Beratungsbesuch in Anspruch nehmen?",
+    "output": "Halbjährlich einmal."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die Beratung auch durchführen, wenn keine pflegefachliche Kompetenz nachgewiesen werden muss?",
+    "output": "Von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was haben die Pflegedienste und die anerkannten Beratungsstellen zu bestätigen?",
+    "output": "Die Durchführung der Beratungseinsätze gegenüber der Pflegekasse oder dem privaten Versicherungsunternehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was haben die beauftragten Pflegefachkräfte mitzuteilen?",
+    "output": "Die bei dem Beratungsbesuch gewonnenen Erkenntnisse über die Möglichkeiten der Verbesserung der häuslichen Pflegesituation dem Pflegebedürftigen und mit dessen Einwilligung der Pflegekasse oder dem privaten Versicherungsunternehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer stellt ein einheitliches Formular für die Mitteilung zur Verfügung?",
+    "output": "Der Spitzenverband Bund der Pflegekassen und die privaten Versicherungsunternehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll bei der Planung für die Beratungsbesuche sichergestellt werden?",
+    "output": "Dass der Beratungsbesuch bei einem Pflegebedürftigen möglichst auf Dauer von derselben Pflegekraft durchgeführt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer beschließt Empfehlungen zur Qualitätssicherung der Beratungsbesuche?",
+    "output": "Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenversicherung e. V. gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was passiert, wenn Pflegebedürftige die Beratung nicht abrufen?",
+    "output": "Die Pflegekasse oder das private Versicherungsunternehmen hat das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die vorgeschriebenen Beratungseinsätze durchführen und bescheinigen?",
+    "output": "Der Pflegeberater oder die Pflegeberaterin (§ 7a)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was müssen die Landesverbände der Pflegekassen regeln?",
+    "output": "Das Nähere zur Anerkennung der Beratungsstellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer regelt das Nähere zur Anerkennung der Beratungsstellen?",
+    "output": "Die Landesverbände der Pflegekassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die vorgeschriebenen Beratungseinsätze durchführen und bescheinigen?",
+    "output": "Der Pflegeberater oder die Pflegeberaterin."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Für wen sollen die Pflegekassen Pflegekurse anbieten?",
+    "output": "Für Angehörige und sonstige an einer ehrenamtlichen Pflegetätigkeit interessierte Personen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Pflegekurse?",
+    "output": "Soziales Engagement im Bereich der Pflege zu fördern und zu stärken, Pflege und Betreuung zu erleichtern und zu verbessern sowie pflegebedingte körperliche und seelische Belastungen zu mindern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollen die Kurse vermitteln?",
+    "output": "Fertigkeiten für eine eigenständige Durchführung der Pflege."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo sollen die Schulungskurse auch stattfinden?",
+    "output": "In der häuslichen Umgebung des Pflegebedürftigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Pflegekassen die Kurse durchführen?",
+    "output": "Entweder selbst oder gemeinsam mit anderen Pflegekassen oder durch geeignete andere Einrichtungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann Rahmenvereinbarungen über die Durchführung der Kurse schließen?",
+    "output": "Die Landesverbände der Pflegekassen mit den Trägern der Einrichtungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was regeln die Rahmenvereinbarungen?",
+    "output": "Die einheitliche Durchführung sowie die inhaltliche Ausgestaltung der Kurse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll die Pflegekurse unentgeltlich anbieten?",
+    "output": "Die Pflegekassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Förderung des sozialen Engagements?",
+    "output": "Pflege und Betreuung zu erleichtern und zu verbessern sowie pflegebedingte körperliche und seelische Belastungen zu mindern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann mit der Durchführung der Kurse beauftragt werden?",
+    "output": "Geeignete andere Einrichtungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll durch die Pflegekurse erreicht werden?",
+    "output": "Eine eigenständige Durchführung der Pflege durch die Teilnehmer."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo soll die Schulung für Pflegebedürftige stattfinden?",
+    "output": "In der häuslichen Umgebung des Pflegebedürftigen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann die Kurse für Pflegebedürftige durchführen?",
+    "output": "Die Pflegekasse kann die Kurse entweder selbst oder gemeinsam mit anderen Pflegekassen durchführen oder geeignete andere Einrichtungen mit der Durchführung beauftragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was können die Landesverbände der Pflegekassen mit den Trägern der Einrichtungen schließen?",
+    "output": "Rahmenvereinbarungen über die einheitliche Durchführung sowie über die inhaltliche Ausgestaltung der Kurse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Zu welchem Zweck richten die Pflegekassen und Krankenkassen Pflegestützpunkte ein?",
+    "output": "Zur wohnortnahen Beratung, Versorgung und Betreuung der Versicherten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer bestimmt, ob Pflegestützpunkte eingerichtet werden sollen?",
+    "output": "Die zuständige oberste Landesbehörde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie lange haben die Pflegekassen und Krankenkassen Zeit, um die erforderlichen Verträge für die Einrichtung von Pflegestützpunkten zu schließen?",
+    "output": "Drei Monate nach der Bestimmung durch die oberste Landesbehörde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was geschieht, wenn die erforderlichen Verträge nicht innerhalb von drei Monaten zustande kommen?",
+    "output": "Die Landesverbände der Pflegekassen haben innerhalb eines weiteren Monats den Inhalt der Verträge festzulegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Aufgaben haben die Pflegestützpunkte?",
+    "output": "Umfassende sowie unabhängige Auskunft und Beratung, Koordinierung aller für die wohnortnahe Versorgung und Betreuung in Betracht kommenden Hilfsangebote und Vernetzung aufeinander abgestimmter pflegerischer und sozialer Versorgungs- und Betreuungsangebote."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll an den Pflegestützpunkten beteiligt werden?",
+    "output": "Insbesondere die nach Landesrecht zu bestimmenden Stellen für die wohnortnahe Betreuung, die im Land zugelassenen und tätigen Pflegeeinrichtungen, die im Land tätigen Unternehmen der privaten Kranken- und Pflegeversicherung und die Krankenkassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Träger der Pflegestützpunkte?",
+    "output": "Die beteiligten Kosten- und Leistungsträger."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte einbezogen werden?",
+    "output": "Ja, die Träger sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte einbinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Sollen Mitglieder von Selbsthilfegruppen und ehrenamtliche Personen in die Tätigkeit der Pflegestützpunkte einbezogen werden?",
+    "output": "Ja, die Träger haben nach Möglichkeit Mitglieder von Selbsthilfegruppen sowie ehrenamtliche und sonstige zum bürgerschaftlichen Engagement bereite Personen und Organisationen in die Tätigkeit der Pflegestützpunkte einzubinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Können kirchliche und religiöse Träger an den Pflegestützpunkten beteiligt werden?",
+    "output": "Ja, die Träger sollen interessierten kirchlichen sowie sonstigen religiösen und gesellschaftlichen Trägern und Organisationen die Beteiligung an den Pflegestützpunkten ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Hat ein Widerspruch oder eine Anfechtungsklage gegen Maßnahmen der Aufsichtsbehörden zur Einrichtung von Pflegestützpunkten aufschiebende Wirkung?",
+    "output": "Nein, ein Widerspruch und Anfechtungsklage gegen Maßnahmen der Aufsichtsbehörden zur Einrichtung von Pflegestützpunkten haben keine aufschiebende Wirkung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll in die Tätigkeit der Pflegestützpunkte einbezogen werden?",
+    "output": "Pflegefachkräfte, Mitglieder von Selbsthilfegruppen, ehrenamtliche und sonstige zum bürgerschaftlichen Engagement bereite Personen und Organisationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Organisationen sollen die Beteiligung an den Pflegestützpunkten ermöglichen?",
+    "output": "Kirchliche sowie sonstige religiöse und gesellschaftliche Träger und Organisationen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Mit wem sollen die Pflegestützpunkte bei der Vermittlung und Qualifizierung von Pflegekräften zusammenarbeiten?",
+    "output": "Mit dem Träger der Arbeitsförderung nach dem Dritten Buch und den Trägern der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Können Kostenträger und Leistungserbringer Verträge zur wohnortnahen integrierten Versorgung schließen?",
+    "output": "Ja, sie können für das Einzugsgebiet der Pflegestützpunkte Verträge zur wohnortnahen integrierten Versorgung schließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wo kann ein Pflegestützpunkt errichtet werden?",
+    "output": "Bei einer im Land zugelassenen und tätigen Pflegeeinrichtung, wenn dies nicht zu einer unzulässigen Beeinträchtigung des Wettbewerbs zwischen den Pflegeeinrichtungen führt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Aufwendungen für den Betrieb des Pflegestützpunktes getragen?",
+    "output": "Die Aufwendungen werden von den Trägern der Pflegestützpunkte unter Berücksichtigung der anrechnungsfähigen Aufwendungen für das eingesetzte Personal auf der Grundlage einer vertraglichen Vereinbarung anteilig getragen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch darf der Anteil einer einzelnen Pflegekasse an den Aufwendungen für den Betrieb des Pflegestützpunktes sein?",
+    "output": "Der Anteil darf nicht höher sein als der von der Krankenkasse, bei der sie errichtet ist, zu tragende Anteil."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Müssen private Versicherungsunternehmen, die die private Pflege-Pflichtversicherung durchführen, sich an der Finanzierung der Pflegestützpunkte beteiligen?",
+    "output": "Nein, aber sie müssen mit den Trägern der Pflegestützpunkte über Art, Inhalt und Umfang der Inanspruchnahme der Pflegestützpunkte durch privat Pflege-Pflichtversicherte sowie über die Vergütung der hierfür je Fall entstehenden Aufwendungen Vereinbarungen treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer zahlt die Fördermittel für den Aufbau der Pflegestützpunkte aus?",
+    "output": "Das Bundesversicherungsamt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "An wen werden die Fördermittel ausgezahlt?",
+    "output": "An den Zahlungsempfänger, der vom Träger des Pflegestützpunktes benannt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Woher entnimmt das Bundesversicherungsamt die Fördermittel?",
+    "output": "Aus dem Ausgleichsfonds der Pflegeversicherung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Bis zu welcher Höhe können die Fördermittel aus dem Ausgleichsfonds entnommen werden?",
+    "output": "Bis zu einer Gesamthöhe von 60 Millionen Euro."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer regelt das Verfahren der Auszahlung und die Verwendung der Fördermittel?",
+    "output": "Das Bundesversicherungsamt mit dem Spitzenverband Bund der Pflegekassen durch Vereinbarung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer darf Sozialdaten im Pflegestützpunkt erheben, verarbeiten und nutzen?",
+    "output": "Im Pflegestützpunkt tätige Personen sowie sonstige mit der Wahrnehmung von Aufgaben befasste Stellen, soweit dies zur Erfüllung der Aufgaben erforderlich oder durch Rechtsvorschriften angeordnet oder erlaubt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Mit wem können die Landesverbände der Pflegekassen Rahmenverträge zur Arbeit und zur Finanzierung der Pflegestützpunkte vereinbaren?",
+    "output": "Mit den Landesverbänden der Krankenkassen, den Ersatzkassen und den nach Landesrecht zu bestimmenden Stellen der Altenhilfe und der Hilfe zur Pflege nach dem Zwölften Buch."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was müssen die Landesverbände der Pflegekassen bei der Arbeit und der Finanzierung von Pflegestützpunkten beachten?",
+    "output": "Die von der zuständigen obersten Landesbehörde getroffene Bestimmung zur Einrichtung von Pflegestützpunkten sowie die Empfehlungen nach Absatz 9."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer kann gemeinsam und einheitlich Empfehlungen zur Arbeit und zur Finanzierung von Pflegestützpunkten vereinbaren?",
+    "output": "Der Spitzenverband Bund der Pflegekassen, der Spitzenverband Bund der Krankenkassen, die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe und die Bundesvereinigung der kommunalen Spitzenverbände."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Für welche Pflegestützpunkte können die Empfehlungen zur Arbeit und zur Finanzierung vereinbart werden?",
+    "output": "Für Pflegestützpunkte in der gemeinsamen Trägerschaft der gesetzlichen Kranken- und Pflegekassen sowie der nach Landesrecht zu bestimmenden Stellen der Alten- und Sozialhilfe."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie hoch ist die maximale Höhe der Fördermittel, die für ein einzelnes Land aus dem Ausgleichsfonds entnommen werden kann?",
+    "output": "Höchstens bis zu der Höhe, die sich durch die Aufteilung nach dem Königsteiner Schlüssel ergibt."
+  }
+]

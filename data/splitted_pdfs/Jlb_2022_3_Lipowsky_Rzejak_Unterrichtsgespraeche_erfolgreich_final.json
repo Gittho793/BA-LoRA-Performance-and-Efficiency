@@ -1,0 +1,422 @@
+[
+  {
+    "instruction": "Wer sind die Autoren des Artikels 'Unterrichtsgespr\u00e4che erfolgreich f\u00fchren'?",
+    "input": "",
+    "output": "Frank Lipowsky und Daniela Rzejak."
+  },
+  {
+    "instruction": "In welchem Journal ist der Artikel 'Unterrichtsgespr\u00e4che erfolgreich f\u00fchren' ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Journal f\u00fcr LehrerInnenbildung."
+  },
+  {
+    "instruction": "Welche Nummer und Ausgabe des Journals enth\u00e4lt den Artikel 'Unterrichtsgespr\u00e4che erfolgreich f\u00fchren'?",
+    "input": "",
+    "output": "22 (2022) 3."
+  },
+  {
+    "instruction": "Welche Seiten des Journals enth\u00e4lt den Artikel 'Unterrichtsgespr\u00e4che erfolgreich f\u00fchren'?",
+    "input": "",
+    "output": "S. 58-73."
+  },
+  {
+    "instruction": "Was ist die DOI-Nummer des Artikels 'Unterrichtsgespr\u00e4che erfolgreich f\u00fchren'?",
+    "input": "",
+    "output": "https://doi.org/10.25656/01:26754 und https://doi.org/10.35468/jlb-03-2022-04."
+  },
+  {
+    "instruction": "Unter welcher Creative-Commons-Lizenz ist der Artikel 'Unterrichtsgespr\u00e4che erfolgreich f\u00fchren' ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de."
+  },
+  {
+    "instruction": "Was z\u00e4hlen zu den am h\u00e4ufigsten praktizierten Formen des Unterrichts?",
+    "input": "",
+    "output": "Unterrichtsgespr\u00e4che."
+  },
+  {
+    "instruction": "Was stellt die Gestaltung von Unterrichtsgespr\u00e4chen dar?",
+    "input": "",
+    "output": "Eine Kernpraktik von Lehrpersonen."
+  },
+  {
+    "instruction": "Welche Konzepte zur Gestaltung hochwertiger Unterrichtsgespr\u00e4che werden im internationalen Sprachraum diskutiert und erforscht?",
+    "input": "",
+    "output": "Accountable Talk, Exploratory Talk, Academically Productive Talk, Collaborative Reasoning, Responsive Teaching, Dialogic Teaching und Ko-konstruktives Gespr\u00e4ch."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Lehrpersonen die Gespr\u00e4chspraktiken in ihrem Unterricht systematisch weiterentwickeln?",
+    "input": "",
+    "output": "Durch Fortbildungsma\u00dfnahmen und die Anwendung von Gespr\u00e4chsstrategien wie anregenden Fragen und Impulsen, unmittelbarem Feedback und der Ermunterung der Lernenden, selbst auf die Beitr\u00e4ge ihrer Mitsch\u00fcler*innen zu reagieren."
+  },
+  {
+    "instruction": "Was sind die Merkmale erfolgreicher Gespr\u00e4chsf\u00fchrung im Unterricht?",
+    "input": "",
+    "output": "Erfolgreiche Gespr\u00e4chsf\u00fchrung im Unterricht zeichnet sich durch die Beteiligung von Lernenden mit ausf\u00fchrlichen, inhaltlich gehaltvollen und begr\u00fcndeten Beitr\u00e4gen, die kritische Hinterfragung und Weiterentwicklung von Beitr\u00e4gen und die F\u00f6rderung von Diskursverhalten durch die Lehrperson aus."
+  },
+  {
+    "instruction": "Wie f\u00f6rdert die Lehrperson das Diskursverhalten der Sch\u00fcler*innen?",
+    "input": "",
+    "output": "Die Lehrperson f\u00f6rdert das Diskursverhalten der Sch\u00fcler*innen durch bestimmte Verhaltensweisen und Gespr\u00e4chsstrategien wie anregende Fragen und Impulsen, unmittelbares Feedback, die Ermunterung der Lernenden, selbst auf die Beitr\u00e4ge ihrer Mitsch\u00fcler*innen zu reagieren und die Paraphrasierung, Ordnung und Strukturierung von Gespr\u00e4chsinhalten."
+  },
+  {
+    "instruction": "Was sind die Ergebnisse der Metaanalyse von Murphy et al. (2009)?",
+    "input": "",
+    "output": "Die Metaanalyse zeigt, dass die Ans\u00e4tze den Gespr\u00e4chsanteil der Lehrkraft reduzieren, den der Sch\u00fcler*innen erh\u00f6hen und teilweise auch das Textverst\u00e4ndnis der Lernenden steigern."
+  },
+  {
+    "instruction": "Was sind die Ans\u00e4tze Questioning the Author (QtA) und Collaborative Reasoning (CR)?",
+    "input": "",
+    "output": "Der QtA-Ansatz fokussiert auf den klassen\u00f6ffentlichen Unterricht, bei dem die Sch\u00fcler*innen nach einzelnen Segmenten eines Textes eine klassen\u00f6ffentliche Diskussion f\u00fchren, um ko-konstruktiv ein Verst\u00e4ndnis des Textes aufzubauen. Beim CR-Ansatz diskutieren die Lernenden in Gruppen \u00fcber Fragen, die sich aus dem Text ergeben, und die Lehrkraft unterst\u00fctzt sie dabei."
+  },
+  {
+    "instruction": "Was unterst\u00fctzt die Lehrkraft bei den Ans\u00e4tzen?",
+    "input": "",
+    "output": "Die Lehrkraft unterst\u00fctzt das dialogische Gespr\u00e4ch, indem sie die Lernenden dazu anregt, ihre Ideen zu erl\u00e4utern und zu begr\u00fcnden und sich auf Mitsch\u00fcler*innen zu beziehen."
+  },
+  {
+    "instruction": "Was zeigen Wilkinson et al. (2015)?",
+    "input": "",
+    "output": "Sie zeigen positive Effekte auf Leistungen der Sch\u00fcler*innen, aber auch deutlich voneinander abweichende Effektst\u00e4rken."
+  },
+  {
+    "instruction": "Was weisen Applebee et al. (2003) nach?",
+    "input": "",
+    "output": "Sie weisen positive Zusammenh\u00e4nge zwischen einem diskursorientierten Unterricht und der Qualit\u00e4t von Sch\u00fclertexten nach."
+  },
+  {
+    "instruction": "Was wurde in der deutsch-schweizerischen Studie von Pauli und Reusser (2015) untersucht?",
+    "input": "",
+    "output": "Die Auswirkungen der didaktischen Kommunikation in einer Unterrichtseinheit zum Satz des Pythagoras auf den Lernerfolg von Sch\u00fcler*innen."
+  },
+  {
+    "instruction": "Was zeigt die Studie von Lipowsky et al. (2018)?",
+    "input": "",
+    "output": "Eine enge Korrelation zwischen der Gestaltung des ko-konstruktiven Unterrichtsgespr\u00e4chs und der kognitiven Aktivierung der Lernenden."
+  },
+  {
+    "instruction": "Was ist das Ziel des Accountable Talk Ansatzes?",
+    "input": "",
+    "output": "Die Gestaltung inhaltlich gehaltvoller Unterrichtsgespr\u00e4che und eine gleichberechtigte und verantwortliche Teilhabe der Lernenden an diesen Gespr\u00e4chen."
+  },
+  {
+    "instruction": "Welchen Einfluss hat der Accountable Talk Ansatz auf die Diskussion \u00fcber dialogischen Unterricht?",
+    "input": "",
+    "output": "Der Accountable Talk Ansatz hat einen erheblichen Einfluss auf die Diskussion \u00fcber dialogischen Unterricht, da er auf die Gestaltung inhaltlich gehaltvoller Unterrichtsgespr\u00e4che und auf eine gleichberechtigte und verantwortliche Teilhabe der Lernenden an diesen Gespr\u00e4chen abzielt."
+  },
+  {
+    "instruction": "Was sind die Ziele des Accountable Talk Ansatzes?",
+    "input": "",
+    "output": "Die Ziele des Accountable Talk Ansatzes sind, dass sich die am Gespr\u00e4ch Beteiligten um verst\u00e4ndliche Formulierungen, fachliche Korrektheit und Klarheit bem\u00fchen sollen und dass die Lernenden aktiv zum Zuh\u00f6ren, zum vertieften Nachdenken und zur Erkl\u00e4rung ihrer eigenen Ideen und Positionen herausgefordert werden."
+  },
+  {
+    "instruction": "Welche Strategien und Techniken k\u00f6nnen Lehrkr\u00e4fte anwenden, um gehaltvolle Gespr\u00e4che zu initiieren und zu gestalten?",
+    "input": "",
+    "output": "Lehrkr\u00e4fte k\u00f6nnen bestimmte Talk Moves wie Gespr\u00e4chsstrategien und -techniken anwenden, um die Lernenden zum aktiven Zuh\u00f6ren (Restate) und zum vertieften Nachdenken herauszufordern (Challenge), sowie Strategien, mit denen die Lernenden ermutigt werden, die eigenen Ideen und Positionen zu erl\u00e4utern, mit Beispielen zu belegen (Say more) und zu begr\u00fcnden (Press for Reasoning)."
+  },
+  {
+    "instruction": "Welche Auswirkungen haben entsprechend gestaltete Unterrichtsgespr\u00e4che auf die Lernenden?",
+    "input": "",
+    "output": "Entsprechend gestaltete Unterrichtsgespr\u00e4che tragen zu einer h\u00f6heren kognitiven Aktivierung der Lernenden bei und beeinflussen auch deren Lernerfolg positiv."
+  },
+  {
+    "instruction": "K\u00f6nnen Fortbildungen dazu beitragen, dass Lehrkr\u00e4fte die Praktiken des dialogisch orientierten Unterrichts erlernen und weiterentwickeln k\u00f6nnen?",
+    "input": "",
+    "output": "Ja, Fortbildungen k\u00f6nnen dazu beitragen, dass Lehrkr\u00e4fte die Praktiken des dialogisch orientierten Unterrichts erlernen und weiterentwickeln k\u00f6nnen, indem sie die Ver\u00e4nderung im Gespr\u00e4chsverhalten von Lehrpersonen und/oder von Lernenden in den Blick nehmen."
+  },
+  {
+    "instruction": "Welche Ergebnisse zeigte die Schweizer Fortbildung Sokrates 2.0?",
+    "input": "",
+    "output": "Die Schweizer Fortbildung Sokrates 2.0 zeigte, dass die Redeanteile der Geschichtslehrkr\u00e4fte in Gespr\u00e4chsphasen abnahmen und die Sch\u00fcler*innen im Gespr\u00e4ch h\u00e4ufiger aufeinander Bezug nahmen, w\u00e4hrend die Mathematiklehrkr\u00e4fte nach der Fortbildung mehr anregende Fragen und Impulse stellten und die Lernenden mit fachlich substanziellen und gut begr\u00fcndeten Beitr\u00e4gen und R\u00fcckmeldungen reagierten."
+  },
+  {
+    "instruction": "Wie ver\u00e4nderte sich das Verhalten der Mathematiklehrkr\u00e4fte nach der Fortbildung?",
+    "input": "",
+    "output": "Sie stellten mehr anregende Fragen und Impulse und die Lernenden beteiligten sich mit fachlich substanziellen und gut begr\u00fcndeten Beitr\u00e4gen und R\u00fcckfragen am Unterrichtsgespr\u00e4ch."
+  },
+  {
+    "instruction": "Was ist der Dialogic Teaching Ansatz von Alexander?",
+    "input": "",
+    "output": "Dieser Ansatz zeichnet sich durch herausfordernde Fragen, ausf\u00fchrliche, begr\u00fcndete und aufeinander bezugnehmende Beitr\u00e4ge der Lernenden sowie durch Feedback, das zum Weiterdenken anregt, aus."
+  },
+  {
+    "instruction": "Wie viele Lehrpersonen und Sch\u00fcler*innen nahmen an der Studie zum Dialogic Teaching Ansatz teil?",
+    "input": "",
+    "output": "118 Lehrpersonen und ca. 2.500 Sch\u00fcler*innen in den F\u00e4chern Englisch, Mathematik und Naturwissenschaften."
+  },
+  {
+    "instruction": "Was waren die Inhalte der Fortbildung zum Dialogic Teaching Ansatz?",
+    "input": "",
+    "output": "Fragen und Erkl\u00e4rungen von Lehrpersonen im klassen\u00f6ffentlichen Unterricht, Strategien, um Lernende zur Bezugnahme anzuregen, die Gestaltung der Interaktion beim kooperativen Lernen sowie die F\u00f6rderung der Motivation der Lernenden zur Beteiligung am Unterricht."
+  },
+  {
+    "instruction": "Was waren die Ergebnisse der Evaluation der Implementierung des Dialogic Teaching Ansatzes?",
+    "input": "",
+    "output": "Deutliche Unterschiede zwischen der Fortbildungs- und der Kontrollgruppe: Das Frageverhalten der fortgebildeten Lehrkr\u00e4fte entwickelte sich in die erw\u00fcnschte Richtung, die Beitr\u00e4ge der Sch\u00fcler*innen wurden ausf\u00fchrlicher und die Gespr\u00e4che trugen klare Z\u00fcge eines dialogisch orientierten Gespr\u00e4chs."
+  },
+  {
+    "instruction": "Welche Effekte hatte die Fortbildung auf die Leistungen der Lernenden?",
+    "input": "",
+    "output": "Nur schwache Effekte zugunsten der Interventionsgruppe, die bei der Follow-up Erhebung nicht mehr signifikant ausfielen."
+  },
+  {
+    "instruction": "Welche Ergebnisse ergab der Vergleich der Leistungen der Lernenden in der Interventionsgruppe und der Kontrollgruppe?",
+    "input": "",
+    "output": "Die Ergebnisse zeigten nur schwache Effekte zugunsten der Interventionsgruppe, die bei der Follow-up-Erhebung nicht mehr signifikant ausfielen."
+  },
+  {
+    "instruction": "Welcher Ansatz stand im Zentrum der zweiten Fortbildungsstudie?",
+    "input": "",
+    "output": "Der Accountable Talk bzw. Academically Productive Talk Ansatz."
+  },
+  {
+    "instruction": "Wie wurden die Mathematiklehrpersonen in der zweiten Fortbildungsstudie zugewiesen?",
+    "input": "",
+    "output": "Die Mathematiklehrpersonen wurden zuf\u00e4llig der Interventions- oder der Kontrollgruppe zugewiesen."
+  },
+  {
+    "instruction": "Was erm\u00f6glicht das Tool Classroom Discourse Analyzer den Lehrkr\u00e4ften?",
+    "input": "",
+    "output": "Das Tool erm\u00f6glicht es Lehrkr\u00e4ften, videografierte Sequenzen des eigenen Unterrichts anzuschauen, gezielt bestimmte Talk-Moves anzusteuern und hierzu die jeweiligen Transkripte zu studieren."
+  },
+  {
+    "instruction": "Wie oft trafen sich die Lehrpersonen der Interventionsgruppe in den Videozirkeln?",
+    "input": "",
+    "output": "Die Lehrpersonen der Interventionsgruppe trafen sich alle ein bis zwei Monate in insgesamt f\u00fcnf Videozirkeln."
+  },
+  {
+    "instruction": "Welche Ergebnisse ergab die Evaluation der unterrichtlichen Praktiken der Lehrkr\u00e4fte?",
+    "input": "",
+    "output": "Die Evaluation ergab deutliche Entwicklungen in den unterrichtlichen Praktiken der Lehrkr\u00e4fte der Interventionsgruppe gegen\u00fcber der Kontrollgruppe."
+  },
+  {
+    "instruction": "Welche Ans\u00e4tze standen im Zentrum der dritten Fortbildungsstudie?",
+    "input": "",
+    "output": "Der Questioning the Author Ansatz und der Accountable Talk Ansatz."
+  },
+  {
+    "instruction": "Wie kombinierte die Fortbildung in der dritten Studie Workshops und Coachingphasen?",
+    "input": "",
+    "output": "Die Fortbildung kombinierte Workshops, in denen die Lehrkr\u00e4fte mit dem auf Video aufgezeichneten Handeln von Experten auseinandersetzten und deren schriftlich dargelegte Planungs\u00fcberlegungen analysierten, und nachfolgende Coachingphasen."
+  },
+  {
+    "instruction": "Welche Ans\u00e4tze standen im Zentrum der dritten Fortbildungsstudie?",
+    "input": "",
+    "output": "Der Questioning the Author Ansatz und der Accountable Talk Ansatz."
+  },
+  {
+    "instruction": "Wie kombinierte die Fortbildung Workshops und Coachingphasen?",
+    "input": "",
+    "output": "Die Fortbildung kombinierte Workshops, in denen sich die Lehrkr\u00e4fte mit dem auf Video aufgezeichneten Handeln von Experten auseinandersetzten, und nachfolgende Coachingphasen."
+  },
+  {
+    "instruction": "Was war das Ziel der Modellierung der intendierten Gespr\u00e4chsstrategien?",
+    "input": "",
+    "output": "Das Ziel war die Modellierung der intendierten Gespr\u00e4chsstrategien, um die Lehrkr\u00e4fte bei der Planung und Analyse des eigenen Unterrichts zu unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie viele Coachingphasen wurden durchgef\u00fchrt und was umfassten sie?",
+    "input": "",
+    "output": "Es wurden vier bis f\u00fcnf Coachingphasen durchgef\u00fchrt, die jeweils aus einem Telefonat vor dem Unterricht, einer Videografie des Unterrichts und einer gemeinsamen Reflexion von Coach und Lehrperson bestanden."
+  },
+  {
+    "instruction": "Welche Ver\u00e4nderungen im Gespr\u00e4chsverhalten der Lehrkr\u00e4fte und Sch\u00fclerinnen und Sch\u00fcler wurden festgestellt?",
+    "input": "",
+    "output": "Die Lehrkr\u00e4fte stellten h\u00e4ufiger komplexe, anregende und verst\u00e4ndnisf\u00f6rdernde Fragen, nutzten die Beitr\u00e4ge von Sch\u00fclerinnen und Sch\u00fclern h\u00e4ufiger f\u00fcr eine Erweiterung und Vertiefung der Diskussion und die Sch\u00fclerinnen und Sch\u00fcler machten inhaltlich substanziellere Beitr\u00e4ge."
+  },
+  {
+    "instruction": "Gab es einen signifikanten Unterschied zwischen der Interventions- und der Kontrollgruppe im Gespr\u00e4chsverhalten?",
+    "input": "",
+    "output": "Ja, ein signifikanter Unterschied zwischen der Interventions- und der Kontrollgruppe im Gespr\u00e4chsverhalten wurde erst w\u00e4hrend der Coachingphase sichtbar."
+  },
+  {
+    "instruction": "Wie beeinflusste die Fortbildung die Leseleistungen der Sch\u00fclerinnen und Sch\u00fcler?",
+    "input": "",
+    "output": "In der Interventionsgruppe ergab sich ein gr\u00f6\u00dferer Zuwachs in den Leseleistungen als in der Kontrollgruppe."
+  },
+  {
+    "instruction": "Was war das Ziel des Workshops 1?",
+    "input": "",
+    "output": "Das Ziel des Workshops 1 war es, eine Unterrichtseinheit zu planen und Aspekte einer produktiven Klassengespr\u00e4chsf\u00fchrung zu integrieren."
+  },
+  {
+    "instruction": "Was war der Fokus des Workshops 3?",
+    "input": "",
+    "output": "Der Fokus des Workshops 3 lag auf Feedback."
+  },
+  {
+    "instruction": "Gab es einen signifikanten Unterschied in der Entwicklung des Frageverhaltens zwischen der Interventionsgruppe und der Kontrollgruppe?",
+    "input": "",
+    "output": "Nein, es gab keinen signifikanten Unterschied in der Entwicklung des Frageverhaltens zwischen der Interventionsgruppe und der Kontrollgruppe."
+  },
+  {
+    "instruction": "Wie entwickelte sich das Feedback der Lehrkr\u00e4fte in der Interventionsgruppe im Vergleich zur Kontrollgruppe?",
+    "input": "",
+    "output": "Die Lehrkr\u00e4fte der Interventionsgruppe zeigten mehr konstruktives und weniger einfaches Feedback als die Lehrkr\u00e4fte der Kontrollgruppe."
+  },
+  {
+    "instruction": "Wie entwickelte sich das fachliche Interesse der Lernenden in der Interventionsgruppe?",
+    "input": "",
+    "output": "Das fachliche Interesse der Lernenden entwickelte sich in der Interventionsgruppe g\u00fcnstiger als in der Kontrollgruppe."
+  },
+  {
+    "instruction": "Warum ist dialogischer Unterricht nicht nur eine Frage der Gespr\u00e4chstechniken?",
+    "input": "",
+    "output": "Dialogischer Unterricht stellt erhebliche Anforderungen an die Aufmerksamkeit und Pr\u00e4senz der Lehrkraft und erfordert auch, dass die Lehrperson respektvoll und wertsch\u00e4tzend agiert und die Sch\u00fclerbeitr\u00e4ge in das Gespr\u00e4ch integriert."
+  },
+  {
+    "instruction": "Was sind die Anforderungen an die Lehrkraft im dialogischen Unterricht?",
+    "input": "",
+    "output": "Die Lehrkraft muss respektvoll und wertsch\u00e4tzend agieren, die Sch\u00fclerbeitr\u00e4ge integrieren, den fachlichen Gehalt einsch\u00e4tzen, relevante Teile hervorheben und auf die Koh\u00e4renz des Gespr\u00e4chs achten."
+  },
+  {
+    "instruction": "Was sind die Herausforderungen f\u00fcr Lehrkr\u00e4fte bei der Weiterentwicklung ihrer Gespr\u00e4chsf\u00fchrung?",
+    "input": "",
+    "output": "Die Lehrkr\u00e4fte m\u00fcssen ihre eigenen kommunikativen Praktiken im Unterricht analytisch und reflexiv auseinandersetzen, was bedeutet, dass sie ihr eigenes Gespr\u00e4chsverhalten und die Verl\u00e4ufe von Unterrichtsgespr\u00e4chen bewusst machen m\u00fcssen."
+  },
+  {
+    "instruction": "Warum ist es wichtig, das Gespr\u00e4chsverhalten von Lehrkr\u00e4ften zu bewusst machen?",
+    "input": "",
+    "output": "Das Gespr\u00e4chsverhalten besteht h\u00e4ufig aus routinierten Praktiken und Verhaltensweisen, die den Lehrkr\u00e4ften nicht immer bewusst sind und die sich daher einer kritischen Reflexion entziehen."
+  },
+  {
+    "instruction": "Wie kann die Bewusstmachung des Gespr\u00e4chsverhaltens erfolgen?",
+    "input": "",
+    "output": "Durch die Erfassung und Dokumentation von Gespr\u00e4chsverl\u00e4ufen per Video, Audio oder durch Beobachtungen von Kolleg*innen kann das Gespr\u00e4chsverhalten bewusst gemacht werden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Weiterentwicklung der didaktischen Kommunikation f\u00fcr Lehrkr\u00e4fte?",
+    "input": "",
+    "output": "Das Ziel ist, dass Lehrkr\u00e4fte ihre Gespr\u00e4chsf\u00fchrung weiterentwickeln, um eine lernf\u00f6rderliche Kommunikation zu erm\u00f6glichen und Verantwortung und Steuerung an die Lernenden abzugeben."
+  },
+  {
+    "instruction": "Wie kann man das Gespr\u00e4chsverhalten von Lehrkr\u00e4ften und Lernenden bewusst machen?",
+    "input": "",
+    "output": "Durch die Erfassung und Dokumentation von Gespr\u00e4chsverl\u00e4ufen per Video, Audio oder durch Beobachtungen von Kolleginnen und Kollegen."
+  },
+  {
+    "instruction": "Warum ist es wichtig, die Analysen des Gespr\u00e4chsverhaltens wiederholt und regelm\u00e4\u00dfig durchzuf\u00fchren?",
+    "input": "",
+    "output": "Weil sprachliche Routinen und Automatismen nicht so leicht zu ver\u00e4ndern sind und eine langfristige Ver\u00e4nderung erfordern."
+  },
+  {
+    "instruction": "Wie kann die Weiterentwicklung der didaktischen Kommunikation in der Schule gef\u00f6rdert werden?",
+    "input": "",
+    "output": "Durch eine langfristig angelegte schulinterne Unterrichtsentwicklungsma\u00dfnahme, die kollegiale Hospitation, kriteriale Analyse des beobachteten Unterrichts und wechselseitiges Feedback verbindet."
+  },
+  {
+    "instruction": "Welche Rolle spielen wissenschaftliche Theorien und Konzepte bei der Analyse und Reflexion von Praktiken der Gespr\u00e4chsf\u00fchrung?",
+    "input": "",
+    "output": "Sie sollten die Analyse und Reflexion von Praktiken der Gespr\u00e4chsf\u00fchrung unterst\u00fctzen, damit Lehrkr\u00e4fte verstehen, warum eine Weiterentwicklung von Unterrichtsgespr\u00e4chen wichtig ist."
+  },
+  {
+    "instruction": "Warum ist die Weiterentwicklung des Gespr\u00e4chsverhaltens f\u00fcr Lernende herausfordernd?",
+    "input": "",
+    "output": "Weil sie einen langen Atem der Lehrkraft, eine kontinuierliche Anregung und gezielte Modellierung sowie eine mehrmonatige Ein\u00fcbung erfordert."
+  },
+  {
+    "instruction": "Was sind die Merkmale eines erfolgreichen Unterrichtsgespr\u00e4chs?",
+    "input": "",
+    "output": "Ein erfolgreiches Unterrichtsgespr\u00e4ch zeichnet sich durch variantenreiche Fragen und Impulse aus, die zur Partizipation am Unterricht anregen, sowie durch ausreichend Wartezeiten nach komplexeren Fragen."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Lehrkr\u00e4fte die Lernenden zum Mitdenken anregen?",
+    "input": "",
+    "output": "Lehrkr\u00e4fte k\u00f6nnen die Lernenden zum Mitdenken anregen, indem sie Fragen stellen, die Begr\u00fcndungen und Erkl\u00e4rungen nach sich ziehen, und indem sie die Lernenden auffordern, ihre Meinungen und Positionen zu begr\u00fcnden."
+  },
+  {
+    "instruction": "Welche Rolle spielen Wartezeiten im Unterrichtsgespr\u00e4ch?",
+    "input": "",
+    "output": "Wartezeiten sind wichtig, um den Lernenden Zeit zu geben, ihre Gedanken zu ordnen und zu formulieren, insbesondere nach komplexeren Fragen."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Lehrkr\u00e4fte die Lernenden ermutigen, aufeinander Bezug zu nehmen?",
+    "input": "",
+    "output": "Lehrkr\u00e4fte k\u00f6nnen die Lernenden ermutigen, aufeinander Bezug zu nehmen, indem sie sie auffordern, auf die Beitr\u00e4ge ihrer Mitsch\u00fcler*innen zu reagieren und Stellung zu nehmen."
+  },
+  {
+    "instruction": "Wer sind die Autoren, die sich mit dem Thema des dialogischen Unterrichtens besch\u00e4ftigt haben?",
+    "input": "",
+    "output": "Autoren wie Alexander, Hardman, Applebee, Beck und Correnti haben sich mit dem Thema des dialogischen Unterrichtens besch\u00e4ftigt und Forschungsergebnisse ver\u00f6ffentlicht."
+  },
+  {
+    "instruction": "Was sind die Ziele des dialogischen Unterrichtens?",
+    "input": "",
+    "output": "Die Ziele des dialogischen Unterrichtens sind es, die Lernenden zum Mitdenken anzuregen, ihre F\u00e4higkeit zur Argumentation und zur Kommunikation zu f\u00f6rdern und sie zu ermutigen, aufeinander Bezug zu nehmen und sich am Unterrichtsgespr\u00e4ch zu beteiligen."
+  },
+  {
+    "instruction": "Wer sind die Herausgeber des Routledge International Handbook of research on dialogic education?",
+    "input": "",
+    "output": "Mercer, N., Wegerif, R. und Major, L."
+  },
+  {
+    "instruction": "Was ist das Ziel des Projekts POLKA?",
+    "input": "",
+    "output": "Das Projekt POLKA zielt darauf ab, Lehrpersonen zur gemeinsamen Reflexion \u00fcber Unterricht anzuregen."
+  },
+  {
+    "instruction": "Wer ist der Autor der Dissertation 'Struktur und prozedurale Produktivit\u00e4t von Lehr-Lern-Gespr\u00e4chen im Klassenunterricht'?",
+    "input": "",
+    "output": "Reichmuth-Sprenger, A."
+  },
+  {
+    "instruction": "In welchem Jahr wurde die Studie 'How (well structured) talk builds the mind' von Resnick, Michaels und O\u2019Connor ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "2010"
+  },
+  {
+    "instruction": "Was ist der Titel der Dissertation von Zimmermann aus dem Jahr 2021?",
+    "input": "",
+    "output": "Dialogische Klassengespr\u00e4chsf\u00fchrung im Geschichtsunterricht"
+  },
+  {
+    "instruction": "Wer sind die Autoren des Artikels 'Klassengespr\u00e4ch im Mathematikunterricht \u2013 Wo geht\u2019s lang zu Partizipation und Fachlichkeit?'?",
+    "input": "",
+    "output": "Wischgoll, A., Schmid, M. und Pauli, C."
+  },
+  {
+    "instruction": "An welcher Universit\u00e4t ist Frank Lipowsky t\u00e4tig?",
+    "input": "",
+    "output": "Universit\u00e4t Kassel"
+  },
+  {
+    "instruction": "Was sind die Arbeitsschwerpunkte von Daniela Rzejak?",
+    "input": "",
+    "output": "Professionalisierung von Lehrpersonen, Schul- und Unterrichtsentwicklung"
+  },
+  {
+    "instruction": "Wer sind die Herausgeber des Buches 'Socializing intelligence through academic talk and dialogue'?",
+    "input": "",
+    "output": "Asterhan, C. S. C., Resnick, L. B. und Clarke, S."
+  },
+  {
+    "instruction": "In welchem Jahr wurde die Studie 'A research-informed dialogic-teaching approach to early secondary school mathematics and science' von Ruthven et al. ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "2017"
+  },
+  {
+    "instruction": "Welche sind die Arbeitsschwerpunkte von lipowsky@uni-kassel.de?",
+    "input": "",
+    "output": "Unterrichtsqualit\u00e4t und Unterrichtsentwicklung, Professionalisierung von Lehrpersonen."
+  },
+  {
+    "instruction": "Wer ist die wissenschaftliche Mitarbeiterin am Institut f\u00fcr Erziehungswissenschaft der Universit\u00e4t Kassel?",
+    "input": "",
+    "output": "Daniela Rzejak."
+  },
+  {
+    "instruction": "Welche sind die Arbeitsschwerpunkte von Daniela Rzejak?",
+    "input": "",
+    "output": "Professionalisierung von Lehrpersonen, Schul- und Unterrichtsentwicklung."
+  },
+  {
+    "instruction": "Wie kann man Daniela Rzejak kontaktieren?",
+    "input": "",
+    "output": "rzejak@uni-kassel.de."
+  },
+  {
+    "instruction": "Wie kann man lipowsky kontaktieren?",
+    "input": "",
+    "output": "lipowsky@uni-kassel.de."
+  }
+]

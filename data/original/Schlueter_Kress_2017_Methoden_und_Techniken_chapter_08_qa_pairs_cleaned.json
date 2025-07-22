@@ -1,0 +1,882 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the section?",
+    "output": "5 Methoden und Techniken"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many methods are implied by the title?",
+    "output": "5"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What language is the title in?",
+    "output": "German"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Methoden' translate to in English?",
+    "output": "Methods"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Techniken' translate to in English?",
+    "output": "Techniques"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the text about a specific method?",
+    "output": "No, it implies multiple methods."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title provide details about the methods?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of the title?",
+    "output": "Methods and techniques"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title part of a larger document?",
+    "output": "Possibly"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title suggest a focus on technology?",
+    "output": "It could, given the mention of techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is '5 Methoden und Techniken' a heading?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What type of content might follow the title?",
+    "output": "A list or description of methods and techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title indicate the subject matter is educational?",
+    "output": "Possibly"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might '5 Methoden und Techniken' be part of a tutorial?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could the title be related to a business or self-improvement context?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title specific to any particular field or industry?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a structured approach?",
+    "output": "Yes, by numbering the methods."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be a chapter title?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is there any mention of tools in the title?",
+    "output": "No, only techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title suggest a creative focus?",
+    "output": "It could, depending on the context."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be related to personal development?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of an academic text?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title provide a comprehensive overview?",
+    "output": "No, it's too brief."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title in English?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the nature of the content that '5 Methoden und Techniken' introduces?",
+    "output": "Unknown, as the title is all that's provided."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply complexity?",
+    "output": "Not necessarily."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could the methods and techniques be related to software development?",
+    "output": "Possibly"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be part of a larger list of methods?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title descriptive?",
+    "output": "Minimally"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title give any indication of the field of study?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be a subtitle?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a practical approach?",
+    "output": "Possibly, by mentioning techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be related to a how-to guide?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title formal?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a presentation?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be used in a training manual?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title concise?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply the presence of examples?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be related to a research paper?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be used in a marketing context?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title provide any emotional appeal?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a blog post?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title straightforward?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be used as a keyword?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title suggest a professional tone?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title simple?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be related to a course syllabus?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title imply a structured learning approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a strategy document?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be used in a consulting context?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title formal in tone?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a comprehensive list?",
+    "output": "It suggests a specific number of methods."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be related to problem-solving strategies?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title indicate a focus on methodology?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be used in a thesis?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a technical focus?",
+    "output": "It could, given the mention of techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a technical manual?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title concise and to the point?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be used in an educational setting?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title clear about what it introduces?",
+    "output": "Somewhat, it implies methods and techniques."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be related to productivity?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title suggest a systematic approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title useful for someone looking for methods and techniques?",
+    "output": "Yes, it directly mentions them."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be the title of a handbook?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be related to a workshop?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a professional certification program?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be used in a policy document?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title formal and professional?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be related to standards and practices?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a knowledge base?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Might the title be used in a guidebook?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be used as a reference point?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title concise and direct?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be part of a scholarly article?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title clear about the number of methods discussed?",
+    "output": "Yes, it specifies 5."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Could '5 Methoden und Techniken' be related to a whitepaper?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bildungsberatung?",
+    "output": "Die Bildungsberatung ist ein Beratungsfeld, das in besonderem Maße durch das Wechselspiel von Informationsangeboten und Prozessbegleitung durch die Beraterinnen und Berater geprägt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Bildungsberatung wichtig?",
+    "output": "Die Bildungsberatung ist wichtig, weil sie den Ratsuchenden hilft, ihre Ziele und Anliegen zu klären und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Stolperstein-Methode?",
+    "output": "Die Stolperstein-Methode ist eine Methode, die verwendet wird, um die Probleme und Hindernisse, die den Ratsuchenden im Weg stehen, zu identifizieren und zu bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Stolperstein-Methode?",
+    "output": "Die Stolperstein-Methode funktioniert, indem die Ratsuchenden ihre Probleme und Hindernisse auf Moderationskarten schreiben und dann eine Mauer aus diesen Karten bauen, die im Laufe des Beratungsgespräches nach und nach abgebaut wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bodenanker-Übung?",
+    "output": "Die Bodenanker-Übung ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie sich auf bestimmte Positionen im Raum begeben und ihre Gedanken und Gefühle ausdrücken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Bodenanker-Übung?",
+    "output": "Die Bodenanker-Übung funktioniert, indem die Ratsuchenden sich auf bestimmte Positionen im Raum begeben und ihre Gedanken und Gefühle ausdrücken, um ihre Ziele und Anliegen zu klären und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Tetralemma?",
+    "output": "Das Tetralemma ist eine Methode, die verwendet wird, um Entscheidungsprozesse zu unterstützen, insbesondere dann, wenn sich die Ratsuchenden in einem vermeintlichen Dilemma befinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert das Tetralemma?",
+    "output": "Das Tetralemma funktioniert, indem die Ratsuchenden auf vier verschiedenen Positionen stehen und ihre Gedanken und Gefühle ausdrücken, um ihre Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die PMI-Methode?",
+    "output": "Die PMI-Methode ist eine Methode, die verwendet wird, um Entscheidungen zu treffen, indem die Vor- und Nachteile von verschiedenen Optionen abgewogen werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die PMI-Methode?",
+    "output": "Die PMI-Methode funktioniert, indem die Ratsuchenden die Vor- und Nachteile von verschiedenen Optionen auf einem Blatt Papier aufschreiben und dann die Optionen auswählen, die am besten zu ihren Zielen und Anliegen passen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Innere Team?",
+    "output": "Das Innere Team ist eine Methode, die verwendet wird, um die inneren Konflikte und Widersprüche der Ratsuchenden zu bearbeiten und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert das Innere Team?",
+    "output": "Das Innere Team funktioniert, indem die Ratsuchenden ihre inneren Konflikte und Widersprüche auf einem Blatt Papier aufschreiben und dann die verschiedenen Teammitglieder identifizieren und ihre Bedürfnisse und Wünsche ausdrücken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bildungszeitreise?",
+    "output": "Die Bildungszeitreise ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Bildungsgeschichte zu reflektieren und neue Perspektiven und Interessen zu entdecken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Bildungszeitreise?",
+    "output": "Die Bildungszeitreise funktioniert, indem die Ratsuchenden eine Sammlung von Gegenständen durchsehen und dann die Gegenstände auswählen, die sie an ihre Bildungsgeschichte erinnern, und dann die Hintergründe dieser Assoziationen vertiefen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Lebensbaum?",
+    "output": "Der Lebensbaum ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihren Lebensweg reflektieren und ihre Ressourcen und Potenziale visualisieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert der Lebensbaum?",
+    "output": "Der Lebensbaum funktioniert, indem die Ratsuchenden ihren Lebensweg reflektieren und ihre Ressourcen und Potenziale visualisieren, indem sie einen Baum zeichnen und dann ihre Ziele und Anliegen auf dem Baum platzieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Klötze?",
+    "output": "Klötze sind eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Probleme und Hindernisse visualisieren und dann die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktionieren Klötze?",
+    "output": "Klötze funktionieren, indem die Ratsuchenden ihre Probleme und Hindernisse auf einem Plakat visualisieren und dann die Lösungen finden, indem sie die Klötze anordnen und bewegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Visualisierung?",
+    "output": "Die Visualisierung ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Gedanken und Gefühle visualisieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Visualisierung?",
+    "output": "Die Visualisierung funktioniert, indem die Ratsuchenden ihre Gedanken und Gefühle auf einem Blatt Papier oder auf einem Plakat visualisieren und dann die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Reflexion?",
+    "output": "Die Reflexion ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Gedanken und Gefühle reflektieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Reflexion?",
+    "output": "Die Reflexion funktioniert, indem die Ratsuchenden ihre Gedanken und Gefühle reflektieren und dann die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Entscheidungsfindung?",
+    "output": "Die Entscheidungsfindung ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Entscheidungen treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Entscheidungsfindung?",
+    "output": "Die Entscheidungsfindung funktioniert, indem die Ratsuchenden ihre Entscheidungen treffen, indem sie ihre Ziele und Anliegen klären und die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zielklärung?",
+    "output": "Die Zielklärung ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Ziele definieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Zielklärung?",
+    "output": "Die Zielklärung funktioniert, indem die Ratsuchenden ihre Ziele definieren und dann die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Ressourcenaktivierung?",
+    "output": "Die Ressourcenaktivierung ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Ressourcen aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Ressourcenaktivierung?",
+    "output": "Die Ressourcenaktivierung funktioniert, indem die Ratsuchenden ihre Ressourcen aktivieren und dann die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Potenzialanalyse?",
+    "output": "Die Potenzialanalyse ist eine Methode, die verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden, indem sie ihre Potenziale analysieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Potenzialanalyse?",
+    "output": "Die Potenzialanalyse funktioniert, indem die Ratsuchenden ihre Potenziale analysieren und dann die Lösungen finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratung?",
+    "output": "Die Beratung ist ein Prozess, der verwendet wird, um die Ratsuchenden zu helfen, ihre Ziele und Anliegen zu klären und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Beratung?",
+    "output": "Die Beratung funktioniert, indem die Ratsuchenden ihre Ziele und Anliegen klären und die Lösungen finden, indem sie mit einem Berater zusammenarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Berater?",
+    "output": "Der Berater ist eine Person, die die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen unterstützt und Lösungen findet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert der Berater?",
+    "output": "Der Berater funktioniert, indem er die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen unterstützt und Lösungen findet, indem er verschiedene Methoden und Techniken anwendet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Methodenkompetenz?",
+    "output": "Die Methodenkompetenz ist die Fähigkeit, verschiedene Methoden und Techniken anzuwenden, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Methodenkompetenz?",
+    "output": "Die Methodenkompetenz funktioniert, indem der Berater verschiedene Methoden und Techniken anwendet, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Technikenkompetenz?",
+    "output": "Die Technikenkompetenz ist die Fähigkeit, verschiedene Techniken anzuwenden, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Technikenkompetenz?",
+    "output": "Die Technikenkompetenz funktioniert, indem der Berater verschiedene Techniken anwendet, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz?",
+    "output": "Die Beratungskompetenz ist die Fähigkeit, die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Beratungskompetenz?",
+    "output": "Die Beratungskompetenz funktioniert, indem der Berater die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen unterstützt und Lösungen findet, indem er verschiedene Methoden und Techniken anwendet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kommunikationskompetenz?",
+    "output": "Die Kommunikationskompetenz ist die Fähigkeit, effektiv mit den Ratsuchenden zu kommunizieren, um ihre Ziele und Anliegen zu klären und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Kommunikationskompetenz?",
+    "output": "Die Kommunikationskompetenz funktioniert, indem der Berater effektiv mit den Ratsuchenden kommuniziert, um ihre Ziele und Anliegen zu klären und Lösungen zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Reflexionskompetenz?",
+    "output": "Die Reflexionskompetenz ist die Fähigkeit, die eigenen Gedanken und Gefühle zu reflektieren, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Reflexionskompetenz?",
+    "output": "Die Reflexionskompetenz funktioniert, indem der Berater seine eigenen Gedanken und Gefühle reflektiert, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Selbstreflexionskompetenz?",
+    "output": "Die Selbstreflexionskompetenz ist die Fähigkeit, die eigenen Stärken und Schwächen zu reflektieren, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Selbstreflexionskompetenz?",
+    "output": "Die Selbstreflexionskompetenz funktioniert, indem der Berater seine eigenen Stärken und Schwächen reflektiert, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Teamkompetenz?",
+    "output": "Die Teamkompetenz ist die Fähigkeit, effektiv mit anderen zusammenzuarbeiten, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie funktioniert die Teamkompetenz?",
+    "output": "Die Teamkompetenz funktioniert, indem der Berater effektiv mit anderen zusammenarbeitet, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Netzwerkkompetenz?",
+    "output": "Die Netzwerkkompetenz ist die Fähigkeit, effektiv mit anderen zusammenzuarbeiten und Ressourcen zu nutzen, um die Ratsuchenden bei der Klärung ihrer Ziele und Anliegen zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Netzwerkmethode?",
+    "output": "Die Netzwerkmethode ist eine Methode zur Visualisierung von komplexen Entscheidungsmöglichkeiten einer ratsuchenden Person."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Urheber der Netzwerkmethode?",
+    "output": "Die Netzwerkmethode ist auf Dr. W. Vogelauer zurückzuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wird die Netzwerkmethode eingesetzt?",
+    "output": "Die Netzwerkmethode wird im Übergang von der Mittel- zur Endphase der Beratung eingesetzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Lebensrad oder der Lebensstern?",
+    "output": "Das Lebensrad oder der Lebensstern ist eine Methode der lösungsorientierten Beratung zur Visualisierung bei Unzufriedenheit bezüglich unterschiedlicher Lebensbereiche des oder der Ratsuchenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Antreiber-Test?",
+    "output": "Der Antreiber-Test ist ein selbstreflexiver Test mit ca. 50 Items, der die inneren Antreiber einer Person erforscht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Antreiber gibt es?",
+    "output": "Es gibt 5 Antreiber: Sei perfekt!, Sei schnell!, Mach es allen recht!, Streng dich an! und Sei stark!"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Talentkompass NRW?",
+    "output": "Der Talentkompass NRW ist ein Instrument zur beruflichen Beratung, das in fünf Schritten den persönlichen Kompass des oder der Ratsuchenden entwickelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Schritte hat der Talentkompass NRW?",
+    "output": "Der Talentkompass NRW hat 5 Schritte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Transaktionsanalyse?",
+    "output": "Die Transaktionsanalyse ist eine Theorie, die die Psychodynamik des Selbstwertgefühls und dessen Zusammenhang mit zwischenmenschlichen Beziehungen verständlich machen will."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist der Begründer der Transaktionsanalyse?",
+    "output": "Die Transaktionsanalyse wurde von Eric Berne entwickelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Methodenkompetenz in der Beratung?",
+    "output": "Methodenkompetenz in der Beratung umfasst die Kenntnis unterschiedlicher Techniken, die Fähigkeit diese gezielt für den Beratungsprozess auszuwählen und so zu Schrittfolgen zu kombinieren, dass sie den individuellen Erkenntnisprozess der Ratsuchenden unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beraterin oder des Beraters?",
+    "output": "Die Beraterin oder der Berater unterstützt den Ratsuchenden bei der Erarbeitung seiner Ziele und der Lösung seiner Probleme."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Selbstreflexion in der Beratung?",
+    "output": "Die Selbstreflexion ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Stärken und Schwächen zu erkennen und seine Ziele zu definieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kommunikation in der Beratung?",
+    "output": "Die Kommunikation ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu verstehen und seine Bedürfnisse zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Vertrauensbildung in der Beratung?",
+    "output": "Die Vertrauensbildung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, sich der Beraterin oder dem Berater anzuvertrauen und seine Probleme zu teilen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Gesprächsführung in der Beratung?",
+    "output": "Die Gesprächsführung ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Flexibilität in der Beratung?",
+    "output": "Die Flexibilität ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, auf die Bedürfnisse des Ratsuchenden einzugehen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Zielformulierung in der Beratung?",
+    "output": "Die Zielformulierung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine Ziele zu definieren und zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Ressourcenaktivierung in der Beratung?",
+    "output": "Die Ressourcenaktivierung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Stärken und Ressourcen zu nutzen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Reflexion in der Beratung?",
+    "output": "Die Reflexion ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Erfahrungen und Erkenntnisse zu reflektieren und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Selbstständigkeit in der Beratung?",
+    "output": "Die Selbstständigkeit ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Entscheidungen zu treffen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Verantwortung in der Beratung?",
+    "output": "Die Verantwortung ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Kooperation in der Beratung?",
+    "output": "Die Kooperation ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kreativität in der Beratung?",
+    "output": "Die Kreativität ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, neue Lösungen und Ansätze zu finden und den Ratsuchenden zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Offenheit in der Beratung?",
+    "output": "Die Offenheit ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Ehrlichkeit in der Beratung?",
+    "output": "Die Ehrlichkeit ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Authentizität in der Beratung?",
+    "output": "Die Authentizität ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Emotionen in der Beratung?",
+    "output": "Die Emotionen sind in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglichen, seine eigenen Gefühle und Bedürfnisse zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Empathie in der Beratung?",
+    "output": "Die Empathie ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstfürsorge in der Beratung?",
+    "output": "Die Selbstfürsorge ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Spiritualität in der Beratung?",
+    "output": "Die Spiritualität ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Werte und Überzeugungen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Kultur in der Beratung?",
+    "output": "Die Kultur ist in der Beratung sehr wichtig, da sie es der Beraterin oder dem Berater ermöglicht, den Ratsuchenden zu unterstützen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der sozialen Umgebung in der Beratung?",
+    "output": "Die soziale Umgebung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Familie in der Beratung?",
+    "output": "Die Familie ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beziehungen in der Beratung?",
+    "output": "Die Beziehungen sind in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglichen, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Kommunikation in den Beziehungen?",
+    "output": "Die Kommunikation ist in den Beziehungen sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Konfliktlösung in der Beratung?",
+    "output": "Die Konfliktlösung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Vergebung in der Beratung?",
+    "output": "Die Vergebung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Selbstakzeptanz in der Beratung?",
+    "output": "Die Selbstakzeptanz ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Selbstliebe in der Beratung?",
+    "output": "Die Selbstliebe ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Selbstachtung in der Beratung?",
+    "output": "Die Selbstachtung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstentwicklung in der Beratung?",
+    "output": "Die Selbstentwicklung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Persönlichkeitsentwicklung in der Beratung?",
+    "output": "Die Persönlichkeitsentwicklung ist in der Beratung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Persönlichkeitsentwicklung?",
+    "output": "Die Beratung ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Selbstreflexion in der Persönlichkeitsentwicklung?",
+    "output": "Die Selbstreflexion ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstkenntnis in der Persönlichkeitsentwicklung?",
+    "output": "Die Selbstkenntnis ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Selbstüberwindung in der Persönlichkeitsentwicklung?",
+    "output": "Die Selbstüberwindung ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Motivation in der Persönlichkeitsentwicklung?",
+    "output": "Die Motivation ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Zielsetzung in der Persönlichkeitsentwicklung?",
+    "output": "Die Zielsetzung ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Priorisierung in der Persönlichkeitsentwicklung?",
+    "output": "Die Priorisierung ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Zeitmanagement in der Persönlichkeitsentwicklung?",
+    "output": "Die Zeitmanagement ist in der Persönlichkeitsentwicklung sehr wichtig, da sie es dem Ratsuchenden ermöglicht, seine eigenen Bedürfnisse und Grenzen zu erkennen und seine Ziele zu erreichen."
+  }
+]

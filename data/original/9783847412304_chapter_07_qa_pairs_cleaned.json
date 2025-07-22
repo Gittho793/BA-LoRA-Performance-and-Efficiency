@@ -1,0 +1,772 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of section II?",
+    "output": "Mediale Beratungsformate: Vergleiche – Spezifika – Intentionen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the Roman numeral of the section?",
+    "output": "II"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title in English?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What language is the section title in?",
+    "output": "German"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain a colon?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What comes after the colon in the section title?",
+    "output": "Vergleiche – Spezifika – Intentionen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are there any specific details given in the section?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a question?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a part of a larger document?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of the section title?",
+    "output": "Mediale Beratungsformate"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'Vergleiche'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'Spezifika'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'Intentionen'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are there any numbers in the section title?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a statement?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain a hyphen?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title in uppercase letters?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'Mediale'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'Beratungsformate'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section a heading?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'II'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the Roman numeral 'II' part of the section title?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the first word of the section title?",
+    "output": "Mediale"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title a phrase?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'formate'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section part of a numbered list?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'Beratung'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title in italics?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'medial'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section title underlined?",
+    "output": "No"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section title contain the word 'format'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Studie?",
+    "output": "Das Ziel der Studie ist es, zu rekonstruieren, wie Beratende im Format von E-Mail-Weiterbildungsberatungen mit Problempräsentationen von ratsuchenden Personen umgehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden E-Mail-Beratungen als Korrespondenzen verortet?",
+    "output": "E-Mail-Beratungen werden als Korrespondenzen gegenstandstheoretisch verortet, um die Fragestellung der Studie zu präzisieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was benötigen Beratende für die Interventionen?",
+    "output": "Beratende benötigen eine professionelle Lesekompetenz und Schreibkompetenz, um hinreichende Klärungen der Beratungsanliegen vornehmen zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Analysen von zwei E-Mail-Weiterbildungsberatungen durchgeführt?",
+    "output": "Die Analysen werden durch eine extensive Lesartendiskussion durch die beiden Autor*innen rekonstruiert und dann die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren analysiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Unterscheidung von informativen und situativen Beratungsbedarfen?",
+    "output": "Die Unterscheidung von informativen und situativen Beratungsbedarfen wird von Gieseke und Opelt (2004) als Heuristik aufgegriffen, um zu veranschaulichen, wie der/die Berater*in die Beratungsanliegen in ihren E-Mail-Antworten prozessieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die E-Mail-Anfragen der Ratsuchenden analysiert?",
+    "output": "Die E-Mail-Anfragen der Ratsuchenden werden streng sequenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussion durch die beiden Autor*innen rekonstruiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Analyse der Korrespondenz 7?",
+    "output": "Die Analyse der Korrespondenz 7 zeigt, dass die Beraterin das situative Anliegen nicht aufgreift und stattdessen handlungskonstitutiv das Anliegen 'Empfehlung von Seminaren' an die Ratsuchende zurückdelegiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie prozessiert der Berater der Korrespondenz 27 das Anliegen?",
+    "output": "Der Berater der Korrespondenz 27 prozessiert das Anliegen sowohl situativ als auch informativ und geht auf die aktuelle Situation des Ratsuchenden ein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der vergleichenden Analyse?",
+    "output": "Das Ziel der vergleichenden Analyse ist es, die jeweiligen Prozessierungsaktivitäten der beiden Berater*innen in ihren Gemeinsamkeiten und Unterschieden zu rekonstruieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Prozessierungen der informativen Anliegen durchgeführt?",
+    "output": "Die Prozessierungen der informativen Anliegen werden durch Rückdelegationen an die Ratsuchenden (Verweis auf Internetdatenbanken und Recherchemöglichkeiten) durchgeführt, um die Handlungsautonomie der Ratsuchenden zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Forschungsdesiderate?",
+    "output": "Die Forschungsdesiderate umfassen die Untersuchung von Verstehensprozessen beim Lesen, die Betrachtung von Beratungsverständnissen von Beratenden und Ratsuchenden und die Durchführung von Interventionsstudien."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, Verstehensprozesse beim Lesen zu untersuchen?",
+    "output": "Es ist wichtig, Verstehensprozesse beim Lesen zu untersuchen, weil der Verstehensprozess immer als eine Wechselwirkung zwischen vorgegebenem Text und der Kognitionsstruktur des Lesers aufzufassen ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Interventionsstudien?",
+    "output": "Interventionsstudien sind wichtig, um herauszufinden, inwiefern Qualifizierungen von Beratenden im Hinblick auf E-Mail-Beratungen dazu beitragen, dass textbasierte Anfragen in ihrer Komplexität angemessen erfasst und entsprechend bearbeitet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können E-Mail-Beratungskorrespondenzen aus anderen Feldern untersucht werden?",
+    "output": "E-Mail-Beratungskorrespondenzen aus anderen Feldern können systematisch untersucht und in maximalen Kontrastierungen miteinander verglichen werden, um auf einer solchen empirischen Basis ein Kernhandlungsschema für asynchrone digitale (Bildungs-)Beratungen zu entwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Analysen der E-Mail-Beratungen durchgeführt?",
+    "output": "Die Analysen werden durch eine extensive Lesartendiskussion durch die beiden Autor*innen rekonstruiert und dann die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren analysiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Reflexionsfragen in der E-Mail-Beratung?",
+    "output": "Reflexionsfragen sind wichtig, um die Ratsuchenden zu unterstützen und ihre Handlungsautonomie zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ratsuchenden in der E-Mail-Beratung unterstützt werden?",
+    "output": "Die Ratsuchenden können in der E-Mail-Beratung unterstützt werden, indem die Beratenden ihre Anliegen aufgreifen und bearbeiten und sie zu selbständigen Aktivitäten aufgefordert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Handlungsempfehlungen in der E-Mail-Beratung?",
+    "output": "Handlungsempfehlungen sind wichtig, um die Ratsuchenden zu unterstützen und ihre Handlungsautonomie zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Interventionsstudien in der E-Mail-Beratung?",
+    "output": "Interventionsstudien sind wichtig, um herauszufinden, inwiefern Qualifizierungen von Beratenden im Hinblick auf E-Mail-Beratungen dazu beitragen, dass textbasierte Anfragen in ihrer Komplexität angemessen erfasst und entsprechend bearbeitet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ratsuchenden in der E-Mail-Beratung zu selbständigen Aktivitäten aufgefordert werden?",
+    "output": "Die Ratsuchenden können in der E-Mail-Beratung zu selbständigen Aktivitäten aufgefordert werden, indem die Beratenden sie auffordern, ihre Anliegen selbstständig zu bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Reflexionsfragen in der E-Mail-Beratung?",
+    "output": "Reflexionsfragen sind wichtig, um die Ratsuchenden zu unterstützen und ihre Handlungsautonomie zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ratsuchenden in der E-Mail-Beratung unterstützt werden?",
+    "output": "Die Ratsuchenden können in der E-Mail-Beratung unterstützt werden, indem die Beratenden ihre Anliegen aufgreifen und bearbeiten und sie zu selbständigen Aktivitäten aufgefordert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Handlungsempfehlungen in der E-Mail-Beratung?",
+    "output": "Handlungsempfehlungen sind wichtig, um die Ratsuchenden zu unterstützen und ihre Handlungsautonomie zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Interventionsstudien in der E-Mail-Beratung?",
+    "output": "Interventionsstudien sind wichtig, um herauszufinden, inwiefern Qualifizierungen von Beratenden im Hinblick auf E-Mail-Beratungen dazu beitragen, dass textbasierte Anfragen in ihrer Komplexität angemessen erfasst und entsprechend bearbeitet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ratsuchenden in der E-Mail-Beratung zu selbständigen Aktivitäten aufgefordert werden?",
+    "output": "Die Ratsuchenden können in der E-Mail-Beratung zu selbständigen Aktivitäten aufgefordert werden, indem die Beratenden sie auffordern, ihre Anliegen selbstständig zu bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Reflexionsfragen in der E-Mail-Beratung?",
+    "output": "Reflexionsfragen sind wichtig, um die Ratsuchenden zu unterstützen und ihre Handlungsautonomie zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Ratsuchenden in der E-Mail-Beratung unterstützt werden?",
+    "output": "Die Ratsuchenden können in der E-Mail-Beratung unterstützt werden, indem die Beratenden ihre Anliegen aufgreifen und bearbeiten und sie zu selbständigen Aktivitäten aufgefordert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Handlungsempfehlungen in der E-Mail-Beratung?",
+    "output": "Handlungsempfehlungen sind wichtig, um die Ratsuchenden zu unterstützen und ihre Handlungsautonomie zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die E-Mail-Beratungskorrespondenzen ausgewertet werden?",
+    "output": "Die E-Mail-Beratungskorrespondenzen können ausgewertet werden, indem die Beratungsanliegen und die Antworten der Beratenden analysiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Face-to-Face-Beratung in der E-Mail-Beratung?",
+    "output": "Die Face-to-Face-Beratung kann in der E-Mail-Beratung als eine Ergänzung dienen, um die Ratsuchenden persönlich zu beraten und ihre Anliegen zu bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die Beratenden in der E-Mail-Beratung qualifiziert werden?",
+    "output": "Die Beratenden können in der E-Mail-Beratung qualifiziert werden, indem sie geschult werden, die Beratungsanliegen in den E-Mail-Antworten angemessen zu bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Interventionsstudien in der E-Mail-Beratung?",
+    "output": "Interventionsstudien sind wichtig, um herauszufinden, inwiefern Qualifizierungen von Beratenden im Hinblick auf E-Mail-Beratungen dazu beitragen, dass textbasierte Anfragen in ihrer Komplexität angemessen erfasst und entsprechend bearbeitet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lesekompetenz in der E-Mail-Beratung?",
+    "output": "Die Lesekompetenz ist wichtig, um hinreichende Klärungen der Beratungsanliegen vornehmen zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können die E-Mail-Beratungskorrespondenzen systematisch untersucht werden?",
+    "output": "Die E-Mail-Beratungskorrespondenzen können systematisch untersucht werden, indem die Beratungsanliegen und die Antworten der Beratenden analysiert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the book 'Beratung in der Weiterbildung als institutionelle Interaktion'?",
+    "output": "Stanik, Tim"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the topic of the article by Stanik and Maier-Gutheil?",
+    "output": "E-Mail-Weiterbildungsberatungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the book edited by Weinhardt?",
+    "output": "Psychosoziale Beratungskompetenz"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of Wolf's dissertation?",
+    "output": "E-Mail in der Psychotherapie – Entwicklung und Evaluation eines E-Mail basierten Nachsorgeprogramms für die stationäre Psychotherapie"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of Sebastian Zick's contribution?",
+    "output": "Bildung, Beratung, Bewegung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the context of the (Bildungs-)Beratungsbegriff?",
+    "output": "Bildungsreisen and Mobilitätspolitik of the European Union"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the article 'Weiterbildungsberatung – Aktuelle Aufgaben und Probleme'?",
+    "output": "Meyer, Katharina"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the book edited by Pick?",
+    "output": "Beraten in Interaktion"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the book 'Beratung in der Weiterbildung als institutionelle Interaktion'?",
+    "output": "Stanik, Tim"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the topic of the article by Stanik and Maier-Gutheil?",
+    "output": "E-Mail-Weiterbildungsberatungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the book written by Strauss and Corbin?",
+    "output": "Grounded Theory: Grundlagen Qualitativer Sozialforschung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who edited the book 'Psychosoziale Beratungskompetenz'?",
+    "output": "Weinhardt, Marc"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of Wolf's dissertation?",
+    "output": "E-Mail in der Psychotherapie – Entwicklung und Evaluation eines E-Mail basierten Nachsorgeprogramms für die stationäre Psychotherapie"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the article 'Die Methodologie einer „objektiven Hermeneutik“'?",
+    "output": "Oevermann, Ullrich"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the book written by Schiersmann and Remmele?",
+    "output": "Beratungsfelder in der Weiterbildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who is the author of the book 'Beratung in der Weiterbildung als institutionelle Interaktion'?",
+    "output": "Stanik, Tim"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the topic of the article by Stanik and Maier-Gutheil?",
+    "output": "E-Mail-Weiterbildungsberatungen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the book edited by Weinhardt?",
+    "output": "Psychosoziale Beratungskompetenz"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of Wolf's dissertation?",
+    "output": "E-Mail in der Psychotherapie – Entwicklung und Evaluation eines E-Mail basierten Nachsorgeprogramms für die stationäre Psychotherapie"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of Sebastian Zick's contribution?",
+    "output": "Bildung, Beratung, Bewegung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the context of the (Bildungs-)Beratungsbegriff?",
+    "output": "Bildungsreisen and Mobilitätspolitik of the European Union"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Thema des Beitrags?",
+    "output": "Der Beitrag thematisiert den Begriff der (Bildungs-)Beratung im Kontext von Bildungsreisen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die doppelte Differenz von Beratung?",
+    "output": "Die doppelte Differenz von Beratung bezieht sich auf die Unterscheidung zwischen Rat und Tat sowie zwischen Selbst- und Fremdbestimmung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Apodemik?",
+    "output": "Apodemik ist eine Kunstlehre des richtigen Reisens, die sich auf die Schilderung und Anweisung davon bezieht, wie Subjekte reisen und die Fremdheitserfahrungen einordnen sollen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Apodemik?",
+    "output": "Das Ziel der Apodemik ist die Vermittlung einer bildungsreisespezifischen Mobilitätskompetenz, die allerorts anwendbar sein sollte."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wirkt Beratung in der Apodemik?",
+    "output": "Beratung wirkt in der Apodemik individualisierend, indem Subjekten eine je individuelle Abweichung von einer zu erreichenden Norm unterstellt wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Mobilitätspolitik der EU?",
+    "output": "Die Mobilitätspolitik der EU zielt darauf ab, junge Menschen zu ermutigen, sich für Auslandsaufenthalte zu bewerben, um neues Wissen und Fähigkeiten zu erwerben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie unterscheidet sich die europäische Mobilitätspolitik von der Apodemik?",
+    "output": "Die europäische Mobilitätspolitik agiert subtiler als die Apodemik, indem sie den Imperativ der Mobilität durch permanentes Hinweisen auf das Richtige erfährt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kritik an der Beratung?",
+    "output": "Die Kritik an der Beratung besteht darin, dass sie die Subjekte in bestimmte Richtungen lenkt und ihre Freiheit einschränkt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung verbessert werden?",
+    "output": "Die Beratung kann verbessert werden, indem sie reflexiv auf ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufnimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung kritisch betrachtet werden?",
+    "output": "Die Beratung kann kritisch betrachtet werden, indem sie auf ihre Machtverhältnisse und ihre Auswirkungen auf die Subjekte hin analysiert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion in der Beratung ist bedeutsam, weil sie die Beratung dazu bringt, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung verbessert werden?",
+    "output": "Die Beratung kann verbessert werden, indem sie reflexiv auf ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufnimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung kritisch betrachtet werden?",
+    "output": "Die Beratung kann kritisch betrachtet werden, indem sie auf ihre Machtverhältnisse und ihre Auswirkungen auf die Subjekte hin analysiert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion in der Beratung ist bedeutsam, weil sie die Beratung dazu bringt, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung verbessert werden?",
+    "output": "Die Beratung kann verbessert werden, indem sie reflexiv auf ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufnimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung kritisch betrachtet werden?",
+    "output": "Die Beratung kann kritisch betrachtet werden, indem sie auf ihre Machtverhältnisse und ihre Auswirkungen auf die Subjekte hin analysiert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion in der Beratung ist bedeutsam, weil sie die Beratung dazu bringt, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung verbessert werden?",
+    "output": "Die Beratung kann verbessert werden, indem sie reflexiv auf ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufnimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung kritisch betrachtet werden?",
+    "output": "Die Beratung kann kritisch betrachtet werden, indem sie auf ihre Machtverhältnisse und ihre Auswirkungen auf die Subjekte hin analysiert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion in der Beratung ist bedeutsam, weil sie die Beratung dazu bringt, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Praxis umgesetzt werden?",
+    "output": "Die Beratung in der Praxis kann umgesetzt werden, indem sie die Subjekte in ihrer individuellen Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung verbessert werden?",
+    "output": "Die Beratung kann verbessert werden, indem sie reflexiv auf ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufnimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung für die Subjekte?",
+    "output": "Die Beratung ist für die Subjekte bedeutsam, weil sie ihre individuelle Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Bildungsberatung gestaltet werden?",
+    "output": "Die Beratung in der Bildungsberatung kann gestaltet werden, indem sie die Subjekte in ihrer individuellen Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung kritisch betrachtet werden?",
+    "output": "Die Beratung kann kritisch betrachtet werden, indem sie auf ihre Machtverhältnisse und ihre Auswirkungen auf die Subjekte hin analysiert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion in der Beratung ist bedeutsam, weil sie die Beratung dazu bringt, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Praxis umgesetzt werden?",
+    "output": "Die Beratung in der Praxis kann umgesetzt werden, indem sie die Subjekte in ihrer individuellen Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung verbessert werden?",
+    "output": "Die Beratung kann verbessert werden, indem sie reflexiv auf ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufnimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung für die Subjekte?",
+    "output": "Die Beratung ist für die Subjekte bedeutsam, weil sie ihre individuelle Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Bildungsberatung gestaltet werden?",
+    "output": "Die Beratung in der Bildungsberatung kann gestaltet werden, indem sie die Subjekte in ihrer individuellen Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung kritisch betrachtet werden?",
+    "output": "Die Beratung kann kritisch betrachtet werden, indem sie auf ihre Machtverhältnisse und ihre Auswirkungen auf die Subjekte hin analysiert wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion in der Beratung ist bedeutsam, weil sie die Beratung dazu bringt, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung aufzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beratung in der Praxis umgesetzt werden?",
+    "output": "Die Beratung in der Praxis kann umgesetzt werden, indem sie die Subjekte in ihrer individuellen Entwicklung unterstützt und ihre Freiheit fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who introduced the concept of Weiterbildungswiderstand?",
+    "output": "Holzer (2017)"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the focus of Weiterbildungswiderstand according to Foucault's Kritikbegriff?",
+    "output": "The effort or art of not being advised in a certain way"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of Bildungsberatung in the context of Evokation von Sorge and their Bearbeitung?",
+    "output": "It must reflectively take into account its involvement in the interplay"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who wrote about Subjektivierung im Grenzland?",
+    "output": "Schroeder, Jörg (2009)"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of Justin Stagl's book published in 2002?",
+    "output": "Eine Geschichte der Neugier. Die Kunst des Reisens 1550–1800"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of Justin Stagl's book published in 1983?",
+    "output": "Apodemiken – Eine räsonnierte Bibliographie der reisetheoretischen Literatur des 16., 17. und 18. Jahrhunderts"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Who wrote about Bildung, Reisen und Mobilität?",
+    "output": "Zick, Sebastian (2015)"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the URL of Zick's online text?",
+    "output": "http://www.fabrico-verlag.de/online-texte/thesis-paedagogik/"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "When was Zick's online text last accessed?",
+    "output": "25.04.2018"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of Schroeder's book?",
+    "output": "Verlag Dr. Kovac"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what city is the publisher of Schroeder's book located?",
+    "output": "Hamburg"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of the chapter or article with pages 747–767?",
+    "output": "VS Verlag für Sozialwissenschaften"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what city is the publisher of the chapter or article with pages 747–767 located?",
+    "output": "Wiesbaden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of Foucault's Kritikbegriff to Weiterbildungswiderstand?",
+    "output": "It provides a basis for understanding the concept of not being advised"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does Bildungsberatung relate to the interplay of Evokation von Sorge and their Bearbeitung?",
+    "output": "It must reflectively take into account its involvement"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of Justin Stagl's book published in 2002?",
+    "output": "The history of curiosity and the art of travel"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What time period does Justin Stagl's book published in 2002 cover?",
+    "output": "1550–1800"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What centuries does Justin Stagl's book published in 1983 cover?",
+    "output": "16., 17. und 18. Jahrhunderts"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of Zick's online text?",
+    "output": "Bildung, Reisen und Mobilität"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of Justin Stagl's book published in 2002?",
+    "output": "Böhlau Verlag"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what city is the publisher of Justin Stagl's book published in 2002 located?",
+    "output": "Wien"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of Justin Stagl's book published in 1983?",
+    "output": "Ferdinand Schöningh"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what city is the publisher of Justin Stagl's book published in 1983 located?",
+    "output": "Paderborn"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of the text?",
+    "output": "Weiterbildungswiderstand and its relation to Foucault's Kritikbegriff"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of Foucault's Kritikbegriff to the main theme?",
+    "output": "It provides a basis for understanding the concept of not being advised"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does Bildungsberatung relate to the main theme?",
+    "output": "It must reflectively take into account its involvement in the interplay of Evokation von Sorge and their Bearbeitung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of Justin Stagl's work?",
+    "output": "The history of curiosity and the art of travel"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of Justin Stagl's work to the main theme?",
+    "output": "It provides a historical context for understanding the concept of travel and education"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of Zick's online text?",
+    "output": "Bildung, Reisen und Mobilität"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of the book mentioned in the text?",
+    "output": "VS Verlag für Sozialwissenschaften"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what city is the publisher of the book mentioned in the text located?",
+    "output": "Wiesbaden"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of Schroeder's book?",
+    "output": "Subjektivierung im Grenzland"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of Schroeder's book to the main theme?",
+    "output": "It provides a context for understanding the concept of subjectivation"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the name of the publisher of Schroeder's book?",
+    "output": "Verlag Dr. Kovac"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In what city is the publisher of Schroeder's book located?",
+    "output": "Hamburg"
+  }
+]

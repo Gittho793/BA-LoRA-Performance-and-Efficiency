@@ -1,0 +1,552 @@
+[
+  {
+    "instruction": "Was ist das Thema der vorliegenden Studie?",
+    "input": "",
+    "output": "Die vorliegende Studie analysiert Prozesse von computervermittelten, asynchronen Weiterbildungsberatungen."
+  },
+  {
+    "instruction": "Was ist das Desiderat, das die Studie aufgreift?",
+    "input": "",
+    "output": "Das Desiderat ist die Analyse von Prozessen von computervermittelten, asynchronen Weiterbildungsberatungen, da es sich um ein eigenst\u00e4ndiges Format mit spezifischen Herausforderungen handelt."
+  },
+  {
+    "instruction": "Was ist die Definition von Beratung in der Studie?",
+    "input": "",
+    "output": "Beratung wird ph\u00e4nomenologisch als eine dyadische \u2013 in diesem Fall schriftliche \u2013 Kommunikation bzw. Korrespondenz zwischen einer ratsuchenden und einer beratenden Person definiert."
+  },
+  {
+    "instruction": "Was versteht die Studie unter dem Begriff 'Prozessierungstransfer'?",
+    "input": "",
+    "output": "Der Prozessierungstransfer bezeichnet die Anforderung, die sich den Beratenden stellt, die m\u00fcndlichen bzw. schriftlichen Anliegensdarstellungen, Problemschilderungen, Fallbeschreibungen der Ratsuchenden zun\u00e4chst zu verstehen, um sie dann in professionell bearbeitbare Handlungsschritte zu \u00fcberf\u00fchren."
+  },
+  {
+    "instruction": "Was ist das leitende Erkenntnisinteresse der Studie?",
+    "input": "",
+    "output": "Das leitende Erkenntnisinteresse der Studie ist es, explorativ zu rekonstruieren, wie Beratende im Format von E-Mail-Weiterbildungsberatungen mit 'Problempr\u00e4sentationen' von ratsuchenden Personen umgehen."
+  },
+  {
+    "instruction": "Was sind E-Mail-Beratungen und wie unterscheiden sie sich von klassischen Korrespondenzen?",
+    "input": "",
+    "output": "E-Mail-Beratungen sind asynchrone, computervermittelte Formen schriftlicher Kommunikation, die sich aus mindestens zwei Korrespondenzexemplaren zusammensetzen und im Unterschied zur klassischen Korrespondenzform des Briefes ein h\u00f6heres Ma\u00df an Anonymit\u00e4t aufweisen und st\u00e4rker dialogisch orientiert sind."
+  },
+  {
+    "instruction": "Welche Chancen und Herausforderungen bieten E-Mail-Beratungen im Beratungsdiskurs?",
+    "input": "",
+    "output": "E-Mail-Beratungen bieten Chancen wie Anonymit\u00e4t, \u00e4u\u00dfere und innere Niederschwelligkeit, sowie die M\u00f6glichkeit zur Verschriftlichung von Beratungsanliegen, aber auch Herausforderungen wie die Kanalreduzierung und das Fehlen sozialer Hinweisreize."
+  },
+  {
+    "instruction": "Was ist die Fragestellung des vorliegenden Beitrags?",
+    "input": "",
+    "output": "Die Fragestellung des vorliegenden Beitrags analysiert, wie Berater*innen die schriftlichen Beratungsanliegen der Ratsuchenden in ihren Interventionen transformieren und prozessieren, um einen ersten explorativen Beitrag zur Formatlogik von E-Mail-Weiterbildungsberatungen zu leisten."
+  },
+  {
+    "instruction": "Warum ben\u00f6tigen Beratende eine professionelle Lesekompetenz bei E-Mail-Beratungen?",
+    "input": "",
+    "output": "Beratende ben\u00f6tigen eine professionelle Lesekompetenz, um hinreichende Kl\u00e4rungen der Beratungsanliegen vornehmen zu k\u00f6nnen, da bei E-Mail-Beratungen zun\u00e4chst nur die schriftlichen Ausgangsschilderungen der Ratsuchenden zur Verf\u00fcgung stehen."
+  },
+  {
+    "instruction": "Warum ben\u00f6tigen Berater*innen eine professionelle Schreibkompetenz bei E-Mail-Beratungen?",
+    "input": "",
+    "output": "Berater*innen ben\u00f6tigen eine professionelle Schreibkompetenz, die an den Leser*innen bzw. Ratsuchenden orientiert ist, um an deren Vorwissen und Wortschatz anschlussf\u00e4hig formulieren zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Untersuchung?",
+    "input": "",
+    "output": "Das Ziel der Untersuchung ist es, die Formatlogik von E-Mail-Weiterbildungsberatungen zu analysieren und einen ersten explorativen Beitrag zu leisten."
+  },
+  {
+    "instruction": "Wie viele E-Mail-Weiterbildungsberatungen wurden f\u00fcr die Untersuchung ausgew\u00e4hlt?",
+    "input": "",
+    "output": "Es wurden 30 E-Mail-Weiterbildungsberatungen ausgew\u00e4hlt, die von vier Einrichtungen angeboten worden sind."
+  },
+  {
+    "instruction": "Wie viele Korrespondenzen wurden als Eckf\u00e4lle ausgew\u00e4hlt?",
+    "input": "",
+    "output": "Zwei Korrespondenzen wurden als Eckf\u00e4lle ausgew\u00e4hlt, die \u00e4hnliche Merkmale aufweisen, aber von den jeweils beratenden Personen in unterschiedlicher Weise prozessiert werden."
+  },
+  {
+    "instruction": "Welches Verfahren wurde f\u00fcr die Auswertung entwickelt?",
+    "input": "",
+    "output": "Das Verfahren der qualitativen Korrespondenzanalyse wurde entwickelt, das methodologisch auf der linguistischen Pragmatik basiert und sich an die Interpretationsprinzipien der strukturalen Hermeneutik anlehnt."
+  },
+  {
+    "instruction": "Was ist das Ziel von pragmatisch-linguistischen Analysen?",
+    "input": "",
+    "output": "Das Ziel von pragmatisch-linguistischen Analysen ist es, die Funktion von Gespr\u00e4chen/Texten zu rekonstruieren, indem die Sprech-/Schreibhandlungen in ihren konkreten kommunikativen Verwendungszusammenh\u00e4ngen beschrieben werden."
+  },
+  {
+    "instruction": "Wie wurden die E-Mails der Ratsuchenden und der Beratenden analysiert?",
+    "input": "",
+    "output": "Die E-Mails der Ratsuchenden wurden streng sequenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussionen rekonstruiert, und dann die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren analysiert."
+  },
+  {
+    "instruction": "Welche Methode wurde verwendet, um die E-Mails der Beratenden und der Ratsuchenden zu analysieren?",
+    "input": "",
+    "output": "Das Verfahren von Strauss/Corbin (1996) wurde verwendet, um die E-Mails der Beratenden und der Ratsuchenden zu analysieren."
+  },
+  {
+    "instruction": "Was sind die Einschr\u00e4nkungen der durchgef\u00fchrten Analyse?",
+    "input": "",
+    "output": "Die Analyse kann keine Aussagen \u00fcber die Intentionen der Ratsuchenden oder der Beratenden treffen, keine Aussagen \u00fcber die Beratungsverst\u00e4ndnisse der Beratenden oder \u00fcber die Wirkungen und den Nutzen bei den Ratsuchenden machen und die Diskussion der Lesarten ist nicht vollst\u00e4ndig dargestellt."
+  },
+  {
+    "instruction": "Welche Heuristik wurde verwendet, um die Beratungsanliegen zu unterscheiden?",
+    "input": "",
+    "output": "Die Unterscheidung von informativen und situativen Beratungsbedarfen von Gieseke und Opelt (2004) wurde als Heuristik verwendet."
+  },
+  {
+    "instruction": "Wie wurden die E-Mail-Anfragen der Ratsuchenden analysiert?",
+    "input": "",
+    "output": "Die E-Mail-Anfragen der Ratsuchenden wurden analysiert, indem die Anfragen direkt auf eine zur\u00fcckliegende, belastende Lebenssituation Bezug nahmen und den Wunsch zu formulieren, eine Weiterbildung zu absolvieren."
+  },
+  {
+    "instruction": "Was sind die Implikationen der Analyse f\u00fcr die Beratungspraxis?",
+    "input": "",
+    "output": "Die Analyse zeigt, dass potenzielle Beratungsanliegen nicht explizit formuliert, sondern lediglich implizit angedeutet werden und dass die Beratenden die Beratungsanliegen in ihren E-Mail-Antworten prozessieren m\u00fcssen."
+  },
+  {
+    "instruction": "Was sind die Merkmale von biografieorientierten Beratungen?",
+    "input": "",
+    "output": "Biografieorientierte Beratungen sind durch Lebenskrisen und \u00c4ngste der Ratsuchenden gekennzeichnet und widerspr\u00fcchliche Situationsbeschreibungen, die nicht ausreichen, um Weiterbildungsinteressen zu spezifizieren und Weiterbildungsma\u00dfnahmen vorzuschlagen."
+  },
+  {
+    "instruction": "Was impliziert der situative Beratungsbedarf in den analysierten Beratungsanfragen?",
+    "input": "",
+    "output": "Der situative Beratungsbedarf impliziert, dass die Ratsuchenden Hilfe beim Umgang mit bzw. bei der Reflexion \u00fcber ihre Lebenssituationen w\u00fcnschen und dass eine der genannten Weiterbildungsm\u00f6glichkeiten dazu hilfreich w\u00e4re."
+  },
+  {
+    "instruction": "Wie wird die Vertraulichkeit in der Korrespondenz markiert?",
+    "input": "",
+    "output": "Die Vertraulichkeit in der Korrespondenz wird durch die Anrede im Singular markiert, was darauf hindeutet, dass die Korrespondenz vertraulich zu behandeln und nicht weiterzugeben oder im Team zu besprechen ist."
+  },
+  {
+    "instruction": "Wie stellt sich der Ratsuchende in der Anfrage vor?",
+    "input": "",
+    "output": "Der Ratsuchende stellt sich als defizit\u00e4re Person vor, die \u2013 aus einer berufsbezogenen Perspektive \u2013 relativ alt und aktuell arbeitsunf\u00e4hig ist und seinen Arbeitskontext erl\u00e4utert, wobei die Form der Aus\u00fcbung seiner T\u00e4tigkeit als selbstbestimmt hervorgehoben wird."
+  },
+  {
+    "instruction": "Warum k\u00f6nnte die Anrede im Singular in der Korrespondenz verwendet werden?",
+    "input": "",
+    "output": "Um zu markieren, dass die Korrespondenz vertraulich zu behandeln und nicht weiterzugeben oder im Team zu besprechen ist."
+  },
+  {
+    "instruction": "Was ist der Grund f\u00fcr die Arbeitsunf\u00e4higkeit des Ratsuchenden?",
+    "input": "",
+    "output": "Sein langj\u00e4hriger Arbeitsplatz ist weggefallen und er wurde einem Leitungsteam unterstellt, was er als \u201eDilemma\u201c charakterisiert."
+  },
+  {
+    "instruction": "Was m\u00f6chte der Ratsuchende wissen?",
+    "input": "",
+    "output": "Inwiefern f\u00f6rderf\u00e4hige Weiterbildungsangebote im \u201eSozialen Bereich\u201c existieren, die durch die Agentur f\u00fcr Arbeit finanziell gef\u00f6rdert werden."
+  },
+  {
+    "instruction": "Was l\u00e4sst darauf schlie\u00dfen, dass die schriftliche Anfrage zur Kontaktanbahnung f\u00fcr einen pers\u00f6nlichen Beratungstermin dient?",
+    "input": "",
+    "output": "Die mit dem letzten Absatz eingeleitete Verabschiedung und das darin enthaltene Angebot, pers\u00f6nlich vorbeizukommen, sowie die explizite Beendigung (\u201eVielen Dank einstweilen\u201c)."
+  },
+  {
+    "instruction": "Was charakterisiert die Korrespondenzsorte, zu der die beiden analysierten Korrespondenzen geh\u00f6ren?",
+    "input": "",
+    "output": "Dass in den Anfragen sowohl Hinweise auf informative als auch auf situative Beratungsanliegen vorhanden sind."
+  },
+  {
+    "instruction": "Was ist das Ziel der vergleichenden Analyse?",
+    "input": "",
+    "output": "Die jeweiligen Prozessierungsaktivit\u00e4ten der beiden Berater*innen in ihren Gemeinsamkeiten und Unterschieden zu rekonstruieren und mit Blick auf die Potenziale und Spezifika computervermittelter asynchroner Bildungsberatung einzuordnen."
+  },
+  {
+    "instruction": "Was ist das Ziel der computervermittelten, asynchronen Beratungen in der Weiterbildung?",
+    "input": "",
+    "output": "Das Ziel ist, die Handlungs- und Entscheidungsf\u00e4higkeit der Ratsuchenden herzustellen."
+  },
+  {
+    "instruction": "Wie gehen die Berater*innen auf die informativen Bed\u00fcrfnisse der Ratsuchenden ein?",
+    "input": "",
+    "output": "Die Berater*innen geben den Ratsuchenden Hinweise zu Recherchem\u00f6glichkeiten und nennen Internetadressen sowie Hilfestellungen zur Suche."
+  },
+  {
+    "instruction": "Welche F\u00f6rderprogramme f\u00fcr die berufliche Weiterbildung werden erw\u00e4hnt?",
+    "input": "",
+    "output": "Die F\u00f6rderprogramme sind die Bildungspr\u00e4mie, der Bildungsscheck und in bestimmten F\u00e4llen das Aufstiegs-Baf\u00f6g."
+  },
+  {
+    "instruction": "Wie unterscheiden sich die beiden Korrespondenzen (7 und 27) in der Prozessierung?",
+    "input": "",
+    "output": "In Korrespondenz 7 wird das Anliegen nicht aufgegriffen, w\u00e4hrend in Korrespondenz 27 ein situativ orientierter Beratungstyp prozessiert wird."
+  },
+  {
+    "instruction": "Welche Rolle spielen Reflexionsfragen in der Korrespondenz 27?",
+    "input": "",
+    "output": "Der Berater stellt implizite und explizite Reflexionsfragen, um den Ratsuchenden zu helfen, seine Strategie zu entwickeln und eine L\u00f6sung zu finden."
+  },
+  {
+    "instruction": "Wie reagiert der Berater auf das Anliegen des Ratsuchenden?",
+    "input": "",
+    "output": "Der Berater reagiert auf das Anliegen des Ratsuchenden, indem er einen Rahmen \u00fcber das formulierte Anliegen hinaus er\u00f6ffnet und eine Teilnahme per se als lediglich kurzfristige L\u00f6sung darstellt."
+  },
+  {
+    "instruction": "Welche L\u00f6sungsvorschl\u00e4ge unterbreitet der Berater dem Ratsuchenden?",
+    "input": "",
+    "output": "Der Berater unterbreitet dem Ratsuchenden einen internen und einen externen L\u00f6sungsweg, wobei er die interne L\u00f6sung pr\u00e4feriert."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzt der Berater die Handlungsautonomie des Ratsuchenden?",
+    "input": "",
+    "output": "Der Berater unterst\u00fctzt die Handlungsautonomie des Ratsuchenden, indem er ihn durch R\u00fcckdelegationen an die Ratsuchenden zu selbst\u00e4ndigen Aktivit\u00e4ten auffordert."
+  },
+  {
+    "instruction": "Wie unterscheiden sich die Beratungsans\u00e4tze der Beraterin und des Beraters?",
+    "input": "",
+    "output": "Die Beraterin ignoriert die Komplexit\u00e4t des Beratungsanliegens, w\u00e4hrend der Berater die Komplexit\u00e4t aufgreift und reflektiert, indem er Relexionsfragen, Handlungsempfehlungen und L\u00f6sungsvorschl\u00e4ge entwickelt."
+  },
+  {
+    "instruction": "Welche Bedeutung hat die zweite Reflexionsfrage im Beratungsprozess?",
+    "input": "",
+    "output": "Die zweite Reflexionsfrage er\u00f6ffnet einen Rahmen, der \u00fcber das formulierte Anliegen hinausgeht und die Situation zuspitzt, indem sie die Teilnahme per se als lediglich kurzfristige L\u00f6sung darstellt."
+  },
+  {
+    "instruction": "Wie unterst\u00fctzen die Beratenden die Handlungsautonomie der Ratsuchenden?",
+    "input": "",
+    "output": "Die Beratenden unterst\u00fctzen die Handlungsautonomie der Ratsuchenden durch R\u00fcckdelegationen und die Aufforderung zu selbst\u00e4ndigen Aktivit\u00e4ten."
+  },
+  {
+    "instruction": "Wie unterscheidet sich die Beraterin im ersten Eckfall von dem Berater im zweiten Eckfall?",
+    "input": "",
+    "output": "Die Beraterin ignoriert die Komplexit\u00e4t des Beratungsanliegens, w\u00e4hrend der Berater die Komplexit\u00e4t aufgreift und reflektiert."
+  },
+  {
+    "instruction": "Was sind die Forschungsdesiderate in Bezug auf asynchrone Beratungen?",
+    "input": "",
+    "output": "Die Forschungsdesiderate umfassen die Untersuchung von Verstehensprozessen, Beratungsverst\u00e4ndnissen, Interventionsstudien und die systematische Untersuchung von E-Mail-Beratungskorrespondenzen."
+  },
+  {
+    "instruction": "Warum sind Interventionsstudien notwendig?",
+    "input": "",
+    "output": "Interventionsstudien sind notwendig, um herauszufinden, inwiefern Qualifizierungen von Beratenden dazu beitragen, dass textbasierte Anfragen in ihrer Komplexit\u00e4t angemessen erfasst und bearbeitet werden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Untersuchung von E-Mail-Beratungskorrespondenzen?",
+    "input": "",
+    "output": "Das Ziel ist die Entwicklung eines Kernhandlungsschemas f\u00fcr asynchrone digitale (Bildungs-)Beratungen auf einer empirischen Basis."
+  },
+  {
+    "instruction": "Wer hat 2006 einen Artikel \u00fcber Methoden des digitalen Lesens und Schreibens in der Online-Beratung ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Brunner, Alexander."
+  },
+  {
+    "instruction": "Was ist der Titel des Artikels von Br\u00fcnner und Graefen aus dem Jahr 1994?",
+    "input": "",
+    "output": "Einleitung: Zur Konzeption der Funktionalen Pragmatik."
+  },
+  {
+    "instruction": "Wer hat 2004 einen Artikel \u00fcber Verstehens- und Verst\u00e4ndlichkeitsmessung ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Christmann, Ursula."
+  },
+  {
+    "instruction": "Was ist der Titel des Buches von D\u00f6ring aus dem Jahr 2003?",
+    "input": "",
+    "output": "Sozialpsychologie des Internets."
+  },
+  {
+    "instruction": "Wer hat 2011 ein Buch \u00fcber Pragmatik ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Ehrhardt, Claus und Heringer, Hans J\u00fcrgen."
+  },
+  {
+    "instruction": "Was ist der Titel des Artikels von Gieseke, K\u00e4pplinger und Otto aus dem Jahr 2007?",
+    "input": "",
+    "output": "Prozessverl\u00e4ufe in der Beratung analysieren \u2013 Ein Desiderat."
+  },
+  {
+    "instruction": "Wer hat 2004 einen Studienbrief \u00fcber Weiterbildungsberatung ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Gieseke, Wiltrud und Opelt, Karin."
+  },
+  {
+    "instruction": "Was ist der Titel des Artikels von Hetfleisch, Goeze und Schrader aus dem Jahr 2017?",
+    "input": "",
+    "output": "Wie PraktikerInnen wissenschaftliche Befunde verwenden."
+  },
+  {
+    "instruction": "Wer hat 2000 einen Artikel \u00fcber Beraten und Betreuen ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Kallmeyer, Werner."
+  },
+  {
+    "instruction": "Was ist der Titel des Artikels von Knatz aus dem Jahr 2009?",
+    "input": "",
+    "output": "Die webbasierte Mail-Beratung."
+  },
+  {
+    "instruction": "Wer hat 2011 ein Kapitel \u00fcber Beraten in einem Handbuch ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Kraft, Volker."
+  },
+  {
+    "instruction": "Was ist der Titel des Artikels von Kossack aus dem Jahr 2009?",
+    "input": "",
+    "output": "Bildungsberatung revisited."
+  },
+  {
+    "instruction": "Wer hat 1983 einen Artikel \u00fcber Textpragmatische Analyse schriftlicher Kommunikation ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Langheine, Volker."
+  },
+  {
+    "instruction": "Was ist der Titel des Artikels von Nittel aus dem Jahr 2009?",
+    "input": "",
+    "output": "Beratung \u2013 eine (erwachsen-)p\u00e4dagogische Handlungsform."
+  },
+  {
+    "instruction": "Wer hat 1997 einen Artikel \u00fcber Weiterbildungsberatung ver\u00f6ffentlicht?",
+    "input": "",
+    "output": "Meyer, Katharina."
+  },
+  {
+    "instruction": "Was ist das Thema des Beitrags?",
+    "input": "",
+    "output": "Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellen Kontexten Rat f\u00fcr ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden."
+  },
+  {
+    "instruction": "Wie wird Beratung im Beitrag definiert?",
+    "input": "",
+    "output": "Beratung wird im Beitrag als ein weiter Begriff definiert, der nicht an formale, professionelle (p\u00e4dagogische) Settings bindet, sondern \u00fcberall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen."
+  },
+  {
+    "instruction": "Was ist das Ziel von Beratung im Kontext von Reisen und Bildung?",
+    "input": "",
+    "output": "Beratung zielt in diesem Kontext auf subjektive Mobilit\u00e4tskompetenzen."
+  },
+  {
+    "instruction": "Welche Medien der Beratung werden im Beitrag erw\u00e4hnt?",
+    "input": "",
+    "output": "Reiseberichte und Reisef\u00fchrer sind bereits seit Jahrhunderten ein Medium der Beratung."
+  },
+  {
+    "instruction": "Was ist die Perspektive, aus der die Verbindung von Reisen und Beratungsformen betrachtet wird?",
+    "input": "",
+    "output": "Die Verbindung von Reisen und Beratungsformen wird aus einer machttheoretischen Perspektive betrachtet."
+  },
+  {
+    "instruction": "Wie wirkt Beratung auf Subjekte in ihren subjektiven Aneignungsprozessen von Welt?",
+    "input": "",
+    "output": "Beratung wirkt auf Subjekte in ihren subjektiven Aneignungsprozessen von Welt durch die Vermittlung von Wissen oder ver\u00e4nderte Formen der Adressierung von potentiell Reisenden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung im Kontext von Reisen und Bildung?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist die Entwicklung von subjektiven Mobilit\u00e4tskompetenzen."
+  },
+  {
+    "instruction": "Welche Rolle spielen Reiseberichte und Reisef\u00fchrer in der Beratung von Reisenden?",
+    "input": "",
+    "output": "Reiseberichte und Reisef\u00fchrer sind ein Medium der Beratung und vermitteln Wissen an potenzielle Reisende."
+  },
+  {
+    "instruction": "Wie hat sich die Verbindung von Bildung und Reisen historisch entwickelt?",
+    "input": "",
+    "output": "Die Verbindung von Bildung und Reisen war historisch prim\u00e4r funktional-materiell bestimmt und wurde erst sp\u00e4ter als 'nicht-utilit\u00e4res' Ph\u00e4nomen betrachtet."
+  },
+  {
+    "instruction": "Was ist die Apodemik und wie ist sie mit der Beratung von Reisenden verbunden?",
+    "input": "",
+    "output": "Die Apodemik ist eine im 16. Jahrhundert entstandene Kunstlehre des richtigen Reisens und dient als Beispiel f\u00fcr die Verbindung von Bildungsreisegeschehen und Beratungsakten."
+  },
+  {
+    "instruction": "Wie wirkt die Beratung auf die subjektive Aneignung von Welt durch Reisende?",
+    "input": "",
+    "output": "Die Beratung wirkt auf die subjektive Aneignung von Welt durch Reisende, indem sie M\u00f6glichkeiten der Beratung von Reisenden durch die Vermittlung von Wissen oder ver\u00e4nderte Formen der Adressierung von potenziell Reisenden er\u00f6ffnet."
+  },
+  {
+    "instruction": "Welche Bedeutung hat die Bewegung als Kategorie in der Verbindung von Bildung und Reisen?",
+    "input": "",
+    "output": "Die Bewegung ist eine zentrale Kategorie in der Verbindung von Bildung und Reisen, da sie die Notwendigkeit des physischen Bewegens beim Reisen und die theoretisch-ideelle Auspr\u00e4gung eines spezifischen Begriffs von Bildung verbindet."
+  },
+  {
+    "instruction": "Wer hat die Wechselwirkung von Ich und Welt in der Bildungstheorie beschrieben?",
+    "input": "",
+    "output": "Wilhelm von Humboldt hat die Wechselwirkung von Ich und Welt in der Bildungstheorie beschrieben, insbesondere in seiner dritten Bestimmung der Wechselwirkung von Ich und Welt."
+  },
+  {
+    "instruction": "Was charakterisiert Theodor W. Adorno als Halbbildung?",
+    "input": "",
+    "output": "Theodor W. Adorno charakterisiert Halbbildung als degenerierte Bildung, die durch das Fehlen von Bewusstsein und eine defensive Haltung des Stillstands gekennzeichnet ist."
+  },
+  {
+    "instruction": "Wie haben sich Bildung und Reisen historisch zueinandergefunden?",
+    "input": "",
+    "output": "Bildung und Reisen haben sich historisch zueinandergefunden, indem sie seit der Sp\u00e4trenaissance f\u00fcr h\u00f6chst unterschiedliche soziale Gruppen in unterschiedlichen Reiseformen m\u00f6glich wurden, wobei die jeweiligen Anspr\u00fcche an Bildung unterschiedlich waren."
+  },
+  {
+    "instruction": "Was sind die Sorgen oder Unsicherheiten, die mit Bildungsreisen einhergehen?",
+    "input": "",
+    "output": "Mit Bildungsreisen gehen Sorgen oder Unsicherheiten \u00fcber den sinnvollen Gebrauch subjektiven Mobilit\u00e4tspotentials einher, sowie Fragen der Anerkennung des Reisens und der Gewissheit \u00fcber die Richtigkeit des Reisens."
+  },
+  {
+    "instruction": "Warum sind Bildungsreisen Gegenstand des Suchens und Findens von Rat?",
+    "input": "",
+    "output": "Bildungsreisen sind Gegenstand des Suchens und Findens von Rat, weil sie Unsicherheiten \u00fcber die potentielle Uneinl\u00f6sbarkeit des Erfahrenen aufwerfen und somit Beratungskontexte zug\u00e4nglich machen."
+  },
+  {
+    "instruction": "Was ist die doppelte Differenz von Beratung?",
+    "input": "",
+    "output": "Die doppelte Differenz von Beratung bezieht sich auf die Unterscheidung zwischen Rat und Tat sowie zwischen Selbst- und Fremdbestimmung."
+  },
+  {
+    "instruction": "Was ist das Ziel von Beratung?",
+    "input": "",
+    "output": "Das Ziel von Beratung ist es, dem Subjekt zu helfen, seine Entscheidungsoptionen zu optimieren und eine riskante Auswahl zu treffen."
+  },
+  {
+    "instruction": "Warum ist Beratung in der heutigen Gesellschaft wichtig?",
+    "input": "",
+    "output": "Beratung ist in der heutigen Gesellschaft wichtig, weil sie dem Subjekt hilft, sich in einer Risikogesellschaft zurechtzufinden und seine Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Was bedeutet die EU-Idee der Lifelong Guidance?",
+    "input": "",
+    "output": "Die EU-Idee der Lifelong Guidance bedeutet, dass Beratung ein wichtiger Bestandteil des lebenslangen Lernens ist und dass Subjekte sich \u00fcberall und jederzeit beraten lassen k\u00f6nnen."
+  },
+  {
+    "instruction": "Wann hat die EU das Konzept des Lifelong Learning um die Idee der Lifelong Guidance erweitert?",
+    "input": "",
+    "output": "2004."
+  },
+  {
+    "instruction": "Was bedeutet Beratung in der Risikogesellschaft?",
+    "input": "",
+    "output": "Beratung wird zum individuellen Kompensationsinstrument der Risikogesellschaft."
+  },
+  {
+    "instruction": "Welche Voraussetzungen setzt Beratung voraus?",
+    "input": "",
+    "output": "Beratung setzt Selbstbestimmung und Freiwilligkeit voraus."
+  },
+  {
+    "instruction": "Was ist die Funktion von Beratung in Bezug auf individuelle Fehlentscheidungen?",
+    "input": "",
+    "output": "Beratung tritt individueller Fehlentscheidungen in Form einer Absicherungsinstanz entgegen."
+  },
+  {
+    "instruction": "Was sind Apodemiken?",
+    "input": "",
+    "output": "Apodemiken sind eine literarische Gattung, die reisespezifische Formen von Ratgeberliteratur darstellt."
+  },
+  {
+    "instruction": "Wann entstand die literarische Gattung der Apodemiken?",
+    "input": "",
+    "output": "Im Ende des 16. Jahrhunderts."
+  },
+  {
+    "instruction": "Was ist das Ziel von Apodemiken?",
+    "input": "",
+    "output": "Apodemiken sollen Reisende im \u201erichtigen\u201c Erfahren von Unbekanntem schulen."
+  },
+  {
+    "instruction": "Was waren Apodemiken?",
+    "input": "",
+    "output": "Apodemiken waren reisespezifische Formen von Ratgeberliteratur, die Reisende im richtigen Erfahren von Unbekanntem schulten."
+  },
+  {
+    "instruction": "Wie unterschieden sich Apodemiken von modernen Reisef\u00fchrern?",
+    "input": "",
+    "output": "Apodemiken unterschieden sich stark von modernen Reisef\u00fchrern, da sie sich prim\u00e4r der Schilderung und Anweisung davon widmeten, wie Subjekte reisen und die Fremdheitserfahrungen einordnen sollten."
+  },
+  {
+    "instruction": "Was war das Ziel der Apodemiken?",
+    "input": "",
+    "output": "Das Ziel der Apodemiken war nicht die Kenntnis einzelner Orte, sondern eine bildungsreisespezifische Mobilit\u00e4tskompetenz, die dann allerorts anwendbar sein sollte."
+  },
+  {
+    "instruction": "Wie adressierten die Apodemiken ihre Leser?",
+    "input": "",
+    "output": "Die Apodemiken adressierten die potentiell Mobilen direkt, indem sie dem Feld der personenbezogenen Beratung im Kontext informeller Bildungsberatung zugeordnet werden k\u00f6nnen."
+  },
+  {
+    "instruction": "Welche drei Merkmale sind f\u00fcr Apodemiken charakteristisch?",
+    "input": "",
+    "output": "Die drei Merkmale sind: Bildungsreisen erfahren durch Apodemiken eine zunehmende Methodisierung, eine tendenzielle Entempirisierung von Bildungsreisen und eine P\u00e4dagogisierung von Bildungsreisen."
+  },
+  {
+    "instruction": "Was war der Lohn f\u00fcr das Befolgen des Rats in den Apodemiken?",
+    "input": "",
+    "output": "Der Lohn f\u00fcr das Befolgen des Rats in den Apodemiken war eine erh\u00f6hte Sicherheit der Anerkennungsf\u00e4higkeit des subjektiven Bildungsreisens."
+  },
+  {
+    "instruction": "Wie wirkt die Apodemik auf die Bildungsreisenden?",
+    "input": "",
+    "output": "Die Apodemik wirkt auf die Bildungsreisenden durch die Vermittlung sozialer Erwartungsvorstellungen an individuelle Bildungsreiseleistung."
+  },
+  {
+    "instruction": "Was ist das Ziel der Disziplin in der Apodemik?",
+    "input": "",
+    "output": "Das Ziel der Disziplin in der Apodemik ist die Steigerung des produktiven Verm\u00f6gens von Individuen durch ein Regime minuti\u00f6ser Reglementierungen und fortw\u00e4hrenden \u00dcbens."
+  },
+  {
+    "instruction": "Wie werden Subjekte in der Apodemik individualisiert?",
+    "input": "",
+    "output": "Subjekte werden in der Apodemik individualisiert, indem ihnen eine je individuelle Abweichung von einer zu erreichenden Norm unterstellt wird."
+  },
+  {
+    "instruction": "Was ist die Funktion der Beratung in der Apodemik?",
+    "input": "",
+    "output": "Die Beratung in der Apodemik dient als Hilfestellung f\u00fcr Reisende, um sie im sozial angemessenen Umgang mit den ihnen eigenen Kr\u00e4ften der Bildung qua Bewegung zu schulen."
+  },
+  {
+    "instruction": "Gibt es noch eine Nachfolgerin der Apodemik in der heutigen Zeit?",
+    "input": "",
+    "output": "Ja, eine postmoderne Nachfolgerin der Apodemik kann in der Mobilit\u00e4tspolitik der EU identifiziert werden, insbesondere im Rahmen von Bildungsreisebewegungen als learning mobility."
+  },
+  {
+    "instruction": "Wie vollzieht sich die Wirkweise europ\u00e4ischer Mobilit\u00e4tspolitik?",
+    "input": "",
+    "output": "Die Wirkweise europ\u00e4ischer Mobilit\u00e4tspolitik vollzieht sich zun\u00e4chst nicht \u00fcber die unmittelbare Interaktion von Beratenden und Beratenen, sondern durch eine dezentrierte Rahmung der Mobilit\u00e4ten."
+  },
+  {
+    "instruction": "Was ist das Ziel der europ\u00e4ischen Mobilit\u00e4tspolitik?",
+    "input": "",
+    "output": "Das Ziel der europ\u00e4ischen Mobilit\u00e4tspolitik ist es, die Voraussetzungen zu schaffen, um dem Imperativ zur Bewegung m\u00f6glichst umfassend Wirksamkeit zu verleihen und Lernphasen im Ausland f\u00fcr alle jungen Menschen in Europa allm\u00e4hlich die Regel werden zu lassen."
+  },
+  {
+    "instruction": "Was versteht man unter \u201eMobilit\u00e4t zu Lernzwecken\u201c?",
+    "input": "",
+    "output": "\u201eMobilit\u00e4t zu Lernzwecken\u201c meint einen Auslandsaufenthalt mit dem Ziel, neues Wissen sowie neue F\u00e4higkeiten und Kompetenzen zu erwerben, um die k\u00fcnftige Besch\u00e4ftigungsf\u00e4higkeit, das interkulturelle Bewusstsein und die pers\u00f6nliche Entwicklung zu erh\u00f6hen."
+  },
+  {
+    "instruction": "Wie unterscheidet sich die europ\u00e4ische Mobilit\u00e4tspolitik von der Apodemik?",
+    "input": "",
+    "output": "Die europ\u00e4ische Mobilit\u00e4tspolitik unterscheidet sich von der Apodemik dadurch, dass sie keine pr\u00e4zisen Schilderungen und Anweisungen zum richtigen Reisen liefert, sondern eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen agiert."
+  },
+  {
+    "instruction": "Was ist der Imperativ der Mobilit\u00e4t und wie wirkt er?",
+    "input": "",
+    "output": "Der Imperativ der Mobilit\u00e4t ist die Erwartung, dass sich Menschen bewegen und mobil sind, um ihre F\u00e4higkeiten und Kompetenzen zu erh\u00f6hen. Er wirkt durch die Schaffung von Voraussetzungen, um Mobilit\u00e4t zu erleichtern, und durch die Unterstellung einer F\u00f6rderf\u00e4higkeit jeder gew\u00fcnschten Mobilit\u00e4t."
+  },
+  {
+    "instruction": "Was sind die strategischen Ziele der europ\u00e4ischen Mobilit\u00e4tspolitik?",
+    "input": "",
+    "output": "Die strategischen Ziele der europ\u00e4ischen Mobilit\u00e4tspolitik sind der Abbau von Mobilit\u00e4tshindernissen, die Erleichterung von Mobilit\u00e4t und die Schaffung von Voraussetzungen, um Lernphasen im Ausland f\u00fcr alle jungen Menschen in Europa allm\u00e4hlich die Regel werden zu lassen."
+  },
+  {
+    "instruction": "Wie unterscheidet sich die gouvernementale F\u00fchrung in der EU-Mobilit\u00e4tspolitik von der Apodemik?",
+    "input": "",
+    "output": "Die gouvernementale F\u00fchrung in der EU-Mobilit\u00e4tspolitik agiert subtiler und erf\u00e4hrt ihre Wirksamkeit eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen."
+  },
+  {
+    "instruction": "Was zeigt sich abschlie\u00dfend in Bezug auf soziale Adressierungsformen von Beratung in unterschiedlichen historischen Kontexten?",
+    "input": "",
+    "output": "Soziale Adressierungsformen von Beratung in unterschiedlichen historischen Kontexten differieren betr\u00e4chtlich, sowohl f\u00fcr die Suche nach Rat als auch f\u00fcr die Angebotsstruktur von Beratung."
+  },
+  {
+    "instruction": "Wie wird das Bed\u00fcrfnis nach Mobilit\u00e4t zu Lernzwecken und die Sorge um die Erreichung dieser Zwecke hervorgebracht?",
+    "input": "",
+    "output": "Das Bed\u00fcrfnis nach Mobilit\u00e4t zu Lernzwecken und die Sorge um die Erreichung dieser Zwecke werden durch die Unausweichlichkeit der Konfrontation mit Darstellungen gelungener Mobilit\u00e4t sowie die Omnipr\u00e4senz von Mobilit\u00e4tsangeboten hervorgebracht."
+  },
+  {
+    "instruction": "Wie kommt die Bildungsberatung mit ihrer Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung um?",
+    "input": "",
+    "output": "Die Bildungsberatung kommt nicht umhin, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen."
+  }
+]

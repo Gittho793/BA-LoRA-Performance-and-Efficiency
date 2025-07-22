@@ -1,0 +1,677 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat mehrere Handbücher und Einführungen in die Bildungsberatung veröffentlicht?",
+    "output": "Anne Schlüter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat das Buch „Beratungswissen für die Erwachsenenbildung“ veröffentlicht?",
+    "output": "Maier-Gutheil und Nierobisch"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Unter welcher Perspektive wurde die Publikation von Frank Schröder und Peter Schlögl bearbeitet?",
+    "output": "„Qualität definieren, gestalten, reflektieren“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was enthält das Lehrbuch von Andreas Bürgi und Herbert Eberhardt?",
+    "output": "Ein Kapitel „Beratung als methodisches Tun“ sowie ein Kapitel „Arbeitstechniken“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Worüber vermittelt das Lehrbuch von Andreas Bürgi und Herbert Eberhardt?",
+    "output": "Dass Beratung sich auf dem Weg zur Professionalität befindet"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was enthält das Handbuch zur Beratungskompetenz von Bernd Joachim Ertelt und William E. Schulz?",
+    "output": "Ausführungen und Übungen zur Entwicklung von Beratungsfertigkeiten in Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stehen im Vordergrund des Handbuchs zur Beratungskompetenz?",
+    "output": "Modelle für die Beratung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Modelle für die Beratung werden im Handbuch zur Beratungskompetenz erwähnt?",
+    "output": "Das Modell des Microcounseling, das Modell des Problemmanagements, der Lösungsorientierten Beratung und des integrativen Modells"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Worauf bezieht sich die Bildungsberatung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Beratungsgesprächen?",
+    "output": "Orientierungen für (Weiter-)Bildungswege zu geben"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind Lebenslauf- und Biographieorientierung zentrale Prinzipien im Beratungsprozess?",
+    "output": "Weil sie im Lebenslauf Entscheidungen für weitergehende zukünftige Bildungsprozesse treffen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was geht das Tätigkeitsfeld Bildungsberatung von aus?",
+    "output": "Dass Menschen ein Leben lang entwicklungsfähig und damit auch lernfähig sind"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das humanistische Menschenbild?",
+    "output": "Dass Menschen ihre Wirklichkeitskonstruktionen gestalten, auch wenn sie diese nicht allein zu verantworten haben"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer gibt einen Überblick zu den metatheoretischen Grundlagen?",
+    "output": "Anne Schlüter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was vermittelt Anne Schlüter?",
+    "output": "Das Beratungsverständnis für Bildungsentscheidungen und welche Menschenbilder den häufig eingesetzten theoretischen Ansätzen zugrunde liegen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratungskompetenz?",
+    "output": "Die Entwicklung von Beratungsfertigkeiten in Bildung und Beruf"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz?",
+    "output": "Die Fähigkeit, Beratungsgespräche zu führen und Entscheidungen für (Weiter-)Bildungswege zu treffen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bildungsberatung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer hat die Publikation von Frank Schröder und Peter Schlögl bearbeitet?",
+    "output": "Frank Schröder und Peter Schlögl"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Perspektive von Frank Schröder und Peter Schlögl?",
+    "output": "„Qualität definieren, gestalten, reflektieren“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Lehrbuch von Andreas Bürgi und Herbert Eberhardt?",
+    "output": "Ein Buch, das die Beratung als methodisches Tun und Arbeitstechniken vermittelt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz von Bernd Joachim Ertelt und William E. Schulz?",
+    "output": "Ein Handbuch, das Ausführungen und Übungen zur Entwicklung von Beratungsfertigkeiten in Bildung und Beruf enthält"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die multikulturelle Perspektive?",
+    "output": "Eine Perspektive, die die Vielfalt der Kulturen und die Bedürfnisse von Menschen aus verschiedenen Kulturen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Microcounseling?",
+    "output": "Ein Modell, das die Beratung als eine Form der Unterstützung von Individuen versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Problemmanagements?",
+    "output": "Ein Modell, das die Beratung als eine Form der Problemlösung versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lösungsorientierte Beratung?",
+    "output": "Eine Form der Beratung, die sich auf die Lösung von Problemen konzentriert"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das integrative Modell?",
+    "output": "Ein Modell, das die Beratung als eine Form der Integration von verschiedenen Ansätzen und Methoden versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lebenslauf- und Biographieorientierung?",
+    "output": "Eine Orientierung, die die Lebensläufe und Biographien von Individuen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das humanistische Menschenbild?",
+    "output": "Ein Menschenbild, das die Fähigkeit von Menschen betont, ihre eigene Wirklichkeit zu gestalten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wirklichkeitskonstruktion?",
+    "output": "Die Fähigkeit von Menschen, ihre eigene Wirklichkeit zu gestalten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer gibt einen Überblick zu den metatheoretischen Grundlagen?",
+    "output": "Anne Schlüter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was vermittelt Anne Schlüter?",
+    "output": "Das Beratungsverständnis für Bildungsentscheidungen und welche Menschenbilder den häufig eingesetzten theoretischen Ansätzen zugrunde liegen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz?",
+    "output": "Die Fähigkeit, Beratungsgespräche zu führen und Entscheidungen für (Weiter-)Bildungswege zu treffen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bildungsberatung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Perspektive von Frank Schröder und Peter Schlögl?",
+    "output": "„Qualität definieren, gestalten, reflektieren“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Lehrbuch von Andreas Bürgi und Herbert Eberhardt?",
+    "output": "Ein Buch, das die Beratung als methodisches Tun und Arbeitstechniken vermittelt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz von Bernd Joachim Ertelt und William E. Schulz?",
+    "output": "Ein Handbuch, das Ausführungen und Übungen zur Entwicklung von Beratungsfertigkeiten in Bildung und Beruf enthält"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die multikulturelle Perspektive?",
+    "output": "Eine Perspektive, die die Vielfalt der Kulturen und die Bedürfnisse von Menschen aus verschiedenen Kulturen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Microcounseling?",
+    "output": "Ein Modell, das die Beratung als eine Form der Unterstützung von Individuen versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Problemmanagements?",
+    "output": "Ein Modell, das die Beratung als eine Form der Problemlösung versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lösungsorientierte Beratung?",
+    "output": "Eine Form der Beratung, die sich auf die Lösung von Problemen konzentriert"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das integrative Modell?",
+    "output": "Ein Modell, das die Beratung als eine Form der Integration von verschiedenen Ansätzen und Methoden versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lebenslauf- und Biographieorientierung?",
+    "output": "Eine Orientierung, die die Lebensläufe und Biographien von Individuen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das humanistische Menschenbild?",
+    "output": "Ein Menschenbild, das die Fähigkeit von Menschen betont, ihre eigene Wirklichkeit zu gestalten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wirklichkeitskonstruktion?",
+    "output": "Die Fähigkeit von Menschen, ihre eigene Wirklichkeit zu gestalten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer gibt einen Überblick zu den metatheoretischen Grundlagen?",
+    "output": "Anne Schlüter"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was vermittelt Anne Schlüter?",
+    "output": "Das Beratungsverständnis für Bildungsentscheidungen und welche Menschenbilder den häufig eingesetzten theoretischen Ansätzen zugrunde liegen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz?",
+    "output": "Die Fähigkeit, Beratungsgespräche zu führen und Entscheidungen für (Weiter-)Bildungswege zu treffen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bildungsberatung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Perspektive von Frank Schröder und Peter Schlögl?",
+    "output": "„Qualität definieren, gestalten, reflektieren“"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Lehrbuch von Andreas Bürgi und Herbert Eberhardt?",
+    "output": "Ein Buch, das die Beratung als methodisches Tun und Arbeitstechniken vermittelt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz von Bernd Joachim Ertelt und William E. Schulz?",
+    "output": "Ein Handbuch, das Ausführungen und Übungen zur Entwicklung von Beratungsfertigkeiten in Bildung und Beruf enthält"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die multikulturelle Perspektive?",
+    "output": "Eine Perspektive, die die Vielfalt der Kulturen und die Bedürfnisse von Menschen aus verschiedenen Kulturen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Microcounseling?",
+    "output": "Ein Modell, das die Beratung als eine Form der Unterstützung von Individuen versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Problemmanagements?",
+    "output": "Ein Modell, das die Beratung als eine Form der Problemlösung versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lösungsorientierte Beratung?",
+    "output": "Eine Form der Beratung, die sich auf die Lösung von Problemen konzentriert"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das integrative Modell?",
+    "output": "Ein Modell, das die Beratung als eine Form der Integration von verschiedenen Ansätzen und Methoden versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lebenslauf- und Biographieorientierung?",
+    "output": "Eine Orientierung, die die Lebensläufe und Biographien von Individuen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das humanistische Menschenbild?",
+    "output": "Ein Menschenbild, das die Fähigkeit von Menschen betont, ihre eigene Wirklichkeit zu gestalten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wirklichkeitskonstruktion?",
+    "output": "Die Fähigkeit von Menschen, ihre eigene Wirklichkeit zu gestalten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was vermittelt Anne Schlüter?",
+    "output": "Das Beratungsverständnis für Bildungsentscheidungen und welche Menschenbilder den häufig eingesetzten theoretischen Ansätzen zugrunde liegen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Beratung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz?",
+    "output": "Die Fähigkeit, Beratungsgespräche zu führen und Entscheidungen für (Weiter-)Bildungswege zu treffen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bildungsberatung?",
+    "output": "Die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Lehrbuch von Andreas Bürgi und Herbert Eberhardt?",
+    "output": "Ein Buch, das die Beratung als methodisches Tun und Arbeitstechniken vermittelt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratungskompetenz von Bernd Joachim Ertelt und William E. Schulz?",
+    "output": "Ein Handbuch, das Ausführungen und Übungen zur Entwicklung von Beratungsfertigkeiten in Bildung und Beruf enthält"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die multikulturelle Perspektive?",
+    "output": "Eine Perspektive, die die Vielfalt der Kulturen und die Bedürfnisse von Menschen aus verschiedenen Kulturen berücksichtigt"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Microcounseling?",
+    "output": "Ein Modell, das die Beratung als eine Form der Unterstützung von Individuen versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Modell des Problemmanagements?",
+    "output": "Ein Modell, das die Beratung als eine Form der Problemlösung versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lösungsorientierte Beratung?",
+    "output": "Eine Form der Beratung, die sich auf die Lösung von Problemen konzentriert"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das integrative Modell?",
+    "output": "Ein Modell, das die Beratung als eine Form der Integration von verschiedenen Ansätzen und Methoden versteht"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Tätigkeitsfeld Bildungsberatung?",
+    "output": "Das Tätigkeitsfeld Bildungsberatung geht von der Annahme aus, dass Menschen ein Leben lang entwicklungsfähig und damit auch lernfähig sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das humanistische Menschenbild in der Bildungsberatung?",
+    "output": "Das humanistische Menschenbild findet Ausdruck in der These, dass Menschen ihre Wirklichkeitskonstruktionen gestalten, auch wenn sie diese nicht allein zu verantworten haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Methoden in der Bildungsberatung?",
+    "output": "Methoden sind Vorgehensweisen, die nach Regeln oder Grundsätzen für das Handeln durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Techniken in der Bildungsberatung?",
+    "output": "Techniken sind Mittel zum Zweck der Erreichung einer gelingenden Beratung, wie z.B. aktives Zuhören, Paraphrase, Fragetechniken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wählt man die richtige Methode in der Bildungsberatung?",
+    "output": "Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Beratungsfelder?",
+    "output": "Beratungsfelder sind operative Einheiten in einem bestimmten institutionellen Rahmen, die dazu dienen, institutionelle Aufgaben und gesellschaftlich relevante Dienstleistungen auf Dauer zu stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Prinzipien in der Bildungsberatung?",
+    "output": "Prinzipien sind beispielsweise Subjektorientierung, Zielgruppenorientierung, Biografieorientierung, Reflexionsorientierung, Nutzenorientierung, Prozessorientierung, Partizipation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Medien in der Bildungsberatung?",
+    "output": "Medien können Kommunikationsprozesse erleichtern, indem Bilder, Karikaturen, Fotos, Filme zum Einsatz kommen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Interventionen in der Bildungsberatung?",
+    "output": "Interventionen werden als Schritte im Rahmen strategischer Planung verstanden, die Veränderungen bewirken sollen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Techniken in der Bildungsberatung?",
+    "output": "Techniken sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Passung von Anliegen eines Ratsuchenden und Kompetenz des Beratenden?",
+    "output": "Die Passung von Anliegen eines Ratsuchenden und Kompetenz des Beratenden ist wichtig, um eine erfolgreiche Beratung zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grundtechniken der Gesprächsführung?",
+    "output": "Die Grundtechniken der Gesprächsführung umfassen z.B. aktives Zuhören, Paraphrase, Fragetechniken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Personenzentrierte Gesprächsführung?",
+    "output": "Die Personenzentrierte Gesprächsführung ist ein Ansatz, der den Fokus auf die Person des Ratsuchenden legt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Systemische Gesprächsführung?",
+    "output": "Die Systemische Gesprächsführung ist ein Ansatz, der den Fokus auf die systemischen Zusammenhänge legt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Lösungs- und Ressourcenorientierte Gesprächsführung?",
+    "output": "Die Lösungs- und Ressourcenorientierte Gesprächsführung ist ein Ansatz, der den Fokus auf die Lösung von Problemen und die Aktivierung von Ressourcen legt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Visualisierung in der Bildungsberatung?",
+    "output": "Visualisierung kann helfen, komplexe Sachverhalte zu verdeutlichen und die Kommunikation zu erleichtern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Techniken zur Entscheidungsvorbereitung eingesetzt werden?",
+    "output": "Techniken zur Entscheidungsvorbereitung können helfen, die Entscheidungsfähigkeit des Ratsuchenden zu stärken und die Entscheidungsfindung zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Reflexion in der Bildungsberatung?",
+    "output": "Reflexion ist ein wichtiger Bestandteil der Bildungsberatung, da sie hilft, die eigenen Gedanken, Gefühle und Verhaltensweisen zu reflektieren und zu ändern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können Anregungen zur Reflexion gegeben werden?",
+    "output": "Anregungen zur Reflexion können durch offene Fragen, Fragetechniken und andere Methoden gegeben werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kreativität in der Bildungsberatung?",
+    "output": "Kreativität kann helfen, neue Lösungen und Perspektiven zu finden und die Beratung zu bereichern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie können kreative Techniken in der Bildungsberatung eingesetzt werden?",
+    "output": "Kreative Techniken können durch den Einsatz von Medien, wie z.B. Bildern, Karikaturen, Fotos, Filmen, eingesetzt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Beratungskompetenz in der Bildungsberatung?",
+    "output": "Beratungskompetenz ist die Fähigkeit, erfolgreich zu beraten und die Bedürfnisse des Ratsuchenden zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann Beratungskompetenz entwickelt werden?",
+    "output": "Beratungskompetenz kann durch Schulung, Erfahrung und Reflexion entwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Supervision in der Bildungsberatung?",
+    "output": "Supervision kann helfen, die Beratungskompetenz zu entwickeln und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Qualität der Beratung verbessert werden?",
+    "output": "Die Qualität der Beratung kann durch die Entwicklung von Beratungskompetenz, die Verwendung von Methoden und Techniken und die Reflexion der eigenen Arbeit verbessert werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Evaluation in der Bildungsberatung?",
+    "output": "Evaluation kann helfen, die Qualität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Evaluation der Beratung durchgeführt werden?",
+    "output": "Die Evaluation der Beratung kann durch den Einsatz von Fragebögen, Interviews und anderen Methoden durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Forschung in der Bildungsberatung?",
+    "output": "Forschung kann helfen, die Wirksamkeit von Beratungsansätzen und -methoden zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Forschung in der Bildungsberatung durchgeführt werden?",
+    "output": "Die Forschung in der Bildungsberatung kann durch den Einsatz von empirischen Methoden, wie z.B. Studien und Experimenten, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Theorie in der Bildungsberatung?",
+    "output": "Theorie kann helfen, die Beratung zu begründen und die Wirksamkeit von Beratungsansätzen und -methoden zu erklären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Theorie in der Bildungsberatung entwickelt werden?",
+    "output": "Die Theorie in der Bildungsberatung kann durch die Analyse von Forschungsergebnissen und die Entwicklung von Konzepten und Modellen entwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Praxis in der Bildungsberatung?",
+    "output": "Praxis kann helfen, die Theorie in der Bildungsberatung anzuwenden und die Wirksamkeit von Beratungsansätzen und -methoden zu überprüfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Praxis in der Bildungsberatung durchgeführt werden?",
+    "output": "Die Praxis in der Bildungsberatung kann durch den Einsatz von Methoden und Techniken, wie z.B. der Personenzentrierten Gesprächsführung, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Reflexion in der Praxis der Bildungsberatung?",
+    "output": "Reflexion kann helfen, die eigene Arbeit zu reflektieren und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Reflexion in der Praxis der Bildungsberatung durchgeführt werden?",
+    "output": "Die Reflexion in der Praxis der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Selbstreflexion, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Supervision in der Praxis der Bildungsberatung?",
+    "output": "Supervision kann helfen, die Beratungskompetenz zu entwickeln und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Supervision in der Praxis der Bildungsberatung durchgeführt werden?",
+    "output": "Die Supervision in der Praxis der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Gruppensupervision, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Evaluation in der Praxis der Bildungsberatung?",
+    "output": "Evaluation kann helfen, die Qualität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Evaluation in der Praxis der Bildungsberatung durchgeführt werden?",
+    "output": "Die Evaluation in der Praxis der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Fragebogen-Evaluation, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Forschung in der Praxis der Bildungsberatung?",
+    "output": "Forschung kann helfen, die Wirksamkeit von Beratungsansätzen und -methoden zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Forschung in der Praxis der Bildungsberatung durchgeführt werden?",
+    "output": "Die Forschung in der Praxis der Bildungsberatung kann durch den Einsatz von empirischen Methoden, wie z.B. Studien und Experimenten, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Theorie in der Praxis der Bildungsberatung?",
+    "output": "Theorie kann helfen, die Beratung zu begründen und die Wirksamkeit von Beratungsansätzen und -methoden zu erklären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Theorie in der Praxis der Bildungsberatung entwickelt werden?",
+    "output": "Die Theorie in der Praxis der Bildungsberatung kann durch die Analyse von Forschungsergebnissen und die Entwicklung von Konzepten und Modellen entwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Praxis in der Theorie der Bildungsberatung?",
+    "output": "Praxis kann helfen, die Theorie in der Bildungsberatung anzuwenden und die Wirksamkeit von Beratungsansätzen und -methoden zu überprüfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Praxis in der Theorie der Bildungsberatung durchgeführt werden?",
+    "output": "Die Praxis in der Theorie der Bildungsberatung kann durch den Einsatz von Methoden und Techniken, wie z.B. der Personenzentrierten Gesprächsführung, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Reflexion in der Theorie der Bildungsberatung?",
+    "output": "Reflexion kann helfen, die eigene Arbeit zu reflektieren und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Reflexion in der Theorie der Bildungsberatung durchgeführt werden?",
+    "output": "Die Reflexion in der Theorie der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Selbstreflexion, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Supervision in der Theorie der Bildungsberatung?",
+    "output": "Supervision kann helfen, die Beratungskompetenz zu entwickeln und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Supervision in der Theorie der Bildungsberatung durchgeführt werden?",
+    "output": "Die Supervision in der Theorie der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Gruppensupervision, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Evaluation in der Theorie der Bildungsberatung?",
+    "output": "Evaluation kann helfen, die Qualität der Beratung zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Evaluation in der Theorie der Bildungsberatung durchgeführt werden?",
+    "output": "Die Evaluation in der Theorie der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Fragebogen-Evaluation, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Forschung in der Theorie der Bildungsberatung?",
+    "output": "Forschung kann helfen, die Wirksamkeit von Beratungsansätzen und -methoden zu überprüfen und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Forschung in der Theorie der Bildungsberatung durchgeführt werden?",
+    "output": "Die Forschung in der Theorie der Bildungsberatung kann durch den Einsatz von empirischen Methoden, wie z.B. Studien und Experimenten, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Theorie in der Forschung der Bildungsberatung?",
+    "output": "Theorie kann helfen, die Beratung zu begründen und die Wirksamkeit von Beratungsansätzen und -methoden zu erklären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Theorie in der Forschung der Bildungsberatung entwickelt werden?",
+    "output": "Die Theorie in der Forschung der Bildungsberatung kann durch die Analyse von Forschungsergebnissen und die Entwicklung von Konzepten und Modellen entwickelt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Praxis in der Forschung der Bildungsberatung?",
+    "output": "Praxis kann helfen, die Theorie in der Bildungsberatung anzuwenden und die Wirksamkeit von Beratungsansätzen und -methoden zu überprüfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Praxis in der Forschung der Bildungsberatung durchgeführt werden?",
+    "output": "Die Praxis in der Forschung der Bildungsberatung kann durch den Einsatz von Methoden und Techniken, wie z.B. der Personenzentrierten Gesprächsführung, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Reflexion in der Forschung der Bildungsberatung?",
+    "output": "Reflexion kann helfen, die eigene Arbeit zu reflektieren und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Reflexion in der Forschung der Bildungsberatung durchgeführt werden?",
+    "output": "Die Reflexion in der Forschung der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Selbstreflexion, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Supervision in der Forschung der Bildungsberatung?",
+    "output": "Supervision kann helfen, die Beratungskompetenz zu entwickeln und die Qualität der Beratung zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Supervision in der Forschung der Bildungsberatung durchgeführt werden?",
+    "output": "Die Supervision in der Forschung der Bildungsberatung kann durch den Einsatz von Methoden, wie z.B. der Gruppensupervision, durchgeführt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Evaluation in der Forschung der Bildungsberatung?",
+    "output": "Evaluation kann helfen, die Qualität der Beratung zu überprüfen und zu verbessern."
+  }
+]

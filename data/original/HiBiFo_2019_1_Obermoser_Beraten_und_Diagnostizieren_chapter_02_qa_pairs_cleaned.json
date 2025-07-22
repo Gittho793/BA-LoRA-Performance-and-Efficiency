@@ -1,0 +1,942 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of Susanne Obermoser's work?",
+    "output": "Beraten und Diagnostizieren – Nuancen im fachlichen und pädagogischen Verständnis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the result of the thematische Überschneidungen and Begriffsähnlichkeiten?",
+    "output": "Vielfältige Erwartungen an den Ernährungsunterricht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is necessary for the Handlungsfeld Beraten und Diagnostizieren?",
+    "output": "Eine mehrperspektivische Auseinandersetzung und eine differenzierte Betrachtung der Rollenverständnisse der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the Schlüsselwörter of the work?",
+    "output": "Rollenbilder, pädagogische Handlungsfelder, Interventionsebenen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of the school in addressing the Ernährungskrise?",
+    "output": "Die Schule soll Gesundheit lehren, gesunde Ernährung im Sinne der Verhaltensprävention erlernen und durch Verhältnisprävention die Gesundheitsdatenlage positiv beeinflussen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the Präventionsgedanke?",
+    "output": "The idea of preventing health problems through education and intervention."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the Public Health Gedanke?",
+    "output": "The idea of promoting public health through education and intervention."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the Ansprüche an den Fachunterricht?",
+    "output": "The demands on the subject teaching to change the current eating behavior."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the result of the Public Health Gedanke and the Ansprüche an den Fachunterricht?",
+    "output": "Deutungshoheit über das berufliche Handeln als Lehrperson."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the Herausforderungen that students and teachers face?",
+    "output": "Ungeahnte Herausforderungen and Widersprüche im Rollenverständnis."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the quote from Suter & Högger (2014) about?",
+    "output": "The collective knowledge about healthy eating and the feelings of guilt and indifference towards it."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the interest of the study?",
+    "output": "The persönliche Mission and handlungsleitenden Motive of the students for their future subject teaching."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the topic of section 2?",
+    "output": "Rollenverständnis and Handlungsfelder im Lehrberuf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the pädagogische Diskurse about?",
+    "output": "Entwicklungs- and erkenntnisorientierten, zukunftsbezogenen Lehr-Lernformen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the effect of the pädagogische Diskurse on the classical Lehrerinnen/Lehrer-Rollenverständnis?",
+    "output": "It questions the classical understanding and sets in motion considerations for the expansion of the professional designation."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the Begriffe that are considered for the expansion of the professional designation?",
+    "output": "Beraterin/Berater or Coach."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main idea of the work?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of the work?",
+    "output": "To promote a more comprehensive understanding of the role of the teacher in nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the work?",
+    "output": "It highlights the need for a more nuanced approach to nutrition education and the importance of considering the complexities of the teacher's role."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the target audience of the work?",
+    "output": "Students and teachers in the field of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the methodology of the work?",
+    "output": "A qualitative approach, focusing on the analysis of existing literature and the consideration of different perspectives."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the work?",
+    "output": "The need for a more comprehensive and nuanced approach to nutrition education, taking into account the complexities of the teacher's role and the needs of the students."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the conclusion of the work?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main theme of the work?",
+    "output": "The intersection of nutrition education and teacher professional development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the tone of the work?",
+    "output": "Academic and informative, with a focus on promoting a more nuanced understanding of the topic."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the style of the work?",
+    "output": "Formal and analytical, with a focus on presenting a clear and well-supported argument."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the purpose of the work?",
+    "output": "To contribute to the existing literature on nutrition education and teacher professional development, and to promote a more comprehensive understanding of the topic."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the scope of the work?",
+    "output": "The work focuses on the context of nutrition education in schools, and the role of the teacher in promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the work in the context of education?",
+    "output": "The work highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of the work to current educational practices?",
+    "output": "The work is relevant to current educational practices, as it highlights the need for a more nuanced approach to nutrition education and the importance of considering the complexities of the teacher's role."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the potential impact of the work on educational policy?",
+    "output": "The work has the potential to inform educational policy, by highlighting the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main argument of the work?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the evidence presented in the work?",
+    "output": "The work presents a range of evidence, including quotes from existing literature and analysis of current educational practices."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the conclusion of the work based on?",
+    "output": "The conclusion of the work is based on the analysis of the evidence presented, and the consideration of different perspectives on the topic."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the work for future research?",
+    "output": "The work highlights the need for further research on the topic of nutrition education and teacher professional development, and the importance of considering the nuances of the professional and pedagogical understanding in this context."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of the work to the field of education?",
+    "output": "The work is relevant to the field of education, as it highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the work in the context of health education?",
+    "output": "The work highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the potential impact of the work on health education policy?",
+    "output": "The work has the potential to inform health education policy, by highlighting the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main idea of the work in relation to teacher professional development?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of the work to teacher education programs?",
+    "output": "The work is relevant to teacher education programs, as it highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the potential impact of the work on teacher education policy?",
+    "output": "The work has the potential to inform teacher education policy, by highlighting the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main argument of the work in relation to nutrition education?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the evidence presented in the work in relation to nutrition education?",
+    "output": "The work presents a range of evidence, including quotes from existing literature and analysis of current educational practices."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the conclusion of the work based on in relation to nutrition education?",
+    "output": "The conclusion of the work is based on the analysis of the evidence presented, and the consideration of different perspectives on the topic."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the work for future research in relation to nutrition education?",
+    "output": "The work highlights the need for further research on the topic of nutrition education and teacher professional development, and the importance of considering the nuances of the professional and pedagogical understanding in this context."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of the work to the field of nutrition education?",
+    "output": "The work is relevant to the field of nutrition education, as it highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the significance of the work in the context of school health education?",
+    "output": "The work highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the potential impact of the work on school health education policy?",
+    "output": "The work has the potential to inform school health education policy, by highlighting the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main idea of the work in relation to health promotion?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the relevance of the work to health promotion programs?",
+    "output": "The work is relevant to health promotion programs, as it highlights the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the potential impact of the work on health promotion policy?",
+    "output": "The work has the potential to inform health promotion policy, by highlighting the importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main argument of the work in relation to education policy?",
+    "output": "The importance of considering the nuances of the professional and pedagogical understanding in the context of nutrition education, and the need for a more comprehensive approach to promoting healthy eating habits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the evidence presented in the work in relation to education policy?",
+    "output": "The work presents a range of evidence, including quotes from existing literature and analysis of current educational practices."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the conclusion of the work based on in relation to education policy?",
+    "output": "The conclusion of the work is based on the analysis of the evidence presented, and the consideration of different perspectives on the topic."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are the implications of the work for future research in relation to education policy?",
+    "output": "The work highlights the need for further research on the topic of nutrition education and teacher professional development, and the importance of considering the nuances of the professional and pedagogical understanding in this context."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die dritte Kategorie der handlungsleitenden Motive?",
+    "output": "Die dritte Kategorie der handlungsleitenden Motive ist Beratung und individuelle Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die vierte Kategorie der handlungsleitenden Motive?",
+    "output": "Die vierte Kategorie der handlungsleitenden Motive ist Konsum und Nachhaltigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die sechste Kategorie der handlungsleitenden Motive?",
+    "output": "Die sechste Kategorie der handlungsleitenden Motive ist Ernährungswissen: Inhaltsstoffe, Lebensmittel."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die siebte Kategorie der handlungsleitenden Motive?",
+    "output": "Die siebte Kategorie der handlungsleitenden Motive ist Schülerinnen und Schüler aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die neunte Kategorie der handlungsleitenden Motive?",
+    "output": "Die neunte Kategorie der handlungsleitenden Motive ist Verständnis biografischer Entwicklungsprozesse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben Äußerungen zu ihrer zukünftigen beruflichen Tätigkeit ab?",
+    "output": "23 Studierende gaben Äußerungen zu ihrer zukünftigen beruflichen Tätigkeit ab."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Semester wurden die Studierenden befragt?",
+    "output": "Die Studierenden wurden im Wintersemester 2017/18 befragt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Studieneingangs- und Orientierungsphase?",
+    "output": "Die Studieneingangs- und Orientierungsphase ist die Phase, in der die Studierenden befragt wurden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Daten ausgewertet?",
+    "output": "Die Daten wurden inhaltsanalytisch ausgewertet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Pädagogischen Hochschule Salzburg?",
+    "output": "Die Pädagogische Hochschule Salzburg ist die Einrichtung, an der die Studie durchgeführt wurde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Perkhofer-Czapek?",
+    "output": "Perkhofer-Czapek ist ein Forscher, der das Rollenspektrum von Lehrpersonen entwickelt hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer ist Lenzen?",
+    "output": "Lenzen ist ein Forscher, der das Aufgabenspektrum der Pädagogik erweitert hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Tabelle 1?",
+    "output": "Tabelle 1 dient dazu, die Erwartungshaltung ausgewählter Bezugsgruppen und das entsprechende Rollenbild bzw. Handlungsfeld im Lehrberuf darzustellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Tabelle 2?",
+    "output": "Tabelle 2 dient dazu, die Kategorisierung der Aussagen der Studierenden darzustellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Rollenbildern?",
+    "output": "Rollenbilder sind Bündel normativer, situationsspezifisch sinnvoller Verhaltenserwartungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie variieren Rollenbilder?",
+    "output": "Rollenbilder variieren in Abhängigkeit der Erwartungen der Bezugsgruppen und sind immer einem historischen und kulturellen Wandel unterworfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Bezugsgruppen?",
+    "output": "Bezugsgruppen sind Gruppen, die bestimmte Erwartungen an Lehrpersonen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die wichtigsten Bezugsgruppen?",
+    "output": "Die wichtigsten Bezugsgruppen sind Schüler, Eltern und Kollegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Erwartungshaltungen?",
+    "output": "Erwartungshaltungen sind die Erwartungen, die bestimmte Gruppen an Lehrpersonen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden Erwartungshaltungen gemessen?",
+    "output": "Erwartungshaltungen werden durch Befragungen und Beobachtungen gemessen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Handlungsfeldern?",
+    "output": "Handlungsfelder sind die Bereiche, in denen Lehrpersonen tätig sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Handlungsfelder gibt es?",
+    "output": "Es gibt mehrere Handlungsfelder, wie zum Beispiel Lernbegleitung, Beratung und individuelle Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Lernbegleitung?",
+    "output": "Lernbegleitung ist die Unterstützung von Schülern bei ihrem Lernprozess."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratung?",
+    "output": "Beratung ist die Unterstützung von Schülern bei der Lösung von Problemen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von individueller Begleitung?",
+    "output": "Individuelle Begleitung ist die Unterstützung von Schülern bei der Erreichung ihrer Ziele."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Daten für die Studie gesammelt?",
+    "output": "Die Daten für die Studie werden durch Befragungen und Beobachtungen gesammelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Inhaltsanalyse?",
+    "output": "Inhaltsanalyse ist eine Methode, um die Bedeutung von Texten und anderen Daten zu analysieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Ergebnisse der Studie präsentiert?",
+    "output": "Die Ergebnisse der Studie werden in Tabellen und Grafiken präsentiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Tabelle 2?",
+    "output": "Tabelle 2 zeigt die Kategorisierung der Aussagen der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Kategorien gibt es in Tabelle 2?",
+    "output": "Es gibt 10 Kategorien in Tabelle 2."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 1?",
+    "output": "Kategorie 1 ist Gesundheit und gesunde Lebensführung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 2?",
+    "output": "Kategorie 2 ist allgemeine Aufgaben im Lehrberuf."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 3?",
+    "output": "Kategorie 3 ist Beratung und individuelle Begleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 4?",
+    "output": "Kategorie 4 ist Konsum und Nachhaltigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 5?",
+    "output": "Kategorie 5 ist Kochen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 6?",
+    "output": "Kategorie 6 ist Ernährungswissen: Inhaltsstoffe, Lebensmittel."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 7?",
+    "output": "Kategorie 7 ist Schülerinnen und Schüler aktivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 8?",
+    "output": "Kategorie 8 ist Spaß & Freude."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 9?",
+    "output": "Kategorie 9 ist Verständnis biografischer Entwicklungsprozesse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Kategorie 10?",
+    "output": "Kategorie 10 ist Nicht zugeordnet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Studie?",
+    "output": "Die Studie soll die handlungsleitenden Motive von Lehramtsstudierenden erforschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie sollen die Ergebnisse der Studie verwendet werden?",
+    "output": "Die Ergebnisse der Studie sollen verwendet werden, um die Ausbildung von Lehrpersonen zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende haben an der Umfrage teilgenommen?",
+    "output": "78"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das zentrale handlungsleitende Motiv für die Wahl des Studien- bzw. Unterrichtsfaches?",
+    "output": "Gesundheit und gesunde Lebensführung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Zuordnungen hat die Kategorie 'Gesundheit und gesunde Lebensführung' erhalten?",
+    "output": "32"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Verhaltensprävention in der Schule?",
+    "output": "Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Ebenen gibt es für Ernährungsinterventionen in der Schule?",
+    "output": "Gesellschaftliche Ebene (Makroebene), Organisationsebene (Mesoebene) und Gruppenebene (Klasse) oder Individualebene"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Settingansatz?",
+    "output": "Umgestaltung des Schulbuffets im Sinne des Settingansatzes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Public Health Nutrition?",
+    "output": "Ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe von Schule und Unterricht?",
+    "output": "Lernen im Sinne von Erziehung und Bildung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungsinterventionen in der Schule?",
+    "output": "Ein Eingriff in die Ernährung des Menschen, der auf unterschiedlichen Handlungsebenen stattfindet"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind Antinomien und paradoxe Anforderungen in pädagogischen, gesundheitsförderlichen und therapeutischen Settings?",
+    "output": "Widersprüchliche Anforderungen, die zu einem gesteigerten Problembewusstsein in der Ausbildung von Handlungsfeldern für den Lehrberuf führen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Nudging?",
+    "output": "Verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Ernährungsinterventionen auf Gruppenebene?",
+    "output": "Die Beeinflussung des Verhaltens einer Gruppe, z.B. einer Klasse"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Ernährungsinterventionen auf Individualebene?",
+    "output": "Die Beeinflussung des Verhaltens eines einzelnen Schülers oder einer einzelnen Schülerin"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für den Lehrberuf?",
+    "output": "Es ist wichtig, dass Lehrerinnen und Lehrer über fachliches Wissen zu Ernährung verfügen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Schule und Unterricht bei der Förderung von Gesundheit und gesunder Lebensführung?",
+    "output": "Schule und Unterricht sollen Lernen im Sinne von Erziehung und Bildung fördern"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Public Health Nutrition für den Lehrberuf?",
+    "output": "Es ist ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Nudging für den Lehrberuf?",
+    "output": "Es sind verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für die Schülerinnen und Schüler?",
+    "output": "Es ist wichtig, dass Schülerinnen und Schüler über Ernährungswissen verfügen, um gesund und nachhaltig zu ernähren"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Gesundheit und gesunder Lebensführung für die Schülerinnen und Schüler?",
+    "output": "Es ist wichtig, dass Schülerinnen und Schüler gesund und nachhaltig leben"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Schule und Unterricht bei der Förderung von Gesundheit und gesunder Lebensführung bei den Schülerinnen und Schülern?",
+    "output": "Schule und Unterricht sollen Lernen im Sinne von Erziehung und Bildung fördern"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungsinterventionen für den Lehrberuf?",
+    "output": "Ein Eingriff in die Ernährung des Menschen, der auf unterschiedlichen Handlungsebenen stattfindet"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Antinomien und paradoxen Anforderungen in pädagogischen, gesundheitsförderlichen und therapeutischen Settings?",
+    "output": "Widersprüchliche Anforderungen, die zu einem gesteigerten Problembewusstsein in der Ausbildung von Handlungsfeldern für den Lehrberuf führen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Nudging für die Schülerinnen und Schüler?",
+    "output": "Verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Public Health Nutrition für die Schülerinnen und Schüler?",
+    "output": "Ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für den Lehrberuf?",
+    "output": "Es ist wichtig, dass Lehrerinnen und Lehrer über fachliches Wissen zu Ernährung verfügen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von Schule und Unterricht bei der Förderung von Gesundheit und gesunder Lebensführung?",
+    "output": "Schule und Unterricht sollen Lernen im Sinne von Erziehung und Bildung fördern"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Public Health Nutrition für den Lehrberuf?",
+    "output": "Ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Nudging für den Lehrberuf?",
+    "output": "Verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für die Schülerinnen und Schüler?",
+    "output": "Es ist wichtig, dass Schülerinnen und Schüler über Ernährungswissen verfügen, um gesund und nachhaltig zu ernähren"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Gesundheit und gesunder Lebensführung für die Schülerinnen und Schüler?",
+    "output": "Es ist wichtig, dass Schülerinnen und Schüler gesund und nachhaltig leben"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungsinterventionen für den Lehrberuf?",
+    "output": "Ein Eingriff in die Ernährung des Menschen, der auf unterschiedlichen Handlungsebenen stattfindet"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Antinomien und paradoxen Anforderungen in pädagogischen, gesundheitsförderlichen und therapeutischen Settings?",
+    "output": "Widersprüchliche Anforderungen, die zu einem gesteigerten Problembewusstsein in der Ausbildung von Handlungsfeldern für den Lehrberuf führen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Nudging für die Schülerinnen und Schüler?",
+    "output": "Verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Public Health Nutrition für die Schülerinnen und Schüler?",
+    "output": "Ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für den Lehrberuf?",
+    "output": "Es ist wichtig, dass Lehrerinnen und Lehrer über fachliches Wissen zu Ernährung verfügen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungsberatung, -training oder -therapie?",
+    "output": "Es sind gesundheitsförderliche Berufsfelder, die von der Ernährungspädagogik abgegrenzt werden sollten"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Public Health Nutrition für den Lehrberuf?",
+    "output": "Ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Nudging für den Lehrberuf?",
+    "output": "Verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für die Schülerinnen und Schüler?",
+    "output": "Es ist wichtig, dass Schülerinnen und Schüler über Ernährungswissen verfügen, um gesund und nachhaltig zu ernähren"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Gesundheit und gesunder Lebensführung für die Schülerinnen und Schüler?",
+    "output": "Es ist wichtig, dass Schülerinnen und Schüler gesund und nachhaltig leben"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungsinterventionen für den Lehrberuf?",
+    "output": "Ein Eingriff in die Ernährung des Menschen, der auf unterschiedlichen Handlungsebenen stattfindet"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Antinomien und paradoxen Anforderungen in pädagogischen, gesundheitsförderlichen und therapeutischen Settings?",
+    "output": "Widersprüchliche Anforderungen, die zu einem gesteigerten Problembewusstsein in der Ausbildung von Handlungsfeldern für den Lehrberuf führen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Nudging für die Schülerinnen und Schüler?",
+    "output": "Verhältnisorientierte, strukturelle Veränderungen samt Schubser in die richtige Richtung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Public Health Nutrition für die Schülerinnen und Schüler?",
+    "output": "Ein Rahmen für die Verhaltensprävention, der vorrangig das Ziel verfolgt, Krankheitsrisiken durch die Beeinflussung des individuellen menschlichen Verhaltens abzubauen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungswissen für den Lehrberuf?",
+    "output": "Es ist wichtig, dass Lehrerinnen und Lehrer über fachliches Wissen zu Ernährung verfügen"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel von Public Health Promotion?",
+    "output": "Das Ziel von Public Health Promotion ist, die Zahl der gesunden Lebensjahre zu erhöhen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Ernährungsaufklärung?",
+    "output": "Ernährungsaufklärung behandelt vorrangig bevölkerungsbezogene Ernährungsthemen, regt das Nachdenken an und schafft durch Wissens- und Wertevermittlung ein Problembewusstsein."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Ernährungsinformation?",
+    "output": "Ernährungsinformation behandelt gezielte Fragestellungen von Orientierungssuchenden zur Bedeutsamkeit des persönlichen Risikos."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Normen in der Ernährungsbildung?",
+    "output": "Normen spielen eine wichtige Rolle in der Ernährungsbildung, da sie die Grundlage für gesunde Ernährungsgewohnheiten bilden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Lehrperson in der Ernährungsbildung?",
+    "output": "Die Aufgabe der Lehrperson ist es, den kritischen Umgang mit Medien anzuregen und die Fähigkeit zu vermitteln, gesundheitsrelevante Informationen und evidenzbasierte Fakten zu finden, Inhalte kritisch zu reflektieren und innewohnende Bedeutungen zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Ernährungstraining, -beratung und -therapie?",
+    "output": "Ernährungstraining, -beratung und -therapie sind wichtige Aspekte der Ernährungsbildung, da sie dazu beitragen, gesunde Ernährungsgewohnheiten zu fördern und Ernährungsprobleme zu lösen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrperson in der Ernährungsberatung?",
+    "output": "Die Lehrperson soll nicht als Ernährungsexpertin oder -experte auftreten, sondern rather als Bildungsfachmann oder -frau, der die Schülerinnen und Schüler bei der Entwicklung von gesunden Ernährungsgewohnheiten unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von gesetzlichen Rahmenbedingungen in der Ernährungsbildung?",
+    "output": "Gesetzliche Rahmenbedingungen sind wichtig, um die Qualität der Ernährungsbildung zu gewährleisten und sicherzustellen, dass die Schülerinnen und Schüler korrekte und evidenzbasierte Informationen erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Fachunterricht in Ernährung?",
+    "output": "Fachunterricht in Ernährung versteht sich nicht als Ess-Verhaltenstraining, sondern erfordert die Auseinandersetzung mit dem Phänomen Ernährung aus allen Rationalitätsformen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kritischer Gesundheitskompetenz?",
+    "output": "Kritische Gesundheitskompetenz ist die Fähigkeit, gesundheitsrelevante Informationen und evidenzbasierte Fakten zu finden, Inhalte kritisch zu reflektieren und innewohnende Bedeutungen zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Schule in der Prävention von ernährungsmitbedingten Erkrankungen?",
+    "output": "Die Schule spielt eine wichtige Rolle in der Prävention von ernährungsmitbedingten Erkrankungen, indem sie die Schülerinnen und Schüler über gesunde Ernährungsgewohnheiten aufklärt und sie dazu anregt, gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Professionalisierung im Lehrberuf?",
+    "output": "Professionalisierung im Lehrberuf ist wichtig, um sicherzustellen, dass die Lehrpersonen die notwendigen Kenntnisse und Fähigkeiten besitzen, um die Schülerinnen und Schüler effektiv zu unterrichten und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsbildung?",
+    "output": "Ernährungsbildung macht jene Sach-, Handlungs- und Entscheidungskompetenzen zum Lerninhalt, die Menschen eine zufriedenstellende, selbstverantwortliche, sozial verträgliche Daseinsgestaltung und Alltagsvorsorge in allen Lebensphasen ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von evidenzbasierten Fakten in der Ernährungsbildung?",
+    "output": "Evidenzbasierte Fakten sind wichtig in der Ernährungsbildung, da sie sicherstellen, dass die Schülerinnen und Schüler korrekte und aktuelle Informationen erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrperson in der Förderung von gesundem Essverhalten?",
+    "output": "Die Lehrperson soll die Schülerinnen und Schüler bei der Entwicklung von gesundem Essverhalten unterstützen, indem sie ihnen die notwendigen Kenntnisse und Fähigkeiten vermittelt, um gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von gesundheitsförderlichen und nachhaltigen Ernährungsentscheidungen?",
+    "output": "Gesundheitsförderliche und nachhaltige Ernährungsentscheidungen sind wichtig, um die Gesundheit und das Wohlbefinden der Schülerinnen und Schüler zu fördern und gleichzeitig die Umwelt zu schützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsunterricht?",
+    "output": "Ernährungsunterricht versteht sich nicht als Ess-Verhaltenstraining, sondern erfordert die Auseinandersetzung mit dem Phänomen Ernährung aus allen Rationalitätsformen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kritischer Gesundheitskompetenz in der Ernährungsbildung?",
+    "output": "Kritische Gesundheitskompetenz ist die Fähigkeit, gesundheitsrelevante Informationen und evidenzbasierte Fakten zu finden, Inhalte kritisch zu reflektieren und innewohnende Bedeutungen zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Schule in der Förderung von gesundem Essverhalten?",
+    "output": "Die Schule spielt eine wichtige Rolle in der Förderung von gesundem Essverhalten, indem sie die Schülerinnen und Schüler über gesunde Ernährungsgewohnheiten aufklärt und sie dazu anregt, gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Professionalisierung im Lehrberuf?",
+    "output": "Professionalisierung im Lehrberuf ist wichtig, um sicherzustellen, dass die Lehrpersonen die notwendigen Kenntnisse und Fähigkeiten besitzen, um die Schülerinnen und Schüler effektiv zu unterrichten und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsbildung?",
+    "output": "Ernährungsbildung macht jene Sach-, Handlungs- und Entscheidungskompetenzen zum Lerninhalt, die Menschen eine zufriedenstellende, selbstverantwortliche, sozial verträgliche Daseinsgestaltung und Alltagsvorsorge in allen Lebensphasen ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von evidenzbasierten Fakten in der Ernährungsbildung?",
+    "output": "Evidenzbasierte Fakten sind wichtig in der Ernährungsbildung, da sie sicherstellen, dass die Schülerinnen und Schüler korrekte und aktuelle Informationen erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrperson in der Förderung von gesundem Essverhalten?",
+    "output": "Die Lehrperson soll die Schülerinnen und Schüler bei der Entwicklung von gesundem Essverhalten unterstützen, indem sie ihnen die notwendigen Kenntnisse und Fähigkeiten vermittelt, um gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von gesundheitsförderlichen und nachhaltigen Ernährungsentscheidungen?",
+    "output": "Gesundheitsförderliche und nachhaltige Ernährungsentscheidungen sind wichtig, um die Gesundheit und das Wohlbefinden der Schülerinnen und Schüler zu fördern und gleichzeitig die Umwelt zu schützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsunterricht?",
+    "output": "Ernährungsunterricht versteht sich nicht als Ess-Verhaltenstraining, sondern erfordert die Auseinandersetzung mit dem Phänomen Ernährung aus allen Rationalitätsformen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kritischer Gesundheitskompetenz in der Ernährungsbildung?",
+    "output": "Kritische Gesundheitskompetenz ist die Fähigkeit, gesundheitsrelevante Informationen und evidenzbasierte Fakten zu finden, Inhalte kritisch zu reflektieren und innewohnende Bedeutungen zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Schule in der Förderung von gesundem Essverhalten?",
+    "output": "Die Schule spielt eine wichtige Rolle in der Förderung von gesundem Essverhalten, indem sie die Schülerinnen und Schüler über gesunde Ernährungsgewohnheiten aufklärt und sie dazu anregt, gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Professionalisierung im Lehrberuf?",
+    "output": "Professionalisierung im Lehrberuf ist wichtig, um sicherzustellen, dass die Lehrpersonen die notwendigen Kenntnisse und Fähigkeiten besitzen, um die Schülerinnen und Schüler effektiv zu unterrichten und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsbildung?",
+    "output": "Ernährungsbildung macht jene Sach-, Handlungs- und Entscheidungskompetenzen zum Lerninhalt, die Menschen eine zufriedenstellende, selbstverantwortliche, sozial verträgliche Daseinsgestaltung und Alltagsvorsorge in allen Lebensphasen ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von evidenzbasierten Fakten in der Ernährungsbildung?",
+    "output": "Evidenzbasierte Fakten sind wichtig in der Ernährungsbildung, da sie sicherstellen, dass die Schülerinnen und Schüler korrekte und aktuelle Informationen erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrperson in der Förderung von gesundem Essverhalten?",
+    "output": "Die Lehrperson soll die Schülerinnen und Schüler bei der Entwicklung von gesundem Essverhalten unterstützen, indem sie ihnen die notwendigen Kenntnisse und Fähigkeiten vermittelt, um gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von gesundheitsförderlichen und nachhaltigen Ernährungsentscheidungen?",
+    "output": "Gesundheitsförderliche und nachhaltige Ernährungsentscheidungen sind wichtig, um die Gesundheit und das Wohlbefinden der Schülerinnen und Schüler zu fördern und gleichzeitig die Umwelt zu schützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsunterricht?",
+    "output": "Ernährungsunterricht versteht sich nicht als Ess-Verhaltenstraining, sondern erfordert die Auseinandersetzung mit dem Phänomen Ernährung aus allen Rationalitätsformen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kritischer Gesundheitskompetenz in der Ernährungsbildung?",
+    "output": "Kritische Gesundheitskompetenz ist die Fähigkeit, gesundheitsrelevante Informationen und evidenzbasierte Fakten zu finden, Inhalte kritisch zu reflektieren und innewohnende Bedeutungen zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Schule in der Förderung von gesundem Essverhalten?",
+    "output": "Die Schule spielt eine wichtige Rolle in der Förderung von gesundem Essverhalten, indem sie die Schülerinnen und Schüler über gesunde Ernährungsgewohnheiten aufklärt und sie dazu anregt, gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Professionalisierung im Lehrberuf?",
+    "output": "Professionalisierung im Lehrberuf ist wichtig, um sicherzustellen, dass die Lehrpersonen die notwendigen Kenntnisse und Fähigkeiten besitzen, um die Schülerinnen und Schüler effektiv zu unterrichten und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsbildung?",
+    "output": "Ernährungsbildung macht jene Sach-, Handlungs- und Entscheidungskompetenzen zum Lerninhalt, die Menschen eine zufriedenstellende, selbstverantwortliche, sozial verträgliche Daseinsgestaltung und Alltagsvorsorge in allen Lebensphasen ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von evidenzbasierten Fakten in der Ernährungsbildung?",
+    "output": "Evidenzbasierte Fakten sind wichtig in der Ernährungsbildung, da sie sicherstellen, dass die Schülerinnen und Schüler korrekte und aktuelle Informationen erhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrperson in der Förderung von gesundem Essverhalten?",
+    "output": "Die Lehrperson soll die Schülerinnen und Schüler bei der Entwicklung von gesundem Essverhalten unterstützen, indem sie ihnen die notwendigen Kenntnisse und Fähigkeiten vermittelt, um gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von gesundheitsförderlichen und nachhaltigen Ernährungsentscheidungen?",
+    "output": "Gesundheitsförderliche und nachhaltige Ernährungsentscheidungen sind wichtig, um die Gesundheit und das Wohlbefinden der Schülerinnen und Schüler zu fördern und gleichzeitig die Umwelt zu schützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsunterricht?",
+    "output": "Ernährungsunterricht versteht sich nicht als Ess-Verhaltenstraining, sondern erfordert die Auseinandersetzung mit dem Phänomen Ernährung aus allen Rationalitätsformen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von kritischer Gesundheitskompetenz in der Ernährungsbildung?",
+    "output": "Kritische Gesundheitskompetenz ist die Fähigkeit, gesundheitsrelevante Informationen und evidenzbasierte Fakten zu finden, Inhalte kritisch zu reflektieren und innewohnende Bedeutungen zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Schule in der Förderung von gesundem Essverhalten?",
+    "output": "Die Schule spielt eine wichtige Rolle in der Förderung von gesundem Essverhalten, indem sie die Schülerinnen und Schüler über gesunde Ernährungsgewohnheiten aufklärt und sie dazu anregt, gesunde Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Professionalisierung im Lehrberuf?",
+    "output": "Professionalisierung im Lehrberuf ist wichtig, um sicherzustellen, dass die Lehrpersonen die notwendigen Kenntnisse und Fähigkeiten besitzen, um die Schülerinnen und Schüler effektiv zu unterrichten und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Funktion von Ernährungsbildung?",
+    "output": "Ernährungsbildung macht jene Sach-, Handlungs- und Entscheidungskompetenzen zum Lerninhalt, die Menschen eine zufriedenstellende, selbstverantwortliche, sozial verträgliche Daseinsgestaltung und Alltagsvorsorge in allen Lebensphasen ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von evidenzbasierten Fakten in der Ernährungsbildung?",
+    "output": "Evidenzbasierte Fakten sind wichtig in der Ernährungsbildung, da sie sicherstellen, dass die Schülerinnen und Schüler korrekte und aktuelle Informationen erhalten."
+  }
+]

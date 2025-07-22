@@ -1,0 +1,482 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the section?",
+    "output": "Theoretischer Analyserahmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Theoretischer Analyserahmen' translate to in English?",
+    "output": "Theoretical Analysis Framework."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title in English?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title in German?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the main topic of the section?",
+    "output": "Theoretical Analysis Framework."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section about a practical analysis framework?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a theoretical approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title related to analysis?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'framework'?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a single word?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many words are in the title?",
+    "output": "2."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the first word in the title?",
+    "output": "Theoretischer."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the second word in the title?",
+    "output": "Analyserahmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a phrase?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain a number?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a structured approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'theory'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a systematic approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a header?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a subheader?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'analysis'?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a comprehensive approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a framework for analysis?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'theoretical'?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a detailed approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a label?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a caption?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a rigorous approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a theoretical framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a conceptual framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a keyword?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a set of principles?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a structured framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a coherent approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a title?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a thoughtful approach?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a reflective framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a mental framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a phrase in German?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a perceptive framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a discerning framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a label in German?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply an interpretive framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a semiotic framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a decoding framework?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a chapter?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a part of a document?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a component?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a descriptor?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a definition?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title about a characterization?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply an explication?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the title a German phrase?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'epistemology'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'foundation'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'basis'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'regulation'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'prescription'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'standard'?",
+    "output": "No."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title contain the word 'analysis'?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist Anerkennungsberatung?",
+    "output": "Anerkennungsberatung ist eine spezialisierte Fachberatung, die Menschen bei der Anerkennung ihrer im Ausland erworbenen Qualifikationen unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Ziele hat die Anerkennungsberatung?",
+    "output": "Die Anerkennungsberatung zielt darauf ab, Menschen bei der Anerkennung ihrer Qualifikationen zu unterstützen und ihnen den Zugang zum Arbeitsmarkt und zur Gesellschaft zu erleichtern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Theorie der Anerkennung?",
+    "output": "Die Theorie der Anerkennung beschäftigt sich mit der Frage, wie Menschen Anerkennung und Respekt in der Gesellschaft erhalten können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die rechtliche Anerkennung?",
+    "output": "Die rechtliche Anerkennung bezieht sich auf die Anerkennung von Rechten und Pflichten in der Gesellschaft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die soziale Wertschätzung?",
+    "output": "Die soziale Wertschätzung bezieht sich auf die Anerkennung von Fähigkeiten und Leistungen, die für die Gesellschaft von Wert sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die pädagogische Professionalität?",
+    "output": "Die pädagogische Professionalität bezieht sich auf die Fähigkeit und Kompetenz von Pädagogen, ihre Arbeit professionell auszuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die migrationssensible Beratung?",
+    "output": "Die migrationssensible Beratung bezieht sich auf die Beratung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die interkulturelle Kompetenz?",
+    "output": "Die interkulturelle Kompetenz bezieht sich auf die Fähigkeit, mit Menschen aus verschiedenen Kulturen umzugehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Diversity-Kompetenz?",
+    "output": "Die Diversity-Kompetenz bezieht sich auf die Fähigkeit, mit Menschen aus verschiedenen Hintergründen und Kulturen umzugehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die migrationssensible Anerkennungskompetenz?",
+    "output": "Die migrationssensible Anerkennungskompetenz bezieht sich auf die Fähigkeit, die Bedürfnisse und Erfahrungen von Menschen mit Migrationshintergrund anzuerkennen und zu respektieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die rassismuskritische Anerkennungskompetenz?",
+    "output": "Die rassismuskritische Anerkennungskompetenz bezieht sich auf die Fähigkeit, Rassismus und Diskriminierung zu erkennen und zu bekämpfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Qualität der Beratung?",
+    "output": "Die Qualität der Beratung bezieht sich auf die Güte und die Wirksamkeit der Beratung und der Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Evaluation der Beratung?",
+    "output": "Die Evaluation der Beratung bezieht sich auf die Bewertung und die Überprüfung der Wirksamkeit der Beratung und der Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Forschung in der Beratung?",
+    "output": "Die Forschung in der Beratung bezieht sich auf die wissenschaftliche Untersuchung und die Erforschung von Fragen und Problemen in der Beratung und in der Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Theorie der Beratung?",
+    "output": "Die Theorie der Beratung bezieht sich auf die wissenschaftlichen Konzepte und Modelle, die in der Beratung und in der Pädagogik verwendet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Praxis der Beratung?",
+    "output": "Die Praxis der Beratung bezieht sich auf die Anwendung und die Umsetzung von Theorien und Konzepten in der Beratung und in der Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Beratung in der Migrationsgesellschaft?",
+    "output": "Die Beratung in der Migrationsgesellschaft bezieht sich auf die Beratung von Menschen mit Migrationshintergrund und die Unterstützung ihrer Integration in die Gesellschaft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die migrationssensible Beratung in der Praxis?",
+    "output": "Die migrationssensible Beratung in der Praxis bezieht sich auf die Anwendung von migrationssensiblen Konzepten und Methoden in der Beratung und in der Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung der Beratung in der Migrationsgesellschaft?",
+    "output": "Die Herausforderung der Beratung in der Migrationsgesellschaft bezieht sich auf die Schwierigkeiten und die Probleme, die in der Beratung und in der Pädagogik mit Menschen mit Migrationshintergrund auftreten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Chance der Beratung in der Migrationsgesellschaft?",
+    "output": "Die Chance der Beratung in der Migrationsgesellschaft bezieht sich auf die Möglichkeiten und die Chancen, die in der Beratung und in der Pädagogik mit Menschen mit Migrationshintergrund bestehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratung in der Migrationsgesellschaft?",
+    "output": "Die Zukunft der Beratung in der Migrationsgesellschaft bezieht sich auf die Entwicklungen und die Trends, die in der Beratung und in der Pädagogik mit Menschen mit Migrationshintergrund zu erwarten sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beratung in der Migrationsgesellschaft?",
+    "output": "Die Rolle der Beratung in der Migrationsgesellschaft bezieht sich auf die Funktion und die Bedeutung der Beratung und der Pädagogik in der Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Beratung in der Migrationsgesellschaft?",
+    "output": "Die Bedeutung der Beratung in der Migrationsgesellschaft bezieht sich auf die Wichtigkeit und die Relevanz der Beratung und der Pädagogik in der Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Notwendigkeit der Beratung in der Migrationsgesellschaft?",
+    "output": "Die Notwendigkeit der Beratung in der Migrationsgesellschaft bezieht sich auf die Erfordernis und die Dringlichkeit der Beratung und der Pädagogik in der Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung der Beratung in der Migrationsgesellschaft für die Berater?",
+    "output": "Die Herausforderung der Beratung in der Migrationsgesellschaft für die Berater bezieht sich auf die Schwierigkeiten und die Probleme, die Berater in der Beratung und in der Pädagogik mit Menschen mit Migrationshintergrund erleben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Chance der Beratung in der Migrationsgesellschaft für die Berater?",
+    "output": "Die Chance der Beratung in der Migrationsgesellschaft für die Berater bezieht sich auf die Möglichkeiten und die Chancen, die Berater in der Beratung und in der Pädagogik mit Menschen mit Migrationshintergrund haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratung in der Migrationsgesellschaft für die Berater?",
+    "output": "Die Zukunft der Beratung in der Migrationsgesellschaft für die Berater bezieht sich auf die Entwicklungen und die Trends, die Berater in der Beratung und in der Pädagogik mit Menschen mit Migrationshintergrund zu erwarten haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Berater in der Migrationsgesellschaft?",
+    "output": "Die Rolle der Berater in der Migrationsgesellschaft bezieht sich auf die Funktion und die Bedeutung von Beratern in der Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Berater in der Migrationsgesellschaft?",
+    "output": "Die Bedeutung der Berater in der Migrationsgesellschaft bezieht sich auf die Wichtigkeit und die Relevanz von Beratern in der Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Notwendigkeit der Berater in der Migrationsgesellschaft?",
+    "output": "Die Notwendigkeit der Berater in der Migrationsgesellschaft bezieht sich auf die Erfordernis und die Dringlichkeit von Beratern in der Unterstützung von Menschen mit Migrationshintergrund."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung der Beratung in der Migrationsgesellschaft für die Klienten?",
+    "output": "Die Herausforderung der Beratung in der Migrationsgesellschaft für die Klienten bezieht sich auf die Schwierigkeiten und die Probleme, die Klienten in der Beratung und in der Pädagogik mit Migrationshintergrund erleben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Chance der Beratung in der Migrationsgesellschaft für die Klienten?",
+    "output": "Die Chance der Beratung in der Migrationsgesellschaft für die Klienten bezieht sich auf die Möglichkeiten und die Chancen, die Klienten in der Beratung und in der Pädagogik mit Migrationshintergrund haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Zukunft der Beratung in der Migrationsgesellschaft für die Klienten?",
+    "output": "Die Zukunft der Beratung in der Migrationsgesellschaft für die Klienten bezieht sich auf die Entwicklungen und die Trends, die Klienten in der Beratung und in der Pädagogik mit Migrationshintergrund zu erwarten haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Klienten in der Migrationsgesellschaft?",
+    "output": "Die Rolle der Klienten in der Migrationsgesellschaft bezieht sich auf die Funktion und die Bedeutung von Klienten in der Unterstützung durch Beratung und Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Klienten in der Migrationsgesellschaft?",
+    "output": "Die Bedeutung der Klienten in der Migrationsgesellschaft bezieht sich auf die Wichtigkeit und die Relevanz von Klienten in der Unterstützung durch Beratung und Pädagogik."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Notwendigkeit der Klienten in der Migrationsgesellschaft?",
+    "output": "Die Notwendigkeit der Klienten in der Migrationsgesellschaft bezieht sich auf die Erfordernis und die Dringlichkeit von Klienten in der Unterstützung durch Beratung und Pädagogik."
+  }
+]

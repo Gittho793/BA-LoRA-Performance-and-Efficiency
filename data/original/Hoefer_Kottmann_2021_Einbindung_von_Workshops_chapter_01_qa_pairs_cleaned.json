@@ -1,0 +1,987 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Einbindung von Workshops im Rahmen von Projektarbeiten?",
+    "output": "Das Ziel ist die Stärkung der beruflichen Handlungskompetenzen und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Autoren des Artikels?",
+    "output": "Henny Höfer und Elke Kottmann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Schlagworte des Artikels?",
+    "output": "Berufsbildung, Handlungskompetenzen, Persönlichkeitsentwicklung, Projektstudium."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum sind gut ausgebildete Fachkräfte wichtig?",
+    "output": "Dynamische gesellschaftliche Entwicklungen erfordern gut ausgebildete Fachkräfte, die über berufliche Handlungskompetenzen verfügen und gereifte Persönlichkeiten sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Persönlichkeitsentwicklung während des Studiums unterstützen?",
+    "output": "Die Persönlichkeitsentwicklung soll die Studierenden befähigen, mit unsicheren, komplexen und ggf. konfliktträchtigen Situationen souverän umzugehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "In welchem Semester ist die Veranstaltung Praxisseminar zur angewandten BWL angesiedelt?",
+    "output": "Im dritten Semester des Masterstudiengangs Management mittelständischer Unternehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wurde die Veranstaltung Praxisseminar zur angewandten BWL erstmals angeboten?",
+    "output": "Im Wintersemester 2018/19."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Projektarbeit im Modul?",
+    "output": "Die Studierenden sollen eine Entscheidungsvorlage erarbeiten, die die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens aufzeigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Grundlage für die Projektarbeit?",
+    "output": "Ein kurzes Unternehmensporträt, das wirtschaftliche Eckdaten liefert und die aktuelle Situation des Unternehmens skizziert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welches Unternehmen wurde im Wintersemester 2018/19 als Beispiel verwendet?",
+    "output": "Die 'Froothies GmbH', die sich auf die Herstellung und den Vertrieb von Smoothies spezialisiert hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Analyse des Unternehmens berücksichtigen?",
+    "output": "Die Stärken und Schwächen des Unternehmens sowie die Marktgegebenheiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Neuausrichtung des Unternehmens berücksichtigen?",
+    "output": "Anforderungen an nachhaltiges Wirtschaften."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein besonderer Fokus des Moduls?",
+    "output": "Die Stärkung der beruflichen Handlungskompetenz im Sinne der Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst die berufliche Handlungskompetenz?",
+    "output": "Methodische, sozial-kommunikative, persönliche und fachliche Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht die berufliche Handlungskompetenz?",
+    "output": "Die Fähigkeit, Situationen selbstständig bewältigen und Lösungen für Probleme bzw. Aufgaben fachgerecht erarbeiten zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die berufliche Handlungskompetenz im Modul unterstützt?",
+    "output": "Durch begleitende Workshops."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was wird im Rahmen der Workshops angesprochen?",
+    "output": "Der Part der überfachlichen Kompetenzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Workshops?",
+    "output": "Die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Credits hat das Modul?",
+    "output": "12 Credits."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Form der Entscheidungsvorlage?",
+    "output": "Ein Businessplan."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Entscheidungsvorlage aufzeigen?",
+    "output": "Die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer soll das Unternehmen analysieren?",
+    "output": "Die Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Analyse des Unternehmens berücksichtigen?",
+    "output": "Die Stärken und Schwächen des Unternehmens sowie die Marktgegebenheiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Neuausrichtung des Unternehmens?",
+    "output": "Die Weiterentwicklung des Geschäftsmodells des Unternehmens."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was soll die Neuausrichtung des Unternehmens berücksichtigen?",
+    "output": "Anforderungen an nachhaltiges Wirtschaften."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Persönlichkeitsentwicklung im Modul unterstützt?",
+    "output": "Durch begleitende Workshops."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Grundlage für die Projektarbeit?",
+    "output": "Ein kurzes Unternehmensporträt, das wirtschaftliche Eckdaten liefert und die aktuelle Situation des Unternehmens skizziert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Moduls?",
+    "output": "Die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Form der Projektarbeit?",
+    "output": "Eine Entscheidungsvorlage, die die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens aufzeigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Zielgruppe des Moduls?",
+    "output": "Die Studierenden des Masterstudiengangs Management mittelständischer Unternehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Projektarbeit?",
+    "output": "Eine Entscheidungsvorlage, die die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens aufzeigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Projektarbeit durchgeführt?",
+    "output": "Die Studierenden erarbeiten eine Entscheidungsvorlage, die die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens aufzeigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Workshops im Modul?",
+    "output": "Die Workshops unterstützen die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der beruflichen Handlungskompetenz?",
+    "output": "Die berufliche Handlungskompetenz ermöglicht die Fähigkeit, Situationen selbstständig bewältigen und Lösungen für Probleme bzw. Aufgaben fachgerecht erarbeiten zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die berufliche Handlungskompetenz im Modul vermittelt?",
+    "output": "Durch begleitende Workshops und die Projektarbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Persönlichkeitsentwicklung im Modul?",
+    "output": "Die Persönlichkeitsentwicklung ist wichtig, um die Studierenden befähigen, mit unsicheren, komplexen und ggf. konfliktträchtigen Situationen souverän umzugehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Persönlichkeitsentwicklung im Modul unterstützt?",
+    "output": "Durch begleitende Workshops und die Projektarbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Projektarbeit im Modul?",
+    "output": "Die Projektarbeit unterstützt die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der überfachlichen Kompetenzen im Modul?",
+    "output": "Die überfachlichen Kompetenzen sind wichtig, um die Studierenden befähigen, Situationen selbstständig bewältigen und Lösungen für Probleme bzw. Aufgaben fachgerecht erarbeiten zu können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Moduls?",
+    "output": "Die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird das Ziel des Moduls erreicht?",
+    "output": "Durch begleitende Workshops und die Projektarbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Workshops im Modul?",
+    "output": "Die Workshops unterstützen die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Projektarbeit im Modul?",
+    "output": "Die Projektarbeit unterstützt die Stärkung der beruflichen Handlungskompetenz und Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Projektarbeit im Modul durchgeführt?",
+    "output": "Die Studierenden erarbeiten eine Entscheidungsvorlage, die die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens aufzeigt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird das Lernen im Modul unterstützt?",
+    "output": "Durch begleitende Workshops und die Projektarbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was umfasst die Projektarbeit im Modul?",
+    "output": "Komplexe Aufgabenstellungen, die eine Zusammenführung von Theorie und Praxis beinhalten und einen Fokus auf Schlüsselkompetenzen legen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Projektarbeit im Modul?",
+    "output": "Das Problemverständnis zu verbessern und die Entwicklung von vielfältigeren Handlungsoptionen zu ermöglichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer liegt im Mittelpunkt der Projektarbeit?",
+    "output": "Die Studierenden, da die Lernerzentrierung im Vordergrund steht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie unterstützen die Lehrenden die Studierenden?",
+    "output": "Durch Beratung, Unterstützung und Anregung, indem sie auf das Handeln und Verhalten der Studierenden reagieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Konzept des selbstorganisierten Lernens nach Sembill?",
+    "output": "Die Bearbeitung komplexer, praxisnaher, fachspezifischer und curricular zuordenbarer Problemstellungen in eigener Verantwortung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist das Arbeiten in nicht selbst zusammengestellten Teams wichtig?",
+    "output": "Es erfordert soziale Kompetenzen der einzelnen Teammitglieder und simuliert die Realität im späteren Berufsleben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Unternehmensdarstellung im Modul?",
+    "output": "Eine Art Fallstudie, die für den Transfer in die Praxis relevant ist und die tatsächliche Komplexität eines real existierenden Unternehmens auf ein beherrschbares Komplexitätsniveau reduziert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum werden Unschärfen in die Unternehmensdarstellung eingearbeitet?",
+    "output": "Um den Studierenden genügend Freiheiten zu bieten, das Geschäftsmodell des Unternehmens weiterzuentwickeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Aspekt 'Bildung für eine nachhaltige Entwicklung' im Modul?",
+    "output": "Ein Aspekt, den die Studierenden im Rahmen ihrer Projektarbeit eigenständig in ihre Aktivitäten eingebunden haben, um nachhaltigkeitsgerichtet verantwortlich und ethisch zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Workshops im Modul durchgeführt?",
+    "output": "Im Team Teaching, bei dem die Modulverantwortlichen mit externen Experten zusammenarbeiten und gemeinsam inhaltlich abgestimmte Workshops anbieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Workshops im Modul?",
+    "output": "Das subjektive gedankliche Entwickeln, Handeln und Erleben/Erfahren der Studierenden zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Workshops im Modul strukturiert?",
+    "output": "Mit möglichst knappem theoretischem Input und überwiegend durch eigenes Herleiten von Definitionen und aktivierenden Aufgaben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist das Team Teaching in den Workshops wichtig?",
+    "output": "Es ermöglicht eine intensive Begleitung und Betreuung der Studierenden durch die Modulverantwortlichen und externen Experten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrenden in der Projektarbeit?",
+    "output": "Die Lehrenden unterstützen, beraten und regen die Studierenden an, indem sie auf das Handeln und Verhalten der Studierenden reagieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Projektarbeit?",
+    "output": "Die Entwicklung von vielfältigeren Handlungsoptionen und die Verbesserung des Problemverständnisses."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden in der Projektarbeit unterstützt?",
+    "output": "Durch regelmäßige Statusberichte und die Möglichkeit, dass die Lehrenden eingreifen, wenn die Studierenden ein Gefühl der Überforderung verspüren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Vorteil des selbstorganisierten Lernens?",
+    "output": "Die Studierenden können komplexe, praxisnahe, fachspezifische und curricular zuordenbare Problemstellungen in eigener Verantwortung bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die soziale Kompetenz in der Projektarbeit gefördert?",
+    "output": "Durch das Arbeiten in nicht selbst zusammengestellten Teams, was die Realität im späteren Berufsleben simuliert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Aspekt 'Bildung für eine nachhaltige Entwicklung' in der Projektarbeit?",
+    "output": "Ein Aspekt, der die Studierenden dazu anregt, nachhaltigkeitsgerichtet verantwortlich und ethisch zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Workshops im Modul strukturiert?",
+    "output": "Mit möglichst knappem theoretischem Input und überwiegend durch eigenes Herleiten von Definitionen und aktivierenden Aufgaben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist das Team Teaching in den Workshops wichtig?",
+    "output": "Es ermöglicht eine intensive Begleitung und Betreuung der Studierenden durch die Modulverantwortlichen und externen Experten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrenden in den Workshops?",
+    "output": "Die Lehrenden unterstützen, beraten und regen die Studierenden an, indem sie auf das Handeln und Verhalten der Studierenden reagieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden in den Workshops unterstützt?",
+    "output": "Durch eine intensive Begleitung und Betreuung durch die Modulverantwortlichen und externen Experten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Workshops?",
+    "output": "Die Förderung des subjektiven gedanklichen Entwickelns, Handelns und Erlebens/Erfahrens der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Grundlage für die Evaluation der Projektarbeit?",
+    "output": "Die Ergebnisse der Projektarbeit und die Entwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Evaluation der Projektarbeit durchgeführt?",
+    "output": "Durch eine abschließende Präsentation und Diskussion der Ergebnisse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Evaluation der Projektarbeit?",
+    "output": "Die Förderung des Lernprozesses und die Verbesserung der Projektarbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Ergebnisse der Evaluation der Projektarbeit verwendet?",
+    "output": "Um die Projektarbeit und die Lehre im Modul zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Projektarbeit im Modul?",
+    "output": "Die Projektarbeit ist die Basis für die Veranstaltung und dient der Förderung des Lernprozesses und der Entwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Vorteil des selbstorganisierten Lernens in der Projektarbeit?",
+    "output": "Die Studierenden können komplexe, praxisnahe, fachspezifische und curricular zuordenbare Problemstellungen in eigener Verantwortung bearbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die soziale Kompetenz in der Projektarbeit gefördert?",
+    "output": "Durch das Arbeiten in nicht selbst zusammengestellten Teams, was die Realität im späteren Berufsleben simuliert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Aspekt 'Bildung für eine nachhaltige Entwicklung' in der Projektarbeit?",
+    "output": "Ein Aspekt, der die Studierenden dazu anregt, nachhaltigkeitsgerichtet verantwortlich und ethisch zu handeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Workshops im Modul strukturiert?",
+    "output": "Mit möglichst knappem theoretischem Input und überwiegend durch eigenes Herleiten von Definitionen und aktivierenden Aufgaben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist das Team Teaching in den Workshops wichtig?",
+    "output": "Es ermöglicht eine intensive Begleitung und Betreuung der Studierenden durch die Modulverantwortlichen und externen Experten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Lehrenden in den Workshops?",
+    "output": "Die Lehrenden unterstützen, beraten und regen die Studierenden an, indem sie auf das Handeln und Verhalten der Studierenden reagieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden in den Workshops unterstützt?",
+    "output": "Durch eine intensive Begleitung und Betreuung durch die Modulverantwortlichen und externen Experten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Workshops?",
+    "output": "Die Förderung des subjektiven gedanklichen Entwickelns, Handelns und Erlebens/Erfahrens der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Grundlage für die Evaluation der Projektarbeit?",
+    "output": "Die Ergebnisse der Projektarbeit und die Entwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wird die Evaluation der Projektarbeit durchgeführt?",
+    "output": "Durch eine abschließende Präsentation und Diskussion der Ergebnisse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Evaluation der Projektarbeit?",
+    "output": "Die Förderung des Lernprozesses und die Verbesserung der Projektarbeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Ergebnisse der Evaluation der Projektarbeit verwendet?",
+    "output": "Um die Projektarbeit und die Lehre im Modul zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Projektarbeit im Modul?",
+    "output": "Die Projektarbeit ist die Basis für die Veranstaltung und dient der Förderung des Lernprozesses und der Entwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Design-Thinking-Workshops?",
+    "output": "Das Ziel ist die Generierung von Ideen für die Weiterentwicklung eines Geschäftsmodells."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Persona-Methode?",
+    "output": "Eine Methode, um sich in Kundinnen bzw. Kunden und andere potenzielle Stakeholder hineinzuversetzen und deren Perspektive einzunehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Workshops zur Bestimmung der Projektleitung?",
+    "output": "Das Ziel ist die Ernennung eines geeigneten Projektleiters für das Projekt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Projektleiters vorbereitet?",
+    "output": "Durch einen verkürzten MBTI-Test und die Erarbeitung der Anforderungen an die Projektleitung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Workshops zur Führung von Projektteams?",
+    "output": "Das Ziel ist die Entwicklung von Führungs- und Kommunikationsfähigkeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf Konfliktsituationen vorbereitet?",
+    "output": "Durch einen Workshop zum Konfliktmanagement, bei dem sie Methoden wie das Mediationsverfahren und aktives Zuhören erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Workshops zur Präsentation, Rhetorik und Körpersprache?",
+    "output": "Das Ziel ist die Professionalisierung des Auftretens und der Präsentationsfähigkeiten der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Präsentation vorbereitet?",
+    "output": "Durch das Üben von Präsentationen, Stimmtraining und Feedback."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Eisbergmodell?",
+    "output": "Ein Modell, das bei der Mediation verwendet wird, um Konflikte zu verstehen und zu lösen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist aktives Zuhören?",
+    "output": "Eine Technik, bei der die Studierenden lernen, aufmerksam zuzuhören und die Aussagen des Gegenübers zu reflektieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Konfliktmanagers vorbereitet?",
+    "output": "Durch einen Workshop zum Konfliktmanagement, bei dem sie Methoden wie das Mediationsverfahren und aktives Zuhören erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Feedback in der Präsentation?",
+    "output": "Feedback ist wichtig, um die Präsentationsfähigkeiten zu verbessern und die Studierenden auf ihre Stärken und Schwächen aufmerksam zu machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Präsentation von Projektergebnissen vorbereitet?",
+    "output": "Durch das Üben von Präsentationen, Stimmtraining und Feedback."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Workshops zur Teamarbeit?",
+    "output": "Das Ziel ist die Entwicklung von Teamfähigkeiten und der Fähigkeit, effektiv in einem Team zu arbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Teammitglieds vorbereitet?",
+    "output": "Durch einen Workshop zur Teamarbeit, bei dem sie Methoden wie die Erarbeitung von Teamzielen und die Kommunikation im Team erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Kommunikation in der Teamarbeit?",
+    "output": "Kommunikation ist wichtig, um effektiv in einem Team zu arbeiten und die Ziele des Teams zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Führungskräften vorbereitet?",
+    "output": "Durch einen Workshop zur Führung, bei dem sie Methoden wie die Erarbeitung von Führungszielen und die Kommunikation mit dem Team erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Workshops zur Selbstreflexion?",
+    "output": "Das Ziel ist die Entwicklung von Selbstreflexionsfähigkeiten und der Fähigkeit, die eigenen Stärken und Schwächen zu erkennen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Selbstreflektierenden vorbereitet?",
+    "output": "Durch einen Workshop zur Selbstreflexion, bei dem sie Methoden wie die Erarbeitung von Selbstzielen und die Reflexion der eigenen Stärken und Schwächen erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Selbstreflexion in der persönlichen und beruflichen Entwicklung?",
+    "output": "Selbstreflexion ist wichtig, um die eigenen Stärken und Schwächen zu erkennen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Kritikfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Kritikfähigkeit, bei dem sie Methoden wie die Erarbeitung von Kritikzielen und die Kommunikation von Kritik erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Kritikfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Kritikfähigkeit ist wichtig, um die eigenen Stärken und Schwächen zu erkennen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Überzeugungsfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Überzeugungsfähigkeit, bei dem sie Methoden wie die Erarbeitung von Überzeugungszielen und die Kommunikation von Überzeugungen erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Überzeugungsfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Überzeugungsfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Begeisterungsfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Begeisterungsfähigkeit, bei dem sie Methoden wie die Erarbeitung von Begeisterungszielen und die Kommunikation von Begeisterung erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Begeisterungsfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Begeisterungsfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Präsentationsfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Präsentationsfähigkeit, bei dem sie Methoden wie die Erarbeitung von Präsentationszielen und die Kommunikation von Präsentationen erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Präsentationsfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Präsentationsfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Kommunikationsfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Kommunikationsfähigkeit, bei dem sie Methoden wie die Erarbeitung von Kommunikationszielen und die Kommunikation von Informationen erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Kommunikationsfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Kommunikationsfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Teamfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Teamfähigkeit, bei dem sie Methoden wie die Erarbeitung von Teamzielen und die Kommunikation im Team erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Teamfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Teamfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Führungs-fähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Führungs-fähigkeit, bei dem sie Methoden wie die Erarbeitung von Führungszielen und die Kommunikation mit dem Team erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Führungs-fähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Führungs-fähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Selbstreflektierenden vorbereitet?",
+    "output": "Durch einen Workshop zur Selbstreflexion, bei dem sie Methoden wie die Erarbeitung von Selbstzielen und die Reflexion der eigenen Stärken und Schwächen erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Selbstreflexion in der persönlichen und beruflichen Entwicklung?",
+    "output": "Selbstreflexion ist wichtig, um die eigenen Stärken und Schwächen zu erkennen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Kritikfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Kritikfähigkeit, bei dem sie Methoden wie die Erarbeitung von Kritikzielen und die Kommunikation von Kritik erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Kritikfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Kritikfähigkeit ist wichtig, um die eigenen Stärken und Schwächen zu erkennen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Überzeugungsfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Überzeugungsfähigkeit, bei dem sie Methoden wie die Erarbeitung von Überzeugungszielen und die Kommunikation von Überzeugungen erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Überzeugungsfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Überzeugungsfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden die Studierenden auf die Rolle des Begeisterungsfähigen vorbereitet?",
+    "output": "Durch einen Workshop zur Begeisterungsfähigkeit, bei dem sie Methoden wie die Erarbeitung von Begeisterungszielen und die Kommunikation von Begeisterung erlernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Wichtigkeit von Begeisterungsfähigkeit in der persönlichen und beruflichen Entwicklung?",
+    "output": "Begeisterungsfähigkeit ist wichtig, um die eigenen Ziele und Überzeugungen zu erreichen und die persönliche und berufliche Entwicklung zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Kompetenzen wurden durch den Workshop Präsentation, Rhetorik und Körpersprache angesprochen?",
+    "output": "Präsentationsmethoden, Präsentationsfähigkeit, Überzeugungsfähigkeit, Begeisterungsfähigkeit, Körpersprache, Stimmliches Auftreten, Feedback und Kritikfähigkeit."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wurden die Studierenden bei der Evaluation der Veranstaltung befragt?",
+    "output": "Durch einen spezifischen Feedbackbogen, der vornehmlich ermittelt, welche (Weiter-)Entwicklung von Kompetenzen die Studierenden an sich selbst wahrgenommen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was zeigt die Auswertung der Evaluation?",
+    "output": "Dass die Studierenden eine Persönlichkeitsentwicklung und einen Kompetenzgewinn an sich selbst wahrgenommen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben an, dass sie durch den Workshop Führung von Projektteams Erkenntnisse darüber gewonnen haben, wie sie durch Motivation und Überzeugungsfähigkeit ohne Weisungsbefugnisse führen können?",
+    "output": "55,6 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende sehen ihre Konfliktfähigkeit durch den Workshop Konfliktmanagement gestärkt?",
+    "output": "37,5 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende fühlen sich in ihrer Methodenkompetenz gestärkt, wenn es um das Wissen geht, welche Maßnahmen es für Konfliktlösungen gibt?",
+    "output": "62,5 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben an, dass sich ihre rhetorische Ausdrucksfähigkeit durch den Workshop Rhetorik und Körpersprache verbessert hat?",
+    "output": "37,5 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben an, dass sich ihre Präsentationsfähigkeit durch den Workshop Rhetorik und Körpersprache verbessert hat?",
+    "output": "Drei Viertel."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende fühlen sich dafür sensibilisiert, an welchen Stellen sie weiter an sich arbeiten können, um ihre Überzeugungsfähigkeit zu steigern?",
+    "output": "87,5 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ziel der Evaluation?",
+    "output": "Vornehmlich zu ermitteln, welche (Weiter-)Entwicklung von Kompetenzen die Studierenden an sich selbst wahrgenommen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen an der Evaluation teil?",
+    "output": "9."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet die Rücklaufquote von 100 %?",
+    "output": "Dass alle 9 Studierenden an der Evaluation teilgenommen haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Workshops wurden durchgeführt?",
+    "output": "6."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war der Inhalt des Workshops Projektleitung?",
+    "output": "Der Workshop beinhaltete einen Persönlichkeits-Selbsttest und dessen Rückkopplung mit den Anforderungen, die die Gruppe an die Projektleitung stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war der Inhalt des Workshops Projektmanagement-Software?",
+    "output": "Der Workshop beinhaltete den Einsatz einer Software, um die IT-Kompetenzen der Studierenden zu erweitern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war der Inhalt des Workshops Führung von Projektteams?",
+    "output": "Der Workshop beinhaltete Übungen zur Gesprächsführung und Kommunikationsfähigkeit, um die Führungskompetenzen der Studierenden auszubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war der Inhalt des Workshops Konfliktmanagement?",
+    "output": "Der Workshop beinhaltete das Wissen über Maßnahmen für Konfliktlösungen, um die Konfliktfähigkeit der Studierenden zu stärken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war der Inhalt des Workshops Rhetorik und Körpersprache?",
+    "output": "Der Workshop beinhaltete Übungen zur rhetorischen Ausdrucksfähigkeit und Präsentationsfähigkeit, um die Kommunikationsfähigkeit der Studierenden zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen am Workshop Auftaktworkshop und Design Thinking teil?",
+    "output": "8."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen am Workshop Projektleitung teil?",
+    "output": "9."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen am Workshop Projektmanagement-Software teil?",
+    "output": "9."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen am Workshop Führung von Projektteams teil?",
+    "output": "9."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen am Workshop Konfliktmanagement teil?",
+    "output": "8."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen am Workshop Rhetorik und Körpersprache teil?",
+    "output": "8."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Evaluation des Workshops Auftaktworkshop und Design Thinking?",
+    "output": "87,5 % der Studierenden gaben an, dass die Methode Design Thinking ihre Kreativität und Innovationsfähigkeit gefördert hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Evaluation des Workshops Projektleitung?",
+    "output": "100 % der Studierenden gaben an, dass der Workshop zur Selbstreflexion ihrer eigenen Stärken und Schwächen beigetragen hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Evaluation des Workshops Projektmanagement-Software?",
+    "output": "88,9 % der Studierenden gaben an, dass sie durch den Workshop ihre IT-Kompetenzen erweitern konnten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Evaluation des Workshops Führung von Projektteams?",
+    "output": "Zwei Drittel der Studierenden gaben an, dass sie durch den Workshop ihre Führungskompetenzen ausbauen konnten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Evaluation des Workshops Konfliktmanagement?",
+    "output": "37,5 % der Studierenden sehen ihre Konfliktfähigkeit durch den Workshop gestärkt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was war das Ergebnis der Evaluation des Workshops Rhetorik und Körpersprache?",
+    "output": "37,5 % der Studierenden gaben an, dass sich ihre rhetorische Ausdrucksfähigkeit durch den Workshop verbessert hat."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben an, dass sie ihre Kommunikationsfähigkeit durch den Workshop Rhetorik und Körpersprache verbessert haben?",
+    "output": "Drei Viertel."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben an, dass sie ihre Überzeugungsfähigkeit durch den Workshop Rhetorik und Körpersprache steigern können?",
+    "output": "87,5 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende gaben an, dass sich ihre Präsentationsfähigkeit verbessert hat?",
+    "output": "Drei Viertel der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was haben die Studierenden durch die Verbesserung ihrer Präsentationsfähigkeit gelernt?",
+    "output": "Sie haben gelernt, die Wirkung ihrer Mimik und Gestik auf andere besser einzuschätzen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viel Prozent der Studierenden fühlen sich sensibilisiert, an welchen Stellen sie weiter an sich arbeiten können?",
+    "output": "87,5 %."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Sensibilisierung der Studierenden?",
+    "output": "Um ihre Überzeugungsfähigkeit zu steigern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende nahmen an der Umfrage teil?",
+    "output": "8 Studierende (n = 8)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wann wird die Mediation normalerweise eingesetzt?",
+    "output": "Wenn sich der Konflikt schon in einer weiter fortgeschrittenen Stufe der Konflikteskalation nach Glasl befindet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum erscheint eine Verlagerung des Workshop-Schwerpunktes auf frühere Stufen sinnvoll?",
+    "output": "Weil die Studierenden voraussichtlich nicht als Mediatoren arbeiten werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welche Rollen könnten als möglicher Schwerpunkt für den Workshop dienen?",
+    "output": "Die Rollen 'Moderator' oder 'Chairman'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer beschreibt die Konflikteskalation?",
+    "output": "Glasl (2011, S. 400 f.)."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurden einige Informationen im Unternehmensporträt nicht aufgenommen?",
+    "output": "Um die Studierenden zu zwingen, eigene Lösungen im Umgang mit Unsicherheit zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollten die Studierenden bei fehlenden Informationen tun?",
+    "output": "Plausible, realitätsnahe Annahmen treffen oder selbst recherchieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was unterstützen die Workshops in hohem Maße?",
+    "output": "Die Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Welchem Zweck dienen die Workshops?",
+    "output": "Um die Studierenden auf die Herausforderungen in der beruflichen Praxis vorzubereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Workshops?",
+    "output": "Die Studierenden sind den Herausforderungen in der beruflichen Praxis gewachsen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel des Moduls, in dem die Studierenden eigene Lösungen im Umgang mit Unsicherheit finden sollten?",
+    "output": "Die Studierenden sollen lernen, mit Unsicherheit umzugehen und plausible Annahmen zu treffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Konsequenz der Verbesserung der Präsentationsfähigkeit?",
+    "output": "Die Studierenden können ihre Überzeugungsfähigkeit steigern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie viele Studierende fühlten sich sensibilisiert, ihre Überzeugungsfähigkeit zu steigern?",
+    "output": "87,5 % der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aufgabe der Mediation?",
+    "output": "Die Mediation wird eingesetzt, wenn sich der Konflikt schon in einer weiter fortgeschrittenen Stufe der Konflikteskalation befindet."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Mediation wichtig?",
+    "output": "Die Mediation ist wichtig, um Konflikte zu lösen, die sich schon in einer weiter fortgeschrittenen Stufe der Konflikteskalation befinden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Konflikteskalation nach Glasl beschrieben werden?",
+    "output": "Die Konflikteskalation nach Glasl beschreibt die verschiedenen Stufen, in denen sich ein Konflikt entwickeln kann."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist der Vorteil der Verlagerung des Workshop-Schwerpunktes auf frühere Stufen?",
+    "output": "Der Vorteil ist, dass die Studierenden besser auf die Herausforderungen in der beruflichen Praxis vorbereitet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Workshop-Schwerpunkt verlagert werden?",
+    "output": "Der Workshop-Schwerpunkt kann auf frühere Stufen verlagert werden, indem die Rollen 'Moderator' oder 'Chairman' als möglicher Schwerpunkt dienen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Verlagerung des Workshop-Schwerpunktes?",
+    "output": "Das Ergebnis ist, dass die Studierenden besser auf die Herausforderungen in der beruflichen Praxis vorbereitet werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum wurde das Unternehmensporträt als zu lückenhaft empfunden?",
+    "output": "Weil einige Informationen bewusst nicht aufgenommen wurden, um die Studierenden zu zwingen, eigene Lösungen im Umgang mit Unsicherheit zu finden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollten die Studierenden tun, wenn sie auf unvollständige Informationen stoßen?",
+    "output": "Sie sollten plausible, realitätsnahe Annahmen treffen oder selbst recherchieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Integration von Workshops beschrieben werden?",
+    "output": "Die Integration von Workshops hat sich bewährt und unterstützt die Persönlichkeitsentwicklung der Studierenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ziel der Workshops?",
+    "output": "Das Ziel der Workshops ist es, die Studierenden auf die Herausforderungen in der beruflichen Praxis vorzubereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Ergebnis der Workshops?",
+    "output": "Die Studierenden sind den Herausforderungen in der beruflichen Praxis gewachsen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Persönlichkeitsentwicklung der Studierenden unterstützt werden?",
+    "output": "Durch die Integration von Workshops, die die Studierenden auf die Herausforderungen in der beruflichen Praxis vorbereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Konsequenz der Integration von Workshops?",
+    "output": "Die Konsequenz ist, dass die Studierenden den Herausforderungen in der beruflichen Praxis gewachsen sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die berufliche Praxis durch die Workshops vorbereitet werden?",
+    "output": "Durch die Integration von Workshops, die die Studierenden auf die Herausforderungen in der beruflichen Praxis vorbereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann das Ziel der Studierenden erreicht werden?",
+    "output": "Durch die Integration von Workshops, die die Studierenden auf die Herausforderungen in der beruflichen Praxis vorbereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Workshops?",
+    "output": "Die Rolle der Workshops ist es, die Studierenden auf die Herausforderungen in der beruflichen Praxis vorzubereiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Rolle der Workshops beschrieben werden?",
+    "output": "Die Rolle der Workshops kann als unterstützend für die Persönlichkeitsentwicklung der Studierenden beschrieben werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Konsequenz der Rolle der Workshops?",
+    "output": "Die Konsequenz ist, dass die Studierenden den Herausforderungen in der beruflichen Praxis gewachsen sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Konsequenz der Rolle der Workshops beschrieben werden?",
+    "output": "Die Konsequenz kann als positiv für die Studierenden beschrieben werden, da sie besser auf die Herausforderungen in der beruflichen Praxis vorbereitet sind."
+  }
+]

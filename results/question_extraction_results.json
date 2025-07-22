@@ -1,0 +1,1820 @@
+{
+  "9783866496811_chapter_103.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0621.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_063.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_06.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0826.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07111.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_06.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_064.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1213.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 0.75,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0821.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_104.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0731.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08.txt": {
+    "num_questions": 5,
+    "avg_question_length": 81.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0857.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0931.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.4,
+    "question_diversity": 0.8,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0743.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_083.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_052.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_074.txt": {
+    "num_questions": 5,
+    "avg_question_length": 15.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_084.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_073.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_08.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783839444856_chapter_0744.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07421.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_089.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_10.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0942.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1021.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_08512.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_041.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_051.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_033.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0814.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_04.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1012.txt": {
+    "num_questions": 4,
+    "avg_question_length": 7.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_03.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_056.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_034.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0813.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1221.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0712.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0692.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0521.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0721.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783847412304_chapter_10131.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0631.txt": {
+    "num_questions": 5,
+    "avg_question_length": 87.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_091.txt": {
+    "num_questions": 5,
+    "avg_question_length": 14.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07222.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_74.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1042.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0921.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08262.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0712.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0831.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0715.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1242.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.25
+  },
+  "9783866496811_chapter_071.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0912.txt": {
+    "num_questions": 5,
+    "avg_question_length": 52.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_062.txt": {
+    "num_questions": 4,
+    "avg_question_length": 7.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_095.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_10342.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1043.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_092.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1115.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_065.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0713.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0513.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_10.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1031.txt": {
+    "num_questions": 5,
+    "avg_question_length": 6.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.4
+  },
+  "9783847412304_chapter_08132.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0914.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0913.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0837.txt": {
+    "num_questions": 5,
+    "avg_question_length": 69.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt": {
+    "num_questions": 5,
+    "avg_question_length": 14.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1112.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_062.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_072.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0514.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0871.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_10.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1013.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_082623.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0936.txt": {
+    "num_questions": 5,
+    "avg_question_length": 16.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0531.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0731.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0812.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "1001586_chapter_081.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_032.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_082624.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0931.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_05.txt": {
+    "num_questions": 5,
+    "avg_question_length": 17.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1052.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0612.txt": {
+    "num_questions": 4,
+    "avg_question_length": 17.5,
+    "question_diversity": 0.75,
+    "answerability_ratio": 1.0
+  },
+  "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich_full.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0943.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07412.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_08513.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_061.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0944.txt": {
+    "num_questions": 5,
+    "avg_question_length": 6.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.6
+  },
+  "9783866496811_chapter_085.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_072.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.6,
+    "question_diversity": 0.8,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_09.txt": {
+    "num_questions": 0,
+    "avg_question_length": 0,
+    "question_diversity": 0,
+    "answerability_ratio": 0
+  },
+  "9783847412304_chapter_09.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0856.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0742.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_082.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_07.txt": {
+    "num_questions": 4,
+    "avg_question_length": 7.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0858.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1212.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08122.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_105.txt": {
+    "num_questions": 5,
+    "avg_question_length": 43.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1021.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_102.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_062.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_07.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0631.txt": {
+    "num_questions": 4,
+    "avg_question_length": 7.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0912.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0836.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1113.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_063.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07211.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_073.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_11.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0831.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1114.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_064.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0712.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_11.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0512.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0721.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0915.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0921.txt": {
+    "num_questions": 5,
+    "avg_question_length": 46.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1042.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_093.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.8,
+    "question_diversity": 0.8,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_063.txt": {
+    "num_questions": 4,
+    "avg_question_length": 6.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783847412304_chapter_0721.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_094.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783847412304_chapter_0838.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07431.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0714.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1243.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.0
+  },
+  "9783866496811_chapter_0913.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1031.txt": {
+    "num_questions": 5,
+    "avg_question_length": 15.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08263.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0713.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_051.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1244.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.0
+  },
+  "9783847412304_chapter_051.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1121.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783847412304_chapter_1044+5.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_11232.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren_chapter_02.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1231.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0832.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_067.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0511.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0722.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1033.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0632.txt": {
+    "num_questions": 5,
+    "avg_question_length": 49.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783847412304_chapter_0835.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1048.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07212.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_12.txt": {
+    "num_questions": 5,
+    "avg_question_length": 6.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0722.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07432.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1046.txt": {
+    "num_questions": 4,
+    "avg_question_length": 17.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0922.txt": {
+    "num_questions": 5,
+    "avg_question_length": 78.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_069.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1041.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0725.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1032.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_04.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_052.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783866496811_chapter_073.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001856_chapter_0851.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_11231.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0924.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1232.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_10134.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0723.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783839444856_chapter_0523.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.6,
+    "question_diversity": 0.8,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1122.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783847412304_chapter_052.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1235.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_10133.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0923.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_053.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_082.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_07142.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1224.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_031.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0932.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_06.txt": {
+    "num_questions": 5,
+    "avg_question_length": 62.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0611.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1051.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0935.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_054.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0732.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0532.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1223.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_062.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss_chapter_02.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07411.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_08510.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_08.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0610.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0855.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0741.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783839444856_chapter_07424.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_081.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_086.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_071.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0852.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07423.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_101.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1025.txt": {
+    "num_questions": 2,
+    "avg_question_length": 17.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0734.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_04.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_061.txt": {
+    "num_questions": 4,
+    "avg_question_length": 6.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0824.txt": {
+    "num_questions": 5,
+    "avg_question_length": 15.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_04.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783847412304_chapter_0823.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08121.txt": {
+    "num_questions": 4,
+    "avg_question_length": 13.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1022.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0733.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0941.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_053.txt": {
+    "num_questions": 5,
+    "avg_question_length": 75.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1234.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_092.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0632.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_10132.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07221.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1041.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0922.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0711.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0691.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783847412304_chapter_1124.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_054.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1233.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0722.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0522.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_072.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1241.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.0
+  },
+  "9783839444856_chapter_054.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0911.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_102.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1033.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08261.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_053.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0923.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_068.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_091.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0724.txt": {
+    "num_questions": 5,
+    "avg_question_length": 6.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783839444856_chapter_061.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_096.txt": {
+    "num_questions": 5,
+    "avg_question_length": 14.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0723.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07433.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_10341.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1047.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1035.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0834.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_061.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07213.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_071.txt": {
+    "num_questions": 5,
+    "avg_question_length": 8.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0872.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0833.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.2,
+    "question_diversity": 0.8,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_066.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0723.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1032.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_08131.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_05.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783839444856_chapter_07112.txt": {
+    "num_questions": 5,
+    "avg_question_length": 17.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0822.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1023.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_0732.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1024.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0622.txt": {
+    "num_questions": 4,
+    "avg_question_length": 11.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_05.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783847412304_chapter_0825.txt": {
+    "num_questions": 5,
+    "avg_question_length": 11.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0811.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_087.txt": {
+    "num_questions": 4,
+    "avg_question_length": 14.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0853.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_07422.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0611.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_0854.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0932.txt": {
+    "num_questions": 5,
+    "avg_question_length": 12.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_051.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0941.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_1022.txt": {
+    "num_questions": 4,
+    "avg_question_length": 17.5,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_08511.txt": {
+    "num_questions": 5,
+    "avg_question_length": 13.4,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783839444856_chapter_042.txt": {
+    "num_questions": 4,
+    "avg_question_length": 16.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_063.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1011.txt": {
+    "num_questions": 4,
+    "avg_question_length": 8.75,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_0934.txt": {
+    "num_questions": 5,
+    "avg_question_length": 73.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_084.txt": {
+    "num_questions": 5,
+    "avg_question_length": 7.2,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1222.txt": {
+    "num_questions": 5,
+    "avg_question_length": 9.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783866496811_chapter_0734.txt": {
+    "num_questions": 4,
+    "avg_question_length": 10.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_052.txt": {
+    "num_questions": 5,
+    "avg_question_length": 71.8,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "1001586_chapter_083.txt": {
+    "num_questions": 4,
+    "avg_question_length": 15.0,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  },
+  "9783847412304_chapter_1225.txt": {
+    "num_questions": 5,
+    "avg_question_length": 10.6,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.8
+  },
+  "9783847412304_chapter_0933.txt": {
+    "num_questions": 4,
+    "avg_question_length": 9.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 0.75
+  },
+  "9783839444856_chapter_07.txt": {
+    "num_questions": 4,
+    "avg_question_length": 12.25,
+    "question_diversity": 1.0,
+    "answerability_ratio": 1.0
+  }
+}

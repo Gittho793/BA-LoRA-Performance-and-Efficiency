@@ -1,0 +1,947 @@
+[
+  {
+    "instruction": "Was ist eine Methode in der Beratung?",
+    "input": "",
+    "output": "Eine Methode ist eine bewusst und geplant eingesetzte, bereits erprobte Handlungsweise, mit der ein bestimmtes Ziel erreicht werden soll."
+  },
+  {
+    "instruction": "Wie unterscheiden sich Methoden und Techniken in der Beratung?",
+    "input": "",
+    "output": "Methoden und Techniken unterscheiden sich in ihrer Komplexit\u00e4t. Eine Methode besteht aus einer Kombination mehrerer Techniken."
+  },
+  {
+    "instruction": "Was sind Techniken in der Beratung?",
+    "input": "",
+    "output": "Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen."
+  },
+  {
+    "instruction": "Wie werden Techniken in einer Methode verwendet?",
+    "input": "",
+    "output": "Techniken k\u00f6nnen innerhalb einer Methode auch wiederkehrend verwendet werden, wie z.B. bei der 'Stolperstein-Methode', bei der Gespr\u00e4chs- und Visualisierungstechniken kombiniert werden."
+  },
+  {
+    "instruction": "Was ist der Unterschied zwischen einer Technik und einer Methode in der Beratung?",
+    "input": "",
+    "output": "Eine Technik ist ein einzelner Schritt, w\u00e4hrend eine Methode eine Kombination mehrerer Schritte ist, die in einer inneren Logik miteinander verbunden sind."
+  },
+  {
+    "instruction": "Was ist eine Intervention in der Beratung?",
+    "input": "",
+    "output": "Eine Intervention ist eine Unterbrechung des Gedankenflusses des Ratsuchenden und kann eine Frage, eine Aufforderung oder eine nonverbale Handlung wie Stirnrunzeln oder L\u00e4cheln sein."
+  },
+  {
+    "instruction": "Was ist der Unterschied zwischen einer Technik und einer Methode in der Beratung?",
+    "input": "",
+    "output": "Eine Technik besteht aus einzelnen Interventionen, w\u00e4hrend eine Methode mehrere Techniken kombiniert und sich in der Beratung durch konkrete Interventionen realisiert."
+  },
+  {
+    "instruction": "Wie lassen sich Methoden, Techniken und Interventionen in der Beratung beschreiben?",
+    "input": "",
+    "output": "Das Verh\u00e4ltnis von Methoden, Techniken und Interventionen l\u00e4sst sich als ein Stufensystem beschreiben, wobei Interventionen die kleinsten Handlungseinheiten sind, Techniken aus einzelnen Interventionen bestehen und Methoden mehrere Techniken kombinieren."
+  },
+  {
+    "instruction": "Was ist ein Beratungsansatz?",
+    "input": "",
+    "output": "Ein Beratungsansatz umfasst mehrere m\u00f6gliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters und Annahmen \u00fcber die Struktur der Wirklichkeit geh\u00f6ren."
+  },
+  {
+    "instruction": "Warum gibt es Uneinigkeit \u00fcber die Zuordnung der Begriffe in der Beratung?",
+    "input": "",
+    "output": "Es gibt unterschiedliche Vorstellungen davon, ab welcher Komplexit\u00e4t eine Intervention in eine Technik und eine Technik in eine Methode \u00fcbergeht, was zu Uneinigkeit \u00fcber die Zuordnung der Begriffe f\u00fchrt."
+  },
+  {
+    "instruction": "Was ist das Ziel von Methoden und Techniken in der Beratung?",
+    "input": "",
+    "output": "Das Ziel von Methoden und Techniken in der Beratung ist die Vermittlung von Beratungskompetenz."
+  },
+  {
+    "instruction": "Was ist der Unterschied zwischen Methoden und Techniken in der Beratung?",
+    "input": "",
+    "output": "Methoden beziehen sich auf das Vorgehen in der konkreten Beratungssituation, w\u00e4hrend Techniken spezifische Interventionen sind, die in der Beratung eingesetzt werden."
+  },
+  {
+    "instruction": "Warum sind Methodensammlungen nicht direkt anwendbar in der Beratung?",
+    "input": "",
+    "output": "Methodensammlungen enthalten nur Beschreibungen von Wegen, aber nicht die Wege selbst, und k\u00f6nnen daher nicht direkt angewendet werden, da jede Beratungssituation einzigartig ist."
+  },
+  {
+    "instruction": "Was bedeutet Methodenkompetenz in der Beratung?",
+    "input": "",
+    "output": "Methodenkompetenz in der Beratung bedeutet, dass man in der Lage ist, eine Methode im Beratungsprozess zu entfalten und gegebenenfalls neu zu entwickeln, und nicht nur viele Rezepte auswendig kennt."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Methodensammlungen in der Beratung genutzt werden?",
+    "input": "",
+    "output": "Methodensammlungen k\u00f6nnen als Ideenlieferant oder Reisef\u00fchrer genutzt werden, um sich auf die Beratung vorzubereiten und m\u00f6gliche Wege und Interventionen zu planen."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Menschen ihre Sehensw\u00fcrdigkeiten w\u00e4hrend eines Urlaubs planen?",
+    "input": "",
+    "output": "Menschen k\u00f6nnen ihre Sehensw\u00fcrdigkeiten w\u00e4hrend eines Urlaubs planen, indem sie eine Reihenfolge festlegen und Tickets f\u00fcr bestimmte Attraktionen im Voraus buchen oder spontan losfahren und sich von ihren Interessen und dem Wetter leiten lassen."
+  },
+  {
+    "instruction": "Was sind Methodenbeschreibungen in der Beratung?",
+    "input": "",
+    "output": "Methodenbeschreibungen sind Abstraktionen von Beratungssituationen, in denen die Erfahrung von einzelnen Beraterinnen und Beratern an andere weitergegeben wird."
+  },
+  {
+    "instruction": "Wie werden Methoden in der Beratung angewendet?",
+    "input": "",
+    "output": "Methoden werden in der Beratung individuell angewendet und bieten Einstiegsm\u00f6glichkeiten, um den Beratungsprozess in Gang zu setzen, aber sie k\u00f6nnen auch verlassen, mit anderen Techniken realisiert oder wieder aufgenommen werden."
+  },
+  {
+    "instruction": "Was ist der Vorteil von Methoden in der Beratung?",
+    "input": "",
+    "output": "Methoden erm\u00f6glichen Entwicklungsprozesse, die durch rein gespr\u00e4chsorientierte Beratung schwieriger und oft auch fl\u00fcchtiger sind, und bieten eine Struktur, die Kontinuit\u00e4t in der Ver\u00e4nderung bereitstellt."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Methoden den Beratungsprozess unterst\u00fctzen?",
+    "input": "",
+    "output": "Methoden k\u00f6nnen den Beratungsprozess unterst\u00fctzen, indem sie eine klare Struktur und ein bestimmtes Ziel bieten, was es den Ratsuchenden erm\u00f6glicht, sich besser auf eine Idee einzulassen und sich auf die L\u00f6sung eines Problems zu konzentrieren."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, nicht nur beim Problem zu verharren, sondern systematisch L\u00f6sungen zu erarbeiten."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Ratsuchende von der angewandten Methode profitieren?",
+    "input": "",
+    "output": "Ratsuchende k\u00f6nnen die angewandte Methode f\u00fcr sp\u00e4tere Entscheidungsprozesse auch ohne den Berater ausprobieren."
+  },
+  {
+    "instruction": "Wie werden bei den Ratsuchenden andere Gehirnareale zur Ideenentwicklung aktiviert?",
+    "input": "",
+    "output": "Durch den Einsatz von Methoden, die oft die Aktivierung mehrerer Sinneseindr\u00fccke vorsehen, wie z.B. Visualisierungen, Bewegungen oder kreative Techniken."
+  },
+  {
+    "instruction": "Was ist der Vorteil von Methoden in der Beratung?",
+    "input": "",
+    "output": "Methoden erm\u00f6glichen es Ratsuchenden, unabh\u00e4ngig von der Person der Beratenden, eigene Ideen zu entwickeln und schaffen Raum f\u00fcr die Entfaltung des Menschen."
+  },
+  {
+    "instruction": "Wie unterscheiden sich Methoden und Techniken in der Beratung?",
+    "input": "",
+    "output": "Methoden beziehen sich auf Beratungsverfahren, die einen Prozess in mehreren Schritten begleiten, w\u00e4hrend Techniken frei kombinierbare einzelne T\u00e4tigkeiten im Beratungshandeln sind."
+  },
+  {
+    "instruction": "Was wird unter Methodenbeschreibungen im Kontext der Beratung verstanden?",
+    "input": "",
+    "output": "Methodenbeschreibungen werden als Ideenlieferant f\u00fcr die Entwicklung und Entfaltung von eigenen Beratungsmethoden durch Beraterinnen und Berater gesehen."
+  },
+  {
+    "instruction": "Warum ist die Beziehung zwischen ratsuchender und beratender Person wichtig?",
+    "input": "",
+    "output": "Die Beziehung zwischen ratsuchender und beratender Person ist wichtig, weil die beste methodische Kompetenz der Beratenden nicht zum Erfolg f\u00fchren kann, wenn die Beziehung nicht zugewandt und f\u00f6rderlich erlebt wird."
+  },
+  {
+    "instruction": "Was ist die Rolle der Person der Beratenden und deren sozialen und pers\u00f6nlichen Kompetenzen in der Beratung?",
+    "input": "",
+    "output": "Die Person der Beratenden und deren soziale und pers\u00f6nliche Kompetenzen spielen eine tragende Rolle f\u00fcr erfolgreiche Bildungsberatung, da sie die Beratungsbeziehung pr\u00e4gen."
+  },
+  {
+    "instruction": "Kann eine positive Beratungsbeziehung durch Methodenauswahl und Methodeneinsatz allein sichergestellt werden?",
+    "input": "",
+    "output": "Nein, keine noch so differenzierte Methodenauswahl und kein noch so gekonnter Methodeneinsatz k\u00f6nnen Beratungserfolg sichern, wenn keine positive und von Vertrauen getragene Beratungsbeziehung existiert."
+  },
+  {
+    "instruction": "Was ist eine soziale Beziehung?",
+    "input": "",
+    "output": "Eine soziale Beziehung ist eine Verbindung zwischen mindestens zwei Personen, die in einem sozialen Bezug zueinanderstehen und sich in ihrem Verhalten aneinander orientieren."
+  },
+  {
+    "instruction": "Wie definiert Alfred Sch\u00fctz die soziale Beziehung?",
+    "input": "",
+    "output": "Alfred Sch\u00fctz definiert die soziale Beziehung als \u201eein seinem Sinngehalt nach aufeinander gegenseitig eingestelltes und dadurch orientiertes Sichverhalten mehrerer\u201c."
+  },
+  {
+    "instruction": "Was ist eine Arbeitsbeziehung?",
+    "input": "",
+    "output": "Eine Arbeitsbeziehung ist eine Beziehungsform, die auf der Vorstellung gr\u00fcndet, dass das Verh\u00e4ltnis in einem speziellen Kontext und zeitlich begrenzt zu einem bestimmten Ziel f\u00fchrt."
+  },
+  {
+    "instruction": "Was zeichnet eine Arbeitsbeziehung in der Erwachsenenbildung aus?",
+    "input": "",
+    "output": "Eine Arbeitsbeziehung in der Erwachsenenbildung ist oft durch ein hierarchisches Gef\u00e4lle und durch wechselseitige Rollenerwartungen gekennzeichnet, wobei die Person mit der professionellen Stellung eine f\u00f6rdernde Haltung einnimmt."
+  },
+  {
+    "instruction": "Warum ist eine positive Beratungsbeziehung wichtig?",
+    "input": "",
+    "output": "Eine positive Beratungsbeziehung ist wichtig, weil keine noch so differenzierte Methodenauswahl und kein noch so gekonnter Methodeneinsatz Beratungserfolg, Kontinuit\u00e4t von Beratungsprozessen und Verbindlichkeit von gemeinsamen Beratungsabsprachen sichern kann, wenn keine positive und von Vertrauen getragene Beratungsbeziehung existiert."
+  },
+  {
+    "instruction": "Was bedeutet funktionale Asymmetrie in einer Arbeitsbeziehung?",
+    "input": "",
+    "output": "Funktionale Asymmetrie bezeichnet die ungleiche Beziehung zwischen zwei Personen, die durch die professionelle Stellung einer Person entsteht, die einen Wissensvorsprung gegen\u00fcber der anderen Person aufweist."
+  },
+  {
+    "instruction": "Wie sollte die Beziehung zwischen Berater und Klient in der Erwachsenenbildung gestaltet werden?",
+    "input": "",
+    "output": "Die Beziehung sollte symmetrisch auf der personalen Ebene gestaltet werden, um die funktionale Asymmetrie auszugleichen, und die Berater sollten die Menschen in ihren vielschichtigen Bildungsanspr\u00fcchen unterst\u00fctzen, begleiten und beraten."
+  },
+  {
+    "instruction": "Was sind die drei basalen Aspekte einer hilfreichen Beratungsbeziehung nach Carl Rogers?",
+    "input": "",
+    "output": "Die drei basalen Aspekte sind Empathie, W\u00e4rme oder Akzeptanz sowie Echtheit oder Authentizit\u00e4t."
+  },
+  {
+    "instruction": "Was bedeutet Empathie in der Beratung?",
+    "input": "",
+    "output": "Empathie bedeutet die F\u00e4higkeit von Beratenden, sich in die Gef\u00fchls- und Gedankenwelt der Ratsuchenden hineinzuversetzen, um ein m\u00f6glichst tiefgreifendes Verst\u00e4ndnis f\u00fcr das jeweilige Gegen\u00fcber zu entwickeln."
+  },
+  {
+    "instruction": "Warum ist es wichtig, eine symmetrische Beziehung auf der personalen Ebene zu gestalten?",
+    "input": "",
+    "output": "Es ist wichtig, um die funktionale Asymmetrie auszugleichen und die Pers\u00f6nlichkeit, die Lebensgeschichte, die Ziele und den Eigensinn der ratsuchenden Person anzuerkennen und das N\u00e4he-Distanz-Verh\u00e4ltnis f\u00f6rderlich zu gestalten."
+  },
+  {
+    "instruction": "Was ist notwendig, damit pers\u00f6nlich sinnvolle L\u00f6sungswege in einer Beratung entdeckt werden k\u00f6nnen?",
+    "input": "",
+    "output": "Ein Zugang zu den inneren Gef\u00fchls- und Gedankensystemen der Ratsuchenden."
+  },
+  {
+    "instruction": "Was bedeutet es, W\u00e4rme oder Akzeptanz in einer Beratung zu vermitteln?",
+    "input": "",
+    "output": "Die Ratsuchenden werden mit einer wertsch\u00e4tzenden Haltung von Seiten der Beratenden begegnet und unvoreingenommen akzeptiert."
+  },
+  {
+    "instruction": "Warum ist Akzeptanz in einer Beratung wichtig?",
+    "input": "",
+    "output": "Sie erm\u00f6glicht es den Ratsuchenden, sich sicher zu f\u00fchlen und \u00c4ngste zu reduzieren, indem sie davon ausgehen, dass ihre bisherigen und aktuellen Verhaltensweisen einen Sinn in ihren pers\u00f6nlichen, sozialen oder beruflichen Systemen haben."
+  },
+  {
+    "instruction": "Was sind die Auswirkungen von Echtheit und Authentizit\u00e4t in einer Beratung?",
+    "input": "",
+    "output": "Sie f\u00fchren zu einem direkten und offenen Umgang miteinander, erm\u00f6glichen die Entwicklung von Vertrauen und erlauben es den Ratsuchenden, sich als 'echte' Person mit allen Gedanken und Gef\u00fchlen zu zeigen."
+  },
+  {
+    "instruction": "Warum ist Kommunikation in einer Beratung wichtig?",
+    "input": "",
+    "output": "Eine gemeinsame Verst\u00e4ndnisebene ist unerl\u00e4sslich, damit die Ratsuchenden die Beziehungsangebote erkennen und verstehen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was m\u00fcssen Beratende tun, um eine Beziehung zu den Ratsuchenden auf kommunikativer Ebene herzustellen?",
+    "input": "",
+    "output": "Sie m\u00fcssen sich den unterschiedlichen Kommunikationsweisen und -m\u00f6glichkeiten der ratsuchenden Personen anpassen."
+  },
+  {
+    "instruction": "Was ist wichtig f\u00fcr Beratende, um eine Beziehung zu Ratsuchenden herzustellen?",
+    "input": "",
+    "output": "Eine gemeinsame Verst\u00e4ndnisebene und eine gemeinsame Sprache sind unerl\u00e4sslich, damit die Ratsuchenden die Beziehungsangebote erkennen und verstehen k\u00f6nnen."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Beratende sich \u00fcber ihre eigenen Beziehungserfahrungen und Beziehungsgestaltungen klarwerden?",
+    "input": "",
+    "output": "Damit sie sich ihres eigenen Verhaltens bewusst werden und nicht implizit Beziehungsregeln anwenden, deren sie sich nicht bewusst sind, und um zum Wohl und nicht zum Schaden f\u00fcr Ratsuchende zu handeln."
+  },
+  {
+    "instruction": "Was sind Gegen\u00fcbertragungsph\u00e4nomene in der Beratungspraxis?",
+    "input": "",
+    "output": "Gef\u00fchle oder Gedanken, die Ratsuchende in den Beratenden ausl\u00f6sen, die nichts mit der gegenw\u00e4rtigen Situation zu tun haben, sondern ihre Energie aus fr\u00fcheren Erlebnissen und Erfahrungen speisen."
+  },
+  {
+    "instruction": "Warum ist eine kontinuierliche kollegiale Beratung oder Supervision in Beratungsberufen sinnvoll?",
+    "input": "",
+    "output": "Um unrepektierte Reaktionen von Beraterinnen und Beratern zu vermeiden, die in einen anderen Kontext geh\u00f6ren und nichts mit der Beratungssituation und noch weniger mit dem Ratsuchenden selbst zu tun haben."
+  },
+  {
+    "instruction": "Wie spielen Normen und Werte in der Beratung eine Rolle?",
+    "input": "",
+    "output": "Sowohl Ratsuchende als auch Beratende haben ein eigenes Norm- und Wertesystem, das durch Sozialisation und Erfahrungen entwickelt und gefestigt wurde, und es ist wichtig, sich nicht ausschlie\u00dflich an dem eigenen Norm- und Wertesystem zu orientieren, sondern offen zu sein und zu bleiben."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, dass die Ratsuchenden f\u00fcr sich neue Handlungsoptionen finden, die f\u00fcr ihr spezielles Leben zu dem jeweiligen Zeitpunkt am sinnvollsten erscheinen und vor allem von ihnen vorstellbar, annehmbar und umsetzbar sind."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, den Ratsuchenden zu helfen, neue Handlungsoptionen zu finden, die f\u00fcr ihr spezielles Leben am sinnvollsten erscheinen und von ihnen vorstellbar, annehmbar und umsetzbar sind."
+  },
+  {
+    "instruction": "Warum ist Selbstreflexion f\u00fcr Beratende wichtig?",
+    "input": "",
+    "output": "Selbstreflexion ist wichtig, um eine kontinuierliche Bereitschaft zur Selbstreflexion zu gew\u00e4hrleisten und um den Ratsuchenden einen Raum zu bieten, sich ihnen und dem Beratungsprozess zu \u00f6ffnen."
+  },
+  {
+    "instruction": "Was spielen ethische Richtlinien in der Beratung f\u00fcr eine Rolle?",
+    "input": "",
+    "output": "Ethische Richtlinien spielen in der Beratung eine Rolle, da sie Orientierungspunkte f\u00fcr ein Handeln bieten, das die eigenen kulturell codierten Gebr\u00e4uche reflektiert und die Ratsuchenden ungeachtet ihrer Herkunft, ihres Geschlechts, ihrer Religion etc. mit Wertsch\u00e4tzung begegnet."
+  },
+  {
+    "instruction": "Was bedeutet es, wenn Beratung als moralische Praxis verstanden wird?",
+    "input": "",
+    "output": "Wenn Beratung als moralische Praxis verstanden wird, bedeutet es, dass sie Lebenswege und -entscheidungen begleitet und unterst\u00fctzt und somit eine enorme Bedeutung f\u00fcr das Gelingen der Beratung hat."
+  },
+  {
+    "instruction": "Was ist der Unterschied zwischen moralischen Werten und ethischen Richtlinien?",
+    "input": "",
+    "output": "Moralische Werte sind kontext-, situations- und kulturabh\u00e4ngig, w\u00e4hrend ethische Richtlinien grundlegenderer Natur sind und Orientierungspunkte f\u00fcr ein Handeln bieten, das die eigenen kulturell codierten Gebr\u00e4uche reflektiert."
+  },
+  {
+    "instruction": "Warum ist es nicht m\u00f6glich, auf eine Standardisierbarkeit von Beratungssituationen und -prozessen zu hoffen?",
+    "input": "",
+    "output": "Es ist nicht m\u00f6glich, auf eine Standardisierbarkeit von Beratungssituationen und -prozessen zu hoffen, weil Menschen in ihren biographischen Verl\u00e4ufen, Beratungsanliegen, kognitiven und emotionalen Befindlichkeiten sowie in ihren bewussten und unbewussten Ressourcen maximal voneinander differieren k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist notwendig, um angemessene und f\u00f6rderliche Beratungsarbeit leisten zu k\u00f6nnen?",
+    "input": "",
+    "output": "Das Fach- und Methodenwissen ist notwendig, um angemessene und f\u00f6rderliche Beratungsarbeit leisten zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie sollte das theoretische Wissen in der Beratungspraxis angewandt werden?",
+    "input": "",
+    "output": "Das theoretische Wissen sollte nicht statisch allgemein angewandt, sondern ausgelegt und fallspezifisch gehandhabt werden."
+  },
+  {
+    "instruction": "Was erwarten Ratsuchende von der Beratung?",
+    "input": "",
+    "output": "Ratsuchende erwarten von der Beratung Hilfe zur L\u00f6sungsfindung und \u00dcberwindung von Unsicherheiten sowie das Aufrechterhalten oder Wiedererlangen von Sicherheit und Handlungsmacht."
+  },
+  {
+    "instruction": "Wie sollte ein Berater oder eine Beraterin sein?",
+    "input": "",
+    "output": "Ein Berater oder eine Beraterin sollte nicht in erster Linie der Wissende, sondern eher der Fragende sein, der hilfreiche Fragen stellen und mit eigenen Assoziationen Verstehensm\u00f6glichkeiten er\u00f6ffnen kann."
+  },
+  {
+    "instruction": "Was ist die Rolle eines Beraters oder einer Beraterin?",
+    "input": "",
+    "output": "Die Rolle eines Beraters oder einer Beraterin ist nicht in erster Linie die eines Fachmanns, der Fragen beantwortet, sondern eher die eines Gespr\u00e4chsk\u00fcnstlers, der einen Freiraum f\u00fcr dialogische Prozesse des Verstehens schaffen kann."
+  },
+  {
+    "instruction": "Warum ist die gute Beratungsbeziehung wichtig?",
+    "input": "",
+    "output": "Die gute Beratungsbeziehung ist wichtig, weil sie der Boden ist, auf dem sich dialogische, wechselseitig beeinflussende, Kommunikations- und Interaktionsprozesse in gleichberechtigter und gleichwertiger Art und Weise entwickeln lassen."
+  },
+  {
+    "instruction": "Was ist die Rolle eines Beraters in einer Beratungsbeziehung?",
+    "input": "",
+    "output": "Die Rolle eines Beraters ist nicht in erster Linie die eines Fachmanns, der Fragen beantwortet, sondern eher die eines Gespr\u00e4chsk\u00fcnstlers, der einen Freiraum f\u00fcr dialogische Prozesse des Verstehens schaffen kann."
+  },
+  {
+    "instruction": "Wer tr\u00e4gt die Hauptverantwortung f\u00fcr den Aufbau einer guten Beratungsbeziehung?",
+    "input": "",
+    "output": "Die Hauptverantwortung f\u00fcr den Aufbau einer guten Beratungsbeziehung liegt bei den Beratenden."
+  },
+  {
+    "instruction": "Was sind die Voraussetzungen f\u00fcr eine erfolgreiche Beratung?",
+    "input": "",
+    "output": "Eine erfolgreiche Beratung setzt voraus, dass die Ratsuchenden an einer positiven Arbeitsbeziehung interessiert sind und die Beratenden professionell handeln und eine Atmosph\u00e4re und einen Raum schaffen, der hilft, sich auf die gemeinsame Suche nach L\u00f6sungen begeben zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Was geh\u00f6rt zu den professionellen Aufgaben von Beraterinnen und Beratern?",
+    "input": "",
+    "output": "Der Prozess der Beziehungsgestaltung und die kontinuierliche Aktualisierung derselben geh\u00f6ren mit zu den professionellen Aufgaben, derer Beraterinnen und Berater sich annehmen m\u00fcssen, wenn Beratung professionell sein und gelingen soll."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Beziehungsarbeit in der Beratung?",
+    "input": "",
+    "output": "Die Beziehungsarbeit ist ein Hauptelement der Beratungspraxis, ohne das ein auf Methoden und Techniken gr\u00fcndendes Handlungsfeld nicht auskommt."
+  },
+  {
+    "instruction": "Was ist f\u00fcr eine erfolgreiche Beratung notwendig?",
+    "input": "",
+    "output": "Eine positive Arbeitsbeziehung zwischen Berater und Ratsuchendem."
+  },
+  {
+    "instruction": "Wer ist f\u00fcr die L\u00f6sung der Probleme der Ratsuchenden verantwortlich?",
+    "input": "",
+    "output": "Die Ratsuchenden selbst, die Beratenden schaffen lediglich eine Atmosph\u00e4re und einen Raum, der hilft, L\u00f6sungen zu finden."
+  },
+  {
+    "instruction": "Wann wird ein Beziehungsaufbau in der Bildungsberatung notwendiger?",
+    "input": "",
+    "output": "Je tiefgreifender und komplexer die Beratungsanliegen sind."
+  },
+  {
+    "instruction": "Was ist wichtig f\u00fcr die Beziehungsarbeit in der Beratung?",
+    "input": "",
+    "output": "Die professionelle Gespr\u00e4chsf\u00fchrung, insbesondere aktives Zuh\u00f6ren, das Ansprechen von Gef\u00fchlen und die passende Auswahl von Fragetechniken."
+  },
+  {
+    "instruction": "Was sind beraterische Interventionen?",
+    "input": "",
+    "output": "Alle Kommunikations- und Interaktionsformen zwischen der beratenden und ratsuchenden Person, die darauf abzielen, Erkl\u00e4rungsgewohnheiten des Klientensystems zu st\u00f6ren und auf die Erfindung anderer m\u00f6glicher Wirklichkeiten anregend einzuwirken."
+  },
+  {
+    "instruction": "Warum m\u00fcssen Methoden und Techniken in der Beratung reflektiert eingesetzt und angepasst werden?",
+    "input": "",
+    "output": "Damit sie ihre immanente Wirkung entfalten k\u00f6nnen und nicht als Mittel zum Zweck missverstanden werden, was zu einer manipulativen Wirkkraft f\u00fchren kann."
+  },
+  {
+    "instruction": "Was ist das Ziel von beraterischen Interventionen?",
+    "input": "",
+    "output": "Das Ziel von beraterischen Interventionen ist es, die Erkl\u00e4rungsgewohnheiten des Klientensystems zu st\u00f6ren und auf die Erfindung anderer m\u00f6glicher Wirklichkeiten mit mehr Freiheitsgraden anregend einzuwirken."
+  },
+  {
+    "instruction": "Was ist wichtig bei der Durchf\u00fchrung von beraterischen Interventionen?",
+    "input": "",
+    "output": "Es ist wichtig, dass nur solche St\u00f6rungen eingebracht werden, die der Ratsuchende auch verarbeiten und bei denen er bzw. sie mitgehen kann."
+  },
+  {
+    "instruction": "Was ist die Rolle des Beraters bei der Beziehungsgestaltung?",
+    "input": "",
+    "output": "Der Berater ist eine Instanz, an der Ratsuchende sich abarbeiten k\u00f6nnen, um ihre eigenen L\u00f6sungen zu finden, und bietet Angebote, nicht Gebote oder direkte Aufforderungen."
+  },
+  {
+    "instruction": "Was ist wichtig f\u00fcr den Beziehungsaufbau in der Bildungsberatung?",
+    "input": "",
+    "output": "Es ist wichtig, den Ratsuchenden Sicherheit zu bieten, Vertrauen zu erm\u00f6glichen und ihnen mit Respekt, Interesse und Achtsamkeit zu begegnen."
+  },
+  {
+    "instruction": "Was geh\u00f6rt zu den Voraussetzungen f\u00fcr einen erfolgreichen Beziehungsaufbau?",
+    "input": "",
+    "output": "Dazu geh\u00f6ren P\u00fcnktlichkeit, ein gepflegtes Auftreten, eine m\u00f6glichst angenehme Raumgestaltung, die Beachtung von kulturellen Gepflogenheiten und eine m\u00f6glichst gender- und diversitysensible Haltung."
+  },
+  {
+    "instruction": "Was ist wichtig f\u00fcr die Authentizit\u00e4t des Beraters?",
+    "input": "",
+    "output": "Eine nicht richtende oder wertende Haltung sollte von den Beratenden authentisch vermittelt werden k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist die Bedeutung von Fach- und Methodenwissen f\u00fcr den Berater?",
+    "input": "",
+    "output": "Ratsuchende haben ein sensibles Gesp\u00fcr daf\u00fcr, ob ihr Gegen\u00fcber \u00fcber die beraterischen Grundlagen verf\u00fcgt oder nicht, und werden entsprechend darauf reagieren."
+  },
+  {
+    "instruction": "Was sind wichtige Voraussetzungen f\u00fcr einen erfolgreichen Beziehungsaufbau in der Beratung?",
+    "input": "",
+    "output": "P\u00fcnktlichkeit, ein gepflegtes Auftreten, eine angenehme Raumgestaltung, Beachtung von kulturellen Gepflogenheiten und eine gender- und diversitysensible Haltung."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Beratende eine nicht richtende oder wertende Haltung vermitteln?",
+    "input": "",
+    "output": "Damit die Ratsuchenden Vertrauen fassen k\u00f6nnen und das Gef\u00fchl haben, einer Person gegen\u00fcber zu sitzen, die fachlich und methodisch kompetent sowie integer ist."
+  },
+  {
+    "instruction": "Was geh\u00f6rt zu einer guten Beziehungsarbeit innerhalb der Beratung?",
+    "input": "",
+    "output": "Der Beziehungsaufbau, die kontinuierliche Aktualisierung der Beziehung und die professionelle Beendigung der Beziehung."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Beratende eine gute Balance zwischen N\u00e4he und Distanz finden?",
+    "input": "",
+    "output": "Um m\u00f6glicherweise erscheinende Abh\u00e4ngigkeitsgef\u00fchle der Ratsuchenden erst gar nicht entstehen zu lassen und um Autonomief\u00f6rderung zu f\u00f6rdern."
+  },
+  {
+    "instruction": "Wie k\u00f6nnen Beratende den Prozess der Losl\u00f6sung und der Beendigung der Arbeitsbeziehung gestalten?",
+    "input": "",
+    "output": "Indem sie fr\u00fchzeitig bemerken, wann ein Ende der Beratung sich ank\u00fcndigt, und den Prozess gemeinsam mit den Ratsuchenden strukturieren, das Erreichte revue passieren lassen und positive Gedanken und Gef\u00fchle f\u00fcr die Zukunft sorgen."
+  },
+  {
+    "instruction": "Wie kann eine Fragestellung helfen, die Ratsuchenden mit einem positiven Blick in die Zukunft aus dem Beratungsprozess aussteigen zu lassen?",
+    "input": "",
+    "output": "Indem sie einen langfristigen Ausblick gibt, beispielsweise durch Fragen wie: 'Wenn ich Sie in einem oder zwei oder f\u00fcnf Jahren wieder treffen w\u00fcrde, was k\u00f6nnten Sie mir dann \u00fcber Ihre erreichten Ziele oder Erfolge erz\u00e4hlen?'"
+  },
+  {
+    "instruction": "Wie kann die Beziehungsarbeit in der Beratung verbessert werden?",
+    "input": "",
+    "output": "Durch einen Beziehungsaufbau, die kontinuierliche Aktualisierung der Beziehung und die individuelle Reflexion mit Hilfe von Methoden und Techniken."
+  },
+  {
+    "instruction": "Welche Herausforderungen k\u00f6nnen in der Beratungsbeziehung auftreten?",
+    "input": "",
+    "output": "Motivationale Herausforderungen, weil Ratsuchende nicht immer intrinsisch motiviert sind, und ein Beziehungsangebot wird meistens nicht in der Form angenommen, wie Beratende es sich f\u00fcr die gemeinsame Arbeit erhoffen."
+  },
+  {
+    "instruction": "Wie kann man mit Ratsuchenden umgehen, die sich in einem Zwangskontext befinden?",
+    "input": "",
+    "output": "Eine eventuell hilfreiche Intervention kann die Frage sein: 'Wie kann ich Ihnen behilflich sein, mich wieder los zu werden?'"
+  },
+  {
+    "instruction": "Was ist das Ziel dieser Frage?",
+    "input": "",
+    "output": "Das Ziel ist, sich zu einem oder einer 'Verb\u00fcndeten' des Ratsuchenden zu machen und zu vermitteln, dass man dazu da ist, ihm oder ihr zu helfen, sich aus der unangenehmen Situation so schnell wie m\u00f6glich wieder zu verabschieden."
+  },
+  {
+    "instruction": "Wie kann die Frage 'Wie kann ich Ihnen behilflich sein, mich wieder los zu werden?' den Ratsuchenden helfen?",
+    "input": "",
+    "output": "Die Frage kann den Ratsuchenden helfen, das Beziehungsangebot anzunehmen und den Widerstand gegen die Beratung zu reduzieren, indem sie impliziert, dass der Ratsuchende selbst die Arbeit leisten muss und auf die beratende Person zur\u00fcckgreifen kann."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beziehungsarbeit in der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Beziehungsarbeit in der Beratung ist es, dem Ratsuchenden zu helfen, sich aus einer unangenehmen Situation zu befreien und eine gute Grundlage f\u00fcr die Zusammenarbeit zu schaffen."
+  },
+  {
+    "instruction": "Wer kann die Beziehungsarbeit in der Beratung erschweren?",
+    "input": "",
+    "output": "Sowohl die Ratsuchenden selbst als auch der institutionelle Rahmen, in dem die Beratung stattfindet, k\u00f6nnen die Beziehungsarbeit erschweren."
+  },
+  {
+    "instruction": "Was kann den Zeit- und Effizienzdruck in der Beratung verursachen?",
+    "input": "",
+    "output": "Der Zeit- und Effizienzdruck in der Beratung kann durch den institutionellen Rahmen, wie z.B. fehlende zeitliche, personelle oder materielle Ressourcen, verursacht werden."
+  },
+  {
+    "instruction": "Was ist die Herausforderung f\u00fcr Berater und Beraterinnen in der Beratungspraxis?",
+    "input": "",
+    "output": "Eine der Herausforderungen f\u00fcr Berater und Beraterinnen in der Beratungspraxis ist es, eine gute Balance zwischen eigenen Anspr\u00fcchen und den vorhandenen M\u00f6glichkeiten zu finden."
+  },
+  {
+    "instruction": "Wie wird Beratung von mancher Stelle verstanden?",
+    "input": "",
+    "output": "Beratung wird von mancher Stelle als \u201eSozialmanagement\u201c verstanden, um bildungs- und berufsbiographische Verl\u00e4ufe in der an \u00f6konomischen Anspr\u00fcchen orientierten \u201eSpur\u201c zu halten oder diese wieder in eine halbwegs verwertbare \u201eSpur\u201c zu bringen."
+  },
+  {
+    "instruction": "Warum ist eine an der Person des jeweiligen Ratsuchenden ausgerichtete Beziehungsarbeit unter bestimmten Pr\u00e4missen ethisch wenig vertretbar?",
+    "input": "",
+    "output": "Eine an der Person des jeweiligen Ratsuchenden ausgerichtete Beziehungsarbeit ist unter Pr\u00e4missen, die auf \u00f6konomischen Anspr\u00fcchen basieren, ethisch wenig vertretbar, weil sie dem Anspruch einer am humanistischen Menschenbildung orientierten Bildungswissenschaft widerspricht."
+  },
+  {
+    "instruction": "Was ist die Herausforderung f\u00fcr die akademische Aus- und Weiterbildung im Bereich der Bildungsberatung?",
+    "input": "",
+    "output": "Die Herausforderung f\u00fcr die akademische Aus- und Weiterbildung im Bereich der Bildungsberatung besteht darin, dass es kaum grundst\u00e4ndige und weiterbildende Studienangebote gibt, die ein reines Beratungsstudium anbieten."
+  },
+  {
+    "instruction": "Welche Herausforderung besteht in der Beratungsarbeit im Bereich der Bildungsberatung?",
+    "input": "",
+    "output": "Die akademische Aus- und Weiterbildung im Bereich der Bildungsberatung bietet kaum grundst\u00e4ndige und weiterbildende Studienangebote, die ein reines Beratungsstudium anbieten."
+  },
+  {
+    "instruction": "Welche Universit\u00e4ten bieten ein reines Beratungsstudium an?",
+    "input": "",
+    "output": "Universit\u00e4t Heidelberg, Universit\u00e4t M\u00fcnster und Hochschule der Bundesagentur f\u00fcr Arbeit."
+  },
+  {
+    "instruction": "Wie wird Beratung in einzelnen Disziplinen angeboten?",
+    "input": "",
+    "output": "Als Schwerpunktfach innerhalb des Studiums oder als einzelne Bausteine und Module."
+  },
+  {
+    "instruction": "Welche Disziplinen bieten Beratung als Schwerpunktfach an?",
+    "input": "",
+    "output": "Erziehungswissenschaft, Psychologie, Theologie oder Betriebswirtschaftslehre."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Beratende sich \u00fcber die sozialen, gesellschaftlichen und (bildungs-)politischen Zusammenh\u00e4nge im Klaren sind?",
+    "input": "",
+    "output": "Damit sie die Grundlage jedweder Anwendung von Methoden und Techniken innerhalb der Beratung verstehen und umsetzen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was ist die Grundlage jedweder Anwendung von Methoden und Techniken innerhalb der Beratung?",
+    "input": "",
+    "output": "Gute Beziehungsarbeit."
+  },
+  {
+    "instruction": "Was sagte Rogers \u00fcber die Bedeutung von Beziehungsarbeit in der Beratung?",
+    "input": "",
+    "output": "Dass keine Methode oder Technik aussichtsreicher sein kann als Ver\u00e4nderung, die durch Erfahrung in einer Beziehung zustande kommt."
+  },
+  {
+    "instruction": "Was ist die Grundlage f\u00fcr eine gelingende Beratung?",
+    "input": "",
+    "output": "Die Grundlage f\u00fcr eine gelingende Beratung ist ein achtsames Selbst-Management f\u00fcr das eigene Wohlbefinden und die Prozessverantwortung, die bereits in der Vorbereitung beginnt."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin und des Beraters in einem Beratungsgespr\u00e4ch?",
+    "input": "",
+    "output": "Die Beraterin und der Berater stellen ihr Fachwissen und die Metaperspektive f\u00fcr den Prozess der Beratung zur Verf\u00fcgung und gestalten den Prozess der Begegnung mit den Ratsuchenden."
+  },
+  {
+    "instruction": "Was ist die Bedeutung der Beziehung und Beziehungsarbeit in der Beratung?",
+    "input": "",
+    "output": "Die Beziehung und Beziehungsarbeit sind wichtig, da jedes Beratungsgespr\u00e4ch die Begegnung zweier Menschen in einer wechselseitigen Rahmung der Erwartungen ist und die Beratung nur gelingen kann, wenn die Beziehung zwischen Beraterin/Berater und Ratsuchendem positiv ist."
+  },
+  {
+    "instruction": "Was sind die Phasen eines Beratungsprozesses?",
+    "input": "",
+    "output": "Die Phasen eines Beratungsprozesses k\u00f6nnen je nach Art der Beratung variieren, aber sie umfassen in der Regel die Vorbereitung, die Einstimmung, die Begegnung und die Verabschiedung."
+  },
+  {
+    "instruction": "Warum ist es wichtig, dass Beraterinnen und Berater sich auf die Beratung vorbereiten?",
+    "input": "",
+    "output": "Es ist wichtig, dass Beraterinnen und Berater sich auf die Beratung vorbereiten, um offen, neugierig und interessiert dem oder der Ratsuchenden begegnen zu k\u00f6nnen und um eine gelingende Beratung zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "Wann beginnt die Prozessverantwortung f\u00fcr eine gelingende Beratung?",
+    "input": "",
+    "output": "Die Prozessverantwortung f\u00fcr eine gelingende Beratung beginnt schon in der Vorbereitung."
+  },
+  {
+    "instruction": "Was ist wichtig f\u00fcr die Beraterin und den Berater vor einer Beratung?",
+    "input": "",
+    "output": "Es ist wichtig, dass die Beraterin und der Berater sich kurz \u201eentleeren\u201c, innehalten und sich darauf einstimmen, dass ein Anfang mit einem fremden Menschen bevorsteht."
+  },
+  {
+    "instruction": "Was sollte die Beraterin und der Berater beachten, um in guter Verfassung zu sein?",
+    "input": "",
+    "output": "Die Beraterin und der Berater sollten darauf achten, keinen Hunger zu versp\u00fcren, keine M\u00fcdigkeit auf Grund von mangelnden Pausen und keine ablenkenden Gedanken zu haben."
+  },
+  {
+    "instruction": "Was ist die Anfangsphase einer jeden Beratung?",
+    "input": "",
+    "output": "Die Anfangsphase einer jeden Beratung steht die Begegnung, das Joining, die Sorge um das Wohlbefinden und ein vertrauensvoller Einstieg in die Beratung im Vordergrund."
+  },
+  {
+    "instruction": "Wie sollte die Beraterin und der Berater das Joining gestalten?",
+    "input": "",
+    "output": "Die Beraterin und der Berater sollten das Joining atmosph\u00e4risch so angenehm wie m\u00f6glich gestalten, mit einem ruhigen Begr\u00fc\u00dfen, aufmerksamen Geleiten in den Beratungsraum und der einladenden \u00dcberlassung der Platzwahl."
+  },
+  {
+    "instruction": "Warum ist es wichtig, Zeit f\u00fcr einige Minuten \u201eSmalltalk\u201c zum Anw\u00e4rmen zu nehmen?",
+    "input": "",
+    "output": "Um ein gutes Ankommen und erste Sicherheit zu erm\u00f6glichen, empfiehlt es sich, sich Zeit f\u00fcr einige Minuten \u201eSmalltalk\u201c zum Anw\u00e4rmen zu nehmen."
+  },
+  {
+    "instruction": "Warum steht eine Taschent\u00fccherbox bereit?",
+    "input": "",
+    "output": "Weil Anfangssituationen in der Beratung als besonders aufw\u00fchlend und emotionalisierend erlebt werden k\u00f6nnen und erste Tr\u00e4nen flie\u00dfen k\u00f6nnen."
+  },
+  {
+    "instruction": "Was empfiehlt es sich, um ein gutes Ankommen und erste Sicherheit zu erm\u00f6glichen?",
+    "input": "",
+    "output": "Sich Zeit f\u00fcr einige Minuten \u201eSmalltalk\u201c zum Anw\u00e4rmen zu nehmen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anfangsphase in der Beratung?",
+    "input": "",
+    "output": "Den Ratsuchenden dabei zu unterst\u00fctzen, erst einmal zur Ruhe zu kommen und zu entschleunigen."
+  },
+  {
+    "instruction": "Was gilt es, dem Ratsuchenden erfahrbar zu machen?",
+    "input": "",
+    "output": "Die Zuversicht f\u00fcr einen gelingenden Prozess und ein gelingendes Ende."
+  },
+  {
+    "instruction": "Was wird in der Anfangsphase der Beratung gekl\u00e4rt?",
+    "input": "",
+    "output": "Die Rahmenbedingungen und Grundlagen der Zusammenarbeit."
+  },
+  {
+    "instruction": "Was ist das Ziel der Anfangsphase in der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Anfangsphase ist es, die Rahmenbedingungen und Grundlagen der Zusammenarbeit transparent zu machen und die M\u00f6glichkeiten der Beratung zu kl\u00e4ren."
+  },
+  {
+    "instruction": "Was wird in der Anfangsphase der Beratung gekl\u00e4rt?",
+    "input": "",
+    "output": "In der Anfangsphase wird gekl\u00e4rt, wie lang das Beratungsgespr\u00e4ch dauern kann, ob das anvisierte Anliegen f\u00fcr diese Dauer realistisch ist und ob andere Beratungsformate geeigneter sind."
+  },
+  {
+    "instruction": "Was ist ein Kontrakt in der Beratung?",
+    "input": "",
+    "output": "Ein Kontrakt ist eine verbindliche Vereinbarung, die die Sitzungsdauer, die weitere Terminfindung, den gew\u00fcnschten Zeitraum der Beratung, den Kostenrahmen und eine erste Zielkl\u00e4rung und Themenkl\u00e4rung der anstehenden Beratung umfasst."
+  },
+  {
+    "instruction": "Was ist die Auftragskl\u00e4rung in der Beratung?",
+    "input": "",
+    "output": "Die Auftragskl\u00e4rung ist die Kl\u00e4rung, welche Problemanliegen im Fokus der Bearbeitung und der ersten Kl\u00e4rungsschritte stehen sollen."
+  },
+  {
+    "instruction": "Was ist die Mittelphase der Beratung?",
+    "input": "",
+    "output": "Die Mittelphase der Beratung ist die Phase der Problemerhellung und Entfaltungsw\u00fcnsche kl\u00e4ren, in der der zu Beratende seine pers\u00f6nliche Konstruktion der Wirklichkeit er\u00f6ffnet und die Beraterin bzw. der Berater den Respekt vor den Rahmungen und Sichtweisen des oder der Ratsuchenden zeigt."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Mittelphase?",
+    "input": "",
+    "output": "Die Rolle der Beraterin bzw. des Beraters in der Mittelphase ist es, den Respekt vor den Rahmungen und Sichtweisen des oder der Ratsuchenden zu zeigen und sich f\u00fcr die subjektive Wirklichkeit des Ratsuchenden zu \u00f6ffnen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Beratung ist es, den Ratsuchenden zu begleiten und ihm zu helfen, seine eigenen L\u00f6sungen und Entscheidungen zu finden, anstatt nach der einen Wahrheit zu suchen."
+  },
+  {
+    "instruction": "Wie verstehen sich Beraterinnen und Berater?",
+    "input": "",
+    "output": "Beraterinnen und Berater verstehen sich als Prozessbegleiter, die den Ratsuchenden unterst\u00fctzen und ihm helfen, seine eigenen Schl\u00fcsse zu ziehen, anstatt als Experten, die Ratschl\u00e4ge und Wertungen erteilen."
+  },
+  {
+    "instruction": "Was ist die Grundhaltung der Beratung?",
+    "input": "",
+    "output": "Die Grundhaltung der Beratung ist es, unterschiedliche Sichtweisen gleichberechtigt nebeneinander stehen zu lassen und den Ratsuchenden zu ermutigen, seine eigene Wahrhaftigkeit zu erkunden."
+  },
+  {
+    "instruction": "Wie findet die Selbsterkundung in der Beratung statt?",
+    "input": "",
+    "output": "Die Selbsterkundung findet durch aktives Zuh\u00f6ren, mittels wohl gesetzter Verst\u00e4ndnissignale sowie entlastender, beruhigender und ermutigender Kommentare statt."
+  },
+  {
+    "instruction": "Was liegt der Haltung der Beratung zugrunde?",
+    "input": "",
+    "output": "Der Haltung der Beratung liegt ein humanistisches und ressourcenorientiertes Menschenbild zugrunde, das unbedingtes Vertrauen in die Entwicklungsf\u00e4higkeit des Menschen hat."
+  },
+  {
+    "instruction": "Was ist das Ergebnis der Beratung?",
+    "input": "",
+    "output": "Das Ergebnis der Beratung ist es, dass der Ratsuchende sich selbst besser versteht, seine Bed\u00fcrfnisse und Ziele klarer sieht und in der Lage ist, eigene Entscheidungen zu treffen."
+  },
+  {
+    "instruction": "Was liegt der Haltung der Beratung zugrunde?",
+    "input": "",
+    "output": "Ein humanistisches und ressourcenorientiertes Menschenbild, das unbedingtes Vertrauen in die Entwicklungsf\u00e4higkeit des Menschen hat."
+  },
+  {
+    "instruction": "Was ist das Ziel der Mittelphase der Beratung?",
+    "input": "",
+    "output": "In der Mittelphase der Beratung liegt es in der Prozessverantwortung der Beraterin und des Beraters, eine Bearbeitungs- und L\u00f6sungsebene der Problemstellung bzw. Entfaltungsw\u00fcnsche des oder der Ratsuchenden anzubahnen."
+  },
+  {
+    "instruction": "Wie kann die Beraterin bzw. der Berater den oder die Ratsuchende unterst\u00fctzen?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater kann den oder die Ratsuchende unterst\u00fctzen, indem sie oder er den Blickwinkel des oder der zu Beratenden erweitert, ihn bzw. sie in seiner pers\u00f6nlichen Ideenentwicklung f\u00fcr Probleml\u00f6sungen begleitet und ihn bzw. sie ermutigt, mehr m\u00f6gliche L\u00f6sungswege zu finden."
+  },
+  {
+    "instruction": "Was ist die gestalterische Herausforderung im Beratungsprozess?",
+    "input": "",
+    "output": "Die gestalterische Herausforderung im Beratungsprozess ist, den Blickwinkel des oder der zu Beratenden zu erweitern und ihn bzw. sie in seiner pers\u00f6nlichen Ideenentwicklung f\u00fcr Probleml\u00f6sungen zu begleiten."
+  },
+  {
+    "instruction": "Wie kann die Beraterin bzw. der Berater das Vertrauen des oder der Ratsuchenden st\u00e4rken?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater kann das Vertrauen des oder der Ratsuchenden st\u00e4rken, indem sie oder er ihm bzw. ihr viel Ermutigung und Empathie f\u00fcr seine bzw. ihre (Ver\u00e4nderungs-)Anstrengungen entgegenbringt und ihn bzw. sie in seiner Person als Suchende wertsch\u00e4tzt."
+  },
+  {
+    "instruction": "Was ist die Prozessverantwortung der Beraterin und des Beraters in der sensiblen Phase zur Ver\u00e4nderung?",
+    "input": "",
+    "output": "Die Prozessverantwortung der Beraterin und des Beraters in der sensiblen Phase zur Ver\u00e4nderung ist, den oder die Ratsuchende zur Ver\u00e4nderung einzuladen und ihn bzw. sie zu ermutigen, neue Wege zu gehen."
+  },
+  {
+    "instruction": "Was ist wichtig, um die zu Beratenden in ihrer Person als Suchende wertzusch\u00e4tzen?",
+    "input": "",
+    "output": "Es ist wichtig, auf kleine Erfolge im Verlauf der Beratung hinzuweisen, positive erste Schritte herauszustellen und kleine realistische Aufgaben zwischen den Beratungsintervallen zu geben."
+  },
+  {
+    "instruction": "Warum sind kleine realistische Aufgaben zwischen den Beratungsintervallen wichtig?",
+    "input": "",
+    "output": "Sie erm\u00f6glichen das zunehmende Gef\u00fchl des Vertrauens und der Zuversicht, dass die Ideen in der Beratung auch auf den Alltag \u00fcbertragbar sind."
+  },
+  {
+    "instruction": "Was ist die Verantwortung der Beraterin und des Beraters?",
+    "input": "",
+    "output": "Die Verantwortung der Beraterin und des Beraters besteht in der verantwortlichen Vor- und Nachbereitung der jeweiligen Beratungssitzungen und der Begleitenden Prozessreflexion zwischen den Sitzungen."
+  },
+  {
+    "instruction": "Was ist das Ziel der Schlussphase der Beratung?",
+    "input": "",
+    "output": "Das Ziel der Schlussphase der Beratung ist es, die \u00dcberzeugung zu erreichen, dass das Anliegen bzw. die Kl\u00e4rungsthemen ausf\u00fchrlich und sorgf\u00e4ltig umfassend betrachtet wurden und dass die eigene Problemkompetenz erweitert wurde."
+  },
+  {
+    "instruction": "Was zeichnet die Abschlussphase der Entscheidungsfindung aus?",
+    "input": "",
+    "output": "Die Abschlussphase der Entscheidungsfindung zeichnet sich dadurch aus, dass der Blickwinkel der zu beratenden Person sich nun bewusst l\u00f6sungsorientiert wieder verengen darf."
+  },
+  {
+    "instruction": "Was ist die Rolle der Beraterin bzw. des Beraters in der Abschlussphase?",
+    "input": "",
+    "output": "Die Beraterin bzw. der Berater begleitet den Ratsuchenden in der abschlie\u00dfenden Entscheidungsfindung und gestaltet gemeinsam mit ihm bzw. ihr den R\u00fcckblick auf Verlauf und Erfolge der Beratung und den Ausblick."
+  },
+  {
+    "instruction": "Was sind strukturierende und wertsch\u00e4tzende Fragen in der Beratung?",
+    "input": "",
+    "output": "Strukturierende und wertsch\u00e4tzende Fragen sind Fragen, die den Beratungsprozess unterst\u00fctzen und das Verst\u00e4ndnis f\u00fcr die gemachten Erfahrungen in der Beratung sichern, wie zum Beispiel: 'Welche Impulse m\u00f6chte der zu Beratende weiter verfolgen, und welche Fragen, W\u00fcnsche und Ziele haben sich aus der oder den Beratungen ergeben?'"
+  },
+  {
+    "instruction": "Was sind res\u00fcmierende Fragen in der Beratung?",
+    "input": "",
+    "output": "Res\u00fcmierende Fragen sind Fragen, die das Verst\u00e4ndnis f\u00fcr die gemachten Erfahrungen in der Beratung sichern und sensibilisieren f\u00fcr die erreichten Fortschritte, Lernerfolge und Vorhaben."
+  },
+  {
+    "instruction": "Wie wird der Abschied in der Beratung gestaltet?",
+    "input": "",
+    "output": "Der Abschied in der Beratung wird durch eine Kurzevaluation des Beratungsprozesses, ein Feedback zur Person und Vorgehensweise des Beraters oder der Beraterin, ein Dankesch\u00f6n f\u00fcr die vertrauensvolle Arbeitsbeziehung und ein angemessenes Abschiedsritual gestaltet."
+  },
+  {
+    "instruction": "Warum ist es wichtig, sich mit Beratungsr\u00e4umen zu besch\u00e4ftigen?",
+    "input": "",
+    "output": "Es ist wichtig, sich mit Beratungsr\u00e4umen zu besch\u00e4ftigen, weil der gestaltete Raum sowohl bewusst als auch unbewusst Einfluss auf die Beratungsatmosph\u00e4re nimmt und die Herstellung der Gespr\u00e4chssituation im Rahmen einer Beratung \u00fcber die Bereitstellung eines Raumes verl\u00e4uft."
+  },
+  {
+    "instruction": "Was geh\u00f6rt zur Methodik in der Beratung?",
+    "input": "",
+    "output": "Zur Methodik in der Beratung geh\u00f6rt die Kompetenz, Wege zu kennen und auszuw\u00e4hlen, um ein Ziel zu erreichen, sowie die Auswahl und Gestaltung eines Beratungsraumes, um eine gelungene Beratung zu erm\u00f6glichen."
+  },
+  {
+    "instruction": "Was kann durch eine gestaltete Umgebung in einem Beratungsraum unterst\u00fctzt werden?",
+    "input": "",
+    "output": "Der Br\u00fcckenschlag von einem \u00f6ffentlichen Raum hin zu einem Beratungsraum, indem der Fokus auf den Ratsuchenden liegt und eine Atmosph\u00e4re herrscht, die signalisiert, dass 'Raum' f\u00fcr pers\u00f6nliche Belange gegeben ist, kann durch eine gestaltete Umgebung unterst\u00fctzt werden."
+  },
+  {
+    "instruction": "Wer hat sich im Spezifischen mit Beratungsr\u00e4umen und Beratungssettings auseinandergesetzt?",
+    "input": "",
+    "output": "Ruth Gro\u00dfma\u00df hat sich im Spezifischen mit Beratungsr\u00e4umen und Beratungssettings auseinandergesetzt."
+  },
+  {
+    "instruction": "Was ist die Karriereberatung?",
+    "input": "",
+    "output": "Die Karriereberatung ist ein Format der Beratung, das je nach Fragestellung stark biographisch konnotiert verlaufen kann sowie auf Zeit und Raum orientiert ist."
+  },
+  {
+    "instruction": "Was ist die Bedeutung des Raumes f\u00fcr p\u00e4dagogische Prozesse?",
+    "input": "",
+    "output": "Raum ist wie Zeit eine konstitutive Bedingung des P\u00e4dagogischen Tuns und hat eine Bedeutsamkeit f\u00fcr p\u00e4dagogische Prozesse."
+  },
+  {
+    "instruction": "Was ist wichtig bei der Konzeption und Gestaltung eines Beratungsraumes?",
+    "input": "",
+    "output": "Es ist wichtig, sich ausf\u00fchrlich und differenziert Gedanken \u00fcber die zu erreichende Zielgruppe zu machen."
+  },
+  {
+    "instruction": "Warum ist es wichtig, die institutionelle Einbindung der Beratungsstelle in Dachverb\u00e4nde zu ber\u00fccksichtigen?",
+    "input": "",
+    "output": "Die institutionelle Einbindung der Beratungsstelle in Dachverb\u00e4nde wirkt auf das Beratungssetting, da die Arbeitskultur, Verfahrensabl\u00e4ufe, Vernetzungen mit anderen Tr\u00e4gern und die institutionelle Atmosph\u00e4re das Image der Einrichtung beeinflussen."
+  },
+  {
+    "instruction": "Was ist ein wichtiger Aspekt bei der Gestaltung eines Beratungsraumes, wenn dieser auch anderen Anspr\u00fcchen gen\u00fcgen muss?",
+    "input": "",
+    "output": "Ein wichtiger Aspekt ist die Schaffung einer separaten Ecke, die optisch durch Gr\u00fcnpflanzen oder Paravant abgetrennt werden kann, um die Allzweck-Atmosph\u00e4re zu brechen."
+  },
+  {
+    "instruction": "Was sind wichtige Aspekte, die bei der Gestaltung eines Beratungsraumes zu beachten sind?",
+    "input": "",
+    "output": "Geografische Lage/Erreichbarkeit, Eingangsbereich/Beschilderung, Raumgr\u00f6\u00dfe/-struktur, Lichtverh\u00e4ltnisse, Raumtemperatur/Luft, M\u00f6blierung, Sitzgelegenheit und Ausstattung/Funktionalit\u00e4t."
+  },
+  {
+    "instruction": "Warum ist die geografische Lage eines Beratungsraumes wichtig?",
+    "input": "",
+    "output": "Das Geb\u00e4ude, in dessen R\u00e4umlichkeiten der Beratungsraum zu finden ist, sollte m\u00f6glichst zentral in der Stadt verortet und auch mit \u00f6ffentlichen Verkehrsmitteln zu erreichen sein."
+  },
+  {
+    "instruction": "Wie sollte der Eingangsbereich eines Beratungsraumes gestaltet sein?",
+    "input": "",
+    "output": "Der Eingangsbereich sollte einladend wirken und eine Signalisierung von Offenheit und Transparenz durch den Einsatz von Beschilderungen und Wegweisern unterst\u00fctzen."
+  },
+  {
+    "instruction": "Was ist wichtig bei der Raumgr\u00f6\u00dfe und -struktur eines Beratungsraumes?",
+    "input": "",
+    "output": "Die Gr\u00f6\u00dfe des Raumes sollte nicht einengend auf die in der Beratung beteiligten Personen wirken, und eine \u00fcbersichtlich, klar strukturierte Einteilung des Raumes sollte erm\u00f6glichen, dass Vertrauliches besprochen werden kann."
+  },
+  {
+    "instruction": "Warum sind Lichtverh\u00e4ltnisse in einem Beratungsraum wichtig?",
+    "input": "",
+    "output": "Tageslicht-Bedingungen sind einer grellen Neonbeleuchtung vorzuziehen, und es sollte auf entsprechenden Schutz vor direkter Sonneneinstrahlung geachtet werden, um nicht geblendet zu werden."
+  },
+  {
+    "instruction": "Wie wichtig ist die Raumtemperatur und Luft in einem Beratungsraum?",
+    "input": "",
+    "output": "Ein gutes Raumklima hat direkte Auswirkungen auf das k\u00f6rperliche Wohlbeinden, und Frieren, Schwitzen oder abgestandene Luft k\u00f6nnen die Konzentration beeintr\u00e4chtigen."
+  },
+  {
+    "instruction": "Was sind wichtige Aspekte bei der M\u00f6blierung eines Beratungsraumes?",
+    "input": "",
+    "output": "Die M\u00f6blierung sollte funktional sein, aber nicht steril wirken, und eine freundliche, aber reduzierte Wandgestaltung kann die Atmosph\u00e4re unterst\u00fctzen."
+  },
+  {
+    "instruction": "Wie sollte die Sitzgelegenheit in einem Beratungsraum gestaltet sein?",
+    "input": "",
+    "output": "Bequeme St\u00fchle, die eine l\u00e4ngere Sitzphase erm\u00f6glichen, sowie ein dazu geh\u00f6riger Tisch sollten gegeben sein, und das Arrangement der Sitzanordnung sollte flexibel zu handhaben sein."
+  },
+  {
+    "instruction": "Welche Aspekte sollten bei der Positionierung im Beratungsraum ber\u00fccksichtigt werden?",
+    "input": "",
+    "output": "Die Positionierung im Raum sollte unter besonderer Ber\u00fccksichtigung erfolgen, dass der Ratsuchende nicht zwangsweise die T\u00fcr im R\u00fccken hat."
+  },
+  {
+    "instruction": "Welche technische Ausstattung sollte ein Beratungsraum haben?",
+    "input": "",
+    "output": "Ein Beratungsraum sollte \u00fcber eine technische Ausstattung verf\u00fcgen, die insbesondere f\u00fcr die Informationsrecherche geeignet ist, wie z.B. Internetzugang, Druck- und Kopierm\u00f6glichkeiten."
+  },
+  {
+    "instruction": "Warum ist es sinnvoll, zwei Computerbildschirme anzuschlie\u00dfen?",
+    "input": "",
+    "output": "Damit der Ratsuchende die Recherche entspannt mitverfolgen kann."
+  },
+  {
+    "instruction": "Warum sollten Symbole kultureller oder religi\u00f6ser Art mit Bedacht gew\u00e4hlt werden?",
+    "input": "",
+    "output": "Um zu vermeiden, dass Ratsuchende sich unwohl oder verunsichert f\u00fchlen."
+  },
+  {
+    "instruction": "Wer sollte bei der Gestaltung des Beratungsraums ber\u00fccksichtigt werden?",
+    "input": "",
+    "output": "Die Zielgruppenanalyse sollte bei der Gestaltung des Raumes, der Auswahl der M\u00f6bel sowie der Dekoration ber\u00fccksichtigt werden."
+  },
+  {
+    "instruction": "Wie wichtig ist die Beraterpers\u00f6nlichkeit f\u00fcr die Atmosph\u00e4re im Beratungsraum?",
+    "input": "",
+    "output": "Die Beraterpers\u00f6nlichkeit ist wichtig, da Beraterinnen und Berater dem Raum Bedeutung zuweisen und individuelle Anspr\u00fcche an eine angenehme Atmosph\u00e4re haben."
+  },
+  {
+    "instruction": "Was ist nach Horst Bockelmann die wichtigste Voraussetzung f\u00fcr eine gelingende Beratung?",
+    "input": "",
+    "output": "Die Abgeschirmtheit des Raumes, eine gesch\u00fctzte Atmosph\u00e4re, in der keine weitere au\u00dfenstehende Person zuh\u00f6ren kann."
+  },
+  {
+    "instruction": "Warum ist die Gestaltung von Beratungsr\u00e4umen wichtig?",
+    "input": "",
+    "output": "Die Gestaltung von Beratungsr\u00e4umen ist wichtig, weil sie die Atmosph\u00e4re und die Wahrnehmung der Beratung beeinflusst."
+  },
+  {
+    "instruction": "Welche Bedeutung hat die institutionelle Einbindung von Beratungseinrichtungen?",
+    "input": "",
+    "output": "Die institutionelle Einbindung von Beratungseinrichtungen hat Auswirkungen auf die Akzeptanz und die Zuschreibung der Professionalit\u00e4t der Beratung."
+  },
+  {
+    "instruction": "Wie wirkt die Glasfront in den Beratungsr\u00e4umen der VHS Essen und Bonn auf die Beratung?",
+    "input": "",
+    "output": "Die Glasfront kann zu einem Gef\u00fchl f\u00fchren, sich in der \u00d6ffentlichkeit zu befinden, und die Abgeschirmtheit des Raumes beeintr\u00e4chtigen."
+  },
+  {
+    "instruction": "Wie haben die Beraterinnen und Berater der VHS Bonn mit dem Problem der Glasfront umgegangen?",
+    "input": "",
+    "output": "Sie haben eine Metaplanwand aufgestellt, um einen Sichtschutz zu schaffen."
+  },
+  {
+    "instruction": "Warum ist es wichtig, einen Spielraum f\u00fcr Optimierungsvorschl\u00e4ge bei der Gestaltung von Beratungsr\u00e4umen zu haben?",
+    "input": "",
+    "output": "Es ist wichtig, um die spezifischen Bed\u00fcrfnisse und Anforderungen der Beratungseinrichtung zu ber\u00fccksichtigen und die Gestaltung des Raumes entsprechend anzupassen."
+  },
+  {
+    "instruction": "Was ist nach Anne Schl\u00fcter notwendig, um Beratung zum Gelingen zu bringen?",
+    "input": "",
+    "output": "Handlungsf\u00e4higkeiten auf verschiedenen Ebenen, die auf einer professionellen Haltung basieren."
+  },
+  {
+    "instruction": "Wie wichtig ist die Funktionalit\u00e4t der R\u00e4umlichkeiten f\u00fcr die Beratung?",
+    "input": "",
+    "output": "Die Funktionalit\u00e4t der R\u00e4umlichkeiten ist erforderlich und sollte in der technischen Ausstattung, Materialen und Ablage- und Verstaum\u00f6glichkeiten zum Ausdruck kommen."
+  },
+  {
+    "instruction": "Wie unterscheiden sich die Beratungsr\u00e4ume in der VHS Bonn und der VHS Duisburg?",
+    "input": "",
+    "output": "Der Beratungsraum in der VHS Bonn ist sachlich und schlicht gestaltet, w\u00e4hrend der Beratungsraum in der VHS Duisburg farbig und wohnlich gestaltet ist und eine offene Auslage von Informationsmaterialen aufweist."
+  },
+  {
+    "instruction": "Warum sind eigene Forschungen zu R\u00e4umlichkeiten und ihrer Gestaltung im Beratungskontext sinnvoll?",
+    "input": "",
+    "output": "Um die Besonderheiten und Anforderungen der Bildungsberatung detaillierter und differenzierter herauszuarbeiten und ma\u00dfgeschneiderte Konzepte entwickeln zu k\u00f6nnen."
+  },
+  {
+    "instruction": "Wie wichtig ist die Beziehungsgestaltung in der Beratung?",
+    "input": "",
+    "output": "Die Beziehungsgestaltung ist wichtig, um nachhaltige Wirksamkeit in der Beratung zu erzielen, da Methoden und Techniken ohne Beziehungsgestaltung kaum nachhaltige Wirksamkeit entfalten k\u00f6nnen."
+  },
+  {
+    "instruction": "Was geh\u00f6rt zur Beratungskompetenz?",
+    "input": "",
+    "output": "Handwerkszeuge wie Methoden und Techniken zur Intervention in Gespr\u00e4chssituationen geh\u00f6ren zur Beratungskompetenz."
+  },
+  {
+    "instruction": "Warum sind Beziehungsgestaltung und bewusste Zuwendung wichtig?",
+    "input": "",
+    "output": "Ohne Beziehungsgestaltung und bewusste Zuwendung k\u00f6nnen Handwerkszeuge wie Methoden und Techniken zur Intervention in Gespr\u00e4chssituationen kaum nachhaltige Wirksamkeit entfalten."
+  },
+  {
+    "instruction": "Was ist erforderlich, um den Erfahrungsraum f\u00fcr Kommunikation und Interaktion auszuf\u00fcllen?",
+    "input": "",
+    "output": "Eine bewusste Zuwendung und ein Eingehen auf die Anliegen der anderen Person sind erforderlich, um den Erfahrungsraum f\u00fcr Kommunikation und Interaktion auszuf\u00fcllen."
+  },
+  {
+    "instruction": "Wie sollten Kommunikation und Interaktion im Beratungsgespr\u00e4ch ausgerichtet sein?",
+    "input": "",
+    "output": "Kommunikation und Interaktion sollten sich an ethischen Werten und Normen orientieren."
+  },
+  {
+    "instruction": "Warum ist die Ausgestaltung von Beratungsr\u00e4umen wichtig?",
+    "input": "",
+    "output": "Die Ausgestaltung von Beratungsr\u00e4umen ist wichtig, weil r\u00e4umliche Verh\u00e4ltnisse nicht ohne Bedeutung f\u00fcr die Atmosph\u00e4re in der Gespr\u00e4chssituation sind."
+  },
+  {
+    "instruction": "Was sind wichtige Orientierungen f\u00fcr Beratende?",
+    "input": "",
+    "output": "Aufmerksamkeit und Wertsch\u00e4tzung sind wichtige Orientierungen f\u00fcr Beratende, die sich nicht nur auf das Gegen\u00fcber, sondern auch auf sich selbst beziehen sollten."
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "instruction": "Was ist das Lebensrad oder der Lebensstern?",
+    "input": "",
+    "output": "Das Lebensrad oder der Lebensstern ist eine Methode der l\u00f6sungsorientierten Beratung zur Visualisierung bei Unzufriedenheit bez\u00fcglich unterschiedlicher Lebensbereiche des oder der Ratsuchenden."
+  },
+  {
+    "instruction": "Wie wird die Zeichnung des Lebensrads erstellt?",
+    "input": "",
+    "output": "Die Zeichnung besteht aus einem gro\u00dfen Kreis, unterteilt in einzelne 'Kuchenst\u00fccke', die sich jeweils auf einen Lebensbereich des oder der Ratsuchenden beziehen, mit einer Skala im Wert von 1-10, die die Zufriedenheitsskala zu dem jeweiligen Lebensbereich darstellt."
+  },
+  {
+    "instruction": "Wann findet die Methode des Lebensrads Verwendung?",
+    "input": "",
+    "output": "Die Methode findet zun\u00e4chst Verwendung in der Berufs- oder Studienberatung, kann aber auch bei anderen Anliegen wie Beziehungssituation oder pers\u00f6nlicher Lebensqualit\u00e4t und Work-Life-Balance eingesetzt werden."
+  },
+  {
+    "instruction": "Was ist das Ziel des Beratungsprozesses mit Hilfe des Lebensrads?",
+    "input": "",
+    "output": "Das Ziel ist, vom Ist-Wert zum Soll-Wert einer oder mehrerer der Kategorien zu gelangen und damit die Lebensqualit\u00e4t zu verbessern."
+  },
+  {
+    "instruction": "Welche Materialien werden f\u00fcr die Anwendung der Methode des Lebensrads ben\u00f6tigt?",
+    "input": "",
+    "output": "Es werden DinA3- oder Flipchartpapier, DinA4-Papier und Stifte ben\u00f6tigt."
+  },
+  {
+    "instruction": "Wie viele Lebensbereiche sollten im Lebensrad eingezeichnet werden, um es nicht zu komplex werden zu lassen?",
+    "input": "",
+    "output": "Bis zu ca. acht Lebensbereiche sollten im Lebensrad eingezeichnet werden."
+  },
+  {
+    "instruction": "Was sollte der Beratende tun, nachdem alle Themenbereiche eingezeichnet wurden?",
+    "input": "",
+    "output": "Der Beratende sollte das Lebensrad/den Lebensstern und einen Stift an den oder die Ratsuchenden weiterreichen."
+  },
+  {
+    "instruction": "Wie kann der Ratsuchende die Zufriedenheit in den unterschiedlichen Bereichen bewerten?",
+    "input": "",
+    "output": "Der Ratsuchende kann die Zufriedenheit in den unterschiedlichen Bereichen anhand einer Skala bewerten."
+  },
+  {
+    "instruction": "Was kann der Beratende tun, um das Thema zu bearbeiten, das dem Ratsuchenden am meisten am Herzen liegt?",
+    "input": "",
+    "output": "Der Beratende kann den Ratsuchenden fragen, welcher Punkt besonders auff\u00e4llig f\u00fcr ihn ist, und dann Ver\u00e4nderungsm\u00f6glichkeiten sammeln, um dem Zielwert der Zufriedenheit n\u00e4her zu kommen."
+  },
+  {
+    "instruction": "Wie kann das Lebensrad/der Lebensstern wiederverwendet werden, wenn in vielen Bereichen eine hohe Unzufriedenheit herrscht?",
+    "input": "",
+    "output": "Das Lebensrad/der Lebensstern kann wiederverwendet werden, indem in darauffolgenden Sitzungen weitere Handlungsm\u00f6glichkeiten bezogen auf ein anderes Lebensthema gesammelt werden und in einigem zeitlichen Abstand eine neue Linie in anderer Farbe zum Vergleich eingezeichnet wird."
+  },
+  {
+    "instruction": "Wann kann die Methode des Lebensrads/Lebenssterns im Beratungsgespr\u00e4ch durchgef\u00fchrt werden?",
+    "input": "",
+    "output": "Die Methode kann in der Mittelphase der Beratung durchgef\u00fchrt werden."
+  },
+  {
+    "instruction": "Was ist das Ziel der Methode des Lebensrads/Lebenssterns?",
+    "input": "",
+    "output": "Das Ziel der Methode ist die L\u00f6sungsfindung, Verbesserung der Lebensqualit\u00e4t und die \u201eStandortbestimmung\u201c."
+  },
+  {
+    "instruction": "Wie kann die Methode des Lebensrads/Lebenssterns durchgef\u00fchrt werden?",
+    "input": "",
+    "output": "Die Methode kann mit Hilfe von Kreppband und Methodenkarten auf dem Boden durchgef\u00fchrt werden, um einen Perspektivenwechsel beim Ratsuchenden anzuregen."
+  },
+  {
+    "instruction": "Welche Schwierigkeiten k\u00f6nnen bei der Anwendung der Methode des Lebensrads/Lebenssterns auftreten?",
+    "input": "",
+    "output": "Dem Ratsuchenden k\u00f6nnte das Festlegen der Lebensthemen und das Zuordnen der Skalierungswerte schwerfallen, insbesondere bei komplexen Themen."
+  },
+  {
+    "instruction": "Wie sollte das Lebensrad/der Lebensstern interpretiert werden?",
+    "input": "",
+    "output": "Das Lebensrad/der Lebensstern ist eher als Momentaufnahme des emotionalen Zustandes des Ratsuchenden einzusch\u00e4tzen."
+  },
+  {
+    "instruction": "Warum ist R nicht vollst\u00e4ndig zufrieden mit ihrer Arbeit?",
+    "input": "",
+    "output": "R ist nicht vollst\u00e4ndig zufrieden mit ihrer Arbeit, weil sie oft den Bereich gewechselt hat und ihre Chefin anstrengend ist."
+  },
+  {
+    "instruction": "Wie zufrieden ist R mit ihrer Ehe?",
+    "input": "",
+    "output": "R ist zufrieden mit ihrer Ehe, aber belastet von dem Druck ihrer Familie wegen des langen Studiums ihres Mannes und w\u00fcrde ihre Zufriedenheit mit einer 6 auf der Skala bewerten."
+  },
+  {
+    "instruction": "Warum \u00fcbt die Familie von R Druck auf sie aus?",
+    "input": "",
+    "output": "Die Familie von R \u00fcbt Druck auf sie aus, weil sie nicht verstehen, warum ihr Mann so lange f\u00fcr sein Studium braucht, insbesondere f\u00fcr den Master."
+  },
+  {
+    "instruction": "Hat der Mann von R bereits einen Bachelor-Abschluss?",
+    "input": "",
+    "output": "Ja, der Mann von R hat bereits einen Bachelor-Abschluss und plant jetzt den Master, was die Familie von R nicht nachvollziehen kann."
+  }
+]

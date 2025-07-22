@@ -1,0 +1,927 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the title of the section?",
+    "output": "3 Erfahrungsraum Beratung: Handlungsorientierung"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the section titled in German?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title imply a focus on experience?",
+    "output": "Yes, it includes 'Erfahrungsraum' which translates to 'space of experience'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is 'Erfahrungsraum' in English?",
+    "output": "Space of experience"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Beratung' translated to 'consulting' or 'counseling' in English?",
+    "output": "Both, depending on the context"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' imply action or activity?",
+    "output": "Yes, it translates to 'action orientation'."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the section number '3' indicate it is part of a larger work?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Erfahrungsraum Beratung' be related to advisory services?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' suggest a practical approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the term 'Beratung' used in business contexts?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Erfahrungsraum' refer to personal experience?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Handlungsorientierung' about taking action?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does the title '3 Erfahrungsraum Beratung: Handlungsorientierung' imply a structured approach?",
+    "output": "Yes, given the use of a section number and specific terms"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' in '3 Erfahrungsraum Beratung: Handlungsorientierung' indicate a methodological approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is '3 Erfahrungsraum Beratung: Handlungsorientierung' a chapter title?",
+    "output": "It appears to be"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can '3 Erfahrungsraum Beratung: Handlungsorientierung' be part of a textbook?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Erfahrungsraum' a term used in academic literature?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Would 'Beratung' in '3 Erfahrungsraum Beratung: Handlungsorientierung' involve guidance?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' suggest a focus on outcomes?",
+    "output": "Yes, it implies action towards a goal"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Erfahrungsraum Beratung' be applied in professional settings?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' in the title suggest a proactive approach?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Beratung' in '3 Erfahrungsraum Beratung: Handlungsorientierung' about advisory processes?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' imply a results-driven methodology?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can '3 Erfahrungsraum Beratung: Handlungsorientierung' be relevant to business consulting?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Would 'Handlungsorientierung' be useful in project management?",
+    "output": "Yes, given its focus on action"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' imply a structured method of counseling?",
+    "output": "Yes, it suggests an action-oriented method"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Would 'Handlungsorientierung' be useful in emergency response situations?",
+    "output": "Yes, given its action-oriented nature"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' imply a need for continuous learning?",
+    "output": "Yes, by emphasizing action and experience"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Beratung' involve interdisciplinary approaches?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is '3 Erfahrungsraum Beratung: Handlungsorientierung' a tool for social change?",
+    "output": "It could be, given its focus on action and experience"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Beratung' used in historical research?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' imply a reflective process?",
+    "output": "Yes, by focusing on experience and action"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is 'Erfahrungsraum' related to the concept of 'lived experience'?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Would 'Handlungsorientierung' be useful in designing educational programs?",
+    "output": "Yes, potentially"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can 'Erfahrungsraum Beratung' be applied to community arts projects?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Does 'Handlungsorientierung' imply a focus on the present moment?",
+    "output": "Yes, by emphasizing action"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Would 'Handlungsorientierung' be beneficial in crisis management?",
+    "output": "Yes, given its action-oriented nature"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is '3 Erfahrungsraum Beratung: Handlungsorientierung' part of a comprehensive guide to personal and professional development?",
+    "output": "It could be, given its title and focus"
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet die Unterscheidung zwischen Methoden und Techniken in der Beratung?",
+    "output": "Methoden sind umfassende Ansätze, die mehrere Techniken umfassen, während Techniken spezifische Handlungen oder Interventionen sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grundbausteine der Beratung?",
+    "output": "Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden Techniken in der Beratung verwendet?",
+    "output": "Techniken werden innerhalb einer Methode verwendet, um bestimmte Ziele zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist eine Intervention in der Beratung?",
+    "output": "Eine Intervention ist eine konkrete, situative Handlung oder Äußerung des Beraters oder der Beraterin."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie werden Interventionen in der Beratung verwendet?",
+    "output": "Interventionen werden verwendet, um den Gedankenfluss des Ratsuchenden zu unterbrechen und neue Perspektiven zu eröffnen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Verhältnis von Methoden, Techniken und Interventionen?",
+    "output": "Methoden umfassen mehrere Techniken, die wiederum aus Interventionen bestehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Beziehung zwischen Berater und Ratsuchendem?",
+    "output": "Die Beziehung zwischen Berater und Ratsuchendem ist von entscheidender Bedeutung für den Erfolg der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Merkmale einer guten Beratungsbeziehung?",
+    "output": "Eine gute Beratungsbeziehung zeichnet sich durch Empathie, Wärme, Echtheit und Authentizität aus."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist die Rolle des Beraters oder der Beraterin in der Beratung?",
+    "output": "Der Berater oder die Beraterin spielt eine tragende Rolle in der Beratung, indem er oder sie eine positive und vertrauensvolle Beziehung aufbaut."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet es, wenn ein Berater oder eine Beraterin sagt, dass er oder sie 'nicht der Wissende, sondern der Fragende' ist?",
+    "output": "Der Berater oder die Beraterin erkennt an, dass er oder sie nicht alle Antworten hat, sondern dass die Ratsuchenden selbst ihre eigenen Lösungen finden müssen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Beziehungs- und Kommunikationsstile reflektieren?",
+    "output": "Es ist wichtig, dass Beratende ihre eigenen Beziehungs- und Kommunikationsstile reflektieren, um eine positive und wirksame Beratungsbeziehung aufzubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Hilfe zur Selbsthilfe' in der Beratung?",
+    "output": "Hilfe zur Selbsthilfe bedeutet, dass der Berater oder die Beraterin den Ratsuchenden unterstützt, seine eigenen Lösungen zu finden und sich selbst zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ethische Richtlinien beachten?",
+    "output": "Es ist wichtig, dass Beratende ethische Richtlinien beachten, um sicherzustellen, dass die Beratung fair, respektvoll und wirksam ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des Beraters oder der Beraterin bei der Beziehungsarbeit?",
+    "output": "Der Berater oder die Beraterin ist verantwortlich für den Aufbau und die Pflege einer positiven und wirksamen Beratungsbeziehung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Ratsuchende aktiv an der Beratung teilnehmen?",
+    "output": "Es ist wichtig, dass Ratsuchende aktiv an der Beratung teilnehmen, um ihre eigenen Lösungen zu finden und sich selbst zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als moralische Praxis'?",
+    "output": "Beratung als moralische Praxis bedeutet, dass die Beratung einen moralischen und ethischen Rahmen hat, der die Beziehung zwischen Berater und Ratsuchendem bestimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Vorurteile und Annahmen reflektieren?",
+    "output": "Es ist wichtig, dass Beratende ihre eigenen Vorurteile und Annahmen reflektieren, um sicherzustellen, dass die Beratung fair und wirksam ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von 'Empathie' in der Beratung?",
+    "output": "Empathie bedeutet, dass der Berater oder die Beraterin den Ratsuchenden versteht und sich in seine Lage versetzt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende eine positive und unterstützende Atmosphäre schaffen?",
+    "output": "Es ist wichtig, dass Beratende eine positive und unterstützende Atmosphäre schaffen, um den Ratsuchenden zu helfen, sich sicher und unterstützt zu fühlen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Authentizität' in der Beratung?",
+    "output": "Authentizität bedeutet, dass der Berater oder die Beraterin ehrlich und transparent ist und sich nicht hinter einer Maske versteckt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Grenzen und Einschränkungen erkennen?",
+    "output": "Es ist wichtig, dass Beratende ihre eigenen Grenzen und Einschränkungen erkennen, um sicherzustellen, dass die Beratung wirksam und fair ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'Gegenübertragungsphänomenen' in der Beratung?",
+    "output": "Gegenübertragungsphänomene beziehen sich auf die Gefühle und Reaktionen, die der Berater oder die Beraterin auf den Ratsuchenden hat, und die nicht unbedingt mit der aktuellen Situation zu tun haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Emotionen und Reaktionen reflektieren?",
+    "output": "Es ist wichtig, dass Beratende ihre eigenen Emotionen und Reaktionen reflektieren, um sicherzustellen, dass die Beratung fair und wirksam ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Supervision' in der Beratung?",
+    "output": "Supervision bedeutet, dass der Berater oder die Beraterin regelmäßig mit einem Supervisor oder einer Supervisorin spricht, um seine oder ihre Arbeit zu reflektieren und zu verbessern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Fortbildungs- und Weiterbildungsbedürfnisse erkennen?",
+    "output": "Es ist wichtig, dass Beratende ihre eigenen Fortbildungs- und Weiterbildungsbedürfnisse erkennen, um sicherzustellen, dass die Beratung wirksam und fair ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von 'Fach- und Methodenwissen' in der Beratung?",
+    "output": "Fach- und Methodenwissen bedeutet, dass der Berater oder die Beraterin über die notwendigen Kenntnisse und Fähigkeiten verfügt, um die Beratung wirksam und fair durchzuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Stärken und Schwächen erkennen?",
+    "output": "Es ist wichtig, dass Beratende ihre eigenen Stärken und Schwächen erkennen, um sicherzustellen, dass die Beratung wirksam und fair ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als Prozess'?",
+    "output": "Beratung als Prozess bedeutet, dass die Beratung ein dynamischer und sich entwickelnder Prozess ist, der von beiden Parteien, dem Berater oder der Beraterin und dem Ratsuchenden, mitgestaltet wird."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende flexibel und anpassungsfähig sind?",
+    "output": "Es ist wichtig, dass Beratende flexibel und anpassungsfähig sind, um sicherzustellen, dass die Beratung wirksam und fair ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von 'Vertrauen' in der Beratung?",
+    "output": "Vertrauen bedeutet, dass der Ratsuchende dem Berater oder der Beraterin vertraut und sich sicher fühlt, seine oder ihre Probleme und Sorgen zu teilen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende eine positive und unterstützende Beziehung aufbauen?",
+    "output": "Es ist wichtig, dass Beratende eine positive und unterstützende Beziehung aufbauen, um den Ratsuchenden zu helfen, sich sicher und unterstützt zu fühlen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als partnerschaftlicher Prozess'?",
+    "output": "Beratung als partnerschaftlicher Prozess bedeutet, dass die Beratung ein gemeinsamer Prozess ist, bei dem der Berater oder die Beraterin und der Ratsuchende gemeinsam an der Lösung von Problemen arbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Vorurteile und Annahmen reflektieren, um eine faire und wirksame Beratung zu gewährleisten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Vorurteile und Annahmen reflektieren, um eine faire und wirksame Beratung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'aktiver Zuhören' in der Beratung?",
+    "output": "Aktives Zuhören bedeutet, dass der Berater oder die Beraterin aufmerksam und empathisch zuhört, um den Ratsuchenden zu verstehen und zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Emotionen und Reaktionen regulieren, um eine professionelle Beziehung aufrechtzuerhalten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Emotionen und Reaktionen regulieren, um eine professionelle Beziehung aufrechtzuerhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als reflexiver Prozess'?",
+    "output": "Beratung als reflexiver Prozess bedeutet, dass die Beratung ein Prozess ist, bei dem der Berater oder die Beraterin und der Ratsuchende gemeinsam reflektieren und lernen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Stärken und Schwächen erkennen, um eine wirksame Beratung zu gewährleisten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Stärken und Schwächen erkennen, um eine wirksame Beratung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'Gesprächsführungstechniken' in der Beratung?",
+    "output": "Gesprächsführungstechniken sind Methoden, die der Berater oder die Beraterin verwendet, um die Kommunikation und den Informationsaustausch zwischen dem Ratsuchenden und sich selbst zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende eine positive und unterstützende Atmosphäre schaffen, um den Ratsuchenden zu helfen?",
+    "output": "Es ist sehr wichtig, dass Beratende eine positive und unterstützende Atmosphäre schaffen, um den Ratsuchenden zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als lernender Prozess'?",
+    "output": "Beratung als lernender Prozess bedeutet, dass die Beratung ein Prozess ist, bei dem der Berater oder die Beraterin und der Ratsuchende gemeinsam lernen und wachsen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Fortbildungs- und Weiterbildungsbedürfnisse erkennen, um eine wirksame Beratung zu gewährleisten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Fortbildungs- und Weiterbildungsbedürfnisse erkennen, um eine wirksame Beratung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'Selbstreflexion' in der Beratung?",
+    "output": "Selbstreflexion bedeutet, dass der Berater oder die Beraterin seine oder ihre eigenen Gedanken, Gefühle und Handlungen reflektiert, um eine wirksame Beratung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende eine professionelle Beziehung aufrechtzuerhalten, um den Ratsuchenden zu helfen?",
+    "output": "Es ist sehr wichtig, dass Beratende eine professionelle Beziehung aufrechtzuerhalten, um den Ratsuchenden zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als unterstützender Prozess'?",
+    "output": "Beratung als unterstützender Prozess bedeutet, dass die Beratung ein Prozess ist, bei dem der Berater oder die Beraterin den Ratsuchenden unterstützt und fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Grenzen und Einschränkungen erkennen, um eine wirksame Beratung zu gewährleisten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Grenzen und Einschränkungen erkennen, um eine wirksame Beratung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'Kommunikationsfähigkeit' in der Beratung?",
+    "output": "Kommunikationsfähigkeit bedeutet, dass der Berater oder die Beraterin in der Lage ist, effektiv und empathisch mit dem Ratsuchenden zu kommunizieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende eine positive und unterstützende Beziehung aufbauen, um den Ratsuchenden zu helfen?",
+    "output": "Es ist sehr wichtig, dass Beratende eine positive und unterstützende Beziehung aufbauen, um den Ratsuchenden zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als kooperativer Prozess'?",
+    "output": "Beratung als kooperativer Prozess bedeutet, dass die Beratung ein Prozess ist, bei dem der Berater oder die Beraterin und der Ratsuchende gemeinsam an der Lösung von Problemen arbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Emotionen und Reaktionen regulieren, um eine professionelle Beziehung aufrechtzuerhalten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Emotionen und Reaktionen regulieren, um eine professionelle Beziehung aufrechtzuerhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'Fachwissen' in der Beratung?",
+    "output": "Fachwissen bedeutet, dass der Berater oder die Beraterin über die notwendigen Kenntnisse und Fähigkeiten verfügt, um die Beratung wirksam und fair durchzuführen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende ihre eigenen Stärken und Schwächen erkennen, um eine wirksame Beratung zu gewährleisten?",
+    "output": "Es ist sehr wichtig, dass Beratende ihre eigenen Stärken und Schwächen erkennen, um eine wirksame Beratung zu gewährleisten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was bedeutet 'Beratung als Prozess der Selbstentwicklung'?",
+    "output": "Beratung als Prozess der Selbstentwicklung bedeutet, dass die Beratung ein Prozess ist, bei dem der Ratsuchende lernt und wächst."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie wichtig ist es, dass Beratende eine positive und unterstützende Atmosphäre schaffen, um den Ratsuchenden zu helfen?",
+    "output": "Es ist sehr wichtig, dass Beratende eine positive und unterstützende Atmosphäre schaffen, um den Ratsuchenden zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle von 'Gesprächsführung' in der Beratung?",
+    "output": "Gesprächsführung bedeutet, dass der Berater oder die Beraterin die Kommunikation und den Informationsaustausch zwischen dem Ratsuchenden und sich selbst fördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist Beziehungsarbeit in der Bildungsberatung wichtig?",
+    "output": "Sie ist die Grundlage für die Anwendung von Methoden und Techniken innerhalb der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Beratungsbeziehung, wenn Ratsuchende durch andere Stellen zur Beratung geschickt werden?",
+    "output": "Diese Personen haben oft andere Beweggründe für die Beratung und können motivationalen Herausforderungen innerhalb der Beratung stellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Relevanz von Beziehungsarbeit in der Beratung?",
+    "output": "Sie ist die Grundlage für die Anwendung von Methoden und Techniken innerhalb der Beratung und sollte in der grundständigen Ausbildung und in der konkreten Bildungsberatung geübt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wer sind die Experten für das eigene Leben in der Beratung?",
+    "output": "Die Ratsuchenden sind die Experten für das eigene Leben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist das Setting der Beratung?",
+    "output": "Es ist von Anfang an über wechselseitige Erwartungen definiert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was erwarten beide Seiten in der Beratung?",
+    "output": "Sie erwarten ein professionelles, strukturiertes Gespräch unter (zunächst) Fremden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wesentlichen Elemente in den jeweiligen Beratungsphasen?",
+    "output": "Sie umfassen die Vorbereitung und Einstimmung, die Anfangsphase, die Mittelphase und die Endphase."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Anfangsphase in der Beratung?",
+    "output": "Sie umfasst die Joining-Phase, die Situation und Anliegen klären und die Rahmenbedingungen der Beratung klären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Kunst in der Anfangsphase der Beratung?",
+    "output": "Sie besteht darin, einerseits dem Ratsuchenden Wertschätzung und Interesse entgegenzubringen und andererseits den Problemdruck des Ratsuchenden nicht nachzugeben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Prozessverantwortung der Beraterin bzw. des Beraters?",
+    "output": "Sie besteht darin, Tempo aus dem komplexen Beratungsprozess herauszunehmen, das sowohl die ratsuchende als auch beratende Person überfordern würde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ermöglicht es der Beraterin und dem Berater, beruhigend auf den Ratsuchenden einzuwirken?",
+    "output": "Die Kombination aus Fachwissen und Erfahrung ermöglicht es der Beraterin und dem Berater, beruhigend auf den Ratsuchenden einzuwirken."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was trägt die Beraterin bzw. der Berater am Anfang schon in sich?",
+    "output": "Sie trägt die Zuversicht für einen gelingenden Prozess und ein gelingendes Ende in sich."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sollte die Beraterin bzw. der Berater dem Ratsuchenden erfahrbar machen?",
+    "output": "Sie sollten dem Ratsuchenden die Zuversicht für einen gelingenden Prozess und ein gelingendes Ende erfahrbar machen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein wichtiges reflektierendes Überprüfungsmoment in der Anfangsphase?",
+    "output": "Es ist wichtig, ob die Möglichkeiten der Beratung Anliegen und Ziele des Ratsuchenden auch wirklich erfüllen können."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was empfehlen sich in der Phase der Themenklärung?",
+    "output": "Große Sorgfalt, aktives Zuhören, erhellendes Nachfragen und zusammenfassendes Spiegeln empfehlen sich in der Phase der Themenklärung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Mittelphase in der Beratung?",
+    "output": "Sie umfasst die Problemerhellung und Entfaltungswünsche klären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist ein jedes Beratungsgespräch?",
+    "output": "Ein jedes Beratungsgespräch ist die Begegnung zweier Menschen in einer wechselseitigen Rahmung der Erwartungen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was stellen Beraterinnen und Berater zur Verfügung?",
+    "output": "Sie stellen ihr Fachwissen und die Metaperspektive für den Prozess der Beratung zur Verfügung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was gestalten die Ratsuchenden mit?",
+    "output": "Die Ratsuchenden gestalten den Prozess der Begegnung insofern mit, als sie Expertin und Experte für das eigene Leben sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Endphase in der Beratung?",
+    "output": "Die Endphase umfasst die Zusammenfassung und Evaluation der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Rogers Aussage „Keine Methode oder Technik kann aussichtsreicher sein als Veränderung durch Erfahrung in einer Beziehung“?",
+    "output": "Sie betont die Bedeutung von Beziehungsarbeit in der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was präzisiert Schmidt-Lellek?",
+    "output": "Schmidt-Lellek präzisiert, dass manche Deformationen im Bereich von beratenden Berufen auf eine Verwechslung von technischem bzw. instrumentellem Wissen und verstehendem Wissen zurückzuführen sind."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Beratung?",
+    "output": "Die Herausforderung liegt darin, die Grenzen der Machbarkeit anzuerkennen und die Tatsache, dass nicht alles machbar ist, was einem erstrebenswert scheint."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Relevanz von Beziehungsarbeit in der Beratung?",
+    "output": "Sie ist die Grundlage für die Anwendung von Methoden und Techniken innerhalb der Beratung und sollte in der grundständigen Ausbildung und in der konkreten Bildungsberatung geübt werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beziehungsarbeit in der Beratung?",
+    "output": "Sie ist die Grundlage für die Anwendung von Methoden und Techniken innerhalb der Beratung und ermöglicht eine authentische Beziehung zwischen Berater und Ratsuchendem."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Beratungsbeziehung?",
+    "output": "Die Herausforderung liegt darin, eine Beziehung aufzubauen, die von Vertrauen und Wertschätzung geprägt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des Beraters in der Beratung?",
+    "output": "Der Berater ist ein Begleiter und Unterstützer des Ratsuchenden und sollte eine professionelle und strukturierte Beratung anbieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Fachwissen und Erfahrung in der Beratung?",
+    "output": "Fachwissen und Erfahrung ermöglichen es dem Berater, eine professionelle und strukturierte Beratung anzubieten und den Ratsuchenden bei der Lösung seiner Probleme zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von aktiver Zuhören und erhellendem Nachfragen in der Beratung?",
+    "output": "Aktives Zuhören und erhellendes Nachfragen ermöglichen es dem Berater, die Bedürfnisse und Interessen des Ratsuchenden zu verstehen und eine individuelle Beratung anzubieten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Zusammenfassung und Spiegeln in der Beratung?",
+    "output": "Zusammenfassung und Spiegeln ermöglichen es dem Berater, die Ergebnisse der Beratung zu reflektieren und den Ratsuchenden bei der Umsetzung seiner Ziele zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Evaluation in der Beratung?",
+    "output": "Evaluation ermöglicht es dem Berater, die Effektivität der Beratung zu überprüfen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Beratungsbeziehung, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Die Herausforderung liegt darin, den Ratsuchenden zu motivieren und ihn bei der Lösung seiner Probleme zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beziehungsarbeit in der Beratung, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Beziehungsarbeit ist besonders wichtig, wenn der Ratsuchende nicht motiviert ist, da sie es ermöglicht, eine Beziehung aufzubauen und den Ratsuchenden zu motivieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des Beraters, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Der Berater sollte den Ratsuchenden unterstützen und motivieren, ohne ihn zu überfordern oder zu unterfordern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Fachwissen und Erfahrung, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Fachwissen und Erfahrung ermöglichen es dem Berater, den Ratsuchenden individuell zu unterstützen und ihn bei der Lösung seiner Probleme zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von aktiver Zuhören und erhellendem Nachfragen, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Aktives Zuhören und erhellendes Nachfragen ermöglichen es dem Berater, die Bedürfnisse und Interessen des Ratsuchenden zu verstehen und ihn bei der Lösung seiner Probleme zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Zusammenfassung und Spiegeln, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Zusammenfassung und Spiegeln ermöglichen es dem Berater, die Ergebnisse der Beratung zu reflektieren und den Ratsuchenden bei der Umsetzung seiner Ziele zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Evaluation, wenn der Ratsuchende nicht motiviert ist?",
+    "output": "Evaluation ermöglicht es dem Berater, die Effektivität der Beratung zu überprüfen und die Beratung entsprechend anzupassen, um den Ratsuchenden besser zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Beratungsbeziehung, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Die Herausforderung liegt darin, die Erwartung des Ratsuchenden zu erfüllen und ihn bei der Lösung seiner Probleme zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beziehungsarbeit in der Beratung, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Beziehungsarbeit ist besonders wichtig, wenn der Ratsuchende eine bestimmte Erwartung hat, da sie es ermöglicht, eine Beziehung aufzubauen und den Ratsuchenden zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des Beraters, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Der Berater sollte den Ratsuchenden unterstützen und ihn bei der Lösung seiner Probleme helfen, ohne seine Erwartung zu enttäuschen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Fachwissen und Erfahrung, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Fachwissen und Erfahrung ermöglichen es dem Berater, den Ratsuchenden individuell zu unterstützen und ihn bei der Lösung seiner Probleme zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von aktiver Zuhören und erhellendem Nachfragen, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Aktives Zuhören und erhellendes Nachfragen ermöglichen es dem Berater, die Bedürfnisse und Interessen des Ratsuchenden zu verstehen und ihn bei der Lösung seiner Probleme zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Zusammenfassung und Spiegeln, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Zusammenfassung und Spiegeln ermöglichen es dem Berater, die Ergebnisse der Beratung zu reflektieren und den Ratsuchenden bei der Umsetzung seiner Ziele zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Evaluation, wenn der Ratsuchende eine bestimmte Erwartung hat?",
+    "output": "Evaluation ermöglicht es dem Berater, die Effektivität der Beratung zu überprüfen und die Beratung entsprechend anzupassen, um den Ratsuchenden besser zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Herausforderung in der Beratungsbeziehung, wenn der Ratsuchende eine bestimmte Haltung hat?",
+    "output": "Die Herausforderung liegt darin, die Haltung des Ratsuchenden zu berücksichtigen und ihn bei der Lösung seiner Probleme zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beziehungsarbeit in der Beratung, wenn der Ratsuchende eine bestimmte Haltung hat?",
+    "output": "Beziehungsarbeit ist besonders wichtig, wenn der Ratsuchende eine bestimmte Haltung hat, da sie es ermöglicht, eine Beziehung aufzubauen und den Ratsuchenden zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle des Beraters, wenn der Ratsuchende eine bestimmte Haltung hat?",
+    "output": "Der Berater sollte den Ratsuchenden unterstützen und ihn bei der Lösung seiner Probleme helfen, ohne seine Haltung zu verändern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Fachwissen und Erfahrung, wenn der Ratsuchende eine bestimmte Haltung hat?",
+    "output": "Fachwissen und Erfahrung ermöglichen es dem Berater, den Ratsuchenden individuell zu unterstützen und ihn bei der Lösung seiner Probleme zu helfen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Themenklärung in der Beratung?",
+    "output": "In der Themenklärung werden die Bedürfnisse und Interessen hinter den genannten Themen und Positionen der Ratsuchenden erfasst und erspürt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wichtigsten Elemente in der Themenklärung?",
+    "output": "Die wichtigsten Elemente sind große Sorgfalt, aktives Zuhören, erhellendes Nachfragen und zusammenfassendes Spiegeln."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Mittelphase in der Beratung?",
+    "output": "Die Mittelphase ist die Phase der Problemerhellung und Entfaltungswünsche klären."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Schlussphase in der Beratung?",
+    "output": "Die Schlussphase ist die Phase, in der der Ratsuchende die Überzeugung mit der Beraterin und dem Berater teilt, dass sein Anliegen ausführlich und sorgfältig umfassend betrachtet wurde."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Abschlussphase in der Beratung?",
+    "output": "Die Abschlussphase ist die Phase der Entscheidungsfindung, der Maßnahmensicherung und der Vereinbarung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Beraterin bzw. des Beraters in der Abschlussphase?",
+    "output": "Die Beraterin bzw. der Berater begleitet den Ratsuchenden in der abschließenden Entscheidungsfindung und unterstützt bei der Vereinbarung von Maßnahmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Abschied in der Beratung zu gestalten?",
+    "output": "Der Abschied ist wichtig, um den Ratsuchenden auf das Loslassen der Beratungsbeziehung einzustimmen und um die Prozessverantwortung der Beraterin bzw. des Beraters abzuschließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Beratungsräumen?",
+    "output": "Beratungsräume haben einen Einfluss auf die Beratungsatmosphäre und können die Gesprächssituation beeinflussen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die wichtigsten Aspekte bei der Gestaltung von Beratungsräumen?",
+    "output": "Die wichtigsten Aspekte sind die geografische Lage, Erreichbarkeit, Eingangsbereich, Beschilderung, Raumgröße, Möblierung, Sitzgelegenheit und Ausstattung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Zielgruppe bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Zielgruppe sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum den Bedürfnissen der Ratsuchenden entspricht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile einer variablen Sitzordnung in Beratungsräumen?",
+    "output": "Eine variable Sitzordnung ermöglicht es, diverse Kommunikationssettings schnell und unkompliziert bereitzustellen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, eine separate Ecke in Beratungsräumen zu schaffen?",
+    "output": "Eine separate Ecke kann helfen, die Allzweck-Atmosphäre zu brechen und eine ruhige und konzentrierte Arbeitsatmosphäre zu schaffen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von technischer Ausstattung in Beratungsräumen?",
+    "output": "Eine technische Ausstattung wie Internetzugang, Druck- und Kopiermöglichkeiten ist wichtig, um die Informationsrecherche und die Kommunikation zu unterstützen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Raumstruktur in Beratungsräumen zu berücksichtigen?",
+    "output": "Die Raumstruktur sollte so angelegt sein, dass Vertrauliches besprochen werden kann und ein geschützter Rahmen besteht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von Flipcharts und Pinnwänden in Beratungsräumen?",
+    "output": "Flipcharts und Pinnwände können helfen, Fragen, Ziele und Ergebnisse zu visualisieren und zu strukturieren."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die institutionelle Einbindung von Beratungsstellen zu berücksichtigen?",
+    "output": "Die institutionelle Einbindung kann die Akzeptanz und die Zuschreibung der Professionalität der Beratung beeinflussen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, Forschungen zu Räumlichkeiten und ihrer Gestaltung im Beratungskontext durchzuführen?",
+    "output": "Forschungen können helfen, die Besonderheiten und Anforderungen der Bildungsberatung detaillierter und differenzierter herauszuarbeiten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von Interviews und Gesprächen bei der Gestaltung von Beratungsräumen?",
+    "output": "Interviews und Gespräche können helfen, die Bedürfnisse und Erwartungen der Ratsuchenden und der Beraterinnen und Berater besser zu verstehen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Erwartungshaltung der Ratsuchenden bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Erwartungshaltung der Ratsuchenden sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum den Bedürfnissen und Erwartungen entspricht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer soliden Einrichtung mit Niveau bei der Gestaltung von Beratungsräumen?",
+    "output": "Eine solide Einrichtung mit Niveau kann helfen, eine professionelle Beratungssituation zu erzeugen und die Akzeptanz der Beratung zu erhöhen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Zuschreibung der Professionalität der Beratung bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Zuschreibung der Professionalität der Beratung sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Professionalität der Beratung widerspiegelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Einfluss von Raum und Räumlichkeit auf Bildungsprozesse zu berücksichtigen?",
+    "output": "Der Einfluss von Raum und Räumlichkeit auf Bildungsprozesse sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Bildungsprozesse unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer flexiblen Sitzanordnung in Beratungsräumen?",
+    "output": "Eine flexible Sitzanordnung kann helfen, diverse Kommunikationssettings schnell und unkompliziert bereitzustellen und die Bedürfnisse der Ratsuchenden und der Beraterinnen und Berater zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Positionierung im Raum bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Positionierung im Raum sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Bedürfnisse der Ratsuchenden und der Beraterinnen und Berater erfüllt und eine angenehme Atmosphäre schafft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Abschied in der Beratung zu gestalten?",
+    "output": "Der Abschied ist wichtig, um den Ratsuchenden auf das Loslassen der Beratungsbeziehung einzustimmen und um die Prozessverantwortung der Beraterin bzw. des Beraters abzuschließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer freundlichen und einladenden Atmosphäre in Beratungsräumen?",
+    "output": "Eine freundliche und einladende Atmosphäre kann helfen, die Ratsuchenden zu entspannen und die Kommunikation zwischen den Ratsuchenden und den Beraterinnen und Beratern zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Bedürfnisse der Ratsuchenden bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Bedürfnisse der Ratsuchenden sollten bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum den Bedürfnissen und Erwartungen der Ratsuchenden entspricht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von einer professionellen Beratungssituation?",
+    "output": "Eine professionelle Beratungssituation ist wichtig, um die Akzeptanz der Beratung zu erhöhen und die Bedürfnisse der Ratsuchenden zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Zuschreibung der Professionalität der Beratung bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Zuschreibung der Professionalität der Beratung sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Professionalität der Beratung widerspiegelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer soliden Einrichtung mit Niveau bei der Gestaltung von Beratungsräumen?",
+    "output": "Eine solide Einrichtung mit Niveau kann helfen, eine professionelle Beratungssituation zu erzeugen und die Akzeptanz der Beratung zu erhöhen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Einfluss von Raum und Räumlichkeit auf Bildungsprozesse zu berücksichtigen?",
+    "output": "Der Einfluss von Raum und Räumlichkeit auf Bildungsprozesse sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Bildungsprozesse unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von einer flexiblen Sitzanordnung in Beratungsräumen?",
+    "output": "Eine flexible Sitzanordnung kann helfen, diverse Kommunikationssettings schnell und unkompliziert bereitzustellen und die Bedürfnisse der Ratsuchenden und der Beraterinnen und Berater zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Positionierung im Raum bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Positionierung im Raum sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Bedürfnisse der Ratsuchenden und der Beraterinnen und Berater erfüllt und eine angenehme Atmosphäre schafft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Abschied in der Beratung zu gestalten?",
+    "output": "Der Abschied ist wichtig, um den Ratsuchenden auf das Loslassen der Beratungsbeziehung einzustimmen und um die Prozessverantwortung der Beraterin bzw. des Beraters abzuschließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer freundlichen und einladenden Atmosphäre in Beratungsräumen?",
+    "output": "Eine freundliche und einladende Atmosphäre kann helfen, die Ratsuchenden zu entspannen und die Kommunikation zwischen den Ratsuchenden und den Beraterinnen und Beratern zu fördern."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Bedürfnisse der Ratsuchenden bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Bedürfnisse der Ratsuchenden sollten bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum den Bedürfnissen und Erwartungen der Ratsuchenden entspricht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von einer professionellen Beratungssituation?",
+    "output": "Eine professionelle Beratungssituation ist wichtig, um die Akzeptanz der Beratung zu erhöhen und die Bedürfnisse der Ratsuchenden zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Zuschreibung der Professionalität der Beratung bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Zuschreibung der Professionalität der Beratung sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Professionalität der Beratung widerspiegelt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer soliden Einrichtung mit Niveau bei der Gestaltung von Beratungsräumen?",
+    "output": "Eine solide Einrichtung mit Niveau kann helfen, eine professionelle Beratungssituation zu erzeugen und die Akzeptanz der Beratung zu erhöhen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Einfluss von Raum und Räumlichkeit auf Bildungsprozesse zu berücksichtigen?",
+    "output": "Der Einfluss von Raum und Räumlichkeit auf Bildungsprozesse sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Bildungsprozesse unterstützt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung von einer flexiblen Sitzanordnung in Beratungsräumen?",
+    "output": "Eine flexible Sitzanordnung kann helfen, diverse Kommunikationssettings schnell und unkompliziert bereitzustellen und die Bedürfnisse der Ratsuchenden und der Beraterinnen und Berater zu erfüllen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, die Positionierung im Raum bei der Gestaltung von Beratungsräumen zu berücksichtigen?",
+    "output": "Die Positionierung im Raum sollte bei der Gestaltung von Beratungsräumen berücksichtigt werden, um sicherzustellen, dass der Raum die Bedürfnisse der Ratsuchenden und der Beraterinnen und Berater erfüllt und eine angenehme Atmosphäre schafft."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist es wichtig, den Abschied in der Beratung zu gestalten?",
+    "output": "Der Abschied ist wichtig, um den Ratsuchenden auf das Loslassen der Beratungsbeziehung einzustimmen und um die Prozessverantwortung der Beraterin bzw. des Beraters abzuschließen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Vorteile von einer freundlichen und einladenden Atmosphäre in Beratungsräumen?",
+    "output": "Eine freundliche und einladende Atmosphäre kann helfen, die Ratsuchenden zu entspannen und die Kommunikation zwischen den Ratsuchenden und den Beraterinnen und Beratern zu fördern."
+  }
+]

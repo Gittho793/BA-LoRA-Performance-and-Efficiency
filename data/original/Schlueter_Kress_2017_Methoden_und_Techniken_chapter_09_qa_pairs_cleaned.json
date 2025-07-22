@@ -1,0 +1,777 @@
+[
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does '6 Übergänge gestalien' translate to in English?",
+    "output": "6 Transitions Shaping."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the general topic of '6 Übergänge gestalten – Besondere Beratungssituationen'?",
+    "output": "Special counseling situations and transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How many transitions are mentioned in the topic?",
+    "output": "6."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What does 'Besondere Beratungssituationen' mean in English?",
+    "output": "Special counseling situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the topic related to counseling?",
+    "output": "Yes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What aspect of counseling does the topic seem to focus on?",
+    "output": "Transitions and special situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why are transitions important in counseling?",
+    "output": "They are crucial for the client's progress and adaptation to new situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions be challenging?",
+    "output": "Yes, they can be challenging for both the counselor and the client."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of a counselor in transitions?",
+    "output": "To guide and support the client through the transition process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are special counseling situations common?",
+    "output": "They can occur and require specific approaches and understanding."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors prepare for special counseling situations?",
+    "output": "Through training, experience, and continuous education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is every counseling situation unique?",
+    "output": "Yes, each situation has its unique characteristics and challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is flexibility important in counseling?",
+    "output": "To adapt to the unique needs and situations of each client."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions lead to personal growth?",
+    "output": "Yes, they can be opportunities for significant personal growth and development."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the goal of counseling in special situations?",
+    "output": "To provide support and help the client navigate through challenging situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is trust important in the counselor-client relationship, especially in transitions?",
+    "output": "Yes, trust is foundational for effective counseling."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do cultural factors influence counseling transitions?",
+    "output": "They can significantly impact the approach and understanding of transitions and special situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Are there different types of transitions in counseling?",
+    "output": "Yes, such as life transitions, therapeutic transitions, and situational transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can technology play a role in counseling transitions?",
+    "output": "Yes, it can provide new avenues for support and connection during transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Why is self-care important for counselors dealing with special situations?",
+    "output": "To prevent burnout and maintain their ability to provide effective support."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors evaluate the effectiveness of their support during transitions?",
+    "output": "Through feedback, outcomes, and continuous assessment."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is confidentiality crucial in special counseling situations?",
+    "output": "Yes, it is essential for building trust and ensuring the client feels safe."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve working with other professionals?",
+    "output": "Yes, interdisciplinary collaboration is often necessary."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does empathy play in counseling transitions?",
+    "output": "It is vital for understanding and connecting with the client's feelings and experiences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors stay updated on best practices for special situations?",
+    "output": "Through ongoing education, workshops, and professional networking."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is every counseling transition a significant life event?",
+    "output": "While not every transition is a major life event, they can all have a significant impact on the client."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions be preventive?",
+    "output": "Yes, they can help clients prepare for and prevent future challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of follow-up in counseling transitions?",
+    "output": "To ensure the client's continued support and progress after the transition."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does the concept of resilience apply to counseling transitions?",
+    "output": "It is about helping clients develop the ability to cope with and recover from challenging situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve crisis intervention?",
+    "output": "Yes, counselors must be prepared to handle crisis situations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What skills are necessary for effective counseling in special situations?",
+    "output": "Active listening, empathy, problem-solving, and communication skills."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the counselor's personal experience relevant in special counseling situations?",
+    "output": "While personal experience can provide insight, professional training and ethics are paramount."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do societal factors influence the approach to counseling transitions?",
+    "output": "They can impact the availability of resources, cultural perceptions, and the client's support system."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions involve family or group therapy?",
+    "output": "Yes, depending on the situation, involving family or groups can be beneficial."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of assessment in counseling transitions?",
+    "output": "To understand the client's needs, strengths, and challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is counseling in special situations short-term or long-term?",
+    "output": "It can be either, depending on the client's needs and the nature of the transition."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does counseling support personal development during transitions?",
+    "output": "By helping clients set and achieve goals, develop coping strategies, and enhance their self-awareness."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations be related to mental health issues?",
+    "output": "Yes, transitions can exacerbate or trigger mental health challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of a supportive environment in counseling transitions?",
+    "output": "It provides a safe space for clients to express themselves and work through challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors handle resistance to change in counseling transitions?",
+    "output": "By understanding the reasons behind the resistance and working collaboratively with the client."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is self-reflection a part of the counseling process in transitions?",
+    "output": "Yes, it helps clients understand their feelings, thoughts, and behaviors."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions involve setting boundaries?",
+    "output": "Yes, establishing healthy boundaries is a crucial aspect of many transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does forgiveness play in counseling transitions?",
+    "output": "It can be an important process for healing and moving forward."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors approach counseling transitions with clients from diverse backgrounds?",
+    "output": "With cultural sensitivity, awareness, and an understanding of the client's unique experiences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is the goal of counseling in transitions always to achieve a specific outcome?",
+    "output": "No, sometimes the goal is to support the client through a process or to enhance their well-being."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions be a transformative experience?",
+    "output": "Yes, they can lead to significant personal growth and change."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the counselor's role in facilitating client autonomy during transitions?",
+    "output": "To empower clients to make their own decisions and take control of their lives."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How does technology impact the accessibility of counseling services during transitions?",
+    "output": "It can increase access to services, especially for those in remote or underserved areas."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve working with children or adolescents?",
+    "output": "Yes, and it requires specialized training and approaches."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What are some common challenges faced by counselors in special situations?",
+    "output": "Burnout, ethical dilemmas, and the need for continuous education."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors prioritize their own well-being when dealing with challenging transitions?",
+    "output": "Through self-care practices, peer support, and seeking supervision."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is there a universal approach to counseling transitions?",
+    "output": "No, each situation requires a tailored approach based on the client's unique needs."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions involve community resources?",
+    "output": "Yes, connecting clients with community resources can be a crucial part of the support process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of hope in counseling transitions?",
+    "output": "It is vital for motivating clients and helping them envision a positive future."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors measure the success of counseling transitions?",
+    "output": "Through client feedback, observed changes, and the achievement of client goals."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is counseling in special situations a specialized field?",
+    "output": "Yes, it requires specific training, experience, and skills."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations be related to social issues?",
+    "output": "Yes, such as discrimination, poverty, or social injustice."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does advocacy play in counseling transitions?",
+    "output": "Counselors may advocate for clients' rights and needs within the community or larger systems."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors stay current with research and best practices in counseling transitions?",
+    "output": "Through attending conferences, reading professional literature, and participating in workshops."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is there a difference between counseling for transitions and other types of counseling?",
+    "output": "Yes, while there are similarities, counseling for transitions often requires a unique approach."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions lead to improved relationships?",
+    "output": "Yes, by helping clients develop healthier communication and interpersonal skills."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the role of mindfulness in counseling transitions?",
+    "output": "It can help clients stay present and focused during challenging times."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors handle ethical dilemmas in special counseling situations?",
+    "output": "By consulting ethical guidelines, seeking supervision, and prioritizing the client's well-being."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is counseling in transitions a team effort?",
+    "output": "It can involve collaboration with other professionals, such as psychologists, social workers, or medical professionals."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve legal issues?",
+    "output": "Yes, and counselors must be aware of legal requirements and limitations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of cultural competence in counseling transitions?",
+    "output": "It is crucial for understanding and respecting the client's cultural background and its impact on their experiences."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors support clients in navigating complex systems during transitions?",
+    "output": "By providing information, making referrals, and advocating for the client's needs."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is there a role for spirituality in counseling transitions?",
+    "output": "Yes, for some clients, spirituality can be a source of comfort, strength, and meaning."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions be a catalyst for social change?",
+    "output": "Yes, by empowering clients and promoting awareness and action on social issues."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the future of counseling in transitions?",
+    "output": "It is likely to involve more integration of technology, increased focus on prevention, and greater emphasis on cultural and social factors."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors balance the need for client autonomy with the need for guidance during transitions?",
+    "output": "By empowering clients to make their own decisions while offering support and guidance as needed."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve working with clients who have disabilities?",
+    "output": "Yes, and it requires sensitivity, understanding, and sometimes specialized knowledge."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does resilience play in the counseling process during transitions?",
+    "output": "It is about helping clients develop the capacity to recover from difficulties and adapt to challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors evaluate the impact of counseling transitions on clients' lives?",
+    "output": "Through ongoing assessment, feedback, and observation of changes in the client's well-being and behaviors."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is counseling in transitions focused solely on the individual?",
+    "output": "No, it can also involve working with families, groups, or communities to support the client's transition."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions lead to increased self-awareness?",
+    "output": "Yes, by helping clients understand their thoughts, feelings, and behaviors better."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the counselor's role in helping clients manage stress during transitions?",
+    "output": "To teach stress management techniques, provide support, and help clients develop coping strategies."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors ensure that counseling transitions are accessible to all who need them?",
+    "output": "By providing services in a variety of settings, using technology, and being mindful of cultural and socioeconomic barriers."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve end-of-life issues?",
+    "output": "Yes, and counselors must be prepared to address these sensitive topics with compassion and professionalism."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of grief counseling in transitions?",
+    "output": "It helps clients process their emotions and adapt to loss."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors support clients in finding meaning and purpose during transitions?",
+    "output": "By exploring their values, goals, and aspirations, and helping them connect with activities and relationships that bring fulfillment."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is counseling in transitions a form of crisis intervention?",
+    "output": "While it can involve crisis intervention, it is more broadly focused on supporting clients through significant life changes."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions involve the use of creative therapies?",
+    "output": "Yes, such as art, music, or drama therapy, which can provide unique avenues for expression and healing."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does the community play in supporting counseling transitions?",
+    "output": "It can provide resources, support networks, and a sense of belonging, all of which are crucial for successful transitions."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors help clients develop a growth mindset during transitions?",
+    "output": "By encouraging them to view challenges as opportunities for growth and learning."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve historical trauma?",
+    "output": "Yes, and counselors must be aware of the impact of historical trauma on individuals and communities."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of self-compassion in counseling transitions?",
+    "output": "It helps clients treat themselves with kindness, understanding, and patience during challenging times."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors approach counseling transitions with clients who are experiencing homelessness?",
+    "output": "With sensitivity, flexibility, and a focus on meeting their basic needs while also addressing their mental health and transition goals."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions be influenced by policy and legislative changes?",
+    "output": "Yes, changes in policy and law can impact the availability and nature of counseling services."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does advocacy play in ensuring access to counseling transitions for underserved populations?",
+    "output": "It is crucial for raising awareness, pushing for policy changes, and securing resources to support these populations."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors stay updated on the latest research and practices in counseling transitions?",
+    "output": "Through ongoing education, professional development, and engagement with the scientific community."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is there a universal model for counseling transitions?",
+    "output": "No, effective counseling transitions are tailored to the individual's or group's specific needs and circumstances."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions involve the use of technology for remote counseling?",
+    "output": "Yes, technology can increase access to counseling services, especially for those in remote areas or with mobility issues."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of building a therapeutic relationship in counseling transitions?",
+    "output": "It is foundational for trust, effective communication, and the success of the counseling process."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors handle the emotional demands of working with clients in special counseling situations?",
+    "output": "Through self-care, supervision, and peer support to manage their emotional well-being."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can counseling transitions lead to positive outcomes for both the individual and society?",
+    "output": "Yes, by promoting personal growth, improving mental health, and enhancing community well-being."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What role does prevention play in counseling transitions?",
+    "output": "It is about empowering clients with the skills and knowledge to anticipate and prepare for future challenges."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "How do counselors evaluate the effectiveness of their interventions in counseling transitions?",
+    "output": "Through continuous assessment, client feedback, and outcomes measurement."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Is counseling in transitions a collaborative process?",
+    "output": "Yes, it often involves working with the client, their support network, and other professionals."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Can special counseling situations involve working with clients who are dealing with substance abuse issues?",
+    "output": "Yes, and it requires a comprehensive approach that addresses both the transition and the substance abuse."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "What is the importance of aftercare in counseling transitions?",
+    "output": "It provides ongoing support to help clients maintain their progress and continue growing after the transition."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Aktualisierungstendenz?",
+    "output": "Die Neigung einer Person zur Differenzierung seiner Selbst und seiner Funktionen, die Erweiterung im Sinne von Wachstum und die Steigerung der Effektivität."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Warum ist die Beziehung zwischen Berater und Ratsuchendem wichtig?",
+    "output": "Die Beziehung bestimmt die Qualität der Kommunikation und die Wirksamkeit der Beratung."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die distanzierte Nähe?",
+    "output": "Eine Haltung, bei der der Berater nah an den Prozessen des Ratsuchenden bleibt, ohne dabei für Eigenes blind zu werden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann die Beziehung zwischen Berater und Ratsuchendem gefördert werden?",
+    "output": "Durch eine offene und empathische Kommunikation, die den Ratsuchenden als Experten für sein eigenes Anliegen ernst nimmt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was sind die Grenzen des Einsatzes von Methoden in der Beratung?",
+    "output": "Die Grenzen sind erreicht, wenn die Beziehung zwischen Ratsuchendem und Beratendem nicht konstruktiv genutzt werden kann, sondern von gegenseitigen Widerständen geprägt ist."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was macht ein gutes Beratungssetting aus?",
+    "output": "Ein gutes Beratungssetting ist transparent, respektvoll und anpassungsfähig an die Bedürfnisse des Ratsuchenden."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit schwierigen Beratungssituationen umgehen?",
+    "output": "Der Berater sollte seine Deutung der Situation überprüfen, die Ziele des eigenen Handelns anpassen und die Ratsuchenden als Experten für ihr eigenes Anliegen ernst nehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Selbstaktualisierung in der Beratung?",
+    "output": "Die Selbstaktualisierung ist die genuine Motivationsquelle für Veränderungsprozesse und wird durch die Beziehung zwischen Berater und Ratsuchendem gefördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit Widerständen umgehen, die sich gegen den Einsatz von Methoden aufbauen?",
+    "output": "Der Berater sollte die Widerstände ernst nehmen, die Ratsuchenden als Experten für ihr eigenes Anliegen ernst nehmen und gemeinsam Alternativen überlegen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Kongruenz in der Beratung?",
+    "output": "Die Kongruenz ist die Übereinstimmung zwischen Denken, Fühlen und Handeln und wird durch die Beziehung zwischen Berater und Ratsuchendem gefördert."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit Zeitdruck umgehen?",
+    "output": "Der Berater sollte transparent machen, welchen zeitlichen Umfang die Beratung in Anspruch nehmen kann, und die Ratsuchenden darauf achten, die Zeit einigermaßen einzuhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstfürsorge für den Berater?",
+    "output": "Die Selbstfürsorge ist wichtig, um eine gute Balance zwischen Arbeit und Freizeit zu finden und ausreichend Erholungszeiten zu haben."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit Überforderung umgehen?",
+    "output": "Der Berater sollte innere Alarmsignale nicht übergehen, sondern ganz bewusst für Erholungszeiten sorgen, auch zwischen mehreren Beratungsterminen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Biographie in der Beratung?",
+    "output": "Die Biographie kann helfen, die individuellen Muster und Erfahrungen des Ratsuchenden zu verstehen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehungsgestaltung umgehen?",
+    "output": "Der Berater sollte die Beziehungsgestaltung als einen wichtigen Teil der Beratung betrachten und sich bemühen, eine positive und konstruktive Beziehung aufzubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Reflexion in der Beratung?",
+    "output": "Die Reflexion ist wichtig, um die eigenen Deutungen und Annahmen zu überprüfen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Methode umgehen, wenn sie nicht passt?",
+    "output": "Der Berater sollte die Methode überprüfen und gegebenenfalls anpassen oder eine neue Methode wählen, die besser zum Anliegen des Ratsuchenden passt."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Empathie in der Beratung?",
+    "output": "Die Empathie ist wichtig, um den Ratsuchenden zu verstehen und eine positive Beziehung aufzubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Zeitplanung umgehen?",
+    "output": "Der Berater sollte transparent machen, welchen zeitlichen Umfang die Beratung in Anspruch nehmen kann, und die Ratsuchenden darauf achten, die Zeit einigermaßen einzuhalten."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstverantwortung in der Beratung?",
+    "output": "Die Selbstverantwortung ist wichtig, um den Ratsuchenden zu ermutigen, selbst Verantwortung für sein Leben und seine Entscheidungen zu übernehmen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Denken, Fühlen und Handeln umgehen?",
+    "output": "Der Berater sollte die Beziehung zwischen Denken, Fühlen und Handeln berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kreativität in der Beratung?",
+    "output": "Die Kreativität kann helfen, neue Lösungen und Perspektiven zu finden und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Hemmschwelle umgehen, wenn der Ratsuchende eine Methode ablehnt?",
+    "output": "Der Berater sollte die Hemmschwelle ernst nehmen und sich bemühen, die Methode entsprechend anzupassen oder eine neue Methode zu wählen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Authentizität in der Beratung?",
+    "output": "Die Authentizität ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um therapeutische Hilfe geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um therapeutische Hilfe geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Transparenz in der Beratung?",
+    "output": "Die Transparenz ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Ziele der Beratung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Ziele der Beratung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Flexibilität in der Beratung?",
+    "output": "Die Flexibilität ist wichtig, um die Beratung entsprechend anzupassen und die Ziele der Beratung zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Methode geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Methode geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kommunikation in der Beratung?",
+    "output": "Die Kommunikation ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Zeitplanung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Zeitplanung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstreflexion in der Beratung?",
+    "output": "Die Selbstreflexion ist wichtig, um die eigenen Deutungen und Annahmen zu überprüfen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Ziele der Beratung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Ziele der Beratung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Empathie in der Beratung?",
+    "output": "Die Empathie ist wichtig, um den Ratsuchenden zu verstehen und eine positive Beziehung aufzubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Methode geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Methode geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Authentizität in der Beratung?",
+    "output": "Die Authentizität ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um therapeutische Hilfe geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um therapeutische Hilfe geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Transparenz in der Beratung?",
+    "output": "Die Transparenz ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Ziele der Beratung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Ziele der Beratung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Flexibilität in der Beratung?",
+    "output": "Die Flexibilität ist wichtig, um die Beratung entsprechend anzupassen und die Ziele der Beratung zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Methode geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Methode geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kommunikation in der Beratung?",
+    "output": "Die Kommunikation ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Zeitplanung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Zeitplanung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Selbstreflexion in der Beratung?",
+    "output": "Die Selbstreflexion ist wichtig, um die eigenen Deutungen und Annahmen zu überprüfen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Ziele der Beratung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Ziele der Beratung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Empathie in der Beratung?",
+    "output": "Die Empathie ist wichtig, um den Ratsuchenden zu verstehen und eine positive Beziehung aufzubauen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Methode geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Methode geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Authentizität in der Beratung?",
+    "output": "Die Authentizität ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um therapeutische Hilfe geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um therapeutische Hilfe geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Transparenz in der Beratung?",
+    "output": "Die Transparenz ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Ziele der Beratung geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Ziele der Beratung geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Bedeutung der Flexibilität in der Beratung?",
+    "output": "Die Flexibilität ist wichtig, um die Beratung entsprechend anzupassen und die Ziele der Beratung zu erreichen."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Wie kann der Berater mit der Beziehung zwischen Berater und Ratsuchendem umgehen, wenn es um die Methode geht?",
+    "output": "Der Berater sollte die Beziehung zwischen Berater und Ratsuchendem berücksichtigen und sich bemühen, eine positive und konstruktive Beziehung aufzubauen, auch wenn es um die Methode geht."
+  },
+  {
+    "instruction": "Beantworte die folgende Frage.",
+    "input": "Was ist die Rolle der Kommunikation in der Beratung?",
+    "output": "Die Kommunikation ist wichtig, um eine positive und konstruktive Beziehung aufzubauen und die Beratung entsprechend anzupassen."
+  }
+]
