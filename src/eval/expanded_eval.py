@@ -31,7 +31,7 @@ from bert_score import score as bert_score
 from vllm import LLM, SamplingParams
 from vllm.distributed import (destroy_distributed_environment,
                               destroy_model_parallel)
-from deepeval_eval import integrate_deepeval_metrics, evaluate_with_deepeval
+from deepeval_eval import evaluate_with_deepeval
 
 
 # Set up logging
@@ -518,7 +518,6 @@ def main():
                     # Create prompt combining context and questions
                     prompt = f"Context: {gt_text[:1000]}\n\nQuestions: {questions}\n\nAnswers:"
                     prompts[original_fname] = prompt
-                    print(questions)
             else:
                 prompts = gt_texts
 

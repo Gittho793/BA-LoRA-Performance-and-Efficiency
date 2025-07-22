@@ -44,13 +44,13 @@ for subdir in top_level_subdirs:
         "--bert-model", "distilbert-base-uncased",
         "--bert-lang", "de",
         "--extracted-questions", "output/questions",
-        "--deepeval"
+        "--deepeval",
         "--use_questions"
     ]
 
     if extract_questions:
         # to ensure the llms are evaluated on the same questions
-        command.append("--extract-questions")
+        # command.append("--extract-questions")
         extract_questions = False
 
     try:
