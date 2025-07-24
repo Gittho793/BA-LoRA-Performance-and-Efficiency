@@ -1,6 +1,6 @@
 import os
-from src.util.args import (MODEL_NAME, TXT_DATA_PATH, RANK, ALPHA,
-                           TXT_OUTPUT_DIR, MAX_SEQ_LENGTH, TARGET_MODULES)
+from src.util.args import (MODEL_NAME, DATA_PATH, RANK, ALPHA,
+                           OUTPUT_DIR, MAX_SEQ_LENGTH, TARGET_MODULES)
 import torch
 from unsloth import FastLanguageModel
 from transformers.training_args import TrainingArguments
@@ -60,16 +60,6 @@ def formatting_prompts_func(examples, alpaca_prompt, eos_token):
     return {"text": texts, }
 
 
-"""eval_strategy="steps",
-eval_steps=100,
-per_device_eval_batch_size=2,
-save_strategy="steps",
-save_steps=100,
-load_best_model_at_end=True,
-metric_for_best_model="eval_loss",
-greater_is_better=False"""
-
-
 def get_train_args(per_device_train_batch_size=2,
                    gradient_accumulation_steps=4,
                    warmup_steps=10,
@@ -116,7 +106,7 @@ def get_sfttrainer(model, tokenizer, formatted_dataset, args, dataset_text_field
 
 def main():
     model, tokenizer = get_pretrained_model_and_tokenizer(
-        load_in_4bit=True, load_in_8bit=False)
+        load_in_4bit=False, load_in_8bit=True)
 
     model = get_lora_model(model)
 
@@ -126,7 +116,7 @@ def main():
 
     dataset = load_dataset(
         "json",
-        data_files=TXT_DATA_PATH + "*",  # * needed for dir to not include the glob pattern for eval script
+        data_files=DATA_PATH + "*",  # * needed for dir to not include the glob pattern for eval script
         split="train"
     )
 
@@ -180,9 +170,9 @@ def main():
     print(
         f"Peak reserved memory for training % of max memory = {lora_percentage} %.")
 
-    os.makedirs(TXT_OUTPUT_DIR, exist_ok=True)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     # Write to file
-    with open(TXT_OUTPUT_DIR + "/gpu_usage.txt", "w", encoding="utf-8") as f:
+    with open(OUTPUT_DIR + "/gpu_usage.txt", "w", encoding="utf-8") as f:
         f.write(
             f"""Peak reserved memory = {used_memory} GB.
 Peak reserved memory for training = {used_memory_for_lora} GB.
@@ -191,8 +181,8 @@ Peak reserved memory for training % of max memory = {lora_percentage} %.
 {round(trainer_stats.metrics['train_runtime']/60, 2)} minutes used for training.""")
 
     # save only adapter to save disk space save_pretrained_merged(save_method="lora") saved whole model
-    model.save_pretrained(TXT_OUTPUT_DIR)
-    tokenizer.save_pretrained(TXT_OUTPUT_DIR)
+    model.save_pretrained(OUTPUT_DIR)
+    tokenizer.save_pretrained(OUTPUT_DIR)
 
 
 if __name__ == '__main__':

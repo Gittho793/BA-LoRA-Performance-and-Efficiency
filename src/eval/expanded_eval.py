@@ -31,7 +31,7 @@ from bert_score import score as bert_score
 from vllm import LLM, SamplingParams
 from vllm.distributed import (destroy_distributed_environment,
                               destroy_model_parallel)
-from deepeval_eval import evaluate_with_deepeval
+from deepeval_gemini import evaluate_with_deepeval
 
 
 # Set up logging
@@ -454,6 +454,19 @@ def evaluate_optimized(gt_texts, pred_texts, args):
     return results
 
 
+def process_question_files(question_files, gt_texts):
+    prompts = {}
+    questions_dict = {}  # Collect all questions here
+    for fname, q_text in question_files.items():  # Rename loop var to avoid shadowing
+        original_fname = fname.replace('_questions.txt', '.txt')
+        gt_text = gt_texts.get(original_fname, "")
+        prompt = f"Context: {gt_text[:1000]}\n\nQuestions: {q_text}\n\nAnswers:"
+        prompts[original_fname] = prompt
+        questions_dict[original_fname] = q_text  # Store per-file questions string
+    return prompts, questions_dict
+
+
+
 def main():
     try:
         args = parse_args()
@@ -498,9 +511,8 @@ def main():
             FastLanguageModel.for_inference(model)
 
             if tokenizer.pad_token is None or tokenizer.pad_token_id == tokenizer.eos_token_id:
-                # Choose a pad token that does not conflict
                 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-                # Update model embeddings if you added a new token
+                # Update model embeddings because added a new token
                 model.resize_token_embeddings(len(tokenizer))
 
 
@@ -509,28 +521,27 @@ def main():
                 logger.info("Using extracted questions as prompts")
                 question_files = read_text_files(args.extracted_questions)
 
-                # Convert questions to prompts
-                prompts = {}
-                for fname, questions in question_files.items():
-                    original_fname = fname.replace('_questions.txt', '.txt')
-                    gt_text = gt_texts.get(original_fname, "")
+                prompts, questions = process_question_files(question_files, gt_texts)
 
-                    # Create prompt combining context and questions
-                    prompt = f"Context: {gt_text[:1000]}\n\nQuestions: {questions}\n\nAnswers:"
-                    prompts[original_fname] = prompt
             else:
                 prompts = gt_texts
 
             # Generate predictions
             preds = generate_predictions(model, tokenizer, prompts, args)
             save_predictions(preds, args.predictions)
+            torch.cuda.empty_cache()
         else:
             # Load existing predictions
             preds = read_text_files(args.predictions)
 
         if args.deepeval:
             logger.info("Running DeepEval evaluation...")
-            deepeval_results = evaluate_with_deepeval(gt_texts, preds, questions)
+
+            if not questions:
+                question_files = read_text_files(args.extracted_questions)
+                _, questions = process_question_files(question_files, gt_texts)
+
+            deepeval_results = evaluate_with_deepeval(gt_texts, preds, questions)  # args.question_model,
 
             print("\n=== DeepEval Results ===")
             for fname, metrics in deepeval_results.items():

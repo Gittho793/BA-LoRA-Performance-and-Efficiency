@@ -1,5 +1,6 @@
 from src.util.args import TXT_OUTPUT_DIR, TXT_GROUND_TRUTH_FILES
 import subprocess
+import signal
 import os
 import sys
 from dotenv import load_dotenv
@@ -30,19 +31,19 @@ for subdir in top_level_subdirs:
     command = [
         "python", "expanded_eval.py",
         "--model-name", subdir,
-        "--generate",
+        # "--generate",
         "--device", "cuda",
         "--ground-truth", TXT_GROUND_TRUTH_FILES,
         "--predictions", "output/predictions",
         "--max-new-tokens", "1024",
         "--temperature", "0.7",
         "--do-sample",
-        "--bleu",
-        "--bleu-type", "all",
-        "--rouge",
-        "--bert-score",
-        "--bert-model", "distilbert-base-uncased",
-        "--bert-lang", "de",
+        # "--bleu",
+        # "--bleu-type", "all",
+        # "--rouge",
+        # "--bert-score",
+        # "--bert-model", "distilbert-base-uncased",
+        # "--bert-lang", "de",
         "--extracted-questions", "output/questions",
         "--deepeval",
         "--use_questions"
@@ -54,17 +55,40 @@ for subdir in top_level_subdirs:
         extract_questions = False
 
     try:
-        result = subprocess.run(
+        process = subprocess.Popen(
             command,
-            check=True,
+            env={**os.environ, **env},
             start_new_session=True,
-            env={**env, **dict(os.environ)},
             stdout=sys.stdout,
             stderr=sys.stderr
         )
+        process.wait()
+
+        if process.returncode != 0:
+            print(f"Evaluation failed for {subdir} with return code {process.returncode}")
+            sys.exit(process.returncode)
 
         print(f"Finished evaluation for {subdir}")
-    except subprocess.CalledProcessError as e:
-        print(f"Evaluation failed for {subdir} with return code {e.returncode}")
-        print(f"Command that failed: {e.cmd}")
-        sys.exit()
+        break
+
+    except KeyboardInterrupt:
+        print("\nInterrupt received. Killing subprocess and its children...")
+
+        try:
+            # Send SIGTERM to the *process group* (kills all children too)
+            os.killpg(os.getpgid(process.pid), signal.SIGTERM)
+        except Exception as e:
+            print(f"Could not terminate subprocess group: {e}")
+
+        try:
+            process.wait(timeout=10)
+        except subprocess.TimeoutExpired:
+            print(f"Force killing subprocess group...")
+            os.killpg(os.getpgid(process.pid), signal.SIGKILL)
+
+        sys.exit(130)  # Exit with standard Ctrl+C code
+
+    except Exception as e:
+        print(f"🔥 Unexpected error while evaluating {subdir}: {e}")
+        os.killpg(os.getpgid(process.pid), signal.SIGTERM)
+        sys.exit(1)
