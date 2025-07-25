@@ -31,7 +31,7 @@ from bert_score import score as bert_score
 from vllm import LLM, SamplingParams
 from vllm.distributed import (destroy_distributed_environment,
                               destroy_model_parallel)
-from deepeval_gemini import evaluate_with_deepeval
+from src.eval.deepeval_openai import evaluate_with_deepeval
 
 
 # Set up logging
@@ -548,8 +548,9 @@ def main():
                 print(f"File: {fname}")
                 for metric, details in metrics.items():
                     print(f"  {metric}: {details['score']:.4f}, Success: {details['success']}, Reason: {details['reason']}")
+            just_model_name = os.path.basename(args.model_name)
 
-            with open(f"../../results/deepeval_results.json", 'w', encoding="utf-8") as f:
+            with open(f"../../results/deepeval_{just_model_name}_results.json", 'w', encoding="utf-8") as f:
                 json.dump(deepeval_results, f, indent=2)
 
 
