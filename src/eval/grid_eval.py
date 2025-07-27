@@ -23,8 +23,6 @@ top_level_subdirs = [
 ]
 env = {"PYTORCH_CUDA_ALLOC_CONF": "expandable_segments:True"}
 
-extract_questions = True
-
 for subdir in top_level_subdirs:
     print("Evaluating:", subdir)
 
@@ -35,24 +33,19 @@ for subdir in top_level_subdirs:
         "--device", "cuda",
         "--ground-truth", TXT_GROUND_TRUTH_FILES,
         "--predictions", "output/predictions",
-        "--max-new-tokens", "1024",
+        "--questions-json", "output/txt_questions.json",
+        "--max-new-tokens", "2048",
         "--temperature", "0.7",
         "--do-sample",
-        # "--bleu",
-        # "--bleu-type", "all",
-        # "--rouge",
-        # "--bert-score",
-        # "--bert-model", "distilbert-base-uncased",
-        # "--bert-lang", "de",
-        "--extracted-questions", "output/questions",
+        "--bleu",
+        "--bleu-type", "all",
+        "--rouge",
+        "--bert-score",
+        "--bert-model", "distilbert-base-uncased",
+        "--bert-lang", "de",
         "--deepeval",
-        "--use_questions"
-    ]
 
-    if extract_questions:
-        # to ensure the llms are evaluated on the same questions
-        # command.append("--extract-questions")
-        extract_questions = False
+    ]
 
     try:
         process = subprocess.Popen(

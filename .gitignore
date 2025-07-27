@@ -4,3 +4,4 @@ old/
 **/.vector_db/
 **/unsloth_compiled_cache/
 **/output**/
+*.log

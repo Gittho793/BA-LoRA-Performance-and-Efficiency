@@ -9,6 +9,27 @@ from deepeval.test_case.llm_test_case import LLMTestCase, LLMTestCaseParams
 from deepeval.models import GPTModel
 import os
 import signal
+import re
+
+
+def _extract_numbered_answers(raw: str) -> list[str]:
+    """
+    Convert the model’s multiline string
+       1. foo\n2. bar\n3. baz
+    into ['foo', 'bar', 'baz'].
+
+    Non-numbered lines are ignored; trailing whitespace is stripped.
+    """
+    answers = []
+    for line in raw.splitlines():
+        m = re.match(r"\s*\d+\.\s*(.*)", line)
+        if m:
+            answers.append(m.group(1).strip())
+    # Fallback: treat the whole block as one answer
+    if not answers and raw.strip():
+        answers.append(raw.strip())
+    return answers
+
 
 # ──────────────────────────────────────────────
 # 1.  Build a single Gemini judge to reuse
@@ -22,6 +43,8 @@ EVAL_MODEL = GPTModel(
 # ──────────────────────────────────────────────
 # 2.  Metric factory
 # ──────────────────────────────────────────────
+
+
 def integrate_deepeval_metrics():
     """Return a dict of DeepEval metrics that all use Gemini."""
     return {
@@ -40,7 +63,8 @@ def integrate_deepeval_metrics():
         "factual_correctness": GEval(
             name="Factual Correctness",
             criteria="Determine whether the actual output is factually correct based on the given context",
-            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.CONTEXT],
+            evaluation_params=[LLMTestCaseParams.INPUT,
+                               LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.CONTEXT],
             model=EVAL_MODEL,
         ),
     }
@@ -48,6 +72,8 @@ def integrate_deepeval_metrics():
 # ──────────────────────────────────────────────
 # 3.  Utility helpers (unchanged except imports)
 # ──────────────────────────────────────────────
+
+
 def parse_questions_string(questions_string):
     if not questions_string:
         return {}
@@ -60,59 +86,73 @@ def parse_questions_string(questions_string):
     return questions_dict
 
 
-def evaluate_with_deepeval(gt_texts, pred_texts, questions=None):
-    """Run evaluation; returns nested dict of scores."""
+def evaluate_with_deepeval(gt_texts: dict,
+                           pred_texts: dict,
+                           question_map: dict,
+                           answer_map: dict,
+                           ) -> dict:
+    """
+    Evaluate every <question, predicted-answer, expected-answer> triple
+    independently with DeepEval metrics.
+    """
     metrics = integrate_deepeval_metrics()
-    results = {}
+    all_results = {}
 
-    # graceful-interrupt handlers (retain if desired)
     def _handler(signum, frame):
         raise KeyboardInterrupt(f"Interrupted by signal {signum}")
     original_sigint = signal.signal(signal.SIGINT, _handler)
     original_sigterm = signal.signal(signal.SIGTERM, _handler)
 
-    if isinstance(questions, str):
-        questions_dict = parse_questions_string(questions)
-    elif isinstance(questions, dict) or questions is None:
-        questions_dict = questions or {}
-    else:
-        raise ValueError("questions must be str, dict or None")
-
     try:
         for fname, gt_text in gt_texts.items():
-            pred_fname = fname.replace(".txt", "_pred.txt")
-            pred_text = pred_texts.get(pred_fname, "")
-            if not pred_text:
+            preds_block = pred_texts.get(fname, [])
+            predicted_answers = [entry['predicted_answer'] for entry in preds_block]
+
+            qs = question_map.get(fname, [])
+            gold_as = answer_map.get(fname, [])
+
+            if not qs or not gold_as:
+                # nothing to score for this file
                 continue
 
-            q_list = questions_dict.get(fname, questions_dict.get("default", []))  # inputtext wrong
-            q_list = q_list.split('\n') if q_list else []
-            input_text = '\n'.join(q_list) if q_list else "Generate response based on context"
+            # Keep list lengths in sync (tolerate slight length mismatches)
+            limit = min(len(qs), len(gold_as), len(predicted_answers))
+            file_scores = []
 
-            tc = LLMTestCase(input=input_text,
-                             actual_output=pred_text,
-                             context=[gt_text],
-                             retrieval_context=[gt_text])
+            for i in range(limit):
+                tc = LLMTestCase(
+                    input=qs[i],
+                    actual_output=predicted_answers[i],
+                    expected_output=gold_as[i],
+                    context=[gt_text],
+                )
 
-            file_results = {}
-            for mname, metric in metrics.items():
-                try:
-                    metric.measure(tc)
-                    file_results[mname] = {
-                        "score": metric.score,
-                        "success": metric.success,
-                        "reason": getattr(metric, "reason", "N/A"),
-                    }
-                except Exception as e:
-                    file_results[mname] = {
-                        "score": 0.0,
-                        "success": False,
-                        "reason": f"Error: {e}",
-                    }
+                q_score = {}
+                for mname, metric in metrics.items():
+                    try:
+                        metric.measure(tc)
+                        q_score[mname] = {
+                            "score": metric.score,
+                            "success": metric.success,
+                            "reason": getattr(metric, "reason", "N/A"),
+                        }
+                    except Exception as e:
+                        q_score[mname] = {
+                            "score": 0.0,
+                            "success": False,
+                            "reason": f"Error: {e}",
+                        }
+                file_scores.append({
+                    "question": qs[i],
+                    "expected": gold_as[i],
+                    "predicted": predicted_answers[i],
+                    "metrics": q_score,
+                })
 
-            results[fname] = file_results
-            print(f"Evaluated {fname}: {len(file_results)} metrics")
-        return results
+            all_results[fname] = file_scores
+            print(f"Evaluated {fname}: {len(file_scores)} Q-A pairs")
+
+        return all_results
 
     finally:
         signal.signal(signal.SIGINT, original_sigint)

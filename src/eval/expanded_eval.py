@@ -23,12 +23,10 @@ import contextlib
 import torch
 import numpy as np
 from tqdm import tqdm
-# from transformers import AutoModelForCausalLM, AutoTokenizer
 from unsloth import FastLanguageModel
 from nltk.translate.bleu_score import sentence_bleu
 from rouge_score import rouge_scorer
 from bert_score import score as bert_score
-from vllm import LLM, SamplingParams
 from vllm.distributed import (destroy_distributed_environment,
                               destroy_model_parallel)
 from src.eval.deepeval_openai import evaluate_with_deepeval
@@ -51,32 +49,14 @@ def parse_args():
                         help='Device for inference (cpu or cuda)')
     parser.add_argument('--generate', action='store_true',
                         help='Whether to run model.generate()')
-    parser.add_argument('--use_questions', action='store_true',
-                        help='Whether to use the extracted questions')
-
-    # Question extraction arguments
-    parser.add_argument('--extract-questions', action='store_true',
-                        help='Extract questions from ground truth files')
-    parser.add_argument('--question-model', default='unsloth/Meta-Llama-3.1-8B-Instruct',
-                        help='Model for question extraction (local vLLM)')
-    parser.add_argument('--question-extraction-prompt',
-                        default="""Generate 3-5 relevant questions that can be answered based on the following text. Return only the questions, one per line, numbered 1-5.
-
-Text: {text}
-
-Questions:
-1.""",
-                        help='Prompt template for question extraction')
-    parser.add_argument('--max-questions', type=int, default=5,
-                        help='Maximum number of questions to extract per text')
 
     # File paths
     parser.add_argument('--ground-truth', required=True,
                         help='Folder of ground truth .txt files')
     parser.add_argument('--predictions', default='output/predictions',
-                        help='Folder to save or load predictions')
-    parser.add_argument('--extracted-questions', default='output/questions',
-                        help='Folder to save extracted questions')
+                        help='Directory to save or load model-specific prediction files')
+    parser.add_argument('--questions-json', required=True,
+                        help='Path to questions and expected answer json')
 
     # Generation parameters
     parser.add_argument('--max-new-tokens', type=int, default=4096,
@@ -98,10 +78,48 @@ Questions:
     parser.add_argument('--bert-lang', default='de',
                         help='Language for BERTScore')
     parser.add_argument('--deepeval', action='store_true',
-                    help='Evaluate using DeepEval metrics')
-
+                        help='Evaluate using DeepEval metrics')
 
     return parser.parse_args()
+
+
+def load_question_json(path):
+    """Load questions and answers from JSON file"""
+    with open(path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    question_map, answer_map = {}, {}
+    for item in data["questions"]:
+        source_file = item["source_file"]  # e.g., "123.txt"
+        question_map.setdefault(source_file, []).append(item["question"])
+        answer_map.setdefault(source_file, []).append(item["answer"])
+
+    return question_map, answer_map
+
+
+def build_prompts(question_map):
+    """
+    Build a structured dict mapping from filename to a dict with:
+    - intro: prompt intro text 
+    - questions: list of numbered question dicts {"number": int, "text": str}
+    - outro: prompt outro (e.g. "Antworten:")
+    """
+    prompts = {}
+    for fname, questions in question_map.items():
+        q_list = [{"number": i + 1, "text": q}
+                  for i, q in enumerate(questions)]
+        prompts[fname] = {
+            "intro": "Bitte beantworte die folgenden Fragen:",
+            "questions": q_list,
+            "outro": "Antworten:"
+        }
+
+        # print human-readable prompt
+        readable_prompt = f"\n\n{prompts[fname]['intro']}\n" + \
+                          "\n".join(f"{q['number']}. {q['text']}" for q in q_list) + \
+                          f"\n\n{prompts[fname]['outro']}"
+
+    return prompts
 
 
 def read_text_files(folder):
@@ -114,12 +132,20 @@ def read_text_files(folder):
     return texts
 
 
-def save_predictions(preds, out_folder):
-    """Save predictions to files"""
-    os.makedirs(out_folder, exist_ok=True)
-    for fname, text in preds.items():
-        with open(os.path.join(out_folder, fname), 'w', encoding='utf-8') as f:
-            f.write(text)
+def save_predictions(preds: dict, model_name: str, base_path: str = "output/predictions"):
+    """Save predictions from the model with model name in filename"""
+    just_model_name = os.path.basename(model_name)
+    os.makedirs(base_path, exist_ok=True)
+    pred_file = os.path.join(base_path, f"{just_model_name}_predictions.json")
+    with open(pred_file, 'w', encoding='utf-8') as f:
+        json.dump(preds, f, indent=2, ensure_ascii=False)
+    return pred_file
+
+
+def read_predictions(path: str):
+    """Read predictions made by the model"""
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
 
 def save_questions(questions, out_folder):
@@ -130,57 +156,6 @@ def save_questions(questions, out_folder):
         with open(os.path.join(out_folder, question_fname), 'w', encoding='utf-8') as f:
             for i, question in enumerate(question_list, 1):
                 f.write(f"{i}. {question.strip()}\n")
-
-
-def extract_questions_with_vllm(texts, args):
-    """Extract questions from text using vLLM with simple text output"""
-    logger.info(f"Loading vLLM model: {args.question_model}")
-
-    llm = LLM(
-        model=args.question_model,
-        max_model_len=3072,
-        gpu_memory_utilization=0.6,
-        tensor_parallel_size=1
-    )
-
-    # Simple prompt - no JSON complications
-    simple_prompt = """Generiere 3-5 relevante inhaltliche Fragen, die auf der Grundlage des folgenden Textes beantwortet werden können.
-Gebe nur die Fragen zurück, eine pro Zeile, nummeriert von 1-5. Die Fragen sollten inhaltlich sein.
-
-Text: {text}
-
-Fragen:
-1."""
-
-    # Improved sampling parameters
-    sampling_params = SamplingParams(
-        temperature=0.3,  # More deterministic
-        top_p=0.9,
-        max_tokens=800,   # Increased capacity
-        stop=["\n\n", "Text:", "\n6."]  # Better stop conditions
-    )
-
-    extracted_questions = {}
-
-    for fname, text in tqdm(texts.items(), desc="Extracting questions"):
-        try:
-            prompt = simple_prompt.format(text=text[:2000])
-            outputs = llm.generate([prompt], sampling_params)
-            generated_text = "1." + outputs[0].outputs[0].text
-
-            # Direct text parsing - no JSON issues
-            questions = parse_questions_from_text(
-                generated_text, args.max_questions)
-
-            extracted_questions[fname] = questions
-            logger.info(f"Extracted {len(questions)} questions from {fname}")
-
-        except Exception as e:
-            logger.error(f"Error extracting questions from {fname}: {str(e)}")
-            extracted_questions[fname] = []
-    del llm
-    cleanup()
-    return extracted_questions
 
 
 def cleanup():
@@ -223,40 +198,47 @@ def parse_questions_from_text(text, max_questions):
 def generate_predictions(model, tokenizer, inputs, args):
     """Generate predictions using the model"""
     preds = {}
-    for fname, prompt in tqdm(inputs.items(), desc="Generating predictions"):
-        try:
-            """input_ids = tokenizer(
-                prompt, return_tensors='pt', truncation=True, max_length=2048, return_attention_mask=True
-            ).input_ids.to(args.device)"""
-            encoding = tokenizer(
-                prompt,
-                return_tensors='pt',
-                truncation=True,
-                max_length=2048,
-                padding='longest',
-                return_attention_mask=True,
-            )
-            input_ids = encoding.input_ids.to(args.device)
-            attention_mask = encoding.attention_mask.to(args.device)
+    for fname, q_list in tqdm(inputs.items()):
+        preds[fname] = []
+        for q in q_list['questions']:
+            prompt_text = f"Bitte beantworte die folgende Frage:\n{q['number']}. {q['text']}\nAntwort:"
 
-            with torch.no_grad():
-                out = model.generate(
-                    input_ids,
-                    attention_mask = attention_mask,
-                    max_new_tokens=args.max_new_tokens,
-                    do_sample=args.do_sample,
-                    temperature=args.temperature,
-                    pad_token_id=tokenizer.eos_token_id
+            try:
+                encoding = tokenizer(
+                    prompt_text,
+                    return_tensors="pt",
+                    truncation=True,
+                    max_length=args.max_new_tokens,
+                    padding="longest",
+                    return_attention_mask=True,
                 )
+                input_ids = encoding.input_ids.to(args.device)
+                attention_mask = encoding.attention_mask.to(args.device)
 
-            # Only decode the newly generated tokens
-            new_tokens = out[0][len(input_ids[0]):]
-            text = tokenizer.decode(new_tokens, skip_special_tokens=True)
-            preds[fname.replace('.txt', '_pred.txt')] = text
+                with torch.no_grad():
+                    out = model.generate(
+                        input_ids,
+                        attention_mask=attention_mask,
+                        max_new_tokens=args.max_new_tokens,
+                        do_sample=args.do_sample,
+                        temperature=args.temperature,
+                        pad_token_id=tokenizer.eos_token_id,
+                    )
 
-        except Exception as e:
-            logger.error(f"Error generating prediction for {fname}: {str(e)}")
-            preds[fname.replace('.txt', '_pred.txt')] = ""
+                new_tokens = out[0][len(input_ids[0]):]
+                pred_text = tokenizer.decode(
+                    new_tokens, skip_special_tokens=True)
+
+            except Exception as e:
+                logger.error(
+                    f"Error generating prediction for question in {fname}: {str(e)}")
+                pred_text = ""
+
+            # Append dictionary with question, predicted answer
+            preds[fname].append({
+                "question": q['text'],  # just question text, without numbers/prefix
+                "predicted_answer": pred_text,
+            })
 
     return preds
 
@@ -354,7 +336,8 @@ def evaluate_optimized(gt_texts, pred_texts, args):
 
     # Set memory fraction to prevent over-allocation
     if torch.cuda.is_available():
-        torch.cuda.set_per_process_memory_fraction(0.7)  # Use 70% of GPU memory max
+        torch.cuda.set_per_process_memory_fraction(
+            0.8)  # Use 80% of GPU memory max
 
     rouge_inst = rouge_scorer.RougeScorer(
         ['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
@@ -369,7 +352,7 @@ def evaluate_optimized(gt_texts, pred_texts, args):
     results = {}
 
     # Process in smaller chunks to manage memory
-    chunk_size = 2  # Process 5 files at a time
+    chunk_size = 2  # Process 2 files at a time
     file_items = list(gt_texts.items())
 
     for chunk_start in range(0, len(file_items), chunk_size):
@@ -381,8 +364,7 @@ def evaluate_optimized(gt_texts, pred_texts, args):
             torch.cuda.empty_cache()
 
         for fname, gt in chunk_items:
-            pred_fname = fname.replace('.txt', '_pred.txt')
-            pred = pred_texts.get(pred_fname, '')
+            pred = pred_texts.get(fname, '')
 
             res = {}
 
@@ -410,7 +392,7 @@ def evaluate_optimized(gt_texts, pred_texts, args):
                     with torch.amp.autocast("cuda", enabled=False):
                         precision, recall, f1_score = bert_score(
                             [pred], [gt],
-                            model_type=args.bert_model,  
+                            model_type=args.bert_model,
                             lang=args.bert_lang,
                             batch_size=2,  # Minimum batch size
                             rescale_with_baseline=False,
@@ -418,12 +400,13 @@ def evaluate_optimized(gt_texts, pred_texts, args):
                         )
 
                     res['bert_precision'] = precision[0].item()
-                    res['bert_recall'] = recall[0].item() 
+                    res['bert_recall'] = recall[0].item()
                     res['bert_f1'] = f1_score[0].item()
 
                 except RuntimeError as e:
                     if "out of memory" in str(e):
-                        print(f"GPU OOM for {fname}, falling back to smaller model...")
+                        print(
+                            f"GPU OOM for {fname}, falling back to smaller model...")
                         # Fallback to CPU processing
                         torch.cuda.empty_cache()
                         precision, recall, f1_score = bert_score(
@@ -462,9 +445,9 @@ def process_question_files(question_files, gt_texts):
         gt_text = gt_texts.get(original_fname, "")
         prompt = f"Context: {gt_text[:1000]}\n\nQuestions: {q_text}\n\nAnswers:"
         prompts[original_fname] = prompt
-        questions_dict[original_fname] = q_text  # Store per-file questions string
+        # Store per-file questions string
+        questions_dict[original_fname] = q_text
     return prompts, questions_dict
-
 
 
 def main():
@@ -476,29 +459,9 @@ def main():
         gt_texts = read_text_files(args.ground_truth)
         logger.info(f"Loaded {len(gt_texts)} ground truth files")
 
-        # Question extraction phase
-        if args.extract_questions:
-            logger.info("Starting question extraction...")
-            extracted_questions = extract_questions_with_vllm(gt_texts, args)
-            save_questions(extracted_questions, args.extracted_questions)
-
-            # Evaluate question quality
-            question_results = evaluate_questions(
-                extracted_questions, gt_texts, args)
-
-            # Print question extraction results
-            print("\n=== Question Extraction Results ===")
-            for fname, metrics in question_results.items():
-                print(f"File: {fname}")
-                for metric, value in metrics.items():
-                    print(f"  {metric}: {value:.4f}")
-                print()
-
-            # Save question extraction results
-            with open(f"../../results/question_extraction_results.json", 'w') as f:
-                json.dump(question_results, f, indent=2)
-
-        questions = {}
+        # Load questions and answers from JSON
+        question_map, answer_map = load_question_json(args.questions_json)
+        logger.info(f"Loaded questions for {len(question_map)} files")
 
         if args.generate:
             logger.info(f"Loading model: {args.model_name}")
@@ -515,44 +478,36 @@ def main():
                 # Update model embeddings because added a new token
                 model.resize_token_embeddings(len(tokenizer))
 
-
-            # Use extracted questions as prompts, or original texts
-            if args.use_questions and os.path.exists(args.extracted_questions):
-                logger.info("Using extracted questions as prompts")
-                question_files = read_text_files(args.extracted_questions)
-
-                prompts, questions = process_question_files(question_files, gt_texts)
-
-            else:
-                prompts = gt_texts
+            prompts = build_prompts(question_map)
 
             # Generate predictions
             preds = generate_predictions(model, tokenizer, prompts, args)
-            save_predictions(preds, args.predictions)
+            pred_file = save_predictions(
+                preds, args.model_name, args.predictions)
             torch.cuda.empty_cache()
         else:
             # Load existing predictions
-            preds = read_text_files(args.predictions)
+            just_model_name = os.path.basename(args.model_name)
+            pred_file = os.path.join(
+                args.predictions, f"{just_model_name}_predictions.json")
+            preds = read_predictions(pred_file)
 
         if args.deepeval:
             logger.info("Running DeepEval evaluation...")
 
-            if not questions:
-                question_files = read_text_files(args.extracted_questions)
-                _, questions = process_question_files(question_files, gt_texts)
-
-            deepeval_results = evaluate_with_deepeval(gt_texts, preds, questions)  # args.question_model,
+            deepeval_results = evaluate_with_deepeval(
+                gt_texts, preds, question_map, answer_map)
 
             print("\n=== DeepEval Results ===")
             for fname, metrics in deepeval_results.items():
                 print(f"File: {fname}")
                 for metric, details in metrics.items():
-                    print(f"  {metric}: {details['score']:.4f}, Success: {details['success']}, Reason: {details['reason']}")
+                    print(
+                        f"  {metric}: {details['score']:.4f}, Success: {details['success']}, Reason: {details['reason']}")
             just_model_name = os.path.basename(args.model_name)
 
             with open(f"../../results/deepeval_{just_model_name}_results.json", 'w', encoding="utf-8") as f:
                 json.dump(deepeval_results, f, indent=2)
-
 
         # Evaluate predictions
         if any([args.bleu, args.rouge, args.bert_score]):
@@ -583,7 +538,7 @@ def main():
             just_model_name = os.path.basename(args.model_name)
             os.makedirs("../../results", exist_ok=True)
             with open(f"../../results/{just_model_name}_results.json", 'w', encoding="utf-8") as f:
-                output = {"per_file": results, "aggregated": all_scores }
+                output = {"per_file": results, "aggregated": all_scores}
                 json.dump(output, f, indent=2)
 
     except Exception as e:
