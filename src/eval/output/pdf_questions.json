@@ -1,0 +1,1794 @@
+{
+  "metadata": {
+    "total_questions": 255,
+    "generated_at": "2025-07-26 11:01:42",
+    "model_used": "gpt-4.1-mini"
+  },
+  "questions": [
+    {
+      "question": "Welche Rolle spielt Organisationsberatung im pädagogischen Handlungsfeld?",
+      "answer": "Organisationsberatung wird zunehmend als Gegenstand pädagogischer Forschung und Praxis wahrgenommen und thematisiert, unter anderem in Handbüchern, Tagungsbänden und Studiengangsbeschreibungen. Sie wird als pädagogische Aufgabenstellung auf Organisationen bezogen und vielfältig ausgearbeitet.",
+      "difficulty": "easy",
+      "topic": "Organisationsberatung im pädagogischen Kontext",
+      "source_file": "9783847412304-265-314.txt"
+    },
+    {
+      "question": "Wie unterscheidet sich die Begrifflichkeit der Organisationsberatung je nach Referenzhorizont?",
+      "answer": "Die Begrifflichkeit der Organisationsberatung hängt vom jeweiligen Referenzhorizont ab: Organisationsberatung orientiert sich historisch außerhalb der Pädagogik, beispielsweise an Unternehmensberatung, nutzt aber auch pädagogisch erschlossene Beratungskonzepte. Organisationsentwicklung wird pädagogisch thematisiert, greift aber auch auf außerpädagogische Konzepte zurück. Organisationales Lernen wird teilweise pädagogisch interpretiert, häufig aber auch als geschlossenes Modell aus der Organisationswissenschaft übernommen.",
+      "difficulty": "medium",
+      "topic": "Begrifflichkeit und theoretische Grundlagen",
+      "source_file": "9783847412304-265-314.txt"
+    },
+    {
+      "question": "Inwiefern wird organisationales Lernen in der Erwachsenenpädagogik behandelt und welche Herausforderungen ergeben sich  ?",
+      "answer": "Organisationales Lernen wird in der Erwachsenenpädagogik seit längerem aufgegriffen und zunehmend mit spezifisch pädagogischen Mitteln wissenschaftlich bearbeitet. Eine Herausforderung besteht darin, dass das Moment des organisationalen Lernens nicht immer pädagogisch ausgedeutet wird, sondern oft als geschlossenes Modell aus der organisationswissenschaftlichen Standardliteratur übernommen wird, was eine pädagogische Perspektive erschweren kann.",
+      "difficulty": "hard",
+      "topic": "Organisationales Lernen und Erwachsenenpädagogik",
+      "source_file": "9783847412304-265-314.txt"
+    },
+    {
+      "question": "Welche methodischen Ansätze werden in der Organisationsberatung genutzt, um Lernen in Organisationen zu steuern?",
+      "answer": "Der Text nennt keine spezifischen methodischen Ansätze explizit, weist aber darauf hin, dass Beratung als pädagogische Aufgabenstellung vielfältig ausgearbeitet wird und Lernen ein wichtiger Bezugspunkt dabei ist. Zugleich wird erwähnt, dass Organisationsentwicklung pädagogisch thematisiert wird und außerpädagogische Konzepte einfließen, was auf eine Mischung unterschiedlicher Steuerungs- und Beratungsansätze schließen lässt.",
+      "difficulty": "medium",
+      "topic": "Methoden der Organisationsberatung",
+      "source_file": "9783847412304-265-314.txt"
+    },
+    {
+      "question": "Wie lässt sich die pädagogische Bedeutung von Beratung in organisationalen Kontexten aus dem Text zusammenfassen?",
+      "answer": "Beratung in organisationalen Kontexten wird als pädagogische Aufgabenstellung verstanden, die Organisationen in ihrer Entwicklung und im Lernen unterstützt. Sie ist ein zunehmend bedeutsames Forschungs- und Praxisfeld in der Pädagogik, das verschiedene theoretische Zugänge integriert, von außerpädagogischer Organisationsberatung bis zu pädagogisch orientiertem organisationalem Lernen. Lernen ist dabei ein wichtiger, aber nicht dominanter Bezugspunkt, was eine differenzierte und vielfältige Ausgestaltung der Beratung ermöglicht.",
+      "difficulty": "hard",
+      "topic": "Pädagogische Bedeutung von Beratung",
+      "source_file": "9783847412304-265-314.txt"
+    },
+    {
+      "question": "Wer sind die Autor:innen der Handreichung \"Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA)\" am Standort Hamburg?",
+      "answer": "Die Autor:innen sind Dr. Alina Redmer, Dietmar Kleb und Dirk Raguse.",
+      "difficulty": "easy",
+      "topic": "Autoren",
+      "source_file": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt"
+    },
+    {
+      "question": "Welche Rolle spielen die Bildungsweg-Coach:innen an den Lernorten für die studienintegrierende Ausbildung (siA) am Standort Hamburg?",
+      "answer": "Die Bildungsweg-Coach:innen an den beteiligten Lernorten tragen durch ihr engagiertes Mitwirken an der Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching wesentlich zum Gelingen der siA am Standort Hamburg bei.",
+      "difficulty": "medium",
+      "topic": "Rolle der Coach:innen",
+      "source_file": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt"
+    },
+    {
+      "question": "Wie wird die Nutzung und Weiterverbreitung des Dokuments \"Handreichung Coaching-Gespräche\" rechtlich geregelt?",
+      "answer": "Das Dokument steht unter der Creative Commons-Lizenz BY 4.0, die es erlaubt, das Werk oder dessen Inhalte zu vervielfältigen, verbreiten, öffentlich zugänglich zu machen sowie Abwandlungen und Bearbeitungen anzufertigen, solange der Name des Autors oder Rechteinhabers in der vom Urheber festgelegten Weise genannt wird.",
+      "difficulty": "medium",
+      "topic": "Lizenz und Nutzungsbedingungen",
+      "source_file": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt"
+    },
+    {
+      "question": "Analysieren Sie, warum die Zusammenarbeit verschiedener Lernorte und Partner:innen für das Bildungsweg-Coaching in der studienintegrierenden Ausbildung (siA) als besonders wichtig hervorgehoben wird.",
+      "answer": "Die Zusammenarbeit verschiedener Lernorte und Partner:innen ist zentral, weil sie durch das Zusammenwirken unterschiedlicher Perspektiven, Ressourcen und Kompetenzen die Entwicklung und Erprobung des Prototyps im Bildungsweg-Coaching ermöglicht. Dies fördert eine ganzheitliche und praxisnahe Gestaltung der siA, die sowohl die Qualität als auch die Wirksamkeit des Coaching-Prozesses erhöht.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Zusammenarbeit",
+      "source_file": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt"
+    },
+    {
+      "question": "Fassen Sie die wichtigsten Inhalte und Ziele der Handreichung \"Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA)\" am Standort Hamburg zusammen.",
+      "answer": "Die Handreichung dient als Leitfaden für Coaching-Gespräche im Rahmen der studienintegrierenden Ausbildung (siA) am Standort Hamburg. Sie unterstützt Bildungsweg-Coach:innen bei der Durchführung von Coachingprozessen, fördert die Zusammenarbeit der beteiligten Lernorte und Partner:innen und trägt zur Entwicklung und Erprobung eines Prototyps im Bildungsweg-Coaching bei. Ziel ist es, die Qualität der Ausbildung zu verbessern und die Lernenden bestmöglich zu begleiten.",
+      "difficulty": "hard",
+      "topic": "Zusammenfassung/Synthese",
+      "source_file": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt"
+    },
+    {
+      "question": "Welche zentrale Fragestellung wird in dem Beitrag von Kelkel und Peschel behandelt?",
+      "answer": "Der Beitrag untersucht den Einfluss einer zu frühen Öffnung und eines Überangebots an Transparenz auf den individuellen Lernprozess der Studierenden.",
+      "difficulty": "easy",
+      "topic": "Faktisches Verständnis",
+      "source_file": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt"
+    },
+    {
+      "question": "Wie beeinflusst ein Überangebot an Transparenz den Lernprozess der Studierenden?",
+      "answer": "Ein Überangebot an Transparenz kann den Lernprozess der Studierenden beeinträchtigen, indem es zu einer Überforderung führt und die individuelle Lernentwicklung erschwert.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelles Verständnis",
+      "source_file": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt"
+    },
+    {
+      "question": "Welche methodischen Ansätze könnten verwendet werden, um den Einfluss von zu früher Öffnung auf den Lernprozess empirisch zu untersuchen?",
+      "answer": "Man könnte qualitative Interviews mit Studierenden durchführen, Lerntagebücher auswerten oder experimentelle Designs verwenden, bei denen unterschiedliche Zeitpunkte der Öffnung mit Lernergebnissen verglichen werden.",
+      "difficulty": "hard",
+      "topic": "Anwendung von Wissen",
+      "source_file": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt"
+    },
+    {
+      "question": "Welche Vor- und Nachteile könnten aus einer zu frühen Öffnung und einem hohen Maß an Transparenz für die Hochschullehre resultieren?",
+      "answer": "Vorteile könnten eine höhere Selbstbestimmung und mehr Zugänglichkeit von Lernmaterialien sein; Nachteile sind potenzielle Überforderung der Studierenden, fehlende Struktur und Schwierigkeiten, den individuellen Lernprozess zu steuern.",
+      "difficulty": "medium",
+      "topic": "Kritische Analyse",
+      "source_file": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt"
+    },
+    {
+      "question": "Wie lassen sich die Erkenntnisse über die Öffnung und Transparenz mit den Perspektiven auf Didaktik und Forschung in innovativen Lernsettings verbinden?",
+      "answer": "Die Erkenntnisse zeigen, dass didaktische Konzepte in innovativen Lernsettings sorgfältig austariert werden müssen, um Transparenz und Öffnung so zu gestalten, dass sie Lernprozesse optimal unterstützen und nicht überfordern. Dies verdeutlicht die Notwendigkeit, Forschungsergebnisse in die praktische Gestaltung von Lernwerkstätten einzubeziehen.",
+      "difficulty": "hard",
+      "topic": "Synthese von Informationen",
+      "source_file": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt"
+    },
+    {
+      "question": "Was beschreibt der demographische Wandel in Bezug auf die Pflegebedürftigkeit in Deutschland?",
+      "answer": "Der demographische Wandel beschreibt die zunehmende Alterung der Gesellschaft, wodurch die Wahrscheinlichkeit steigt, dass Menschen mit zunehmendem Alter pflegebedürftig werden. Es besteht eine konkrete Häufigkeit zwischen Alter und Pflegebedürftigkeit, obwohl Krankheit nicht zwangsläufig mit Alter verbunden ist.",
+      "difficulty": "easy",
+      "topic": "Demographischer Wandel und Pflegebedürftigkeit",
+      "source_file": "9783866496811-148-191.txt"
+    },
+    {
+      "question": "Wie definiert das Sozialgesetzbuch XI (SGB XI) den Begriff 'Pflegebedürftigkeit' und wie erfolgt die Einteilung der Pflegestufen?",
+      "answer": "Im §14 SGB XI wird der Begriff Pflegebedürftigkeit definiert, und im §15 SGB XI erfolgt die Einteilung in drei Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Diese Definition ermöglicht eine genaue Bestimmung der zukünftigen Pflegebedürftigkeit in Deutschland.",
+      "difficulty": "medium",
+      "topic": "Definition und Einteilung der Pflegebedürftigkeit",
+      "source_file": "9783866496811-148-191.txt"
+    },
+    {
+      "question": "Welche statistischen Daten zur Pflegebedürftigkeit in Deutschland wurden im Jahr 2005 erhoben, und wie ist die Verteilung der Pflegeformen zu Hause und in Pflegeheimen?",
+      "answer": "Im Jahr 2005 gab es in Deutschland insgesamt 2,13 Millionen Pflegebedürftige. Davon wurden 68% (1,45 Millionen) zu Hause gepflegt, wobei etwa zwei Drittel von ihnen (knapp eine Million) ausschließlich Pflegegeld erhielten und somit von Angehörigen versorgt wurden. Die weiteren 472.000 zu Hause gepflegten Personen erhielten teilweise oder vollständig Pflege durch ambulante Pflegedienste. 32% (677.000) der Pflegebedürftigen wurden in Pflegeheimen versorgt.",
+      "difficulty": "medium",
+      "topic": "Statistische Daten zur Pflegebedürftigkeit 2005",
+      "source_file": "9783866496811-148-191.txt"
+    },
+    {
+      "question": "Warum wird die soziale Pflegeversicherung in Deutschland als Teilkasko-Prinzip bezeichnet, und welche Konsequenzen hat das für pflegebedürftige Personen?",
+      "answer": "Die soziale Pflegeversicherung wird als Teilkasko-Prinzip bezeichnet, weil sie nur eine Mindestsicherung bietet und somit keine vollständige Absicherung der Pflegekosten darstellt. Das bedeutet, dass pflegebedürftige Personen oft zusätzlich privat vorsorgen oder andere finanzielle Mittel aufbringen müssen, um den tatsächlichen Pflegebedarf zu decken.",
+      "difficulty": "hard",
+      "topic": "Soziale Pflegeversicherung und Teilkasko-Prinzip",
+      "source_file": "9783866496811-148-191.txt"
+    },
+    {
+      "question": "Wie kann der demographische Wandel und die statistische Entwicklung der Pflegebedürftigkeit die zukünftige Ausrichtung und Weiterentwicklung der Pflegeprofession in Deutschland beeinflussen?",
+      "answer": "Der demographische Wandel führt zu einer steigenden Anzahl pflegebedürftiger älterer Menschen, was den Bedarf an Pflegeleistungen erhöht. Die statistische Entwicklung zeigt, dass ein großer Teil der Pflege zu Hause durch Angehörige oder ambulante Dienste erfolgt. Dies erfordert eine Weiterentwicklung der Pflegeprofession, um flexibel auf die Bedürfnisse der alternden Bevölkerung reagieren zu können, ambulante und systemische Beratungsangebote zu stärken und die Pflegeversicherung an die veränderten Anforderungen anzupassen. Gleichzeitig müssen Konzepte entwickelt werden, die sowohl die finanzielle Absicherung als auch die Qualität der Pflege sicherstellen.",
+      "difficulty": "hard",
+      "topic": "Zukunft der Pflegeprofession und systemische Beratung",
+      "source_file": "9783866496811-148-191.txt"
+    },
+    {
+      "question": "Was bedeutet die Abkürzung PMI und wozu dient die PMI-Tabelle?",
+      "answer": "Die Abkürzung PMI steht für \"Plus\", \"Minus\" und \"Information\". Die PMI-Tabelle ist eine Visualisierungsvariante in Tabellenform zur Entscheidungsvorbereitung, die Vorteile (Plus), Nachteile (Minus) und offene Fragen (Information) gegenüberstellt.",
+      "difficulty": "easy",
+      "topic": "Faktische Grundinformationen",
+      "source_file": "1001586-136-139.txt"
+    },
+    {
+      "question": "Wie ist die PMI-Tabelle aufgebaut und wie wird sie bei mehreren Handlungsoptionen verwendet?",
+      "answer": "Die PMI-Tabelle besteht aus drei großen Feldern: Plus (Vorteile), Minus (Nachteile) und Information (offene Fragen). Für jede Handlungsoption wird eine eigene Tabelle angelegt, sodass mehrere Tabellen genutzt werden, wenn mehrere Optionen zur Auswahl stehen.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelle Struktur der Methode",
+      "source_file": "1001586-136-139.txt"
+    },
+    {
+      "question": "Wie kann die PMI-Tabelle im Beratungsgespräch eingesetzt werden, wenn der Ratsuchende hauptsächlich über Nachteile einer Option spricht?",
+      "answer": "Wenn der Ratsuchende vor allem über Nachteile spricht, kann die PMI-Tabelle helfen, indem im Informationsfeld offene Fragen gesammelt werden, die dann zu konkreten Handlungsschritten führen. So wird der Fokus erweitert und eine ausgewogenere Entscheidungsbasis geschaffen.",
+      "difficulty": "medium",
+      "topic": "Anwendung der Methode in der Beratung",
+      "source_file": "1001586-136-139.txt"
+    },
+    {
+      "question": "Welche kritischen Aspekte sollten bei der Nutzung der PMI-Tabelle im Beratungsgespräch beachtet werden, insbesondere im Hinblick auf die Auswahl der Handlungsoptionen?",
+      "answer": "Ein kritischer Aspekt ist, dass Ratsuchende sich oft an Optionen orientieren, die als akzeptabel von anderen gelten, was die Auswahl einschränken kann. Außerdem sollte der Berater darauf achten, dass die PMI-Tabelle nicht nur Vor- und Nachteile sichtbar macht, sondern auch offene Fragen klärt, um vorschnelle oder einseitige Entscheidungen zu vermeiden.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Methode",
+      "source_file": "1001586-136-139.txt"
+    },
+    {
+      "question": "Wie kann die PMI-Tabelle dazu beitragen, dass Ratsuchende zwischen mehreren Optionen eine fundierte Entscheidung treffen, und welche Rolle spielen dabei die drei Felder der Tabelle?",
+      "answer": "Die PMI-Tabelle unterstützt Ratsuchende, indem sie Vorteile (Plus) und Nachteile (Minus) jeder Option übersichtlich darstellt, wodurch eine klare Gegenüberstellung entsteht. Das Informationsfeld ermöglicht es, offene Fragen zu sammeln, die noch geklärt werden müssen. Zusammen helfen diese drei Felder, eine differenzierte Sicht auf jede Option zu bekommen und so eine fundierte Entscheidung zu ermöglichen.",
+      "difficulty": "hard",
+      "topic": "Synthese und Entscheidungsfindung",
+      "source_file": "1001586-136-139.txt"
+    },
+    {
+      "question": "Welche mythologische Figur wird im Text als Symbol für Fortschritt, Wissen und Zivilisation verwendet?",
+      "answer": "Im Text wird die mythologische Figur Prometheus als Symbol für Fortschritt, Wissen und Zivilisation verwendet.",
+      "difficulty": "easy",
+      "topic": "Mythologische Symbole",
+      "source_file": "9783847412304-017-032.txt"
+    },
+    {
+      "question": "Wie wird die Entwicklung der Bildungsberatungsforschung seit dem Jahr 2000 im Text beschrieben?",
+      "answer": "Die Bildungsberatungsforschung wird seit dem Jahr 2000 als eine Geschichte des erheblichen wissenschaftlichen Fortschritts beschrieben, was unter anderem durch das facettenreiche REPORT-Themenheft zu Beratung (2000) und das Handbuch von Gieseke/Nittel (2016) belegt wird.",
+      "difficulty": "medium",
+      "topic": "Entwicklung der Bildungsberatungsforschung",
+      "source_file": "9783847412304-017-032.txt"
+    },
+    {
+      "question": "Welches Modell wird im Text als heuristische Systematisierungshilfe für die Darstellung des Forschungsstandes zur Bildungsberatung genutzt und welche Perspektive liegt diesem Modell zugrunde?",
+      "answer": "Das Mehrebenenmodell von Schiersmann (2010) wird als heuristische Systematisierungshilfe genutzt. Dieses Modell basiert auf einer systemtheoretischen Perspektive auf Bildungsberatung.",
+      "difficulty": "medium",
+      "topic": "Forschungsmodelle in der Bildungsberatung",
+      "source_file": "9783847412304-017-032.txt"
+    },
+    {
+      "question": "Warum kann die Verwendung des Mehrebenenmodells von Schiersmann als Würdigung der Heidelberger Forschungsgruppe verstanden werden?",
+      "answer": "Die Verwendung des Mehrebenenmodells von Schiersmann wird als Würdigung der Heidelberger Forschungsgruppe verstanden, da diese wesentlich zu den Fortschritten bei der Beratungsthematik in der Erwachsenenbildung beigetragen hat und Schiersmann Teil dieser Forschung ist.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Forschungsentwicklung",
+      "source_file": "9783847412304-017-032.txt"
+    },
+    {
+      "question": "Wie verbindet der Text mythologische Motive mit der Diskussion über die Rolle von Bildung und Wissenschaft in der Erwachsenenbildung?",
+      "answer": "Der Text zieht hellenische Mythengestalten wie Prometheus heran, um Fragen zur Rolle von Bildung und Wissenschaft zu sondieren. Dabei wird Prometheus als Symbol für den menschlichen Fortschritt und das Streben nach Wissen verwendet, was analog auf die Entwicklung und Bedeutung der Bildungsberatung übertragen wird, um deren Fortschritte und Herausforderungen zu illustrieren.",
+      "difficulty": "hard",
+      "topic": "Synthese von Mythologie und Bildungsforschung",
+      "source_file": "9783847412304-017-032.txt"
+    },
+    {
+      "question": "Was versteht man in der Methode 'Stolpersteine' unter einem 'Stolperstein'?",
+      "answer": "In der Methode 'Stolpersteine' bezeichnet ein 'Stolperstein' Aspekte, die dem oder der Ratsuchenden bei der Problemlösung im Weg stehen.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Methode",
+      "source_file": "1001586-123-126.txt"
+    },
+    {
+      "question": "Wie wird die Methode 'Stolpersteine' visuell dargestellt und welche Materialien werden dafür verwendet?",
+      "answer": "Die Methode wird durch eine Mauer aus rechteckigen Moderationskarten dargestellt, die an eine Pinnwand oder freie Wand geheftet werden. Materialien sind Moderationskarten, Flipchartpapier, Klebeband oder Pinnnadeln.",
+      "difficulty": "medium",
+      "topic": "Materialien und Darstellung",
+      "source_file": "1001586-123-126.txt"
+    },
+    {
+      "question": "Welche Schritte umfasst der Ablauf der Beratung mit der Methode 'Stolpersteine' von der Vorbereitung bis zum Abschluss?",
+      "answer": "Zunächst werden Moderationskarten bereitgelegt und die Methode eingeleitet. Dann wird das Problem auf ein Flipchart geschrieben und die einzelnen Teilaspekte auf Karten notiert und als Mauer an eine Pinnwand geheftet. Anschließend werden Lösungsideen erarbeitet, indem einzelne 'Stolpersteine' entfernt und neu angepinnt werden, mit jeweiligen Lösungsideen. Zum Abschluss wird ein Realisierungsplan erstellt, der festlegt, welche Schritte von wem und bis wann erledigt werden sollen. Übrig gebliebene Stolpersteine, auf die kein Einfluss besteht, werden thematisiert und akzeptiert.",
+      "difficulty": "hard",
+      "topic": "Ablauf der Methode",
+      "source_file": "1001586-123-126.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, dass einige 'Stolpersteine' im Beratungsgespräch thematisiert werden, auch wenn sie nicht veränderbar sind?",
+      "answer": "Weil das Annehmen von Aspekten, die sich nicht verändern lassen, Teil von Lösungs- und Entscheidungsprozessen sein kann und es wichtig ist, diese nicht zu ignorieren, sondern zu akzeptieren.",
+      "difficulty": "medium",
+      "topic": "Kritische Reflexion",
+      "source_file": "1001586-123-126.txt"
+    },
+    {
+      "question": "Wie kann die Methode 'Stolpersteine' in mehreren Beratungssitzungen sinnvoll eingesetzt werden?",
+      "answer": "Der Realisierungsplan aus einer Sitzung kann als Grundlage für das nächste Gespräch dienen, sodass der Fortschritt überprüft und weitere Schritte geplant werden können.",
+      "difficulty": "medium",
+      "topic": "Anwendung und Transfer",
+      "source_file": "1001586-123-126.txt"
+    },
+    {
+      "question": "Warum ist Beratung eine intensive Tätigkeit im Kontakt mit Menschen?",
+      "answer": "Beratung ist intensiv, weil Beraterinnen und Berater für einen kurzen Zeitraum fremden Personen begegnen, die ihnen wichtige oder existenzielle Anliegen anvertrauen, was einen großen Vertrauensvorschuss mit sich bringt.",
+      "difficulty": "easy",
+      "topic": "Faktische Grundlagen der Beratung",
+      "source_file": "1001586-207-208.txt"
+    },
+    {
+      "question": "Welche Herausforderungen erleben Beraterinnen und Berater bei der Durchführung von Beratungen?",
+      "answer": "Beraterinnen und Berater müssen sich emotional und inhaltlich auf unterschiedliche Lebenswelten einstellen, eigene vorschnelle Bewertungen zurückstellen, mit schwierigen Rahmenbedingungen wie unpassenden Räumlichkeiten oder Zeitmangel umgehen und eine Balance zwischen Arbeit und Privatleben finden, um dauerhaft leistungsfähig zu bleiben.",
+      "difficulty": "medium",
+      "topic": "Herausforderungen in der Beratung",
+      "source_file": "1001586-207-208.txt"
+    },
+    {
+      "question": "Wie beeinflusst das Wissen um vielfältige Beratungsvoraussetzungen den Druck auf Beraterinnen und Berater?",
+      "answer": "Das zunehmende Wissen führt dazu, dass Beraterinnen und Berater kritischer auf ihre Arbeit schauen und bemerken, wenn sie bestimmte Aspekte nicht umgesetzt haben, was den Druck erhöhen kann, da sie sich selbst an hohen professionellen Standards messen.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelle Reflexion über Beratungsqualität",
+      "source_file": "1001586-207-208.txt"
+    },
+    {
+      "question": "Warum können Beraterinnen und Berater das Verhalten der Ratsuchenden nicht steuern, und welche Bedeutung hat dieser Umstand für den Beratungsprozess?",
+      "answer": "Beraterinnen und Berater sind nur ein Teil der vielfältigen Beziehungskontakte, die Ratsuchende erleben, und können ihr Verhalten daher nicht steuern. Diese Erkenntnis ist wichtig, um zu akzeptieren, dass Veränderungen bei den Ratsuchenden nicht vollständig vorhersehbar sind und Beratung nicht alleiniges Steuerungsinstrument ist.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Steuerbarkeit im Beratungsprozess",
+      "source_file": "1001586-207-208.txt"
+    },
+    {
+      "question": "Wie trägt ein gelungener Beziehungskontakt zwischen Berater und Ratsuchendem zu Veränderungsprozessen bei, und warum ist es schwierig vorherzusagen, welche Interventionen wirksam sind?",
+      "answer": "Ein gelungener Beziehungskontakt schafft Vertrauen und ermöglicht bei den Ratsuchenden neue Ideen und veränderte Sichtweisen. Allerdings ist es schwierig vorherzusagen, welche konkreten Interventionen diese Veränderungen bewirken, weil Beratung nur ein Teil des komplexen Beziehungs- und Lebensumfeldes der Ratsuchenden ist.",
+      "difficulty": "hard",
+      "topic": "Synthese von Beratungswirkungen",
+      "source_file": "1001586-207-208.txt"
+    },
+    {
+      "question": "Welche Funktion hat die Weiterbildungsberatung im Kontext von Beruflichkeit und Lebenslangem Lernen?",
+      "answer": "Die Weiterbildungsberatung hat die Funktion, Veränderungen in den Verhältnissen der Ratsuchenden zu ihrem Beruf herbeizuführen und Entscheidungen für weitergehende Bildungswege vorzubereiten.",
+      "difficulty": "easy",
+      "topic": "Funktion der Weiterbildungsberatung",
+      "source_file": "9783847412304-235-264.txt"
+    },
+    {
+      "question": "Wie wird das Verhältnis von Selbststeuerung und Nicht-Autonomie in der Weiterbildungsberatung beschrieben?",
+      "answer": "Das Verhältnis wird so beschrieben, dass einerseits eigenverantwortliches Entscheiden und Selbststeuerung erwartet werden, andererseits aber eine spezielle Nicht-Autonomie unterstellt wird, weil die Ratsuchenden Unterstützung oder Begleitung bei Entscheidungen benötigen. Dies führt zu einer Freiheit, die ständig bedroht ist und lebenslange Interventionen erfordert.",
+      "difficulty": "medium",
+      "topic": "Selbststeuerung und Nicht-Autonomie",
+      "source_file": "9783847412304-235-264.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat der Begriff der Gouvernementalität im Zusammenhang mit der Weiterbildungsberatung?",
+      "answer": "Gouvernementalität bezeichnet die Verbindung zwischen Regierung (gouvernement) und Denkweise (mentalité) und beschreibt die gegenwärtige Regierungskunst als eine Form der Machtausübung, die scheinbar paradox auf der freien Entscheidung der Individuen beruht. Im Kontext der Weiterbildungsberatung bedeutet dies, dass die Beratung als Instrument zur Auswahl und Abwägung legitimer Entscheidungen fungiert und somit eine Form gouvernementaler Selbstführung darstellt.",
+      "difficulty": "hard",
+      "topic": "Gouvernementalität",
+      "source_file": "9783847412304-235-264.txt"
+    },
+    {
+      "question": "Wie beeinflussen diskursive Ordnungen die Entscheidungsmöglichkeiten in der Weiterbildungsberatung?",
+      "answer": "Diskursive Ordnungen begrenzen die Entscheidungsmöglichkeiten innerhalb des Feldes der Weiterbildungsberatung, da Entscheidungen nur innerhalb eines entschiedenen Feldes möglich sind, das nicht endgültig entschieden ist. Diese Ordnungen werden jedoch durch das wiederkehrende Treffen von Entscheidungen aufrechterhalten.",
+      "difficulty": "medium",
+      "topic": "Diskursive Ordnungen und Entscheidungsfeld",
+      "source_file": "9783847412304-235-264.txt"
+    },
+    {
+      "question": "Warum wird die Weiterbildungsberatung als An- und Aufforderung gouvernementaler Selbstführung verstanden und welche Implikationen hat dies für die Ratsuchenden?",
+      "answer": "Die Weiterbildungsberatung wird als An- und Aufforderung gouvernementaler Selbstführung verstanden, weil sie die Ratsuchenden dazu anleitet, richtige und legitime Entscheidungen im Sinne der gesellschaftlichen Ordnung auszuwählen und abzuwägen. Dies impliziert, dass die Ratsuchenden zwar frei entscheiden sollen, diese Freiheit aber innerhalb eines Machtverhältnisses und diskursiver Rahmenbedingungen stattfindet, wodurch ihre Entscheidungen durch gesellschaftliche Normen und Erwartungen gelenkt werden.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Beratungsfunktion",
+      "source_file": "9783847412304-235-264.txt"
+    },
+    {
+      "question": "Welche zentrale Kompetenz wird in der Bildungsberatung als wichtig für die kontinuierliche Weiterentwicklung der professionellen Praxis beschrieben?",
+      "answer": "Die Selbstreflexionskompetenz wird als zentral angesehen, um die eigene professionelle Praxis kontinuierlich beobachten und weiterentwickeln zu können.",
+      "difficulty": "easy",
+      "topic": "Selbstreflexion in der Bildungsberatung",
+      "source_file": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt"
+    },
+    {
+      "question": "Wie wird der Begriff 'BildungsberaterInnen' im Kontext des Artikels verwendet und welche Rolle nehmen sie ein?",
+      "answer": "Der Begriff 'BildungsberaterInnen' bezieht sich auf Personen, die Bildungs- und Berufsberatung anbieten. Sie nehmen eine professionelle Rolle ein, in der sie durch Selbstreflexion ihre Beratungspraxis beobachten und weiterentwickeln.",
+      "difficulty": "medium",
+      "topic": "Begriff und Rolle der BildungsberaterInnen",
+      "source_file": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt"
+    },
+    {
+      "question": "Inwiefern trägt Selbstreflexion zur Professionalität von BildungsberaterInnen bei?",
+      "answer": "Selbstreflexion ermöglicht es BildungsberaterInnen, ihre Beratungspraktiken kritisch zu hinterfragen und anzupassen, was ihre Professionalität stärkt, indem sie ihre Kompetenzen und die Qualität ihrer Arbeit kontinuierlich verbessern.",
+      "difficulty": "medium",
+      "topic": "Selbstreflexion und Professionalität",
+      "source_file": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat die Creative Commons Lizenz CC BY 4.0 für die Verbreitung und Nutzung des Artikels?",
+      "answer": "Die Creative Commons Lizenz CC BY 4.0 erlaubt es, das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie Abwandlungen und Bearbeitungen anzufertigen, solange der Name des Autors in der vorgeschriebenen Weise genannt wird. Dadurch wird eine offene und flexible Nutzung des Artikels ermöglicht.",
+      "difficulty": "hard",
+      "topic": "Lizenz und Nutzung des Artikels",
+      "source_file": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt"
+    },
+    {
+      "question": "Wie kann die Fähigkeit zur Selbstreflexion von BildungsberaterInnen als Grundlage für die Weiterentwicklung der Bildungsberatungspraxis in Österreich interpretiert werden?",
+      "answer": "Die Selbstreflexionsfähigkeit ermöglicht BildungsberaterInnen, ihre Beratungsmethoden und -ansätze kritisch zu analysieren und anzupassen. Dies schafft Reflexionsräume, die zur Standortbestimmung und Perspektiventwicklung innerhalb der Bildungs- und Berufsberatung in Österreich beitragen und somit die Qualität und Professionalität der Bildungsberatung kontinuierlich verbessern.",
+      "difficulty": "hard",
+      "topic": "Bedeutung der Selbstreflexion für die Bildungsberatung in Österreich",
+      "source_file": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt"
+    },
+    {
+      "question": "Welche gesellschaftlichen Rahmenbedingungen führen zu einem wachsenden Bedarf an professioneller Beratung im Bereich Bildung, Beruf und Beschäftigung?",
+      "answer": "Die gesellschaftlichen Rahmenbedingungen, die eine hohe Individualisierung und Selbstverantwortung implizieren, führen zu einem wachsenden Bedarf an professioneller Beratung im Bereich Bildung, Beruf und Beschäftigung.",
+      "difficulty": "easy",
+      "topic": "Gesellschaftliche Rahmenbedingungen",
+      "source_file": "9783847412304-129-180.txt"
+    },
+    {
+      "question": "Wie wird professionelle Beratung im Kontext von Bildung, Beruf und Beschäftigung definiert und welche Funktionen erfüllt sie?",
+      "answer": "Professionelle Beratung ist nicht nur auf Übergänge, Sondersituationen und Krisen im Lebenslauf beschränkt, sondern richtet sich auf Potenziale und Möglichkeiten, kann präventiv angelegt sein und ist als kontinuierliches, begleitendes Angebot zu verstehen.",
+      "difficulty": "medium",
+      "topic": "Definition und Funktion der Beratung",
+      "source_file": "9783847412304-129-180.txt"
+    },
+    {
+      "question": "Welche Herausforderungen bestehen bei der Beschreibung, Dokumentation und Bewertung der Kompetenzen von Beratenden im Feld Bildung, Beruf und Beschäftigung?",
+      "answer": "Die Herausforderungen bestehen darin, die erforderlichen Kompetenzen übergreifend auf verschiedene Settings, Zielgruppen oder Beratungsansätze detailliert zu beschreiben, sie angemessen zu dokumentieren und zu bewerten, insbesondere angesichts der Komplexität des Kompetenzkonstrukts und des Mangels an standardisierten Aus- und Fortbildungswegen.",
+      "difficulty": "hard",
+      "topic": "Herausforderungen bei Kompetenzbeschreibung",
+      "source_file": "9783847412304-129-180.txt"
+    },
+    {
+      "question": "Wie werden Beratungskompetenzen im Beratungsfeld Bildung, Beruf und Beschäftigung häufig erworben und weiterentwickelt, und welche Bedeutung hat dies für die Entwicklung von Instrumenten zur Kompetenzerfassung?",
+      "answer": "Beratungskompetenzen werden häufig informell im Zuge der Beratungspraxis erworben und weiterentwickelt. Dies erschwert die standardisierte Erfassung und Bewertung der Kompetenzen, weshalb geeignete Instrumente benötigt werden, die die Kompetenzen zuverlässig und nahe am situativen Kontext erfassen und bewerten können.",
+      "difficulty": "medium",
+      "topic": "Erwerb und Erfassung von Beratungskompetenzen",
+      "source_file": "9783847412304-129-180.txt"
+    },
+    {
+      "question": "Welche Forschungslücke identifizieren die Autoren im Bereich der Erfassung von Beratungskompetenzen im Feld Bildung, Beruf und Beschäftigung und wie wollen sie dieser begegnen?",
+      "answer": "Die Autoren stellen fest, dass bislang kaum Forschungsergebnisse zur Erfassung der performanznahen Beratungskompetenz in der Praxis vorliegen. Sie gehen der Frage nach, wie diese Lücke durch geeignete Konzepte und Erprobungen von Instrumenten zur Kompetenzerfassung geschlossen werden kann.",
+      "difficulty": "hard",
+      "topic": "Forschungslücke und Zielsetzung",
+      "source_file": "9783847412304-129-180.txt"
+    },
+    {
+      "question": "Was versteht man im Kontext des Genfer Flüchtlingskonvents (GFK) von 1951 unter der Anerkennung einer Person als Flüchtling?",
+      "answer": "Eine Person wird nach der GFK von 1951 als Flüchtling anerkannt, wenn sie aufgrund bestimmter Merkmale wie Nationalität oder politischer Überzeugung verfolgt wird und ihr Herkunftsland verlassen musste. Diese Anerkennung führt zu Schutz und sozialen Rechten.",
+      "difficulty": "easy",
+      "topic": "Faktische Definition der Anerkennung nach GFK",
+      "source_file": "9783839444856-010-031.txt"
+    },
+    {
+      "question": "Wie beschreibt Benhabib die Ambivalenz von Anerkennung im Zusammenhang mit Asyl- und Flüchtlingsrechten?",
+      "answer": "Benhabib bezeichnet die Ambivalenz als die Spannung zwischen Recht und Moral, wobei Anerkennung zugleich eine moralische Verpflichtung und ein einklagbarer Anspruch sein kann. Diese Ambivalenz belastet die Debatten über Asyl- und Flüchtlingsrechte.",
+      "difficulty": "medium",
+      "topic": "Konzeptionelle Ambivalenz von Anerkennung",
+      "source_file": "9783839444856-010-031.txt"
+    },
+    {
+      "question": "Wie lässt sich der Widerspruch zwischen dem universellen Recht auf Asyl und der territorialen Souveränität der Nationalstaaten erklären?",
+      "answer": "Der Widerspruch besteht darin, dass einerseits das Asylrecht als universelles Menschenrecht anerkannt wird, andererseits Nationalstaaten ihre territoriale Souveränität wahren wollen, was zu Einschränkungen bei der Gewährung von Asyl führt.",
+      "difficulty": "medium",
+      "topic": "Widersprüche in der Anerkennung auf Ebene der Nationalstaaten",
+      "source_file": "9783839444856-010-031.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat die Verteilung von Anerkennung im Migrationskontext für die Analyse von Spannungsfeldern und Handlungsstrategien?",
+      "answer": "Die Verteilung von Anerkennung ermöglicht es, die widersprüchlichen Spannungsfelder zwischen individueller und struktureller Ebene zu rekonstruieren und die daraus entstandenen Handlungsstrategien der Akteurinnen und Akteure zu untersuchen, besonders im Kontext von Machtverhältnissen.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Verteilung von Anerkennung im Migrationskontext",
+      "source_file": "9783839444856-010-031.txt"
+    },
+    {
+      "question": "Warum kritisiert Hamburger die öffentliche und wissenschaftliche Diskussion über Integrationsprozesse und welche Ursachen für Migration betont er?",
+      "answer": "Hamburger kritisiert, dass Integrationsprozesse oft aus einer kulturellen Perspektive betrachtet werden, etwa als multikulturelle Gesellschaft, anstatt die strukturellen Bedingungen zu fokussieren. Er betont, dass die häufigsten Ursachen für Flucht Armut, politische Unterdrückung und Krieg sind, nicht kulturelle Gründe.",
+      "difficulty": "medium",
+      "topic": "Kritik an Integrationsdiskurs und Ursachen von Migration",
+      "source_file": "9783839444856-010-031.txt"
+    },
+    {
+      "question": "Was versteht man unter Beratungswissenschaft gemäß dem Text?",
+      "answer": "Beratungswissenschaft wird als multiprofessionell, interdisziplinär und als Handlungswissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert und je nach Kontext und Praxisbezug unterschiedliche Lehrgebiete kombiniert.",
+      "difficulty": "easy",
+      "topic": "Definition Beratungswissenschaft",
+      "source_file": "9783866496811-072-097.txt"
+    },
+    {
+      "question": "Wie hat sich die Akademisierung der Beratung in Deutschland entwickelt und welche Rolle spielt die Deutsche Gesellschaft für Beratung (DGfB)?",
+      "answer": "In Deutschland fand das Lernen von Beratung lange Zeit hauptsächlich in Weiterbildungsinstituten anerkannter Fachverbände statt, wobei wissenschaftliche Orientierung zweitrangig war. Seit 2004, mit dem Zusammenschluss von 30 Fachverbänden zur DGfB, wurden gemeinsame Standards für Beratung diskutiert und festgelegt. Die DGfB fördert die Vertiefung der Theoriegrundlagen und die wissenschaftliche Fundierung der Beratung im nationalen und internationalen Kontext.",
+      "difficulty": "medium",
+      "topic": "Akademisierung und DGfB",
+      "source_file": "9783866496811-072-097.txt"
+    },
+    {
+      "question": "Welche internationalen Entwicklungen beeinflussen die Beratungstheorie und -praxis  ?",
+      "answer": "International hat Beratung eine lange Tradition der fachlichen Fundierung. In England und Amerika entwickelte sich vor allem an Hochschulen das Counseling mit akademischem Abschluss. Diese Entwicklungen beeinflussen auch die Beratungstheorie in Deutschland, die sich zunehmend an internationalen akademischen Standards orientiert.",
+      "difficulty": "medium",
+      "topic": "Internationale Entwicklungen",
+      "source_file": "9783866496811-072-097.txt"
+    },
+    {
+      "question": "Welche Kritik kann man an der bisherigen Entwicklung der Beratung in Deutschland üben, insbesondere im Vergleich zu internationalen Entwicklungen?",
+      "answer": "Die Beratung in Deutschland war lange Zeit stark von Weiterbildungsinstituten und Fachverbänden geprägt, mit geringer wissenschaftlicher Fundierung. Psychosoziale Beratungsanbieter orientierten sich eher an therapieabgeleiteten Konzepten und positionierten Beratung als ‚kleine Therapie‘. Im Vergleich dazu erfolgte international, insbesondere in England und Amerika, eine frühere Akademisierung mit akademischen Abschlüssen, was auf eine stärkere wissenschaftliche Verankerung hinweist.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Entwicklung",
+      "source_file": "9783866496811-072-097.txt"
+    },
+    {
+      "question": "Wie lassen sich die verschiedenen Ansätze und Disziplinen, die in der Beratungswissenschaft zusammenkommen, zu einem ganzheitlichen Beratungskonzept verbinden?",
+      "answer": "Die Beratungswissenschaft ist als Querschnittswissenschaft zu verstehen, die verschiedene Lehrgebiete und Disziplinen kombiniert. Dieses interdisziplinäre Verständnis ermöglicht eine ganzheitliche psychosoziale Beratung, die je nach Kontext unterschiedliche wissenschaftliche Ansätze integriert, um ein umfassendes und praxisorientiertes Beratungskonzept zu entwickeln.",
+      "difficulty": "hard",
+      "topic": "Synthese und Konzeptentwicklung",
+      "source_file": "9783866496811-072-097.txt"
+    },
+    {
+      "question": "Was kennzeichnet das Beratungsfeld der Bildungsberatung besonders?",
+      "answer": "Das Beratungsfeld der Bildungsberatung ist besonders durch das Wechselspiel von Informationsangeboten und der Prozessbegleitung durch die Beraterinnen und Berater geprägt.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Bildungsberatung",
+      "source_file": "1001586-103-122.txt"
+    },
+    {
+      "question": "Warum konzentrieren sich viele Bildungsberater ohne gezielte Beratungsausbildung hauptsächlich auf die Informationsvermittlung?",
+      "answer": "Weil ohne eine dezidierte Beratungsausbildung das Fachwissen und die Kompetenzen für methodisch angeleitete Beratungsprozesse oft fehlen, liegt es nahe, sich auf den informierenden Teil der Beratung zu konzentrieren, um den Ratsuchenden zunächst Informationen zu Kursangeboten, Fördermöglichkeiten oder beruflichen Alternativen bereitzustellen.",
+      "difficulty": "medium",
+      "topic": "Ausbildung und Fokus in der Bildungsberatung",
+      "source_file": "1001586-103-122.txt"
+    },
+    {
+      "question": "Welche Rolle spielen Methodenbeschreibungen beim Erlernen von Beratungskompetenz in der Bildungsberatung?",
+      "answer": "Methodenbeschreibungen sind wichtig, weil sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Sie enthalten Entscheidungen über Materialien, Prozessschritte, geeignete Anliegen und Reflexionen über die Ratsuchenden, wodurch sie helfen, das komplexe Beratungsgeschehen handlungsorientiert und konkret zu gestalten und somit das Erlernen von Beratungskompetenz fördern.",
+      "difficulty": "medium",
+      "topic": "Methoden und Techniken in der Bildungsberatung",
+      "source_file": "1001586-103-122.txt"
+    },
+    {
+      "question": "Analysieren Sie, welche Auswirkungen die fehlende Professionalität in der Bildungsberatung auf die Beratungsqualität haben könnte.",
+      "answer": "Die fehlende Professionalität, da viele Bildungsberater autodidaktisch arbeiten und keine gezielte Beratungsausbildung haben, führt dazu, dass die Beratung häufig auf reine Informationsvermittlung beschränkt bleibt. Dies kann die Beratungsqualität negativ beeinflussen, weil tiefere Entscheidungs- und Übergangsberatung fehlt. Ratsuchende erhalten dadurch möglicherweise nicht die notwendige Unterstützung und Begleitung, die sie für eine fundierte Bildungsentscheidung benötigen.",
+      "difficulty": "hard",
+      "topic": "Professionalität und Qualität der Bildungsberatung",
+      "source_file": "1001586-103-122.txt"
+    },
+    {
+      "question": "Wie kann die Reflexion von Methodenbeschreibungen dazu beitragen, Beratungsprozesse in der Bildungsberatung zu verbessern?",
+      "answer": "Die Reflexion von Methodenbeschreibungen ermöglicht es Beraterinnen und Beratern, die im vorangegangenen Beratungsfall angewandten Prozesse kritisch zu hinterfragen und zu überlegen, wie der Einsatz anderer geeigneter Methoden den Beratungsprozess verändern oder verbessern könnte. Dadurch können sie die Beratung gezielter auf die Bedürfnisse der Ratsuchenden abstimmen und mögliche Widerstände besser erkennen und überwinden, was zu einer effektiveren und individuelleren Beratung führt.",
+      "difficulty": "hard",
+      "topic": "Methodenreflexion und Prozessverbesserung",
+      "source_file": "1001586-103-122.txt"
+    },
+    {
+      "question": "Welche zwei Hauptaspekte werden im Titel von Susanne Obermosers Beitrag 'Beraten und Diagnostizieren' betont?",
+      "answer": "Im Titel werden die Nuancen im fachlichen und pädagogischen Verständnis von Beraten und Diagnostizieren betont.",
+      "difficulty": "easy",
+      "topic": "Grundlagen des Beitrags von Susanne Obermoser",
+      "source_file": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt"
+    },
+    {
+      "question": "Wie wird in der Veröffentlichung das Verhältnis von fachlichem und pädagogischem Verständnis im Kontext von Beratung und Diagnostik dargestellt?",
+      "answer": "Das Verhältnis wird als nuanciert beschrieben, wobei fachliches Verständnis und pädagogisches Verständnis sich ergänzen und gemeinsam die Qualität von Beratung und Diagnostik prägen.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelles Verständnis von Beratung und Diagnostik",
+      "source_file": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat die Creative Commons-Lizenz BY-SA 4.0 für die Nutzung und Weitergabe des Werkes?",
+      "answer": "Die Lizenz erlaubt das Vervielfältigen, Verbreiten, öffentliche Zugänglichmachen sowie das Anfertigen von Abwandlungen und Bearbeitungen, solange der Name des Autors genannt wird und neue Werke unter identischen oder kompatiblen Lizenzbedingungen weitergegeben werden.",
+      "difficulty": "medium",
+      "topic": "Lizenz und Nutzungsbedingungen",
+      "source_file": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt"
+    },
+    {
+      "question": "Analysieren Sie, welche Rolle die Zusammenarbeit mit dem Verlag Budrich und dem Leibniz-Institut für Bildungsforschung und Bildungsinformation für die Veröffentlichung spielt.",
+      "answer": "Die Zusammenarbeit ermöglicht eine fachlich fundierte und wissenschaftlich verlässliche Veröffentlichung, unterstützt den Zugang über das Informationszentrum Bildung und gewährleistet die Verbreitung unter klaren Lizenzbedingungen, was die Sichtbarkeit und Nutzbarkeit des Werkes erhöht.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Publikationskooperation",
+      "source_file": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt"
+    },
+    {
+      "question": "Wie lässt sich aus dem Inhaltsverzeichnis die thematische Bandbreite der Ausgabe von 'Haushalt in Bildung & Forschung' ableiten und welche Bedeutung hat das für die pädagogische Praxis?",
+      "answer": "Das Inhaltsverzeichnis zeigt eine breite thematische Palette von Beratung und Diagnostik über Ernährungsbildung bis hin zu handlungsorientiertem Lernen, was die Vielfalt pädagogischer Herausforderungen und Ansätze illustriert und Praktikern vielfältige Impulse für die Gestaltung ihrer Bildungsarbeit bietet.",
+      "difficulty": "hard",
+      "topic": "Synthese und Bedeutung für die pädagogische Praxis",
+      "source_file": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt"
+    },
+    {
+      "question": "Warum wird Beratung in der Pflege als ein neues pflegerisches Handlungsfeld betrachtet?",
+      "answer": "Beratung wird als neues pflegerisches Handlungsfeld betrachtet, weil sich das Aufgabenfeld in der Pflege kontinuierlich verändert und ein steigender Bedarf an Beratung besteht, wie durch das aktuelle Krankenpflegegesetz und verschiedene Autoren beschrieben wird.",
+      "difficulty": "easy",
+      "topic": "Beratung in der Pflege",
+      "source_file": "9783866496811-052-071.txt"
+    },
+    {
+      "question": "Welche historischen Ansätze zur Betrachtung von Krankheit werden im Text beschrieben?",
+      "answer": "Historisch wurde Krankheit nicht nur als rein naturgebundenes Phänomen betrachtet, sondern auch mit religiös-geistigen Aspekten, ökologischen und sozialen Umwelten sowie dem Lebenswandel und der Lebenssituation der Kranken in Verbindung gebracht.",
+      "difficulty": "medium",
+      "topic": "Historische Sicht auf Krankheit",
+      "source_file": "9783866496811-052-071.txt"
+    },
+    {
+      "question": "Welche Forschungsmethode wurde in den Studien von Knelang und Schieron verwendet, um das Verständnis von Beratung in der Pflege zu erkunden?",
+      "answer": "Beide Studien nutzten einen qualitativen Forschungsansatz mit leitfadengestützten Experteninterviews, die mit Tonband aufgenommen wurden. Anschließend erfolgte die Auswertung anhand der qualitativen Inhaltsanalyse nach Mayring.",
+      "difficulty": "medium",
+      "topic": "Forschungsmethoden in Pflegeberatung",
+      "source_file": "9783866496811-052-071.txt"
+    },
+    {
+      "question": "Wie lässt sich der Einfluss von Pflegenden auf das Krankheitsgeschehen   umfassend beschreiben?",
+      "answer": "Der Einfluss der Pflegenden auf das Krankheitsgeschehen besteht nicht nur in grund- und behandlungspflegebezogenen Tätigkeiten, sondern auch in kommunikativen Kompetenzen, insbesondere in anleitenden und beraterischen Fähigkeiten, die die Komplexität des Krankheitsgeschehens beeinflussen.",
+      "difficulty": "hard",
+      "topic": "Rolle der Pflegekräfte",
+      "source_file": "9783866496811-052-071.txt"
+    },
+    {
+      "question": "Wie begründet der Text die These, dass Beratung ein zentraler Aufgabenbereich der Pflege ist, und welche Bereiche der Pflege wurden dabei untersucht?",
+      "answer": "Der Text begründet die These durch die Ergebnisse zweier qualitativer Studien, die Pflegekräfte aus der psychiatrischen (Knelang) und somatischen Krankenpflege (Schieron) befragten. Beide Studien zeigen, dass Beratung als zentraler Aufgabenbereich der Pflege angesehen wird, was die Bedeutung von kommunikativen und beratenden Kompetenzen unterstreicht.",
+      "difficulty": "hard",
+      "topic": "Zentrale Rolle der Beratung in der Pflege",
+      "source_file": "9783866496811-052-071.txt"
+    },
+    {
+      "question": "Was versteht man unter Anerkennungsberatung im Kontext dieser Arbeit?",
+      "answer": "Anerkennungsberatung wird als eine eigenständige Fachberatung im Bereich der Bildungs- und Berufsberatung verstanden, die speziell darauf abzielt, die Integrationsprozesse von Migrant_innen zu unterstützen und als eine spezifische Form pädagogischer Praxis gilt.",
+      "difficulty": "easy",
+      "topic": "Definition und Kontext der Anerkennungsberatung",
+      "source_file": "9783839444856-032-043.txt"
+    },
+    {
+      "question": "Welche Spannungen oder Widersprüche werden in der migrationsbezogenen Beratung   besonders deutlich?",
+      "answer": "In der migrationsbezogenen Beratung treten grundlegende Widersprüche zwischen einem pädagogischen Beratungsverständnis und den sozialstrukturellen Rahmenbedingungen besonders deutlich hervor.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelle Widersprüche in der Anerkennungsberatung",
+      "source_file": "9783839444856-032-043.txt"
+    },
+    {
+      "question": "Wie wird das berufliche Selbstverständnis der Berater_innen in der Anerkennungsberatung in der Forschung untersucht?",
+      "answer": "Das berufliche Selbstverständnis und die professionellen Handlungsstrategien der Berater_innen werden durch die Rekonstruktion und Analyse von Expert_inneninterviews mit Berater_innen und Koordinator_innen der Beratungsstellen in Österreich untersucht.",
+      "difficulty": "medium",
+      "topic": "Forschungsmethodik und Fokus",
+      "source_file": "9783839444856-032-043.txt"
+    },
+    {
+      "question": "Warum eignet sich das Praxisfeld der Anerkennungsberatung besonders, um die Zielsetzungen und Handlungsstrategien der Berater_innen zu untersuchen?",
+      "answer": "Weil Anerkennungsberatung die grundlegenden Widersprüche zwischen pädagogischem Beratungsverständnis und sozialstrukturellen Rahmenbedingungen besonders deutlich macht, ist es ein geeignetes Praxisfeld, um zu erforschen, welche Zielsetzungen und Handlungsstrategien die Berater_innen entwickeln, um handlungsfähig zu bleiben.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse des Praxisfeldes Anerkennungsberatung",
+      "source_file": "9783839444856-032-043.txt"
+    },
+    {
+      "question": "Wie werden in der Arbeit theoretische und empirische Bezüge zu Anerkennungsberatungsstellen außerhalb Österreichs hergestellt?",
+      "answer": "Neben den österreichischen Beratungsstellen werden auch theoretische und empirische Bezüge zu einzelnen Anerkennungsberatungsstellen in Deutschland hergestellt, um die Forschung zu ergänzen und zu erweitern.",
+      "difficulty": "hard",
+      "topic": "Synthese und Vergleich in der Forschung",
+      "source_file": "9783839444856-032-043.txt"
+    },
+    {
+      "question": "Welche Materialien werden für die Methode \"Klotzen\" benötigt?",
+      "answer": "Für die Methode \"Klotzen\" werden Holzklötze, Kreppband, Pappe und Stifte benötigt.",
+      "difficulty": "easy",
+      "topic": "Materialien",
+      "source_file": "1001586-156-161.txt"
+    },
+    {
+      "question": "Wie wird das Plakat bei der Methode \"Klotzen\" vorbereitet und in Entscheidungsfelder unterteilt?",
+      "answer": "Auf einem Plakat, das auf dem Tisch ausgebreitet wird, teilt der Berater oder die Beraterin einen Kreis in so viele Abschnitte (Entscheidungsfelder) ein, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Es wird zudem ein weiteres Feld, das sogenannte Lösungsfeld, freigelassen, das erst am Schluss bearbeitet wird.",
+      "difficulty": "medium",
+      "topic": "Ablauf der Methode",
+      "source_file": "1001586-156-161.txt"
+    },
+    {
+      "question": "In welchem Beratungskontext eignet sich die Methode \"Klotzen\" besonders und welchen Zweck erfüllt sie dabei?",
+      "answer": "Die Methode \"Klotzen\" eignet sich besonders, wenn es darum geht, die nächsten Schritte oder Etappen für den künftigen Bildungsweg des Ratsuchenden zu planen. Sie hilft dabei, mögliche Probleme bei der Realisierung zu verdeutlichen und unterstützt den Ratsuchenden, Probleme realistisch einzuschätzen, um kurz-, mittel- oder langfristige Entscheidungen treffen zu können.",
+      "difficulty": "medium",
+      "topic": "Anwendungsbereich",
+      "source_file": "1001586-156-161.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, während der Einleitung der Methode \"Klotzen\" dem Ratsuchenden einen Orientierungsrahmen zu bieten und wie wird dies umgesetzt?",
+      "answer": "Es ist wichtig, dem Ratsuchenden einen Orientierungsrahmen zu bieten, damit er den Ablauf der Methode versteht und sich sicher fühlt, Fragen jederzeit stellen zu können. Dies wird umgesetzt, indem sich der Berater zunächst mit der Situation des Ratsuchenden vertraut macht, ausführlich über den Ablauf informiert, die zentralen Aspekte der Methode benennt, an bereits erarbeitete Inhalte anknüpft, alle offenen Fragen klärt und somit ein vertrauensvolles Klima schafft.",
+      "difficulty": "hard",
+      "topic": "Beratungsprozess",
+      "source_file": "1001586-156-161.txt"
+    },
+    {
+      "question": "Wie trägt die symbolische Darstellung mit den Klötzen zur Entscheidungsfindung bei und welche Rolle spielt dabei das Lösungsfeld?",
+      "answer": "Die symbolische Darstellung mit den Klötzen ermöglicht es, eine komplexe und verworrene Ausgangssituation sichtbar und greifbar zu machen. Durch das Anordnen, Beschriften und Bewegen der Klötze auf den Entscheidungsfeldern wird der Beratungsprozess aktiviert und begleitet. Das Lösungsfeld, das erst am Schluss bearbeitet wird, dient als Raum für mögliche Lösungen und unterstützt so die zielgerichtete Entscheidungsfindung.",
+      "difficulty": "hard",
+      "topic": "Konzept und Wirkung der Methode",
+      "source_file": "1001586-156-161.txt"
+    },
+    {
+      "question": "Was ist das Hauptziel der Methode \"Bildungszeitreise\" in der Beratung?",
+      "answer": "Das Hauptziel der Methode \"Bildungszeitreise\" ist es, negative Bildungserfahrungen als innere Barrieren abzubauen, die einer Weiterqualifizierung im Weg stehen, und den Ratsuchenden ein neues Verständnis ihrer Bildungsvergangenheit zu ermöglichen, um so neue Perspektiven und Interessen zu entwickeln.",
+      "difficulty": "easy",
+      "topic": "Ziel der Methode",
+      "source_file": "1001586-145-150.txt"
+    },
+    {
+      "question": "Welche Arten von Gegenständen werden bei der \"Bildungszeitreise\" verwendet und warum?",
+      "answer": "Bei der \"Bildungszeitreise\" werden sowohl schulbezogene Gegenstände wie Schulbücher, Arbeitshefte, Zeugnisse, Kreide, Taschenrechner und Malkästen als auch schulunabhängige Gegenstände wie Comics, Sportauszeichnungen, Handwerkszeug, Küchenu­tensilien, Filme, Romane oder Reisefotos verwendet. Diese Vielfalt soll verdeutlichen, dass Bildung auch außerhalb institutioneller Einrichtungen stattfindet und die Gegenstände sollen Erinnerungen an die Bildungsgeschichte der Ratsuchenden wecken.",
+      "difficulty": "medium",
+      "topic": "Materialien und Konzept",
+      "source_file": "1001586-145-150.txt"
+    },
+    {
+      "question": "Wie kann die Methode \"Bildungszeitreise\" im Beratungsverlauf eingesetzt werden, wenn der Prozess ins Stocken gerät?",
+      "answer": "Wenn der Beratungsprozess ins Stocken gerät, kann die Methode \"Bildungszeitreise\" eingesetzt werden, um durch die Auswahl und Reflexion von Gegenständen neue Anknüpfungspunkte zu schaffen. Dadurch werden Erinnerungen und Emotionen aktiviert, die helfen, interne Ressourcen aufzudecken und Blockaden zu lösen, was den Beratungsprozess wieder in Gang bringen kann.",
+      "difficulty": "medium",
+      "topic": "Anwendung der Methode",
+      "source_file": "1001586-145-150.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, vor der Anwendung der \"Bildungszeitreise\" die Bereitschaft der Ratsuchenden zur Erinnerungsarbeit zu klären?",
+      "answer": "Es ist wichtig, die Bereitschaft der Ratsuchenden zu klären, da die Methode auf emotional begleiteter Erinnerungsarbeit basiert. Nur wenn die Person bereit ist, sich auf diese Art der Reflexion einzulassen, kann die Methode ihre volle Wirkung entfalten und negative Bildungserfahrungen aufgearbeitet werden. Ohne diese Bereitschaft kann die Methode wirkungslos oder sogar kontraproduktiv sein.",
+      "difficulty": "hard",
+      "topic": "Kritische Voraussetzungen",
+      "source_file": "1001586-145-150.txt"
+    },
+    {
+      "question": "Wie verbindet die Methode \"Bildungszeitreise\" biografieorientierte Beratung mit der Aktivierung mehrerer Sinne, und welchen Nutzen hat dies für den Beratungsprozess?",
+      "answer": "Die Methode \"Bildungszeitreise\" nutzt eine Sammlung von Alltagsgegenständen, die über das bloße Erinnern hinaus mehrere Sinne ansprechen, zum Beispiel durch das Betrachten, Anfassen oder sogar Riechen der Gegenstände. Diese ganzheitliche sinnliche Erfahrung unterstützt die biografieorientierte Beratung, indem sie emotional begleitete Assoziationen hervorruft und somit tiefere Reflexionen der eigenen Bildungsgeschichte ermöglicht. Dies hilft, innere Barrieren abzubauen und neue Perspektiven zu entwickeln, was den Beratungsprozess bereichert und fördert.",
+      "difficulty": "hard",
+      "topic": "Methodisches Konzept und Nutzen",
+      "source_file": "1001586-145-150.txt"
+    },
+    {
+      "question": "Was versteht man unter Beratung im anthropologischen Kontext und in welchen Formen tritt sie auf?",
+      "answer": "Beratung ist ein Handlungsphänomen, das anthropologisch betrachtet recht alt ist und tritt in transitiver Form (jemanden beraten) sowie in reflexiver Form (sich beraten) auf. Sie kommt sowohl in alltagsweltlichen Zusammenhängen als auch in professionellen Settings vor und richtet sich als Dienstleistung an einzelne Personen, Gruppen und Organisationen.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Beratung",
+      "source_file": "9783847412304-009-015.txt"
+    },
+    {
+      "question": "Wie hat sich das Forschungsinteresse an Beratung seit den 1960er Jahren entwickelt und welche Veränderungen gab es ab Mitte der 1990er Jahre?",
+      "answer": "Seit den 1960er Jahren steht Beratung als eine der Grundformen pädagogischen Handelns im Fokus erwachsenenbildnerischer Forschung. Ab Mitte der 1990er Jahre kam es im Zuge des sogenannten Beratungsbooms zu Diversifizierungen und Erosionsprozessen, die den Fokus auf die Professionalisierung im Beratungsfeld richteten.",
+      "difficulty": "medium",
+      "topic": "Forschung und Entwicklung der Beratung",
+      "source_file": "9783847412304-009-015.txt"
+    },
+    {
+      "question": "Welche Rolle spielt Beratung im Kontext des Lebenslangen Lernens und wie wird sie von gesellschaftspolitischen Akteuren eingesetzt?",
+      "answer": "Im paradigmatischen Kontext des Lebenslangen Lernens wird Beratung in modernen Gesellschaften bedeutsam. Gesellschaftspolitische Akteure setzen Beratung einerseits als Steuerungsinstrument ein, beispielsweise als verpflichtendes Element bei der Vergabe öffentlicher Fördergelder im Rahmen neoliberaler Entwicklungen. Andererseits gibt es Angebote, die diesen Tendenzen entgegenwirken, wie Beratungen im Kontext von Antifa-Arbeit oder Angebote für „Aussteiger“.",
+      "difficulty": "hard",
+      "topic": "Beratung und lebenslanges Lernen",
+      "source_file": "9783847412304-009-015.txt"
+    },
+    {
+      "question": "Wie können Individuen von Beratung profitieren, insbesondere im Spannungsfeld von Chancen und Zumutungen?",
+      "answer": "Für Individuen bietet Beratung die Möglichkeit, in einem von vielfältigen Anforderungen geprägten Leben, das zwischen Chancen und Zumutungen schwankt, Unterstützungsgelegenheiten für lebenslaufrelevante Entscheidungen zu finden.",
+      "difficulty": "medium",
+      "topic": "Nutzen der Beratung für Individuen",
+      "source_file": "9783847412304-009-015.txt"
+    },
+    {
+      "question": "Welche Entwicklungen und Fragestellungen haben die Einrichtung von Studiengängen im Bereich Beratung beeinflusst?",
+      "answer": "Versuche, die Wissenschaft der Beratung weiterzuentwickeln, haben zur Einrichtung entsprechender Studiengänge geführt. Diese Entwicklungen fördern insbesondere Fragen nach der Qualität von Beratung, den Möglichkeiten und Bedingungen der Entwicklung von Beratungskompetenzen sowie den Wirkfaktoren in Beratungsinteraktionen.",
+      "difficulty": "hard",
+      "topic": "Professionalisierung und Wissenschaft der Beratung",
+      "source_file": "9783847412304-009-015.txt"
+    },
+    {
+      "question": "Welche Rolle spielen Emotionen im Gespräch  ?",
+      "answer": "Emotionen spielen im Gespräch eine Hauptrolle, da jede Information zuerst durch eine emotionale Schaltzentrale im Gehirn (den Hypocampus) verarbeitet wird, wo unbewusst eingeschätzt wird, wie mit der Information umgegangen werden soll. Fühlt sich eine Person angenommen und verstanden, ist die Voraussetzung gegeben, sich auf die Sichtweise des Gegenübers einzulassen.",
+      "difficulty": "easy",
+      "topic": "Emotionen im Gespräch",
+      "source_file": "1001586-075-102.txt"
+    },
+    {
+      "question": "Warum empfinden Anfänger Gesprächstechniken oft als sperrig oder manipulativ, und wie verändert sich diese Wahrnehmung mit der Zeit?",
+      "answer": "Anfänger empfinden Gesprächstechniken oft als sperrig, weil sie das Gefühl haben, sich zu verstellen oder ihr Gegenüber manipulieren zu müssen. Tatsächlich ist es am Anfang schwerer, weil man sich erst an die bewusste Gesprächsführung gewöhnen muss. Mit der Zeit wird es leichter, da die Techniken helfen, das tatsächlich Gesagte klar auszudrücken und Verstehensprozesse zu reflektieren und zu antizipieren.",
+      "difficulty": "medium",
+      "topic": "Wahrnehmung von Gesprächstechniken",
+      "source_file": "1001586-075-102.txt"
+    },
+    {
+      "question": "Wie definiert der Text die drei sprachlichen Handlungen, die den Grundtechniken der Gesprächsführung zugrunde liegen?",
+      "answer": "Die drei sprachlichen Handlungen sind: 1. Sich auf die Sichtweise des Gegenübers einlassen, aufmerksam zuhören und anschließend eine eigene Deutung zur Präzisierung anbieten. 2. Vom eigenen Erleben und der eigenen Sicht auf die Welt erzählen. 3. Die andere Person nach ihrer Sicht der Dinge fragen.",
+      "difficulty": "medium",
+      "topic": "Grundtechniken der Gesprächsführung",
+      "source_file": "1001586-075-102.txt"
+    },
+    {
+      "question": "Inwiefern beeinflusst die bewusste Gesprächsführung die Interaktion zwischen Gesprächspartnern, und warum ist das Verstehen des Gegenübers eine Grundregel?",
+      "answer": "Bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse, ermöglicht es, gleichzeitig bei sich selbst, dem Gegenüber und dem Thema zu sein, und unterstützt die Entwicklung einer gemeinsamen Sprache. Das Verstehen des Gegenübers ist eine Grundregel, weil man sich erst verständlich machen kann, wenn man den anderen verstehen will. Man kann den anderen nicht zwingen zuzuhören, aber man kann versuchen, seine Deutungsmuster zu erfassen und sich darauf einzulassen.",
+      "difficulty": "hard",
+      "topic": "Bewusste Gesprächsführung und Verstehen",
+      "source_file": "1001586-075-102.txt"
+    },
+    {
+      "question": "Wie lässt sich aus der Gegenüberstellung zweier unterschiedlicher Weltsichten die Gesprächsführung ableiten, und welche Bedeutung hat dies für professionelle Gespräche?",
+      "answer": "Aus der Gegenüberstellung zweier unterschiedlicher Weltsichten lassen sich Grundtechniken der Gesprächsführung ableiten, die auf drei sprachlichen Handlungen basieren: Einlassen auf die Sichtweise des Gegenübers, Erzählen der eigenen Sicht und Nachfragen zur Sichtweise des anderen. Für professionelle Gespräche bedeutet dies, dass Beraterinnen und Berater durch diese Techniken eine wertschätzende und ressourcenorientierte Haltung ausdrücken und eine gemeinsame Sprache entwickeln können, die die Interaktion und das Verstehen fördert.",
+      "difficulty": "hard",
+      "topic": "Ableitung der Gesprächsführung aus unterschiedlichen Weltsichten",
+      "source_file": "1001586-075-102.txt"
+    },
+    {
+      "question": "Was ist ein Bodenanker und wofür wird er in der Beratung verwendet?",
+      "answer": "Ein Bodenanker ist die Repräsentation eines zeitlichen, örtlichen und/oder emotionalen Ereignisses, das symbolisch an einer bestimmten Stelle am Boden platziert wird. In der Beratung wird er verwendet, um Probleme oder Sachlagen sichtbar zu machen und dem Ratsuchenden zu ermöglichen, sich gedanklich in verschiedene Situationen hineinzuversetzen, um Handlungsoptionen und Lösungen besser zu verstehen und zu fühlen.",
+      "difficulty": "easy",
+      "topic": "Definition und Zweck von Bodenanker",
+      "source_file": "1001586-127-131.txt"
+    },
+    {
+      "question": "Welche Materialien werden für die Durchführung der Bodenanker-Methode benötigt und wie viel Zeit sollte eingeplant werden?",
+      "answer": "Für die Bodenanker-Methode werden Zettel, Stifte und eine freie Bodenfläche benötigt. Die Methode sollte mit einer Zeit von mindestens 30 Minuten eingeplant werden.",
+      "difficulty": "easy",
+      "topic": "Material und Zeit",
+      "source_file": "1001586-127-131.txt"
+    },
+    {
+      "question": "Beschreiben Sie den Ablauf zur Vorbereitung und Durchführung der Bodenanker-Methode in einer Beratungssituation.",
+      "answer": "Zuerst werden Zettel und Stifte bereitgelegt und bei Bedarf wird im Raum Platz geschaffen. Während des Beratungsgesprächs wird eine Problemlage oder mehrere Handlungsoptionen vom Ratsuchenden genannt. Diese werden auf Zettel geschrieben und in der freien Bodenfläche verteilt. Der Ratsuchende stellt sich auf die jeweiligen Bodenanker, versetzt sich gedanklich in die Situation und beschreibt, wie es sich anfühlt, was er ändern oder stärken möchte. Dabei wird auch ergründet, was benötigt wird, um die Situation zu verbessern.",
+      "difficulty": "medium",
+      "topic": "Ablauf und Durchführung",
+      "source_file": "1001586-127-131.txt"
+    },
+    {
+      "question": "Warum ist die körperliche Aktivierung durch das Einnehmen der Bodenanker für die Problemlösung besonders wichtig?",
+      "answer": "Die körperliche Aktivierung durch das Einnehmen der Bodenanker ist wichtig, weil sie dem Ratsuchenden ermöglicht, nicht nur intellektuell, sondern auch emotional und körperlich in die verschiedenen Situationen einzutauchen. Dadurch können Handlungsoptionen besser „nachgefühlt“ werden, was Hemmnisse abbauen und die Vorbereitung von nächsten Schritten erleichtern kann.",
+      "difficulty": "medium",
+      "topic": "Bedeutung der körperlichen Aktivierung",
+      "source_file": "1001586-127-131.txt"
+    },
+    {
+      "question": "Wie kann die Methode der Bodenanker dazu beitragen, Hemmnisse bei der Entscheidungsfindung abzubauen, und in welchem Stadium des Beratungsprozesses ist sie besonders geeignet?",
+      "answer": "Die Bodenanker-Methode hilft Hemmnisse abzubauen, indem der Ratsuchende durch das körperliche Einnehmen verschiedener Positionen im Raum und das innere Hineinversetzen in unterschiedliche Situationen ein besseres Gespür für seine Handlungsoptionen entwickelt und diese emotional erlebt. Dies erleichtert das Überwinden von Unsicherheiten und Ängsten. Die Methode ist besonders geeignet, wenn der Ratsuchende bereits einige Handlungsoptionen reflektiert hat und nun überlegt, wie die nächsten Schritte aussehen können.",
+      "difficulty": "hard",
+      "topic": "Anwendung und Wirkung der Methode",
+      "source_file": "1001586-127-131.txt"
+    },
+    {
+      "question": "Welche Formen der Beratung werden in der vorliegenden Studie speziell analysiert?",
+      "answer": "Die Studie analysiert computervermittelte, asynchrone Weiterbildungsberatungen, insbesondere E-Mail-Weiterbildungsberatungen.",
+      "difficulty": "easy",
+      "topic": "Beratungsformate",
+      "source_file": "9783847412304-059-086.txt"
+    },
+    {
+      "question": "Wie definiert die Studie Beratung phänomenologisch im Kontext der Weiterbildungsberatung?",
+      "answer": "Beratung wird als dyadische, in diesem Fall schriftliche Kommunikation zwischen einer ratsuchenden und einer beratenden Person definiert, wobei die ratsuchende Person ein Entscheidungsproblem bezüglich einer Weiterbildungsfrage hat, für das sie keine Handlungsalternativen besitzt und professionelle Unterstützung sucht.",
+      "difficulty": "medium",
+      "topic": "Definition von Beratung",
+      "source_file": "9783847412304-059-086.txt"
+    },
+    {
+      "question": "Warum ist die Analyse computervermittelter, asynchroner Beratungen als eigenständiges Format notwendig?",
+      "answer": "Weil dieses Format spezielle Herausforderungen aufweist, die sich von Präsenzberatungen unterscheiden, und es bisher eine Forschungslücke gibt, die durch empirische Grundlagenarbeit für eine Professionalisierung der Beratung geschlossen werden soll.",
+      "difficulty": "medium",
+      "topic": "Notwendigkeit der Studie",
+      "source_file": "9783847412304-059-086.txt"
+    },
+    {
+      "question": "Was versteht die Studie unter dem Begriff „Prozessierungstransfer“ im Zusammenhang mit der Beratertätigkeit?",
+      "answer": "Der Prozessierungstransfer bezeichnet die Anforderung an Beratende, die Anliegen, Problemschilderungen und Fallbeschreibungen der Ratsuchenden zunächst zu verstehen und diese dann in professionell bearbeitbare Handlungsschritte zu überführen.",
+      "difficulty": "hard",
+      "topic": "Konzept Prozessierungstransfer",
+      "source_file": "9783847412304-059-086.txt"
+    },
+    {
+      "question": "Inwiefern unterscheiden sich die in der Studie untersuchten Beratungen von den bislang in der Forschung betrachteten Beratungsinteraktionen?",
+      "answer": "Die bislang erforschten Beratungen fanden ausschließlich unter körperlicher und gleichzeitiger Anwesenheit der beteiligten Personen statt, während die Studie sich auf computervermittelte, asynchrone Beratungen konzentriert, bei denen die Kommunikation schriftlich und zeitversetzt erfolgt.",
+      "difficulty": "hard",
+      "topic": "Unterschied zu bisherigen Forschungsansätzen",
+      "source_file": "9783847412304-059-086.txt"
+    },
+    {
+      "question": "Wie definiert Frank Nestmann eine Methode in der Beratung?",
+      "answer": "Frank Nestmann definiert eine Methode in der Beratung als eine bewusst und geplant eingesetzte, bereits erprobte Handlungsweise, mit der ein bestimmtes Ziel erreicht werden soll.",
+      "difficulty": "easy",
+      "topic": "Definition von Methoden",
+      "source_file": "1001586-039-074.txt"
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Methoden und Techniken in der Beratung?",
+      "answer": "Methoden unterscheiden sich von Techniken durch ihre Komplexität: Eine Methode besteht aus einer Kombination mehrerer Techniken und erstreckt sich über einen längeren zeitlichen Rahmen, während Techniken einzelne, konkrete Handlungsweisen oder Interventionen darstellen.",
+      "difficulty": "medium",
+      "topic": "Methoden vs. Techniken",
+      "source_file": "1001586-039-074.txt"
+    },
+    {
+      "question": "Warum kann die Beziehung zwischen Berater und Ratsuchendem als eine wirksame Methode betrachtet werden?",
+      "answer": "Die Beziehung zwischen Berater und Ratsuchendem kann als eine wirksame Methode betrachtet werden, weil nahezu alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion potenzielle Beratungsmethoden sind, und allein die unterstützende und verändernde Funktion dieser Beziehung eine bedeutende Rolle in der Beratung einnimmt.",
+      "difficulty": "medium",
+      "topic": "Bedeutung der Beziehung in der Beratung",
+      "source_file": "1001586-039-074.txt"
+    },
+    {
+      "question": "Wie kann das Verständnis des Methodenbegriffs als „ganzer Weg“ in der Beratung zu Interpretationsproblemen führen?",
+      "answer": "Das Verständnis des Methodenbegriffs als „ganzer Weg“ kann zu Interpretationsproblemen führen, weil dadurch sehr unterschiedliche Vorgehensweisen oder sogar die gesamte Beratung als Methode bezeichnet werden können, was die Klarheit und Abgrenzung von spezifischen Methoden erschwert und zu einer uneinheitlichen Verwendung des Begriffs führt.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse des Methodenbegriffs",
+      "source_file": "1001586-039-074.txt"
+    },
+    {
+      "question": "Wie lässt sich anhand eines Beispiels aus dem Text der Übergang von einer Technik zu einer Methode veranschaulichen?",
+      "answer": "Ein Beispiel aus dem Text zeigt, dass das Schreiben von Stichworten auf Moderationskarten oder das Vorlegen eines Bildimpulses allein Techniken sind; wenn jedoch diese Techniken systematisch und geplant in mehreren Schritten eingesetzt werden, um den Ratsuchenden dabei zu helfen, ein Problem zu ordnen und eine Lösung zu finden, wird daraus eine Methode, da ein zielgerichteter, zeitlich umfangreicher Prozess entsteht.",
+      "difficulty": "hard",
+      "topic": "Anwendung und Synthese von Methoden und Techniken",
+      "source_file": "1001586-039-074.txt"
+    },
+    {
+      "question": "Welche zentrale Fragestellung leitete das Erkenntnisinteresse der Arbeit im Bereich der Anerkennungsberatung?",
+      "answer": "Die zentrale Fragestellung war, welche professionellen Handlungsstrategien in der Anerkennungsberatung im Umgang mit widersprüchlichen Anforderungen entwickelt werden, um innerhalb der Spannungsfelder handlungsfähig zu bleiben.",
+      "difficulty": "easy",
+      "topic": "Zentrale Fragestellung",
+      "source_file": "9783839444856-222-227.txt"
+    },
+    {
+      "question": "Wie wird der Begriff \"Fachberatung\" im Kontext der Anerkennungsberatung verwendet und warum ist er für die Interviewpartner_innen bedeutend?",
+      "answer": "Der Begriff \"Fachberatung\" wird unterschiedlich verwendet, bezogen auf die Intensität der Beratung, die Expertise der Berater_innen und Parteilichkeit als Handlungsprinzip während der Verfahrensbegleitung. Obwohl beratungstheoretisch nicht eindeutig definiert, bietet die Bezeichnung einen begrifflichen Rahmen für gemeinsame Verortung und Identifikation in der Anerkennungsberatung.",
+      "difficulty": "medium",
+      "topic": "Begriff Fachberatung",
+      "source_file": "9783839444856-222-227.txt"
+    },
+    {
+      "question": "Welche Herausforderungen ergeben sich bei der Definition von Anerkennungsberatung, und welche institutionellen Entwicklungen tragen zur Klärung dieses Beratungsfeldes bei?",
+      "answer": "Die Definition von Anerkennungsberatung ist schwierig aufgrund ihres laufenden Entstehungs- und Institutionalisierungsprozesses als neue und eigenständige Beratungsform. Ein gemeinsames Selbstverständnis, insbesondere durch die institutionelle und fachliche Entwicklung der Anerkennungsberatung, trägt zur Klärung bei und zeigt sich in der Beschreibung der spezifischen Beratungshaltung und Positionierung.",
+      "difficulty": "hard",
+      "topic": "Definition und Entwicklung der Anerkennungsberatung",
+      "source_file": "9783839444856-222-227.txt"
+    },
+    {
+      "question": "Wie beeinflussen die beruflichen Selbstverständnisse der Berater_innen die Ausgestaltung ihrer Aufgaben in der Anerkennungsberatung?",
+      "answer": "Die Berater_innen übernehmen ein breites Spektrum an Aufgaben, die sich aus ihrem beruflichen Selbstverständnis ableiten. Diese Aufgaben werden im konkreten Einzelfall gegenüber externen Erwartungen und den Beratungsanliegen der Klient_innen ausgehandelt, wodurch ein dynamischer Umgang mit den Anforderungen entsteht.",
+      "difficulty": "medium",
+      "topic": "Berufliches Selbstverständnis und Aufgaben",
+      "source_file": "9783839444856-222-227.txt"
+    },
+    {
+      "question": "Welche Rolle spielt die Interdisziplinarität der Teams in der Anerkennungsberatung, und welche Auswirkungen hat dies auf Ausbildung und Zugang zu diesem Beratungsfeld?",
+      "answer": "Die Interdisziplinarität der Teams ist ein charakteristisches Merkmal der Anerkennungsberatung im Bereich Bildung und Beruf. Aufgrund dieser Vielfalt gibt es keine einheitliche Ausbildung und keine geregelten Zugänge, was die Heterogenität der Qualifikationen und Berufsbiografien der Berater_innen widerspiegelt.",
+      "difficulty": "hard",
+      "topic": "Interdisziplinarität und Ausbildung",
+      "source_file": "9783839444856-222-227.txt"
+    },
+    {
+      "question": "Was misst der Antreiber-Test und wie viele Items enthält er?",
+      "answer": "Der Antreiber-Test misst innere Antreiber, die auf verinnerlichten Verhaltensmustern und unbewussten Lebensregeln basieren. Er enthält etwa 50 Items, die von den Ratsuchenden bewertet werden.",
+      "difficulty": "easy",
+      "topic": "Faktische Informationen zum Test",
+      "source_file": "1001586-178-183.txt"
+    },
+    {
+      "question": "Wie beeinflussen die inneren Antreiber das Verhalten einer Person?",
+      "answer": "Innere Antreiber funktionieren wie automatische Steuerungen, die Denken, Fühlen und Handeln bestimmen. Sie treten vor allem in Stress- und Belastungssituationen hervor und basieren auf im Sozialisationsprozess entstandenen Reaktionen auf die Erwartungen von Bezugspersonen.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelles Verständnis der Antreiber",
+      "source_file": "1001586-178-183.txt"
+    },
+    {
+      "question": "Wie wird die Auswertung des Antreiber-Tests durchgeführt und welche Bereiche werden bewertet?",
+      "answer": "Die Auswertung erfolgt durch eine summarische Ermittlung der Punktzahlen in fünf bereits kategorisierten Antreiber-Bereichen, wobei die Antworten auf einer Skala von 1 (gar nicht) bis 5 (voll und ganz) bewertet werden.",
+      "difficulty": "medium",
+      "topic": "Anwendung der Testauswertung",
+      "source_file": "1001586-178-183.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, den Antreiber-Test in der Klärungsphase einer Beratung einzusetzen, und welche Funktionen erfüllt er dort?",
+      "answer": "Der Antreiber-Test hilft in der Klärungsphase, ein tieferes Verständnis für das Anliegen zu gewinnen, verschiedene Beweggründe bei Handlungsoptionen zu sortieren, die Entscheidungsfindung zu unterstützen und Interventionsoptionen bei wiederkehrenden Glaubenssätzen zu ermöglichen.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Anwendung im Beratungsprozess",
+      "source_file": "1001586-178-183.txt"
+    },
+    {
+      "question": "Wie lässt sich das Konzept der inneren Antreiber mit der Theorie der Transaktionsanalyse und der Arbeit von Taibi Kahler verbinden?",
+      "answer": "Das Konzept der inneren Antreiber basiert auf der transaktionsanalytischen Konzeption von Antriebsdynamiken, die von Eric Berne entwickelt wurde. Taibi Kahler und seine Mitarbeiter erweiterten diese Theorie in den 1970er Jahren durch die Analyse kurzzeitiger Verhaltenssequenzen, wobei sie Antreiber als automatische Verhaltensmuster identifizierten, die in Stresssituationen auftreten.",
+      "difficulty": "hard",
+      "topic": "Synthese von Theorie und Konzept",
+      "source_file": "1001586-178-183.txt"
+    },
+    {
+      "question": "Was ist der Hauptzweck der Publikation \"Methoden und Techniken der Bildungsberatung\"?",
+      "answer": "Der Hauptzweck der Publikation ist, als Lehrbuch für Studierende der Bildungsberatung zu dienen und gleichzeitig Beraterinnen und Berater in der Praxis zu unterstützen.",
+      "difficulty": "easy",
+      "topic": "Zweck der Publikation",
+      "source_file": "1001586-005-006.txt"
+    },
+    {
+      "question": "Wie wurde die Einbindung von Studierenden in die Erstellung des Buches umgesetzt?",
+      "answer": "Studierende übernahmen einzelne Methoden, probierten diese aus, reflektierten im Seminar darüber und beschrieben die Methoden anschließend, was eine Herausforderung war, die sie mit Freude meisterten.",
+      "difficulty": "medium",
+      "topic": "Methoden der Einbindung von Studierenden",
+      "source_file": "1001586-005-006.txt"
+    },
+    {
+      "question": "Warum war es den Herausgeberinnen wichtig, Theorie und Praxis in diesem Buch zu verbinden?",
+      "answer": "Weil die Komplexität von Beratungsprozessen verdeutlicht werden soll, war es wichtig, Methoden und Techniken sowie deren Hintergründe sowohl theoretisch als auch praktisch zu erläutern, um einen umfassenden Bezug herzustellen.",
+      "difficulty": "medium",
+      "topic": "Theorie-Praxis-Verbindung",
+      "source_file": "1001586-005-006.txt"
+    },
+    {
+      "question": "Analysieren Sie die Bedeutung der Zusammenarbeit verschiedener Gruppen (Wissenschaftlerinnen, Praktikerinnen, Studierende) für die Qualität und Relevanz des Buches.",
+      "answer": "Die Zusammenarbeit verschiedener Gruppen ermöglicht eine umfassendere Perspektive: Wissenschaftlerinnen bringen theoretisches Wissen ein, Praktikerinnen teilen praktische Erfahrungen, und Studierende tragen durch das Ausprobieren und Reflektieren von Methoden zur Praxisrelevanz und Aktualität bei. Dies erhöht die Qualität und Anwendbarkeit des Buches im Bildungsberatungsfeld.",
+      "difficulty": "hard",
+      "topic": "Zusammenarbeit und Qualität des Buches",
+      "source_file": "1001586-005-006.txt"
+    },
+    {
+      "question": "Fassen Sie zusammen, welche Unterstützungen und Beiträge neben den Autorinnen selbst zum Zustandekommen der Publikation beigetragen haben.",
+      "answer": "Neben den Autorinnen trugen wissenschaftliche Hilfskräfte wie Marina Basic (Anfertigung von Schaubildern) und Nadine Feisel (Fotos der Räume) bei. Studierende aus dem Seminar im Sommersemester 2016 wirkten durch ihre methodischen Beiträge mit. Nicole Justen unterstützte im Lektorat, und die Herausgeberinnen betonen die gute Zusammenarbeit aller Beteiligten.",
+      "difficulty": "medium",
+      "topic": "Beiträge zum Zustandekommen der Publikation",
+      "source_file": "1001586-005-006.txt"
+    },
+    {
+      "question": "Was versteht man unter beraterischer Kompetenz in der Pflege?",
+      "answer": "Beraterische Kompetenz in der Pflege umfasst die Fähigkeit, in Pflege- und Pflegebildungssituationen kompetent zu handeln, indem klinisches Wissen aus theoriegeleitetem und praktischem Erfahrungswissen angewendet wird, um situative und kontextuelle Anforderungen zu bewältigen.",
+      "difficulty": "easy",
+      "topic": "Definition beraterischer Kompetenz",
+      "source_file": "9783866496811-192-195.txt"
+    },
+    {
+      "question": "Welche Rolle spielt die Eigenverantwortlichkeit der Lernenden bei der Kompetenzentwicklung in der Pflegeausbildung?",
+      "answer": "Die Eigenverantwortlichkeit der Lernenden ist eine notwendige und zielführende Voraussetzung für die Kompetenzentwicklung, da sie Lernprozesse aktiv mitgestalten und Lernanlässe in realen Pflegesituationen selbstständig nutzen können, was durch fachliche und personale Begleitung unterstützt wird.",
+      "difficulty": "medium",
+      "topic": "Lernprozess und Kompetenzentwicklung",
+      "source_file": "9783866496811-192-195.txt"
+    },
+    {
+      "question": "Wie können Beratungsprozesse in der Pflegebildung methodisch-fachliche und personale Aspekte des Lernprozesses integrieren?",
+      "answer": "Beratungsprozesse können methodisch-fachliche Aspekte wie klinisches Wissen und praktische Fähigkeiten sowie personale Aspekte wie biographische, familiäre, soziale, psychische, kulturelle, religiöse, salutogenetische sowie ressourcen- und problemorientierte Themen einbeziehen und somit den Lernprozess umfassend unterstützen.",
+      "difficulty": "hard",
+      "topic": "Integration von Beratungsaspekten",
+      "source_file": "9783866496811-192-195.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, geeignete Rahmenbedingungen in lernenden Organisationen für die Pflegebildung bereitzustellen?",
+      "answer": "Geeignete Rahmenbedingungen sind wichtig, um den Lernenden eigenverantwortliche Beteiligung an Lernprozessen zu ermöglichen, die professionelle Pflegepraxis weiterzuentwickeln, die Unterstützung durch Pflegebildungseinrichtungen zu intensivieren und damit die Professionalität in der Pflegebildung zu fördern.",
+      "difficulty": "medium",
+      "topic": "Organisation und Rahmenbedingungen",
+      "source_file": "9783866496811-192-195.txt"
+    },
+    {
+      "question": "Wie können Ergebnisse aus europäischen und nationalen Qualifikationsrahmen die Weiterentwicklung der Pflegebildung beeinflussen?",
+      "answer": "Die europäischen und nationalen Qualifikationsrahmen bieten strukturelle Veränderungen, die bereits in Studiengängen sichtbar sind, und liefern wichtige Impulse für die Entwicklung lebendigen Lernens. Sie ermöglichen die Ableitung von Anregungen für die Gestaltung lernförderlicher Umgebungen und fördern die Forschungsergebnisse aus pflegewissenschaftlicher und pflegepädagogischer Bildungsforschung, was die Weiterentwicklung der Pflegebildung unterstützt.",
+      "difficulty": "hard",
+      "topic": "Qualifikationsrahmen und Pflegebildung",
+      "source_file": "9783866496811-192-195.txt"
+    },
+    {
+      "question": "Welche gesellschaftlichen Entwicklungen führen   zu einem erhöhten Beratungsbedarf?",
+      "answer": "  führen Entwicklungen wie zunehmende Individualisierung, Modernisierung, Wettbewerbs- und Optimierungslogik sowie Beschleunigung zu einem erhöhten Beratungs- und Coachingbedarf.",
+      "difficulty": "easy",
+      "topic": "Gesellschaftliche Entwicklungen und Beratungsbedarf",
+      "source_file": "9783847412304-033-058.txt"
+    },
+    {
+      "question": "Wie wird der Bedeutungszuwachs von Beratung im Kontext der heutigen Lebenskomplexität interpretiert?",
+      "answer": "Der Bedeutungszuwachs von Beratung wird als Folge einer zunehmenden Komplexität des heutigen Lebens gedeutet, die sich durch eine Zunahme von Informationen, sogenanntes 'informational overload', erhöhte Unkalkulierbarkeit auf den Arbeitsmärkten sowie steigende Unsicherheit in den (berufs-)biographischen Perspektiven auszeichnet.",
+      "difficulty": "medium",
+      "topic": "Bedeutung der Beratung",
+      "source_file": "9783847412304-033-058.txt"
+    },
+    {
+      "question": "Welche zwei zentralen Fragestellungen werden aus resonanztheoretischer Perspektive im Beitrag zur Beratung aufgeworfen?",
+      "answer": "Erstens wird gefragt, inwiefern sich Auswirkungen und Folgen der Beschleunigung auf die Beratung identifizieren lassen. Zweitens wird untersucht, ob Beratung eine instrumentalisierte Anpassung an den alternativlosen Mainstream erzeugt oder vielmehr eine Individualisierung verstärkt und die Optimierung, Beschleunigung und Flexibilität bis zur kritiklosen Selbstausbeutung steigert.",
+      "difficulty": "medium",
+      "topic": "Resonanztheoretische Perspektive auf Beratung",
+      "source_file": "9783847412304-033-058.txt"
+    },
+    {
+      "question": "Kritisch betrachtet, welche Rolle könnte Beratung im Kontext zunehmender Ökonomisierung und Wettbewerbslogik spielen?",
+      "answer": "Beratung könnte als Katalysator des sozialen Wandels fungieren, indem sie die zunehmende Beschleunigungs- und Wettbewerbslogik entweder verstärkt oder kritisch reflektiert. Dabei wird kritisch hinterfragt, ob Beratung eher zur Anpassung an ökonomische Zwänge beiträgt oder ob sie Handlungsspielräume eröffnet, ohne die Tendenzen zu Optimierung und Selbstausbeutung zu fördern.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Beratung im Kontext der Ökonomisierung",
+      "source_file": "9783847412304-033-058.txt"
+    },
+    {
+      "question": "Wie verbinden Hösel und Terzaroli die Aspekte Modernisierung und Individualisierung mit dem Beratungsbedarf im Erwachsenenalter?",
+      "answer": "Hösel und Terzaroli argumentieren, dass Modernisierung und Individualisierung als wichtige Faktoren gelten, um den steigenden Beratungsbedarf bei beruflichen Übergängen im Erwachsenenalter zu erklären. Sie entwickeln ein Analyseraster, um diese Übergänge komparativ zu erforschen und besser zu verstehen, wie Beratung in diesem Kontext wirkt.",
+      "difficulty": "hard",
+      "topic": "Forschung zu Beratung und Lebensübergängen",
+      "source_file": "9783847412304-033-058.txt"
+    },
+    {
+      "question": "Was versteht man unter Methodenkompetenz in der Beratung?",
+      "answer": "Methodenkompetenz in der Beratung umfasst die Kenntnis verschiedener Techniken, die Fähigkeit, diese gezielt für den Beratungsprozess auszuwählen und so zu kombinieren, dass sie den individuellen Erkenntnisprozess der Ratsuchenden unterstützen.",
+      "difficulty": "easy",
+      "topic": "Methodenkompetenz",
+      "source_file": "1001586-189-190.txt"
+    },
+    {
+      "question": "Warum sollten Methodenbeschreibungen nicht mit der tatsächlichen Durchführung von Methoden verwechselt werden?",
+      "answer": "Weil Methodenbeschreibungen nur eine Vorstellung davon geben, wie Beratungsprozesse ablaufen können, während die tatsächliche Durchführung immer von der konkreten Interaktion zwischen Beratenden und Ratsuchenden abhängt und sich selten exakt wiederholt.",
+      "difficulty": "medium",
+      "topic": "Methodenbeschreibung versus Durchführung",
+      "source_file": "1001586-189-190.txt"
+    },
+    {
+      "question": "Welche Verantwortung haben Beraterinnen und Berater bezüglich des Einsatzes von Methoden im Beratungsprozess?",
+      "answer": "Beraterinnen und Berater sind verantwortlich dafür, Methodenabläufe zu geeigneten Zeitpunkten zu initiieren, sie gegebenenfalls abzuwandeln, zu verlassen oder abzubrechen sowie diese Methoden in den zeitlichen Verlauf der Beratung zu integrieren.",
+      "difficulty": "medium",
+      "topic": "Verantwortung bei Methodenplanung",
+      "source_file": "1001586-189-190.txt"
+    },
+    {
+      "question": "Wie sollte vorgegangen werden, wenn ein Methodenangebot für die Ratsuchenden nicht stimmig ist?",
+      "answer": "In diesem Fall ist es wichtig, mithilfe geeigneter Gesprächsführungstechniken gemeinsam mit den Ratsuchenden eine alternative Methode zu finden, die besser zu ihrem Anliegen passt.",
+      "difficulty": "hard",
+      "topic": "Umgang mit nicht-stimmigen Methoden",
+      "source_file": "1001586-189-190.txt"
+    },
+    {
+      "question": "Erläutern Sie, warum der Ablauf einer Methode selten zweimal in gleicher Weise erfolgt und welche Rolle die Interaktion dabei spielt.",
+      "answer": "Der Ablauf einer Methode variiert, weil er sich aus der tatsächlichen Interaktion zwischen Beratenden und Ratsuchenden entfaltet. Diese Interaktion ist dynamisch und individuell, sodass jede Durchführung einer Methode einzigartig ist und sich an die spezifischen Bedürfnisse und Reaktionen der Ratsuchenden anpasst.",
+      "difficulty": "hard",
+      "topic": "Individualität des Methodenablaufs",
+      "source_file": "1001586-189-190.txt"
+    },
+    {
+      "question": "Was stellt das Lebensrad oder der Lebensstern in der lösungsorientierten Beratung dar?",
+      "answer": "Das Lebensrad oder der Lebensstern dient als Methode zur Visualisierung der Zufriedenheit in unterschiedlichen Lebensbereichen des Ratsuchenden. Es besteht aus einem großen Kreis, der in einzelne Kuchenstücke unterteilt ist, die verschiedene Lebensbereiche repräsentieren. An jeder Linie wird eine Skala von 1 bis 10 eingetragen, die den Zufriedenheitsgrad in dem jeweiligen Bereich zeigt.",
+      "difficulty": "easy",
+      "topic": "Faktische Beschreibung der Methode",
+      "source_file": "1001586-167-171.txt"
+    },
+    {
+      "question": "Wie unterstützt das Lebensrad den Beratungsprozess bei Unzufriedenheit des Ratsuchenden?",
+      "answer": "Das Lebensrad visualisiert die Problemlage der Unzufriedenheit in verschiedenen Lebensbereichen und ermöglicht es, gemeinsam mit dem Ratsuchenden strukturierte Lösungswege zu entwickeln. Ziel ist es, vom Ist-Wert (aktueller Zufriedenheitsgrad) zum Soll-Wert (gewünschter Zufriedenheitsgrad) in einem oder mehreren Lebensbereichen zu gelangen, indem auf einem A4-Blatt konkrete Veränderungsmöglichkeiten erarbeitet werden.",
+      "difficulty": "medium",
+      "topic": "Funktionsweise und Ziel der Methode",
+      "source_file": "1001586-167-171.txt"
+    },
+    {
+      "question": "In welchen Beratungskontexten wird die Methode des Lebensrads typischerweise angewendet und warum?",
+      "answer": "Die Methode wird vor allem in der Berufs- oder Studienberatung verwendet, kann aber auch bei Anliegen zur Beziehungssituation, persönlichen Lebensqualität oder Work-Life-Balance eingesetzt werden. Sie eignet sich besonders dann, wenn der Ratsuchende Unzufriedenheit äußert, aber keine klare Handlungsorientierung für Veränderungen hat, da das Lebensrad eine Visualisierung und Strukturierung der Situation schafft.",
+      "difficulty": "medium",
+      "topic": "Anwendungsbereiche der Methode",
+      "source_file": "1001586-167-171.txt"
+    },
+    {
+      "question": "Warum ist die Visualisierung mittels Lebensrad für Ratsuchende mit komplexen und voneinander abhängigen Lebensbereichen besonders hilfreich?",
+      "answer": "Weil die verschiedenen Lebensbereiche oft miteinander verflochten sind und sich gegenseitig beeinflussen, fällt es Ratsuchenden schwer, einen Anfang zur Veränderung zu finden. Die Visualisierung mit dem Lebensrad macht diese Zusammenhänge sichtbar, ordnet die Zufriedenheit in den einzelnen Bereichen und hilft so, Prioritäten zu setzen und gezielte Lösungsansätze zu entwickeln.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Methode",
+      "source_file": "1001586-167-171.txt"
+    },
+    {
+      "question": "Wie kann man die Methode des Lebensrads mit anderen Beratungsinstrumenten kombinieren, um eine nachhaltigere Verbesserung der Lebensqualität zu erzielen?",
+      "answer": "Man könnte das Lebensrad mit Zielsetzungs- und Ressourcenanalysen ergänzen, um neben der Visualisierung der Zufriedenheit auch konkrete Handlungsschritte und vorhandene Stärken des Ratsuchenden zu identifizieren. Durch die Kombination mit Techniken wie SMART-Zielsetzung oder Motivationsförderung kann der Beratungsprozess strukturierter gestaltet und die Umsetzung der Veränderungen langfristig unterstützt werden.",
+      "difficulty": "hard",
+      "topic": "Synthese und Anwendung der Methode",
+      "source_file": "1001586-167-171.txt"
+    },
+    {
+      "question": "Wer ist der Urheber der Netzwerkmethode und wozu dient sie in der Beratung?",
+      "answer": "Die Netzwerkmethode ist auf Dr. W. Vogelauer zurückzuführen und dient zur Visualisierung von komplexen Entscheidungsmöglichkeiten einer ratsuchenden Person.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Netzwerkmethode",
+      "source_file": "1001586-162-166.txt"
+    },
+    {
+      "question": "Wie werden die Handlungsoptionen bei der Netzwerkmethode dargestellt und miteinander verbunden?",
+      "answer": "Die Handlungsoptionen werden auf Moderationskarten, beispielsweise in Wolkenform, notiert und auf einem Plakat als Netzwerk dargestellt. Die Beziehungen und Beeinflussungen zwischen den Optionen werden durch Pfeile und Symbole visualisiert.",
+      "difficulty": "medium",
+      "topic": "Darstellung und Visualisierung",
+      "source_file": "1001586-162-166.txt"
+    },
+    {
+      "question": "Welche Schritte folgen nach der Anwendung der Netzwerkmethode in der Beratung, um die Entscheidung weiter zu strukturieren?",
+      "answer": "Nach der Netzwerkmethode wird gemeinsam oder von der ratsuchenden Person zuhause eine Handlungs-Matrix ausgefüllt, in der die Entscheidungsmöglichkeiten strukturiert, priorisiert und hinsichtlich des Einflusses (aktiv oder passiv) sowie der Zeithorizonte (kurz-, mittel- und langfristig) bewertet werden.",
+      "difficulty": "medium",
+      "topic": "Anwendung und Nachbereitung",
+      "source_file": "1001586-162-166.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, dass in der Netzwerkmethode die Handlungsoption mit den meisten Pfeilen als erstes thematisiert wird, und welche Wirkung hat dies auf den Entscheidungsprozess?",
+      "answer": "Die Handlungsoption mit den meisten Pfeilen ist zentral, da sie entweder viele andere Optionen beeinflusst oder selbst stark beeinflusst wird. Durch das Thematisieren dieser Option zuerst wird der Fokus auf den wichtigsten Entscheidungspunkt gelegt, was hilft, die Komplexität zu reduzieren und Prioritäten im Entscheidungsprozess zu setzen.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Methode",
+      "source_file": "1001586-162-166.txt"
+    },
+    {
+      "question": "Wie verknüpft die Netzwerkmethode die beruflichen und privaten Veränderungsoptionen der ratsuchenden Person, und welche Vorteile ergeben sich daraus für die Entscheidungsfindung?",
+      "answer": "Die Netzwerkmethode stellt Zusammenhänge zwischen verschiedenen beruflichen und privaten Handlungsoptionen her, die zunächst unvereinbar erscheinen können. Durch die Visualisierung dieser Vernetzungen werden Wechselwirkungen sichtbar, was es der ratsuchenden Person ermöglicht, Prioritäten zu erkennen und informierte Entscheidungen zu treffen, die sowohl berufliche als auch private Aspekte berücksichtigen.",
+      "difficulty": "hard",
+      "topic": "Synthese von Informationen",
+      "source_file": "1001586-162-166.txt"
+    },
+    {
+      "question": "Wie wird Beratung in angrenzenden Professionen wie der Sozialen Arbeit verstanden?",
+      "answer": "In angrenzenden Professionen wie der Sozialen Arbeit wird Beratung bereits als eine eigene Handlungskompetenz verstanden und befindet sich auf dem Weg der Akademisierung und Etablierung als eigene Wissenschaft.",
+      "difficulty": "easy",
+      "topic": "Beratung in angrenzenden Professionen",
+      "source_file": "9783866496811-026-051.txt"
+    },
+    {
+      "question": "Welche unterschiedlichen Charaktere können Interaktionen zwischen Pflegepersonal und Patienten annehmen?",
+      "answer": "Interaktionen können einen behandlungspflegerischen Kontakt vor oder nach Untersuchungen, Operationen oder nach dem Erhalt einer unerwarteten Diagnose umfassen, ebenso wie tägliche Grundpflege im Krankenhaus, Alten- und Pflegeheim oder ambulant zu Hause, wobei stets auch die Angehörigen individuell einbezogen werden.",
+      "difficulty": "medium",
+      "topic": "Interaktionen in der Pflege",
+      "source_file": "9783866496811-026-051.txt"
+    },
+    {
+      "question": "Warum ist es notwendig, sowohl den gegenwärtigen Zustand der Beratung in der Pflege als auch den normativen Hintergrund zu betrachten?",
+      "answer": "Es ist notwendig, um die notwendigen Weiterentwicklungen der Beratungsarbeit, der Pflegebildung und den gesetzlichen Regelungen zu erkennen und damit Beratung in der Pflege genauer zu verstehen und zu verbessern.",
+      "difficulty": "medium",
+      "topic": "Normative Rahmungen der Beratung in der Pflege",
+      "source_file": "9783866496811-026-051.txt"
+    },
+    {
+      "question": "Welche historischen Gruppen haben vor unserer Zeitrechnung bis ins späte Mittelalter die Versorgung von Kranken und Alten übernommen, und welches Verständnis lag dieser Versorgung zugrunde?",
+      "answer": "Weise Frauen, Ordensschwestern, Ordensbrüder, Beginen und Angehörige weltlicher Orden übernahmen die Versorgung von Kranken, Siechen und Alten meist in einem ganzheitlichen Verständnis, das neben der Pflege auch Kommunikation und Beratung einschloss.",
+      "difficulty": "hard",
+      "topic": "Historische Entwicklung der Pflege und Beratung",
+      "source_file": "9783866496811-026-051.txt"
+    },
+    {
+      "question": "Wie lässt sich die Entwicklung der Beratungskompetenz in der Pflege im Vergleich zu anderen Professionen kritisch analysieren?",
+      "answer": "Während Beratung in angrenzenden Professionen wie der Sozialen Arbeit bereits als eigenständige Handlungskompetenz und Wissenschaft etabliert wird und akademisiert, befindet sich die Beratung in der Pflege noch im Entwicklungsprozess und ist durch vielfältige Interaktionsformen mit Patienten und Angehörigen geprägt. Dies zeigt, dass Beratung in der Pflege zwar historisch verankert ist, aber eine stärkere normative und akademische Verankerung benötigt, um als spezifische Kompetenz innerhalb der Profession vollständig anerkannt zu werden.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Beratungskompetenz in der Pflege",
+      "source_file": "9783866496811-026-051.txt"
+    },
+    {
+      "question": "Welche Veränderungen im Erwerbsverlauf werden in der Übergangsforschung bisher wenig berücksichtigt?",
+      "answer": "Berufliche Übergänge im Sinne von Berufs-, Betriebs- und Funktionswechseln innerhalb des Erwerbsverlaufs werden bisher in der Übergangsforschung nur wenig betrachtet.",
+      "difficulty": "easy",
+      "topic": "Berufliche Übergänge",
+      "source_file": "9783847412304-181-234.txt"
+    },
+    {
+      "question": "Warum fordert die erwachsenenpädagogische Übergangsforschung ein 'Denken in Übergängen'?",
+      "answer": "Weil Übergangszeiten als persönlich bedeutsame Entwicklungs- und Bildungsprozesse angesehen werden, die eine lernförderliche Supportstruktur erfordern, um eine professionelle Entwicklungsbegleitung im Kontext lebenslangen Lernens zu ermöglichen.",
+      "difficulty": "medium",
+      "topic": "Erwachsenenpädagogische Übergangsforschung",
+      "source_file": "9783847412304-181-234.txt"
+    },
+    {
+      "question": "Wie verändert sich die Bildungs- und Berufsbiografie von betrieblichen Interessenvertreter*innen  ?",
+      "answer": "Sie ist zunehmend von Brüchen, Ausstiegen, Umstiegen und Wiedereinstiegen geprägt, also von verschiedenen Übergängen.",
+      "difficulty": "medium",
+      "topic": "Bildungs- und Berufsbiografie betrieblichen Interessenvertreter*innen",
+      "source_file": "9783847412304-181-234.txt"
+    },
+    {
+      "question": "Welche Herausforderungen ergeben sich   für freigestellte Betriebsratsmitglieder im Hinblick auf ihre Erwerbsbiografie?",
+      "answer": "Für freigestellte Betriebsratsmitglieder wird die Betriebsratsarbeit zur Hauptbeschäftigung und somit zu einer eigenen Phase in der Erwerbsbiografie. Aufgrund wirtschaftlicher und betrieblicher Veränderungen finden Übergänge oft wider Willen statt, und die Arbeit wird als zeitlich begrenzte Phase verstanden, nach der ein beruflicher Wechsel angestrebt wird.",
+      "difficulty": "hard",
+      "topic": "Betriebsratsarbeit und Erwerbsbiografie",
+      "source_file": "9783847412304-181-234.txt"
+    },
+    {
+      "question": "Wie kann Reﬂexive Übergangsberatung als lernförderliche Supportstruktur im Beispiel des Projekts 'Spurwechsel' beschrieben werden?",
+      "answer": "Reﬂexive Übergangsberatung dient als ein Format, das persönliche Entwicklungs- und Bildungsprozesse in Übergangszeiten unterstützt, indem es betriebliche Interessenvertreter*innen bei der Gestaltung von Übergängen in ihrer Bildungs- und Erwerbsbiografie begleitet und Lernprozesse initiiert.",
+      "difficulty": "hard",
+      "topic": "Reﬂexive Übergangsberatung und Praxisforschungsprojekt 'Spurwechsel'",
+      "source_file": "9783847412304-181-234.txt"
+    },
+    {
+      "question": "Welche gesellschaftlichen Veränderungen beeinflussen die Anforderungen an soziale Dienstleistungen im Pflegebereich?",
+      "answer": "Der demographische Wandel und die Beschleunigung der Informationsverarbeitung beeinflussen die Anforderungen an soziale Dienstleistungen im Pflegebereich, indem sie größere Bedeutung auf soziale und kulturelle Fähigkeiten und Verantwortlichkeiten legen.",
+      "difficulty": "easy",
+      "topic": "Gesellschaftliche Veränderungen",
+      "source_file": "9783866496811-098-147.txt"
+    },
+    {
+      "question": "Warum ist die Lern-, Reflexions- und Dialogfähigkeit für Pflegefachkräfte besonders wichtig?",
+      "answer": "Die Lern-, Reflexions- und Dialogfähigkeit ist wichtig, weil sie das ‚In-der-Welt-zurecht-kommen‘ in komplexen, herausfordernden Situationen ermöglicht und eine anteilnehmende und anteilgebende Haltung fördert, die für den verantwortlichen Umgang mit neuen Anforderungen notwendig ist.",
+      "difficulty": "medium",
+      "topic": "Kompetenzen in der Pflege",
+      "source_file": "9783866496811-098-147.txt"
+    },
+    {
+      "question": "Wie wirken sich neurowissenschaftliche Erkenntnisse auf das Verständnis von Autonomie und Entwicklungsfähigkeit in der Pflegeausbildung aus?",
+      "answer": "Neurowissenschaftliche Erkenntnisse machen aufmerksam auf Fragen des freien Willens, der Autonomie sowie der Entwicklungs- und Wachstumspotentiale, was eine differenzierte Betrachtung und Förderung dieser Aspekte in der Pflegeausbildung erforderlich macht.",
+      "difficulty": "hard",
+      "topic": "Neurowissenschaftliche Erkenntnisse und Pflege",
+      "source_file": "9783866496811-098-147.txt"
+    },
+    {
+      "question": "Welche Belastungen entstehen für Pflegefachkräfte durch die aktuellen Veränderungen in Pflegeeinrichtungen und wie wirken sich diese auf das pflegerische Handeln aus?",
+      "answer": "Die erhöhte Arbeitsdichte, steigende Pflegebedarfe sowie Qualitätssicherungs- und Strukturveränderungen führen zu Belastungen und Überforderung bei Pflegefachkräften, da sie in komplexen und gefährlichen Pflegesituationen verantwortlich und kompetent handeln müssen, was oft als belastend erlebt wird.",
+      "difficulty": "medium",
+      "topic": "Herausforderungen im Pflegealltag",
+      "source_file": "9783866496811-098-147.txt"
+    },
+    {
+      "question": "Inwiefern beeinflussen gesellschaftliche und organisationale Wandlungen die Rollen von Lehrenden, Praxisanleitenden und Lernenden in der Pflegeausbildung?",
+      "answer": "Gesellschaftliche und organisationale Wandlungen verändern die Rahmenbedingungen, unter denen Lehrende, Praxisanleitende und Lernende agieren, indem sie neue Anforderungen an Lernberatung, Praxisanleitung und Praxisbegleitung stellen, die sich auf deren konkretes Handeln und die Gestaltung von Lernprozessen auswirken.",
+      "difficulty": "hard",
+      "topic": "Einfluss gesellschaftlicher Wandlungen auf Pflegeausbildung",
+      "source_file": "9783866496811-098-147.txt"
+    },
+    {
+      "question": "Wer hat die Methode des \"Inneren Teams\" entwickelt und in welchem Kontext wird sie hauptsächlich eingesetzt?",
+      "answer": "Die Methode des \"Inneren Teams\" wurde von Prof. Dr. Schulz von Thun entwickelt und wird hauptsächlich eingesetzt, wenn eine Person sich in einem inneren Konflikt befindet, beispielsweise bei einer unklaren Entscheidung wie einer beruflichen Umorientierung.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Methode",
+      "source_file": "1001586-140-144.txt"
+    },
+    {
+      "question": "Wie werden widersprüchliche Wünsche und Interessen einer Person im Modell des Inneren Teams dargestellt?",
+      "answer": "Widersprüchliche Wünsche und Interessen werden als unterschiedliche Mitglieder eines gedachten inneren Teams versinnbildlicht, die unterschiedliche Meinungen vertreten und somit verschiedene Antworten auf dieselbe Frage geben.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelles Verständnis",
+      "source_file": "1001586-140-144.txt"
+    },
+    {
+      "question": "Welche Rolle übernimmt der Berater oder die Beraterin bei der Anwendung der Methode des Inneren Teams?",
+      "answer": "Der Berater oder die Beraterin unterstützt die zu beratende Person dabei, alle inneren Teammitglieder zu identifizieren und zu benennen, hört aktiv zu, stellt offene Fragen und hilft dabei, die inneren Stimmen zu befragen, um Entscheidungshemmnisse zu bearbeiten und zu überwinden.",
+      "difficulty": "medium",
+      "topic": "Anwendung der Methode",
+      "source_file": "1001586-140-144.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat die Offenheit des Ratsuchenden im Prozess der Arbeit mit dem Inneren Team und warum ist sie wichtig?",
+      "answer": "Die Offenheit des Ratsuchenden ist entscheidend, da nur durch ehrliches und offenes Äußern der inneren Stimmen die verschiedenen Mitglieder des Inneren Teams identifiziert werden können. Ohne diese Offenheit kann keine Ordnung der inneren Haltung geschaffen werden, die eine Entscheidung ermöglicht.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Methode",
+      "source_file": "1001586-140-144.txt"
+    },
+    {
+      "question": "Wie sollte ein Berater die Methode des Inneren Teams vorbereiten und durchführen, um die Entscheidungsfindung der zu beratenden Person effektiv zu unterstützen?",
+      "answer": "Der Berater sollte sich zunächst selbst mit der komplexen Methode auseinandersetzen und ein Grundschema des Inneren Teams auf einem Plakat vorzeichnen, das genügend Platz für mehrere Teammitglieder bietet. Im Gespräch schlägt er dem Ratsuchenden die Methode vor, erklärt den Ablauf und stellt offene Fragen, um alle inneren Stimmen zu identifizieren, präzisieren und aufzuzeichnen. Durch aktives Zuhören unterstützt er die Person als ihr eigener Coach, um die unterschiedlichen inneren Stimmen zu ordnen und eine Entscheidung zu vermitteln.",
+      "difficulty": "hard",
+      "topic": "Synthese und praktische Durchführung",
+      "source_file": "1001586-140-144.txt"
+    },
+    {
+      "question": "Was geschieht laut Christiane Hellwig zwischen den Methoden in einem Beratungsprozess?",
+      "answer": "Zwischen den Methoden passiert Beziehung – die Beziehung zwischen den Menschen, die in die Durchführung der Methode involviert sind, und das Erleben in und mit dieser Beziehung.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Beratung",
+      "source_file": "1001586-191-206.txt"
+    },
+    {
+      "question": "Warum können Methoden in verschiedenen Situationen unterschiedliche Wirkungen entfalten?",
+      "answer": "Weil die Qualität der Beziehung zwischen Beraterin und Ratsuchendem darüber bestimmt, wie Worte und Handlungen wirken. Methoden entfalten sich in jeder Beziehung neu und können daher nicht zweimal dieselben Effekte hervorrufen.",
+      "difficulty": "medium",
+      "topic": "Wirkung von Methoden",
+      "source_file": "1001586-191-206.txt"
+    },
+    {
+      "question": "Wie sollte eine Beraterin oder ein Berater vor und während der Anwendung von Methoden die Beziehung zum Ratsuchenden gestalten?",
+      "answer": "Sie sollten eine tragfähige Beziehung schaffen, in der sie beständig den Glauben und das Vertrauen in die Fähigkeiten des Individuums ausdrücken, um eine interpersonelle Situation zu ermöglichen, in der der Klient eigene, bisher unentdeckte Ressourcen zur Problembewältigung bewusst werden können.",
+      "difficulty": "medium",
+      "topic": "Beziehungsaufbau in der Beratung",
+      "source_file": "1001586-191-206.txt"
+    },
+    {
+      "question": "Analysieren Sie, warum die \"wirkliche Begegnung\" zwischen Menschen als grundlegend für den Beratungsprozess angesehen wird.",
+      "answer": "Die \"wirkliche Begegnung\" ist grundlegend, weil Menschen nur in wertschätzenden Beziehungen konstruktiv wachsen und Fehlannahmen korrigieren können. Diese Begegnung basiert auf der Beziehungsangewiesenheit jedes Menschen und ermöglicht, dass Entwicklung und Potenzialentfaltung stattfinden können.",
+      "difficulty": "hard",
+      "topic": "Beziehungsqualität und Entwicklung",
+      "source_file": "1001586-191-206.txt"
+    },
+    {
+      "question": "Wie lässt sich das Verständnis von \"Material zu Bewusstsein kommen\" bei Klienten mit der Rolle der Beziehung in der Beratung verbinden?",
+      "answer": "\"Material zu Bewusstsein kommen\" bedeutet, dass Klienten Zugang zu eigenen, bisher unentdeckten Ressourcen zur Problembewältigung erhalten. Dies kann nur in einer vertrauensvollen, wertschätzenden Beziehung geschehen, in der der Berater den Glauben an die Fähigkeiten des Klienten ausdrückt und so eine sichere Umgebung schafft, in der diese Ressourcen entdeckt und genutzt werden können.",
+      "difficulty": "hard",
+      "topic": "Synthese von Beziehung und Ressourcenarbeit",
+      "source_file": "1001586-191-206.txt"
+    },
+    {
+      "question": "Warum ist eine theoretische Verortung bei der Anwendung von Methoden und Techniken in Beratungsprozessen unerlässlich?",
+      "answer": "Eine theoretische Verortung ist unerlässlich, weil Methoden und Techniken nur vor dem Hintergrund einer Theorie wirksam sind, die die Haltung und das Denken der Beraterin oder des Beraters prägt. Theoretische Konzepte bestimmen, was in der Beratungssituation wahrgenommen wird und geben den Sachverhalten Bedeutung.",
+      "difficulty": "easy",
+      "topic": "Theorie und Methodik in der Beratung",
+      "source_file": "1001586-017-038.txt"
+    },
+    {
+      "question": "Welche theoretischen Ansätze werden in Beratungsprozessen häufig kombiniert, und warum sollten sie nicht isoliert betrachtet werden?",
+      "answer": "Häufige theoretische Ansätze sind Varianten der humanistischen Psychologie, des sozialen Konstruktivismus, der Systemtheorie und der Theorie der Selbstbildung. Sie sollten nicht isoliert betrachtet werden, da sie historisch und konzeptionell miteinander verbunden sind und sich gegenseitig ergänzen.",
+      "difficulty": "medium",
+      "topic": "Theoretische Ansätze in der Beratung",
+      "source_file": "1001586-017-038.txt"
+    },
+    {
+      "question": "Wie trägt eine gute Theorie nach Kant zur Entwicklung der Persönlichkeit und zur Erweiterung von Kompetenzen bei Beratungsprozessen bei?",
+      "answer": "Nach Kant eröffnet eine gute Theorie als Denkgebäude Möglichkeitsräume für die Persönlichkeitsentwicklung und die Erweiterung von Kompetenzen. Sie ermöglicht die Vorbereitung von Entscheidungen und das Beginnen von Neuem, indem sie eine geschulte Wahrnehmung und geeignete Werkzeuge für den situativen Umgang bereitstellt.",
+      "difficulty": "medium",
+      "topic": "Theorie und Persönlichkeitsentwicklung",
+      "source_file": "1001586-017-038.txt"
+    },
+    {
+      "question": "Analysieren Sie, welche Rolle Beziehungskompetenz in humanistischen Theorien der Beratung spielt und wie sie sich auf die Beratungspraxis auswirkt.",
+      "answer": "In humanistischen Theorien, insbesondere bei Carl R. Rogers, ist Beziehungskompetenz zentral. Sie stellt das Fundament für erfolgreiche Beratung dar, da sie den vertrauensvollen Umgang und die Akzeptanz des Ratsuchenden fördert. Diese Kompetenz ermöglicht es, eine unterstützende Atmosphäre zu schaffen, die die Persönlichkeitsbildung und die Selbstentwicklung des Ratsuchenden begünstigt.",
+      "difficulty": "hard",
+      "topic": "Humanistische Beratungstheorien",
+      "source_file": "1001586-017-038.txt"
+    },
+    {
+      "question": "Wie lässt sich das Zusammenspiel von theoretischem Wissen, Methodenkompetenz und situativem Umgang in der Praxis erfolgreicher Beratung beschreiben?",
+      "answer": "Erfolgreiche Beratung erfordert ein Zusammenspiel von theoretischem Wissen, das die Wahrnehmung und Interpretation von Beratungssituationen steuert, Methodenkompetenz, die den gezielten Einsatz von Techniken ermöglicht, sowie situativem Umgang, der auf die individuellen Bedürfnisse der Ratsuchenden eingeht. Nur durch diese Kombination kann eine Beraterin oder ein Berater die Aufmerksamkeit für die Person ebnen, Metakommunikation verbessern, Reflexionskompetenz stärken und die Lenkungskompetenz in Beratungsgesprächen erhöhen.",
+      "difficulty": "hard",
+      "topic": "Praxis der Beratung",
+      "source_file": "1001586-017-038.txt"
+    },
+    {
+      "question": "Was ist das Tetralemma und in welchem Kontext wird es hauptsächlich angewendet?",
+      "answer": "Das Tetralemma ist eine Methode, die für die Strukturaufstellungsarbeit entwickelt wurde und vor allem im Kontext der systemischen Beratungspraxis Anwendung findet. Sie dient dazu, Entscheidungsprozesse zu unterstützen, insbesondere bei vermeintlichen Dilemmata.",
+      "difficulty": "easy",
+      "topic": "Grundlagen des Tetralemmas",
+      "source_file": "1001586-132-135.txt"
+    },
+    {
+      "question": "Wie erweitert das Tetralemma die herkömmliche Entscheidungsfindung und welche Dimensionen werden dabei berücksichtigt?",
+      "answer": "Das Tetralemma erweitert die Entscheidungsfindung von zwei auf mindestens vier Optionen. Dabei werden neben kognitiven Aspekten auch Emotionen und leibliche Empfindungen der Ratsuchenden ganzheitlich in die Suche nach Entscheidungen einbezogen.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelle Erweiterung und Ganzheitlichkeit",
+      "source_file": "1001586-132-135.txt"
+    },
+    {
+      "question": "Nennen Sie die vier grundlegenden Positionen des Tetralemmas und erläutern Sie kurz die Funktion der dritten Position.",
+      "answer": "Die vier grundlegenden Positionen sind: 1. Das Eine (eine mögliche Lösung), 2. Das Andere (eine alternative Lösung), 3. Beides (eine Meta-Position, die ermöglicht, beide Aussichten zu verbinden oder zu hinterfragen, ob eine Entscheidung zwischen beiden notwendig ist), 4. Keines von Beiden (ein noch distanzierterer Blick, der den Kontext und zugrundeliegende Werte, Bedürfnisse und Motive hinterfragt). Die dritte Position dient also dazu, aus einer beobachtenden Perspektive einen neuen Bewertungsrahmen zu schaffen und die Verbindung oder Notwendigkeit der Entscheidung zu prüfen.",
+      "difficulty": "medium",
+      "topic": "Positionen des Tetralemmas",
+      "source_file": "1001586-132-135.txt"
+    },
+    {
+      "question": "Analysieren Sie den Mehrwert der fünften Entscheidungsvariante, die als 'Joker' bezeichnet wird, im Entscheidungsprozess mit dem Tetralemma.",
+      "answer": "Die fünfte Entscheidungsvariante, der 'Joker', ermöglicht es, den bisherigen Tetralemmaprozess aus einer Metaebene zu betrachten und eröffnet die Möglichkeit, dass keine der bisherigen Optionen die Lösung sein muss. Dies fördert kreatives Denken, erlaubt neue Perspektiven und unterstützt das Wahrnehmen der Unabschließbarkeit aller Positionen, was den Entscheidungsprozess flexibler und offener macht.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der fünften Option",
+      "source_file": "1001586-132-135.txt"
+    },
+    {
+      "question": "Wie kann das Tetralemma in der Praxis visualisiert werden und welche Materialien sind dafür geeignet?",
+      "answer": "Das Tetralemma wird durch Visualisierungen umgesetzt, wobei zur Darstellung der vier Annahmen oder Entscheidungsoptionen verschiedene Materialien verwendet werden können, wie Moderationskarten, stellvertretende Symbole, Stühle oder anderes Material. Diese Hilfsmittel unterstützen die strukturierte Sortierung und das Ausloten der Optionen im Entscheidungsprozess.",
+      "difficulty": "easy",
+      "topic": "Anwendung und Materialien",
+      "source_file": "1001586-132-135.txt"
+    },
+    {
+      "question": "Was symbolisieren die Wurzeln, der Stamm und die Krone im Lebensbaum?",
+      "answer": "Die Wurzeln symbolisieren die Energiequellen, der Stamm steht für die Energiespeicher oder die aktuelle Situation, und die Krone repräsentiert die individuellen Ausprägungen, Wünsche und Ziele.",
+      "difficulty": "easy",
+      "topic": "Grundlagen der Methode Lebensbaum",
+      "source_file": "1001586-151-155.txt"
+    },
+    {
+      "question": "Wie kann der Lebensbaum im Beratungsprozess eingesetzt werden und zu welchem Zeitpunkt ist er besonders geeignet?",
+      "answer": "Der Lebensbaum kann zur Reflexion des bisherigen Lebensweges, zur Potenzialanalyse und zur Standortbestimmung verwendet werden. Er eignet sich besonders zu Beginn des Beratungsprozesses, da er eine Bestandsaufnahme der aktuellen Situation ermöglicht, kann aber auch zu späteren Zeitpunkten eingesetzt werden.",
+      "difficulty": "medium",
+      "topic": "Anwendung der Methode",
+      "source_file": "1001586-151-155.txt"
+    },
+    {
+      "question": "Welche Materialien werden für die Durchführung der Lebensbaum-Methode benötigt?",
+      "answer": "Für die Methode werden leere Zeichenblätter, Stifte oder Wachsmalkreide beziehungsweise andere Zeichenutensilien benötigt.",
+      "difficulty": "easy",
+      "topic": "Materialien",
+      "source_file": "1001586-151-155.txt"
+    },
+    {
+      "question": "Warum ist es sinnvoll, den Lebensbaum mit einer meditativen Phase einzuleiten, und wie soll diese Phase gestaltet werden?",
+      "answer": "Die meditative Einleitungsphase hilft den Ratsuchenden, sich auf die Methode einzustimmen und sich vorzustellen, wie die Entwicklung ihres bisherigen Lebens als Baum aussehen würde. Dies fördert die Reflexion und erleichtert die Visualisierung des Lebensweges.",
+      "difficulty": "medium",
+      "topic": "Ablauf der Methode",
+      "source_file": "1001586-151-155.txt"
+    },
+    {
+      "question": "Analysieren Sie, wie der Lebensbaum zur Zieldefinition und Ressourcenerkennung beitragen kann und welche Vorteile sich daraus für den Beratungsprozess ergeben.",
+      "answer": "Der Lebensbaum ermöglicht es, den eigenen Standpunkt zu verorten und Klarheit über angestrebte Ziele zu schaffen. Durch die Reflexion dessen, was bereits erreicht wurde, und das Erkennen vorhandener Ressourcen, können gemeinsam mit dem Beratenden neue Ziele definiert und zusätzliche Ressourcen erschlossen werden. Dies unterstützt den Beratungsprozess, indem es Wachstumsmöglichkeiten sichtbar macht und Fortschritte durch Ergänzungen des Baumes visualisiert werden kann.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse und Anwendung",
+      "source_file": "1001586-151-155.txt"
+    },
+    {
+      "question": "Was ist das Hauptziel der Analyse im Abschnitt \"Ergebnisse\"?",
+      "answer": "Das Hauptziel ist, die professionellen Handlungsstrategien zu rekonstruieren, die Berater_innen innerhalb der Spannungsfelder von beruflichem Selbstverständnis und sozialstrukturellen Rahmenbedingungen entwickeln.",
+      "difficulty": "easy",
+      "topic": "Forschungsziel",
+      "source_file": "9783839444856-112-221.txt"
+    },
+    {
+      "question": "Wie ist die Forschungsfrage für die Datenanalyse strukturiert?",
+      "answer": "Die Forschungsfrage ist in drei Teilschritte gegliedert: 1) Untersuchung des beruflichen Selbstverständnisses der Interviewpartner_innen im Zusammenhang mit Anerkennungsberatung, 2) Darstellung der Rahmenbedingungen, die als ermöglichende oder einschränkende Handlungsbedingungen diskutiert werden, und 3) Analyse der professionellen Handlungsstrategien innerhalb der identifizierten Spannungsfelder sowie deren Beziehung zum beruflichen Selbstverständnis.",
+      "difficulty": "medium",
+      "topic": "Forschungsstruktur",
+      "source_file": "9783839444856-112-221.txt"
+    },
+    {
+      "question": "Welche Spannungsfelder sind für die Analyse der Handlungsstrategien besonders relevant?",
+      "answer": "Besonders relevant sind die Spannungsfelder zwischen den beschriebenen Aufgaben, die entsprechend dem beruflichen Selbstverständnis übernommen werden, und den als hinderlich oder eingrenzend charakterisierten Handlungsbedingungen.",
+      "difficulty": "hard",
+      "topic": "Spannungsfelder und Handlungsstrategien",
+      "source_file": "9783839444856-112-221.txt"
+    },
+    {
+      "question": "Wie wird die Analyse der professionellen Handlungsstrategien methodisch ausgerichtet?",
+      "answer": "Die Analyse und Interpretation der professionellen Handlungsstrategien erfolgt aus einer anerkennungstheoretischen Perspektive, um die Strategien innerhalb der Spannungsfelder zwischen beruflichem Selbstverständnis und Rahmenbedingungen zu verstehen.",
+      "difficulty": "medium",
+      "topic": "Methodische Ausrichtung",
+      "source_file": "9783839444856-112-221.txt"
+    },
+    {
+      "question": "Welche zusätzlichen Informationen werden zur besseren Einordnung der Ergebnisse herangezogen?",
+      "answer": "Zur besseren Einordnung werden die soziodemografischen Merkmale der Interviewpartner_innen sowie die jeweiligen Beratungsstellen, in denen die Interviews stattfanden, dargestellt. Außerdem werden durch systematische Beobachtungen der Beratungsstellen ergänzende Informationen gewonnen.",
+      "difficulty": "easy",
+      "topic": "Kontext und Einordnung",
+      "source_file": "9783839444856-112-221.txt"
+    },
+    {
+      "question": "Was ist der Talentkompass NRW und wofür wird er verwendet?",
+      "answer": "Der Talentkompass NRW ist eine Orientierungshilfe für die berufliche Beratung, die in einem Ringordner Arbeitsblätter in mehreren Abteilungen enthält. Er wird genutzt, um in fünf Schritten den persönlichen Kompass der Ratsuchenden aus ihren Fähigkeiten, informellen Kompetenzen, Interessen, Wünschen und Wertvorstellungen zu entwickeln und damit berufliche Entscheidungen oder Entwicklungen zu unterstützen.",
+      "difficulty": "easy",
+      "topic": "Allgemeines",
+      "source_file": "1001586-184-188.txt"
+    },
+    {
+      "question": "Welche sechs Felder umfasst der Talentkompass NRW und wie werden diese kategorisiert?",
+      "answer": "Der Talentkompass NRW umfasst sechs Felder: Eigenschaften, Tätigkeiten und Wissen der Ratsuchenden, die als \"Kraftfelder\" bezeichnet werden, sowie die Aspekte berufliches Umfeld, Werte und Interessen, die als \"Magnetfelder\" bezeichnet werden.",
+      "difficulty": "medium",
+      "topic": "Struktur des Talentkompasses",
+      "source_file": "1001586-184-188.txt"
+    },
+    {
+      "question": "Wie wird der Talentkompass NRW in der Beratungspraxis eingesetzt und welche Materialien werden dafür benötigt?",
+      "answer": "Der Talentkompass NRW wird in der Einzelberatung in zwei Sitzungen von etwa zwei Stunden durchgeführt. Die Ratsuchenden erhalten den Ringordner mit den Arbeitsblättern, in dem sie persönliche Daten eintragen. Die Beratung wird mit Hilfe eines Leitfadens vorbereitet und mit dem Beispiel einer Geschichte über einen jungen Mann namens Frank als rotem Faden veranschaulicht. Benötigt werden der Ringordner \"Talentkompass NRW\" und Stifte.",
+      "difficulty": "medium",
+      "topic": "Anwendung und Materialien",
+      "source_file": "1001586-184-188.txt"
+    },
+    {
+      "question": "Warum ist es wichtig, dass Ratsuchende bei der Nutzung des Talentkompasses NRW in die Formulierung ihrer Antworten einbezogen werden?",
+      "answer": "Es ist wichtig, dass Ratsuchende in die Formulierung ihrer Antworten einbezogen werden, um deren persönliche Sichtweise und Selbstreflexion zu fördern und sicherzustellen, dass die Ergebnisse authentisch und individuell sind. Dies unterstützt eine bewusste Auseinandersetzung mit ihren Fähigkeiten, Interessen, Wünschen und Wertvorstellungen, die als Grundlage für berufliche Entscheidungen dienen.",
+      "difficulty": "hard",
+      "topic": "Beratungsprozess und Reflexion",
+      "source_file": "1001586-184-188.txt"
+    },
+    {
+      "question": "Wie könnte die Einbindung informeller Kompetenzen und persönlicher Wertvorstellungen im Talentkompass NRW die berufliche Entwicklung von Ratsuchenden positiv beeinflussen?",
+      "answer": "Die Einbindung informeller Kompetenzen und persönlicher Wertvorstellungen ermöglicht es Ratsuchenden, ein umfassenderes und realistisches Bild ihrer Fähigkeiten und Motivationen zu erhalten. Dadurch können berufliche Ziele besser an die individuellen Stärken und Wünsche angepasst werden, was die Motivation steigert und die Wahrscheinlichkeit erhöht, passende und erfüllende Arbeitsplätze zu finden. Zudem unterstützt dies eine nachhaltige berufliche Entwicklung, die nicht nur fachliche, sondern auch persönliche Aspekte berücksichtigt.",
+      "difficulty": "hard",
+      "topic": "Konzeptuelle Analyse und Synthese",
+      "source_file": "1001586-184-188.txt"
+    },
+    {
+      "question": "Was bedeutet systemische Beratung im Kontext der professionellen Pflege und welche Hauptmerkmale kennzeichnen sie?",
+      "answer": "Systemische Beratung im Kontext der professionellen Pflege ist konsequent kontextbezogen, verfolgt Ressourcen, versteht sich zirkulär und ist prozessdiagnostisch angelegt. Sie geht mutig mit notwendigen Interventionen um und balanciert sensibel die notwendigen Veränderungsprozesse, um der Not eine Wendung zu geben. Sie ist auf die jeweilige Person und deren soziales Umfeld bezogen und leistet in Raum und Zeit einen Begleithilfedienst.",
+      "difficulty": "medium",
+      "topic": "Systemische Beratung",
+      "source_file": "9783866496811-018-025.txt"
+    },
+    {
+      "question": "Nennen Sie die vier Abgrenzungskriterien zur Therapie nach Frank Nestmann (1995).",
+      "answer": "Die vier Abgrenzungskriterien zur Therapie nach Frank Nestmann sind: 1. Entwicklungsbezug, 2. Präventionsbezug, 3. Bildungsbezug und 4. Karrierebezug.",
+      "difficulty": "easy",
+      "topic": "Abgrenzung Beratung und Therapie",
+      "source_file": "9783866496811-018-025.txt"
+    },
+    {
+      "question": "Wie hat sich die Beratung von einem vorwiegend wissenstransformierenden Zugang weiterentwickelt und welche Rolle spielt der psycho-soziale Blick dabei?",
+      "answer": "Beratung hat sich von einem vorwiegend wissenstransformierenden Zugang, der als Kompetenz für gute Gespräche und Informationstransfer galt, weiterentwickelt hin zu einem Ansatz, der den psycho-sozialen Blick als ergänzungsrelevanten Faktor für pflegerelevante Berufskontexte integriert. Dies entspricht der Entwicklung der Beratungswissenschaft und der Akademisierung von Counseling, wodurch Beratung heute mehrdimensionale Aspekte wie psychosoziale Gesundheit und Kontextbezug berücksichtigt.",
+      "difficulty": "medium",
+      "topic": "Entwicklung der Beratung",
+      "source_file": "9783866496811-018-025.txt"
+    },
+    {
+      "question": "Analysieren Sie die Bedeutung der verschiedenen Praxissektoren, wie Beratung im Alter oder multikulturelle Beratung, für die Profilbildung der Beratung in den 90er Jahren.",
+      "answer": "Die verschiedenen Praxissektoren wie Beratung alter Menschen, Beratung für Frauen/Männer, multikulturelle Beratung, Aids-Beratung, Öko-Beratung und Beratung im Bereich Gesundheit/Wellness haben die etablierten Bildungs-, Berufs- und psychosozial-gesundheitlichen Beratungsbereiche ergänzt. Diese Diversifizierung trug zur Herausbildung eines eigenständigen theoretischen und praxisorientierten Profils der Beratung bei, indem sie unterschiedliche gesellschaftliche Bedürfnisse und Kontexte adressierten und die Identität der Beratung als eigenständiges Feld stärkten.",
+      "difficulty": "hard",
+      "topic": "Praxisentwicklung und Profilbildung",
+      "source_file": "9783866496811-018-025.txt"
+    },
+    {
+      "question": "Entwerfen Sie ein Konzept für eine systemische Pflegeberatung, das die in dem Text beschriebenen Prinzipien berücksichtigt und erläutern Sie, wie dieses Konzept den sozialen Kontext der Klientinnen und Klienten einbezieht.",
+      "answer": "Ein Konzept für systemische Pflegeberatung basiert auf der konsequenten Kontextbezogenheit, indem es die individuellen Bedürfnisse der Klientinnen und Klienten sowie deren soziales Umfeld berücksichtigt. Dabei werden Ressourcen identifiziert und zirkulär verstanden, das heißt, Wechselwirkungen zwischen Personen und ihrem Umfeld werden analysiert. Die Beratung wird prozessdiagnostisch gestaltet, um Veränderungen sensibel zu begleiten und Interventionen gezielt einzusetzen, um positive Wendungen zu ermöglichen. Dieses Konzept stellt die Person und deren soziales Umfeld in Raum und Zeit in den Mittelpunkt, indem es nicht nur individuelle Probleme, sondern auch familiäre, soziale und gesellschaftliche Faktoren einbezieht und so eine ganzheitliche Unterstützung bietet.",
+      "difficulty": "hard",
+      "topic": "Anwendung systemischer Beratung in der Pflege",
+      "source_file": "9783866496811-018-025.txt"
+    },
+    {
+      "question": "Was ist ein Selbsttest im Kontext der beruflichen Beratung und wozu dient er?",
+      "answer": "Ein Selbsttest ist ein Fragebogen, den die Ratsuchenden selbst ausfüllen, um ihre besonderen Fähigkeiten, Motive und persönlichen Werthaltungen zu reflektieren. Er dient als Orientierungshilfe für Laufbahnentscheidungen und erleichtert durch die Reflexion den Entscheidungsprozess.",
+      "difficulty": "easy",
+      "topic": "Faktisches Wissen - Definition und Zweck",
+      "source_file": "1001586-172-177.txt"
+    },
+    {
+      "question": "Warum wird empfohlen, den Selbsttest vor dem Beratungsgespräch selbst einmal durchzuführen?",
+      "answer": "Es wird empfohlen, den Test selbst durchzuführen, um ein besseres Verständnis über dessen Umfang, Struktur und einzelne Items zu erhalten. So kann der Berater oder die Beraterin besser einschätzen, an welchen Stellen der Ratsuchende eventuell Schwierigkeiten haben könnte und welche Hilfestellung notwendig ist.",
+      "difficulty": "medium",
+      "topic": "Konzeptuelles Verständnis - Vorbereitung",
+      "source_file": "1001586-172-177.txt"
+    },
+    {
+      "question": "Wie helfen sich wiederholende Items im Selbsttest, ein aussagekräftigeres Ergebnis zu erzielen?",
+      "answer": "Die sich wiederholenden Items gleichen die Tendenz aus, Antworten anzukreuzen, die von außen als besonders positiv angesehen werden. Dadurch wird eine Verzerrung durch Sozialerwartungen reduziert und das Ergebnis wird aussagekräftiger.",
+      "difficulty": "medium",
+      "topic": "Anwendung - Teststruktur und Auswertung",
+      "source_file": "1001586-172-177.txt"
+    },
+    {
+      "question": "Welche Situationen eignen sich besonders für den Einsatz eines Selbsttests wie dem Karriereanker in der Bildungsberatung?",
+      "answer": "Besonders geeignet sind Situationen, in denen der Ratsuchende unsicher über seine berufliche Zukunft ist, seine Stärken und Schwächen nicht klar erkennt oder durch äußere Einflüsse in der Selbstwahrnehmung beeinträchtigt ist. Auch an beruflichen oder privaten Scheidewegen, bei denen sich äußere und innere Umstände ändern, kann der Selbsttest neue Perspektiven eröffnen.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse - Einsatzbereiche",
+      "source_file": "1001586-172-177.txt"
+    },
+    {
+      "question": "Wie trägt die Kombination aus Selbsttest und anschließender gemeinsamer Auswertung im Beratungsgespräch zur Zielerarbeitung bei?",
+      "answer": "Der Selbsttest regt die Ratsuchenden zur Selbstreflexion an und macht deren persönliche Fähigkeiten, Motive und Werte bewusst. Die gemeinsame Auswertung im Beratungsgespräch ermöglicht es, diese Ergebnisse zu interpretieren, Unklarheiten zu klären und individuelle Perspektiven zu entwickeln. So wird der Entscheidungsprozess unterstützt und die berufliche Orientierung gefördert.",
+      "difficulty": "hard",
+      "topic": "Synthese - Beratungsprozess",
+      "source_file": "1001586-172-177.txt"
+    },
+    {
+      "question": "Welche zwei Stilrichtungen lassen sich in den gesundheitsorientierten Beratungsansätzen im deutschen Sprachraum Ende der 90er Jahre und Anfang 2000 unterscheiden?",
+      "answer": "Die zwei Stilrichtungen sind einerseits die Praxis- und Berufsfeldorientierung als ‚Beratung in…‘ und andererseits die Beschreibung von relevanten Feldern der Gesundheitsförderung und Prävention sowie deren Ergänzungsbedürftigkeit um die Beratungskompetenz als ‚... und Beratung‘.",
+      "difficulty": "medium",
+      "topic": "Stilrichtungen der gesundheitsorientierten Beratung",
+      "source_file": "9783866496811-014-017.txt"
+    },
+    {
+      "question": "Was wird im Fachbuch als besonders hervorzuhebende Orientierung innerhalb der psychosozial-beratenden Schulen und Handlungskonzepte dargestellt?",
+      "answer": "Die systemische Orientierung wird als besonders hervorzuhebende Orientierung dargestellt, sowohl in der Beratung als auch im Pflegehandeln und in der Pflegeausbildung, da sie als brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen gilt.",
+      "difficulty": "easy",
+      "topic": "Systemische Orientierung in der Beratung",
+      "source_file": "9783866496811-014-017.txt"
+    },
+    {
+      "question": "Wie sieht die neue Herausforderung in der Pflegebildung bezüglich der systemischen Beratung aus, wie sie im Text beschrieben wird?",
+      "answer": "Die neue Herausforderung besteht darin, wie Wissen und Haltung als systemische Kernkompetenz mit einem Konzept des systemischen Beratungshandelns verbunden werden können, um die Schnittstellen der systemischen Beratung in pädagogischen Handlungsfeldern der Pflegeausbildung deutlicher zu betrachten.",
+      "difficulty": "hard",
+      "topic": "Herausforderungen der Pflegebildung",
+      "source_file": "9783866496811-014-017.txt"
+    },
+    {
+      "question": "Warum reicht nach dem Text Wissen um Beratung und Pflegehandlungen allein nicht aus für die Beratung in der Pflege?",
+      "answer": "Weil kompetenzorientierte Beratung eine neue Sicherheit in der Unterscheidung von Pflege und Beratung sowie eine gut reflektierte Sicht auf die Schnittstellen benötigt; zudem brauchen Expertinnen in Pflegebildung Grundlagenwissen für fachliches Verstehen, Expertise und das Training neuer Kompetenzen, um Beratung in der Pflege professionell durchzuführen.",
+      "difficulty": "medium",
+      "topic": "Kompetenzorientierte Beratung in der Pflege",
+      "source_file": "9783866496811-014-017.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat die wissenschaftliche Verortung psychosozialer Beratung in gesundheitsorientierten Formaten  ?",
+      "answer": "Die wissenschaftliche Verortung psychosozialer Beratung in gesundheitsorientierten Formaten wird als noch relativ wenig beachtet dargestellt, obwohl Beratung in den Handlungsfeldern der beruflichen Pflege und Pflegebildung zunehmend gefordert wird, aber inhaltlich selten ausreichend reflektiert und begründet ist.",
+      "difficulty": "medium",
+      "topic": "Wissenschaftliche Verortung der psychosozialen Beratung",
+      "source_file": "9783866496811-014-017.txt"
+    },
+    {
+      "question": "Welche wesentlichen Gründe werden dafür genannt, dass wissenschaftliche Weiterbildung an deutschen Hochschulen als organisationskultureller Fremdkörper betrachtet wird?",
+      "answer": "Wesentliche Gründe sind die weitgehend unbekannten Felder der Nachfrageorientierung, die Erhebung vollkostendeckender Entgelte sowie die Entwicklung und Implementierung kundenbezogener Serviceleistungen, die im Gegensatz zur disziplinär abgeleiteten Angebotsorientierung staatlich finanzierter grundständiger und konsekutiver Studienprogramme stehen.",
+      "difficulty": "medium",
+      "topic": "Organisationskultur der wissenschaftlichen Weiterbildung",
+      "source_file": "9783847412304-087-128.txt"
+    },
+    {
+      "question": "Wie wird die Zielgruppe der weiterbildendenden Studienprogramme beschrieben?",
+      "answer": "Die Zielgruppe sind nicht-traditionell Studierende, die in verschiedenen Lebensphasen, mit individuellen beruflichen und familiären Verpflichtungen sowie sehr divergenten Leistungsvoraussetzungen an die Hochschule gelangen.",
+      "difficulty": "easy",
+      "topic": "Zielgruppe der Weiterbildung",
+      "source_file": "9783847412304-087-128.txt"
+    },
+    {
+      "question": "Welche Fragestellungen untersucht der Beitrag im Hinblick auf die Beratung nicht-traditionell Studieninteressierter auf Programmebene?",
+      "answer": "Der Beitrag untersucht, welche Beratungsbedarfe auf Programmebene bearbeitet werden sollten und wie ein zielgruppenorientiertes Beratungssetting auf dieser Ebene organisiert werden kann.",
+      "difficulty": "medium",
+      "topic": "Beratungsbedarfe und Beratungsorganisation",
+      "source_file": "9783847412304-087-128.txt"
+    },
+    {
+      "question": "Warum wird die wissenschaftliche Weiterbildung trotz des Bedeutungszuwachses als randständiger Bereich neben Forschung und Lehre angesehen?",
+      "answer": "Weil sie in Praxis und Wissenschaft vergleichsweise wenig Aufmerksamkeit erhält und die Strukturen und Kultur der Weiterbildung sich von den traditionellen Hochschulprogrammen unterscheiden, insbesondere hinsichtlich Nachfrageorientierung und Serviceleistungen.",
+      "difficulty": "hard",
+      "topic": "Status der wissenschaftlichen Weiterbildung",
+      "source_file": "9783847412304-087-128.txt"
+    },
+    {
+      "question": "Welche intraorganisationalen Rahmenbedingungen werden diskutiert, um die Beratungsstrukturen für nicht-traditionell Studieninteressierte zu optimieren?",
+      "answer": "Es wird diskutiert, wie durch eine zielgruppenorientierte Organisation der Beratung auf Programmebene und die Anpassung der internen Strukturen und Prozesse eine Optimierung der vorhandenen Beratungsstrukturen erreicht werden kann.",
+      "difficulty": "hard",
+      "topic": "Optimierung von Beratungsstrukturen",
+      "source_file": "9783847412304-087-128.txt"
+    },
+    {
+      "question": "Was versteht man unter 'Unterrichtsgespräche' im Kontext der Kernpraktiken von Lehrkräften?",
+      "answer": "Unterrichtsgespräche sind eine der am häufigsten praktizierten Formen des Unterrichts und stellen eine zentrale Kernpraktik von Lehrpersonen dar, bei der Lehrkräfte durch Gespräche mit den Lernenden den Unterricht gestalten.",
+      "difficulty": "easy",
+      "topic": "Definition und Bedeutung von Unterrichtsgesprächen",
+      "source_file": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt"
+    },
+    {
+      "question": "Welche Bedeutung kommt der Gestaltung von Unterrichtsgesprächen im Lehrberuf zu?",
+      "answer": "Die Gestaltung von Unterrichtsgesprächen ist eine zentrale Kernpraktik von Lehrkräften, da sie häufig praktiziert wird und entscheidend für den erfolgreichen Unterrichtsverlauf ist.",
+      "difficulty": "medium",
+      "topic": "Bedeutung der Unterrichtsgespräche",
+      "source_file": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt"
+    },
+    {
+      "question": "Wie kann die erfolgreiche Führung von Unterrichtsgesprächen zur Verbesserung des Unterrichts beitragen?",
+      "answer": "Eine erfolgreiche Führung von Unterrichtsgesprächen fördert die aktive Beteiligung der Schülerinnen und Schüler, unterstützt das Verstehen und die Klärung von Lerninhalten und trägt somit zur Effektivität und Qualität des Unterrichts bei.",
+      "difficulty": "hard",
+      "topic": "Anwendung der Unterrichtsgespräche im Unterrichtsprozess",
+      "source_file": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt"
+    },
+    {
+      "question": "Warum könnte man Unterrichtsgespräche als 'Kernpraktik' von Lehrkräften bezeichnen, und welche Implikationen hat das für die Lehrerbildung?",
+      "answer": "Unterrichtsgespräche sind als Kernpraktik zu bezeichnen, weil sie eine grundlegende und häufig eingesetzte Form der Unterrichtsgestaltung darstellen, die direkten Einfluss auf den Lernerfolg hat. Für die Lehrerbildung bedeutet das, dass die Fähigkeit, Unterrichtsgespräche erfolgreich zu führen, gezielt vermittelt und trainiert werden muss.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Kernpraktik Unterrichtsgespräche",
+      "source_file": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt"
+    },
+    {
+      "question": "Wie lässt sich die Bedeutung von Unterrichtsgesprächen in Bezug auf andere Unterrichtsmethoden oder -formen synthetisieren?",
+      "answer": "Unterrichtsgespräche ergänzen andere Unterrichtsmethoden, indem sie Interaktion und Kommunikation fördern, was das Verständnis und die Reflexion der Lerninhalte unterstützt. Sie sind somit integraler Bestandteil eines vielfältigen und effektiven Unterrichts, der sowohl Wissen vermittelt als auch Kompetenzen fördert.",
+      "difficulty": "medium",
+      "topic": "Synthese der Rolle von Unterrichtsgesprächen im Unterricht",
+      "source_file": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt"
+    },
+    {
+      "question": "Welches methodische Vorgehen wird zur Datenerhebung und -analyse in der beschriebenen Forschung verwendet?",
+      "answer": "Die Datenerhebung und -analyse erfolgt anhand der qualitativen Inhaltsanalyse nach Mayring sowie einer interpretativ-rekonstruktiven Auswertung nach dem Ablaufmodell von Meuser und Nagel, ergänzt durch das Stufenmodell zur empirischen Typenbildung nach Kelle und Kluge.",
+      "difficulty": "easy",
+      "topic": "Methodisches Vorgehen",
+      "source_file": "9783839444856-094-111.txt"
+    },
+    {
+      "question": "Warum wurde das zweistufige Vorgehen mit Expert_inneninterviews gewählt?",
+      "answer": "Das zweistufige Vorgehen mit Expert_inneninterviews wurde gewählt, um spezifische Wissensbestände und Informationen über Anerkennungsberatung als relativ neuen Forschungsgegenstand zu erheben und zugleich die spezifischen Zielsetzungen, Begründungen und Perspektiven der Berater_innen und Koordinator_innen zu erfassen.",
+      "difficulty": "medium",
+      "topic": "Forschungsdesign",
+      "source_file": "9783839444856-094-111.txt"
+    },
+    {
+      "question": "Welche Funktion erfüllt das anerkennungstheoretische Rahmenmodell in der Analyse des Datenmaterials?",
+      "answer": "Das anerkennungstheoretische Rahmenmodell dient als Systematisierungsraster für das umfangreiche Erfahrungswissen der Expert_innen und bietet eine spezifische theoretische Perspektive zur Interpretation des Datenmaterials, mit dem Ziel, das Modell durch empirisch gewonnene Erkenntnisse anzureichern und zu erweitern.",
+      "difficulty": "medium",
+      "topic": "Theoretischer Rahmen",
+      "source_file": "9783839444856-094-111.txt"
+    },
+    {
+      "question": "Wie wird das Verhältnis von theoretischem Vorwissen und Expert_innenwissen in der qualitativen Forschung diskutiert?",
+      "answer": "In der qualitativen Forschung gibt es kontroverse Diskussionen zum Stellenwert theoretischen Vorwissens. Qualitative Forschung erfordert eine offene Grundhaltung gegenüber Untersuchungspersonen, Situationen und Methoden, wobei der Forschungsprozess explorativ beginnt mit einem weiten Blickwinkel, der sich durch Einbezug der gewonnenen Erkenntnisse im Verlauf immer enger fasst.",
+      "difficulty": "hard",
+      "topic": "Qualitative Forschungstheorie",
+      "source_file": "9783839444856-094-111.txt"
+    },
+    {
+      "question": "Wie könnte das methodische Vorgehen zur Auswertung von Expert_inneninterviews im Kontext der Anerkennungsberatung angewandt werden, um theoretische Modelle zu erweitern?",
+      "answer": "Das methodische Vorgehen umfasst eine qualitative Inhaltsanalyse und interpretativ-rekonstruktive Auswertung der Expert_inneninterviews, um spezifische Erfahrungen und Perspektiven der Berater_innen zu erfassen. Durch systematische Interpretation und Typenbildung wird das empirische Material genutzt, um das bestehende anerkennungstheoretische Rahmenmodell mit neuen Erkenntnissen anzureichern und theoretisch weiterzuentwickeln.",
+      "difficulty": "hard",
+      "topic": "Anwendung und Synthese",
+      "source_file": "9783839444856-094-111.txt"
+    },
+    {
+      "question": "Welche Kritik wird an den bisherigen Handbüchern und Einführungen in die Bildungsberatung geäußert?",
+      "answer": "Die bisherigen Handbücher und Einführungen in die Bildungsberatung behandeln das Wissen, das Handlungen strukturiert, oft zu kurz, insbesondere werden Methoden und Techniken nur relativ knapp abgehandelt.",
+      "difficulty": "easy",
+      "topic": "Kritik an Bildungsberatungs-Handbüchern",
+      "source_file": "1001586-009-016.txt"
+    },
+    {
+      "question": "Nennen Sie mindestens zwei Modelle, die im Handbuch von Ertelt und Schulz zur Beratungskompetenz vorgestellt werden.",
+      "answer": "Im Handbuch von Ertelt und Schulz werden unter anderem das Modell des Microcounseling, das Modell des Problemmanagements, das Modell der Lösungsorientierten Beratung sowie das integrative Modell in der beruflichen Einzelberatung vorgestellt.",
+      "difficulty": "medium",
+      "topic": "Beratungsmodelle",
+      "source_file": "1001586-009-016.txt"
+    },
+    {
+      "question": "Warum ist das vorgelegte Lehrbuch mit dem Fokus auf Methoden und Techniken für die Praxis der Bildungsberatung wichtig?",
+      "answer": "Das Lehrbuch ist wichtig, weil es Lernenden zeigt, wie Bildungsberatung professionell, zielgerichtet und effektiv durch Methoden- und Technikkenntnisse durchgeführt werden kann. Es füllt eine Lücke, da in bisherigen Publikationen häufig die praktische Anwendung von Methoden und Techniken nicht ausreichend behandelt wird.",
+      "difficulty": "medium",
+      "topic": "Bedeutung des Lehrbuchs",
+      "source_file": "1001586-009-016.txt"
+    },
+    {
+      "question": "Analysieren Sie die Bedeutung der Einbindung von Konzepten, Theorien und Metatheorien in die Bildungsberatung, wie im Text erläutert.",
+      "answer": "Die Einbindung und Reflexion von Konzepten, Theorien und Metatheorien ist unerlässlich, um Bildungsberatung wissensbasiert und gelingend zu gestalten. Ohne diese theoretischen Hintergründe können Methoden und Techniken nicht professionell angewandt werden, da sie den Rahmen und die fundierte Basis für zielgerichtete und effektive Beratung bilden.",
+      "difficulty": "hard",
+      "topic": "Theoretische Grundlagen der Bildungsberatung",
+      "source_file": "1001586-009-016.txt"
+    },
+    {
+      "question": "Wie beziehen sich die Ausführungen zu Methoden und Techniken in diesem Lehrbuch auf frühere Publikationen aus dem Fachgebiet Erwachsenenbildung und Bildungsberatung der UDE?",
+      "answer": "Die Ausführungen zu Methoden und Techniken bauen auf früheren Publikationen der UDE zum Fachgebiet Erwachsenenbildung und Bildungsberatung auf, wie der Einführung in die Lern- und Bildungsberatung für Studierende (2010) und den Fallanalysen zur Lern- und Bildungsberatung (2014). Dadurch werden die Ziele und Zugehörigkeiten des Feldes nachvollziehbar gehalten und weiter profiliert.",
+      "difficulty": "hard",
+      "topic": "Bezug zu früheren Publikationen",
+      "source_file": "1001586-009-016.txt"
+    },
+    {
+      "question": "Wie wird professionelle Beratung im Gegensatz zum Alltagsverständnis charakterisiert?",
+      "answer": "Professionelle Beratung wird von alltäglicher Beratung unterschieden, indem sie spezifisch strukturiert und definiert ist, beispielsweise durch einen höheren Formalisierungsgrad, der sie als halbformalisiert oder formales eigenständiges Beratungsangebot kennzeichnet.",
+      "difficulty": "easy",
+      "topic": "Beratungstheoretische Perspektive",
+      "source_file": "9783839444856-044-093.txt"
+    },
+    {
+      "question": "Welche drei zentralen theoretischen Bezüge strukturieren den Zugang zum Forschungsfeld und den Rahmen der Analyse der empirischen Daten in der Anerkennungsberatung?",
+      "answer": "Die drei zentralen theoretischen Bezüge sind Erkenntnisse aus der Beratungsforschung, anerkennungstheoretische Ansätze und Forschungen zur pädagogischen Professionalität.",
+      "difficulty": "medium",
+      "topic": "Theoretischer Analyserahmen",
+      "source_file": "9783839444856-044-093.txt"
+    },
+    {
+      "question": "In welchem Kontext wird Anerkennungsberatung eingeordnet und wie wird sie reflektiert?",
+      "answer": "Anerkennungsberatung wird im Bereich der Bildungs- und Berufsberatung im Migrationskontext eingeordnet und in Bezug auf ein sozial- und erwachsenenpädagogisches Beratungsverständnis reflektiert.",
+      "difficulty": "medium",
+      "topic": "Beratungstheoretische Perspektive",
+      "source_file": "9783839444856-044-093.txt"
+    },
+    {
+      "question": "Wie erfolgt die Rekonstruktion und Interpretation der Handlungsstrategien der Berater_innen im Theorierahmen?",
+      "answer": "Die Handlungsstrategien werden vor dem theoretischen Hintergrund ausgewählter Ansätze zur Professionalisierung von Beratung und zur Entwicklung pädagogischer Professionalität in der Migrationsgesellschaft rekonstruiert und interpretiert.",
+      "difficulty": "hard",
+      "topic": "Professionalisierung und pädagogische Professionalität",
+      "source_file": "9783839444856-044-093.txt"
+    },
+    {
+      "question": "Welche Bedeutung hat der Formalisierungsgrad für die Abgrenzung von Beratung, und wie wird Beratung in der Erwachsenenbildung definiert?",
+      "answer": "Der Formalisierungsgrad dient zur Abgrenzung von Beratung gegenüber informellen Beratungskontexten. Beratung kann halbformalisiert als Querschnittsaufgabe oder formal als eigenständiges Beratungsangebot in spezifischen Settings auftreten. In der Erwachsenenbildung wird Beratung als eine eigenständige professionelle Leistung neben anderen pädagogischen Aufgaben definiert, die in institutionellen oder speziellen Beratungseinrichtungen stattfindet.",
+      "difficulty": "hard",
+      "topic": "Beratungstheoretische Perspektive",
+      "source_file": "9783839444856-044-093.txt"
+    },
+    {
+      "question": "Welche Zielsetzungen verfolgen die Workshops, die im Rahmen von Projektarbeiten eingebunden werden?",
+      "answer": "Die Workshops zielen darauf ab, berufliche Handlungskompetenzen zu stärken und die Persönlichkeitsentwicklung der Studierenden zu fördern, damit sie mit komplexen, unsicheren und konfliktträchtigen Situationen souverän umgehen können.",
+      "difficulty": "easy",
+      "topic": "Zielsetzung der Workshops",
+      "source_file": "Hoefer_Kottmann_2021_Einbindung_von_Workshops.txt"
+    },
+    {
+      "question": "Warum sind Persönlichkeitsentwicklung und berufliche Handlungskompetenzen in der heutigen Gesellschaft besonders wichtig?",
+      "answer": "Aufgrund dynamischer gesellschaftlicher Entwicklungen benötigen Fachkräfte nicht nur fachliches Wissen, sondern auch die Fähigkeit, mit Unsicherheiten, Komplexität und Konflikten souverän umzugehen. Persönlichkeitsentwicklung unterstützt diese Kompetenzen und ist daher essenziell.",
+      "difficulty": "medium",
+      "topic": "Bedeutung von Persönlichkeitsentwicklung und Handlungskompetenzen",
+      "source_file": "Hoefer_Kottmann_2021_Einbindung_von_Workshops.txt"
+    },
+    {
+      "question": "Wie wird die Persönlichkeitsentwicklung im Rahmen des Studiums   unterstützt?",
+      "answer": "Die Persönlichkeitsentwicklung wird durch die Einbindung von Workshops im Rahmen von Projektarbeiten gefördert, die situierte Lernkonzepte nutzen, um Handlungskompetenzen zu stärken und praktische Erfahrungen zu ermöglichen.",
+      "difficulty": "medium",
+      "topic": "Förderung der Persönlichkeitsentwicklung im Studium",
+      "source_file": "Hoefer_Kottmann_2021_Einbindung_von_Workshops.txt"
+    },
+    {
+      "question": "Analysieren Sie, welche Herausforderungen durch die Integration von Workshops in Projektarbeiten für die Hochschullehre entstehen könnten und wie diese überwunden werden können.",
+      "answer": "Die Integration von Workshops in Projektarbeiten erfordert eine enge Verzahnung von Theorie und Praxis, was organisatorisch und didaktisch anspruchsvoll sein kann. Herausforderungen sind beispielsweise die Sicherstellung der Qualität der Workshops, die Anpassung an unterschiedliche Studierendengruppen und die zeitliche Koordination. Diese können durch klare didaktische Konzepte, erfahrene Workshop-Leitende und flexible Zeitplanung überwunden werden.",
+      "difficulty": "hard",
+      "topic": "Kritische Analyse der Workshop-Integration",
+      "source_file": "Hoefer_Kottmann_2021_Einbindung_von_Workshops.txt"
+    },
+    {
+      "question": "Entwickeln Sie ein kurzes Konzept für einen Workshop, der sowohl berufliche Handlungskompetenzen als auch Persönlichkeitsentwicklung fördert, basierend auf den im Text genannten Anforderungen.",
+      "answer": "Ein Workshop könnte sich auf Konfliktmanagement in interdisziplinären Teams fokussieren. Inhalte umfassen Rollenspiele zur Konfliktsituation, Reflexion der eigenen Kommunikationsstile und Strategien zur souveränen Konfliktbewältigung. Ziel ist es, Handlungskompetenzen wie Problemlösung und Teamarbeit zu stärken sowie die Persönlichkeitsentwicklung durch Selbstreflexion und Empathieförderung zu unterstützen. Der Workshop wird praxisnah gestaltet und in Projektarbeiten eingebunden, um den situativen Lernansatz zu fördern.",
+      "difficulty": "hard",
+      "topic": "Konzeptentwicklung für Workshops",
+      "source_file": "Hoefer_Kottmann_2021_Einbindung_von_Workshops.txt"
+    }
+  ]
+}

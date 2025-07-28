@@ -9,26 +9,6 @@ from deepeval.test_case.llm_test_case import LLMTestCase, LLMTestCaseParams
 from deepeval.models import GPTModel
 import os
 import signal
-import re
-
-
-def _extract_numbered_answers(raw: str) -> list[str]:
-    """
-    Convert the model’s multiline string
-       1. foo\n2. bar\n3. baz
-    into ['foo', 'bar', 'baz'].
-
-    Non-numbered lines are ignored; trailing whitespace is stripped.
-    """
-    answers = []
-    for line in raw.splitlines():
-        m = re.match(r"\s*\d+\.\s*(.*)", line)
-        if m:
-            answers.append(m.group(1).strip())
-    # Fallback: treat the whole block as one answer
-    if not answers and raw.strip():
-        answers.append(raw.strip())
-    return answers
 
 
 # ──────────────────────────────────────────────

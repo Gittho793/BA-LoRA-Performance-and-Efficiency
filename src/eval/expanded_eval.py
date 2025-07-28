@@ -24,7 +24,7 @@ import torch
 import numpy as np
 from tqdm import tqdm
 from unsloth import FastLanguageModel
-from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from rouge_score import rouge_scorer
 from bert_score import score as bert_score
 from vllm.distributed import (destroy_distributed_environment,
@@ -85,8 +85,7 @@ def parse_args():
 
 def load_question_json(path):
     """Load questions and answers from JSON file"""
-    with open(path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    data = read_json(path)
 
     question_map, answer_map = {}, {}
     for item in data["questions"]:
@@ -115,9 +114,10 @@ def build_prompts(question_map):
         }
 
         # print human-readable prompt
-        readable_prompt = f"\n\n{prompts[fname]['intro']}\n" + \
-                          "\n".join(f"{q['number']}. {q['text']}" for q in q_list) + \
-                          f"\n\n{prompts[fname]['outro']}"
+        # readable_prompt = f"\n\n{prompts[fname]['intro']}\n" + \
+        #                   "\n".join(f"{q['number']}. {q['text']}" for q in q_list) + \
+        #                   f"\n\n{prompts[fname]['outro']}"
+        # print(readable_prompt)
 
     return prompts
 
@@ -142,7 +142,7 @@ def save_predictions(preds: dict, model_name: str, base_path: str = "output/pred
     return pred_file
 
 
-def read_predictions(path: str):
+def read_json(path: str):
     """Read predictions made by the model"""
     with open(path, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -236,7 +236,8 @@ def generate_predictions(model, tokenizer, inputs, args):
 
             # Append dictionary with question, predicted answer
             preds[fname].append({
-                "question": q['text'],  # just question text, without numbers/prefix
+                # just question text, without numbers/prefix
+                "question": q['text'],
                 "predicted_answer": pred_text,
             })
 
@@ -437,10 +438,257 @@ def evaluate_optimized(gt_texts, pred_texts, args):
     return results
 
 
+def evaluate_optimized_deepeval(deepeval_data, args):
+    """
+    Optimized evaluate function with memory management for BERT score
+    Modified to work with deepeval JSON structure:
+    {
+      "filename.txt": [
+        {
+          "question": "...",
+          "expected": "...", 
+          "predicted": "...",
+          "metrics": {...}
+        },
+        ...
+      ]
+    }
+
+    Args:
+        deepeval_data: Dictionary with the structure shown above
+        args: Argument object with evaluation flags (bleu, rouge, bert_score, etc.)
+
+    Returns:
+        Dictionary with same structure but additional computed metrics per question
+    """
+
+    # Enable mixed precision if available
+    use_amp = torch.cuda.is_available() and hasattr(torch.cuda.amp, 'autocast')
+
+    # Set memory fraction to prevent over-allocation
+    if torch.cuda.is_available():
+        torch.cuda.set_per_process_memory_fraction(
+            0.8)  # Use 80% of GPU memory max
+
+    rouge_inst = rouge_scorer.RougeScorer(
+        ['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+
+    bleu_weights = {
+        'bleu1': (1, 0, 0, 0),
+        'bleu2': (0.5, 0.5, 0, 0),
+        'bleu3': (0.33, 0.33, 0.33, 0),
+        'bleu4': (0.25, 0.25, 0.25, 0.25)
+    }
+
+    results = {}
+
+    # Process in smaller chunks to manage memory
+    chunk_size = 2  # Process 2 files at a time
+    file_items = list(deepeval_data.items())
+
+    for chunk_start in range(0, len(file_items), chunk_size):
+        chunk_end = min(chunk_start + chunk_size, len(file_items))
+        chunk_items = file_items[chunk_start:chunk_end]
+
+        # Clear GPU cache before processing each chunk
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+
+        for fname, questions_list in chunk_items:
+            # Results for this file
+            file_results = []
+
+            for i, qa_item in tqdm(enumerate(questions_list), desc="Evaluating simple metrics."):
+                question = qa_item.get('question', '')
+                expected = qa_item.get('expected', '')
+                predicted = qa_item.get('predicted', '')
+                existing_metrics = qa_item.get('metrics', {})
+
+                res = {
+                    'question': question,
+                    'expected': expected,
+                    'predicted': predicted,
+                    'existing_metrics': existing_metrics
+                }
+
+                # Only compute new metrics if we have both expected and predicted text
+                if expected and predicted:
+                    # BLEU score calculation (no memory issues)
+                    if hasattr(args, 'bleu') and args.bleu:
+                        if hasattr(args, 'bleu_type') and args.bleu_type == 'all':
+                            for btype, weights in bleu_weights.items():
+                                try:
+                                    res[btype] = sentence_bleu(
+                                        [expected.split()], predicted.split(), weights=weights)
+                                except Exception as e:
+                                    print(
+                                        f"Error computing {btype} for {fname} Q{i+1}: {e}")
+                                    res[btype] = 0.0
+                        else:
+                            bleu_type = getattr(args, 'bleu_type', 'bleu4')
+                            weights = bleu_weights.get(
+                                bleu_type, bleu_weights['bleu4'])
+                            try:
+                                smoothie = SmoothingFunction().method1
+                                res[bleu_type] = sentence_bleu(
+                                    [expected.split()], predicted.split(), weights=weights, smoothing_function=smoothie)
+                            except Exception as e:
+                                print(
+                                    f"Error computing {bleu_type} for {fname} Q{i+1}: {e}")
+                                res[bleu_type] = 0.0
+
+                    # ROUGE score calculation (no memory issues)
+                    if hasattr(args, 'rouge') and args.rouge:
+                        try:
+                            sc = rouge_inst.score(expected, predicted)
+                            res['rouge1'] = sc['rouge1'].fmeasure
+                            res['rouge2'] = sc['rouge2'].fmeasure
+                            res['rougeL'] = sc['rougeL'].fmeasure
+                        except Exception as e:
+                            print(
+                                f"Error computing ROUGE for {fname} Q{i+1}: {e}")
+                            res['rouge1'] = res['rouge2'] = res['rougeL'] = 0.0
+
+                    # BERT score calculation with memory optimizations
+                    if hasattr(args, 'bert_score') and args.bert_score:
+                        try:
+                            with torch.amp.autocast("cuda", enabled=False):
+
+                                precision, recall, f1_score = bert_score(
+                                    [predicted], [expected],
+                                    model_type=getattr(
+                                        args, 'bert_model', 'distilbert-base-uncased'),
+                                    lang=getattr(args, 'bert_lang', 'de'),
+                                    batch_size=1,  # Process one at a time for memory
+                                    rescale_with_baseline=False,
+                                    device='cuda' if torch.cuda.is_available() else 'cpu'
+                                )
+
+                            res['bert_precision'] = precision[0].item()
+                            res['bert_recall'] = recall[0].item()
+                            res['bert_f1'] = f1_score[0].item()
+
+                        except RuntimeError as e:
+                            if "out of memory" in str(e):
+                                print(
+                                    f"GPU OOM for {fname} Q{i+1}, falling back to smaller model...")
+                                # Fallback to CPU processing
+                                torch.cuda.empty_cache()
+                                try:
+                                    precision, recall, f1_score = bert_score(
+                                        [predicted], [expected],
+                                        model_type='distilbert-base-uncased',
+                                        lang=getattr(args, 'bert_lang', 'de'),
+                                        batch_size=1,
+                                        rescale_with_baseline=False,
+                                        device='cpu'
+                                    )
+                                    res['bert_precision'] = precision[0].item()
+                                    res['bert_recall'] = recall[0].item()
+                                    res['bert_f1'] = f1_score[0].item()
+                                except Exception as inner_e:
+                                    print(
+                                        f"Error computing BERT score for {fname} Q{i+1}: {inner_e}")
+                                    res['bert_precision'] = res['bert_recall'] = res['bert_f1'] = 0.0
+                            else:
+                                print(
+                                    f"Error computing BERT score for {fname} Q{i+1}: {e}")
+                                res['bert_precision'] = res['bert_recall'] = res['bert_f1'] = 0.0
+                        except Exception as e:
+                            print(
+                                f"Error computing BERT score for {fname} Q{i+1}: {e}")
+                            res['bert_precision'] = res['bert_recall'] = res['bert_f1'] = 0.0
+
+                file_results.append(res)
+
+                # Clean up GPU memory after each question
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
+
+            results[fname] = file_results
+
+        # Clean up chunk variables
+        del chunk_items
+        gc.collect()
+
+    return results
+
+
+def aggregate_question_metrics(results):
+    """
+    Aggregate metrics across all questions to get file-level and overall statistics
+
+    Args:
+        results: Output from evaluate_optimized_deepeval
+
+    Returns:
+        Dictionary with aggregated metrics
+    """
+
+    aggregated = {
+        'per_file': {},
+        'overall': {}
+    }
+
+    all_metrics = {}
+
+    for fname, questions in results.items():
+        file_metrics = {}
+
+        for qa_result in questions:
+            # Collect all numeric metrics (excluding text fields)
+            for key, value in qa_result.items():
+                if key not in ['question', 'expected', 'predicted', 'existing_metrics'] and isinstance(value, (int, float)):
+                    if key not in file_metrics:
+                        file_metrics[key] = []
+                    file_metrics[key].append(value)
+
+                    # Also collect for overall stats
+                    if key not in all_metrics:
+                        all_metrics[key] = []
+                    all_metrics[key].append(value)
+
+        # Calculate file-level averages
+        file_averages = {}
+        for metric, values in file_metrics.items():
+            if values:
+                file_averages[f'{metric}_mean'] = np.mean(values)
+                file_averages[f'{metric}_std'] = np.std(values)
+                file_averages[f'{metric}_count'] = len(values)
+
+        aggregated['per_file'][fname] = file_averages
+
+    # Calculate overall averages
+    overall_averages = {}
+    for metric, values in all_metrics.items():
+        if values:
+            overall_averages[f'{metric}_mean'] = np.mean(values)
+            overall_averages[f'{metric}_std'] = np.std(values)
+            overall_averages[f'{metric}_count'] = len(values)
+
+    aggregated['overall'] = overall_averages
+
+    return aggregated
+
+
+def save_evaluation_results(results, aggregated, output_file):
+    """Save evaluation results to JSON file"""
+
+    output_data = {
+        'detailed_results': results,
+        'aggregated_metrics': aggregated
+    }
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+    print(f"Results saved to {output_file}")
+
+
 def process_question_files(question_files, gt_texts):
     prompts = {}
-    questions_dict = {}  # Collect all questions here
-    for fname, q_text in question_files.items():  # Rename loop var to avoid shadowing
+    questions_dict = {}
+    for fname, q_text in question_files.items():
         original_fname = fname.replace('_questions.txt', '.txt')
         gt_text = gt_texts.get(original_fname, "")
         prompt = f"Context: {gt_text[:1000]}\n\nQuestions: {q_text}\n\nAnswers:"
@@ -490,7 +738,7 @@ def main():
             just_model_name = os.path.basename(args.model_name)
             pred_file = os.path.join(
                 args.predictions, f"{just_model_name}_predictions.json")
-            preds = read_predictions(pred_file)
+            preds = read_json(pred_file)
 
         if args.deepeval:
             logger.info("Running DeepEval evaluation...")
@@ -499,47 +747,43 @@ def main():
                 gt_texts, preds, question_map, answer_map)
 
             print("\n=== DeepEval Results ===")
-            for fname, metrics in deepeval_results.items():
-                print(f"File: {fname}")
-                for metric, details in metrics.items():
-                    print(
-                        f"  {metric}: {details['score']:.4f}, Success: {details['success']}, Reason: {details['reason']}")
+            for fname, results in deepeval_results.items():
+                print(f"\nFile: {fname}")
+                for idx, result in enumerate(results):
+                    print(f"  Q{idx + 1}: {result['question']}")
+                    for metric, details in result['metrics'].items():
+                        print(
+                            f"    {metric}: {details['score']:.4f}, Success: {details['success']}, Reason: {details['reason']}")
+
             just_model_name = os.path.basename(args.model_name)
 
-            with open(f"../../results/deepeval_{just_model_name}_results.json", 'w', encoding="utf-8") as f:
+            with open(f"../../results/deepeval/deepeval_{just_model_name}_results.json", 'w', encoding="utf-8") as f:
                 json.dump(deepeval_results, f, indent=2)
 
         # Evaluate predictions
         if any([args.bleu, args.rouge, args.bert_score]):
-            logger.info("Evaluating predictions...")
-            results = evaluate_optimized(gt_texts, preds, args)
-
-            # Print results
-            print("\n=== Prediction Evaluation Results ===")
-            for fname, metrics in results.items():
-                print(f"Results for {fname}:")
-                for m, v in metrics.items():
-                    print(f"\t{m}: {v:.4f}")
-
-            # Aggregate statistics
-            all_scores = {}
-            for metrics_dict in results.values():
-                for metric, score in metrics_dict.items():
-                    if metric not in all_scores:
-                        all_scores[metric] = []
-                    all_scores[metric].append(score)
-
-            print("\nAggregate Results:")
-            for metric, scores in all_scores.items():
-                mean_score = sum(scores) / len(scores)
-                print(f"{metric}: {mean_score:.4f} ± {np.std(scores):.4f}")
-
-            # Save results
             just_model_name = os.path.basename(args.model_name)
-            os.makedirs("../../results", exist_ok=True)
-            with open(f"../../results/{just_model_name}_results.json", 'w', encoding="utf-8") as f:
-                output = {"per_file": results, "aggregated": all_scores}
-                json.dump(output, f, indent=2)
+            deepeval_data = read_json(
+                f"../../results/deepeval/deepeval_{just_model_name}_results.json")
+
+            logger.info("Evaluating predictions...")
+            results = evaluate_optimized_deepeval(deepeval_data, args)
+            aggregated = aggregate_question_metrics(results)
+
+            print("\n=== Evaluation Summary ===")
+            for metric, value in aggregated['overall'].items():
+                if metric.endswith('_mean'):
+                    metric_name = metric.replace('_mean', '')
+                    std_key = metric.replace('_mean', '_std')
+                    count_key = metric.replace('_mean', '_count')
+                    std_value = aggregated['overall'].get(std_key, 0)
+                    count_value = aggregated['overall'].get(count_key, 0)
+                    print(
+                        f"{metric_name}: {value:.4f} ± {std_value:.4f} (n={count_value})")
+
+            just_model_name = os.path.basename(args.model_name)
+            save_evaluation_results(
+                results, aggregated, f"../../results/full(metrics+deepeval)/{just_model_name}_results.json")
 
     except Exception as e:
         print(f"Error during evaluation: {e}")

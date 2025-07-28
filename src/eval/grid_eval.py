@@ -1,8 +1,10 @@
-from src.util.args import TXT_OUTPUT_DIR, TXT_GROUND_TRUTH_FILES
-import subprocess
+from src.util.args import (TXT_OUTPUT_DIR as OUTPUT_DIR,
+                           TXT_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
 import signal
+import subprocess
 import os
 import sys
+from time import time
 from dotenv import load_dotenv
 
 load_dotenv("../../.env")
@@ -13,27 +15,39 @@ if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
 
-BASE_DIR = os.path.dirname(os.path.abspath(TXT_OUTPUT_DIR))
+BASE_DIR = os.path.dirname(os.path.abspath(OUTPUT_DIR))
 
+if "txt" in OUTPUT_DIR and "txt" in GROUND_TRUTH_FILES:
+    top_level_subdirs = [
+        os.path.join(BASE_DIR, name)
+        for name in sorted(os.listdir(BASE_DIR))
+        if name.startswith("txt") and os.path.isdir(os.path.join(BASE_DIR, name))
+    ]
+    questions_json = "output/txt_questions.json"
+elif "pdf" in OUTPUT_DIR and "pdf" in GROUND_TRUTH_FILES:
+    top_level_subdirs = [
+        os.path.join(BASE_DIR, name)
+        for name in sorted(os.listdir(BASE_DIR))
+        if name.startswith("pdf") and os.path.isdir(os.path.join(BASE_DIR, name))
+    ]
+    questions_json = "output/pdf_questions.json"
+else:
+    raise ValueError("GROUND TRUTH AND OUTPUT DIR NOT MATCHING")
 
-top_level_subdirs = [
-    os.path.join(BASE_DIR, name)
-    for name in sorted(os.listdir(BASE_DIR))
-    if name.startswith("txt") and "8bit" in name and os.path.isdir(os.path.join(BASE_DIR, name))
-]
 env = {"PYTORCH_CUDA_ALLOC_CONF": "expandable_segments:True"}
 
 for subdir in top_level_subdirs:
-    print("Evaluating:", subdir)
+    start = time()
+    # print("Evaluating:", subdir)
 
     command = [
         "python", "expanded_eval.py",
-        "--model-name", subdir,
-        # "--generate",
+        "--model-name", OUTPUT_DIR,
+        "--generate",
         "--device", "cuda",
-        "--ground-truth", TXT_GROUND_TRUTH_FILES,
+        "--ground-truth", GROUND_TRUTH_FILES,
         "--predictions", "output/predictions",
-        "--questions-json", "output/txt_questions.json",
+        "--questions-json", questions_json,
         "--max-new-tokens", "2048",
         "--temperature", "0.7",
         "--do-sample",
@@ -62,7 +76,8 @@ for subdir in top_level_subdirs:
             sys.exit(process.returncode)
 
         print(f"Finished evaluation for {subdir}")
-        break
+        elapsed = time() - start
+        print("Elapsed time: ", elapsed)
 
     except KeyboardInterrupt:
         print("\nInterrupt received. Killing subprocess and its children...")

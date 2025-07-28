@@ -3,5 +3,6 @@ old/
 **/__pycache__/
 **/.vector_db/
 **/unsloth_compiled_cache/
-**/output**/
+**/outputs**/
+src/eval/output/**/*.txt
 *.log
