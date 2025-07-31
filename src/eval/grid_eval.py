@@ -1,11 +1,15 @@
-from src.util.args import (TXT_OUTPUT_DIR as OUTPUT_DIR,
-                           TXT_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
+"""
+Evaluate multiple models from one directory.
+"""
 import signal
 import subprocess
 import os
 import sys
 from time import time
 from dotenv import load_dotenv
+from src.util.args import (TXT_OUTPUT_DIR as OUTPUT_DIR,
+                           TXT_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
+
 
 load_dotenv("../../.env")
 
@@ -38,7 +42,7 @@ env = {"PYTORCH_CUDA_ALLOC_CONF": "expandable_segments:True"}
 
 for subdir in top_level_subdirs:
     start = time()
-    # print("Evaluating:", subdir)
+    print("Evaluating:", subdir)
 
     command = [
         "python", "expanded_eval.py",

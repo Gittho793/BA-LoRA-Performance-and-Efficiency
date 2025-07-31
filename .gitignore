@@ -6,3 +6,4 @@ old/
 **/outputs**/
 src/eval/output/**/*.txt
 *.log
+.env

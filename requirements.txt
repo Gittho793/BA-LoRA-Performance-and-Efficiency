@@ -1,0 +1,12 @@
+unsloth 
+transformers
+datasets
+bitsandbytes
+accelerate
+deepeval
+vllm
+xformers
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio

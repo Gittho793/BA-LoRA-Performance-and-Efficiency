@@ -1,3 +1,9 @@
+"""
+Use the deepeval library to evaluate predictions of an LLM with ground truth text and expected answers
+"""
+import tqdm
+import os
+import signal
 from deepeval.metrics import (
     AnswerRelevancyMetric,
     FaithfulnessMetric,
@@ -7,22 +13,14 @@ from deepeval.metrics import (
 )
 from deepeval.test_case.llm_test_case import LLMTestCase, LLMTestCaseParams
 from deepeval.models import GPTModel
-import os
-import signal
 
 
-# ──────────────────────────────────────────────
-# 1.  Build a single Gemini judge to reuse
-# ──────────────────────────────────────────────
+
 EVAL_MODEL = GPTModel(
-    model="gpt-4.1-mini",          # or any free-tier model e.g. "gemini-1.5-pro"
-    api_key=os.getenv("OPEN_AI"),  # picked up automatically if set
+    model="gpt-4.1-mini",
+    api_key=os.getenv("OPEN_AI"),
     temperature=0,
 )
-
-# ──────────────────────────────────────────────
-# 2.  Metric factory
-# ──────────────────────────────────────────────
 
 
 def integrate_deepeval_metrics():
@@ -48,10 +46,6 @@ def integrate_deepeval_metrics():
             model=EVAL_MODEL,
         ),
     }
-
-# ──────────────────────────────────────────────
-# 3.  Utility helpers (unchanged except imports)
-# ──────────────────────────────────────────────
 
 
 def parse_questions_string(questions_string):
@@ -99,7 +93,7 @@ def evaluate_with_deepeval(gt_texts: dict,
             limit = min(len(qs), len(gold_as), len(predicted_answers))
             file_scores = []
 
-            for i in range(limit):
+            for i in tqdm(range(limit)):
                 tc = LLMTestCase(
                     input=qs[i],
                     actual_output=predicted_answers[i],

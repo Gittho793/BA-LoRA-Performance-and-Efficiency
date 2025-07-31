@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+"""
+Generate expected answers for the questions posed via OpenAI API
+"""
 import os
 import sys
 import json
