@@ -5,10 +5,11 @@ import signal
 import subprocess
 import os
 import sys
+import datetime
 from time import time
 from dotenv import load_dotenv
-from src.util.args import (TXT_OUTPUT_DIR as OUTPUT_DIR,
-                           TXT_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
+from src.util.args import (PDF_OUTPUT_DIR as OUTPUT_DIR,
+                           PDF_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
 
 
 load_dotenv("../../.env")
@@ -46,7 +47,7 @@ for subdir in top_level_subdirs:
 
     command = [
         "python", "expanded_eval.py",
-        "--model-name", OUTPUT_DIR,
+        "--model-name", subdir,
         "--generate",
         "--device", "cuda",
         "--ground-truth", GROUND_TRUTH_FILES,
@@ -81,6 +82,7 @@ for subdir in top_level_subdirs:
 
         print(f"Finished evaluation for {subdir}")
         elapsed = time() - start
+        elapsed = str(datetime.timedelta(seconds=elapsed))
         print("Elapsed time: ", elapsed)
 
     except KeyboardInterrupt:
@@ -101,6 +103,6 @@ for subdir in top_level_subdirs:
         sys.exit(130)  # Exit with standard Ctrl+C code
 
     except Exception as e:
-        print(f"🔥 Unexpected error while evaluating {subdir}: {e}")
+        print(f"Unexpected error while evaluating {subdir}: {e}")
         os.killpg(os.getpgid(process.pid), signal.SIGTERM)
         sys.exit(1)

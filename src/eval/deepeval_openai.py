@@ -1,7 +1,7 @@
 """
 Use the deepeval library to evaluate predictions of an LLM with ground truth text and expected answers
 """
-import tqdm
+from tqdm import tqdm
 import os
 import signal
 from deepeval.metrics import (
@@ -13,7 +13,6 @@ from deepeval.metrics import (
 )
 from deepeval.test_case.llm_test_case import LLMTestCase, LLMTestCaseParams
 from deepeval.models import GPTModel
-
 
 
 EVAL_MODEL = GPTModel(
@@ -78,7 +77,7 @@ def evaluate_with_deepeval(gt_texts: dict,
     original_sigterm = signal.signal(signal.SIGTERM, _handler)
 
     try:
-        for fname, gt_text in gt_texts.items():
+        for fname, gt_text in tqdm(gt_texts.items()):
             preds_block = pred_texts.get(fname, [])
             predicted_answers = [entry['predicted_answer'] for entry in preds_block]
 
@@ -93,12 +92,13 @@ def evaluate_with_deepeval(gt_texts: dict,
             limit = min(len(qs), len(gold_as), len(predicted_answers))
             file_scores = []
 
-            for i in tqdm(range(limit)):
+            for i in range(limit):
                 tc = LLMTestCase(
                     input=qs[i],
                     actual_output=predicted_answers[i],
                     expected_output=gold_as[i],
                     context=[gt_text],
+                    retrieval_context=[gt_text]
                 )
 
                 q_score = {}
@@ -116,6 +116,7 @@ def evaluate_with_deepeval(gt_texts: dict,
                             "success": False,
                             "reason": f"Error: {e}",
                         }
+
                 file_scores.append({
                     "question": qs[i],
                     "expected": gold_as[i],

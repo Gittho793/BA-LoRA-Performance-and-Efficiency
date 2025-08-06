@@ -7,3 +7,6 @@ old/
 src/eval/output/**/*.txt
 *.log
 .env
+*.db
+src/eval/cache/
+src/eval/results/
