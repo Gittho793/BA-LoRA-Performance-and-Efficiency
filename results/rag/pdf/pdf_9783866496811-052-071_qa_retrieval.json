@@ -1,0 +1,732 @@
+[
+  {
+    "filename": "9783866496811-052-071.txt",
+    "question": "Warum wird Beratung in der Pflege als ein neues pflegerisches Handlungsfeld betrachtet?",
+    "answer": "Beratung in der Pflege wird als ein neues pflegerisches Handlungsfeld betrachtet, weil es mit dem Pflege-Weiterentwicklungsgesetz (PfWG) ein neues Handlungsfeld der Pflege erschließt. Das PfWG führt den §92c ein, der nicht nur Tätigkeiten der Pflege in einem bestehenden Gefüge definiert, sondern ein neues Handlungsfeld der Pflegestützpunkte erschließt. Diese neuen Pflegestützpunkte sollen wohnortnah Beratung, Versorgung und Betreuung für die Versicherten gewährleisten. Somit wird Beratung in der Pflege als ein eigenständiges Handlungsfeld betrachtet, das über die traditionelle Pflege hinausgeht.",
+    "expected": "Beratung wird als neues pflegerisches Handlungsfeld betrachtet, weil sich das Aufgabenfeld in der Pflege kontinuierlich verändert und ein steigender Bedarf an Beratung besteht, wie durch das aktuelle Krankenpflegegesetz und verschiedene Autoren beschrieben wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "125e13f811556dac39397b51111064ba5c92fe424b3a20082aaa6f48e191c162",
+        "score": 0.9968861937522888,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 26,
+          "split_id": 51,
+          "split_idx_start": 60252,
+          "_split_overlap": [
+            {
+              "doc_id": "f1dc7ff72d646cdb93010171af34991a2eced7495359fac1f20247279b2f449b",
+              "range": [
+                1264,
+                1674
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits-\nbewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü-\nfungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege-\nberatung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche-\nrungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle-\ngeberater können aus den Ausbildungscurricula abgeleitet werden. 50\f"
+      },
+      {
+        "rank": 2,
+        "id": "04ddf27a0a5f1b44410fdb573cb49dacf958390d2df4476ce3116a064a167497",
+        "score": 0.9962955117225647,
+        "meta": {
+          "file_path": "9783866496811-014-017.txt",
+          "source_id": "2e1299f62691bd272d144e3c2f9a843fcd01c13cd3a327c0740ec6f7966dbdc8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1228,
+          "_split_overlap": [
+            {
+              "doc_id": "727a57be9c52db9116c7ca1adc57cbe2ed70c76fe881a0e14d148d494cf5657f",
+              "range": [
+                1228,
+                1588
+              ]
+            },
+            {
+              "doc_id": "cbee4dd0ce60123d36b3674e229b834de4110333a617ff009ada2aee2dfb9df2",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "wie auch im Pflegehandeln und in der Pflegeausbildung als brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege- (aus)bildung. Dieses Fachbuch zielt deutlich auf die Weiterentwicklung der Curricula zum Teilbereich Beratung in der Pflegebildung. Es geht darum, die Schnittstellen der systemischen Beratung in pädagogischen Handlungsfeldern der Pflege-\nausbildung deutlicher in Augenschein zu nehmen. Es zeichnet sich eine neue Herausforderung in der Pflegebildung ab: Wie können einerseits Wissen und Haltung als systemische Kernkompetenz einhergehen mit einem Konzept des systemischen Beratungshandelns anderseits. - reflektierten Basics Beratung wurde in den Feldern der Pflege oft dargestellt als ‚Kontaktmachen‘ und ‚gute Gesprächsführung‘. Was aber zeigen beratungs-wissenschaftliche Neuentwicklungen generell an und welche Bedeutungen haben diese akade-\nfür die Praxis der Pflegebildung? misch Kompetenzorientierte Beratung braucht eine neue S"
+      },
+      {
+        "rank": 3,
+        "id": "3b233b3bbc0e5d8c0801a09695f7269fd4852863bd356ecdb9fcc852e979f273",
+        "score": 0.9934793710708618,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 8,
+          "split_id": 15,
+          "split_idx_start": 17059,
+          "_split_overlap": [
+            {
+              "doc_id": "ae9725c3eb60075200390fab1f1c031ef958e44bd1196a699ee37240553d1fa6",
+              "range": [
+                1228,
+                1589
+              ]
+            },
+            {
+              "doc_id": "a1d3aa07613a75163d68a94abe5ad95925a34dc1cf0dc21adc95fa9c7dd51de2",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "oftmals nur wenig an die Pflegenden selbst gedacht. Warum war dies so? Zu diesem Zeitpunkt stand die Akademisierung der Pflege erst ganz am An-\nfang. Die ersten Absolventen und Absolventinnen von pflegerelevanten Studiengängen in Deutschland wie Pflegewissenschaft und Pflegepädagogik verließen die Hochschulen. Daher lag es zu dieser Zeit nahe, den Pflegenden im Punkt Beratung nur wenig Beachtung zu schenken. Die gesetzlich veran-\nkerte Beratung wurde daher vielerorts von der schon länger akademisierten Profession der Sozialarbeiter erbracht Auch auf Länderebene zeigen sich diese Tendenzen, hier am Beispiel von Nordrhein-Westfalen: 32\fIm §4 des Landespflegegesetzes (NRW, 1996) wurde vorgesehen, dass die Beratung von Pflegebedürftigen, von Pflegebedürftigkeit Bedrohten und deren Angehörigen im Zusammenwirken von Kommunen den Pflegkassen und den anderen an der pflegerischen Versorgung Beteiligten erfolgen soll. Somit wurde ein recht großer Pool von beteiligten Berufsgruppen miteinbe-\nzoge"
+      },
+      {
+        "rank": 4,
+        "id": "489dcd854912f4dde5e1ccad4868ca899c3a1abdc40f5a46c8b0e40a34dbbebd",
+        "score": 0.9932168126106262,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 18,
+          "split_id": 35,
+          "split_idx_start": 40782,
+          "_split_overlap": [
+            {
+              "doc_id": "880e0c645c88ca569a5ca5746b08b136b8865fc270df1bdabc6f354e347c1cef",
+              "range": [
+                1156,
+                1518
+              ]
+            },
+            {
+              "doc_id": "bafda2695cb300eaac234aaf1a7cd37660b22e9fd63e8cf165a94b1ce26ff17d",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "- Sterbende Menschen pflegen Deutlich wird hier aus den Ausbildungsrichtlinien von NRW, dass der Auf-\ntrag der Beratung in der Pflege sehr wohl angenommen wurde, allerdings auch in der Umsetzung noch das konkrete Konzept fehlt und auch hier Kon-\nzeptvorschläge eher eine Beispielfunktion erfüllen. Bereits hier wird empfohlen, dass beraterische Kompetenzen über die Grund-\npflege Tätigkeiten in der Pflege hinausgehen sollten. Diese Empfehlung ist eine wichtige Überleitung zu den Diskussionen der Pflegeversicherungsreform von 2008. 42\f2.3. Das Pflege-Weiterentwicklungsgesetz (PfWG) und Beratung in der Pflege Seit Implementierung der Pflegeversicherung im Jahre 1995 gab es keine prägnanten Veränderungen des Elften Sozialgesetzbuches. Erst mit dem Pflege-Weiterentwicklungsgesetz, welches zum 1. Juli 2008 in Kraft trat, ist eine strukturelle Weiterentwicklung zu verzeichnen. Wie bereits 1995 sind auch 2008 wieder neue Elemente im Sozialgesetzbuch bezüglich der Bera-\ntung in der Pflege auszuma"
+      },
+      {
+        "rank": 5,
+        "id": "b9c7052eba96edc3798435bbe485a646d4a6b4be7433c0b4f251b71ded21508c",
+        "score": 0.9917247295379639,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 23,
+          "split_id": 46,
+          "split_idx_start": 54039,
+          "_split_overlap": [
+            {
+              "doc_id": "2e4080fa02d7f6d68a9bde00ef4e01292712fba0ce457ac3d8034bcb3e247f4d",
+              "range": [
+                1163,
+                1562
+              ]
+            },
+            {
+              "doc_id": "29764d795ec1d99cfc0ae386b7b39ca6d2a4683ff71ba077a9f31962bdc1da6b",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "der GKV zu diesem pflegerischen Tätigkeitsbereich in die Wege geleitet hat wird an anderer Stelle näher beschrieben. 2.3.2. Pflegestützpunkte Durch das Pflege-Weiterentwicklungsgesetz wurde ebenfalls der §92c imp-\nlementiert, welcher nicht nur Tätigkeiten der Pflege in einem bereits bestehendem Gefüge definiert, sondern ein neues Handlungsfeld der Pflege erschließt. Dieses neue Handlungsfeld der Pflegestützpunkte, ist Bundesge-\nsetz, ihre Einführung obliegt jedoch den Landesbehörden. Werden die Stützpunkte vom Land bestimmt, liegt es an den Pflegekassen und den Kran- 47\fkenkassen Pflegestützpunkte für die Versicherten einzurichten und eine wohnortnahe Beratung, Versorgung und Betreuung zu gewährleisten. §92c Pflegestützpunkte (1) Zur wohnortnahen Beratung, Versorgung und Betreuung der Versicherten richten die Pflegekassen und Krankenkassen Pflegestützpunkte ein, sofern die zuständige oberste Landesbehörde dies bestimmt. Die Einrichtung muss innerhalb von sechs Monaten nach der Bestimmu"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-052-071.txt",
+    "question": "Welche historischen Ansätze zur Betrachtung von Krankheit werden im Text beschrieben?",
+    "answer": "Die historischen Ansätze zur Betrachtung von Krankheit werden im Text als \"religiös-geistige Welt, ökologische und soziale Umwelten, Lebenswandel und Lebenssituation der Kranken\" beschrieben.",
+    "expected": "Historisch wurde Krankheit nicht nur als rein naturgebundenes Phänomen betrachtet, sondern auch mit religiös-geistigen Aspekten, ökologischen und sozialen Umwelten sowie dem Lebenswandel und der Lebenssituation der Kranken in Verbindung gebracht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fb8555985b25044df60c677c22fb8598c3ec91de68d52f05bcaf9a2f8e52fb37",
+        "score": 0.9434410333633423,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 40,
+          "split_id": 83,
+          "split_idx_start": 98797,
+          "_split_overlap": [
+            {
+              "doc_id": "54a5c500e33eab66b8543d3fe6f1e51dcf33a01409ed757760e4c8b1ca2086d8",
+              "range": [
+                1207,
+                1607
+              ]
+            },
+            {
+              "doc_id": "bc8b56721b4f3e1dfc591117e6ba5da432fa58b773f501715c911153c1b945d0",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "für die eigene Erkrankung werden – Hilfe zur Selbsthilfe – Souveränität des Verbrauchers. Allerdings ist die Langzeitversorgung durch Pflegestützpunkte nicht nur auf Pflegebedürftige zu beziehen, denn alle Versicherten haben das Recht auf Krankenbehandlung, welchem die Krankenkassen nachkommen müssen: „§ 27 Krankenbehandlung (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern.“ (§ 27 Abs.1 Satz1, SGB V) Anhand dieser Pflichterfüllung werden die gesetzlichen Krankenkassen si-\ncherlich den obigen drei zukunftsorientiert Perspektiven spätestens aus Kostengründen zustimmen. Was kann hier durch den Pflegestützpunkt bzw. durch die PflegeberaterInnen weiterentwickelt werden? Besitzt eine PflegeberaterIn eine weitere spezielle Qualifikation, ist es mög-\nlich diese Spezialberatungen im Pflegestützpunkt anzubieten und auf diese Weise dem Pflegestützpunkt eine"
+      },
+      {
+        "rank": 2,
+        "id": "bc1dadb4a11d27c69cc9012e5459c2b2ec74e3a987059e4ebfb9c5a93f57f157",
+        "score": 0.9208605885505676,
+        "meta": {
+          "file_path": "9783847412304-129-180.txt",
+          "source_id": "a552771cf1a4f5dfa3b9da300d101a1da2157deec1a617bbc06888db07eeba93",
+          "page_number": 3,
+          "split_id": 2,
+          "split_idx_start": 2517,
+          "_split_overlap": [
+            {
+              "doc_id": "f2521d961f88a4ec9a2743931122bcc65ab4fa03ef646183a207ecb414245d80",
+              "range": [
+                1232,
+                1620
+              ]
+            },
+            {
+              "doc_id": "cecd23f80424b75637ed620c2b8ad6640367087a1750ba9847d6b9d0e7300d36",
+              "range": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        "content": "der Frage nach, wie diese Lücke geschlossen werden kann.\f132 Christiane Schiersmann / Peter Weber Grundlage für die Darstellung bildet ein Teilvorhaben im Rahmen des vom Institut für Bildungswissenschaft der Universität Heidelberg und dem Nati-\nonalen Forum Beratung (nfb) durchgeführten und vom Bundesministerium für Bildung und Forschung geförderten Projektes zur Beratungsqualität (im Folgenden: BeQu). Es wurden verschiedene Instrumente zur Erfassung und Bewertung der Kompetenzen von Beratenden entwickelt und erprobt. Dieser Prozess und seine Ergebnisse stehen im Mittelpunkt dieses Beitrags. 2. Kompetenzverständnis, Kompetenzmodell und Kompetenzpro(cid:191)l für Beratende Kompetenzen können als Kern der Professionalität (von Beratenden) beschrie-\nben werden. Das hier vertretene Kompetenzverständnis orientiert sich dabei an einem performanzorientierten Kompetenzbegri(cid:3445), der den Zusammenhang von Dispositionen und Handeln fokussiert. Dies bedeutet, dass insbesondere die Performanz"
+      },
+      {
+        "rank": 3,
+        "id": "04f86c935d2fc551197506945e937967a35d3212a90f382790e52fa48d44ef90",
+        "score": 0.9036903977394104,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+              "range": [
+                0,
+                355
+              ]
+            }
+          ]
+        },
+        "content": "3. Systemische Bezüge von Pflege und Beratung Seit der Implementierung des aktuellen Krankenpflegegesetzes ist eine stei-\ngende Zahl an Veröffentlichungen zum Thema ‚Beratung in der Pflege‘ zu beobachten. Verschiedene Autoren beschreiben Beratung als ein neues pfle-\ngerisches Handlungsfeld, welches dringend benötigt wird und durch ein sich kontinuierlich veränderndes Aufgabenfeld in der Pflege begründet ist (vgl. Koch-Straube 2002:87; Mertin 2005:2). Ein Blick in ältere Literatur, bzw. in die Pflegegeschichte macht deutlich, dass Krankheit von jeher nicht als ein rein naturgebundenes Phänomen be-\ntrachtet wurde und die Ursachen von Krankheiten und deren Heilung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Le-\nbenswandel und der Lebenssituation der Kranken in Verbindung gebracht wurden. Somit in den Ursachen der Krankheiten immer auch ein Wirkungs-\nPrinzip zu Grunde lag. Daher ist es auch nur nahe liegend, dass Heilkundige und Pflegende Einfluss auf die K"
+      },
+      {
+        "rank": 4,
+        "id": "db312a112007df5d0bb36cc17f42c7bf265ac0fd0ad11904d664fac6ab92814a",
+        "score": 0.8926265239715576,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2272,
+          "_split_overlap": [
+            {
+              "doc_id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+              "range": [
+                1149,
+                1529
+              ]
+            },
+            {
+              "doc_id": "131730ff52e11f89191478099dbe579d7a98fe2e6ea547c4b59ff38a07d04bcf",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "und arbei-\nteten in stationären Bereichen der Krankenpflege. Die Diplomarbeit von Christel KNELANG konzentrierte sich auf die psychiatrische Krankenpflege und die von Martin SCHIERON auf den somatischen Bereich. Der Aus- 51\fgangspunkt beider Arbeiten besteht auf der These: Beratung ist ein zentraler Aufgabenbereich der Pflege. Im Folgenden werden beide Studien kurz beschrieben und jeweils die Ergeb-\nnisse dargestellt. 3.1.1. Qualitative Studie in der psychiatrischen Krankenpflege Die wichtigste Frage dieser Studie bestand darin, „ob das Führen von Gesprächen und im besonderen die Beratung ein Aufgabenbereich der psychiatrischen Pflege sei“ (…). Ein weiteres Interesse lag darin zu erfahren, „ob sich Pflegekräfte in der Psychiatrie durch ihre Ausbildung für diese Bereiche befähigt und qualifiziert fühlen.“ (…) Als besondere Auswahlkriterien der Befragten war verlangt, dass diese min-\ndestens seit zwei Jahre auf einer psychiatrischen stationären Abteilung tätig sind, welches an ein Allgem"
+      },
+      {
+        "rank": 5,
+        "id": "bd1341e8912a442c03ab297735fa9889fb211aedd08d3c3bf6d1d681f3d354b8",
+        "score": 0.8388359546661377,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 75,
+          "split_id": 145,
+          "split_idx_start": 173122,
+          "_split_overlap": [
+            {
+              "doc_id": "4d251ac661d58bbd2ea79ceed71a83807689501a88f7f1926e07c21c13323c0d",
+              "range": [
+                1343,
+                1784
+              ]
+            },
+            {
+              "doc_id": "8845613410b40e369868ca957d816626921c35d53a239f90c3db8c42c5d9f424",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "und Einschränkungen werden Spannungsfelder in der Beratungs-\ntätigkeit sichtbar. Diese Spannungsfelder werden auf allen drei Ebenen für die beschriebenen Aufgabenfelder deutlich (vgl. Abb. 15). Auf der Ebene des Beratungsgesprächs übernehmen die Berater_innen durch eine anerkennende und wertschätzende Beratungshaltung Aufgaben zur Stärkung und Unterstützung der Handlungs- und Entscheidungsfähig-\nkeit der Klient_innen. Als einschränkende Rahmenbedingungen werden hier aufgrund der hohen Beratungsnachfrage knappe Personal- und Zeit-\nressourcen sowie Planungsunsicherheit durch befristete Projektfinanzie-\nrungen genannt. Über die institutionelle Ebene hinaus erschweren zudem die fehlende soziale Wertschätzung auf der gesellschaftlichen Ebene und die restriktiven rechtlichen Rahmenbedingungen einen ressourcenorientierten Zugang zur Beratung. Das Aufgabenfeld auf rechtlicher Ebene umfasst die Unterstützung und Begleitung bei dem Prozess der formalen Anerkennung. Diesen Aufgaben steht ein sehr"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-052-071.txt",
+    "question": "Welche Forschungsmethode wurde in den Studien von Knelang und Schieron verwendet, um das Verständnis von Beratung in der Pflege zu erkunden?",
+    "answer": "Die Forschungsmethode, die in den Studien von Knelang und Schieron verwendet wurde, um das Verständnis von Beratung in der Pflege zu erkunden, war der qualitative Forschungsansatz. Die Methoden der Datengewinnung waren leitfadengestützte Experteninterviews, die mit Tonband aufgenommen wurden, um diese anschließend zu transkribieren. Die Auswertung des erlangten Datenmaterials erfolgte in Anlehnung an die qualitative Inhaltsanalyse nach Mayring. \n\nI hope it is correct. Please let me know if I made any mistakes.",
+    "expected": "Beide Studien nutzten einen qualitativen Forschungsansatz mit leitfadengestützten Experteninterviews, die mit Tonband aufgenommen wurden. Anschließend erfolgte die Auswertung anhand der qualitativen Inhaltsanalyse nach Mayring.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1bdfa0ce3769e0bd8e951d5a2d2c155039506a0e19811b0ff9241670fa3f1743",
+        "score": 0.9614800810813904,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 7,
+          "split_id": 13,
+          "split_idx_start": 15263,
+          "_split_overlap": [
+            {
+              "doc_id": "129c1e9afdf50ebcdc5a1835c777a96bcd382b9b198632d0897fb51a19bf4b1e",
+              "range": [
+                1214,
+                1585
+              ]
+            },
+            {
+              "doc_id": "54b695645daff3fb5ece5d9324042ed909a12373909c13f23e45f8a907f3bb8b",
+              "range": [
+                0,
+                378
+              ]
+            }
+          ]
+        },
+        "content": "der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch erscheint ihnen ihre Qualifikation in ‚Gespräche führen‘, welche sie primär durch Lebens- und Berufserfahrung gewonnen haben, ausreichend – dies wird allerdings auch von einem großen Teil der psychiatrischen Pflege-\nkräfte so gesehen. Allerdings beschreiben auch viele der Befragten Überforderungsmomente, welche im Zusammenhang von Beratungsanfragen, den äußeren Umständen, wie z.B. der Zeitdruck und der eigenen emotionalen Verfassung stehen. KNELANGE und SCHIERON vermuten, dass noch weitere Aspekte zur Überlastung der Pflegekräfte in Beratungssituationen führen und benennen, dass neben theoretischem Wissen und praktische kommunikative Kompeten-\nzen auch ein hohes Maß an professioneller Selbstreflexion zu Beratungsgesprächen gehört (vgl. Knelange 2000). In den Studien ist zu erkennen, dass diese Kompetenz de"
+      },
+      {
+        "rank": 2,
+        "id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+        "score": 0.9413736462593079,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1123,
+          "_split_overlap": [
+            {
+              "doc_id": "04f86c935d2fc551197506945e937967a35d3212a90f382790e52fa48d44ef90",
+              "range": [
+                1123,
+                1478
+              ]
+            },
+            {
+              "doc_id": "db312a112007df5d0bb36cc17f42c7bf265ac0fd0ad11904d664fac6ab92814a",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Einfluss bestand und besteht nicht nur in den grund- und behandlungs-\npflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen einer Pflegekraft. Auch stellt sich die Frage danach, wie heute die Pflegekräfte zur Beratung stehen und wird sie als Aufgabe der Pflege gesehen? 3.1. Zum Verständnis von Beratung in der Pflege Um das Verständnis von Pflegenden über Beratung genauer zu erkunden, verweisen wir auf die Ergebnisse zweier empirischer Studien (vgl. Knelang 2000), die beide in 2000 veröffentlicht wurden. Neuere Studien zu diesem Thema sind in der eingesehenen Literatur nicht gefunden worden. Beide Autoren entschieden sich für den qualitativen Forschungsansatz, um die Erfahrungen der Befragten nicht durch vorgegebene Antworten einzu-\nschränken. Die Methoden der Datengewinnung waren leitfadengestützte Experteninterviews, welche mit Tonband aufgenommen wurden um diese anschließend zu transkribieren. Die Auswertung des erlangten Da"
+      },
+      {
+        "rank": 3,
+        "id": "129c1e9afdf50ebcdc5a1835c777a96bcd382b9b198632d0897fb51a19bf4b1e",
+        "score": 0.9143782258033752,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 6,
+          "split_id": 12,
+          "split_idx_start": 14049,
+          "_split_overlap": [
+            {
+              "doc_id": "0ad41dc26fedee7de48ed4feb13bdd64c54d6812123af1fa878362f9dbea89d5",
+              "range": [
+                1137,
+                1525
+              ]
+            },
+            {
+              "doc_id": "1bdfa0ce3769e0bd8e951d5a2d2c155039506a0e19811b0ff9241670fa3f1743",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "abschließenden Betrachtungen dieser Studie wird deutlich, dass von den Pflegekräften Beratung durchgeführt wird, allerdings ist nicht klar darzu-\nstellen ob dies als persönlicher oder beruflicher Auftrag gesehen wird. Deutlich wird beschrieben dass die befragten Pflegekräfte ‚noch‘ nicht in der Lage sind Beratung professionell auszuüben, da es im Besonderen an reflexi-\nven Kompetenzen fehlt. 3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. 56\fIn der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma-\ntischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge-\ngen die P"
+      },
+      {
+        "rank": 4,
+        "id": "db312a112007df5d0bb36cc17f42c7bf265ac0fd0ad11904d664fac6ab92814a",
+        "score": 0.9102790951728821,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2272,
+          "_split_overlap": [
+            {
+              "doc_id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+              "range": [
+                1149,
+                1529
+              ]
+            },
+            {
+              "doc_id": "131730ff52e11f89191478099dbe579d7a98fe2e6ea547c4b59ff38a07d04bcf",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "und arbei-\nteten in stationären Bereichen der Krankenpflege. Die Diplomarbeit von Christel KNELANG konzentrierte sich auf die psychiatrische Krankenpflege und die von Martin SCHIERON auf den somatischen Bereich. Der Aus- 51\fgangspunkt beider Arbeiten besteht auf der These: Beratung ist ein zentraler Aufgabenbereich der Pflege. Im Folgenden werden beide Studien kurz beschrieben und jeweils die Ergeb-\nnisse dargestellt. 3.1.1. Qualitative Studie in der psychiatrischen Krankenpflege Die wichtigste Frage dieser Studie bestand darin, „ob das Führen von Gesprächen und im besonderen die Beratung ein Aufgabenbereich der psychiatrischen Pflege sei“ (…). Ein weiteres Interesse lag darin zu erfahren, „ob sich Pflegekräfte in der Psychiatrie durch ihre Ausbildung für diese Bereiche befähigt und qualifiziert fühlen.“ (…) Als besondere Auswahlkriterien der Befragten war verlangt, dass diese min-\ndestens seit zwei Jahre auf einer psychiatrischen stationären Abteilung tätig sind, welches an ein Allgem"
+      },
+      {
+        "rank": 5,
+        "id": "04f86c935d2fc551197506945e937967a35d3212a90f382790e52fa48d44ef90",
+        "score": 0.25884029269218445,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+              "range": [
+                0,
+                355
+              ]
+            }
+          ]
+        },
+        "content": "3. Systemische Bezüge von Pflege und Beratung Seit der Implementierung des aktuellen Krankenpflegegesetzes ist eine stei-\ngende Zahl an Veröffentlichungen zum Thema ‚Beratung in der Pflege‘ zu beobachten. Verschiedene Autoren beschreiben Beratung als ein neues pfle-\ngerisches Handlungsfeld, welches dringend benötigt wird und durch ein sich kontinuierlich veränderndes Aufgabenfeld in der Pflege begründet ist (vgl. Koch-Straube 2002:87; Mertin 2005:2). Ein Blick in ältere Literatur, bzw. in die Pflegegeschichte macht deutlich, dass Krankheit von jeher nicht als ein rein naturgebundenes Phänomen be-\ntrachtet wurde und die Ursachen von Krankheiten und deren Heilung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Le-\nbenswandel und der Lebenssituation der Kranken in Verbindung gebracht wurden. Somit in den Ursachen der Krankheiten immer auch ein Wirkungs-\nPrinzip zu Grunde lag. Daher ist es auch nur nahe liegend, dass Heilkundige und Pflegende Einfluss auf die K"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-052-071.txt",
+    "question": "Wie lässt sich der Einfluss von Pflegenden auf das Krankheitsgeschehen   umfassend beschreiben?",
+    "answer": "Der Einfluss von Pflegenden auf das Krankheitsgeschehen lässt sich umfassend beschreiben als eine interaktive und dynamische Prozess, der die gesamte Persönlichkeit des Patienten einschließt, einschließlich seiner körperlichen, emotionalen, sozialen und kognitiven Aspekte. Pflegenden können durch ihre Beratung, Anleitung und Unterstützung einen positiven Einfluss auf das Krankheitsgeschehen haben, indem sie dem Patienten helfen, seine Ressourcen zu aktivieren, Stressoren zu bewältigen und ein kohärentes Gesundheitsverständnis zu entwickeln. Dieser Prozess kann als Salutogenese verstanden werden, ein Konzept, das von Aaron Antonovsky entwickelt wurde, um die Gesundheitsförderung und Prävention zu verstehen. Pflegenden können durch ihre Beratung und Unterstützung einen wichtigen Beitrag zum Wohlbefinden und zur Gesundheit des Patienten leisten und so das Krankheitsgeschehen positiv beeinflussen. \n        Die Umsetzung dieses Prozesses kann durch verschiedene pflegerische Maßnahmen erfolgen, wie z.B. die Förderung von Widerstandsressourcen, die Reduzierung von Stressoren und die Förderung von Kohärenzgefühl. Pflegenden sollten dabei eine umfassende Beratung anbieten, die die individuellen Bedürfnisse und Ziele des Patienten berücksichtigt und ihn unterstützt, seine Ressourcen zu aktivieren und seine Gesundheit zu fördern. \n        Insgesamt lässt sich sagen, dass der Einfluss von Pflegenden auf das Krankheitsgeschehen ein wichtiger Aspekt der Gesundheitsversorgung ist und dass Pflegenden durch ihre Beratung und Unterstützung einen wichtigen Beitrag zum Wohlbefinden und zur Gesundheit des Patienten leisten können. \n        In der Literatur wird der Einfluss von Pflegenden auf das Krankheitsgeschehen oft als Beratung und Unterstützung beschrieben, die den Patienten helfen, seine Ressourcen zu aktivieren, Stressoren zu bewältigen und ein kohärentes Gesundheitsverständnis zu entwickeln. Dieser Prozess wird oft als Salut",
+    "expected": "Der Einfluss der Pflegenden auf das Krankheitsgeschehen besteht nicht nur in grund- und behandlungspflegebezogenen Tätigkeiten, sondern auch in kommunikativen Kompetenzen, insbesondere in anleitenden und beraterischen Fähigkeiten, die die Komplexität des Krankheitsgeschehens beeinflussen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "925bf877810c65e91ec7b71173121a61e5887363da40b3e962e9f3b7e2d14905",
+        "score": 0.9966893196105957,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2141,
+          "_split_overlap": [
+            {
+              "doc_id": "7cb9ffaf47f69d058cc738216354647687a0b607767c928e54f142b1eeb039fd",
+              "range": [
+                1036,
+                1405
+              ]
+            },
+            {
+              "doc_id": "a877c0f7633ee8045c763128e00eb6c93a0d00a60cfff28138a2e8891839074e",
+              "range": [
+                0,
+                326
+              ]
+            }
+          ]
+        },
+        "content": "des Kümmerns um Kranke, Verwundete und Alte Menschen deutlich, mit wie viel Wissen und Gewissen versorgt wurde. Lange vor unse-\nrer Zeitrechnung bis ins späte Mittelalter übernahmen weise Frauen, Ordensschwestern, Ordensbrüder, Beginen und auch Angehörige anderer 25\fweltlicher Orden als Heilkundige und Hebammen die Versorgung der Kran-\nken. Zwar lässt sich meist nur erahnen, welche Bedeutung die Kommunikation oder auch Beratung im Laufe der Geschichte hatte, aber es ist anzunehmen, dass die Kranken, Siechen und Alten in einem ganzheitli-\nchen Verständnis versorgt wurden. So ist gewiss auch jedem aus der Pflege unsere erste Pflegetheoretikerin Florence Nightingale als ‚die Dame mit der Lampe‘ bekannt. Diesen Titel erhielt sie, weil sie des Abends zur ruhiger Stunde durch das Lazarett lief und gezielt sich zu dem einen oder dem anderen Patienten setzte und mit Ruhe und Zeit den Sorgen und Nöten der Soldaten zuhörte, damit diese danach in Ruhe schlafen und sich weiter auf das Gesund werde"
+      },
+      {
+        "rank": 2,
+        "id": "125e13f811556dac39397b51111064ba5c92fe424b3a20082aaa6f48e191c162",
+        "score": 0.9957953691482544,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 26,
+          "split_id": 51,
+          "split_idx_start": 60252,
+          "_split_overlap": [
+            {
+              "doc_id": "f1dc7ff72d646cdb93010171af34991a2eced7495359fac1f20247279b2f449b",
+              "range": [
+                1264,
+                1674
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits-\nbewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü-\nfungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege-\nberatung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche-\nrungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle-\ngeberater können aus den Ausbildungscurricula abgeleitet werden. 50\f"
+      },
+      {
+        "rank": 3,
+        "id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+        "score": 0.9934159517288208,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1123,
+          "_split_overlap": [
+            {
+              "doc_id": "04f86c935d2fc551197506945e937967a35d3212a90f382790e52fa48d44ef90",
+              "range": [
+                1123,
+                1478
+              ]
+            },
+            {
+              "doc_id": "db312a112007df5d0bb36cc17f42c7bf265ac0fd0ad11904d664fac6ab92814a",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Einfluss bestand und besteht nicht nur in den grund- und behandlungs-\npflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen einer Pflegekraft. Auch stellt sich die Frage danach, wie heute die Pflegekräfte zur Beratung stehen und wird sie als Aufgabe der Pflege gesehen? 3.1. Zum Verständnis von Beratung in der Pflege Um das Verständnis von Pflegenden über Beratung genauer zu erkunden, verweisen wir auf die Ergebnisse zweier empirischer Studien (vgl. Knelang 2000), die beide in 2000 veröffentlicht wurden. Neuere Studien zu diesem Thema sind in der eingesehenen Literatur nicht gefunden worden. Beide Autoren entschieden sich für den qualitativen Forschungsansatz, um die Erfahrungen der Befragten nicht durch vorgegebene Antworten einzu-\nschränken. Die Methoden der Datengewinnung waren leitfadengestützte Experteninterviews, welche mit Tonband aufgenommen wurden um diese anschließend zu transkribieren. Die Auswertung des erlangten Da"
+      },
+      {
+        "rank": 4,
+        "id": "b3d5d6ba2dd5bf5d50ac1d9490521a9cd49cbf03b6549c548e9b2889a7f16919",
+        "score": 0.9930642247200012,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 15,
+          "split_id": 31,
+          "split_idx_start": 36547,
+          "_split_overlap": [
+            {
+              "doc_id": "da3daddf90d5143e165d15c02057998b86f6887a1bd86b635116e30245a88eb3",
+              "range": [
+                1111,
+                1487
+              ]
+            },
+            {
+              "doc_id": "2b9d2e88a0edecaf4c8e10fc53fc870f38a90f9cdd4708d04915b4e2e4233504",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "Pflege: „Heutzutage geht man davon aus, dass ein kranker Mensch nicht durch und durch krank und hilfsbedürftig ist, sondern neben kranken auch gesunde Anteile besitzt.“ (Elsevier 2004:9) ANTONOVSKY beschreibt noch andere Dimensionen des Befindens, wel-\nche das Kontinuum von Gesundheit und Krankheit beeinflussen. Für die Pflege und Krankheitsbewältigung sind drei bedeutende Aspekte zu nennen (Elsevier 2007:220): 65\f- Widerstandsressourcen - Stressoren - Kohärenzgefühl Unter den Widerstandsressourcen sind eigene Fähigkeiten zu verstehen, sich gegen Dinge zu wehren, die die eigene Gesundheit bedrohen. Diese können unterschiedlichster Natur sein: physikalisch, biochemisch, materiell, kognitiv, emotional, sozial, kulturell oder politisch. Oder anders ausgedrückt ein paar Beispiele: - Die richtige Kleidung anziehen, die vor dem Wettereinfluss schützt - Gesunde Ernährung für ein intaktes Immunsystem - Wissen, was gesund für mich ist - Einkommen, um sich gesunde Ernährung und Ausgleich zu fina"
+      },
+      {
+        "rank": 5,
+        "id": "164207c5a17e5fb2e204f79d158c3c9dd5f6d1e72ed7952da08d3d9c96d23c84",
+        "score": 0.9921616911888123,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 14,
+          "split_id": 29,
+          "split_idx_start": 34294,
+          "_split_overlap": [
+            {
+              "doc_id": "abd202f7daf4689551e819b1dfb8c37344bbafd787f602b2d04371bd835132dd",
+              "range": [
+                1208,
+                1607
+              ]
+            },
+            {
+              "doc_id": "da3daddf90d5143e165d15c02057998b86f6887a1bd86b635116e30245a88eb3",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "erhalten, obwohl der Beratungsauftrag für die Pflege noch keine konzeptuelle Verankerung in der Profession gefunden hat. Die Pflegetheorien konnten noch keinen konkreten Orientierungsrahmen für pflegerische Bera-\ntung entwickeln. 64\f3.3.2. Salutogenese als Ressource zur Gesundheitsförderung Eine große Ressource von der Pflege für die Beratung stellt das Konzept der Salutogenese dar. Verortet ist dieser Ansatz in der Gesundheitsförderung und Prävention, um Theorie gestützt den Patienten in seiner Krankheitsbe-\nwältigung zubegleiten. (vgl. Elesevier 2007:219 ff). Über mehrere Jahrhunderte hat die Medizin Entstehungen und Auslöser von Krankheiten erforscht und verschiedenste Theorien entwickelt, dies stellt den Gegenspieler, die ‚Pathogenese‘ dar: „(griech. Pathos = Leiden, Leid; Genese = Entstehung) gibt eine Antwort auf die Frage: „Wie und warum werden Menschen krank?““ (Elsevier 2007:219) In den letzten Jahrzehnten ist zu erkennen, dass chronische und nicht infekti-\nöse Erkrankungen de"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-052-071.txt",
+    "question": "Wie begründet der Text die These, dass Beratung ein zentraler Aufgabenbereich der Pflege ist, und welche Bereiche der Pflege wurden dabei untersucht?",
+    "answer": "Der Text begründet die These, dass Beratung ein zentraler Aufgabenbereich der Pflege ist, durch die Ergebnisse zweier empirischer Studien, die im Jahr 2000 veröffentlicht wurden. Diese Studien wurden von Christel Knelang und Martin Schieron durchgeführt. Die Studien konzentrierten sich auf die psychiatrische und somatische Krankenpflege. Die Ergebnisse der Studien legen nahe, dass Beratung ein wichtiger Aspekt der Pflege ist und dass Pflegekräfte eine wichtige Rolle bei der Beratung von Patienten spielen. Die Studien wurden durch leitfadengestützte Experteninterviews durchgeführt, die mit Tonband aufgenommen wurden und anschließend transkribiert wurden. Die Auswertung der Daten erfolgte durch qualitative Inhaltsanalyse nach Mayring. Die Befragten waren Pflegekräfte mit dreijährigem Staatsexamen, die in stationären Bereichen der Krankenpflege arbeiteten. Die Studien wurden in verschiedenen Bereichen der Pflege untersucht, darunter Pneumologie, HNO, Allgemein-Chirurgie, Innere Station, Gynäkologie/Geburtshilfe und Neurologie. \n\n        Der Text argumentiert, dass Beratung ein zentraler Aufgabenbereich der Pflege ist, weil die Ergebnisse der Studien zeigen, dass Pflegekräfte eine wichtige Rolle bei der Beratung von Patienten spielen und dass Beratung ein wichtiger Aspekt der Pflege ist. Der Text legt nahe, dass die Pflege nicht nur auf die medizinische Versorgung von Patienten beschränkt ist, sondern auch auf die soziale und emotionale Unterstützung von Patienten. Der Text betont auch die Bedeutung von Kommunikation und Beratung in der Pflege und dass Pflegekräfte eine wichtige Rolle bei der Gestaltung dieser Prozesse spielen. \n\n        Im Gegensatz zu anderen Bereichen der Pflege, wie der medizinischen Versorgung, ist Beratung ein wichtiger Aspekt der Pflege, der noch nicht vollständig erforscht ist. Der Text legt nahe, dass die Theoriebildung von Beratung in der Pflege noch in den Kinderschuhen steckt und",
+    "expected": "Der Text begründet die These durch die Ergebnisse zweier qualitativer Studien, die Pflegekräfte aus der psychiatrischen (Knelang) und somatischen Krankenpflege (Schieron) befragten. Beide Studien zeigen, dass Beratung als zentraler Aufgabenbereich der Pflege angesehen wird, was die Bedeutung von kommunikativen und beratenden Kompetenzen unterstreicht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3705a2622ac876fbd7eaf03261bbd82b82f80879d5886616ab5913d40b67a9d9",
+        "score": 0.9954515099525452,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6920,
+          "_split_overlap": [
+            {
+              "doc_id": "4de9f440724729d143a6c746dcb91f4f295aeb00b49573ff84a4df10b4f4aca3",
+              "range": [
+                1155,
+                1569
+              ]
+            },
+            {
+              "doc_id": "60e394683a9903e221675a3e4744d751fd5f1a772f8205762bda6b144ae5296d",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "zentraler Aufgabenbereich der Pflege ist, sind in dieser Studie die zentralen Fragen: „Wird Beratung als Arbeits-\nauftrag gesehen?“ und „Fühlen sich die Pflegekräfte einer solchen Aufgabe gewachsen?“ Besondere Auswahlkriterien der Befragten bestanden neben den oben ge-\nnannten in keiner weiteren Zusatzqualifikation und einer aktuellen Berufstätigkeit ausschließlich auf allgemeinen Pflegestationen. Es wurden 12 Interviews durchgeführt, davon hatten alle Befragten eine abgeschlossene dreijährige Krankenpflegeausbildung und waren im Lebens- 53\falter von 22 bis 41 Jahren. Die Berufserfahrung lag zwischen 1½ und 17 Jahren. An dieser Studie nahmen Pflegekräfte aus sechs verschiedenen Bereichen Teil: Pneumologie, HNO, Allgemein-Chirurgie, Innere Station, Gynäkolo-\ngie/Geburtshilfe und Neurologie (vgl. Knelange 2000). Martin SCHIERON gliedert die Interviewergebnisse seiner Studie in 9 Kate-\ngorien auf, die wesentlichen Punkte wurden zusammengefasst: 1. Kategorie: Was verstehen Pflegekräfte unt"
+      },
+      {
+        "rank": 2,
+        "id": "a73ba2740e0a6944b7e2a128fa7779dd0a87990d27aa71fcc4b3dfe1ce8e27e8",
+        "score": 0.9864352345466614,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 19,
+          "split_id": 39,
+          "split_idx_start": 45667,
+          "_split_overlap": [
+            {
+              "doc_id": "57286fc73b4df05dbcb05c1f2ad85fb6eb1745a546bf9cd0db964a36f8d87708",
+              "range": [
+                1124,
+                1511
+              ]
+            },
+            {
+              "doc_id": "a07bd21577a5a136d3d256a5baef4313a6643c2893ec1abd0b7d8fc1ef437b38",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "der Krankenversorgung nicht die pflegerischen bzw. medizinischen Sachleistungen sind, sondern dass die Interaktion zwischen Pflegekräften und Patienten ein sehr zentrales Phänomen ist, damit der Pa-\ntient zufrieden ist, sich respektiert, verstanden und aufgehoben fühlt. Etwa drei Jahre später wurde eine Antwort von Ursula KOCH-STRAUBE (vgl. 2002:85) auf den eben beschriebenen Artikel veröffentlicht. Dieser Aufsatz lautet ‚Beratung in der Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes-\nsionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratung"
+      },
+      {
+        "rank": 3,
+        "id": "454e9470692c596d1d47ae82320f643fbbb116075fc43d577ae93605de2e93b3",
+        "score": 0.9689645171165466,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 22,
+          "split_id": 44,
+          "split_idx_start": 51622,
+          "_split_overlap": [
+            {
+              "doc_id": "28d6d9f8a828df82b9ae36d1cb1719912e22e99ce460bc9497dd5a6b2af4f8ff",
+              "range": [
+                1242,
+                1588
+              ]
+            },
+            {
+              "doc_id": "2e4080fa02d7f6d68a9bde00ef4e01292712fba0ce457ac3d8034bcb3e247f4d",
+              "range": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        "content": "einer zugehenden Beratung. Hier gibt der Gesetzgeber den Pflegeberatern und den Klienten Raum zur Gestaltung der Beratung. An dieser Stelle sei auf die Studie des Deutschen Institut für angewandte Pflegeforschung e.V., Köln hingewiesen, die später noch erläutert wird. Sie zielt auf die zugehende Beratung für pflegende An-\ngehörige ab und wurde durch den GKV-Spitzenverband gefördert. Im Abs.3 wird den Pflegekassen vorgeschrieben entsprechend qualifiziertes Personal als Pflegeberater und Pflegeberaterinnen einzusetzen, um die per- 46\fsönliche Beratungen der Versicherten durchzuführen. Als qualifiziertes Per-\nsonal werden Pflegefachkräfte Sozialversicherungsfachangestellte Sozialarbeiter - - - anerkannt. Diesen drei Berufsgruppen werden durch den Gesetzgeber allerdings eine Einschränkung zuteil, indem diese die Tätigkeit des Pflegeberaters nur mit der ‚jeweils‘ erforderlichen Zusatzqualifikation ausüben dürfen. Dies bedeu-\ntet, dass die erforderlichen Zusatzqualifikationen den Berufsbilde"
+      },
+      {
+        "rank": 4,
+        "id": "a07bd21577a5a136d3d256a5baef4313a6643c2893ec1abd0b7d8fc1ef437b38",
+        "score": 0.9494771957397461,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 19,
+          "split_id": 40,
+          "split_idx_start": 46859,
+          "_split_overlap": [
+            {
+              "doc_id": "a73ba2740e0a6944b7e2a128fa7779dd0a87990d27aa71fcc4b3dfe1ce8e27e8",
+              "range": [
+                1192,
+                1545
+              ]
+            }
+          ]
+        },
+        "content": "und Beratung auszumachen. Diese ge-\nmeinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den 69\fKinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxishandeln wechseln zu können, das ist der Sinn dieser Darlegungen aus der Pflege. Wechseln wir nun zu den ganzheitlich-orientierten Ansätzen der psychoso-\nzialen Beratung. 70\f"
+      },
+      {
+        "rank": 5,
+        "id": "98d868e211ddbf929c70b7d309e7ada5af9777151b15490931ac6586f5c6bd10",
+        "score": 0.9342698454856873,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1123,
+          "_split_overlap": [
+            {
+              "doc_id": "04f86c935d2fc551197506945e937967a35d3212a90f382790e52fa48d44ef90",
+              "range": [
+                1123,
+                1478
+              ]
+            },
+            {
+              "doc_id": "db312a112007df5d0bb36cc17f42c7bf265ac0fd0ad11904d664fac6ab92814a",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Einfluss bestand und besteht nicht nur in den grund- und behandlungs-\npflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen einer Pflegekraft. Auch stellt sich die Frage danach, wie heute die Pflegekräfte zur Beratung stehen und wird sie als Aufgabe der Pflege gesehen? 3.1. Zum Verständnis von Beratung in der Pflege Um das Verständnis von Pflegenden über Beratung genauer zu erkunden, verweisen wir auf die Ergebnisse zweier empirischer Studien (vgl. Knelang 2000), die beide in 2000 veröffentlicht wurden. Neuere Studien zu diesem Thema sind in der eingesehenen Literatur nicht gefunden worden. Beide Autoren entschieden sich für den qualitativen Forschungsansatz, um die Erfahrungen der Befragten nicht durch vorgegebene Antworten einzu-\nschränken. Die Methoden der Datengewinnung waren leitfadengestützte Experteninterviews, welche mit Tonband aufgenommen wurden um diese anschließend zu transkribieren. Die Auswertung des erlangten Da"
+      }
+    ]
+  }
+]

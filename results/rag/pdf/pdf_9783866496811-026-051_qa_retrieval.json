@@ -1,0 +1,732 @@
+[
+  {
+    "filename": "9783866496811-026-051.txt",
+    "question": "Wie wird Beratung in angrenzenden Professionen wie der Sozialen Arbeit verstanden?",
+    "answer": "In den angrenzenden Professionen wie z.B. in der Sozialen Arbeit wird die BeraterIn oder die Beratung bereits als eine eigene Handlungskompetenz verstanden. Der Internationalisierung geschuldet, ist Beratung derzeit auf dem Weg der Akademisierung und auf dem Weg, sich als eigene Wissenschaft zu verstehen.",
+    "expected": "In angrenzenden Professionen wie der Sozialen Arbeit wird Beratung bereits als eine eigene Handlungskompetenz verstanden und befindet sich auf dem Weg der Akademisierung und Etablierung als eigene Wissenschaft.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e483eaded807f4d1d47b93893e5fbfa6a597e455ea388a7933e80d159ab0cfae",
+        "score": 0.9977461695671082,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7cb9ffaf47f69d058cc738216354647687a0b607767c928e54f142b1eeb039fd",
+              "range": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        "content": "2. Normative Rahmungen - gesetzliche Grundlagen von Beratung in Pflege und Pflegeausbildung In den angrenzenden Professionen wie z.B. in der Sozialen Arbeit wird die BeraterIn oder die Beratung bereits als eine eigene Handlungskompetenz verstanden. Der Internationalisierung geschuldet, ist Beratung derzeit auf dem Weg der Akademisierung und auf dem Weg, sich als eigene Wissen-\nschaft zu verstehen. Beratung ist auch verstärkt dabei, sich als eine spezifische Kompetenz innerhalb der verschiedenen Professionen zu etablie-\nren. Wie sieht es diesbezüglich in der Pflege aus? In der heutigen Profession Pflege haben die Interaktionen mit den Patienten oder Klienten doch einen sehr unterschiedlichen Charakter, dies kann ein behandlungspflegerischer Kontakt vor oder nach einer Untersuchung, Opera-\ntion oder nach Erhalt einer unerwarteten Diagnose oder eines anderen Schicksalsschlages sein, weshalb der Patient ins Krankenhaus kam und nun sein Leben der Erkrankung/ Behinderung anpassen muss, oder "
+      },
+      {
+        "rank": 2,
+        "id": "c0d5e00eae97b13b9bb242341c023245536c89dcb5599b220cb006da1d7878ef",
+        "score": 0.9783984422683716,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 10,
+          "split_id": 23,
+          "split_idx_start": 27459,
+          "_split_overlap": [
+            {
+              "doc_id": "a89da2cf2d7757b87395c5906f7309e916eefd3997041fbcab7a295594144f3c",
+              "range": [
+                1170,
+                1571
+              ]
+            },
+            {
+              "doc_id": "43b31484da999da5b16164d60c8c72eca225e924985f6ea1b382da92147e5e97",
+              "range": [
+                0,
+                477
+              ]
+            }
+          ]
+        },
+        "content": "Die Standortbestimmung von therapeutischen Verfahren und Beratungsan-\ngeboten erfolgt in einem sich gegenseitig bedingenden und befruchtenden Prozess. Wie immer, wenn es um die Profilschärfung von Professionen geht, 26 2 Hintergründe von Beratungsprozessen\fstehen sich Interessensgruppen – in diesem Fall auch Berufsgruppen – gegen-\nüber, die in ihrem Bereich sozialisiert wurden. Müssen die Personen später zusammenarbeiten, setzt sich diese Profilschärfung von Pädagogik, Sozialer Arbeit, Psychologie und Psychiatrie oft auf persönlicher Ebene als Missver-\nständnisse zwischen Pädagoginnen und Pädagogen, Sozialarbeiterinnen und -arbeitern, Psychotherapeutinnen und -therapeuten bzw. Psychiaterinnen und Psychiatern fort. Therapie und Beratung haben Überschneidungen in den Gesprächsfüh-\nrungstechniken und teilweise in den angewendeten Verfahren, unterscheiden sich jedoch ganz klar in ihrem Anwendungsbezug. Beratung bezieht sich vor allem auf die Alltagsbewältigung, Gestaltung von oder den Umga"
+      },
+      {
+        "rank": 3,
+        "id": "69140d6dcb14df1d7f3f57cee0cf97c2b29bd567d5772ec2a0e7fe4d633ec9c8",
+        "score": 0.9732985496520996,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 46,
+          "split_id": 82,
+          "split_idx_start": 107167,
+          "_split_overlap": [
+            {
+              "doc_id": "afca98305794b34efe8ce9bb23951c5310aa860366983370485c17160af2f478",
+              "range": [
+                1317,
+                1808
+              ]
+            },
+            {
+              "doc_id": "ac75c503b05618333dfd9b9dc306f870fe1ac34df9e04945fafad08f4d9322f4",
+              "range": [
+                0,
+                465
+              ]
+            }
+          ]
+        },
+        "content": "be-\ngründeten und eigenverantwortlichen Weiterentwicklung des Beratungsan-\ngebotes ein hoher Stellenwert zu. In der vorliegenden Arbeit wird professionelles Beratungshandeln als ein Aushandlungsprozess zwischen unterschiedlichen Anforderungen und Erwartungen verstanden, welcher sich in der Beschreibung des konkreten Beratungshandelns, den damit verbundenen Entwicklungen auf der Orga-\nnisationsebene sowie der gesellschaftlichen Positionierung und Vernetzung zwischen den Beratungsstellen ausdrückt. Durch eine kritische Ref lexion\f3. Theoretischer Analyserahmen 89 der sozialstrukturellen Rahmenbedingungen bezieht sich pädagogisches Handeln damit auch auf die professionelle Gestaltung des Handlungsfeldes. Im Migrationskontext werden diese Herausforderungen für professionelles Beratungshandeln und die Frage nach Handlungsfähigkeit und -sicherheit besonders deutlich. Abbildung 13: Dynamisches Beratungsumfeld Quelle: Schröder und Schlögl 2014, S. 10 3.3.2 Pädagogische Professionalität in der "
+      },
+      {
+        "rank": 4,
+        "id": "1606eb701f005ec4f3cfa8c4e2989eee7ced3d4b91fc8cfeb81f00915dda1790",
+        "score": 0.9410386681556702,
+        "meta": {
+          "file_path": "9783866496811-018-025.txt",
+          "source_id": "35cc4673771b046fe0fe14e914ed6143a16eca4ab8a26be55e633830ee184922",
+          "page_number": 3,
+          "split_id": 4,
+          "split_idx_start": 4879,
+          "_split_overlap": [
+            {
+              "doc_id": "372a0439c04d6aefcabb696e918fd25d5d6205458fae090a323f652e6f697e14",
+              "range": [
+                1328,
+                1813
+              ]
+            },
+            {
+              "doc_id": "032b6fbb114fda3153822dbaaab34c3a464fcae80ea8f0701abfe18c37fb808b",
+              "range": [
+                0,
+                430
+              ]
+            }
+          ]
+        },
+        "content": "etc. Im Rahmen der 4. Kategorie Familienberatung fanden sich: Krisenbera-\ntung, Suchtberatung, Jugendberatung, Konfliktlösestrategien, Familien im Wandel beraten, Scheidungsberatung, Beratung in sexuellen Proble-\nmen etc. 5. Als andere professionelle Tätigkeit der Beratungspsychologen bezeich-\nnen die Autoren: Verbindungen zu anderen Diensten herstellen, Beratungsprogramme entwickeln und evaluieren, Fallkonferenzen abhal-\nten, Supervision, die Entwicklung ethischer Standards etc. Als Voraussetzung einer professionellen Beratungstätigkeit werden sowohl Wissen und Fähigkeiten von professionellen Beratern einerseits wie anderer-\nseits spezifische Haltungen und Persönlichkeitsmerkmale definiert. Beratung basiert auf Wissensbeständen zu menschlicher Entwicklung und zu Wachstum (psychologisch, soziologisch, physiologisch etc.). Soziale und kulturelle Grundlage sind durchgängig von Bedeutung (Interkulturelles, Geschlecht, Rollenwandel von Männern und Frauen, Stadt-Land-Unter-\nschiede etc.) So"
+      },
+      {
+        "rank": 5,
+        "id": "2e630d964dc60a9fd5d055e50c200179fcd3f71627569941cfb17d2b4cdb45d7",
+        "score": 0.9253299236297607,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 17,
+          "split_id": 35,
+          "split_idx_start": 41313,
+          "_split_overlap": [
+            {
+              "doc_id": "edfddec01692792fb6c97c9d9a45e9669d51c15d3031ae54b1889f136bead89e",
+              "range": [
+                1240,
+                1671
+              ]
+            },
+            {
+              "doc_id": "f2d75a57004f6cfab15c8f757d67affc0bd2a5ebd23aa2c5a44f548ae2b48ec8",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "und Case Management (DGCC) für die Weiterbildung von Case Managern im Sozial- und Gesund-\nheitswesen einbezogen. Im Folgenden wird der Blick ausschließlich auf den Bereich der Beratungsin-\ntervention gerichtet. Der im Projekt gewählte systemisch-lösungsorientierte Beratungsansatz wurde eingebettet in den handlungsorientierten Professiona- 8 Handreichung für die Erarbeitung von Rahmenlehrplänen der Kultusministerkonfe- renz für den berufsbezogenen Unterricht in der Berufsschule (2007) 163\flisierungsansatz für die Pflegeberufe von Weidner (Weidner 1995). Dabei wurden die Kriterien professioneller Fallarbeit für den Beratungskontext angepasst. Kriterien professioneller Fallarbeit im Beratungskontext Subjektive Betroffenheit des pflegenden Angehörigen Das subjektive Erleben des Beratungsklienten ist der zentrale Gegenstand und Ausgangspunkt von Beratung. Im Projekt EDe war die subjektiv erlebte Belastung pflegender Angehöriger ein Schwerpunkt, der mit dem Assess-\nmentinstrument differenzie"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-026-051.txt",
+    "question": "Welche unterschiedlichen Charaktere können Interaktionen zwischen Pflegepersonal und Patienten annehmen?",
+    "answer": "Die Interaktion zwischen Pflegepersonal und Patienten kann verschiedene Charaktere annehmen, die je nach Situation und Bedarf des Patienten unterschiedlich sein können. Beispielsweise kann die Interaktion freundlich und unterstützend sein, oder aber auch eher formell und professionell. In einigen Fällen kann die Interaktion auch konfliktträchtig sein, wenn zum Beispiel die Patientenwünsche nicht erfüllt werden können. Insgesamt ist es wichtig, dass die Interaktion zwischen Pflegepersonal und Patienten auf Respekt, Empathie und Transparenz basiert, um den Patienten zu unterstützen und seine Bedürfnisse zu erfüllen.",
+    "expected": "Interaktionen können einen behandlungspflegerischen Kontakt vor oder nach Untersuchungen, Operationen oder nach dem Erhalt einer unerwarteten Diagnose umfassen, ebenso wie tägliche Grundpflege im Krankenhaus, Alten- und Pflegeheim oder ambulant zu Hause, wobei stets auch die Angehörigen individuell einbezogen werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "543c94b753b2e9729122098c9dc3008dae48b93287cdbba5012bef0d40b027cb",
+        "score": 0.9077648520469666,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 9,
+          "split_id": 17,
+          "split_idx_start": 19668,
+          "_split_overlap": [
+            {
+              "doc_id": "e1c5fddbafcfb3f3ab20d65dae2b64480beeec5dce97d8480ad34b7e5cf9b164",
+              "range": [
+                1227,
+                1658
+              ]
+            },
+            {
+              "doc_id": "30cfc4fcbcee666ae42d1a323e47a6b2af66cfb4ba870ea356d52c1706abaf8e",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "die in die Vernetzung der Pflegebe-\nratung mit einspielen können. Am Beispiel der zehnjährigen Erfahrung der Unabhängigen Patientenberatung in Deutschland macht sich das insgesamt schwierige Gemengelage von Pflegeberatung ebenfalls deutlich. Mit der „Reform von Organisationsstrukturen und Prozessen der gesundheit-\nlichen Versorgung gewinnt das Leitbild des Patienten als mündiger, kompetenter und verantwortungsbewusster Partner des Arztes sowohl in der Gesundheitspolitik als auch bei Patientenvertretern seit Beginn der 1990er Jahre an Bedeutung. Patientenorientierung, die die prinzipielle Selbstbe-\nstimmtheit und Mündigkeit der Patienten respektiert und den Behandlungserfolg in Abhängigkeit von ihrer aktiven Einbeziehung definiert, setzt wiederum ein hohes Maß an Informiertheit und gesundheitsbezogener Bildung auf Seiten der Nutzer des Gesundheitssystems voraus. Dies macht den Auf- bzw. Ausbau einer leicht erreichbaren Unterstützungsinfrastruktur für Ratsuchende erforderlich.“ (2. Zwisc"
+      },
+      {
+        "rank": 2,
+        "id": "a73ba2740e0a6944b7e2a128fa7779dd0a87990d27aa71fcc4b3dfe1ce8e27e8",
+        "score": 0.8464474081993103,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 19,
+          "split_id": 39,
+          "split_idx_start": 45667,
+          "_split_overlap": [
+            {
+              "doc_id": "57286fc73b4df05dbcb05c1f2ad85fb6eb1745a546bf9cd0db964a36f8d87708",
+              "range": [
+                1124,
+                1511
+              ]
+            },
+            {
+              "doc_id": "a07bd21577a5a136d3d256a5baef4313a6643c2893ec1abd0b7d8fc1ef437b38",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "der Krankenversorgung nicht die pflegerischen bzw. medizinischen Sachleistungen sind, sondern dass die Interaktion zwischen Pflegekräften und Patienten ein sehr zentrales Phänomen ist, damit der Pa-\ntient zufrieden ist, sich respektiert, verstanden und aufgehoben fühlt. Etwa drei Jahre später wurde eine Antwort von Ursula KOCH-STRAUBE (vgl. 2002:85) auf den eben beschriebenen Artikel veröffentlicht. Dieser Aufsatz lautet ‚Beratung in der Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes-\nsionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratung"
+      },
+      {
+        "rank": 3,
+        "id": "d41d8109161eaac4d7453d6035b065839d24aa4e8a3b673095094b146054eff2",
+        "score": 0.6213958859443665,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 13,
+          "split_id": 26,
+          "split_idx_start": 30570,
+          "_split_overlap": [
+            {
+              "doc_id": "fce97ebc9173270f349f4a5f94ed4a406bb1c0109d46cad45cd3bfa574aa43b1",
+              "range": [
+                1169,
+                1551
+              ]
+            },
+            {
+              "doc_id": "41fe391838e8c0e18365641cc5c524d8b78a747fc4dda45a6fc9cabddf7976c7",
+              "range": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        "content": "Das Kennen, Respektieren und der Umgang mit den Ressourcen ist eine der leitenden Kompetenzen von systemischer Beratung. Daher sollte im Bera-\nin der Ausbildung ein besonderer Wert auf tungskonzept bzw. Unterscheidung und die Ausdifferenzierung der Begriffe gelegt werden, so kann Begriffsverwirrung frühzeitig vermieden werden. Durch die Beobachtung, Sammlung von Ressourcen sowie den intensiven Kontakt zum Patienten, besteht meist ein besonderes Verhältnis zwischen Patienten und Pflegekraft. Durch die professionelle Rolle, aber eine dennoch vermittelte Offenheit einer Pflegekraft, hat der Patient Anknüpfungspunkte seinen Fragen oder auch psychosozialen Problemen Ausdruck zu geben. Liegt der Pflege ein Beratungskonzept vor, können Hoffnungen und Erwar-\ntungen von Patienten in einem professionellen Gespräch Orientierung finden, und es kann ihnen nachgegangen werden (vgl. Koch-Straube 2008:93 ff) 3.3.1. Pflegetheorien und ihr Bezug zum systemischen Denken Seit Mitte letzten Jahrhunderts bi"
+      },
+      {
+        "rank": 4,
+        "id": "f0772751afcf05338e8606f253e3f3af40c383b05eee07e4a38d2f59aa218e8c",
+        "score": 0.4789294898509979,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 10,
+          "split_id": 21,
+          "split_idx_start": 24792,
+          "_split_overlap": [
+            {
+              "doc_id": "dec38682ffc99f34e4559ac61475d4afb15f4b31709baaca5e8ea990aa775051",
+              "range": [
+                1197,
+                1573
+              ]
+            },
+            {
+              "doc_id": "9f49d83034dd02b5adfda97fb11cd8375bd0e1cd5bff86cad480272773e6727f",
+              "range": [
+                0,
+                476
+              ]
+            }
+          ]
+        },
+        "content": "kurzzeitig hilfebedürftigen Patienten in der häuslichen und ambulanten Versorgung. Diese und auch deren Angehörigen benötigen nicht nur pflegerische Profession, sondern auch beratende Unter- 60\fstützung, um mit der veränderten Lebenssituation oder auch Situation der Abhängigkeit umgehen zu lernen um so viel wie möglich von ihrer Selbstän-\ndigkeit zu behalten oder wieder zu erlangen. 3.2.3. Konzeptvorschläge zur Beratung in der Pflege Fertige Konzepte für Beratung in der Pflege liegen derzeit nicht vor. Natür-\nlich aber gibt es WissenschaftlerInnen und AutorenInnen, die sich mit diesem Anliegen bereits beschäftigten und konstruktive Vorschläge in die Literatur und die Diskussion zur Beratung mit einbringen. Die Pflegewissenschaftlerin KOCH-STRAUBE sagt: „Denn für eine Beratung in der Pflege muss «das Rad nicht neu erfunden», müssen jedoch auch bestehende Konzepte nicht wahllos übernommen werden.“ (Koch-Straube 2008:103) In der gleichen Literatur zählt sie verschiedene Beratungskonzepte "
+      },
+      {
+        "rank": 5,
+        "id": "fce97ebc9173270f349f4a5f94ed4a406bb1c0109d46cad45cd3bfa574aa43b1",
+        "score": 0.34427428245544434,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 12,
+          "split_id": 25,
+          "split_idx_start": 29401,
+          "_split_overlap": [
+            {
+              "doc_id": "a41a7c2bd96265e52750e7ddf174f5bce2f0b507483c1bc340dab9f0c14e674d",
+              "range": [
+                1109,
+                1473
+              ]
+            },
+            {
+              "doc_id": "d41d8109161eaac4d7453d6035b065839d24aa4e8a3b673095094b146054eff2",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "62\fPraxis über Tag und Nacht, bei jedem Kontakt mit dem Patienten, bei der Grundpflege, Behandlungspflege und in Gesprächen. Und erfasst somit „den Patienten in seiner Ganzheit: auf der körperlichen, psychischen und sozialen Ebene.“ (vgl. Elsevier 2004:139 ff; Poser 2005:103ff) Ziele der Beobachtung in der Pflege sind unter anderem: „Seine Selbstpflegefähigkeit bzw. Pflegebedürftigkeit einzuschätzen und Pflegemaßnah-\nmen entsprechend zu planen, Veränderungen am Patienten festzustellen, zu beschreiben und zu objektivieren, den Patienten und den Therapieerfolg zu überwachen (…), Wünsche und Bedürfnisse des Patienten zu erfassen“ (Elsevier 2004:140) Um die Ziele der Beobachtung zu erreichen und entsprechende Pflegemaß-\nnahmen zu planen, gehört ebenfalls dazu die Ressourcen des Patienten größtmöglich kennen und einschätzen zu lernen. Dies geschieht hauptsäch-\nlich durch Kommunikation und Beobachtung. Um somit generelle und individuelle Problem erfassen zu können und eine umfassende, indivi"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-026-051.txt",
+    "question": "Warum ist es notwendig, sowohl den gegenwärtigen Zustand der Beratung in der Pflege als auch den normativen Hintergrund zu betrachten?",
+    "answer": "Es ist notwendig, sowohl den gegenwärtigen Zustand der Beratung in der Pflege als auch den normativen Hintergrund zu betrachten, um die notwendigen Entwicklungen gesetzlicher Regelungen zu erkennen. Dies ist notwendig, um die Beratung in der Pflege genauer zu betrachten. \nI cannot find the answer in the provided context.",
+    "expected": "Es ist notwendig, um die notwendigen Weiterentwicklungen der Beratungsarbeit, der Pflegebildung und den gesetzlichen Regelungen zu erkennen und damit Beratung in der Pflege genauer zu verstehen und zu verbessern.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3b233b3bbc0e5d8c0801a09695f7269fd4852863bd356ecdb9fcc852e979f273",
+        "score": 0.9794713854789734,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 8,
+          "split_id": 15,
+          "split_idx_start": 17059,
+          "_split_overlap": [
+            {
+              "doc_id": "ae9725c3eb60075200390fab1f1c031ef958e44bd1196a699ee37240553d1fa6",
+              "range": [
+                1228,
+                1589
+              ]
+            },
+            {
+              "doc_id": "a1d3aa07613a75163d68a94abe5ad95925a34dc1cf0dc21adc95fa9c7dd51de2",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "oftmals nur wenig an die Pflegenden selbst gedacht. Warum war dies so? Zu diesem Zeitpunkt stand die Akademisierung der Pflege erst ganz am An-\nfang. Die ersten Absolventen und Absolventinnen von pflegerelevanten Studiengängen in Deutschland wie Pflegewissenschaft und Pflegepädagogik verließen die Hochschulen. Daher lag es zu dieser Zeit nahe, den Pflegenden im Punkt Beratung nur wenig Beachtung zu schenken. Die gesetzlich veran-\nkerte Beratung wurde daher vielerorts von der schon länger akademisierten Profession der Sozialarbeiter erbracht Auch auf Länderebene zeigen sich diese Tendenzen, hier am Beispiel von Nordrhein-Westfalen: 32\fIm §4 des Landespflegegesetzes (NRW, 1996) wurde vorgesehen, dass die Beratung von Pflegebedürftigen, von Pflegebedürftigkeit Bedrohten und deren Angehörigen im Zusammenwirken von Kommunen den Pflegkassen und den anderen an der pflegerischen Versorgung Beteiligten erfolgen soll. Somit wurde ein recht großer Pool von beteiligten Berufsgruppen miteinbe-\nzoge"
+      },
+      {
+        "rank": 2,
+        "id": "4b1d4d9314ab16eab2eb143c3959372a4a0100ba00964c62ba62f553610d35e9",
+        "score": 0.9721044301986694,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 20,
+          "split_id": 41,
+          "split_idx_start": 48474,
+          "_split_overlap": [
+            {
+              "doc_id": "5c40416c19647e8e8d2a1a69908fb0016906adf5e6fa38f0d8667243d085abed",
+              "range": [
+                1177,
+                1570
+              ]
+            },
+            {
+              "doc_id": "b0e1c0578bc54e89ba68543e66d0c5b2cd08d4524f6d452e766d583437786b67",
+              "range": [
+                0,
+                506
+              ]
+            }
+          ]
+        },
+        "content": "des Pflegebedürftigen stark beeinträchtigt ist oder ihm gegen-\nüber Gewalt angewendet wird, müssen sie unter Umständen Entscheidungen treffen, die Interventionen auch gegen den Willen des pflegenden Angehöri-\ngen zur Folge haben. Zweitens ist das Ziel der Beratung die Entlastung des pflegenden Angehöri-\ngen, um die häusliche Pflegesituation möglichst lange aufrechtzuerhalten, ohne dass der Angehörige überlastet und der Pflegebedürftige unterversorgt ist. Aus diesem Grund steht die Stärkung der Autonomie dieses „Pflegegefü-\nges“ im Vordergrund der Beratung. Die Beratenden sollen die Angehörigen befähigen, ihre Situation selbst (mit-) einzuschätzen und Lösungsstrategien zu entwickeln. Die Angehörigen sollen dahingehend beraten werden, die Pflegesituation mit den ihnen zur Verfügung stehenden Ressourcen und der notwendigen Unterstützung aufrechtzuerhalten. Sofern die Familien bisher nicht auf Unterstützung von außerhalb zurückge-\ngriffen haben, stellen die Beratungsbesuche selbst unter Um"
+      },
+      {
+        "rank": 3,
+        "id": "7cb9ffaf47f69d058cc738216354647687a0b607767c928e54f142b1eeb039fd",
+        "score": 0.9619856476783752,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1105,
+          "_split_overlap": [
+            {
+              "doc_id": "e483eaded807f4d1d47b93893e5fbfa6a597e455ea388a7933e80d159ab0cfae",
+              "range": [
+                1105,
+                1437
+              ]
+            },
+            {
+              "doc_id": "925bf877810c65e91ec7b71173121a61e5887363da40b3e962e9f3b7e2d14905",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "Pflegeheim oder in der Wohnung des Patienten durch die Ambulante Pflege. Die Aufzählungen ließe sich noch weiterführen so breit gefächert sind die Aufgabenbereiche der Pflege. Dabei ist nicht zu vergessen, dass bei jedem Umgang mit Patienten auch deren Angehörigen einzubeziehen sind, auf die eine oder andere Weise, auf jeden Fall aber in individueller Weise. Um die Beratung in der Pflege genauer zu betrachten, die notwendigen Wei-\nin der Beratungsarbeit, der Pflegebildung und den terentwicklungen gesetzlichen Regelungen zu erkennen, ist es notwendig sowohl den gegen-\nwärtigen Zustand der Beratung in der Pflege zu beleuchten als auch den normativen Hintergrund der Beratung in der Pflege mit einzubeziehen. 2.1. Erste gesetzliche Verankerung von Beratung in der Profession Pflege ab 1985 Ein Rückgriff auf die Geschichte der professionellen Pflege würde hier zu weit führen. Gleichsam ist die Historie relevant, wenn es darum geht, schein-\nbar neue Kompetenzen auszumachen. Bereits sehr früh w"
+      },
+      {
+        "rank": 4,
+        "id": "e483eaded807f4d1d47b93893e5fbfa6a597e455ea388a7933e80d159ab0cfae",
+        "score": 0.959527850151062,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7cb9ffaf47f69d058cc738216354647687a0b607767c928e54f142b1eeb039fd",
+              "range": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        "content": "2. Normative Rahmungen - gesetzliche Grundlagen von Beratung in Pflege und Pflegeausbildung In den angrenzenden Professionen wie z.B. in der Sozialen Arbeit wird die BeraterIn oder die Beratung bereits als eine eigene Handlungskompetenz verstanden. Der Internationalisierung geschuldet, ist Beratung derzeit auf dem Weg der Akademisierung und auf dem Weg, sich als eigene Wissen-\nschaft zu verstehen. Beratung ist auch verstärkt dabei, sich als eine spezifische Kompetenz innerhalb der verschiedenen Professionen zu etablie-\nren. Wie sieht es diesbezüglich in der Pflege aus? In der heutigen Profession Pflege haben die Interaktionen mit den Patienten oder Klienten doch einen sehr unterschiedlichen Charakter, dies kann ein behandlungspflegerischer Kontakt vor oder nach einer Untersuchung, Opera-\ntion oder nach Erhalt einer unerwarteten Diagnose oder eines anderen Schicksalsschlages sein, weshalb der Patient ins Krankenhaus kam und nun sein Leben der Erkrankung/ Behinderung anpassen muss, oder "
+      },
+      {
+        "rank": 5,
+        "id": "e06afbaa63b527a3a6cd2e2d14863b730c1402efbfbe19a2677c357a1e88a34e",
+        "score": 0.946208655834198,
+        "meta": {
+          "file_path": "9783866496811-098-147.txt",
+          "source_id": "2fb3e5fc0eec8b84a32268e4710418d6a7fbcd5830c45793929a76f4aa8593ee",
+          "page_number": 18,
+          "split_id": 36,
+          "split_idx_start": 45052,
+          "_split_overlap": [
+            {
+              "doc_id": "e8d299da01a5f12e18169c8e24dd344ccf83998e9781ee764ff8b565354fc594",
+              "range": [
+                1339,
+                1753
+              ]
+            },
+            {
+              "doc_id": "0e643216aa0b81ad2886a73ca4d0cb1d8c01a545af0b83f10250f1f53d755696",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "auszubilden. Reflexives Handeln als ein vor- bzw. nach-\ndenkendes Handeln der Lehrenden und Lernenden ist bezogen auf die spezi-\nfischen Wirklichkeitskonstruktionen der Pflege bzw. des Pflegehandelns. Damit unterstützt diese Art von reflexiver Beratung die notwendigen domä-\nnenspezifischen Lernprozesse in den Kontexten der Pflegeausbildungen. Der ‚dritte Lernort‘ könnte den Kontext für diese Form pädagogischer Beratung des Innehaltens im Lernprozess der Pflegeausbildungen darstellen bzw. an-\nbieten. Im pädagogischen Handlungsfeld der Praxisbegleitung ist grundsätzlich eine Gestaltungsmöglichkeit für systemische Beratung gegeben. Bei einer vertief-\nten und erweiterten konzeptionellen Gestaltung käme es hierbei auf die gewollte und durch Ressourcen unterstützten Aufgaben der Organisations- und Personalentwicklung der Ausbildungsträger an. Denn nur wenn diese es bejahen, dass nicht nur funktionale, sondern intentionale also auf (Selbst-) Bildung ausgerichtetes Lernen stattfinden kann und "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-026-051.txt",
+    "question": "Welche historischen Gruppen haben vor unserer Zeitrechnung bis ins späte Mittelalter die Versorgung von Kranken und Alten übernommen, und welches Verständnis lag dieser Versorgung zugrunde?",
+    "answer": "Weise Frauen, Ordensschwestern, Ordensbrüder, Beginen und auch Angehörige anderer weltlicher Orden haben vor unserer Zeitrechnung bis ins späte Mittelalter die Versorgung von Kranken und Alten übernommen. Sie haben eine ganzheitliche Betrachtung der Menschen gezeigt, was bedeutet, dass sie körperliche, seelische, geistige und soziale Aspekte der Menschen berücksichtigt haben. Florence Nightingale ist ein Beispiel für eine Person, die diese Art der Versorgung repräsentiert. Sie hat durch ihre ruhige und geduldige Art die Sorgen und Nöte der Soldaten gehört und ihnen geholfen, sich zu erholen. Dieses Beispiel zeigt, dass Beratung und Unterstützung schon von je her ein wichtiger Bestandteil der Pflege waren. Die heutigen Pflegekräfte teilen diese Auffassung und versuchen, eine ähnliche Art der Versorgung zu bieten.",
+    "expected": "Weise Frauen, Ordensschwestern, Ordensbrüder, Beginen und Angehörige weltlicher Orden übernahmen die Versorgung von Kranken, Siechen und Alten meist in einem ganzheitlichen Verständnis, das neben der Pflege auch Kommunikation und Beratung einschloss.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "925bf877810c65e91ec7b71173121a61e5887363da40b3e962e9f3b7e2d14905",
+        "score": 0.9339879155158997,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2141,
+          "_split_overlap": [
+            {
+              "doc_id": "7cb9ffaf47f69d058cc738216354647687a0b607767c928e54f142b1eeb039fd",
+              "range": [
+                1036,
+                1405
+              ]
+            },
+            {
+              "doc_id": "a877c0f7633ee8045c763128e00eb6c93a0d00a60cfff28138a2e8891839074e",
+              "range": [
+                0,
+                326
+              ]
+            }
+          ]
+        },
+        "content": "des Kümmerns um Kranke, Verwundete und Alte Menschen deutlich, mit wie viel Wissen und Gewissen versorgt wurde. Lange vor unse-\nrer Zeitrechnung bis ins späte Mittelalter übernahmen weise Frauen, Ordensschwestern, Ordensbrüder, Beginen und auch Angehörige anderer 25\fweltlicher Orden als Heilkundige und Hebammen die Versorgung der Kran-\nken. Zwar lässt sich meist nur erahnen, welche Bedeutung die Kommunikation oder auch Beratung im Laufe der Geschichte hatte, aber es ist anzunehmen, dass die Kranken, Siechen und Alten in einem ganzheitli-\nchen Verständnis versorgt wurden. So ist gewiss auch jedem aus der Pflege unsere erste Pflegetheoretikerin Florence Nightingale als ‚die Dame mit der Lampe‘ bekannt. Diesen Titel erhielt sie, weil sie des Abends zur ruhiger Stunde durch das Lazarett lief und gezielt sich zu dem einen oder dem anderen Patienten setzte und mit Ruhe und Zeit den Sorgen und Nöten der Soldaten zuhörte, damit diese danach in Ruhe schlafen und sich weiter auf das Gesund werde"
+      },
+      {
+        "rank": 2,
+        "id": "8005675e4e163f54e58c5fe8b88ee3e0a919f881e1ba10b23b6736a8c3d08f04",
+        "score": 0.7656210064888,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 3,
+          "split_id": 1,
+          "split_idx_start": 1424,
+          "_split_overlap": [
+            {
+              "doc_id": "f53ab960c6e4800aa5e49711ab0ebf34bee58b17801c2b66efdee3e753a9cc0d",
+              "range": [
+                1424,
+                1850
+              ]
+            },
+            {
+              "doc_id": "e1bf7eb8b9c323b729d189009628993dab7face4b474bcad52578a51045c623a",
+              "range": [
+                0,
+                465
+              ]
+            }
+          ]
+        },
+        "content": "sehr divergenten Leistungsvoraussetzungen an die Hochschule gelangen“ (Le-\nwin/Vierthaler/Fraunhofer 2017: 160). Diese Zielgruppe weist spezielle Be-\nratungs- und Unterstützungsbedarfe auf, wozu es jedoch noch an empirisch gesichertem Wissen fehlt (vgl. ebd.). Der vorliegende Beitrag greift diese Erkenntnisse auf und geht am Bei-\nspiel der Serviceleistung der Beratung nicht-traditionell Studieninteressierter 1 2 Trotz der beschriebenen Entwicklungen stellt die wissenschaftliche Weiterbildung nach wie vor einen randständigen Bereich neben Forschung und Lehre dar und erhält in Praxis und Wissenschaft vergleichsweise wenig Aufmerksamkeit (vgl. Franz/Feld 2014: 30).\nExemplarisch sei hier auf den seit 2011 vom Bundesministerium für Bildung und For-\nschung (BMBF) geförderten Bund-Länder-Wettbewerb „Aufstieg durch Bildung: o(cid:3445)ene Hochschulen“ hingewiesen (vgl. hierzu: http://www.wettbewerb-o(cid:3445)ene-hochschulen-bmbf.de/ [Zugri(cid:3445) 25.01.2018]).\f90 Nico Sturm / Heike Rundnag"
+      },
+      {
+        "rank": 3,
+        "id": "7ae096872995be61a2317104bbf975649b14ecb02c12732bba4739eb5e4bb6e8",
+        "score": 0.663476824760437,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 3,
+          "split_id": 4,
+          "split_idx_start": 4389,
+          "_split_overlap": [
+            {
+              "doc_id": "be074b2134f2ec226e5b24194cc20cab8d3e14f35170ac897e7263833b1bc335",
+              "range": [
+                972,
+                1367
+              ]
+            },
+            {
+              "doc_id": "07162dddc1caf0a4fcfa9781a53a0b37f9f6df996cd11507e68da93c5b6ab787",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "daher auch von dieser Seite langfristig nicht mehr Arbeitskräfte in der Gesellschaft zu erwarten sind. Zusammenfassend zeigt sich die Notwendigkeit der Veränderungen im Ge-\nsundheitswesen, welches sich dem Wandel der Gesellschaft anpassen muss und daher zukunftsfähige Strukturen für die pflegerische Langzeitversorgung aufbauen muss. 6.2. Zukunftsorientierte Pflege Wie der Pflege bewusst ist, ist auf die Zukunft orientiert die beste Versor-\ngung, wenn ein Patient wieder Gesund wird und sich somit selbstständig und auch am Besten zu Hause versorgen kann. Dies ist für viele chronisch Er-\nkrankte bzw. die meisten Pflegebedürftigen ein Wunschdenken, daher sollten hier die Strukturen des Genesungsprozesses auf einen Prozess der Gesund-\nheitsförderung bezogen werden. Denn ein Mensch ist nie durch und durch Krank, er hat immer neben seinen erkrankten Anteilen auch gesunde Anteile. Dabei ist es für die Pflege irrelevant ob diese körperlich, seelisch, geistig oder sozialen Ursprungs sind. Die Pf"
+      },
+      {
+        "rank": 4,
+        "id": "d3c7981912634e1a896cc0e36829dcccd4fb478cbed1c931c77132c8cb8bba7e",
+        "score": 0.6002731323242188,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 27,
+          "split_id": 56,
+          "split_idx_start": 66910,
+          "_split_overlap": [
+            {
+              "doc_id": "ea545215f305871d49285ad2ae6de17b218d6dfa93332a944f2ab379e0b68083",
+              "range": [
+                1066,
+                1447
+              ]
+            },
+            {
+              "doc_id": "37e753090b09228602f03d6ba7ed5666288e16c159c602f0259e8bb1408de3e2",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "Der Vorrang der häuslichen Pflege führt allerdings nicht, zur veränderten Leistungsgewährung einer individuellen Pflegesituation und er erfährt dort seine Grenzen, wo eine angemessene Versorgung und Betreuung nicht mehr sichergestellt ist, welches dem Medizinischen Dienst obliegt dieses zu begutachten und einzuschätzen. Laut der statistischen Ämter des Bundes und der Länder lag die Zahl der zu Hause versorgten pflegebedürftigen Personen im Jahr 2005 bei 68%. Be-\ntrachtet man im Vergleich dazu die Zahl von 1999 lag diese bei 72% und seit dem war ein kontinuierlicher Rücklauf der ambulanten versorgten Personen beobachtet worden. Diese Veränderung ist weniger dadurch zu begründen, dass die Pflegebedürf-\ntigen lieber in einem Pflegeheim als in der häuslichen Umgebung betreut werden, sie könnte ein Hinweis darauf sein, dass die Möglichkeiten der fami-\nliären Versorgungen rückläufig sind. Was zum einen gewiss daran liegen kann, dass die Kinder von pflegebedürftigen Menschen im Zuge der zuneh"
+      },
+      {
+        "rank": 5,
+        "id": "063b0b2096f0fee15df163fff7d0bd3d3176ea73a7d3e484729d7a773d599363",
+        "score": 0.4065355658531189,
+        "meta": {
+          "file_path": "9783866496811-072-097.txt",
+          "source_id": "e4041675176fbacce2245254f79d637eeda350caf0bc23b4931c81076d58da44",
+          "page_number": 23,
+          "split_id": 38,
+          "split_idx_start": 46932,
+          "_split_overlap": [
+            {
+              "doc_id": "a1a33a706f0906a8ff77fbee2115caae76223ea866ced2bfc6b624159e60da69",
+              "range": [
+                1076,
+                1439
+              ]
+            },
+            {
+              "doc_id": "deb63dc38fbd5ba614cacc6518b14f5d32fe600b30d86e8e907c7d835377b66f",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Erleben der pflegenden Angehörigen bestimmen: - Die Reaktionen des kranken Menschen bezüglich seiner Krankheit und der Angehörigen-Fürsorge, die ihm zu Teil wird. Ob er sich passiv, ablehnend, unruhig, dankbar, geduldig oder ungeduldig ver-\nhält, hat einen direkten Einfluss auf die emotionale Lage der Angehörigen. - Ob die Unterstützung informeller Helfer z.B. das soziale Netzwerk und formeller Helfer z. B. professionell Pflegende, Ärzte, Therapeu-\nten von den Angehörigen als solche wahrgenommen werden kann 93\f- Das ‚Bewusst- werden‘ der Grenzen, der eigenen Fürsorge, sogar das nichts Tun können in einer Situation, die man der vertrauten Person gerne ersparen würde, ist für die meisten Menschen nur schwer auszuhalten. Die Gefühle der Angehörigen, ob persönlich pflegend oder ‚nur‘ zu Besuch kommend, schwanken zwischen Hoffnung auf Besserung und Trauer über das Leid oder den Verlust. Angehörige sind selten in einem emotional stabi-\nlen Zustand. Die Interpretation der Ergebnisse ihrer Stu"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811-026-051.txt",
+    "question": "Wie lässt sich die Entwicklung der Beratungskompetenz in der Pflege im Vergleich zu anderen Professionen kritisch analysieren?",
+    "answer": "Die Entwicklung der Beratungskompetenz in der Pflege kann kritisch analysiert werden, indem man die unterschiedlichen Charaktere der Interaktionen zwischen Pflegepersonal und Patienten berücksichtigt. Im Gegensatz zu anderen Professionen wie der Sozialen Arbeit, die Beratung bereits als eigene Handlungskompetenz versteht, ist die Beratung in der Pflege noch nicht so weit entwickelt. Die Pflege beinhaltet eine Vielzahl von Aufgabenbereichen, darunter die tägliche Grundpflege, die Behandlungspflege und die Arbeit mit Angehörigen. Dies erfordert eine umfassende Beratungskompetenz, die jedoch noch nicht so weit verbreitet ist wie in anderen Professionen. Eine kritische Analyse der Entwicklung der Beratungskompetenz in der Pflege zeigt, dass es noch viel zu tun gibt, um die Beratung als eigenständige Kompetenz innerhalb der Pflege zu etablieren. Dies erfordert eine stärkere Akademisierung der Beratung und eine stärkere Einbeziehung von Theorie und Praxis. Die Einbeziehung von Theorie und Praxis ist wichtig, um die Beratung in der Pflege zu professionalisieren und um sicherzustellen, dass die Beratungskompetenz in der Pflege auf dem neuesten Stand ist. Die Einbeziehung von Theorie und Praxis kann auch dazu beitragen, die Schnittstellen zwischen der Pflege und anderen Professionen wie der Sozialen Arbeit zu klären und die Entwicklung der Beratungskompetenz in der Pflege zu fördern. Insgesamt ist die Entwicklung der Beratungskompetenz in der Pflege ein komplexes Thema, das eine kritische Analyse und eine ständige Weiterentwicklung erfordert. Die Beratung in der Pflege muss sich weiterentwickeln, um die Anforderungen der modernen Gesellschaft zu erfüllen und um die Menschen in der Pflege zu unterstützen. I cannot find the answer in the provided context.",
+    "expected": "Während Beratung in angrenzenden Professionen wie der Sozialen Arbeit bereits als eigenständige Handlungskompetenz und Wissenschaft etabliert wird und akademisiert, befindet sich die Beratung in der Pflege noch im Entwicklungsprozess und ist durch vielfältige Interaktionsformen mit Patienten und Angehörigen geprägt. Dies zeigt, dass Beratung in der Pflege zwar historisch verankert ist, aber eine stärkere normative und akademische Verankerung benötigt, um als spezifische Kompetenz innerhalb der Profession vollständig anerkannt zu werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "97790303ac980721abc213c63daa4c42ec0edef9026529ba19e8e7ca4983ebbe",
+        "score": 0.9966752529144287,
+        "meta": {
+          "file_path": "9783866496811-192-195.txt",
+          "source_id": "305f07529b6ac81035875b56638e782c7b26c6169c07b10c5afaed62496889ed",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 6390,
+          "_split_overlap": [
+            {
+              "doc_id": "008bb6900e0e5ac3b3975b397b050b11b9f33f55af0a6545a9871653b6d1f868",
+              "range": [
+                1329,
+                1792
+              ]
+            },
+            {
+              "doc_id": "04c17159f6fa3f0f2bbeeaf5e8a4aacdc2a88c57e4bec8f2e03591fc55d8ccce",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "sich die eigene Professionalisierung der Beratungslandschaft weiter entwickeln wird. Dieser Prozess wird sich ebenfalls auf die Integrationsmöglichkeiten oder deren Hindernisse in die Kontexte der Pflege und Pflegebildung auswirken. Die Professionalisie-\nrungsprozesse von familienorientierter und arbeitsorientierter Beratung sollten über die Fachgesellschaften weiter vorangetrieben werden, um so eine beratungswissenschaftliche Perspektive anbieten zu können. Die Mindeststandards der DGSF und die DGfB sind Ausdruck der Professio-\nnalisierungsprozesse von Beratung und bieten Orientierungen zur Konstruktion von Fort- und Weiterbildungsangeboten an, die es für die Kon-\ntexte der Pflege weiterzuentwickeln gilt. Wir sind sicher, dass für die Beratungspraxis vielfältige Trainee-Programme notwendig sind . Die Fachliteratur zur Kompetenzentwicklung von Beratung steigt stetig. Wir verweisen an dieser Stelle ausdrücklich auf das letzte Werk von Renate Zwicker-Pelzer (Beratung in sozialer Arbeit 2"
+      },
+      {
+        "rank": 2,
+        "id": "927a98000b157d3dd292ad7783f52abfe91c5ca96c901ca44d095cd3286f7881",
+        "score": 0.995686948299408,
+        "meta": {
+          "file_path": "9783866496811-018-025.txt",
+          "source_id": "35cc4673771b046fe0fe14e914ed6143a16eca4ab8a26be55e633830ee184922",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6a2fbde948ac038cb70dad8dfa41075b2da1d2a56242d68ceedce8931333d059",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung Auf die jeweilige Person zentriert, auf deren soziales Umfeld bezogen und im Feld der professionellen Pflege verortet, so tut sich ein komplexes Feld auf, in dem entsprechende Beratungsdienstleistungen auszudifferenzieren sind. Das Format „Beratung“ ist neu zu gestalten, ja es legt eine umfassendere Verortung nahe, die den gesellschaftlichen Entwicklungen ebenso Rechnung trägt, wie den rechtlichen Rahmenbedingungen. Systemisch ist die Beratung als konsequent kontextbezogen, die Ressourcen verfolgend, sich zirkulär verstehend und prozeßdiagnostisch angelegt. Sys-\ntemische Beratung geht mutig mit notwendigen Interventionen um und balanciert hochsensibel mit den notwendigen Veränderungsprozessen, um der Not eine Wendung zu geben. In aller erster Linie gilt es, in Raum und Zeit den einzelnen Menschen und dessen sozialem Kontext einen Dienst als Begleithilfe zu leisten. 1.1. Beratung als personen- und familienbe"
+      },
+      {
+        "rank": 3,
+        "id": "54b695645daff3fb5ece5d9324042ed909a12373909c13f23e45f8a907f3bb8b",
+        "score": 0.9946010112762451,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 7,
+          "split_id": 14,
+          "split_idx_start": 16420,
+          "_split_overlap": [
+            {
+              "doc_id": "1bdfa0ce3769e0bd8e951d5a2d2c155039506a0e19811b0ff9241670fa3f1743",
+              "range": [
+                1157,
+                1535
+              ]
+            },
+            {
+              "doc_id": "e30b4844dabcca1a33512257ac34adc1b16a9f0dc50a82494d46772feb6a8db3",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "erkennen, denn erst mit dem aktuellen Krankenpflegegesetz vom Januar 2004 wird auf die Entwicklung von Kompetenzen (fachliche, personale, soziale, methodische) Wert gelegt und so eine Persönlichkeitsent-\nwicklung gefördert. Auf diese Weise kann auch eine kritische Auseinandersetzung mit der eigenen Person und dem beruflichen Handeln erfolgen. 3.2. Konzepte aus der Pflege für Beratung? Wenn man nach einem konzepttauglichen Hintergrund bei der Pflege sucht, dann bietet sich die Literaturstudie von MERTIN u.a. (2005) an. In ihr wer-\nauf die Beratung drei weitere Wissenschaften den im Bezug 57\f(Erziehungswissenschaft, Psychologie, Wirtschaftswissenschaft, (Organisati-\nonsentwicklung)) der Pflegewissenschaft gegenübergestellt. Es wird herausgearbeitet, dass die Pflegewissenschaft im Unterschied zu den anderen Wissenschaften über kein Beratungskonzept verfügt, weder in der Theorie noch in der Praxis. Auch eine Unterscheidung verschiedener Beratungsfor-\nmen und Beratungssettings findet nicht "
+      },
+      {
+        "rank": 4,
+        "id": "a07bd21577a5a136d3d256a5baef4313a6643c2893ec1abd0b7d8fc1ef437b38",
+        "score": 0.9945078492164612,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 19,
+          "split_id": 40,
+          "split_idx_start": 46859,
+          "_split_overlap": [
+            {
+              "doc_id": "a73ba2740e0a6944b7e2a128fa7779dd0a87990d27aa71fcc4b3dfe1ce8e27e8",
+              "range": [
+                1192,
+                1545
+              ]
+            }
+          ]
+        },
+        "content": "und Beratung auszumachen. Diese ge-\nmeinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den 69\fKinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxishandeln wechseln zu können, das ist der Sinn dieser Darlegungen aus der Pflege. Wechseln wir nun zu den ganzheitlich-orientierten Ansätzen der psychoso-\nzialen Beratung. 70\f"
+      },
+      {
+        "rank": 5,
+        "id": "e483eaded807f4d1d47b93893e5fbfa6a597e455ea388a7933e80d159ab0cfae",
+        "score": 0.9893646240234375,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7cb9ffaf47f69d058cc738216354647687a0b607767c928e54f142b1eeb039fd",
+              "range": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        "content": "2. Normative Rahmungen - gesetzliche Grundlagen von Beratung in Pflege und Pflegeausbildung In den angrenzenden Professionen wie z.B. in der Sozialen Arbeit wird die BeraterIn oder die Beratung bereits als eine eigene Handlungskompetenz verstanden. Der Internationalisierung geschuldet, ist Beratung derzeit auf dem Weg der Akademisierung und auf dem Weg, sich als eigene Wissen-\nschaft zu verstehen. Beratung ist auch verstärkt dabei, sich als eine spezifische Kompetenz innerhalb der verschiedenen Professionen zu etablie-\nren. Wie sieht es diesbezüglich in der Pflege aus? In der heutigen Profession Pflege haben die Interaktionen mit den Patienten oder Klienten doch einen sehr unterschiedlichen Charakter, dies kann ein behandlungspflegerischer Kontakt vor oder nach einer Untersuchung, Opera-\ntion oder nach Erhalt einer unerwarteten Diagnose oder eines anderen Schicksalsschlages sein, weshalb der Patient ins Krankenhaus kam und nun sein Leben der Erkrankung/ Behinderung anpassen muss, oder "
+      }
+    ]
+  }
+]

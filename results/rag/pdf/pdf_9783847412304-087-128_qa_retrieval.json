@@ -1,0 +1,753 @@
+[
+  {
+    "filename": "9783847412304-087-128.txt",
+    "question": "Welche wesentlichen Gründe werden dafür genannt, dass wissenschaftliche Weiterbildung an deutschen Hochschulen als organisationskultureller Fremdkörper betrachtet wird?",
+    "answer": "Wesentliche Gründe hierfür sind in den für staatliche Hochschulen weistgehend unbekannten Feldern der Nachfrageorientierung, der Erhebung vollkostendeckender Entgelte sowie der Entwicklung und Implementierung kundenbezogener Serviceleistungen zu sehen. Diese stehen im Gegensatz zur disziplinär abgeleiteten Angebotsorientierung staatlich (cid:191)nanzierter grundständiger und konsekutiver Studienprogramme (vgl. Seitter 2014: 143).",
+    "expected": "Wesentliche Gründe sind die weitgehend unbekannten Felder der Nachfrageorientierung, die Erhebung vollkostendeckender Entgelte sowie die Entwicklung und Implementierung kundenbezogener Serviceleistungen, die im Gegensatz zur disziplinär abgeleiteten Angebotsorientierung staatlich finanzierter grundständiger und konsekutiver Studienprogramme stehen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f0be8b230242d19081aa98cb4c6730423ca5c811c9938c9b6914cf9427e8a84e",
+        "score": 0.9525390863418579,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 19,
+          "split_id": 27,
+          "split_idx_start": 37565,
+          "_split_overlap": [
+            {
+              "doc_id": "e0e3bfbf36ca11acd0af1c8ca7dbff22d1570899782dad3e2b9e48e613019e68",
+              "range": [
+                1244,
+                1698
+              ]
+            },
+            {
+              "doc_id": "a98bb6db8750ad4573b6029b650a58b45c670529c1b300db21205582595970d2",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "(2006, S. 11) fassen unter wissenschaftli-\ncher Weiterbildung Hochschulstudiengänge, die sich an Personen mit tertiä-\nren Bildungsabschlüssen nach einer ersten Phase der Erwerbstätigkeit richten. Inhalte werden auf wissenschaftlichem Niveau angeboten. Grundlagentheo-\nretisch kann wissenschaftliche Weiterbildung mit Maria Kondratjuk (2017) konzeptualisiert werden als soziale Welt, die in ihrem Kern auf die Bereitstel-\nlung von Weiterbildungsangeboten für Berufstätige an Hochschulen ausge-\nrichtet ist. Sowohl die Positionierung der wissenschaftlichen Weiterbildung in der Hochschule als auch das Verhältnis zwischen Hochschule und außerhoch-\nschulischen Akteur_innen werde in Arenen ausgehandelt (vgl. ebd., S. 97). Anrechnungsberatung, die sich an eine erst noch zu erreichende Zielgrup-\npe richtet, steht in diesem Kontext. Ratgebende sind Akteur_innen an der Grenze der sozialen Welt, die sich transitiv an ratsuchende beruflich Quali-\n(cid:191)zierte richten (vgl. Maier-Gutheil 2016, S. 18 f"
+      },
+      {
+        "rank": 2,
+        "id": "7fdc062072dc51213906f505b00fef41c9abc2a0aefbbfc88d3cd6c20ac3e8fb",
+        "score": 0.949083685874939,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 7,
+          "split_id": 6,
+          "split_idx_start": 8676,
+          "_split_overlap": [
+            {
+              "doc_id": "c80403bc95a0aeb0355d1ad3cbd6ca175a1102c6f0fdc8ffe946f645d7af77bb",
+              "range": [
+                1606,
+                2114
+              ]
+            },
+            {
+              "doc_id": "1dfba5de76f30ac188c9a562be6ab2ff729cc33a9705f36df6fb0de44f17686e",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "lassen sich hochschulweit drei Organisationseinheiten herausstellen, die wesentlich mit Beratungsanliegen nicht-traditionell Studieninteressierter im Feld der wissenschaftlichen Wei-\nterbildung konfrontiert sind.6 Auf Hochschulebene werden entsprechende Beratungsanliegen an die zentralen Studienberatungen adressiert. An Fach-\nbereichen, an denen weiterbildende Studienprogramme organisational ver-\nankert sind, werden die Fachstudienberatungen mit den Beratungsbedarfen konfrontiert. Und auf der Ebene der weiterbildenden Studienprogramme sind die Studiengangkoordinierenden die zentralen Ansprechpersonen. Bei einer gleichzeitigen Betrachtung der Beratenden auf den drei Or-\nganisationsebenen können vier wesentliche ebenenspezi(cid:191)sche Merkmale (Beratungsstruktur, Beratungstätigkeit, Beratungsinhalt und Implementie-\nrungsgrad) di(cid:3445)erenziert werden. Tabelle 1 zeigt die Charakteristika und un-\nterschiedlichen Rahmenbedingungen der Beratenden auf diesen drei Ebenen. 6 Die drei iden"
+      },
+      {
+        "rank": 3,
+        "id": "9ab1a0d2453c22f333e27cf98861d74eabcb4923c10c204c730555af3ae40cad",
+        "score": 0.9411155581474304,
+        "meta": {
+          "file_path": "9783847412304-009-015.txt",
+          "source_id": "b95e63990ac4390b5ab0f9e9a3c9565fdcf96e7029ed357ca8a1e742c793c7d5",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 7755,
+          "_split_overlap": [
+            {
+              "doc_id": "94a814954bf3c2272eb80e154e7f5946a2a3a58da08cc0183116963d57b62de3",
+              "range": [
+                1298,
+                1750
+              ]
+            },
+            {
+              "doc_id": "5880f1513ccf16f36304e11c857168709470b21ba0ef3ec6a4dcc5d9678b7fa2",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "globaler Migrationsbewegungen oder Personen, die zur Gruppe der so genannten Bildungsfernen gezählt werden können. Hier werden wissenschaftlich tragfähige und nutzbare Modelle der Systematisierung von Zielgruppen der Beratung relevant. Ebenfalls mit Blick auf Adressat*innen ist danach zu fragen, inwieweit welche Erwachsenen überhaupt Beratungsangebote von Erwachsenen-/\nWeiterbildungsanbietern oder anderen Einrichtungen (Organisationen) in Anspruch nehmen und welche Beratungsangebote für Weiterbildungsak-\ntivitäten bedeutsam sind. • Hinsichtlich von Beratung als eigenständigem, institutionalisiertem An-\ngebot bzw. als Teilaufgabe von Weiterbildungsanbietern geht es einerseits Beratung im Kontext des Lebenslangen Lernens\f12 um ein spezifisches trägerübergreifendes Verständnis von Beratung wie auch die Struktur von Beratungsanbietern im Feld Bildung, Beruf und Beschäftigung. Hervorzuheben sind in vielen Fällen die prekären finan-\nziellen und institutionellen Rahmenbedingungen der Beratung"
+      },
+      {
+        "rank": 4,
+        "id": "f53ab960c6e4800aa5e49711ab0ebf34bee58b17801c2b66efdee3e753a9cc0d",
+        "score": 0.9381412863731384,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8005675e4e163f54e58c5fe8b88ee3e0a919f881e1ba10b23b6736a8c3d08f04",
+              "range": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        "content": "III. Beratung in der wissenschaftlichen Weiter bildung: Strukturen – Praxis – Herausforderungen\f\fNico Sturm / Heike Rundnagel Optimierung von Beratungsstrukturen für nicht-traditionell Studieninteressierte in der wissenschaftlichen Weiterbildung – am Beispiel von Studiengangkoordinierenden auf Programm ebene 1. Einleitung Die wissenschaftliche Weiterbildung hat innerhalb der deutschen Hochschul-\nlandschaft in den vergangenen Jahren einen rasanten Bedeutungszuwachs er-\nfahren.1 Dazu haben die von Bund und Ländern aufgelegten Förderprogram-\nme2 einen wesentlichen Beitrag geleistet. Trotz dieser Entwicklungen kann Weiterbildung an deutschen Hochschulen aktuell als organisationskultureller Fremdkörper betrachtet werden (vgl. Seitter/Schemmann/Vossebein 2014: 3). Wesentliche Gründe hierfür sind in den für staatliche Hochschulen wei-\ntestgehend unbekannten Feldern der Nachfrageorientierung, der Erhebung vollkostendeckender Entgelte sowie der Entwicklung und Implementierung kundenbezogener Se"
+      },
+      {
+        "rank": 5,
+        "id": "8005675e4e163f54e58c5fe8b88ee3e0a919f881e1ba10b23b6736a8c3d08f04",
+        "score": 0.9046670794487,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 3,
+          "split_id": 1,
+          "split_idx_start": 1424,
+          "_split_overlap": [
+            {
+              "doc_id": "f53ab960c6e4800aa5e49711ab0ebf34bee58b17801c2b66efdee3e753a9cc0d",
+              "range": [
+                1424,
+                1850
+              ]
+            },
+            {
+              "doc_id": "e1bf7eb8b9c323b729d189009628993dab7face4b474bcad52578a51045c623a",
+              "range": [
+                0,
+                465
+              ]
+            }
+          ]
+        },
+        "content": "sehr divergenten Leistungsvoraussetzungen an die Hochschule gelangen“ (Le-\nwin/Vierthaler/Fraunhofer 2017: 160). Diese Zielgruppe weist spezielle Be-\nratungs- und Unterstützungsbedarfe auf, wozu es jedoch noch an empirisch gesichertem Wissen fehlt (vgl. ebd.). Der vorliegende Beitrag greift diese Erkenntnisse auf und geht am Bei-\nspiel der Serviceleistung der Beratung nicht-traditionell Studieninteressierter 1 2 Trotz der beschriebenen Entwicklungen stellt die wissenschaftliche Weiterbildung nach wie vor einen randständigen Bereich neben Forschung und Lehre dar und erhält in Praxis und Wissenschaft vergleichsweise wenig Aufmerksamkeit (vgl. Franz/Feld 2014: 30).\nExemplarisch sei hier auf den seit 2011 vom Bundesministerium für Bildung und For-\nschung (BMBF) geförderten Bund-Länder-Wettbewerb „Aufstieg durch Bildung: o(cid:3445)ene Hochschulen“ hingewiesen (vgl. hierzu: http://www.wettbewerb-o(cid:3445)ene-hochschulen-bmbf.de/ [Zugri(cid:3445) 25.01.2018]).\f90 Nico Sturm / Heike Rundnag"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-087-128.txt",
+    "question": "Wie wird die Zielgruppe der weiterbildendenden Studienprogramme beschrieben?",
+    "answer": "nicht-traditionell Studieninteressierte",
+    "expected": "Die Zielgruppe sind nicht-traditionell Studierende, die in verschiedenen Lebensphasen, mit individuellen beruflichen und familiären Verpflichtungen sowie sehr divergenten Leistungsvoraussetzungen an die Hochschule gelangen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "57bc858cfd59ec18d871e1199211904651c1c347af4c4fd8df6efa6e2c3680a9",
+        "score": 0.997192919254303,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 5,
+          "split_id": 3,
+          "split_idx_start": 4236,
+          "_split_overlap": [
+            {
+              "doc_id": "e1bf7eb8b9c323b729d189009628993dab7face4b474bcad52578a51045c623a",
+              "range": [
+                1436,
+                1881
+              ]
+            },
+            {
+              "doc_id": "a88ccc413b2a3570026ed4a4ef486b29a3a0c6b814bb7f4a9db158a1df06143d",
+              "range": [
+                0,
+                568
+              ]
+            }
+          ]
+        },
+        "content": "der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei (cid:191)nden so-\nwohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück-\nbindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten-\ntiale für eine Optimierung der Beratungsstrukturen formuliert werden (4). 2. Beratungsbedarfe und Beratungsstrukturen Da Programme der wissenschaftlichen Weiterbildung für ö(cid:3445)entliche Hoch-\nschulen eine weitestgehend neue Angebotssparte darstellen, geraten nicht-tra-\nditionell Studieninteressierte als neue Zielgruppe in den Fokus. Insbesondere die mit den Beratungsanliegen konfrontierten Stellen innerhalb der Hoch-\nschulen sollten daher in den Blick genommen werden. Um eine e("
+      },
+      {
+        "rank": 2,
+        "id": "d05001cd671214b13e8fc3e0e457c294f919642333b84fd893bdfd64fcd07a0d",
+        "score": 0.9934076070785522,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 9,
+          "split_id": 8,
+          "split_idx_start": 11681,
+          "_split_overlap": [
+            {
+              "doc_id": "1dfba5de76f30ac188c9a562be6ab2ff729cc33a9705f36df6fb0de44f17686e",
+              "range": [
+                1444,
+                1905
+              ]
+            },
+            {
+              "doc_id": "529cdcfc25cdcd8ef397c3bd565a884fef9d3f51634ab0754baa38fd130d9ff0",
+              "range": [
+                0,
+                456
+              ]
+            }
+          ]
+        },
+        "content": "Studienprogramm angesiedelt sind, ist anzunehmen, dass sie als Expertinnen und Experten sowohl mit organisationalem als auch mit programm- und fachspezi(cid:191)schem Wissen besonders bedeutsame Beratende für die Anliegen von Studieninteressierten sind. Um Potentiale zur Opti-\nmierung hochschulischer Beratungsstrukturen ableiten zu können, werden im Folgenden zunächst Beratungsbedarfe identi(cid:191)ziert, die an die Studien-\ngangkoordinierenden adressiert werden (3.1). Daran anschließend werden die Anforderungen an Rahmenbedingungen der Beratung auf Programmebene herausgearbeitet (3.2). 3.1. Beratungsbedarfe auf Programmebene Aus der Analyse der Befragungsergebnisse des in der Einleitung dargestellten Forschungsprojekts wird ersichtlich, dass Beratung von Studieninteressierten nur ein Aufgabenfeld von vielen darstellt. Die Studiengangkoordinierenden benennen jedoch die Zeit vor bzw. während der Bewerbung als „sehr intensive telefonische Beratungszeit“ (Studiengangkoordinierende 1, Abs"
+      },
+      {
+        "rank": 3,
+        "id": "dcab7322ca91be1f2c2805a8cc17e295486ca2cfccde4a742afb499d8af2088f",
+        "score": 0.9929870963096619,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 15,
+          "split_id": 20,
+          "split_idx_start": 28202,
+          "_split_overlap": [
+            {
+              "doc_id": "abe8a0caee6774700fae6c1bf7aca20aa11c55d1975148a5806905f8cc5cf1e7",
+              "range": [
+                1482,
+                2131
+              ]
+            },
+            {
+              "doc_id": "f76f86f9553f05daa19457866a02bdfe6247becb31a24557dbb4e5faba30b1da",
+              "range": [
+                0,
+                501
+              ]
+            }
+          ]
+        },
+        "content": "Gronert, Laura/Rundnagel, Heike (2017): Studiengangkoordination in der wis-\nsenschaftlichen Weiterbildung. Forschungsbericht. http://www.wmhoch3.de/\nimages/Studiengangkoordination_in_der_wissenschaftlichen_Weiterbildung.\npdf [Zugri(cid:3445): 10.01.2018]. Gronert, Laura/Rundnagel, Heike (2018): Studiengangkoordination in dezentral or-\nganisierten Weiterbildungsprogrammen. Eine zentrale Schnittstelle mit vielfäl-\ntigem Aufgabenspektrum. In: Seitter, Wolfgang/Friese, Marianne/Robinson, Pia (Hg.): Wissenschaftliche Weiterbildung zwischen Implementierung und Opti-\nmierung. Wiesbaden: Springer VS, S. 179–203. Franz, Melanie/Feld, Timm C. (2014): Steuerungsproblematiken im Prozess der Im-\nplementierung wissenschaftlicher Weiterbildung an Universitäten. In: Report – Zeitschrift für Weiterbildungsforschung, Heft 4, S. 28–40. Hanak, Helmar/Sturm, Nico (2015): Anerkennung und Anrechnung außerhochschu-\nlisch erworbener Kompetenzen. Eine Handreichung für die wissenschaftliche Weiterbildung. Wiesba"
+      },
+      {
+        "rank": 4,
+        "id": "7fdc062072dc51213906f505b00fef41c9abc2a0aefbbfc88d3cd6c20ac3e8fb",
+        "score": 0.9927775859832764,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 7,
+          "split_id": 6,
+          "split_idx_start": 8676,
+          "_split_overlap": [
+            {
+              "doc_id": "c80403bc95a0aeb0355d1ad3cbd6ca175a1102c6f0fdc8ffe946f645d7af77bb",
+              "range": [
+                1606,
+                2114
+              ]
+            },
+            {
+              "doc_id": "1dfba5de76f30ac188c9a562be6ab2ff729cc33a9705f36df6fb0de44f17686e",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "lassen sich hochschulweit drei Organisationseinheiten herausstellen, die wesentlich mit Beratungsanliegen nicht-traditionell Studieninteressierter im Feld der wissenschaftlichen Wei-\nterbildung konfrontiert sind.6 Auf Hochschulebene werden entsprechende Beratungsanliegen an die zentralen Studienberatungen adressiert. An Fach-\nbereichen, an denen weiterbildende Studienprogramme organisational ver-\nankert sind, werden die Fachstudienberatungen mit den Beratungsbedarfen konfrontiert. Und auf der Ebene der weiterbildenden Studienprogramme sind die Studiengangkoordinierenden die zentralen Ansprechpersonen. Bei einer gleichzeitigen Betrachtung der Beratenden auf den drei Or-\nganisationsebenen können vier wesentliche ebenenspezi(cid:191)sche Merkmale (Beratungsstruktur, Beratungstätigkeit, Beratungsinhalt und Implementie-\nrungsgrad) di(cid:3445)erenziert werden. Tabelle 1 zeigt die Charakteristika und un-\nterschiedlichen Rahmenbedingungen der Beratenden auf diesen drei Ebenen. 6 Die drei iden"
+      },
+      {
+        "rank": 5,
+        "id": "dd11c0a920a9c6977702d1a1b5ea4ccb92667e7665ef4f620138f0a3ac1ebc8b",
+        "score": 0.9915215969085693,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 24,
+          "split_id": 37,
+          "split_idx_start": 50031,
+          "_split_overlap": [
+            {
+              "doc_id": "5060d04460336c39ae79c402a99893a07770d762fd1671ba2f391f35d48ee168",
+              "range": [
+                1300,
+                1653
+              ]
+            },
+            {
+              "doc_id": "74c29c12556ae1aebbd6c1a92675bbc77439778f86417a00064312b0d3a9714d",
+              "range": [
+                0,
+                406
+              ]
+            }
+          ]
+        },
+        "content": "absolvieren. Dies ist wesentlich, um nur Personen in das Studienprogramm aufzunehmen, die in der Lage sind, dieses bis zum Ende erfolgreich zu durchlaufen. Davon verspricht sich die Hochschule Kostendeckung und vorzeigbare Ergebnisse, es ist jedoch ver-\nbunden mit der die Schwierigkeit, zum einen Bewerber_innen zu gewinnen und zum anderen die Passung zu wahren: „dann gibt es natürlich persönliche Beratungsgespräche […] Das kann dann auch so pas-\nsieren dass sie dann außerhalb [des Studienfachs, C. D.] dann landen, die Studenten“. Neben dem Übergang vom Beruf ins Studium ist auch der zweite Übergang aus dem Studium in den Beruf relevant und wird nur in diesem Handlungsmuster so deutlich angesprochen. Erfolgreiche Professionalisierung wird als etwas be-\nhandelt, was beratungswürdig ist. Die Beratung selbst wird nicht thematisiert, wie bei einer Studiengangskoordinatorin exemplarisch deutlich wird: „Ich berate auch zu dem Einstieg ins Berufsleben. Also dann nach dem Studium also […] nach "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-087-128.txt",
+    "question": "Welche Fragestellungen untersucht der Beitrag im Hinblick auf die Beratung nicht-traditionell Studieninteressierter auf Programmebene?",
+    "answer": "Die Beitrag untersucht die Fragestellungen, die sich auf die Beratung nicht-traditionell Studieninteressierter auf Programmebene beziehen, wie die Frage nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm, die Frage danach, ob die Studieninteressierten die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen, und die Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpässen und Erwerbsarbeit.",
+    "expected": "Der Beitrag untersucht, welche Beratungsbedarfe auf Programmebene bearbeitet werden sollten und wie ein zielgruppenorientiertes Beratungssetting auf dieser Ebene organisiert werden kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c80403bc95a0aeb0355d1ad3cbd6ca175a1102c6f0fdc8ffe946f645d7af77bb",
+        "score": 0.9904553294181824,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 6,
+          "split_id": 5,
+          "split_idx_start": 7070,
+          "_split_overlap": [
+            {
+              "doc_id": "a88ccc413b2a3570026ed4a4ef486b29a3a0c6b814bb7f4a9db158a1df06143d",
+              "range": [
+                1518,
+                2018
+              ]
+            },
+            {
+              "doc_id": "7fdc062072dc51213906f505b00fef41c9abc2a0aefbbfc88d3cd6c20ac3e8fb",
+              "range": [
+                0,
+                508
+              ]
+            }
+          ]
+        },
+        "content": "jeweiligen Ausprägungen (Quelle: Sturm/Bopf 2017) In der Kategorie der zielgruppenspezi(cid:191)schen Beratungsfelder der nicht-tra-\nditionell Studieninteressierten konnten neben den dargestellten spezi(cid:191)-\nschen Bedarfen zusätzliche Beratungsbedarfe identi(cid:191)ziert werden, welche innerhalb der Gruppe der traditionell Studieninteressierten nicht artikuliert wurden. Dies ist die Frage nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm sowie die Frage danach, ob die Studienin-\nteressierten die individuellen Voraussetzungen zum Absolvieren des Studien-\nprogramms erfüllen. Ein weiteres beratungsfeldübergreifendes Querschnitts-\nthema bei der Beratung nicht-traditionell Studieninteressierter ist in der Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familien-\np(cid:192)ichten und Erwerbsarbeit zu sehen.\fOptimierung von Beratungsstrukturen 93 Zusammenfassend kann festgestellt werden, dass nicht-traditionell Stu-\ndieninteressierte auf"
+      },
+      {
+        "rank": 2,
+        "id": "73f7ac96cc4e4cacf504a00bb34cbed425295795eff3268fa8be150ce05fd16a",
+        "score": 0.9563730359077454,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 12,
+          "split_id": 15,
+          "split_idx_start": 21020,
+          "_split_overlap": [
+            {
+              "doc_id": "042b08a996ea0ad4322c35fb9dd1ad8b098ce528fc6e0e653c7c47ba4d65808c",
+              "range": [
+                1368,
+                1860
+              ]
+            },
+            {
+              "doc_id": "96aaf6234daa43c9ebe6ce3d637ea162a52d7b7e54e4e431b24cd5262bbd9002",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "„Beratungstiefe“ ist der inhaltliche Detailgrad des jeweiligen Beratungsgegenstandes gemeint. 11 Für weiterführende Informationen zur Frage der hochschulischen Organisation von Bera- tungsleistungen für nicht-traditionell Studierende siehe Sturm/Bopf 2018.\fOptimierung von Beratungsstrukturen 99 die Beratung sowohl für die Studiengangkoordinierenden als auch für die Ratsuchenden e(cid:3446)zienter. Beratungswissen\nAuf der Grundlage zuvor geklärter Beratungsstrukturen ist sicherzustellen, wie die Studiengangkoordinierenden auf das Beratungswissen zugreifen können. Unter Berücksichtigung dessen, dass Beratung nur eine Aufgabe des vielfältigen Aufgabenspektrums von Studiengangkoordinierenden darstellt, erscheint es bedeutsam, sowohl das Wissen abrufbar zu machen, als auch Mechanismen zur fortlaufenden Aktualisierung des Beratungswissens zu implementieren. Wie dargestellt, liegen umfassende Erkenntnisse zu den ar-\ntikulierten Beratungsbedarfen nicht-traditionell Studieninteressierter im All"
+      },
+      {
+        "rank": 3,
+        "id": "57bc858cfd59ec18d871e1199211904651c1c347af4c4fd8df6efa6e2c3680a9",
+        "score": 0.9436281323432922,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 5,
+          "split_id": 3,
+          "split_idx_start": 4236,
+          "_split_overlap": [
+            {
+              "doc_id": "e1bf7eb8b9c323b729d189009628993dab7face4b474bcad52578a51045c623a",
+              "range": [
+                1436,
+                1881
+              ]
+            },
+            {
+              "doc_id": "a88ccc413b2a3570026ed4a4ef486b29a3a0c6b814bb7f4a9db158a1df06143d",
+              "range": [
+                0,
+                568
+              ]
+            }
+          ]
+        },
+        "content": "der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei (cid:191)nden so-\nwohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück-\nbindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten-\ntiale für eine Optimierung der Beratungsstrukturen formuliert werden (4). 2. Beratungsbedarfe und Beratungsstrukturen Da Programme der wissenschaftlichen Weiterbildung für ö(cid:3445)entliche Hoch-\nschulen eine weitestgehend neue Angebotssparte darstellen, geraten nicht-tra-\nditionell Studieninteressierte als neue Zielgruppe in den Fokus. Insbesondere die mit den Beratungsanliegen konfrontierten Stellen innerhalb der Hoch-\nschulen sollten daher in den Blick genommen werden. Um eine e("
+      },
+      {
+        "rank": 4,
+        "id": "eb1f6dac7c9b1bd653320af80926fec8ad2ead2ca5f6a1fd66d182159bbe0d49",
+        "score": 0.933098554611206,
+        "meta": {
+          "file_path": "9783847412304-009-015.txt",
+          "source_id": "b95e63990ac4390b5ab0f9e9a3c9565fdcf96e7029ed357ca8a1e742c793c7d5",
+          "page_number": 5,
+          "split_id": 11,
+          "split_idx_start": 14357,
+          "_split_overlap": [
+            {
+              "doc_id": "dde938681421d4b11eaee2bef66ff4ed119692f440785dab84c629e36ef92053",
+              "range": [
+                1367,
+                1797
+              ]
+            },
+            {
+              "doc_id": "6f582a1dc5b254b6a977d3e1b09282b570f529611b8c9fe6020ea3c9006c1be9",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "seinem Beitrag mit empirischen Ergebnissen zu den Lern- und Bildungsprozessen Beratung im Kontext des Lebenslangen Lernens\f14 im Kontext von Beratungskompetenzerwerb und entwickelt das Modell einer subjektorientierten Professionalisierung und dafür notwendiger Strukturent-\nwicklungen an der Hochschule. Der dritte Beitrag nimmt Bezug auf Ergebnis-\nse aus einer komparativ angelegten Studie über pädagogische Arbeitsfelder, indem Johannes Wahl die vorliegenden Daten mit Blick auf die Kernaktivi-\ntät des Beratens reanalysiert und etwa Beratungsanlässe aus den beruflichen Selbstbeschreibungen rekonstruiert. Schließlich eröffnen Birgit Schmidtke und Roland Lehner mit dem österreichischen Projekt Bildungsberatungs-Ra-\ndar einen neuen Blick auf das in Beratungen generierte Wissen. Zentral geht es bei der Pilotstudie darum, wie die Beratungslandschaft als Radar genutzt werden kann, um etwa strukturelle Defizite oder Hindernisse über so genann-\nte systemrelevante Fälle zu erfassen. Der damit gene"
+      },
+      {
+        "rank": 5,
+        "id": "042b08a996ea0ad4322c35fb9dd1ad8b098ce528fc6e0e653c7c47ba4d65808c",
+        "score": 0.9214429259300232,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 12,
+          "split_id": 14,
+          "split_idx_start": 19652,
+          "_split_overlap": [
+            {
+              "doc_id": "d2488600a517df59e99c6ba2f4228eef382ff00d891f6b6e14080a1066f29464",
+              "range": [
+                1284,
+                1765
+              ]
+            },
+            {
+              "doc_id": "73f7ac96cc4e4cacf504a00bb34cbed425295795eff3268fa8be150ce05fd16a",
+              "range": [
+                0,
+                492
+              ]
+            }
+          ]
+        },
+        "content": "und die Be ra-\ntungs instrumente auf Programmebene. Beratungsstrukturen\nCharakteristisch für die Rolle von Studiengangkoordinierenden als Akteurin-\nnen und Akteure mit zentraler Schnittstellenfunktion innerhalb eines weiter-\nbildenden Studienprogramms ist, dass sie neben der Beratung von nicht-tra-\nditionell Studieninteressierten eine Vielzahl weiterer Aufgaben wahrnehmen. Darüber hinaus ist zu berücksichtigen, dass die Beratung von Studieninteres-\nsierten zeitlich verdichtet vor Beginn des weiterbildenden Studienprogramms ansteht. Um diese besonders beratungsintensiven Phasen optimal zu gestalten, be-\ndarf es zum einen entsprechender Zeitbudgets für die Beratung der nicht-tra-\nditionell Studieninteressierten und zum anderen der Scha(cid:3445)ung möglichst e(cid:3446)-\nzienter Beratungsstrukturen, um der bedeutsamen Aufgabe der Beratung auf Programmebene hinreichend gerecht werden zu können. Unter Rückbindung auf die hochschulischen Beratungsstrukturen (2.2) ist für die Beratung auf Pr"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-087-128.txt",
+    "question": "Warum wird die wissenschaftliche Weiterbildung trotz des Bedeutungszuwachses als randständiger Bereich neben Forschung und Lehre angesehen?",
+    "answer": "Die wissenschaftliche Weiterbildung wird trotz des Bedeutungszuwachses als randständiger Bereich neben Forschung und Lehre angesehen, weil sie in den für staatliche Hochschulen weithin unbekannten Feldern der Nachfrageorientierung, der Erhebung vollkostendeckender Entgelte sowie der Entwicklung und Implementierung kundenbezogener Serviceleistungen steht. Diese stehen im Gegensatz zur disziplinär abgeleiteten Angebotsorientierung staatlich finanzierten grundständiger und konsekutiver Studienprogramme.",
+    "expected": "Weil sie in Praxis und Wissenschaft vergleichsweise wenig Aufmerksamkeit erhält und die Strukturen und Kultur der Weiterbildung sich von den traditionellen Hochschulprogrammen unterscheiden, insbesondere hinsichtlich Nachfrageorientierung und Serviceleistungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e274d73d8edaabcb200911ba8ca1991de4cd4cfff18fea9c0501eb0281ecaadb",
+        "score": 0.9940332770347595,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 29,
+          "split_id": 46,
+          "split_idx_start": 62776,
+          "_split_overlap": [
+            {
+              "doc_id": "f85c248956d85c95d444354ef6dc9f9977a19cb12068bdb0c3cbfd4aeaabbdaa",
+              "range": [
+                1273,
+                1679
+              ]
+            },
+            {
+              "doc_id": "0bef67c9c2c76c35295751dd5b1abf4a76349283731d31efc60248e170bc2fac",
+              "range": [
+                0,
+                465
+              ]
+            }
+          ]
+        },
+        "content": "Für die wissenschaftliche Weiterbildung liegen bisher wenige Daten vor, jedoch ist von einer ähnlichen Situation aus-\nzugehen. Dies kann laut Hörr und Jütter (2017) daran liegen, dass es schwie-\nrig ist, „wissenschaftliche Weiterbildung klar abzugrenzen bzw. die Ziel-\f116 Katharina Koller gruppen wissenschaftlicher Weiterbildung eindeutig zu bestimmen“ (ebd.: 30). Lebenslanges Lernen gewährleistet eine fortlaufende Aktualisierung des Bildungsniveaus und die kontinuierliche Anpassung an neue Aufgaben. Wissenschaftliche Weiterbildung ermöglicht dies auf Hochschulniveau und ö(cid:3445)net somit die Hochschullandschaft für neue Zielgruppen, die spezi(cid:191)sche Beratungs- und Betreuungsstrukturen erfordern. Die Work-Life-Education-Balance stellt eine große Herausforderung für alle Weiterbildungsbeteiligten, wie Teilnehmende, Dozierende und Organisa-\ntoren, dar. Informations-, Beratungs- und Betreuungsangebote beein(cid:192)ussen den Weiterbildungszugang, -verlauf und -abschluss und trage"
+      },
+      {
+        "rank": 2,
+        "id": "f0be8b230242d19081aa98cb4c6730423ca5c811c9938c9b6914cf9427e8a84e",
+        "score": 0.9880644679069519,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 19,
+          "split_id": 27,
+          "split_idx_start": 37565,
+          "_split_overlap": [
+            {
+              "doc_id": "e0e3bfbf36ca11acd0af1c8ca7dbff22d1570899782dad3e2b9e48e613019e68",
+              "range": [
+                1244,
+                1698
+              ]
+            },
+            {
+              "doc_id": "a98bb6db8750ad4573b6029b650a58b45c670529c1b300db21205582595970d2",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "(2006, S. 11) fassen unter wissenschaftli-\ncher Weiterbildung Hochschulstudiengänge, die sich an Personen mit tertiä-\nren Bildungsabschlüssen nach einer ersten Phase der Erwerbstätigkeit richten. Inhalte werden auf wissenschaftlichem Niveau angeboten. Grundlagentheo-\nretisch kann wissenschaftliche Weiterbildung mit Maria Kondratjuk (2017) konzeptualisiert werden als soziale Welt, die in ihrem Kern auf die Bereitstel-\nlung von Weiterbildungsangeboten für Berufstätige an Hochschulen ausge-\nrichtet ist. Sowohl die Positionierung der wissenschaftlichen Weiterbildung in der Hochschule als auch das Verhältnis zwischen Hochschule und außerhoch-\nschulischen Akteur_innen werde in Arenen ausgehandelt (vgl. ebd., S. 97). Anrechnungsberatung, die sich an eine erst noch zu erreichende Zielgrup-\npe richtet, steht in diesem Kontext. Ratgebende sind Akteur_innen an der Grenze der sozialen Welt, die sich transitiv an ratsuchende beruflich Quali-\n(cid:191)zierte richten (vgl. Maier-Gutheil 2016, S. 18 f"
+      },
+      {
+        "rank": 3,
+        "id": "f53ab960c6e4800aa5e49711ab0ebf34bee58b17801c2b66efdee3e753a9cc0d",
+        "score": 0.9877383708953857,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8005675e4e163f54e58c5fe8b88ee3e0a919f881e1ba10b23b6736a8c3d08f04",
+              "range": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        "content": "III. Beratung in der wissenschaftlichen Weiter bildung: Strukturen – Praxis – Herausforderungen\f\fNico Sturm / Heike Rundnagel Optimierung von Beratungsstrukturen für nicht-traditionell Studieninteressierte in der wissenschaftlichen Weiterbildung – am Beispiel von Studiengangkoordinierenden auf Programm ebene 1. Einleitung Die wissenschaftliche Weiterbildung hat innerhalb der deutschen Hochschul-\nlandschaft in den vergangenen Jahren einen rasanten Bedeutungszuwachs er-\nfahren.1 Dazu haben die von Bund und Ländern aufgelegten Förderprogram-\nme2 einen wesentlichen Beitrag geleistet. Trotz dieser Entwicklungen kann Weiterbildung an deutschen Hochschulen aktuell als organisationskultureller Fremdkörper betrachtet werden (vgl. Seitter/Schemmann/Vossebein 2014: 3). Wesentliche Gründe hierfür sind in den für staatliche Hochschulen wei-\ntestgehend unbekannten Feldern der Nachfrageorientierung, der Erhebung vollkostendeckender Entgelte sowie der Entwicklung und Implementierung kundenbezogener Se"
+      },
+      {
+        "rank": 4,
+        "id": "15799712e9304b62f42e170b88efdf72a8d82a1bbf6978c3f5351bb00ffc7dbd",
+        "score": 0.9744895696640015,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 27,
+          "split_id": 43,
+          "split_idx_start": 58292,
+          "_split_overlap": [
+            {
+              "doc_id": "d5b192b3009ad6c654c268f047ebedc44f54abae0e1d2f684a2805105a135b82",
+              "range": [
+                1515,
+                1970
+              ]
+            },
+            {
+              "doc_id": "8b272819b9de836797cc862e5367131a5317673a81a51de59e13bc4f01292a3f",
+              "range": [
+                0,
+                476
+              ]
+            }
+          ]
+        },
+        "content": "wissenschaftliche Weiterbildung. In: Hochschule und Weiterbildung (Ausgabe 1), S. 7–8. Jütte, Wolfgang/Weber, Karl (2006): Universitäre Weiterbildung international – ein Spiel ohne Grenzen. In: Jütte, Wolfgang/Weber, Karl (Hg.): Kontexte wissen-\nschaftlicher Weiterbildung: Entstehung und Dynamik von Weiterbildung im uni-\nversitären Raum. Münster: Waxmann. S. 9–13. KMK (Kultusministerkonferenz) (2001): Sachstands- und Problembericht zur „Wahr-\nnehmung wissenschaftlicher Weiterbildung an den Hochschulen“. Beschluss der Kultusministerkonferenz vom 21.09.2001. Online unter: http://www.kmk.org/\n(cid:191)leadmin/Dateien/veroe(cid:3445)entlichungen_beschluesse/2001/2001_09_21-Problem-\nbericht-wiss-Weiterbildung-HS.pdf [31.01.2018]. KMK (Kultusministerkonferenz) (2002): Anrechnung von außerhalb des Hoch-\nschulwesens erworbenen Kenntnissen und Fähigkeiten auf ein Hochschulstu-\ndium (I): (Beschluss der Kultusministerkonferenz vom 28.06.2002). Online unter: http://www.kmk.org/(cid:191)leadmin/Dat"
+      },
+      {
+        "rank": 5,
+        "id": "e327ee2f68c52ca1ae31a15f23fb0cb2885584903fbf2e3744f72e14f8f987c0",
+        "score": 0.9738170504570007,
+        "meta": {
+          "file_path": "9783847412304-059-086.txt",
+          "source_id": "45dee5f385fe757b59e7435157597176c3afe94ee539439ed53af7cefa795258",
+          "page_number": 14,
+          "split_id": 21,
+          "split_idx_start": 27227,
+          "_split_overlap": [
+            {
+              "doc_id": "a3fdcc3480faf29b8ccaca11d8a492fcc7c713733497bdd89d403fa8174f086f",
+              "range": [
+                1410,
+                1913
+              ]
+            },
+            {
+              "doc_id": "676dfea75719cc4d1b5a31a797eccbd3f3a1316e5f21547ec4cb5583c974722f",
+              "range": [
+                0,
+                554
+              ]
+            }
+          ]
+        },
+        "content": "und Entwicklung eines Forschungsdesigns. In: Report. Zeitschrift für Weiterbildungsforschung, 30, 1, S. 33–42. Gieseke, Wiltrud/Opelt, Karin (2004): Weiterbildungsberatung. 2. Studienbrief. Zen- trum für Wissenschaftliche Weiterbildung. Kaiserslautern. Hetfleisch, Petra/Goeze, Annika/Schrader, Josef (2017): Wie PraktikerInnen wis-\nsenschaftliche Befunde verwenden. Selektions- und Rezeptionsprozesse bei der Implementation eines evidenzbasierten Trainingskonzepts. Zeitschrift für Päda-\ngogik, 63, 2, S. 182–205. Kallmeyer, Werner (2000): Beraten und Betreuen. Zur gesprächsanalytischen Unter-\nsuchung von helfenden Interaktionen. In: Zeitschrift für qualitative Bildungs-, Beratungs- und Sozialforschung (ZBBS) 1, 2, S. 227–252. Knatz, Birgit (2009): Die webbasierte Mail-Beratung. In: Kühne, S./Hintenberger, G. (Hg.): Handbuch Online Beratung. Psychosoziale Beratung im Internet. 2. Auf-\nlage. Göttingen: Vandenhoeck und Ruprecht, S. 59–67. Kraft, Volker (2011): Beraten. In: Kade, J./Helsper, W"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-087-128.txt",
+    "question": "Welche intraorganisationalen Rahmenbedingungen werden diskutiert, um die Beratungsstrukturen für nicht-traditionell Studieninteressierte zu optimieren?",
+    "answer": "Unter Rückbindung auf die hochschulischen Beratungsstrukturen (2.2) ist für die Beratung auf Programmebene bedeutsam, welche Beratungsbedarfe bis zu welcher Bera-\ntungstiefe10 auf welcher Beratungsebene bearbeitet werden und ab wann an welche Organisationseinheit zur abschließenden Beratung weiterverwiesen wird.11 Eine eindeutige Klärung der Verantwortlichkeiten minimiert Redun-\ndanzen, reduziert das Risiko von fehlerhaften Beratungsinhalten und macht 10 Mit „Beratungstiefe“ ist der inhaltliche Detailgrad des jeweiligen Beratungsgegenstandes gemeint. 11 Für weiterführende Informationen zur Frage der hochschulischen Organisation von Bera- tungsleistungen für nicht-traditionell Studierende siehe Sturm/Bopf 2018.",
+    "expected": "Es wird diskutiert, wie durch eine zielgruppenorientierte Organisation der Beratung auf Programmebene und die Anpassung der internen Strukturen und Prozesse eine Optimierung der vorhandenen Beratungsstrukturen erreicht werden kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "068f4bf3a58b220072ad09b2e5c51f807fa571ce1d30cd5d45f27219ae5ad671",
+        "score": 0.9094476699829102,
+        "meta": {
+          "file_path": "9783839444856-032-043.txt",
+          "source_id": "db546909efc4df4ccd7857b5bf000861d01193ca8fb38683ab5051b59d3a6a3b",
+          "page_number": 10,
+          "split_id": 17,
+          "split_idx_start": 22119,
+          "_split_overlap": [
+            {
+              "doc_id": "1c28c5f8eca709847f04f40c7c9e5091b02f313f4e9f054a0ad3b12babf5108e",
+              "range": [
+                1200,
+                1687
+              ]
+            },
+            {
+              "doc_id": "23bcda471363b64eb4e01746e1164706d42ad9395b2142fda66e539979d0032e",
+              "range": [
+                0,
+                518
+              ]
+            }
+          ]
+        },
+        "content": "Koordinator_innen auf Basis empirischer qualitati-\nver Daten vor dem Hintergrund beratungs- und anerkennungstheoretischer Konzepte. Im Mittelpunkt steht dabei die professionelle Ausgestaltung und Begründung des Beratungshandelns innerhalb der gegebenen institutionel-\nlen, gesellschaftlichen und rechtlichen Rahmenbedingungen. 2.2.1 Forschungsfrage Das dargestellte Forschungsinteresse in Bezug auf die Professionalisierung einer sich neu entwickelnden Fachberatung und die theoretische Begrün-\ndung pädagogischen Beratungshandelns bildet die Grundlage für die zen-\ntrale Forschungsfrage dieser Arbeit: Welche professionellen Handlungsstrategien entwickeln Berater_innen in der Anerkennungsberatung, um innerhalb der Spannungsfelder von be-\nruf lichem Selbstverständnis und sozialstrukturellen Rahmenbedingungen handlungsfähig zu bleiben? Die Forschungsfrage wird in der weiteren Arbeit in drei Teilfragen ge- gliedert: 1. Welche Perspektiven auf Anerkennungsberatung und ihre Aufgabenfel-\nder werden"
+      },
+      {
+        "rank": 2,
+        "id": "57bc858cfd59ec18d871e1199211904651c1c347af4c4fd8df6efa6e2c3680a9",
+        "score": 0.8135598301887512,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 5,
+          "split_id": 3,
+          "split_idx_start": 4236,
+          "_split_overlap": [
+            {
+              "doc_id": "e1bf7eb8b9c323b729d189009628993dab7face4b474bcad52578a51045c623a",
+              "range": [
+                1436,
+                1881
+              ]
+            },
+            {
+              "doc_id": "a88ccc413b2a3570026ed4a4ef486b29a3a0c6b814bb7f4a9db158a1df06143d",
+              "range": [
+                0,
+                568
+              ]
+            }
+          ]
+        },
+        "content": "der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei (cid:191)nden so-\nwohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück-\nbindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten-\ntiale für eine Optimierung der Beratungsstrukturen formuliert werden (4). 2. Beratungsbedarfe und Beratungsstrukturen Da Programme der wissenschaftlichen Weiterbildung für ö(cid:3445)entliche Hoch-\nschulen eine weitestgehend neue Angebotssparte darstellen, geraten nicht-tra-\nditionell Studieninteressierte als neue Zielgruppe in den Fokus. Insbesondere die mit den Beratungsanliegen konfrontierten Stellen innerhalb der Hoch-\nschulen sollten daher in den Blick genommen werden. Um eine e("
+      },
+      {
+        "rank": 3,
+        "id": "32504c1ed2ab357545878fdee1573aa054196668564939dfff0dd9988bbdf94d",
+        "score": 0.7515519857406616,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 43,
+          "split_id": 77,
+          "split_idx_start": 100793,
+          "_split_overlap": [
+            {
+              "doc_id": "e98912c4214b70148e74c960b9142e69b5cfcfec10d59893aa97bfcc99275c50",
+              "range": [
+                1498,
+                1908
+              ]
+            },
+            {
+              "doc_id": "8df867bdfdaf146fb70dc8d8f2d61a0cae7a7b38962dd391bf74f94aaeb9d02a",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "Zentrum ihrer Dar-\nstellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird\f86 Bildungs- und Berufsberatung in der Migrationsgesellschaft das Beratungssystem von dem organisationalen und gesellschaftlichen Kon-\ntext. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu-\ngeordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln nicht nur Kompetenzen zur Gestaltung des Beratungsprozesses voraussetzt, sondern auch Kompetenzen im Umgang mit der Institution und der Gesellschaft be-\ninhaltet (vgl. ebd., S. 15ff.). Abbildung 12: Systemisches Kontextmodell von Beratung Quelle: Schiersmann 2013, S. 162 Die Definition von Kompetenzanforderungen und Wissenssystemen stellt in diesem Modell die Voraussetzung für professionelle Handlungsfähig-\nkeit und -sic"
+      },
+      {
+        "rank": 4,
+        "id": "042b08a996ea0ad4322c35fb9dd1ad8b098ce528fc6e0e653c7c47ba4d65808c",
+        "score": 0.6007814407348633,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 12,
+          "split_id": 14,
+          "split_idx_start": 19652,
+          "_split_overlap": [
+            {
+              "doc_id": "d2488600a517df59e99c6ba2f4228eef382ff00d891f6b6e14080a1066f29464",
+              "range": [
+                1284,
+                1765
+              ]
+            },
+            {
+              "doc_id": "73f7ac96cc4e4cacf504a00bb34cbed425295795eff3268fa8be150ce05fd16a",
+              "range": [
+                0,
+                492
+              ]
+            }
+          ]
+        },
+        "content": "und die Be ra-\ntungs instrumente auf Programmebene. Beratungsstrukturen\nCharakteristisch für die Rolle von Studiengangkoordinierenden als Akteurin-\nnen und Akteure mit zentraler Schnittstellenfunktion innerhalb eines weiter-\nbildenden Studienprogramms ist, dass sie neben der Beratung von nicht-tra-\nditionell Studieninteressierten eine Vielzahl weiterer Aufgaben wahrnehmen. Darüber hinaus ist zu berücksichtigen, dass die Beratung von Studieninteres-\nsierten zeitlich verdichtet vor Beginn des weiterbildenden Studienprogramms ansteht. Um diese besonders beratungsintensiven Phasen optimal zu gestalten, be-\ndarf es zum einen entsprechender Zeitbudgets für die Beratung der nicht-tra-\nditionell Studieninteressierten und zum anderen der Scha(cid:3445)ung möglichst e(cid:3446)-\nzienter Beratungsstrukturen, um der bedeutsamen Aufgabe der Beratung auf Programmebene hinreichend gerecht werden zu können. Unter Rückbindung auf die hochschulischen Beratungsstrukturen (2.2) ist für die Beratung auf Pr"
+      },
+      {
+        "rank": 5,
+        "id": "7fdc062072dc51213906f505b00fef41c9abc2a0aefbbfc88d3cd6c20ac3e8fb",
+        "score": 0.5322139859199524,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 7,
+          "split_id": 6,
+          "split_idx_start": 8676,
+          "_split_overlap": [
+            {
+              "doc_id": "c80403bc95a0aeb0355d1ad3cbd6ca175a1102c6f0fdc8ffe946f645d7af77bb",
+              "range": [
+                1606,
+                2114
+              ]
+            },
+            {
+              "doc_id": "1dfba5de76f30ac188c9a562be6ab2ff729cc33a9705f36df6fb0de44f17686e",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "lassen sich hochschulweit drei Organisationseinheiten herausstellen, die wesentlich mit Beratungsanliegen nicht-traditionell Studieninteressierter im Feld der wissenschaftlichen Wei-\nterbildung konfrontiert sind.6 Auf Hochschulebene werden entsprechende Beratungsanliegen an die zentralen Studienberatungen adressiert. An Fach-\nbereichen, an denen weiterbildende Studienprogramme organisational ver-\nankert sind, werden die Fachstudienberatungen mit den Beratungsbedarfen konfrontiert. Und auf der Ebene der weiterbildenden Studienprogramme sind die Studiengangkoordinierenden die zentralen Ansprechpersonen. Bei einer gleichzeitigen Betrachtung der Beratenden auf den drei Or-\nganisationsebenen können vier wesentliche ebenenspezi(cid:191)sche Merkmale (Beratungsstruktur, Beratungstätigkeit, Beratungsinhalt und Implementie-\nrungsgrad) di(cid:3445)erenziert werden. Tabelle 1 zeigt die Charakteristika und un-\nterschiedlichen Rahmenbedingungen der Beratenden auf diesen drei Ebenen. 6 Die drei iden"
+      }
+    ]
+  }
+]

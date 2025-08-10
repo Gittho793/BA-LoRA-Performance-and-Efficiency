@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "1001586-145-150.txt",
+    "question": "Was ist das Hauptziel der Methode \"Bildungszeitreise\" in der Beratung?",
+    "answer": "Die Methode \"Bildungszeitreise\" soll dabei helfen, Perspektiven zu eröffnen, die im Rahmen eines Bildungsweges eingeschlagen werden können, und eigene Gewichtungen zu setzen. Sie ist sinnvoll, wenn bereits Anknüpfungspunkte bestehen, die in der folgenden Phase in eine Lösungsfindung übergehen sollen.",
+    "expected": "Das Hauptziel der Methode \"Bildungszeitreise\" ist es, negative Bildungserfahrungen als innere Barrieren abzubauen, die einer Weiterqualifizierung im Weg stehen, und den Ratsuchenden ein neues Verständnis ihrer Bildungsvergangenheit zu ermöglichen, um so neue Perspektiven und Interessen zu entwickeln.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+        "score": 0.9893383979797363,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 8,
+          "split_idx_start": 9470,
+          "_split_overlap": [
+            {
+              "doc_id": "c19f20cd37e4b74c2f853b63714c3c5d5545248aaaba84d829715363b8f031bf",
+              "range": [
+                1075,
+                1448
+              ]
+            },
+            {
+              "doc_id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie-\nhen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge-\nklärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar-\nbeiten ermöglichen. Brunner formuliert z. B. Daher wird zunächst der Stellenwert von Methoden und Techniken, von Konzepten und Theorien erläutert und der Stellenwert von Beratungsanläs-\nsen und Inhalten der Beratungsgespräche erörtert. Sie einem Format und Feld zuzuordnen, ist darüber hinaus wichtig, um die Anforderungen im jeweiligen Feld der Beratung einschätzen zu können. Denn zu jedem Beratungsfeld ge-\nhören Wissensbestände, die der Beratung"
+      },
+      {
+        "rank": 2,
+        "id": "97713a52106f41cc78041cec3f68c5e0486a09dfaf8bc51291ca644b85276042",
+        "score": 0.9780091047286987,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 19,
+          "split_id": 46,
+          "split_idx_start": 52639,
+          "_split_overlap": [
+            {
+              "doc_id": "fd99f9d6ca1d9bfa016e3641932466d8add25aba9474358bee3393de0c0e7497",
+              "range": [
+                1138,
+                1500
+              ]
+            },
+            {
+              "doc_id": "dfcbdaf60d6032ec003fcd79dd148521991ff78c67b5dbac94a227631fc8d53c",
+              "range": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        "content": "über die sozialen, gesellschaftlichen und (bildungs-)politischen Zusammenhänge, in denen sie ihre Beratung anbieten, im Klaren sein sollten. Das macht deutlich, dass es nicht immer möglich ist, das Wissen zur Bedeu-\ntung von guter Beziehungsarbeit uneingeschränkt umsetzen zu können, dass man sich im Rahmen der Möglichkeiten aber darauf einlassen muss, weil es die Grundlage jedweder Anwendung von Methoden und Techniken innerhalb der Beratung darstellt. Bereits Rogers ging davon aus, dass keine Methode oder Technik aussichtsreicher sein kann als „Veränderung [die] durch Erfahrung in einer Beziehung zustande kommt“ (Rogers 2004: 46). Und Schmidt-Lellek „Man kann vielleicht fragen, ob nicht manche Deformationen im Bereich von be-\n(2001) präzisiert:\nratenden Berufen auf eine Verwechslung von technischem bzw. instrumentellem Wissen (als der Fähigkeit, etwas zu machen bzw. zu bewerkstelligen) und verste-\nhendem Wissen (als der Bereitschaft, sich für etwas zu öffnen und Verstehenspro-\nzesse zu"
+      },
+      {
+        "rank": 3,
+        "id": "1d08d62221727a8753d456ee7a398cbd212610568003a27e1ddf060659f97887",
+        "score": 0.97179114818573,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 5,
+          "split_id": 10,
+          "split_idx_start": 11336,
+          "_split_overlap": [
+            {
+              "doc_id": "3a792510e3f6b7ea15e2f84f8508ccdb3bd642da6c2204f8bea5e55ae64d92e8",
+              "range": [
+                1088,
+                1444
+              ]
+            },
+            {
+              "doc_id": "cc7927222bbf8951bc2d2cca4760336ff45f2cd7ecba4042b1815c9ba1a161ea",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "Darin bildet sich aber nie die tatsächlich durchgeführte Beratungssituati-\non ab. Wenn Beraterinnen und Berater eine Methode in der eigenen Beratung anwenden, geschieht dies immer in ihrer individuellen Art. Vor allem für die-\njenigen, die gerade dabei sind, Beratungshandeln zu erlernen, ist das oft ein wichtiger Erkenntnisschritt. Es liegt in der Natur der Sache, dass ich Metho-\nden nie (nur) so anwende, wie ich sie irgendwo gelesen habe. Vielmehr bieten Methodenbeschreibungen Einstiegsmöglichkeiten, um den Beratungsprozess in Gang zu setzen. Je nach Prozessentwicklung kann ich dabei eine Methode zwischendurch verlassen, sie mit anderen Techniken realisieren, ganz ausstei-\ngen oder auch nach einem eingeschobenen Klärungsprozess später wieder einsteigen, um das ursprüngliche Anliegen zu Ende zu führen.\nMethodik als gestalteter Erfahrungsraum von Ratsuchenden und Beratenden In diesem Beispiel zeichnet sich ab, dass Methoden Entwicklungsprozesse er-\nmöglichen, die durch rein gesprächsori"
+      },
+      {
+        "rank": 4,
+        "id": "15ba350a81def399818e3f3cce5629bd4c35f38937b3202750cc9f55319cde40",
+        "score": 0.9592382907867432,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 2,
+          "split_id": 3,
+          "split_idx_start": 3632,
+          "_split_overlap": [
+            {
+              "doc_id": "46a38af2426bb06c6e5ed02d1a80e064207c4e4d8df661fba53a29d7b832e10c",
+              "range": [
+                1157,
+                1537
+              ]
+            },
+            {
+              "doc_id": "b79f726451101a4c7fc060322659749ade354752c459257cd100551b957dd597",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "eingesetzt werden könnten, noch, dass ausschließlich diese Methoden für den Einsatz geeignet wären. Vielmehr sollen sie dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie in der Bildungsberatung mit Me-\nthoden gearbeitet werden kann. Dazu gehören auch Methoden, die Grenzen markieren, wie z.B. der Einsatz des Antreiber-Tests (S. 178) in der Bildungs-\nberatung. Die Methoden stammen aus den beiden unterschiedlichen Kontexten, die in der Bildungsberatung aufeinandertreffen: Es handelt sich um abgewandel-\nte Verfahren, die aus der Seminargestaltung der Erwachsenenbildung (z.B. Klotzen S. 156, Bildungszeitreise S. 145, Lebensbaum S. 151) oder aus dem Coaching stammen (z.B. Tetralemma S. 132, Inneres Team S. 140, Netzwerk-\nmethode S. 162). Bei der Beschreibung der Methoden haben wir weitestgehend darauf ver-\nzichtet, sie zugeschnitten auf ein bestimmtes Beratungsformat (sei es die Stu-\ndien-, Karriere- oder Berufsberatung) zu erläutern. Wo dies zum Verstä"
+      },
+      {
+        "rank": 5,
+        "id": "0515f64ff3df2c88abb0edf75e14864ce8e437bf694ebbfc4ffdf79e7ee13889",
+        "score": 0.958061933517456,
+        "meta": {
+          "file_path": "1001586-156-161.txt",
+          "source_id": "3d18407006e8bff19a42481e484685795cb7c87d853e47c88451d085065f847e",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6814,
+          "_split_overlap": [
+            {
+              "doc_id": "20726171c0fbd27104948b0e738996146fb3cb041fc6c089b0a26746d2e818c0",
+              "range": [
+                1249,
+                1657
+              ]
+            },
+            {
+              "doc_id": "d42b45a247d8012dcee1d6e0323581240cda67f91b4c05a7f609018e7ef1311a",
+              "range": [
+                0,
+                319
+              ]
+            }
+          ]
+        },
+        "content": "bei Fragen, die die Ausgestaltung der eigenen Bildungsbiographie betreffen. Sie ermöglicht, Perspektiven, die im Rahmen eines Bildungsweges eingeschlagen werden können, ganz individuell in den Fokus der Betrachtung Phase im Beratungsgespräch:\nzu rücken und eigene Gewichtungen zu setzen. Die Methode ist sinnvoll, wenn bereits An-\nknüpfungspunkte (z.B. durch ein vorangegangenes Beratungsgespräch mit erster Problemdefinition) bestehen, die in der folgenden Phase in eine Lö-\nsungsfindung übergehen sollen. Im Beratungsgespräch ist die Methode dann 158 5 Methoden und Techniken\fsinnvoll zu platzieren, wenn es um die Anbahnung von Lösungsoptionen in Schwierigkeiten/Barrieren:\nder Mittelphase geht. Manche Ratsuchenden zeigen eventuell Hem-\nmungen, ihre Anliegen mit Klötzen in Verbindung zu bringen. Assoziationen wie „kindisch“ sind möglich – Sie sollten den oder die Ratsuchenden vorher entsprechend seiner bzw. ihrer Bereitschaft einschätzen. Sie können die Klöt-\nze aber auch durch andere Materi"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-145-150.txt",
+    "question": "Welche Arten von Gegenständen werden bei der \"Bildungszeitreise\" verwendet und warum?",
+    "answer": "Bei der \"Bildungszeitreise\" werden sowohl schulbezogene als auch schulunabhängige Gegenstände verwendet, wie z.B. Sportauszeichnungen oder Handwerkszeug. Diese Gegenstände sollen die Ratsuchende an ihre Bildungsgeschichte erinnern und ihre Assoziationen vertieft werden. Die Gegenstände werden verwendet, um negative Bildungserfahrungen als innere Barrieren abzubauen und ein neues Verständnis ihrer Bildungsvergangenheit zu ermöglichen. Die Gegenstände sollen dabei mehrere Sinne ansprechen und eine ganzheitliche Methode darstellen.",
+    "expected": "Bei der \"Bildungszeitreise\" werden sowohl schulbezogene Gegenstände wie Schulbücher, Arbeitshefte, Zeugnisse, Kreide, Taschenrechner und Malkästen als auch schulunabhängige Gegenstände wie Comics, Sportauszeichnungen, Handwerkszeug, Küchenu­tensilien, Filme, Romane oder Reisefotos verwendet. Diese Vielfalt soll verdeutlichen, dass Bildung auch außerhalb institutioneller Einrichtungen stattfindet und die Gegenstände sollen Erinnerungen an die Bildungsgeschichte der Ratsuchenden wecken.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "dea73b80122b658a68416ad57a60824c3c326d410fb256c2d6c599a0988d91ac",
+        "score": 0.9833424091339111,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 5,
+          "split_id": 11,
+          "split_idx_start": 12886,
+          "_split_overlap": [
+            {
+              "doc_id": "22ec54d4f59ab78642d315e492f3636dc6d3793238bede2d5b93f248732ca8d1",
+              "range": [
+                1155,
+                1565
+              ]
+            },
+            {
+              "doc_id": "b3eab8a6ae556d9155493e8d86b30aa5a71f28c31c23b63f20c6db6c1447d82d",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "Reflexion in der Bildungsberatung. Manches Mal ist die Biographie Gegenstand in der Beratungssituation, manches Mal ist sie Ressource im Ge-\nspräch. Immer wird ein Bezug zur individuellen Biographie hergestellt, um Erklärungen für zurückliegendes oder zukünftiges Handeln zu finden. Um Entscheidungen vorzubereiten, z.B. für die Teilnahme an Schul-, Ausbildungs-, Qualifizierungs- bzw. Weiterbildungsmaßnahmen sind die Voraussetzungen zu klären, um individuellen Anschluss zu ermöglichen (vgl. Schlüter 2014). Daher ist es kaum vorstellbar, dass Bildungsberatung ohne Biographisierung 21 2.2 Biographieorientierung in der (Weiterbildungs-)Beratungssituation\fund ohne biographische Kommunikation auskommt. Schon bei der Namens-\nnennung oder der Aussage, welche Schule, welche Ausbildung, welches Studi-\num, welcher Beruf gewählt wurde, geht es um biographische Entscheidungen, die für das Verstehen des faktischen Lebenslaufs ausführlich thematisiert werden können. Wenn man davon ausgeht, dass Biogra"
+      },
+      {
+        "rank": 2,
+        "id": "1bf1db383eb4fcd5ec6ce094ab8d10438725397f2899d093525f2b39e3d92fd2",
+        "score": 0.9201503992080688,
+        "meta": {
+          "file_path": "1001586-145-150.txt",
+          "source_id": "d11abf571aa9ba6c822328961389fdf701caa3bcf35d3c3197e49130528639a7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5a80a0ffabfcd0d59e18490f553547f8b0e45393d06b254b2b50c25e3d2b3a31",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "5.5.6 Bildungszeitreise Laura Vöckel und Sally Jack Kurzbeschreibung Bei der Methode „Bildungszeitreise“ liegt der Schwerpunkt auf der biogra-\nphieorientierten Beratung, vor allem für Menschen mit einer negativen Ein-\nstellung zu Lern- und Bildungsprozessen. Die Methode nutzt eine Sammlung verschiedener Alltagsgegenstände, die die ratsuchende Person an seine bzw. ihre Bildungsgeschichte erinnern könnten. Dabei sollten sowohl schulbezoge-\nne als auch schulunabhängige Gegenstände, wie Sportauszeichnungen oder Handwerkszeug bereitgestellt werden. Die bzw. der Ratsuchende hat die Auf-\ngabe, Gegenstände auszuwählen, mit denen sie oder er Erinnerungen assozi-\niert. Daraufhin werden die Hintergründe der Assoziation vertieft. Es handelt sich um eine ganzheitliche Methode, die mehrere Sinne anspricht. Die Methode zielt darauf ab, negative Bildungserfahrungen als innere Barrieren, die einer Weiterqualifizierung der Ratsuchenden im Weg stehen, abzubauen. Sie kann eingesetzt werden, um den Ratsuch"
+      },
+      {
+        "rank": 3,
+        "id": "1c17523887029b2d2bbedf7bea37c3b2da83829034908f4c8261fceae78cdad0",
+        "score": 0.9092824459075928,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt",
+          "source_id": "2f003a9f1868a99b4c2da95595ea2af8d8a4f82a7ce62ff83b388833275b9c00",
+          "page_number": 4,
+          "split_id": 4,
+          "split_idx_start": 5584,
+          "_split_overlap": [
+            {
+              "doc_id": "241d87dd5392b3989df55b4cab6799cfd3cc4c5ca566bd03149853e50adf40b7",
+              "range": [
+                1249,
+                1691
+              ]
+            },
+            {
+              "doc_id": "4857efa7bf779e942bac33adf4f1a40561000be0751d2c4d8e1a517f716686b9",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "liegen für Bildungsberatungen jedoch noch kaum Erkenntnisse darüber vor, welche Beratungsver-\nständnisse es sind, die die BeraterInnen in ihren Beratungen konkret leiten. An dieser Forschungs-\nlücke setzt dieser Beitrag an. Mithilfe schriftlicher Falldokumentationen/Fallreflexionen soll in einem ersten Anlauf explorativ versucht werden, die handlungsstrukturierenden Leitbilder von Bildungs-\nberaterInnen zu rekonstruieren. 1 Im Diskurs um das deutsche Bildungssystem wird zwischen vier Bildungssektoren unterschieden. Der primäre und der sekundäre Bildungssektor schließen die Grundschulen, die weiterführenden Schulen und die Berufsschulen ein. Der tertiäre umfasst die universitären Ausbildungen und der quartäre Bildungssektor die allgemeine, berufliche und wissenschaftliche Weiterbildung. 2 05-\fSelbstreflexion und Beratung Vom Nationalen Forum für Beratung in Bildung, Beruf und Beschäftigung e.V. – einem gemeinnützi-\ngen, konfessionell und parteipolitisch unabhängigen Verein in Deutschlan"
+      },
+      {
+        "rank": 4,
+        "id": "8a5670581fb7b3135d0cd32cdf63bcb3ebb6ecf3b04447514551af7a0e9928be",
+        "score": 0.8180450201034546,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 18,
+          "split_id": 32,
+          "split_idx_start": 41422,
+          "_split_overlap": [
+            {
+              "doc_id": "958efe723b580cdf439e28dfdb88cfa875a5ad6a4fff00d88176098de34f48fe",
+              "range": [
+                1247,
+                1669
+              ]
+            },
+            {
+              "doc_id": "fc01ef46d9ab8e809f5a2c39c2c70372367a02eba4cb5bac955ff7e18656881b",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "Sozialen Jahr? Vorannahmen und methodisches Vorgehen Wie bereits erläutert, existieren bisher keine grundlegenden Untersuchungen zum Thema Beratung im FSJ. Folgende Annahmen über dieses Forschungs-\nfeld können jedoch formuliert werden: 1. Es wird der Hypothese gefolgt, dass (halbformaler) Beratung wie in na-\nhezu jedem pädagogischen Handlungsfeld (vgl. Sauer-Schi(cid:3445)er 2010: 33)\fBeratung im Freiwilligen Sozialen Jahr 199 auch in der Bildungs- und Begleitungsarbeit im FSJ eine gewisse Rele-\nvanz zukommt. 2. Darüber hinaus verweist die Konzeption des FSJ als Bildungs- und Ori-\nentierungsangebot auf Bedürfnisse, bei denen Beratung als pädagogische Unterstützungsleistung grundsätzlich greifen kann. So hält z. B. Weide (2004) für ihre Tätigkeit als Bildungsreferentin in der Deutschen Pfad(cid:191)n-\nderschaft fest, dass diese zu „neunzig Prozent eine beratende“ (ebd.: 261) ist, da die jungen Menschen hier „Fragen und Antworten zu sich selbst, zu ihrer Lebensplanung, zu den von ihnen f"
+      },
+      {
+        "rank": 5,
+        "id": "2f97ce73d023af0ba230562d44da1e3d1686b14ac2aee477407a5bb8d0a53915",
+        "score": 0.8054652214050293,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 12,
+          "split_id": 21,
+          "split_idx_start": 27355,
+          "_split_overlap": [
+            {
+              "doc_id": "1347b822f07c3a8fe35d9d9b30c251a47fd0396979199fc19fec104b594087b3",
+              "range": [
+                1272,
+                1718
+              ]
+            },
+            {
+              "doc_id": "e0844084dcfa806928dea10a4986a83480480efd2577fd2e2c971f92a3cc3167",
+              "range": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        "content": "deut-\nlich an gesellschaftlicher Bedeutung und öffentlicher Bekanntheit gewon-\nnen. Die Zunahme wird vor allem auf gesellschaftliche Entwicklungen wie der Individualisierung von Bildungs- und Berufsbiografien, dem steigenden Stellenwert von nonformalen und selbstgesteuerten Lernprozessen sowie der zunehmenden Flexibilisierung und Dynamik des Arbeitsmarktes und des (Weiter-)Bildungssystems zurückgeführt (vgl. Schiersmann et al. 2008, S. 9f.). In Zusammenhang mit der daraus resultierenden Ausdifferenzie-\nrung von Beratungsleistungen wird vielfach festgestellt, dass auch für den Bereich der Bildungs- und Berufsberatung keine spezifische Beratungstheo-\nrie vorliegt (vgl. ebd., S. 15). Eine übergreifende Systematisierung des Be-\nratungsfeldes steht ebenfalls noch aus (vgl. Maier-Gutheil und Nierobisch 2015, S. 30). Stattdessen existieren unterschiedliche Theoriemodelle und Systematisierungsversuche, welche jedoch ein sehr umfassendes Bild von Bildungs- und Berufsberatung in unterschiedliche"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-145-150.txt",
+    "question": "Wie kann die Methode \"Bildungszeitreise\" im Beratungsverlauf eingesetzt werden, wenn der Prozess ins Stocken gerät?",
+    "answer": "Die Methode \"Bildungszeitreise\" kann eingesetzt werden, um neue Anknüpfungspunkte für den Beratungsverlauf zu eröffnen, wenn der Prozess ins Stocken gerät. Dazu ist es wichtig, dass der bzw. die Ratsuchende bereit ist, sich auf diese Art der Erinnerungsarbeit einzulassen. Es ist auch wichtig, dass der Berater die Erkenntnisse über die Lebensbedingungen der Zielgruppen hat, um die Methode angemessen anwenden zu können.",
+    "expected": "Wenn der Beratungsprozess ins Stocken gerät, kann die Methode \"Bildungszeitreise\" eingesetzt werden, um durch die Auswahl und Reflexion von Gegenständen neue Anknüpfungspunkte zu schaffen. Dadurch werden Erinnerungen und Emotionen aktiviert, die helfen, interne Ressourcen aufzudecken und Blockaden zu lösen, was den Beratungsprozess wieder in Gang bringen kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "15ba350a81def399818e3f3cce5629bd4c35f38937b3202750cc9f55319cde40",
+        "score": 0.9983021020889282,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 2,
+          "split_id": 3,
+          "split_idx_start": 3632,
+          "_split_overlap": [
+            {
+              "doc_id": "46a38af2426bb06c6e5ed02d1a80e064207c4e4d8df661fba53a29d7b832e10c",
+              "range": [
+                1157,
+                1537
+              ]
+            },
+            {
+              "doc_id": "b79f726451101a4c7fc060322659749ade354752c459257cd100551b957dd597",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "eingesetzt werden könnten, noch, dass ausschließlich diese Methoden für den Einsatz geeignet wären. Vielmehr sollen sie dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie in der Bildungsberatung mit Me-\nthoden gearbeitet werden kann. Dazu gehören auch Methoden, die Grenzen markieren, wie z.B. der Einsatz des Antreiber-Tests (S. 178) in der Bildungs-\nberatung. Die Methoden stammen aus den beiden unterschiedlichen Kontexten, die in der Bildungsberatung aufeinandertreffen: Es handelt sich um abgewandel-\nte Verfahren, die aus der Seminargestaltung der Erwachsenenbildung (z.B. Klotzen S. 156, Bildungszeitreise S. 145, Lebensbaum S. 151) oder aus dem Coaching stammen (z.B. Tetralemma S. 132, Inneres Team S. 140, Netzwerk-\nmethode S. 162). Bei der Beschreibung der Methoden haben wir weitestgehend darauf ver-\nzichtet, sie zugeschnitten auf ein bestimmtes Beratungsformat (sei es die Stu-\ndien-, Karriere- oder Berufsberatung) zu erläutern. Wo dies zum Verstä"
+      },
+      {
+        "rank": 2,
+        "id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+        "score": 0.9961761236190796,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 8,
+          "split_idx_start": 9470,
+          "_split_overlap": [
+            {
+              "doc_id": "c19f20cd37e4b74c2f853b63714c3c5d5545248aaaba84d829715363b8f031bf",
+              "range": [
+                1075,
+                1448
+              ]
+            },
+            {
+              "doc_id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie-\nhen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge-\nklärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar-\nbeiten ermöglichen. Brunner formuliert z. B. Daher wird zunächst der Stellenwert von Methoden und Techniken, von Konzepten und Theorien erläutert und der Stellenwert von Beratungsanläs-\nsen und Inhalten der Beratungsgespräche erörtert. Sie einem Format und Feld zuzuordnen, ist darüber hinaus wichtig, um die Anforderungen im jeweiligen Feld der Beratung einschätzen zu können. Denn zu jedem Beratungsfeld ge-\nhören Wissensbestände, die der Beratung"
+      },
+      {
+        "rank": 3,
+        "id": "5a80a0ffabfcd0d59e18490f553547f8b0e45393d06b254b2b50c25e3d2b3a31",
+        "score": 0.995005190372467,
+        "meta": {
+          "file_path": "1001586-145-150.txt",
+          "source_id": "d11abf571aa9ba6c822328961389fdf701caa3bcf35d3c3197e49130528639a7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1216,
+          "_split_overlap": [
+            {
+              "doc_id": "1bf1db383eb4fcd5ec6ce094ab8d10438725397f2899d093525f2b39e3d92fd2",
+              "range": [
+                1216,
+                1606
+              ]
+            },
+            {
+              "doc_id": "d8a3a6e884766b0afd2f46df83292e413fc046b3f64fcf08dee24b8fa1bae5b0",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "der Prozess ins Stocken gerät. Die Methode eröffnet dann neue Anknüpfungspunkte für den Bera-\ntungsverlauf. Die Idee hat ihren Ursprung in der Methode „Erinnerungskoffer“ (Ruhe 2009: 120f.), die den Schwerpunkt jedoch auf die Erinnerungsarbeit mit alten Menschen legt. Material: Phase/Funktion: Anliegen: Zeit: • Schachtel\n• Gegenstände Rückbesinnung und Reflexion der Bildungs- geschichte Interne Ressourcen auf-\ndecken ab 40 Min. Bildungsblockaden lösen Ablauf der Beratung Vorbereitung: 1. Für die Bildungszeitreise benötigen Sie Gegenstände, die die Ratsuchenden an seine bzw. ihre Bildungsgeschichte erinnern könnten. Die-\nse können zur ansprechenden Präsentation in einer Schachtel bereitgelegt werden. Als Gegenstände für die angesprochene Zielgruppe eignen sich zum einen schulbezogene Gegenstände wie Schulbücher, Arbeitshefte, Zeugnis-\nse, Kreide, Taschenrechner und Malkästen etc., aber auch schulunabhängige Gegenstände wie Comics, Sportauszeichnungen, Handwerkszeug, Küchenu-\ntensilien, "
+      },
+      {
+        "rank": 4,
+        "id": "e98912c4214b70148e74c960b9142e69b5cfcfec10d59893aa97bfcc99275c50",
+        "score": 0.9926378726959229,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 43,
+          "split_id": 76,
+          "split_idx_start": 99295,
+          "_split_overlap": [
+            {
+              "doc_id": "027266e64839930aeebcf6e05e1d834b7ce91939ff0fc1861bb5f45eea57c795",
+              "range": [
+                1375,
+                1852
+              ]
+            },
+            {
+              "doc_id": "32504c1ed2ab357545878fdee1573aa054196668564939dfff0dd9988bbdf94d",
+              "range": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        "content": "Erkenntnisse über die Lebensbedingungen der Zielgruppen. Neben diesem handlungsfeldspezifischen Wissen sind feldunabhängige Bera-\ntungskompetenzen notwendig, welche die Gesprächsführung, den Auf bau einer konstruktiven Beratungsbeziehung und den Einsatz von Beratungs-\nmethoden betreffen. Erst durch das Zusammenwirken dieser Kompetenzen kann Beratung als Kommunikations- und Interaktionsprozess professionell gestaltet werden. Die Autor_innen bezeichnen diese Kombination aus Bera-\ntungs- und Interaktionswissen mit handlungsfeldspezifischem Wissen als »Doppelverortung von Beratung« (Engel et al. 2014, S. 35). Abbildung 11: Doppelverortung von Beratung (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle,\nKontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc.\n2) Handlungsspezifisches Wissen ( Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc.\nQuelle: nach Engel et al. "
+      },
+      {
+        "rank": 5,
+        "id": "980b169ffa36aa076ba29bf494e9288a807d5b7e99e2aec30bb16d325d7e8299",
+        "score": 0.9862404465675354,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1449,
+          "_split_overlap": [
+            {
+              "doc_id": "97dfe47b69ff4e711e45483377ee753a57f58c5a2c736bd171f1c666d5ba5b3f",
+              "range": [
+                1449,
+                1910
+              ]
+            },
+            {
+              "doc_id": "ca0862434d9e33b52618658005402ee9eff7a468b123254b947ea8cc188965fe",
+              "range": [
+                0,
+                420
+              ]
+            }
+          ]
+        },
+        "content": "empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg-\f44 Bildungs- und Berufsberatung in der Migrationsgesellschaft liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor-\nmellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf-\ngabe oder als formales eigenständiges Beratungsangebot beschrieben wer-\nden (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An-\ngebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting k"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-145-150.txt",
+    "question": "Warum ist es wichtig, vor der Anwendung der \"Bildungszeitreise\" die Bereitschaft der Ratsuchenden zur Erinnerungsarbeit zu klären?",
+    "answer": "Um die Bereitschaft der Ratsuchenden zur Erinnerungsarbeit zu klären, ist es wichtig, sich der möglichen Altersbegrenzung und der damit verbundenen Einschränkungen bewusst zu sein. Die Methode kann bei jüngeren Ratsuchenden zu starken Einschränkungen oder sogar zu Abwehrverhalten führen. Daher ist es ratsam, vor der Anwendung der Methode die Bereitschaft der Ratsuchenden zur Erinnerungsarbeit zu klären, um sicherzustellen, dass die Methode effektiv und unterstützend ist.",
+    "expected": "Es ist wichtig, die Bereitschaft der Ratsuchenden zu klären, da die Methode auf emotional begleiteter Erinnerungsarbeit basiert. Nur wenn die Person bereit ist, sich auf diese Art der Reflexion einzulassen, kann die Methode ihre volle Wirkung entfalten und negative Bildungserfahrungen aufgearbeitet werden. Ohne diese Bereitschaft kann die Methode wirkungslos oder sogar kontraproduktiv sein.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "073fd248ad154bfa200202e3697e72693e73574fda9f9cde6487a955ab2be07b",
+        "score": 0.8489314317703247,
+        "meta": {
+          "file_path": "9783847412304-017-032.txt",
+          "source_id": "381ca0766dd21046b8f621aadf64fff8f24e44233671b2594c7152944aba33a1",
+          "page_number": 7,
+          "split_id": 14,
+          "split_idx_start": 17171,
+          "_split_overlap": [
+            {
+              "doc_id": "244443eed6e17a502195c910b59d9e2ace81d2cb396ce2d75ef4eaa078815d26",
+              "range": [
+                1168,
+                1531
+              ]
+            },
+            {
+              "doc_id": "74fa3e63c2c16da381eea6787d0169d53c23b46db846cc49a5d015b32910e21d",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "dem es kaum eine bildungspolitische Emp-\nfehlung gibt, die nicht zum Ausbau der Bildungsberatung rät. Empfehlungen durch mich selbst sehe ich hier mittlerweile selbstkritisch. AES-Daten liefern Irritationen, da der Wunsch nach Information und Beratung in der Bevölke-\nrung abnimmt und bekundet wird, bereits einen guten Überblick zu haben: Abb. 2: Indikatoren zu Beratung im Kontext von Weiterbildung von 1991 bis 2016 (Quelle: Käpplinger/Bilger/Reuter 2018, S. 257) Man sollte sich der tabufreien Diskussion stellen, was Bildungsberatung für das Leben vieler Menschen präzise bedeutet und für wen in welcher Lebens-\f24 Bernd Käpplinger situation sie eine Unterstützungsform sein kann. Beratung sollte nicht als All-\nheilmittel in Transformationsprozessen überschätzt werden oder als kurzfris-\ntiges Interventionsformat längere Lernprozesse ersetzen wollen. Ist Beratung so populär geworden, weil sie verspricht in wenigen Minuten und Stunden Wissen zu vermitteln und Lernerfolge zu zeigen, für die m"
+      },
+      {
+        "rank": 2,
+        "id": "1bf1db383eb4fcd5ec6ce094ab8d10438725397f2899d093525f2b39e3d92fd2",
+        "score": 0.7939248085021973,
+        "meta": {
+          "file_path": "1001586-145-150.txt",
+          "source_id": "d11abf571aa9ba6c822328961389fdf701caa3bcf35d3c3197e49130528639a7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5a80a0ffabfcd0d59e18490f553547f8b0e45393d06b254b2b50c25e3d2b3a31",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "5.5.6 Bildungszeitreise Laura Vöckel und Sally Jack Kurzbeschreibung Bei der Methode „Bildungszeitreise“ liegt der Schwerpunkt auf der biogra-\nphieorientierten Beratung, vor allem für Menschen mit einer negativen Ein-\nstellung zu Lern- und Bildungsprozessen. Die Methode nutzt eine Sammlung verschiedener Alltagsgegenstände, die die ratsuchende Person an seine bzw. ihre Bildungsgeschichte erinnern könnten. Dabei sollten sowohl schulbezoge-\nne als auch schulunabhängige Gegenstände, wie Sportauszeichnungen oder Handwerkszeug bereitgestellt werden. Die bzw. der Ratsuchende hat die Auf-\ngabe, Gegenstände auszuwählen, mit denen sie oder er Erinnerungen assozi-\niert. Daraufhin werden die Hintergründe der Assoziation vertieft. Es handelt sich um eine ganzheitliche Methode, die mehrere Sinne anspricht. Die Methode zielt darauf ab, negative Bildungserfahrungen als innere Barrieren, die einer Weiterqualifizierung der Ratsuchenden im Weg stehen, abzubauen. Sie kann eingesetzt werden, um den Ratsuch"
+      },
+      {
+        "rank": 3,
+        "id": "6947cbc1aac103ea99a44a68478e098754f24bea0781388f2af7d4c0ea36abc1",
+        "score": 0.7222671508789062,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 15,
+          "split_id": 25,
+          "split_idx_start": 32696,
+          "_split_overlap": [
+            {
+              "doc_id": "1f30e17b6e60e466540b89c5f96c0c24583ba8e5695f5206d790d88fd12bac0f",
+              "range": [
+                1518,
+                1902
+              ]
+            },
+            {
+              "doc_id": "b6131871ace310556c8bca1055e6b5eea3e077ba82ce353390e4a3eab9278d9f",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "und Arbeitswelt (vgl. ebd.: 211). Das FSJ bietet jungen Menschen einen „weichen“ Übergang zwischen Schule, Ausbildung und Beruf (vgl. BMFSFJ 2015: 24), der sowohl der persönlichen und beruflichen Orientierung als auch der Übernahme gesellschaftlicher Ver-\nantwortung dienen soll (vgl. ebd.: 25). Zur Unterstützung dieser Bildungsziele ist die pädagogische Begleitung der Freiwilligen gesetzlich vorgeschrieben, die zuvorderst von den Bildungsreferent*innen der FSJ-Träger verantwortet wird (vgl. ebd.: 283). Inwieweit Beratung für die Bildungsreferent*innen in der pädagogi-\nschen Begleitung der Freiwilligen eine Rolle spielt, ist die übergeordnete Fragestellung eines Dissertationsprojektes an der WWU Münster. Es exis-\ntiert allerdings ein großes Forschungsdesiderat zum Thema Beratung in der Außerschulischen Jugendbildung (AJB) allgemein und speziell in ihrem Handlungsfeld des FSJ. Der bald 15 Jahre alte von Ziemons (2004) konsta-\ntierte (Miss-)Stand, dass es grundlegend an einem Verständnis "
+      },
+      {
+        "rank": 4,
+        "id": "2ddb3978a218b1849ae8a1394ed6c90272def3b6f4d44caa070dc27d92a82f31",
+        "score": 0.6349811553955078,
+        "meta": {
+          "file_path": "1001586-145-150.txt",
+          "source_id": "d11abf571aa9ba6c822328961389fdf701caa3bcf35d3c3197e49130528639a7",
+          "page_number": 2,
+          "split_id": 3,
+          "split_idx_start": 3590,
+          "_split_overlap": [
+            {
+              "doc_id": "d8a3a6e884766b0afd2f46df83292e413fc046b3f64fcf08dee24b8fa1bae5b0",
+              "range": [
+                1094,
+                1470
+              ]
+            },
+            {
+              "doc_id": "621218989ddf67fcbc1a714771818041b86f5f1a8f915e0e7b2ac8c48b47f072",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "in den Vordergrund zu stellen, da dieser zu starken Einschränkungen bei der Assoziation oder sogar zu Ab-\nwehrverhalten führen kann. Sobald sich die oder der Ratsuchende Gegenstände ausgesucht hat, müssen diese nach ersten oberflächlichen Assoziationen hinsichtlich Tiefe und Bedeutung selektiert werden. Häufig wählt die bzw. der Ratsuchende Gegenstände mit positiver, nicht zwingend bildungsbezogener Assoziation. Aus diesem Grund haben Sie als Berater die Aufgabe den Bildungsbezug der Methode beizubehalten, indem Sie die Assoziationen herausfiltern, die eine bildungsgeschichtliche Prägung aufdecken könnten und gezielt nach-\nzufragen, sowie zur Reflexion anregen. Auch hier sollten Sie darauf achten, dass der Begriff „Bildung“ möglicherweise sehr negativ behaftet ist und zu Abwehrreaktionen und inneren Widerständen führen kann, die den Bera-\ntungs- und Reflexionsprozess behindern können. Um dies zu umgehen, ist eine gefühlvolle und vorsichtige Annäherung an das Thema gefragt. Dabei sollte"
+      },
+      {
+        "rank": 5,
+        "id": "4fd4a447d3ebfbb94f2581aba09a9fafb0ac142f302e313500e373858a4728c9",
+        "score": 0.6136654019355774,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 20,
+          "split_id": 44,
+          "split_idx_start": 52765,
+          "_split_overlap": [
+            {
+              "doc_id": "14e1750b895b23c68c0e0c3e3230312ea365a8899c5a4391306d5ed0a424e89e",
+              "range": [
+                1246,
+                1663
+              ]
+            },
+            {
+              "doc_id": "c9949d2eb670033fc15c64900bd1e50bd2a34fa0bf5437b8146a9f1fe5161929",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "Bildungsberatung eine not-\nwendige Ergänzung zu einem gesamtgesellschaftlichen Umgang mit den Herausforderungen der Globalisierung dar und zeigt, wie wichtig die Pro-\nfessionalisierung in diesem Bereich wird. Ratsuchende, die Beratung für sich nutzen und Zugang dazu erhalten, erschließen sich damit ein breites Lern-\nangebot. Jede positive Beratungserfahrung steigert letztlich also auch die Selbstlernkompetenz auf Seiten der Ratsuchenden, um mit Übergängen und Veränderungsprozessen wirksam umgehen zu können. 36 2 Hintergründe von Beratungsprozessen\f2.4 Zusammenfassung Anne Schlüter Hintergründe von Beratungsprozessen sind die Einbindung in Theorien, die den Gegenstand Beratung erzeugen, die Kontextualisierung der Biographisie-\nrung als Sinnkategorie und die Einbindung in ein professionelles Feld, das die Auswahl der Inhalte von Beratungsgesprächen dominiert. Beraterinnen und Berater werden sich in der Praxis mit Ratsuchenden kaum über theoretische Ansätze unterhalten. Ratsuchende nehmen"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-145-150.txt",
+    "question": "Wie verbindet die Methode \"Bildungszeitreise\" biografieorientierte Beratung mit der Aktivierung mehrerer Sinne, und welchen Nutzen hat dies für den Beratungsprozess?",
+    "answer": "Die Methode \"Bildungszeitreise\" verbindet biografieorientierte Beratung mit der Aktivierung mehrerer Sinne, indem sie eine Sammlung verschiedener Alltagsgegenstände verwendet, die die Ratsuchende an seine bzw. ihre Bildungsgeschichte erinnern könnten. Durch die Auswahl und Präsentation dieser Gegenstände in einer Schachtel, wird der Prozess der Rückbesinnung und Reflexion der Bildungs- geschichte angeregt. Die Aktivierung mehrerer Sinne hat den Nutzen, dass die Methode eine ganzheitliche und emotionale Dimension der Bildungserfahrung anspricht und so negative Bildungserfahrungen als innere Barrieren abzubauen hilft. Durch die Verbindung von biografieorientierter Beratung mit der Aktivierung mehrerer Sinne, wird der Beratungsprozess zu einer persönlichen und individuellen Erfahrung für die Ratsuchende. \nDie Antwort auf die Frage kann in den folgenden Absätzen im Text gefunden werden:\n- \"Die Methode nutzt eine Sammlung verschiedener Alltagsgegenstände, die die ratsuchende Person an seine bzw. ihre Bildungsgeschichte erinnern könnten.\"\n- \"Die bzw. der Ratsuchende hat die Aufgabe, Gegenstände auszuwählen, mit denen sie oder er Erinnerungen assoziieren.\"\n- \"Es handelt sich um eine ganzheitliche Methode, die mehrere Sinne anspricht.\"\n- \"Die Methode zielt darauf ab, negative Bildungserfahrungen als innere Barrieren, die einer Weiterqualifizierung der Ratsuchenden im Weg stehen, abzubauen.\"",
+    "expected": "Die Methode \"Bildungszeitreise\" nutzt eine Sammlung von Alltagsgegenständen, die über das bloße Erinnern hinaus mehrere Sinne ansprechen, zum Beispiel durch das Betrachten, Anfassen oder sogar Riechen der Gegenstände. Diese ganzheitliche sinnliche Erfahrung unterstützt die biografieorientierte Beratung, indem sie emotional begleitete Assoziationen hervorruft und somit tiefere Reflexionen der eigenen Bildungsgeschichte ermöglicht. Dies hilft, innere Barrieren abzubauen und neue Perspektiven zu entwickeln, was den Beratungsprozess bereichert und fördert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1bf1db383eb4fcd5ec6ce094ab8d10438725397f2899d093525f2b39e3d92fd2",
+        "score": 0.9955908060073853,
+        "meta": {
+          "file_path": "1001586-145-150.txt",
+          "source_id": "d11abf571aa9ba6c822328961389fdf701caa3bcf35d3c3197e49130528639a7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5a80a0ffabfcd0d59e18490f553547f8b0e45393d06b254b2b50c25e3d2b3a31",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "5.5.6 Bildungszeitreise Laura Vöckel und Sally Jack Kurzbeschreibung Bei der Methode „Bildungszeitreise“ liegt der Schwerpunkt auf der biogra-\nphieorientierten Beratung, vor allem für Menschen mit einer negativen Ein-\nstellung zu Lern- und Bildungsprozessen. Die Methode nutzt eine Sammlung verschiedener Alltagsgegenstände, die die ratsuchende Person an seine bzw. ihre Bildungsgeschichte erinnern könnten. Dabei sollten sowohl schulbezoge-\nne als auch schulunabhängige Gegenstände, wie Sportauszeichnungen oder Handwerkszeug bereitgestellt werden. Die bzw. der Ratsuchende hat die Auf-\ngabe, Gegenstände auszuwählen, mit denen sie oder er Erinnerungen assozi-\niert. Daraufhin werden die Hintergründe der Assoziation vertieft. Es handelt sich um eine ganzheitliche Methode, die mehrere Sinne anspricht. Die Methode zielt darauf ab, negative Bildungserfahrungen als innere Barrieren, die einer Weiterqualifizierung der Ratsuchenden im Weg stehen, abzubauen. Sie kann eingesetzt werden, um den Ratsuch"
+      },
+      {
+        "rank": 2,
+        "id": "4fd4a447d3ebfbb94f2581aba09a9fafb0ac142f302e313500e373858a4728c9",
+        "score": 0.9332169890403748,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 20,
+          "split_id": 44,
+          "split_idx_start": 52765,
+          "_split_overlap": [
+            {
+              "doc_id": "14e1750b895b23c68c0e0c3e3230312ea365a8899c5a4391306d5ed0a424e89e",
+              "range": [
+                1246,
+                1663
+              ]
+            },
+            {
+              "doc_id": "c9949d2eb670033fc15c64900bd1e50bd2a34fa0bf5437b8146a9f1fe5161929",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "Bildungsberatung eine not-\nwendige Ergänzung zu einem gesamtgesellschaftlichen Umgang mit den Herausforderungen der Globalisierung dar und zeigt, wie wichtig die Pro-\nfessionalisierung in diesem Bereich wird. Ratsuchende, die Beratung für sich nutzen und Zugang dazu erhalten, erschließen sich damit ein breites Lern-\nangebot. Jede positive Beratungserfahrung steigert letztlich also auch die Selbstlernkompetenz auf Seiten der Ratsuchenden, um mit Übergängen und Veränderungsprozessen wirksam umgehen zu können. 36 2 Hintergründe von Beratungsprozessen\f2.4 Zusammenfassung Anne Schlüter Hintergründe von Beratungsprozessen sind die Einbindung in Theorien, die den Gegenstand Beratung erzeugen, die Kontextualisierung der Biographisie-\nrung als Sinnkategorie und die Einbindung in ein professionelles Feld, das die Auswahl der Inhalte von Beratungsgesprächen dominiert. Beraterinnen und Berater werden sich in der Praxis mit Ratsuchenden kaum über theoretische Ansätze unterhalten. Ratsuchende nehmen"
+      },
+      {
+        "rank": 3,
+        "id": "b9d4be765f9390b1580e57436700b44ef3ad6c8e235ebd5e0a9065d0d4d49f03",
+        "score": 0.9286587834358215,
+        "meta": {
+          "file_path": "1001586-005-006.txt",
+          "source_id": "909b2961af75875cc1c508eaa9e5ba917bac9244238dea21fc7171f88f7a4809",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "67a894c28ac3d577dadc39ba0d7d4aa921c44338cd7bb9ab997aaa371f4ff5bf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Vorwort Diese Publikation „Methoden und Techniken der Bildungsberatung“ ist von uns Herausgeberinnen als Lehrbuch für Studierende konzipiert worden. Eine zusätzliche Motivation fanden wir darin, dass bisher noch kein eigener Metho-\ndenband für die Bildungsberatung vorlag. Wir freuen uns daher, wenn auch Beraterinnen und Berater in der Praxis in diesem Band eine Unterstützung sehen. Die Komplexität von Beratungsprozessen im Feld der Bildungsberatung zu verdeutlichen, ist ein wichtiges Anliegen dieses Buches. Theorie und Pra-\nxis aufeinander zu beziehen, indem insbesondere Methoden und Techniken und ihre jeweiligen Hintergründe verdeutlicht werden, waren Ausgangspunkt unserer Überlegungen. Dafür wurden nicht allein Wissenschaftlerinnen und Praktikerinnen aus dem Beruf eingeladen, mitzumachen, sondern auch Stu-\ndierende, die Beratung lernen. Der Part der Studierenden bezog sich auf die Übernahme einer einzelnen Methode. Das Ausprobieren von Methoden und Techniken und die Reflexion im Semi"
+      },
+      {
+        "rank": 4,
+        "id": "5a80a0ffabfcd0d59e18490f553547f8b0e45393d06b254b2b50c25e3d2b3a31",
+        "score": 0.9218984246253967,
+        "meta": {
+          "file_path": "1001586-145-150.txt",
+          "source_id": "d11abf571aa9ba6c822328961389fdf701caa3bcf35d3c3197e49130528639a7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1216,
+          "_split_overlap": [
+            {
+              "doc_id": "1bf1db383eb4fcd5ec6ce094ab8d10438725397f2899d093525f2b39e3d92fd2",
+              "range": [
+                1216,
+                1606
+              ]
+            },
+            {
+              "doc_id": "d8a3a6e884766b0afd2f46df83292e413fc046b3f64fcf08dee24b8fa1bae5b0",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "der Prozess ins Stocken gerät. Die Methode eröffnet dann neue Anknüpfungspunkte für den Bera-\ntungsverlauf. Die Idee hat ihren Ursprung in der Methode „Erinnerungskoffer“ (Ruhe 2009: 120f.), die den Schwerpunkt jedoch auf die Erinnerungsarbeit mit alten Menschen legt. Material: Phase/Funktion: Anliegen: Zeit: • Schachtel\n• Gegenstände Rückbesinnung und Reflexion der Bildungs- geschichte Interne Ressourcen auf-\ndecken ab 40 Min. Bildungsblockaden lösen Ablauf der Beratung Vorbereitung: 1. Für die Bildungszeitreise benötigen Sie Gegenstände, die die Ratsuchenden an seine bzw. ihre Bildungsgeschichte erinnern könnten. Die-\nse können zur ansprechenden Präsentation in einer Schachtel bereitgelegt werden. Als Gegenstände für die angesprochene Zielgruppe eignen sich zum einen schulbezogene Gegenstände wie Schulbücher, Arbeitshefte, Zeugnis-\nse, Kreide, Taschenrechner und Malkästen etc., aber auch schulunabhängige Gegenstände wie Comics, Sportauszeichnungen, Handwerkszeug, Küchenu-\ntensilien, "
+      },
+      {
+        "rank": 5,
+        "id": "b2407410e42222ef6a13015d8a99f628dc6e6270fa953b7e79047f7ad18d7aea",
+        "score": 0.8957827687263489,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 7,
+          "split_id": 15,
+          "split_idx_start": 16960,
+          "_split_overlap": [
+            {
+              "doc_id": "ccf1cb73ab8e8ba59f3133679f2314eff2be432c46eb0295c1fca0ef6b64905d",
+              "range": [
+                1197,
+                1609
+              ]
+            },
+            {
+              "doc_id": "6f6295ca76435e7d77fba7fe22ddb70af1d98ea7a10f45693b34d20196446984",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "unterschiedlichen Beratungs-\nInterven- ansätze.\ntion Im Unterschied zu Beratungstechniken bezeichnet der Begriff das konkrete, situative Beratungshandeln.\n3.2 Beziehung und Beziehungsarbeit Nicole Justen Wenn von Methoden und Techniken innerhalb der Bildungsberatung die Rede ist, darf nicht vergessen werden, dass die beste methodische Kompetenz der Beratenden nicht zum Erfolg führen kann, wenn nicht auch die Beziehung zwischen ratsuchender und beratender Person für beide Seiten als zugewandt und förderlich erlebt wird. In der Beratungsliteratur wird immer wieder be-\ntont, dass die Beratungsbeziehung, insbesondere von den Ratsuchenden, als das Element angesehen wird, von dem die positive oder negative Bewertung einer Beratungssituation oder eines Beratungsprozesses abhängig gemacht wird (vgl. bspw. Fuhr 2003: 32ff.; Nestmann 2004: 791; Nollmann 2010: 41f.; Schlüter 2014: 8). Die Person der Beratenden und deren soziale und persön-\nliche Kompetenzen spielen mithin eine tragende Rolle für "
+      }
+    ]
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "filename": "1001586-172-177.txt",
+    "question": "Was ist ein Selbsttest im Kontext der beruflichen Beratung und wozu dient er?",
+    "answer": "I cannot find the information about the purpose of a Selbsttest in the provided context. However, it is mentioned that Beratungskompetenz in Pflege und Betreuung reicht nicht nur aus mit pflegewissenschaftlichem Wissen kombiniert mit beruflicher Praxis, sondern auch die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheoretische Fundierung und beratungsdiagnostische sowie beratungsinterventorische Kenntnisse spielen eine wesentliche Rolle. Es wird auch erwähnt, dass Beratung \"eigens gelernt werden\" muss und das Lernen alle Achsen miteinander in ihrer Wirkung entfalten sollte.  Es wird auch erwähnt, dass die Beraterin oder der Berater hilfreich ist, wenn sie/er die Klientin oder den Klienten hilft, Gedanken und Gefühle zu klären, Selbstreflektion und Selbstprüfung anregt, Hoffnung und Zuversicht stärkt, allgemeine Unterstützung anbietet und Ermutigung gibt und auf aktuelle Sorgen und Ereignisse fokussiert. \n\n        Es ist jedoch nicht klar, was ein Selbsttest im Kontext der beruflichen Beratung ist oder wozu er dient. Es ist möglich, dass ein Selbsttest ein Instrument ist, das dazu dient, die Selbstreflexion und die beratungstheoretische Fundierung zu fördern und die beratungsdiagnostischen und beratungsinterventorischen Kenntnisse zu verbessern. \n\n        Es ist jedoch nicht möglich, eine genauere Antwort zu geben, da die Information nicht im bereitgestellten Text enthalten ist.  Es ist jedoch möglich, dass ein Selbsttest ein Instrument ist, das dazu dient, die Selbstreflexion und die beratungstheoretische Fundierung zu fördern und die beratungsdiagnostischen und beratungsinterventorischen Kenntnisse zu verbessern. \n        Es ist jedoch nicht möglich, eine genauere Antwort zu geben, da die Information nicht im bereitgestellten Text enthalten ist. \n        Es ist jedoch möglich, dass ein Selbsttest ein Instrument ist, das dazu dient, die Selbstreflexion und die beratungstheoretische Fund",
+    "expected": "Ein Selbsttest ist ein Fragebogen, den die Ratsuchenden selbst ausfüllen, um ihre besonderen Fähigkeiten, Motive und persönlichen Werthaltungen zu reflektieren. Er dient als Orientierungshilfe für Laufbahnentscheidungen und erleichtert durch die Reflexion den Entscheidungsprozess.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "eb1b3ba5c285e66b1db00a5efb0e21c23febbdfb71c27578ed06338f96a39638",
+        "score": 0.9772896766662598,
+        "meta": {
+          "file_path": "9783866496811-098-147.txt",
+          "source_id": "2fb3e5fc0eec8b84a32268e4710418d6a7fbcd5830c45793929a76f4aa8593ee",
+          "page_number": 38,
+          "split_id": 74,
+          "split_idx_start": 89989,
+          "_split_overlap": [
+            {
+              "doc_id": "30315a97238e326182ae33dd55d2407787120f42cd75ee61e8079fca7afa5a89",
+              "range": [
+                1283,
+                1674
+              ]
+            },
+            {
+              "doc_id": "c3d10e23150e61d638c4beea8f02679f59c988fd80549a381fa8f882fb8ed068",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "der Suche nach Ressourcen und weiteren Möglichkeiten. Sie Selbstverantwortung der Bera-\ntungs-suchenden Person wird am Ende der Beratung thematisiert, blinde Flecken im Prozess werden mittels der Perspektive der Beratung-gebenden thematisiert. Beratung als Prozess verstanden, stellt von seiner Bedeutung her die Aushandlungsprozesse in der Beratung stärker in den Blick. Damit wer-\nden die Beteiligten wesentlichen Einfluss auf die Ergebnisse des 134\fgemeinsamen Prozesses haben. So weiß weder der Beratung-Gebende noch der Beratung-Suchende genau, was am Ende des Prozesses sein wird. In jeder neuen Begegnung werden beide gefordert sein, sich immer wieder neu auf-\neinander zu beziehen und die Auftragsklärung miteinander immer wieder aktualisiert zu vollziehen. Zum Anfang des gesamten Prozesses ist an dem Auftrag vertieft zu arbeiten, der dann für mehrere Beratungsstunden hand-\nlungsleitend sein wird. Es kann aber auch vereinbart werden, gar keinen festen Auftrag am Anfang zu formulieren, so"
+      },
+      {
+        "rank": 2,
+        "id": "91aa2313c19829cee8d8e23bb5197fb5a08f667b81f15a3070cd576599aacacd",
+        "score": 0.9771102666854858,
+        "meta": {
+          "file_path": "9783866496811-072-097.txt",
+          "source_id": "e4041675176fbacce2245254f79d637eeda350caf0bc23b4931c81076d58da44",
+          "page_number": 19,
+          "split_id": 29,
+          "split_idx_start": 37135,
+          "_split_overlap": [
+            {
+              "doc_id": "b431addfb9823abd27d442168cc5ae95fc4d18bf205de50ec9ed7f4b78f6019a",
+              "range": [
+                1334,
+                1778
+              ]
+            },
+            {
+              "doc_id": "4174d651e825a1fe59314c8fc94eaebdae34e078b3b4b286ad51e739c4a9b54f",
+              "range": [
+                0,
+                314
+              ]
+            }
+          ]
+        },
+        "content": "als Kompetenzgrundlage noch nicht aus ! Die didaktischen Lern-Konstruktionen für das Erlernen der Beratungskompe-\ntenz sind demzufolge kritisch zu prüfen und zu erweitern. Für die Beratungskompetenz in Pflege und Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore-\ntische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento-\nrische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten. 89\f4.7. Ein kleiner Exkurs: Über das Sorgen – Versorgen – Umsorgt sein und deren Relevanz für Beratung in der Pflege Diese Begrifflichkeit wirkt auf den ersten Blick sperrig und in Sozialer Ar-\nbeit, in Pflege und Beratung keinesfalls von selbst verständlich. Wenn -soziologisch betrachtet- Famil"
+      },
+      {
+        "rank": 3,
+        "id": "9585985a14656175352f7ccc572ce0cbad186d0400946191c4d24f3c40d2bc27",
+        "score": 0.9704141020774841,
+        "meta": {
+          "file_path": "9783839444856-222-227.txt",
+          "source_id": "f15afd517a23d5fc00b2be93ece99462f426f5fd5fc8fa6de2a5cb1709c94c0c",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "56d63feb3575d2fdcb1f599741722077c0702d1905f1e3e44ece3d929de00827",
+              "range": [
+                1281,
+                1728
+              ]
+            },
+            {
+              "doc_id": "7368a323b7a402e95d067585efbce71ea204c09f63cea40727ba3c24134a53bb",
+              "range": [
+                0,
+                479
+              ]
+            }
+          ]
+        },
+        "content": "stellt ein charakteristisches Merkmal von Beratung im Bereich Bildung und Beruf dar, für die es keine einheitliche Ausbildung und keine geregelten Zugänge gibt. Auffällig ist, dass als Einstellungskriterien in allen Expert_inneninterviews (sozial-)pädagogische Qualifikationen hervorgeho-\nben werden, während die Frage nach einem pädagogischen Beratungsver-\nständnis sehr unterschiedlich beantwortet wird. Nur sehr wenige Interview-\npartner_innen ordnen ihre Tätigkeit einer »pädagogischen Beratung« zu. Stattdessen bevorzugen sie mehrheitlich auch hier den Begriff einer Fach-\nberatung. Wenn die interviewten Personen jedoch ihre Beratungspraxis beschreiben und begründen, dann zeigen sich bei der damit verbundenen Haltung und den Merkmalen von Beratung Übereinstimmungen mit dem auf theoretischer Ebene dargestellten pädagogischen Beratungsverständnis. Eine pädagogische Qualifikation wird dabei nicht nur mit Kompetenzen in Bezug auf die Gestaltung des Beratungsprozesses und die Entwicklung des "
+      },
+      {
+        "rank": 4,
+        "id": "e35bbabf7a40ace830dd8c90d2626bdfe229cc50cb24f6f16ce38073a3c3361b",
+        "score": 0.9650408625602722,
+        "meta": {
+          "file_path": "9783866496811-018-025.txt",
+          "source_id": "35cc4673771b046fe0fe14e914ed6143a16eca4ab8a26be55e633830ee184922",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "6a2fbde948ac038cb70dad8dfa41075b2da1d2a56242d68ceedce8931333d059",
+              "range": [
+                1184,
+                1589
+              ]
+            },
+            {
+              "doc_id": "372a0439c04d6aefcabb696e918fd25d5d6205458fae090a323f652e6f697e14",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Beratung im Alter 2. Beratung von/ für Frauen/ Männern – Geschlecht 3. Multikulturelle/ interkulturelle Beratung 4. Aids-Beratung 5. Öko-Beratung 6. Beratung und Gesundheit/ Wellness Diese Felder ergänzten die etablierten bildungs-berufsbezogenen und psycho-\nsozial-gesundheitlichen Bereiche (Nestmann 1994:165). Die Abgrenzung von Beratung und Therapie, von Beratung und Bildung und die Suche nach einer eigenen Identität prägt derzeit das Feld der Beratung. So halten 80% der befragten Beratungspraktikerinnen bei einer Untersuchung die BeraterIn für optimal hilfreich, der/die: - Klienten hilft, Gedanken und Gefühle zu klären, - Selbstreflektion und Selbstprüfung anregt, - Hoffnung und Zuversicht stärkt, - - Generelle Unterstützung anbietet und Ermutigung gibt, - auf aktuelle Sorgen und Ereignisse fokussiert, verbal die geeigneten Veränderungen beim Klienten bekräftigt. In einer späteren Untersuchung (Mahoney 1991) schätzen praktisch tätige Beratungspsychologinnen die Betroffenheit möglich"
+      },
+      {
+        "rank": 5,
+        "id": "90159685fa7ae22a8c5eba255614d1675b16f3cbff71a862bfbdfe0b4f5ccc09",
+        "score": 0.9453918933868408,
+        "meta": {
+          "file_path": "9783866496811-098-147.txt",
+          "source_id": "2fb3e5fc0eec8b84a32268e4710418d6a7fbcd5830c45793929a76f4aa8593ee",
+          "page_number": 47,
+          "split_id": 90,
+          "split_idx_start": 108838,
+          "_split_overlap": [
+            {
+              "doc_id": "af6a09d179a3fbf443a105c9f0dd70fb29c0bdec0d978d56dffd9b859ea141b7",
+              "range": [
+                1240,
+                1619
+              ]
+            },
+            {
+              "doc_id": "7d7d8e6271b58c0efa6bb513ccb7562afddc68902c8ad74c8ab9568131fb2d6a",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "in besonderer Weise diese einzigartigen Begegnungen verdeutlichen kann, ist der Besuch. Freunde/Freundinnen besuchen sich. Gastgeber und Gast haben sich auf diesen Besuch vorbereitet und den Raum und die Zeit für die Begegnung miteinander abgestimmt und vereinbart. Die bereitgestellten und mitgebrach-\nten Gaben drücken die gegenseitige Wertschätzung aus und schaffen dazu eine angenehme Atmosphäre. Beratung als dialogisch ausgerichtete Unterstützung muss allerdings gewollt sein. Dann kann sie Orientierung bieten, Komplexität reduzieren, verflüssi-\ngen, Reflexionsräume schaffen, die Wahrnehmungen der Personen, Gruppen und die der Organisation erweitern helfen und bei der Suche nach hilfreichen Lösungen unterstützen. Die Rückbindung an die gemeinsame Wirklichkeit im Handlungsfeld der Praxisbegleitung scheint in besonderer Weise geeignet zu sein, systemische Beratungsprozesse zu gestalten. Hier begegnen sich Praxisanleiter, Lernen-\nder, Lehrender. Anlässe können sich aus Pflege-, Unterrich"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-172-177.txt",
+    "question": "Warum wird empfohlen, den Selbsttest vor dem Beratungsgespräch selbst einmal durchzuführen?",
+    "answer": "Ein großer Zeitdruck zur Erreichung der Ziele führt zu einer unzureichenden Selbstreflexion. In den Fällen, in denen die BeraterInnen einen Zeitdruck verspürten, wurden die KlientInnen in der Klärungsphase nicht genügend Zeit zugestanden. In anderen Phasen der Beratung wurden die Gespräche jedoch stärker strukturiert. Der Zeitmangel führte außerdem dazu, dass die BeraterInnen aufwendigere Beratungsmethoden nicht einsetzen konnten. Daher wird empfohlen, den Selbsttest vor dem Beratungsgespräch selbst einmal durchzuführen, um sich auf die Beratung vorzubereiten und sicherzustellen, dass man genügend Zeit für die Selbstreflexion hat.",
+    "expected": "Es wird empfohlen, den Test selbst durchzuführen, um ein besseres Verständnis über dessen Umfang, Struktur und einzelne Items zu erhalten. So kann der Berater oder die Beraterin besser einschätzen, an welchen Stellen der Ratsuchende eventuell Schwierigkeiten haben könnte und welche Hilfestellung notwendig ist.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "645ee384803880da3fa4081be84780903e5c30c38e9056496a4d37082721327d",
+        "score": 0.9688382148742676,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt",
+          "source_id": "2f003a9f1868a99b4c2da95595ea2af8d8a4f82a7ce62ff83b388833275b9c00",
+          "page_number": 8,
+          "split_id": 15,
+          "split_idx_start": 19381,
+          "_split_overlap": [
+            {
+              "doc_id": "9b29eb1a42a0e3089fa4c8f3c8f14b1cac634756bc06dde1c43aa6cba252b17f",
+              "range": [
+                1273,
+                1668
+              ]
+            },
+            {
+              "doc_id": "a8e02c5a4bfa68f1b9db424153de19be2c9023f6d45803d30849a4f65ba3c848",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "diese monokausal auf die eigenen Beratungsinterven-\ntionen zurückgeführt. Dies wird in einigen Fällen durchaus selbstkritisch bewertet: „Beim Ende der einzelnen Beratungsgespräche muss ich verstärkt darauf achten, den Prozess besser gemeinsam mit dem/der Ratsuchenden zu reflektieren. [...] Darü-\nber hinaus scheint mir das wichtig zu sein, um ein Feedback für meine Beratungsarbeit einzuholen“ (Fallreflexion 6, Z. 232-237). Misslingende Interventionen als reflexive Lernanlässe Während die Beratungsergebnisse in den Reflexio-\nnen insgesamt positiv dargestellt werden, werden einzelne, weniger gelungene Aspekte der Gesprä-\nche in den Reflexionen explizit zu Lernanlässen. Dabei zeigt sich in mehreren Fällen, dass die zur Verfügung stehende Zeit für die Beratungsprozesse häufig als zu knapp empfunden wird. So müsse man den KlientInnen gerade in der Klärungsphase ge-\nnügend Zeit zugestehen, in anderen Phasen jedoch die Gespräche stärker strukturieren. Der Zeitman-\ngel führe außerdem dazu, dass"
+      },
+      {
+        "rank": 2,
+        "id": "1c2a412c3827d0b81c2d2450f15f583b704f78116f9f452655e57257b09cd903",
+        "score": 0.9448015093803406,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt",
+          "source_id": "2f003a9f1868a99b4c2da95595ea2af8d8a4f82a7ce62ff83b388833275b9c00",
+          "page_number": 9,
+          "split_id": 19,
+          "split_idx_start": 24240,
+          "_split_overlap": [
+            {
+              "doc_id": "dcbce901cbb597452abb4fa0e5e7c335f597efc23ab710f7c4116ed44c152872",
+              "range": [
+                1300,
+                1703
+              ]
+            },
+            {
+              "doc_id": "eb4d2f2326ba5fb11f47a747f6d6be69d52e5396ed1c402183111bf826a7443c",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "empfunden werden. Insgesamt wird deutlich, dass die Fallreflexionen als Beobachtungen II. Ordnung für eine selbstre-\nflexive Auseinandersetzung genutzt werden und Lernanlässe enthalten. Aufgrund der persönlichen Involviertheit der BeraterInnen können damit eigene „blinde Flecken“ jedoch nur relativ schwer identifiziert werden (vgl. Goeze 2010, S. 137). Ziel-\nführend wäre es u.E., Beratungen z.B. auf Tonband aufzuzeichnen, um sie in Fortbildungen als Lern-\ngegenstände zu verwenden. Solche „diskursanaly-\ntischen Trainings“ werden bereits eingesetzt, um sowohl kommunikative, organisationsbezogene als auch selbstreflexive Kompetenzen in unterschiedli-\nchen professionellen Handlungsfeldern zu fördern (siehe Becker-Mrotzek/Brünner 2002). Dabei können die anderen FortbildungsteilnehmerInnen ähnlich wie in Interpretationswerkstätten eingebunden wer-\nden (siehe Nittel 1998), um die BeraterInnen mit ggf. abweichenden Sichtweisen zu konfrontieren. Dar-\nüber hinaus können die anderen TeilnehmerInn"
+      },
+      {
+        "rank": 3,
+        "id": "fda663632d21e1006544f5937d20a1e2d447798729fa9f4e320d494150463979",
+        "score": 0.8808162808418274,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 28,
+          "split_id": 48,
+          "split_idx_start": 59332,
+          "_split_overlap": [
+            {
+              "doc_id": "acef0a4b046e6ad43aa446ce7d3820073a0af7266d8c0bd812b00d962be3625d",
+              "range": [
+                1312,
+                1685
+              ]
+            },
+            {
+              "doc_id": "78f2dc5aa221ae071e9faa1436bef5547409185ac533a7b54a79bd1c3978815d",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "Für Stefanie Duttweiler ist die Selbstbestimmung das zentrale Moment in der Beratung, welche mit der Frage der Selbstkonstituierung des Subjekts in Ver-\nbindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjekti-\nvierung, die sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt (vgl. dies. 2007, S. 262). Be-\nratung ist dabei ein Knotenpunkt im Netz aus Selbst- und Fremdführungs-\nformen, erstens auf der Ebene der Beratung als institutioneller Einrichtung, zweitens als Interaktions- und Kommunikationsform, aber drittens auch in der Rolle der Berater/innen. In den drei Ebenen spiegeln sich die Interde-\npendenzen aus Fremd- und Selbstführungen; Führende werden zu Geführ-\nten und vice versa. Dies gilt gerade für die professionelle Beziehung Berater/\nin–Ratsuchende/r. Damit wird die Frage der Selbstbestimmung erneut zum Ausgangspunkt, denn „Selbstbestimmung ist Instrument und E(cid:3445)ekt von Be- 1 Dies zeigt sich bei"
+      },
+      {
+        "rank": 4,
+        "id": "514484931127e3e331cd76715f4f44288b8659cbc9a4fccf5e7f4c5123a36608",
+        "score": 0.7052148580551147,
+        "meta": {
+          "file_path": "9783847412304-129-180.txt",
+          "source_id": "a552771cf1a4f5dfa3b9da300d101a1da2157deec1a617bbc06888db07eeba93",
+          "page_number": 9,
+          "split_id": 10,
+          "split_idx_start": 12906,
+          "_split_overlap": [
+            {
+              "doc_id": "2ebdc18c687f76cb67967bc2a88e40562403bc9e55732d24f161a2f71696bd16",
+              "range": [
+                1381,
+                1828
+              ]
+            },
+            {
+              "doc_id": "571132f699f65e5dd947900c4157a754398e72ffc1c96650464c3750304b50c2",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "Bewertung der Einschätzung fremden beraterischen Handelns etwas über die Beratungskompetenzen der Einschätzenden aussagen zu können. Insbe-\nsondere wird die Wahrnehmungsfähigkeit der Person bzgl. des beraterischen Handelns erfasst und im Abgleich mit Verhaltensmerkmalen, die empirisch gewonnen wurden, bewertet (Schiersmann/Petersen/Weber 2017, S. 58f.). Mit Hilfe eines leitfadengestützten Sitzungsbogens werden Beratende angeregt, gezielt über ihr kompetentes Handeln zu re(cid:192)ektieren. Basis ist ein selbst durchgeführtes Beratungsgespräch. Die Auswertung und Überprüfung des beraterischen Handelns kann im Abgleich mit möglichen Verhaltenswei-\nsen und Begründungen für das Handeln gewonnen werden (Schiersmann/\nPetersen/Weber 2017, S. 64f.). Auf der Ebene der Handlungsüberprüfung/-be-\ngründung denken die Beratenden über ihre Kompetenzen in Bezug auf das selbst durchgeführte Beratungsgespräch sowie über das angewandte Fach-\nwissen, die eingesetzten Methoden und Strategien im jeweiligen "
+      },
+      {
+        "rank": 5,
+        "id": "e64a64a7f854b739be97532e7a74fbbc67fd24cb9953bb72053a4114ad4b9363",
+        "score": 0.6867101192474365,
+        "meta": {
+          "file_path": "9783847412304-129-180.txt",
+          "source_id": "a552771cf1a4f5dfa3b9da300d101a1da2157deec1a617bbc06888db07eeba93",
+          "page_number": 25,
+          "split_id": 44,
+          "split_idx_start": 57123,
+          "_split_overlap": [
+            {
+              "doc_id": "f5dbc55df0ea75135ca4b4d304640ce62a44550f9e8c39c7de4eaf579477837d",
+              "range": [
+                1291,
+                1784
+              ]
+            },
+            {
+              "doc_id": "732fceeb87cca64bce49534774545f481610fb69b61b28e9cc7bbf4997626dd7",
+              "range": [
+                0,
+                420
+              ]
+            }
+          ]
+        },
+        "content": "selbst Eingang (cid:191)nden würde. Dieses Thema wird bisher im Professionalisierungs-\ndiskurs nur wenig bedacht. Literatur Bauer, Petra; Weinhardt, Marc (2016): Professionalisierungs- und Kompetenzent-\nwicklungsprozesse in der sozialpädagogischen Beratung. Baltmannsweiler: Schneider Hohengehren. Bauer, Petra; Weinhardt, Marc (2014). Perspektiven sozialpädagogischer Beratung. Empirische Befunde und aktuelle Entwicklungen. Weinheim: Beltz. Bauer, Petra; Weinhardt, Marc; Carfagno, Kristin; Christ, Aline; Kniep, Kathrin; Thomas, Marie; Urban, Markus (2017): Posterpräsentation Pro(cid:191)L – Professiona-\nlisierung durch Beratung im Lehramtsstudium. Abschlusstagung der DFG-For-\nschergruppe „Analyse und Förderung e(cid:3445)ektiver Lehr- Lernprozesse“. Tübingen. Online verfügbar unter https://www.researchgate.net/publication/316687708_\nPro(cid:191)L_-_Professionalisierung_durch_Beratung_im_Lehramtsstudium. (Datum des letzten Abrufs: 30.07.2018)\f154 Marc Weinhardt Bruder, Simone; Klug, Julia"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-172-177.txt",
+    "question": "Wie helfen sich wiederholende Items im Selbsttest, ein aussagekräftigeres Ergebnis zu erzielen?",
+    "answer": "Durch die Wiederholung von Items kann die Tendenz der Ratsuchenden, Antworten anzukreuzen, die besonders positiv an sich sind, ausgeglichen werden, was zu einem aussagekräftigeren Ergebnis führt. Dies liegt daran, dass die Wiederholungen dazu beitragen, die Selbstsicht der Ratsuchenden zu korrigieren und eine realistischere Sicht auf ihre Situation zu erhalten. Dadurch können die Ratsuchenden ihre Selbstsicht besser einschätzen und ein realistischeres Ergebnis erzielen.",
+    "expected": "Die sich wiederholenden Items gleichen die Tendenz aus, Antworten anzukreuzen, die von außen als besonders positiv angesehen werden. Dadurch wird eine Verzerrung durch Sozialerwartungen reduziert und das Ergebnis wird aussagekräftiger.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c6ae28975869a911a19a81a71f292bc5ece669136bc20b8f6aaea4231fc96295",
+        "score": 0.9617719650268555,
+        "meta": {
+          "file_path": "1001586-172-177.txt",
+          "source_id": "637cd67a3ae8db8c1e1a2397f3d47728016b0c19c079eca6e233169f20c10086",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2320,
+          "_split_overlap": [
+            {
+              "doc_id": "22d5f1fbf1536bb5aba387fe50160651a8700efc233688488ba5ca43f043593c",
+              "range": [
+                1110,
+                1488
+              ]
+            },
+            {
+              "doc_id": "4400716d161b1f9ac5628089cf9e74dbbd90c592a214093db022ba14955b0539",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "172 5 Methoden und Techniken\fin Ruhe auszufüllen. Unklarheiten bezüglich der Items können beim dar-\nauffolgenden Termin besprochen werden. Zudem lohnt ein Hinweis, auf die sich ggf. inhaltlich oft wiederholenden Items, da diese bei dem Ratsuchen-\nden für Verwirrung sorgen könnten. Diese Wiederholungen dienen dazu, dass die Tendenz, Antworten anzukreuzen, die die Ratsuchenden als von außen betrachtet besonders positiv ansehen, ausgeglichen wird und ein aussagekräftigeres Ergebnis erzielt wird. Je nach Art des Tests erläutern Sie die Durchführung und erklären das Multiplechoice-Verfahren beziehungs-\nKernphase:\nweise den Umgang mit der Auswertungsskala. 3. Die eigentliche Beratung erfolgt auf der Grundlage der Ergeb-\nnisse des Fragebogens. Bevor der Fragebogen ausgewertet werden kann, müssen Unklarheiten oder ggf. unbeantwortete Items geklärt werden. Da der bzw. die Ratsuchende sich womöglich in einer für sie oder ihn eher innerlich angespannten Situation befindet, kann es für das Wohlbef"
+      },
+      {
+        "rank": 2,
+        "id": "8a1338250bb3d9d7e86280a48a74a93f2ebe0115e20638c517cced2e04120176",
+        "score": 0.9133495688438416,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 13,
+          "split_id": 25,
+          "split_idx_start": 29553,
+          "_split_overlap": [
+            {
+              "doc_id": "22a564048c0441b0bf8c98a02ea9bf1cb6f12555aee9aa63f497dd39fabe4f83",
+              "range": [
+                1283,
+                1725
+              ]
+            },
+            {
+              "doc_id": "5c912a3d510803eaa57a4a0e10970b2a248a88f342abecbf6eaeceb32816ae43",
+              "range": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        "content": "ist jedoch in der Ausgestaltung im Ein-\nzelfall hochindividuell. Die benötigten Kompetenzen richteten sich insbesondere auf die Bedarfseinschätzung und Hilfeplanung, die Beratungs-\nintervention in häuslicher Umgebung, Schulung und Anleitung sowie eine emotionale Verbundenheit in der Beratungsbeziehung. Bedarfseinschätzung und Hilfeplanung Als Grundlage für die Beratungen wurde im Projekt das Assessment-\ninstrument BIZA-D-M eingesetzt. Es umfasste in der Projektversion 172 Items und hat den Gesundheitsberaterinnen und –beratern einen umfassenden ersten Einblick in verschiedene Belastungsdimensionen der pflegenden An-\ngehörigen gegeben. Diese hatten in vielen Fällen erstmalig die Gelegenheit, derart ausführlich über oftmals seit Jahren angestaute Belastungen zu reden. Das führte zu teilweise sehr langen Assessmentgesprächen von bis zu zwei Stunden sowie in vielen Fällen zu heftigen emotionalen Reaktionen. Insge-\nsamt wurden die Assessmentgespräche von den pflegenden Angehörigen jedoch al"
+      },
+      {
+        "rank": 3,
+        "id": "2521e4c904bc49ecc859dc93987211c976760b6e506a57a482767df8f7d5778c",
+        "score": 0.7506596446037292,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 11,
+          "split_id": 19,
+          "split_idx_start": 23125,
+          "_split_overlap": [
+            {
+              "doc_id": "37ac455297de9e1adfcb003c1393f2cf1f01213d45c547a46e7e090a1e53457f",
+              "range": [
+                1173,
+                1503
+              ]
+            },
+            {
+              "doc_id": "a9104ce727a360f21091db89285c4ec3e03aee68b389653bccb08f8e86a0dd4e",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "sich verschränken: Das Erzählte wird auf einmal zum Moment des Erzählens, es entsteht eine Gleichzeitigkeit: die Vergangenheit wird in die Gegenwart eingeführt, wird zum Moment der Gegenwart. Das „heute“ markiert die in der Interaktion an-\nwesende Person R (Ebene 2), die eine Geschichte von sich im gestern (Ebene 1) erzählt, um eine Problemelaboration (Ebene 2) als Selbstelaboration (Ebe-\nne 3) aufzuführen. R vollzieht bestimmte Bewegungen zwischen aktiver Zielgerichtetheit als handlungsermächtigende Erzählung und dem Hilfegesuch als Erzählung und Au(cid:3445)ührung von Verletzbarkeit und Bedrohung, als „discursive maneuvers between these two positions“ (Bamberg/Georgakopoulou 2008: 392). Hand-\nlungsfähigkeit ist damit prekär gelagert, ein anerkennbarer Subjektstatus steht bei einer Wiederholung des Scheiterns auf dem Spiel. Um aber im Spiel zu bleiben, muss sich R in dieser risikobehafteten Positionierungsbewegung an-\nbieten, verbunden mit der Ho(cid:3445)nung, damit eine anerkennbare"
+      },
+      {
+        "rank": 4,
+        "id": "b0c380a593f06ec02ad5ca3285379b0ba02ae6ea99b9d1ee9865f149bdd848eb",
+        "score": 0.5264137387275696,
+        "meta": {
+          "file_path": "9783866496811-072-097.txt",
+          "source_id": "e4041675176fbacce2245254f79d637eeda350caf0bc23b4931c81076d58da44",
+          "page_number": 10,
+          "split_id": 15,
+          "split_idx_start": 19737,
+          "_split_overlap": [
+            {
+              "doc_id": "e885edac398121aa064469ab10e38554ad8df9505db2a1036db98bc6fb947daf",
+              "range": [
+                1310,
+                1707
+              ]
+            },
+            {
+              "doc_id": "a10b3d2b5718ce3806d7dbf5cd64b0f46ae0982721ebaf668b86f3e23d2f3ae5",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "sich be-\nziehungsorientiert zu verhalten, um Ideen zu entwickeln und Ziele zu errei-\nchen. Der Begriff der Beziehungskompetenz umfasst somit im Wesentlichen be-\nstimmte Einstellungen und darauf basierende Verhaltensweisen, die in der 80\fInteraktion mit anderen Individuen zum Tragen kommen und die das Austa-\nrieren eigener und fremder Bedürfnisse, Wünsche und Interessen als wesentliches Merkmal betrachten (vgl. Faix & Laier, 1991:63f; Richter 1995:35), Unter reflexiver Kompetenz werden Personalkompetenzen verstanden. Es geht um die Dispositionen, reflexiv selbstorganisiert zu handeln, sich selbst einzuschätzen, produktive Einstellungen, Werthaltungen, Motive und Selbst-\nbilder zu entwickeln, eigene Begabungen, Motivationen, Leistungsvorsätze zu entfalten und sich im Rahmen der beraterischen Arbeit kreativ zu ent-\nwickeln und zu lernen. Personkompetenzen beziehen sich somit auf einen kompetenten Umgang mit der eigenen Person, deren Möglichkeiten und Grenzen und stehen in engem Zusammenha"
+      },
+      {
+        "rank": 5,
+        "id": "dd877efd12fbf6a11eceb1c70d5d18cd60a44fc250b4c61b5029a856525df395",
+        "score": 0.4282335042953491,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 27,
+          "split_id": 46,
+          "split_idx_start": 56834,
+          "_split_overlap": [
+            {
+              "doc_id": "49ae52552bfbeb269c35fe1afbe7e8b626fd16435baba52c4b6b9c3bcdd02223",
+              "range": [
+                1236,
+                1622
+              ]
+            },
+            {
+              "doc_id": "acef0a4b046e6ad43aa446ce7d3820073a0af7266d8c0bd812b00d962be3625d",
+              "range": [
+                0,
+                485
+              ]
+            }
+          ]
+        },
+        "content": "neue Fragen formuliert; die rationale Erhellung eines Problems wird so weit wie möglich versucht, um eine Entscheidung vorzubereiten, die von Vorurteilen und Verfestigungen frei nach dem Abwägen der vernünftig entscheidbaren Fragen getro(cid:3445)en werden kann.“ (Mollenhauer 1965, S. 32) Im Kontrast hierzu behauptet indes der österreichische Politologe und Päda-\ngoge Erich Ribolits 42 Jahre später, Beratung sei ein Instrument der (schein-\nbaren) Selbstbestimmung; den Beraterinnen und Beratern käme darin „als postmoderne Agentinnen und Agenten die Rolle der Normalisierung zu, die ihren Kund/innen auf sanfte – non-direktive – Art das Gift der Entmündi-\ngung einträufeln“ (vgl. Ribolits 2007, S. 8). Damit erö(cid:3445)net sich ein Spannungsfeld, das Dimensionen von Mündig-\nkeit und Entmündigung, von Emanzipation und Anpassung, von Fremd- und Selbstbestimmung aufruft. Um sich dieser Vielschichtigkeit anzunähern, werden Grundgedanken der Gouvernementalität von Michel Foucault skiz-\nziert (1"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-172-177.txt",
+    "question": "Welche Situationen eignen sich besonders für den Einsatz eines Selbsttests wie dem Karriereanker in der Bildungsberatung?",
+    "answer": "Die Situationen, die sich besonders für den Einsatz eines Selbsttests wie dem Karriereanker in der Bildungsberatung eignen, sind solche, in denen die beratene Person sich auf eine Veränderung ihrer beruflichen oder persönlichen Situation vorbereiten muss. Beispiele hierfür könnten sein:\n\n*   Eine Person, die sich auf eine Berufswahlentscheidung vorbereiten muss und ihre Interessen, Fähigkeiten und Werte im Hinblick auf verschiedene Berufsmöglichkeiten überprüfen möchte.\n*   Ein Studierender, der sich auf eine berufliche Orientierung vorbereiten muss und seine Ziele und Überzeugungen im Hinblick auf verschiedene Karrierewege überprüfen möchte.\n*   Eine Person, die sich auf eine berufliche Umorientierung vorbereiten muss und ihre Stärken, Schwächen und Interessen im Hinblick auf verschiedene berufliche Möglichkeiten überprüfen möchte.\n\nIn all diesen Situationen kann der Karriereanker als Selbsttest eingesetzt werden, um die beratene Person dabei zu unterstützen, ihre Ziele und Überzeugungen zu klären, ihre Stärken und Schwächen zu erkennen und ihre berufliche oder persönliche Situation zu verbessern.",
+    "expected": "Besonders geeignet sind Situationen, in denen der Ratsuchende unsicher über seine berufliche Zukunft ist, seine Stärken und Schwächen nicht klar erkennt oder durch äußere Einflüsse in der Selbstwahrnehmung beeinträchtigt ist. Auch an beruflichen oder privaten Scheidewegen, bei denen sich äußere und innere Umstände ändern, kann der Selbsttest neue Perspektiven eröffnen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fda663632d21e1006544f5937d20a1e2d447798729fa9f4e320d494150463979",
+        "score": 0.9869282841682434,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 28,
+          "split_id": 48,
+          "split_idx_start": 59332,
+          "_split_overlap": [
+            {
+              "doc_id": "acef0a4b046e6ad43aa446ce7d3820073a0af7266d8c0bd812b00d962be3625d",
+              "range": [
+                1312,
+                1685
+              ]
+            },
+            {
+              "doc_id": "78f2dc5aa221ae071e9faa1436bef5547409185ac533a7b54a79bd1c3978815d",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "Für Stefanie Duttweiler ist die Selbstbestimmung das zentrale Moment in der Beratung, welche mit der Frage der Selbstkonstituierung des Subjekts in Ver-\nbindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjekti-\nvierung, die sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt (vgl. dies. 2007, S. 262). Be-\nratung ist dabei ein Knotenpunkt im Netz aus Selbst- und Fremdführungs-\nformen, erstens auf der Ebene der Beratung als institutioneller Einrichtung, zweitens als Interaktions- und Kommunikationsform, aber drittens auch in der Rolle der Berater/innen. In den drei Ebenen spiegeln sich die Interde-\npendenzen aus Fremd- und Selbstführungen; Führende werden zu Geführ-\nten und vice versa. Dies gilt gerade für die professionelle Beziehung Berater/\nin–Ratsuchende/r. Damit wird die Frage der Selbstbestimmung erneut zum Ausgangspunkt, denn „Selbstbestimmung ist Instrument und E(cid:3445)ekt von Be- 1 Dies zeigt sich bei"
+      },
+      {
+        "rank": 2,
+        "id": "6820193f09c4da1ff1523c475a5df987b97c67734e041e65dffd185d73a52128",
+        "score": 0.9791932106018066,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 86,
+          "split_id": 167,
+          "split_idx_start": 198404,
+          "_split_overlap": [
+            {
+              "doc_id": "5aee038ed1ef90f94b42593d025a05a009ff4307a3b75b46b56ca0265cd90641",
+              "range": [
+                983,
+                1376
+              ]
+            },
+            {
+              "doc_id": "78d7dbf082de10ce06b5c13823796c9243f82fd59b869315ce45dd2cff230a8a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Und dadurch pflegt man schon die Kontakte, und viele melden sich zurück, oder überwiegend melden sie sich zurück« (J/\nAT, Z. 301-322). Auch in diesem Interviewausschnitt wird die positive Beratungsbeziehung als Grund für die Rückmeldung längerfristiger Veränderungen und Wir-\nkungen des Beratungsprozesses hervorgehoben. Ähnlich wie bereits bei den Aufgabenbereichen auf der Interaktionsebene der Beratung dargestellt, beschreibt die interviewte Person hier, dass ihr aufgrund der Einordnung als »Migrant« durch den_die Klient_in eine ähnliche Bildungs- und Berufs-\nbiografie und damit auch ein Verständnis für die individuelle Situation der beratenen Person zugeschrieben wird. Die interviewte Person deutet an, dass hierdurch, im Unterschied zu mehreren vorangegangenen Versu-\nchen, institutionalisierte Unterstützung bei anderen Stellen in Anspruch zu nehmen, der Auf bau einer positiven Beratungsbeziehung unterstützt wird. Gleichzeitig betont sie, dass diese Beratungsbeziehung unabhängig von de"
+      },
+      {
+        "rank": 3,
+        "id": "9e831157560ef6ff4fca629a09755101b7db5727c8bd925aff6267850ec5cc69",
+        "score": 0.9685903191566467,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 5,
+          "split_id": 9,
+          "split_idx_start": 11223,
+          "_split_overlap": [
+            {
+              "doc_id": "90469c815c692150d4d8a6708d9d618fcc0f6f911101b8091f2687c2c22f8b1f",
+              "range": [
+                1211,
+                1625
+              ]
+            },
+            {
+              "doc_id": "13aaa295e6d763ddebb03303ba796980f03a30ddecec93f5fe157fac5bae3249",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "Qualitäts-\nsicherung gesehen, welche durch den Auf bau gemeinsamer Standards er-\nreicht werden soll.\f116 Bildungs- und Berufsberatung in der Migrationsgesellschaft »[S]chauen, dass möglichst einheitliche Qualität von der Anerkennungsbe-\nratung in allen Bundesländern gewährt wird. Also dass möglichst alle ein-\nheitlich arbeiten. Dabei meine ich nicht das, dass jede_r einen eigenen Be-\nratungsstil hat, auf sowas kann man keinen Einfluss nehmen, aber es geht um das, was herauskommt« (B/AT, Z. 388-391). Aus dieser Beschreibung wird deutlich, dass der Prozess im Spannungsfeld zwischen einer Angleichung von Beratungsstandards und der Berücksich-\ntigung von bundeslandspezifischen Besonderheiten stattfindet. Entspre-\nchend wird hier betont, dass der Gegenstand der Vereinheitlichung nicht der individuell gestaltete Beratungsprozess ist, sondern die damit angestrebten Wirkungen. Die Koordinierungsstelle in Österreich übernimmt zudem or-\nganisationsübergreifende Aufgaben in der Berichterstattung "
+      },
+      {
+        "rank": 4,
+        "id": "15ba350a81def399818e3f3cce5629bd4c35f38937b3202750cc9f55319cde40",
+        "score": 0.9606447219848633,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 2,
+          "split_id": 3,
+          "split_idx_start": 3632,
+          "_split_overlap": [
+            {
+              "doc_id": "46a38af2426bb06c6e5ed02d1a80e064207c4e4d8df661fba53a29d7b832e10c",
+              "range": [
+                1157,
+                1537
+              ]
+            },
+            {
+              "doc_id": "b79f726451101a4c7fc060322659749ade354752c459257cd100551b957dd597",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "eingesetzt werden könnten, noch, dass ausschließlich diese Methoden für den Einsatz geeignet wären. Vielmehr sollen sie dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie in der Bildungsberatung mit Me-\nthoden gearbeitet werden kann. Dazu gehören auch Methoden, die Grenzen markieren, wie z.B. der Einsatz des Antreiber-Tests (S. 178) in der Bildungs-\nberatung. Die Methoden stammen aus den beiden unterschiedlichen Kontexten, die in der Bildungsberatung aufeinandertreffen: Es handelt sich um abgewandel-\nte Verfahren, die aus der Seminargestaltung der Erwachsenenbildung (z.B. Klotzen S. 156, Bildungszeitreise S. 145, Lebensbaum S. 151) oder aus dem Coaching stammen (z.B. Tetralemma S. 132, Inneres Team S. 140, Netzwerk-\nmethode S. 162). Bei der Beschreibung der Methoden haben wir weitestgehend darauf ver-\nzichtet, sie zugeschnitten auf ein bestimmtes Beratungsformat (sei es die Stu-\ndien-, Karriere- oder Berufsberatung) zu erläutern. Wo dies zum Verstä"
+      },
+      {
+        "rank": 5,
+        "id": "98602500166aba874525c6162464f93e4cfe73223ac649e8e45c0a9c2b119882",
+        "score": 0.8761460781097412,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 13,
+          "split_id": 28,
+          "split_idx_start": 33722,
+          "_split_overlap": [
+            {
+              "doc_id": "040442577e70ba70a0c8119854f5f37b4e67232819e7faf80573ba5f8c092ba9",
+              "range": [
+                1233,
+                1628
+              ]
+            },
+            {
+              "doc_id": "c9864755b61bab014aaa89992b9c51113787f33ce5d0e1f123d6ab9fb73bf146",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "wie intensiv die Bildungsbe-\nratung diesen Prozess begleitet (s. 2.2 Biographieorientierung). Veränderungen gehören zu unserem Alltag. Jeden Tag stellen wir uns auf neue Situationen ein. Und jedes Mal lernen wir. In jedem Gespräch im Kollegi- 3 Weitere Beratungsfelder der pädagogischen Beratung sind z.B. die Suchtberatung, Erzie-\nhungsberatung, Arbeitslosenberatung (vgl. Nestmann u.a. 2004). 29 2.3 Bildungsberatung als Begleitung von Selbstlernprozessen\fum oder in der Familie, bei jeder ausgefallenen Straßenbahn, bei jeder Nach-\nricht auf dem Smartphone. Wir merken diese Veränderungsleistung nicht, weil wir uns meistens gut darauf einstellen können. Erst wenn zu viele Anfor-\nderungen zur Neuausrichtung an uns gestellt werden, reagiert unser körper-\nliches und neuronales Verarbeitungssystem mit Stress, Abwehrmechanismen oder Erschöpfung. Ähnlich wie bei angeleiteten Lernprozessen, kann es dabei auch zur Leugnung oder Verweigerung kommen. Verena Kast ist es zu verdanken, dass die Phasen,"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-172-177.txt",
+    "question": "Wie trägt die Kombination aus Selbsttest und anschließender gemeinsamer Auswertung im Beratungsgespräch zur Zielerarbeitung bei?",
+    "answer": "Die Kombination aus Selbsttest und anschließender gemeinsamer Auswertung im Beratungsgespräch wird nicht im bereitgestellten Kontext behandelt. Daher kann keine Antwort darauf gegeben werden.",
+    "expected": "Der Selbsttest regt die Ratsuchenden zur Selbstreflexion an und macht deren persönliche Fähigkeiten, Motive und Werte bewusst. Die gemeinsame Auswertung im Beratungsgespräch ermöglicht es, diese Ergebnisse zu interpretieren, Unklarheiten zu klären und individuelle Perspektiven zu entwickeln. So wird der Entscheidungsprozess unterstützt und die berufliche Orientierung gefördert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5b3b208b67ceb6d95b43bcec4c6899782b4a9d6c56d8fbe02dd2c1c8c6f8716f",
+        "score": 0.9807834029197693,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 6,
+          "split_id": 11,
+          "split_idx_start": 13661,
+          "_split_overlap": [
+            {
+              "doc_id": "13aaa295e6d763ddebb03303ba796980f03a30ddecec93f5fe157fac5bae3249",
+              "range": [
+                1164,
+                1555
+              ]
+            },
+            {
+              "doc_id": "b94d30ee39fd94ec028d4560041b6914a39e892dd9f0492a98ed51799129892e",
+              "range": [
+                0,
+                343
+              ]
+            }
+          ]
+        },
+        "content": "diese Begriffe in den Interviews mit einer großen Selbstver-\f5. Ergebnisse 117 ständlichkeit eingesetzt werden, ohne dass eine weitere Erklärung not-\nwendig erscheint. Aus der Charakterisierung der eigenen Beratung als eine »tiefere Fachberatung« wird jedoch deutlich, dass hiermit eine Abstufung in der Intensität der Beratung ausgedrückt wird. Aus der Perspektive der Ko-\nordinationsebene nimmt die Frage nach einem gemeinsamen Beratungsver-\nständnis und der Definition von Aufgabengebieten für die Anerkennungs-\nberatung in beiden Ländern einen hohen Stellenwert ein. 5.1.1.2 Beratungsebene Insgesamt sind neun der zwölf Interviewpartner_innen selbst in der Be-\nratung tätig, davon übernehmen sechs Personen die Beratung neben einer fachlichen oder koordinierenden Leitungsposition innerhalb der Beratungs-\nstelle. Dabei wird in mehreren Interviews hervorgehoben, wie wichtig es für die Personen ist, auch selbst in der Beratung tätig zu sein. »Es ist natürlich viel zu tun, aber man muss einfach "
+      },
+      {
+        "rank": 2,
+        "id": "ca6df58ccdbac75326afd5eef90f4c3f78f09729d8c48a23c68dc5b537a1acc6",
+        "score": 0.9776795506477356,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 42,
+          "split_id": 78,
+          "split_idx_start": 97413,
+          "_split_overlap": [
+            {
+              "doc_id": "a4998a4c684938223d59cc7a228f7a2a0bd8f8f6c96d03b76bc6bde93d98b9da",
+              "range": [
+                1167,
+                1623
+              ]
+            },
+            {
+              "doc_id": "e73b879e89c98cd4f7ce87c1a2ee01092e0987922e75ea8ede57c7415d6373ae",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "hinsichtlich eines gemeinsamen Ausbildungs- und Beratungsverständ-\nnisses sowie der Qualitätssicherung unter Einbindung von Wissenschaft. „Beratung ist […] als professionelles Angebot zu ko-konstruktiven, re(cid:192)exiven Hilfestellungen in der Bewältigung krisenhafter moderner Lebens- und Ar-\nbeitsbedingungen“ (ebd.: 41) zu verstehen. Der Beratung kommt daher ein besonderer Stellenwert im Rahmen der Erwachsenenbildung an Hochschulen zu. Verschiedene Präventions- und Interventionsmaßnahmen werden derzeit mit dem Ziel, Studierende über die Beratung hinaus bei ihrem Studium zu un-\nterstützen und Abbrüche zu vermeiden, an deutschen Universitäten erprobt, eingerichtet oder evaluiert (Ahles et al. 2016; Blüthmann et al. 2008; Kolb et al. 2006; Pelz/Schulze-Stocker 2018). Zu diesen Maßnahmen, die zum Teil auch als zeitlich begrenzte Projek-\nte angeboten werden, zählen auch Frühwarnsysteme. Sie entstammen dem Risikomanagement (Hahn/Krystek 1984) und dienen dort als Informations-\nsysteme für "
+      },
+      {
+        "rank": 3,
+        "id": "489dcd854912f4dde5e1ccad4868ca899c3a1abdc40f5a46c8b0e40a34dbbebd",
+        "score": 0.9560564160346985,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 18,
+          "split_id": 35,
+          "split_idx_start": 40782,
+          "_split_overlap": [
+            {
+              "doc_id": "880e0c645c88ca569a5ca5746b08b136b8865fc270df1bdabc6f354e347c1cef",
+              "range": [
+                1156,
+                1518
+              ]
+            },
+            {
+              "doc_id": "bafda2695cb300eaac234aaf1a7cd37660b22e9fd63e8cf165a94b1ce26ff17d",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "- Sterbende Menschen pflegen Deutlich wird hier aus den Ausbildungsrichtlinien von NRW, dass der Auf-\ntrag der Beratung in der Pflege sehr wohl angenommen wurde, allerdings auch in der Umsetzung noch das konkrete Konzept fehlt und auch hier Kon-\nzeptvorschläge eher eine Beispielfunktion erfüllen. Bereits hier wird empfohlen, dass beraterische Kompetenzen über die Grund-\npflege Tätigkeiten in der Pflege hinausgehen sollten. Diese Empfehlung ist eine wichtige Überleitung zu den Diskussionen der Pflegeversicherungsreform von 2008. 42\f2.3. Das Pflege-Weiterentwicklungsgesetz (PfWG) und Beratung in der Pflege Seit Implementierung der Pflegeversicherung im Jahre 1995 gab es keine prägnanten Veränderungen des Elften Sozialgesetzbuches. Erst mit dem Pflege-Weiterentwicklungsgesetz, welches zum 1. Juli 2008 in Kraft trat, ist eine strukturelle Weiterentwicklung zu verzeichnen. Wie bereits 1995 sind auch 2008 wieder neue Elemente im Sozialgesetzbuch bezüglich der Bera-\ntung in der Pflege auszuma"
+      },
+      {
+        "rank": 4,
+        "id": "f587991ee43650e51e4ba7e3177122c3d8f2ef0952b2103ed1a03df6e2b29013",
+        "score": 0.9492273926734924,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 15,
+          "split_id": 33,
+          "split_idx_start": 39632,
+          "_split_overlap": [
+            {
+              "doc_id": "208f85fead8788b30d675407595b8d6218c4385b0ef98b4521f06ef9e4f1b301",
+              "range": [
+                1115,
+                1525
+              ]
+            },
+            {
+              "doc_id": "696000d6c74f2ed0f7a191a22a1dbb194b96653ee68f02b7171bf19423da62cf",
+              "range": [
+                0,
+                378
+              ]
+            }
+          ]
+        },
+        "content": "seine Verantwortung verweist und ihm lediglich das Lösungsmaterial oder eine Mehrzahl von Entscheidungsmodellen nahelegt und 31 2.3 Bildungsberatung als Begleitung von Selbstlernprozessen\fanbietet, entspricht sie ganz und gar dem Ethos der Erwachsenenbildung.“ (Pög-\ngeler 1974: 59) Aus heutiger Sicht kann man inzwischen von einem doppelten Bezug zwi-\nschen Beratung und Erwachsenenbildung sprechen. Beratung kann seit dem 5 selbst als Grundprin-\n‚Shift from Teaching to Learning‘ implizit oder explizit\nzip in der Begleitung von Lernprozessen angesehen werden. Damit erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können dann darunter gefasst wer-\nden, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie es z.B. bei Coaching, Supervision und Mediation der Fall ist. Gleichzeitig bewegt sich die Didaktik der Erwachsenenbildung stärker auf die Integration von Beratungsproz"
+      },
+      {
+        "rank": 5,
+        "id": "f60c30aa36746f1421fa1e890eb7c77a88ed66af33c87e34c4a056f11071e082",
+        "score": 0.8838487267494202,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 103,
+          "split_id": 203,
+          "split_idx_start": 240600,
+          "_split_overlap": [
+            {
+              "doc_id": "7987c38e094cf041d743f07d203375c9d98470babcc91fce7dc1423eb9a54e90",
+              "range": [
+                1343,
+                1806
+              ]
+            },
+            {
+              "doc_id": "9a6d3a4bff57260b4cfa8f6ec8d97b28f9af54c5ce4d215690dc3a97217e2a1d",
+              "range": [
+                0,
+                392
+              ]
+            }
+          ]
+        },
+        "content": "der einzelnen Interviews, welche als Aushandlungsmuster innerhalb der Rahmenbedingungen inter-\npretiert werden. Auf Grundlage der Analyse wird nachfolgend zwischen drei Aushandlungsmustern unterschieden, welche jeweils eine spezifische Kombination von Zielsetzungen, Handlungsstrategien und Selbstverständ-\nnis darstellen und entsprechend als »Beratung als Anerkennung«, »Beratung für Anerkennung« und »Anerkennung von Beratung« bezeichnet werden (vgl. Abb. 16). Diese rekonstruierten Aushandlungsmuster können zum Teil bestimm-\nten Interviews zugeordnet werden, sind jedoch teilweise auch kontext-\nabhängig bzw. zeigen sich nur in bestimmten Beratungssituationen. Im Vordergrund stehen hier die inhaltlichen Sinnzusammenhänge innerhalb der unterschiedlichen Zugänge zu Aushandlungsprozessen und ihre Ref le-\nxion auf einer beratungs- und anerkennungstheoretischen Ebene. Durch\f214 Bildungs- und Berufsberatung in der Migrationsgesellschaft die Rekonstruktion der Zusammenhänge zwischen den einzelnen"
+      }
+    ]
+  }
+]

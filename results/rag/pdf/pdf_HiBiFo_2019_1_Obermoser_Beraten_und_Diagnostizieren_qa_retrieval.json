@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+    "question": "Welche zwei Hauptaspekte werden im Titel von Susanne Obermosers Beitrag 'Beraten und Diagnostizieren' betont?",
+    "answer": "Die beiden Hauptaspekte, die im Titel von Susanne Obermosers Beitrag 'Beraten und Diagnostizieren' betont werden, sind \"Beraten\" und \"Diagnostizieren\".",
+    "expected": "Im Titel werden die Nuancen im fachlichen und pädagogischen Verständnis von Beraten und Diagnostizieren betont.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c010f13feaa6f4ceb057702c0151c0ce3e55a6e71b91af5eb6ed67ff4d238e33",
+        "score": 0.7938048243522644,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 76,
+          "split_id": 147,
+          "split_idx_start": 176033,
+          "_split_overlap": [
+            {
+              "doc_id": "8845613410b40e369868ca957d816626921c35d53a239f90c3db8c42c5d9f424",
+              "range": [
+                1549,
+                2016
+              ]
+            },
+            {
+              "doc_id": "7fbb5d89a69bddba8b01f619411a75c21a1023e075ff02ddd7ea7ea157168c5a",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "mit den beschriebenen strukturellen Rahmenbedingun-\ngen, welche die Beratungstätigkeit entsprechend dem beruf lichen Selbst-\nverständnis erschweren oder einschränken können. Es stellt sich die Frage, welche Handlungsstrategien die Berater_innen innerhalb der identifizierten Spannungsfelder in der Anerkennungsberatung entwickeln, um handlungs-\nfähig zu bleiben. Zur Analyse der professionellen Handlungsstrategien wird\f5. Ergebnisse 187 zunächst untersucht, wie die Interviewpartner_innen aus ihrem beruf li-\nchen Selbstverständnis heraus in Auseinandersetzung mit den sozialstruk-\nturellen Rahmenbedingungen erfolgreiche Beratung definieren und inwie-\nfern Erfolge in der Beratungspraxis auch tatsächlich erlebt werden (5.4.1). Darauf auf bauend erfolgt die Rekonstruktion der Handlungsweisen, welche in Auseinandersetzung mit den sozialstrukturellen Rahmenbedingungen entwickelt werden, um die formulierten Zielsetzungen zu erreichen (5.4.2). Aus einer anerkennungstheoretischen Perspektive ermögl"
+      },
+      {
+        "rank": 2,
+        "id": "8d9022c874e95ca399889b2935fbc0974d09b2d978af4eabc9b84061820f16c6",
+        "score": 0.6530126333236694,
+        "meta": {
+          "file_path": "9783847412304-033-058.txt",
+          "source_id": "7004ecd49a9ce342c472d79ee1d6acfce61402fdbc965fef279e2244975485cc",
+          "page_number": 19,
+          "split_id": 33,
+          "split_idx_start": 42366,
+          "_split_overlap": [
+            {
+              "doc_id": "c4bd192831c62341e3fc2099fdf2b3d1a170117496a0f5e572111274f98ab5a7",
+              "range": [
+                1236,
+                1623
+              ]
+            },
+            {
+              "doc_id": "66e9e8ea74fc93d368ad25e30cdc4bafa77cbc96efc42e24cd5b789720b9e093",
+              "range": [
+                0,
+                475
+              ]
+            }
+          ]
+        },
+        "content": "geschult werden. Die Rolle kann daher – etwas überspitzt – als die von „lehrenden Diagnostikern“ beschrieben werden, die im Kontext der Bera-\ntungssituation als „Experten für Lernen“ fungieren. Lernende werden hier als „Experten der persönlichen Lernbiogra(cid:191)e“ (ebd.) betrachtet, die dies in der Beratung klar explizieren, re(cid:192)ektieren und aktiv nach Optimierungen suchen. • Zeitlich wird das Beratungsgespräch als „aus dem Seminar ausgegliederte Intervention“ (ebd. S. 148) verstanden und individualisiert nach den Be-\ndarfen der Teilnehmenden realisiert. Wie die zeitliche Kopplung an die strukturierte Seminarsituation genau erfolgen soll, bleibt konzeptionell unklar. Es handelt sich damit um ein exkludierendes, unbestimmtes Zeit-\nkonzept.\f52 Julia Franz / Stephanie Welser / Annette Scheunp(cid:192)ug 4.2 Lernberatung im Kontext von Selbstlernarchitekturen Ein zweites Konzept von Lernberatung wurde im Rahmen einer Theorie selbstsorgenden Lernens entwickelt (vgl. Forneck 2005, "
+      },
+      {
+        "rank": 3,
+        "id": "b7d049530136c097791eb8243b557ad6c2be50c9b700a2b03a287bddba13981e",
+        "score": 0.398793488740921,
+        "meta": {
+          "file_path": "9783839444856-094-111.txt",
+          "source_id": "e955173d90dfcf7a99a1450fce68f984b57cfc69775a2489a07323814273ee0c",
+          "page_number": 18,
+          "split_id": 32,
+          "split_idx_start": 40560,
+          "_split_overlap": [
+            {
+              "doc_id": "3cbaaf6431237988f86f644fd14888ee105c8194b666fd647da7220a35c8e852",
+              "range": [
+                1298,
+                1700
+              ]
+            }
+          ]
+        },
+        "content": "beschrieben wurden, die in dieser Form in der Fachöffentlichkeit nicht diskutiert werden würden. Er sieht dies als ein charakteristisches Merkmal der Berufstätigkeit von Be-\nrater_innen, welche vor dem Hintergrund fachlicher, gesellschaftlicher und politischer Anforderungen durch eine Art intellektuelles Doppelleben ge-\nprägt sind. Demnach gehört die Fähigkeit, je nach Kontext eine andere Spra-\nche und Denkweise anzuwenden, zu den Merkmalen professioneller Bera-\ntungstätigkeit. Dennoch sieht er das ungezwungene Expert_inneninterview als Möglichkeit, die tatsächliche Beratungspraxis mit den zugrundeliegen-\nden Werten, Überzeugungen und Übersetzungsleistungen bezüglich exter-\nner Anforderungen zu rekonstruieren. Diese Sichtweise auf das Material als Übersetzungsleistung der Interviewpartner_innen von ihrer individuellen Beratungstätigkeit zu einer Darstellung entsprechend der Interviewfragen ist für die Auswertung leitend. Für die Interpretation des Textmaterials ist daher auch durchgehe"
+      },
+      {
+        "rank": 4,
+        "id": "8963d927683e5c705ce0e5732fba966d8b6b2b243997174fbb2efdadda6f6888",
+        "score": 0.15908308327198029,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 6,
+          "split_id": 13,
+          "split_idx_start": 15352,
+          "_split_overlap": [
+            {
+              "doc_id": "8ea0cb986bc1fbaba8113a67bd311961cece23e41e43c737683fb164d230cbee",
+              "range": [
+                1306,
+                1780
+              ]
+            },
+            {
+              "doc_id": "060be40fc9da057ce591cead94a38f5ff3b7a9ba13850face235b4c6054e6376",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Aufdecken, Relativieren von Generalisierungen, Wertschätzung vermitteln, Anerkennung zeigen, usw. Arbeitstechniken werden auch als taktische Instrumente bezeichnet, als grundsätzliche Hilfsmittel, die den gesamten Beratungsprozess vorwärtsbrin-\nInterventionen\ngen sollen (Bürgi/Eberhart 2006: 237). dagegen werden als Schritte im Rahmen strategischer Pla-\nnung verstanden, die Veränderungen bewirken sollen (ebd.). Dafür können Deutungen herangezogen werden, um ein Problem zu definieren und damit Veränderungsprozesse zu ermöglichen. Medien können Kommunikationsprozesse erleichtern, indem Bilder, Ka-\nrikaturen, Fotos, Filme zum Einsatz kommen. Sie können z.B. Erinnerungen auslösen oder die Phantasie anregen, können also als Momente im kreativen Prozess der Findung von Lösungen eingesetzt werden.\nErfahrungsraum Beratung: Handlungsorientierungen Beziehungskompetenz. Prinzipien, Methoden, Interventionen und Techniken und Medien – ihr je-\nweiliger Einsatz ist abhängig von dem Anliegen der Ratsu"
+      },
+      {
+        "rank": 5,
+        "id": "02c30cd3b415a572fc3e86ab0e7eeff6c9314f8913d7324c4dba0f02d3f64660",
+        "score": 0.1078382357954979,
+        "meta": {
+          "file_path": "9783847412304-059-086.txt",
+          "source_id": "45dee5f385fe757b59e7435157597176c3afe94ee539439ed53af7cefa795258",
+          "page_number": 9,
+          "split_id": 13,
+          "split_idx_start": 16701,
+          "_split_overlap": [
+            {
+              "doc_id": "15410f396ea25eef8ed0fe4cec649c3077d6bb7c7e090e660a66c87234987eef",
+              "range": [
+                1243,
+                1659
+              ]
+            },
+            {
+              "doc_id": "533a80c36dc15e831ae64c74c453f4e29c87a1be82ae198e28e88b5d56f0ea7b",
+              "range": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        "content": "informative als auch auf situative Beratungsanliegen vorhanden sind. Die Varianzen innerhalb der Korrespondenzsorte ergeben sich durch die je fallspezi(cid:191)sche Prozessierung dieser Anliegen seitens der Beratenden. Ziel der vergleichenden Analyse ist es, die jeweiligen Prozessierungsaktivitäten der beiden Berater*innen in ih-\nren Gemeinsamkeiten und Unterschieden zu rekonstruieren und mit Blick 3 Unter einer Korrespondenzsorte verstehen wir Beratungskorrespondenzen mit gleichen Merkmalen (vgl. Stanik/Maier-Gutheil 2018).\f68 Tim Stanik / Cornelia Maier-Gutheil auf die Potenziale und Spezi(cid:191)ka computervermittelter asynchroner Bil-\ndungsberatung vor dem Hintergrund forschungsbezogener Konsequenzen einzuordnen. Abb. 3: Antwort Korrespondenz 7 Abb. 4: Antwort Korrespondenz 27 In beiden Fällen bearbeiten die Berater*innen den informativen Bedarf, in-\ndem sie den Ratsuchenden Hinweise zu Recherchemöglichkeiten geben. Da-\nbei werden jeweils Internetadressen genannt wie auch Hilfeste"
+      }
+    ]
+  },
+  {
+    "filename": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+    "question": "Wie wird in der Veröffentlichung das Verhältnis von fachlichem und pädagogischem Verständnis im Kontext von Beratung und Diagnostik dargestellt?",
+    "answer": "Die Veröffentlichung hebt hervor, dass die Begriffe \"Fachberatung\" und \"pädagogische Beratung\" oft unterschiedlich verwendet werden und dass die pädagogische Beratung oft mit einer bevormundenden Haltung assoziiert wird. Im Gegensatz dazu wird die Fachberatung als eine Form der Beratung dargestellt, die sich auf die Unterstützung und Begleitung von Personen konzentriert, um sie bei der Lösung ihrer Probleme zu helfen. Die Veröffentlichung betont auch, dass eine pädagogische Qualifikation nicht nur mit Kompetenzen in Bezug auf die Gestaltung des Beratungsprozesses und die Entwicklung des Beratungsangebotes verbunden ist, sondern auch mit der Fähigkeit zur Abgrenzung und Selbstreflexion. Es wird also ein differenzierteres Verständnis von Beratung und Diagnostik vorgestellt, das sowohl fachliche als auch pädagogische Aspekte berücksichtigt.",
+    "expected": "Das Verhältnis wird als nuanciert beschrieben, wobei fachliches Verständnis und pädagogisches Verständnis sich ergänzen und gemeinsam die Qualität von Beratung und Diagnostik prägen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1482c351180584cc24a81a1a3d021af6c28c1bb94b6dfdb1d2868b01e7d09b18",
+        "score": 0.9755721092224121,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 47,
+          "split_id": 88,
+          "split_idx_start": 107026,
+          "_split_overlap": [
+            {
+              "doc_id": "8a9b430eab38fb2988f60a9a0f080f4fd2c4eb0820c6eea63d34a1d6ebfd3d07",
+              "range": [
+                1343,
+                1769
+              ]
+            },
+            {
+              "doc_id": "d5df7e92be0526fc1eb18d4027355abc4479d55c1061b653ee744feee3b6623c",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsverständnis auf inhaltlicher Ebene und in Bezug auf die für die Anerkennungsberatung erforderliche Qualifikation. Die Be-\nzeichnung als eine pädagogische Beratung wird hier eher in den erzieheri-\nschen bzw. sanktionierenden Kontext des Bildungssystems eingeordnet. Die interviewten Personen verbinden pädagogische Beratung dadurch tenden-\nziell mit einer bevormundenden Haltung, die den Klient_innen ein gewisses Maß an Bedürftigkeit unterstellt. Den Interviewpartner_innen ist es wich-\ntig, sich von diesem Verständnis eines Erziehungs- und Bildungsauftrages und damit der Bezeichnung als eine pädagogische Beratung zu distanzieren. »Gar nicht. Es ist wirklich eher vielleicht vergleichbar mit einer Beratung, vielleicht einer Rechtsberatung […]. Was wir z. B. auch grundsätzlich nicht machen, ist, mit zu Stellen zu gehen, das machen wir nie […] die schaffen das auch alleine, zu einer Stelle zu gehen, und wir sind sozusagen immer im Hintergrund und sind immer ansprechbar und für irgendw"
+      },
+      {
+        "rank": 2,
+        "id": "8a9b430eab38fb2988f60a9a0f080f4fd2c4eb0820c6eea63d34a1d6ebfd3d07",
+        "score": 0.9647814631462097,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 46,
+          "split_id": 87,
+          "split_idx_start": 105683,
+          "_split_overlap": [
+            {
+              "doc_id": "08b3a9be912da28b9fd77e27e5ada85d102076de4c57241ab98e481c04e9c951",
+              "range": [
+                1414,
+                1824
+              ]
+            },
+            {
+              "doc_id": "1482c351180584cc24a81a1a3d021af6c28c1bb94b6dfdb1d2868b01e7d09b18",
+              "range": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        "content": "von Informationen und Fachwissen in den Beratungsprozess. In den Expert_inneninterviews zeigt sich zwar eine grundsätzliche Übereinstimmung mit den Prinzipien einer pädagogischen Beratung, die\f5. Ergebnisse 157 disziplinäre Zuordnung und Bezeichnung wird jedoch kontrovers disku-\ntiert. Zu berücksichtigen ist dabei, dass in den Interviews der Begriff der »pädagogischen Beratung« über die Fragestellung nicht weiter konkretisiert wird. Mit der Beantwortung der Frage wird damit zugleich deutlich, wel-\nche Beratungshaltung und charakteristischen Merkmale die Interviewpart-\nner_innen mit einer pädagogischen Beratung verbinden. Es stellt sich dabei auch die Frage, inwiefern die Antwort durch die jeweilige Bildungsbiografie der Berater_innen beeinf lusst wird, insbesondere, da der Großteil selbst eine pädagogische Ausbildung besitzt. Die verschiedenen Positionierungen lassen sich auf ein unterschiedliches Verständnis von pädagogischer Bera-\ntung und damit verbundenen Identifikations- oder Abgr"
+      },
+      {
+        "rank": 3,
+        "id": "9585985a14656175352f7ccc572ce0cbad186d0400946191c4d24f3c40d2bc27",
+        "score": 0.9386100769042969,
+        "meta": {
+          "file_path": "9783839444856-222-227.txt",
+          "source_id": "f15afd517a23d5fc00b2be93ece99462f426f5fd5fc8fa6de2a5cb1709c94c0c",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "56d63feb3575d2fdcb1f599741722077c0702d1905f1e3e44ece3d929de00827",
+              "range": [
+                1281,
+                1728
+              ]
+            },
+            {
+              "doc_id": "7368a323b7a402e95d067585efbce71ea204c09f63cea40727ba3c24134a53bb",
+              "range": [
+                0,
+                479
+              ]
+            }
+          ]
+        },
+        "content": "stellt ein charakteristisches Merkmal von Beratung im Bereich Bildung und Beruf dar, für die es keine einheitliche Ausbildung und keine geregelten Zugänge gibt. Auffällig ist, dass als Einstellungskriterien in allen Expert_inneninterviews (sozial-)pädagogische Qualifikationen hervorgeho-\nben werden, während die Frage nach einem pädagogischen Beratungsver-\nständnis sehr unterschiedlich beantwortet wird. Nur sehr wenige Interview-\npartner_innen ordnen ihre Tätigkeit einer »pädagogischen Beratung« zu. Stattdessen bevorzugen sie mehrheitlich auch hier den Begriff einer Fach-\nberatung. Wenn die interviewten Personen jedoch ihre Beratungspraxis beschreiben und begründen, dann zeigen sich bei der damit verbundenen Haltung und den Merkmalen von Beratung Übereinstimmungen mit dem auf theoretischer Ebene dargestellten pädagogischen Beratungsverständnis. Eine pädagogische Qualifikation wird dabei nicht nur mit Kompetenzen in Bezug auf die Gestaltung des Beratungsprozesses und die Entwicklung des "
+      },
+      {
+        "rank": 4,
+        "id": "808b749c2328b020cdf7d4affcffa094ed98eba9e75b17b8d9bd7800ed345df6",
+        "score": 0.927882194519043,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 53,
+          "split_id": 100,
+          "split_idx_start": 121263,
+          "_split_overlap": [
+            {
+              "doc_id": "b180743ecf0d2318c023f1ef0fb52aeb15927e70a6210735c22b4346c72bb81c",
+              "range": [
+                1370,
+                1808
+              ]
+            },
+            {
+              "doc_id": "060a4b9bc41c6651b5d73542fc10a7be1d9c859c06533416f2683c965215cf34",
+              "range": [
+                0,
+                456
+              ]
+            }
+          ]
+        },
+        "content": "dass sich die Distanzierung von einem pädagogischen Beratungsverständnis nicht auf den Gegensatz zwischen Fach- und Prozessberatung bezieht, sondern auf eine mögliche bevormundende Beratungshaltung im Sinne eines Er-\nziehungsauftrages und einer damit verbundenen Hilfsbedürftigkeit. Alle Interviewpartner_innen stellten unabhängig von dem Grad der Identifizie-\nrung mit einer pädagogischen Beratung die Eigentätigkeit der Klient_innen im Sinne einer »Hilfe zur Selbsthilfe« in den Mittelpunkt. Von besonderem Interesse ist hier zudem die Hervorhebung einer pädagogischen Ausbildung für die Durchführung einer Fachberatung. Demnach wird mit einer päda-\ngogischen Qualifikation die Fähigkeit zur professionellen Abgrenzung ver-\nbunden, welche eine notwendige Voraussetzung für eine spezialisierte Fach-\nberatung darstellt. Zusammenfassend ist für die weitere Analyse und Interpretation des empirischen Materials festzuhalten, dass der Begriff der Fachberatung in den Selbstbeschreibungen die Kombinatio"
+      },
+      {
+        "rank": 5,
+        "id": "bccfbeb674622e6fcfed5cf8304b22e80494de25ae5b82e21b680fa80788f1a4",
+        "score": 0.9195736050605774,
+        "meta": {
+          "file_path": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+          "source_id": "8129490997f07cf0df6cee42a671cd0ff9bc7c73eb13cc5d0aec0a7bd94f79f8",
+          "page_number": 11,
+          "split_id": 14,
+          "split_idx_start": 18381,
+          "_split_overlap": [
+            {
+              "doc_id": "ef6a222de3f386c12f59daa57933a87a782ac568c3fead821eeab5fc334dfd95",
+              "range": [
+                1284,
+                1740
+              ]
+            },
+            {
+              "doc_id": "06c131ea02f249563255ef8b0c46f84ba52320b5e6d5c4fb546f5ef0d81ad448",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "im klinisch-therapeutischen Ver-\nständnis Beratung also als eine Miniaturausgabe von Therapie angesehen wird, steht jedoch im Zentrum der pädagogischen Handlungsform eine Beratung als Unterstützungsmittel zur Bewältigung alltäglicher Entwicklungs- und Selbstfin-\ndungsaufgaben (Elbing, 2000). Auch das allgemeine Begriffsverständnis des Diagnostizierens reicht von der medizinischen Zuordnung einer bestimmten Symptomatik zu einer Krankheit 10\fBeraten und Diagnostizieren (durch den Arzt) bis zu der objektivierten Informationserfassung und -verarbeitung (d.h. Abgleichung von Anforderungen und Potenzialen unter Berücksichtigung der personen- und situationsbezogenen Bedingungskonstellationen und anschließendes Einordnen von Informationen in Klassifikationssysteme) (Elbing, 2000). Im Fokus der pädagogischen Diagnose steht das mehrdimensionale und mehrperspektivische Verstehen des einzelnen Kindes und die Berücksichtigung individueller Bedürfnis-\nse von Leben und Lernen in der Klasse bis hin zu"
+      }
+    ]
+  },
+  {
+    "filename": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+    "question": "Welche Bedeutung hat die Creative Commons-Lizenz BY-SA 4.0 für die Nutzung und Weitergabe des Werkes?",
+    "answer": "Dieses Werk steht unter folgender Creative Commons-Lizenz: CC BY-SA 4.0 International https://creativecommons.org/licenses/by-sa/4.0/.",
+    "expected": "Die Lizenz erlaubt das Vervielfältigen, Verbreiten, öffentliche Zugänglichmachen sowie das Anfertigen von Abwandlungen und Bearbeitungen, solange der Name des Autors genannt wird und neue Werke unter identischen oder kompatiblen Lizenzbedingungen weitergegeben werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a432b75e09b199c5e7e2a978c147f273dab148efb28c3e386869055eeef3903d",
+        "score": 0.774568498134613,
+        "meta": {
+          "file_path": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt",
+          "source_id": "1e4391597958969a4e50c5a22d0ceadc96dc875d6b72fba065687d4d114c2c64",
+          "page_number": 6,
+          "split_id": 5,
+          "split_idx_start": 6539,
+          "_split_overlap": [
+            {
+              "doc_id": "e579bb7c84b1ad6d8ece1484b5fd7f00bc1940ab524e449239691051df57d34a",
+              "range": [
+                1302,
+                2004
+              ]
+            },
+            {
+              "doc_id": "a5290b5f6e308462324eeb4441e31e3fb5b8ff531499e8c8996d8c24ec09d42b",
+              "range": [
+                0,
+                588
+              ]
+            }
+          ]
+        },
+        "content": "Grafiken und Abbildungen) ist ver ­\nöffentlicht unter der Creative Commons-Lizenz: CC BY-SA 4.0 International https://creativecommons.org/licenses/by-sa/4.0/ ISBN 978-3-7815-6106-9 digital doi.org/10.35468/6106 ISBN 978-3-7815-2651-8 print\fInhaltsverzeichnis | 7 Vorwort der Reihenherausgeber ........................................................................... 5 NeHle-Vorstand Hochschullernwerkstatt(t)räume, digital und/oder analog .............................. 11 Michelle Moos und Nadine Weber\nRahmenbeitrag ............................................................................................... 13 Keynote Ulrike Stadler-Altmann\nLernen ermöglichen. Lernwerkstätten und Innovative Lernumgebungen im Vergleich ................................................................................................... 25 Auseinandersetzung mit dem Raum Robert Baar\nWenn der Raum abhandenkommt: Hochschullernwerkstätten im Zeichen pandemiebedingter Schließungen. Eine empirische Untersuchu"
+      },
+      {
+        "rank": 2,
+        "id": "828c2ee4fcf0a77a0cc46065b475a33ccc43dc58de7e8fc8a891b3254ebbfde0",
+        "score": 0.6415284276008606,
+        "meta": {
+          "file_path": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt",
+          "source_id": "1e4391597958969a4e50c5a22d0ceadc96dc875d6b72fba065687d4d114c2c64",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1315,
+          "_split_overlap": [
+            {
+              "doc_id": "22e6059458a16980c76b83c30ee2e0553ee9118634202668b0aa98d286211efd",
+              "range": [
+                1315,
+                1929
+              ]
+            },
+            {
+              "doc_id": "3d8e41aaca67690ddb6112a2554fe44697ea679d74985dbb3184c43adc30531b",
+              "range": [
+                0,
+                512
+              ]
+            }
+          ]
+        },
+        "content": "ininnovativen Lernsettings. Bad Heilbrunn : Verlag Julius Klinkhardt 2024, S. 304-317 - URN:urn:nbn:de:0111-pedocs-307212 - DOI: 10.25656/01:30721; 10.35468/6106-25https://nbn-resolving.org/urn:nbn:de:0111-pedocs-307212https://doi.org/10.25656/01:30721in Kooperation mit / in cooperation with:http://www.klinkhardt.deNutzungsbedingungenTerms of useDieses Dokument steht unter folgender Creative Commons-Lizenz:http://creativecommons.org/licenses/by-sa/4.0/deed.de - Sie dürfen das Werkbzw. den Inhalt vervielfältigen, verbreiten und öffentlich zugänglich machensowie Abwandlungen und Bearbeitungen des Werkes bzw. Inhaltesanfertigen, solange sie den Namen des Autors/Rechteinhabers in der von ihmfestgelegten Weise nennen und die daraufhin neu entstandenen Werke bzw.Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben, die mitdenen dieses Lizenzvertrags identisch, vergleichbar oder kompatibel sind.This document is published under following Creative Commons-License:http://creativecommon"
+      },
+      {
+        "rank": 3,
+        "id": "3d8af1a7dbc340613fe560692ac22d0b83aded185e8189f27583fc4890e82648",
+        "score": 0.6183788180351257,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt",
+          "source_id": "2f003a9f1868a99b4c2da95595ea2af8d8a4f82a7ce62ff83b388833275b9c00",
+          "page_number": 12,
+          "split_id": 28,
+          "split_idx_start": 36519,
+          "_split_overlap": [
+            {
+              "doc_id": "93e71b9863739149a80942675c34eed841bcb56752105ae2f516e844f2e76e60",
+              "range": [
+                1389,
+                1741
+              ]
+            }
+          ]
+        },
+        "content": "müssen den Namen des/der AutorIn nennen und die Quell-URL angeben. • Angabe von Änderungen: Im Falle einer Bearbeitung müssen Sie die vorgenommenen Änderungen angeben. • Nennung der Lizenzbedingungen inklusive Angabe des Links zur Lizenz. Im Falle einer Verbreitung müssen Sie anderen die Lizenzbedingungen, unter die dieses Werk fällt, mitteilen. Die gesetzlichen Schranken des Urheberrechts bleiben hiervon unberührt. Nähere Informationen unter www.creativecommons.at. Im Falle der Wiederveröffentlichung oder Bereitstellung auf Ihrer Website senden Sie bitte die URL und/oder ein Belegexemplar elektronisch an redaktion@erwachsenenbildung.at oder postalisch an die angegebene Kontaktadresse. Kontakt und Hersteller Magazin erwachsenenbildung.at\nDas Fachmedium für Forschung, Praxis und Diskurs\np. A. CONEDU – Verein für Bildungsforschung und -medien\nMarienplatz 1/2/L, A-8020 Graz\nredaktion@erwachsenenbildung.at www.erwachsenenbildung.at/magazin\f"
+      },
+      {
+        "rank": 4,
+        "id": "1eca55b0a61b6c3cbcdcb18e646e04a8592e1a0071afe00dc6eb6f47b68d215a",
+        "score": 0.5546388626098633,
+        "meta": {
+          "file_path": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt",
+          "source_id": "5c97e4742b2ad7390e42e263f7fdd8a5b3ec8b7c2db61ba0dc4922975009f4fa",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c00ebcf54bb6c46dd0b6cae4a9fa28b733088d8b48e83dc10bd14e20d0632a45",
+              "range": [
+                0,
+                283
+              ]
+            }
+          ]
+        },
+        "content": "Lipowsky, Frank; Rzejak, DanielaUnterrichtsgespräche erfolgreich führen. Eine zentrale Kernpraktik vonLehrkräftenJournal für LehrerInnenbildung 22 (2022) 3, S. 58-73Quellenangabe/ Reference:Lipowsky, Frank; Rzejak, Daniela: Unterrichtsgespräche erfolgreich führen. Eine zentrale Kernpraktikvon Lehrkräften - In: Journal für LehrerInnenbildung 22 (2022) 3, S. 58-73 - URN:urn:nbn:de:0111-pedocs-267540 - DOI: 10.25656/01:26754; 10.35468/jlb-03-2022-04https://doi.org/10.25656/01:26754in Kooperation mit / in cooperation with:http://www.klinkhardt.deNutzungsbedingungenTerms of useDieses Dokument steht unter folgender Creative Commons-Lizenz:http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de - Sie dürfen dasWerk bzw. den Inhalt unter folgenden Bedingungen vervielfältigen, verbreitenund öffentlich zugänglich machen sowie Abwandlungen und Bearbeitungendes Werkes bzw. Inhaltes anfertigen: Sie müssen den Namen desAutors/Rechteinhabers in der von ihm festgelegten Weise nennen. DiesesWerk bzw. "
+      },
+      {
+        "rank": 5,
+        "id": "984fc2ace1d626929a42287addeccd61ac873532a2d486254ddc56eca0666a7a",
+        "score": 0.20957235991954803,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 21,
+          "split_id": 47,
+          "split_idx_start": 52947,
+          "_split_overlap": [
+            {
+              "doc_id": "de5459ecdab218323112b4dfe7214a61568b0be2f91df89f4c74df2317236b1d",
+              "range": [
+                1130,
+                1548
+              ]
+            },
+            {
+              "doc_id": "57a0c123cb4cead10d45cf708c31adecbefef5ee2f087e60f00911b9a5f97336",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "ich mir als Studentin für meine gelingenden Prüfungsvorbereitungen nutzbar machen kann? Welche „blin-\nden Flecke“ gilt es bei den Ratsuchenden auf seiner oder ihrer „persönlichen Landkarte“ zu füllen? Die Metaphern haben in ihrer Abstraktheit neue Impulse gesetzt und be-\ndürfen abschließend der erhellenden Konkretisierung im Handlungskontext der Ratsuchenden.\n4.4 Lösungs- und Ressourcenorientierte Gesprächsführung Anne Schlüter Fragen schaffen Wirklichkeit „Was möchtest Du erreichen?“. „Welche Ideen fallen Dir dazu ein?“. beantworten.\nmerken, dass Du Dein Ziel erreicht hast?“\neher etwas sagen. Aber die Frage zu beantworten: Diese einfache Frage ist nicht immer leicht zu „Woran genau wirst Du Dazu lässt sich vielleicht , braucht eine Vorstellungskraft, die Klarheit in der Zielsetzung voraussetzt. Um Lösungen zu finden und Schrit-\nte zu überlegen, wie man zum Ziel kommen kann, ist nicht allein der Einsatz von Visualisierungsübungen sinnvoll, sondern als zentrale Kompetenz auch eine ausdi"
+      }
+    ]
+  },
+  {
+    "filename": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+    "question": "Analysieren Sie, welche Rolle die Zusammenarbeit mit dem Verlag Budrich und dem Leibniz-Institut für Bildungsforschung und Bildungsinformation für die Veröffentlichung spielt.",
+    "answer": "Die Zusammenarbeit mit dem Verlag Budrich und dem Leibniz-Institut für Bildungsforschung und Bildungsinformation spielt eine wichtige Rolle für die Veröffentlichung. Der Verlag Budrich ist ein Spezialverlag für Sozialwissenschaften und Bildungsforschung, der sich auf die Veröffentlichung von wissenschaftlichen Werken spezialisiert hat. Durch die Zusammenarbeit mit dem Verlag können Forscher und Wissenschaftler ihre Ergebnisse und Forschungsergebnisse publizieren und somit einer breiteren Öffentlichkeit zugänglich machen. Das Leibniz-Institut für Bildungsforschung und Bildungsinformation ist ein Forschungsinstitut, das sich auf die Erforschung von Bildung und Bildungsinformation spezialisiert hat. Die Zusammenarbeit mit dem Institut ermöglicht es, dass Forscher und Wissenschaftler ihre Forschungsergebnisse publizieren und somit einen Beitrag zur Bildungsforschung leisten können. Durch die Zusammenarbeit zwischen Verlag und Institut können Forscher und Wissenschaftler ihre Ergebnisse und Forschungsergebnisse publizieren und somit einer breiteren Öffentlichkeit zugänglich machen. Dies ermöglicht es, dass Forschungsergebnisse und wissenschaftliche Erkenntnisse in der Bildungsforschung verbreitet werden und somit einen Beitrag zur Bildungsforschung leisten können.",
+    "expected": "Die Zusammenarbeit ermöglicht eine fachlich fundierte und wissenschaftlich verlässliche Veröffentlichung, unterstützt den Zugang über das Informationszentrum Bildung und gewährleistet die Verbreitung unter klaren Lizenzbedingungen, was die Sichtbarkeit und Nutzbarkeit des Werkes erhöht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2f97ce73d023af0ba230562d44da1e3d1686b14ac2aee477407a5bb8d0a53915",
+        "score": 0.23159858584403992,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 12,
+          "split_id": 21,
+          "split_idx_start": 27355,
+          "_split_overlap": [
+            {
+              "doc_id": "1347b822f07c3a8fe35d9d9b30c251a47fd0396979199fc19fec104b594087b3",
+              "range": [
+                1272,
+                1718
+              ]
+            },
+            {
+              "doc_id": "e0844084dcfa806928dea10a4986a83480480efd2577fd2e2c971f92a3cc3167",
+              "range": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        "content": "deut-\nlich an gesellschaftlicher Bedeutung und öffentlicher Bekanntheit gewon-\nnen. Die Zunahme wird vor allem auf gesellschaftliche Entwicklungen wie der Individualisierung von Bildungs- und Berufsbiografien, dem steigenden Stellenwert von nonformalen und selbstgesteuerten Lernprozessen sowie der zunehmenden Flexibilisierung und Dynamik des Arbeitsmarktes und des (Weiter-)Bildungssystems zurückgeführt (vgl. Schiersmann et al. 2008, S. 9f.). In Zusammenhang mit der daraus resultierenden Ausdifferenzie-\nrung von Beratungsleistungen wird vielfach festgestellt, dass auch für den Bereich der Bildungs- und Berufsberatung keine spezifische Beratungstheo-\nrie vorliegt (vgl. ebd., S. 15). Eine übergreifende Systematisierung des Be-\nratungsfeldes steht ebenfalls noch aus (vgl. Maier-Gutheil und Nierobisch 2015, S. 30). Stattdessen existieren unterschiedliche Theoriemodelle und Systematisierungsversuche, welche jedoch ein sehr umfassendes Bild von Bildungs- und Berufsberatung in unterschiedliche"
+      },
+      {
+        "rank": 2,
+        "id": "09268c246038229967fa8bebe28237651fd3cf7c1e76a221076d7b56cd1ef085",
+        "score": 0.21902070939540863,
+        "meta": {
+          "file_path": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+          "source_id": "8129490997f07cf0df6cee42a671cd0ff9bc7c73eb13cc5d0aec0a7bd94f79f8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1428,
+          "_split_overlap": [
+            {
+              "doc_id": "7c7de609692d43f350c9af974d10db09341bc60730d0153a18e95e637d63596a",
+              "range": [
+                1428,
+                1861
+              ]
+            },
+            {
+              "doc_id": "50713e9385a9227c352cb96340419f00a5b8c1f52bc9569b70f3a0b1c9c0f00c",
+              "range": [
+                0,
+                512
+              ]
+            }
+          ]
+        },
+        "content": "themanner specified by the author or licensor. New resulting works or contentsmust be distributed pursuant to this license or an identical or comparablelicense.Mit der Verwendung dieses Dokuments erkennen Sie dieNutzungsbedingungen an.By using this particular document, you accept the above-stated conditions ofuse.Kontakt / Contact:peDOCSDIPF | Leibniz-Institut für Bildungsforschung und BildungsinformationInformationszentrum (IZ) BildungE-Mail: pedocs@dipf.deInternet: www.pedocs.de\f\fInhaltsverzeichnis Claudia Angele & Ursula Buchner Editorial ........................................................................................................................ 2 Susanne Obermoser Beraten und Diagnostizieren – Nuancen im fachlichen und pädagogischen Verständnis ...................................................................................... 3 Nicola Kluß Essen und (Ess-)Genuss als Chance und Aufgabe der Ernährungsbildung ........... 17 Verena Permoser, Manuel Schätzer & Birgit Wil"
+      },
+      {
+        "rank": 3,
+        "id": "f1c10e22da917ece694c09d33736324efc21a45e22149608d2b79c9ef68e3e7e",
+        "score": 0.20426242053508759,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2409,
+          "_split_overlap": [
+            {
+              "doc_id": "eb66ef060bdf53f4c44f7c45e6f687b7affd81f48c5e76166c34ab200175ebe5",
+              "range": [
+                1230,
+                1596
+              ]
+            },
+            {
+              "doc_id": "6cef5377405d4dab72d3771fdf08dd23ba0d5eca01848cf620637a5debe2da7c",
+              "range": [
+                0,
+                437
+              ]
+            }
+          ]
+        },
+        "content": "der UDE an. Die Einführung in die Lern- und Bildungsbe-\nratung für Studierende (2010) und die „Beratungsfälle - Fallanalysen für die Lern- und Bildungsberatung“ (2014) sind immer wieder inhaltliche Bezüge, die wir aufnehmen, um das Feld der Bildungsberatung in Zielen und Zugehö-\nrigkeiten nachvollziehbar zu halten und weiterhin zu profilieren. Zur Ausge-\nstaltung des Feldes Bildungsberatung konzentrieren wir uns auf Methoden und Techniken, die für die Bildungsberatung anwendbar sind. Schließlich lie-\ngen für die Lernberatung Ausführungen zum Vorgehen vor, die wir an dieser Stelle nicht duplizieren wollen. Bildungsberatung bezieht sich auf die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung. Das Ziel von Beratungsgesprächen ist Orientierungen für (Weiter-)Bildungswege zu geben, um damit persönli-\nche und berufliche Entwicklungen unterschiedlicher Art zu ermöglichen bzw. Kompetenzentwicklung zu befördern, auch entsprechende Schritte im Rah-\nmen von Übergangsproz"
+      },
+      {
+        "rank": 4,
+        "id": "1c17523887029b2d2bbedf7bea37c3b2da83829034908f4c8261fceae78cdad0",
+        "score": 0.18263934552669525,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt",
+          "source_id": "2f003a9f1868a99b4c2da95595ea2af8d8a4f82a7ce62ff83b388833275b9c00",
+          "page_number": 4,
+          "split_id": 4,
+          "split_idx_start": 5584,
+          "_split_overlap": [
+            {
+              "doc_id": "241d87dd5392b3989df55b4cab6799cfd3cc4c5ca566bd03149853e50adf40b7",
+              "range": [
+                1249,
+                1691
+              ]
+            },
+            {
+              "doc_id": "4857efa7bf779e942bac33adf4f1a40561000be0751d2c4d8e1a517f716686b9",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "liegen für Bildungsberatungen jedoch noch kaum Erkenntnisse darüber vor, welche Beratungsver-\nständnisse es sind, die die BeraterInnen in ihren Beratungen konkret leiten. An dieser Forschungs-\nlücke setzt dieser Beitrag an. Mithilfe schriftlicher Falldokumentationen/Fallreflexionen soll in einem ersten Anlauf explorativ versucht werden, die handlungsstrukturierenden Leitbilder von Bildungs-\nberaterInnen zu rekonstruieren. 1 Im Diskurs um das deutsche Bildungssystem wird zwischen vier Bildungssektoren unterschieden. Der primäre und der sekundäre Bildungssektor schließen die Grundschulen, die weiterführenden Schulen und die Berufsschulen ein. Der tertiäre umfasst die universitären Ausbildungen und der quartäre Bildungssektor die allgemeine, berufliche und wissenschaftliche Weiterbildung. 2 05-\fSelbstreflexion und Beratung Vom Nationalen Forum für Beratung in Bildung, Beruf und Beschäftigung e.V. – einem gemeinnützi-\ngen, konfessionell und parteipolitisch unabhängigen Verein in Deutschlan"
+      },
+      {
+        "rank": 5,
+        "id": "57f1e1923b6752fd1c3d2864789f2573a1abf43b0b2637c7f41ade539268cf74",
+        "score": 0.1721331626176834,
+        "meta": {
+          "file_path": "9783847412304-059-086.txt",
+          "source_id": "45dee5f385fe757b59e7435157597176c3afe94ee539439ed53af7cefa795258",
+          "page_number": 21,
+          "split_id": 34,
+          "split_idx_start": 43292,
+          "_split_overlap": [
+            {
+              "doc_id": "837e5da9d69d1389c2f01609d0e45113a11399ea5679f747e6fd9322c1590cac",
+              "range": [
+                1298,
+                1755
+              ]
+            },
+            {
+              "doc_id": "96f09a050c7c8959c25514a2cad7ec7ad35704c29d1165748fe50781ed80b2d9",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "betrachtet einen Vorschub an Anerkennung für zukünftig zu vollziehende Handlungen. Im Kontext des Bildungsreisens lassen sich die hier statt(cid:191)ndenden Be-\nratungsakte auf den Bereich der informellen Bildungsberatung eingrenzen (Ewers 2014). Reiseentscheidungen sind demgemäß Bildungsentscheidungen. Bezieht man die oben skizzierten Voraussetzungen einer doppelten Di(cid:3445)erenz des Beratungsbegri(cid:3445)s auf Bildungsreisen, so lassen sich die Formen der Ad-\nressierung von potentiellen (Bildungs-)Reisenden dahingehend befragen, wie potentielle Reisende in informellen Ratgebern adressiert und wie subjektive Aneignungsprozesse von Welt durch spezi(cid:191)sche Beratungssettings präfor-\nmiert werden. 4. Apodemiken – Kunstlehren des richtigen Reisens Um einen Einblick in Modi der Adressierung und Beratung von Reisenden zu ermöglichen, wird im Folgenden das historische Phänomen der Apodemiken vorgestellt. Diese bezeichnen eine literarische Gattung, welche im Ende des 16. Jahrhunder"
+      }
+    ]
+  },
+  {
+    "filename": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren.txt",
+    "question": "Wie lässt sich aus dem Inhaltsverzeichnis die thematische Bandbreite der Ausgabe von 'Haushalt in Bildung & Forschung' ableiten und welche Bedeutung hat das für die pädagogische Praxis?",
+    "answer": "Die thematische Bandbreite der Ausgabe von 'Haushalt in Bildung & Forschung' umfasst verschiedene Aspekte, wie z.B. die Bedeutung des Raumes für pädagogische Prozesse, Beratungsräume, die Rolle der Mehrsprachigkeit in der Anerkennungsberatung, die Ausbildungsrichtlinien für Beratung und die Professionalisierung von Beratung. Diese Bandbreite ist relevant für die pädagogische Praxis, da sie neue Ansätze und Perspektiven auf das Beraten und Begleiten von Bildungsprozessen im Erwachsenenalter bietet und somit zur Weiterentwicklung des wissenschaftlichen Diskurses und der Praxis beiträgt.",
+    "expected": "Das Inhaltsverzeichnis zeigt eine breite thematische Palette von Beratung und Diagnostik über Ernährungsbildung bis hin zu handlungsorientiertem Lernen, was die Vielfalt pädagogischer Herausforderungen und Ansätze illustriert und Praktikern vielfältige Impulse für die Gestaltung ihrer Bildungsarbeit bietet.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b6ba301eb8aa4973ecb9d6e7fc7ff92f600d0bf880115596b4c73aa2e885a4eb",
+        "score": 0.8275755047798157,
+        "meta": {
+          "file_path": "9783847412304-009-015.txt",
+          "source_id": "b95e63990ac4390b5ab0f9e9a3c9565fdcf96e7029ed357ca8a1e742c793c7d5",
+          "page_number": 7,
+          "split_id": 15,
+          "split_idx_start": 19376,
+          "_split_overlap": [
+            {
+              "doc_id": "403e2517814f47caab0ee9ffa1e61cb284d863a15eea3cfaa69c3c26046815d0",
+              "range": [
+                1314,
+                1773
+              ]
+            }
+          ]
+        },
+        "content": "vorliegenden Tagungsband wollen die Herausgebenden nicht nur die Vielfalt der Beiträge der Jahrestagung 2017 dokumentieren, sondern zugleich die Bandbreite der Beratungsforschung in der Erwachsenenbil-\ndungswissenschaft aufzeigen. Dabei begegnen uns altbekannte Fragen nach der Professionalisierung, Institutionalisierung und Zielgruppenorientierung wieder, aber auch neue Zugänge und forschungsmethodische Ansätze geraten durch die Beratungsforschung in den Blick. Vor allem verdeutlicht uns der Tagungsband die reichhaltigen Bezüge und Schnittstellen zwischen verschie-\ndenen Praxisfeldern der Begleitung und Beratung von Bildungsprozessen im Erwachsenenalter, die nun zunehmend in Forschungsprogrammen Eingang finden. Wir hoffen, mit dem vorliegenden Tagungsband zur Weiterentwick-\nlung des wissenschaftlichen Diskurses wie auch des Praxisfeldes einen Bei-\ntrag leisten zu können. Beratung im Kontext des Lebenslangen Lernens\f"
+      },
+      {
+        "rank": 2,
+        "id": "a5a9452da2984b719e80d94190851b7c1cae0b72bab2e2f0fc852de89d74de9b",
+        "score": 0.7698588967323303,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 29,
+          "split_id": 70,
+          "split_idx_start": 80064,
+          "_split_overlap": [
+            {
+              "doc_id": "47676bf5cec6de2243a0d18edfea329e9bf77a0afdf0655be24502784ade2a88",
+              "range": [
+                1148,
+                1499
+              ]
+            },
+            {
+              "doc_id": "a36e539f18ff8e40d831fa348e132dcd824812d01b1f1c8721c297f666e3b38b",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "nur ein Beleg dafür. 2016 hat sich der Kongress der DGfE ausführlich mit dieser Thematik beschäftigt. Zu diesem Anlass widmet sich die ‚Zeitschrift für Pädagogik‘ (ZfP) dem Thema: „Raum und Räumlichkeiten in der erziehungswissenschaftlichen Forschung“ in Heft 1/2016. In der Einführung stellen die Herausgeber und Herausgeberinnen fest: „Raum ist wie Zeit eine konstitutive Bedingung des Pädagogischen Tuns“ (ZfP 2016: S. 1). Es wird konstatiert, dass erziehungswissenschaftliche Raum-\nforschung sich auf die Bedeutsamkeit des Raumes für pädagogische Prozesse zu konzentrieren habe (ebd.). Auf Beratungsräume in der Erwachsenenbil-\ndung wird nicht eingegangen. Dies erfolgt an dieser Stelle.\nRäume für Bildungsberatung Beratung findet zu verschiedenen Anlässen statt (vgl. Schlüter/Justen 2004). Ein Format ist die Kursberatung bzw. die Vorfeldberatung (Justen 2010). Sie dient der Einstufung in das Niveau z.B. eines Sprachkurses. Als ein weiteres Format sei die Karriereberatung (Girmes 2010) genan"
+      },
+      {
+        "rank": 3,
+        "id": "fbfca5818a21d32f8cfa0966f99490502876db32334565447325717b6e427917",
+        "score": 0.7649999856948853,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 14,
+          "split_id": 22,
+          "split_idx_start": 28220,
+          "_split_overlap": [
+            {
+              "doc_id": "4ffaca35dd958e4cb76e9ff5a1363227f55bdc4a9c33abc4cb00e72e4624baa8",
+              "range": [
+                1313,
+                1670
+              ]
+            },
+            {
+              "doc_id": "42793c5f95ed659a4a1f40af08a70d13ac6a883af725196fc4c464407c5e48f1",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "für Anlaufstellen und weitere Maßnahmen zur Anerkennung und Bewertung von im Ausland erworbenen Qualifikationen« (vgl. BMASK 2012) beschrieben und findet sich auch in dem AuBG wieder. Hier wird Anerkennungsberatung als ein Infor-\nmations- und Beratungsangebot bezeichnet, welches »in mehreren Sprachen zur Verfügung steht« (§ 5 Abs. 1 AuBG). Die Breite des sprachlichen Angebots variiert zwischen den verschiedenen Beratungsstellen in Abhängigkeit von der Teamgröße und -zusammensetzung. »[D]ie Kolleg_innen, die ich jetzt aufgezählt habe, sie sprechen auch zusätz-\nlich unterschiedliche Sprachen, das ist da auch bedacht. Also die eine spricht Türkisch, Deutsch, Englisch. Ein Kollege spricht Englisch, Arabisch, Deutsch und der nächste Kollege spricht Französisch, Englisch, Deutsch und vier afrika-\nnische Sprachen. Das ist wirklich, die Leute sprechen perfekt die Sprache und bei mir ist es Bosnisch, Serbisch, Kroatisch, Russisch, Deutsch« (J/AT, Z. 93-98). Dieser Interviewausschnitt zeigt, das"
+      },
+      {
+        "rank": 4,
+        "id": "c00c5d5f3c174dac4e1c91033db947b3610f8fc669a968be0698f4217b2a1d0c",
+        "score": 0.7366576790809631,
+        "meta": {
+          "file_path": "9783866496811-026-051.txt",
+          "source_id": "0ed01db4aa5761f9e7173fd6880d3ef7f1ec44e69cbdde99fa8e51a7cd8dfbd8",
+          "page_number": 16,
+          "split_id": 30,
+          "split_idx_start": 34968,
+          "_split_overlap": [
+            {
+              "doc_id": "627afa93cb4625353a4bea96864522e19c1e27350ebebde248c5a0aba8856ce5",
+              "range": [
+                1215,
+                1616
+              ]
+            },
+            {
+              "doc_id": "bbfd44a312c3e0ab31f5e2c1ab6a11435464b6a9e40e42a6df341252d01c53e7",
+              "range": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        "content": "Ausbildungsziele sind korrespondierend mit den Prüfungsbe-\nstimmungen zu denken, denn dort wird das Erreichen der Ausbildungsziele überprüft und die beraterischen Kompetenzen werden dort vielfach sowohl beim Prüfling als auch bei den Fachprüfern eingefordert. Mit dem neuen Gesetz wurden ebenfalls neue Ausbildungsrichtlinien imple-\nmentiert, bzw. neue Curricula erarbeitet. Auch hier schauen wir uns genauer an wie die Ausbildungsrichtlinie zum Thema Beratung formuliert wurde, dies wieder am Beispiel des Landes Nordrhein-Westfalen (vgl. Hundenborn 2003). In diesen Richtlinien werden bereits im ersten Punkt vom Teil A, die Verän-\nderung der Pflege deutlich hervorgehoben. „I.1. Berücksichtigung neuer Anforderungen an die Ausbildung in den Pflegeberufen“ Es wird klar dargestellt, dass sich die Profession Pflege von traditionellen Orientierungen lösen muss und sich nicht nur auf medizinische Kuration in Krankenhäusern beschränken kann. Die Pflege braucht einen größeren per-\nspektivischen Blic"
+      },
+      {
+        "rank": 5,
+        "id": "fdadfb29d00b9cb5956f2e3293afe3638db9e6056839ec25a0044a3ff9fc56ec",
+        "score": 0.6131219267845154,
+        "meta": {
+          "file_path": "9783847412304-129-180.txt",
+          "source_id": "a552771cf1a4f5dfa3b9da300d101a1da2157deec1a617bbc06888db07eeba93",
+          "page_number": 18,
+          "split_id": 29,
+          "split_idx_start": 37598,
+          "_split_overlap": [
+            {
+              "doc_id": "2d63e44e7be0af1fef331515097ae2f19461bc1dac7500644b0d060e6b53db40",
+              "range": [
+                1289,
+                1728
+              ]
+            },
+            {
+              "doc_id": "6a0bdf7a646e39e495642d9d403e86c9d30887d720dc9b7669843719baeb3faa",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "sind neue Aufgaben im Kinderschutz, das Hinzu-\nkommen medial vermittelter Beratung im Sinne von Blended Counseling und so weiter. Diese Heterogenisierung der Beratungslandschaft geht zusätzlich mit einer Zunahme von Beratungsangeboten einher. In der Folge können ak-\ntuelle Professionalisierungswünsche hinsichtlich Beratung nicht mehr auf den überlieferten Strukturkern einer im wesentlichen gesetzten Beratungsinfra-\nstruktur aufsetzen. Beratung als Handlungsform ist angesichts dieser Hetero-\ngenisierung aus ihren Strukturen freigesetzt, ähnlich wie das Unterrichten, das sich angesichts rasch ausdi(cid:3445)erenzierender Schulformen- und konzepte zunehmend auch wieder aus seiner eigentlichen pädagogischen Praxis heraus und nicht (nur) entlang der Institution Schule legitimieren muss. Zweitens be-\ndeutet Bologna, dass Professionalisierungsprozesse schon früher zielgerichtet beginnen als im bisherigen berufsbiographischen Zweiphasenmodell. Nimmt man an dieser Stelle die Handlungsorientieru"
+      }
+    ]
+  }
+]

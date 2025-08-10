@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "1001586-167-171.txt",
+    "question": "Was stellt das Lebensrad oder der Lebensstern in der lösungsorientierten Beratung dar?",
+    "answer": "Die Methode der lösungsorientierten Beratung zur Visualisierung bei Unzufriedenheit bezüglich unterschiedlicher Lebensbereiche des oder der Ratsuchenden.",
+    "expected": "Das Lebensrad oder der Lebensstern dient als Methode zur Visualisierung der Zufriedenheit in unterschiedlichen Lebensbereichen des Ratsuchenden. Es besteht aus einem großen Kreis, der in einzelne Kuchenstücke unterteilt ist, die verschiedene Lebensbereiche repräsentieren. An jeder Linie wird eine Skala von 1 bis 10 eingetragen, die den Zufriedenheitsgrad in dem jeweiligen Bereich zeigt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5aa8bbdc82440c39f2ab1a96859b041e665942e56601eed100765677ae090f00",
+        "score": 0.995816171169281,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a79b5c3c0cb6163d454ce404524835e429994f62d1fa5f770ba1e1d4d136c4a7",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "5.5 Methodenbeispiele 5.5.10 Lebensrad/Lebensstern Theresa Heimann Kurzbeschreibung Das Lebensrad oder der „Lebensstern“ (Bamberger 2010: 110) dient als Me-\nthode der lösungsorientieren Beratung zur Visualisierung bei Unzufrieden-\nheit bezüglich unterschiedlicher Lebensbereiche des oder der Ratsuchenden. Die Bezeichnung „Rad“ oder „Stern“ bezieht sich auf die gemeinsam erarbeite-\nte Zeichnung während der Durchführung der Methode. Die Zeichnung besteht aus einem großen Kreis, unterteilt in einzelne „Kuchenstücke“, die sich jeweils auf einen Lebensbereich des oder der Ratsuchenden beziehen (z.B. Familie, Beruf, Zeit für mich, Gesundheit, Beziehung, Freunde etc.). An die einzelnen Linien, die sich vom Mittelpunkt des Kreises bis zur Außenlinie ziehen, wird eine Skala im Wert von 1-10 eingetragen, welches die Zufriedenheitsskala zu dem jeweiligen Lebensbereich darstellt. Für diejenigen Bereiche, in denen der oder die Ratsuchende noch unzufrieden ist, erarbeiten der oder die Ratsu-\nchende u"
+      },
+      {
+        "rank": 2,
+        "id": "a79b5c3c0cb6163d454ce404524835e429994f62d1fa5f770ba1e1d4d136c4a7",
+        "score": 0.9870668053627014,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1158,
+          "_split_overlap": [
+            {
+              "doc_id": "5aa8bbdc82440c39f2ab1a96859b041e665942e56601eed100765677ae090f00",
+              "range": [
+                1158,
+                1562
+              ]
+            },
+            {
+              "doc_id": "04afde3e55edc58a76d9cd9172e666b36a5b2b6f1c2f823bc0f2fbc074083a3b",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Abb. 24: Mehrere Lebensbereiche mit jeweiligen Skalierungen im Lebensstern (eigene Darstellung) Zunächst findet die Methode Verwendung in der Berufs- oder Studienbera-\ntung. Weitere Anliegen können ebenfalls die Beziehungssituation oder die persönliche Lebensqualität und Work-Life-Balance betreffen (vgl. Rauen, 2008: 153). Die Methode kann gut eingesetzt werden, wenn der bzw. die Rat-\n167\fsuchende im Beratungsgespräch äußert, mit der eigenen Lebenssituation un-\nzufrieden zu sein und selbst nicht weiß, wie er oder sie etwas verändern und dadurch verbessern soll. Mit dem Lebensrad kann also eine Visualisierung der Problemlage und zum anderen ein strukturierter Lösungsweg gefunden werden. Der Beratungsprozess mit Hilfe des Lebensrads hat zum Ziel, vom Ist-\nWert zum Soll-Wert einer oder mehrerer der Kategorien zu gelangen. Zeit: Phase/Funktion: Anliegen: Material: • DinA3- oder Flipchartpapier • DinA4-Papier\n• Stifte Mittelphase: Ziel- und Lösungserarbeitung Lösungsfindung, Verbesse-\nrung "
+      },
+      {
+        "rank": 3,
+        "id": "0fb5c98e6ede092d1b8b0d782b131d0e8b6025f561008b564117c04fb88570dd",
+        "score": 0.9675121307373047,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 27,
+          "split_id": 60,
+          "split_idx_start": 68049,
+          "_split_overlap": [
+            {
+              "doc_id": "63012979169b62ec7d6eeeb975f1d112dca9049a1b3757f5cb9eb45b529cfad0",
+              "range": [
+                1187,
+                1588
+              ]
+            },
+            {
+              "doc_id": "32d2d3a3d5bc3429ce334444bc04cfa240661ab520ab16a7caebb31caa560191",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Dies wird dann wichtig, wenn Beratungseinrichtungen mit bestimmten Zielgruppen arbeiten, die dabei unterstützt werden sollen, sich von äußerlich vorhandenen Lebens-\numständen durch das Aufsuchen von Bildungsangeboten emanzipieren zu können. Ressourcen- und Lösungsorientierte Beratung Die hilft dem oder der Rat-\nsuchenden, sich ganz auf die Bewältigung des Anliegens zu konzentrieren. Sie wendet die Aufmerksamkeit auf vorhandene Fähigkeiten und Ideen und verknüpft dabei eine biographie- und eine zukunftsorientierte Perspektive. Ratsuchenden sind ihre eigenen Ressourcen oft nicht gegenwärtig. Was uns im Leben Probleme bereitet, bindet eher unsere Aufmerksamkeit, als diejeni-\ngen Anteile, die gut und wie automatisch funktionieren. Indem die Ressour-\ncen- und Lösungsorientierte Beratung dem Raum gibt, was den Ratsuchenden schon zur Verfügung steht, stärkt sie ihre Selbstwirksamkeit und das Vertrauen in eine eigenständige Bewältigung der Situation. Gerade für die Bildungsberatung verknüpft s"
+      },
+      {
+        "rank": 4,
+        "id": "38fe77269dbeb5524b3d7abc8f7ddeabc2608e03fa8a0e3337dd0b9f451ff2ac",
+        "score": 0.9601171612739563,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 13,
+          "split_id": 24,
+          "split_idx_start": 29567,
+          "_split_overlap": [
+            {
+              "doc_id": "ffd7c6bb83f723b48857e3f3915f3a5549fc5ad88c1adc671a5ed1c642999966",
+              "range": [
+                1265,
+                1697
+              ]
+            },
+            {
+              "doc_id": "2c42cfcf7d83eb122705efcbdbcefb05ae85b26b9e516f7527fa8a6c2445c2aa",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "Lebenslanges Lernen revisited – Zur Strukturlogik der New Educational Governance in der Wissensgesellschaft. In: Bauer, U./Bolder, A./\nBremer, H./Epping, R. (Hg.): Bildung für Arbeit unter neuer Steuerung. Wiesba-\nden: Springer VS, S. 2744. Klingovsky, Ulla/Pawlewicz, Susanne (2014): Untiefen im Diskurs um das Lebenslan-\nge Lernen. Zur Transformation erwachsenenpädagogischer Handlungsformen. In: Holzer, D./Kloyber, C./Schuster, W./Vater, S. (Hg.): Wenn Weiterbildung die Antwort ist, was war die Frage? Innsbruck, Wien, Bozen: Studienverlag, S. 85–\n97. Maasen, Sabine (2011): Das beratene Selbst. Zur Genealogie der Therapeutisierung\f248 Farina Wagner in den ›langen‹ Siebzigern: Eine Perspektivierung. In Maasen, S./Elberfeld, J./\nEitler, P./Tändler, M. (Hg.): Das beratene Selbst. Zur Genealogie der Therapeuti-\nsierung in den ›langen‹ Siebzigern. Bielefeld: Transcript, S. 7–34. Nittel, Dieter (2016): Der erziehungs- und bildungswissenschaftliche Zugang zur Handlungsform „Beratung“. In: Gies"
+      },
+      {
+        "rank": 5,
+        "id": "29155188ecceeaf9deb207ee309fbe57d9d3de07d0d65b2ba6adc13c151421c8",
+        "score": 0.9469574093818665,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 17,
+          "split_id": 36,
+          "split_idx_start": 43207,
+          "_split_overlap": [
+            {
+              "doc_id": "ddfdbbe1db020bd326108c35fda673954b57f205cb519df8463c9f46b2f3782d",
+              "range": [
+                1211,
+                1624
+              ]
+            },
+            {
+              "doc_id": "395aed3c9f0edb86b150dda12b7c0f282c51c85d7645ebd263cf7518974bdc87",
+              "range": [
+                0,
+                354
+              ]
+            }
+          ]
+        },
+        "content": "(Schlüter 2010: 164) Anders als der Besuch von Seminaren wird eine Beratungssituation von Ratsuchenden trotz aller Überschneidungen eher nicht als Lernsituation wahrgenommen. Sie gehört damit also mehr zum Bereich lebensweltlicher Lernanreize, als zu vermittelten Lernsituationen.\nSelbstlernprozesse, Selbststeuerung des Lernens und die Anleitung von Lernprozessen aus Sicht der Didaktik der Erwachsenenbildung – Vergleich von lebensweltlichen und vermittelten Lernprozessen Die Schuldidaktik – und damit leider auch unsere Alltagstheorien über Lern-\nprozesse – ist in Deutschland stark geprägt worden von der kritisch-konst-\nruktiven Didaktik Wolfgang Klafkis (Klafki 1985), der eher das Verhältnis von Lerner und Umwelt bzw. Lerner und Inhalt in den Mittelpunkt stellt. Eine Errungenschaft dieser Theorien ist die Betonung, wie wichtig es ist, sich bewusst zu machen, dass Lernen immer ein aktiver Aneignungsprozess auf Seiten der Lerner ist. Neue Informationen und Erlebnisse docken die Lerner imm"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-167-171.txt",
+    "question": "Wie unterstützt das Lebensrad den Beratungsprozess bei Unzufriedenheit des Ratsuchenden?",
+    "answer": "Das Lebensrad kann dem Ratsuchenden dabei helfen, eine systematische Übersicht über seine Situation zu erhalten, indem es verschiedene Bereiche des Lebens visualisiert. Dies kann besonders hilfreich sein, wenn der Ratsuchende unzufrieden mit seiner aktuellen Lebenssituation ist, aber keine handlungsorientierte Lösung findet. Durch das Lebensrad kann der Ratsuchende seine Zufriedenheit in verschiedenen Bereichen seines Lebens visualisieren und so eine bessere Vorstellung davon bekommen, wo sich seine Unzufriedenheit befindet. Dadurch kann der Berater oder die Beraterin den Ratsuchenden bei der Identifizierung von Veränderungsmöglichkeiten unterstützen und gemeinsam Lösungen finden, um die Unzufriedenheit zu überwinden.",
+    "expected": "Das Lebensrad visualisiert die Problemlage der Unzufriedenheit in verschiedenen Lebensbereichen und ermöglicht es, gemeinsam mit dem Ratsuchenden strukturierte Lösungswege zu entwickeln. Ziel ist es, vom Ist-Wert (aktueller Zufriedenheitsgrad) zum Soll-Wert (gewünschter Zufriedenheitsgrad) in einem oder mehreren Lebensbereichen zu gelangen, indem auf einem A4-Blatt konkrete Veränderungsmöglichkeiten erarbeitet werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "04afde3e55edc58a76d9cd9172e666b36a5b2b6f1c2f823bc0f2fbc074083a3b",
+        "score": 0.9964637160301208,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2322,
+          "_split_overlap": [
+            {
+              "doc_id": "a79b5c3c0cb6163d454ce404524835e429994f62d1fa5f770ba1e1d4d136c4a7",
+              "range": [
+                1164,
+                1593
+              ]
+            },
+            {
+              "doc_id": "089acf44b12ab78cb0931d0c6d9631cbca095c6aaa42efc578b29740e8f88165",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "vor der Beratung eine Kopie anfer-\nMethode einleiten:\ntigen. 2. Häufig ergibt sich im Beratungsgespräch eine Situa-\ntion, in welcher der bzw. die Ratsuchende seine bzw. ihre Unzufriedenheit bezüglich der jetzigen Lebenssituation äußert. Womöglich werden ver-\nschiedene Veränderungsmöglichkeiten aufgezählt, dennoch ergibt sich kei-\nne handlungsorientierte Lösung für die Unzufriedenheit des Ratsuchenden, oder alle Bereiche sind so voneinander abhängig, dass der bzw. die Ratsu-\nchende keinen Anfang findet. In diesen Fällen können Sie dem oder der Rat-\nsuchenden einen systematischen Überblick über ihre bzw. seine Situation Kernphase:\nanhand des Lebensrades vorschlagen. 3. Der bzw. die Ratsuchende berichtet bereits während des Bera-\n„Sie haben jetzt tungsgesprächs über Themen, die ihn bzw. sie unzufrieden machen und in schon einige Bereiche genannt, in denen Sie unzufrieden sind, welche Themen denen er bzw. sie sich handlungsunfähig fühlt. Die Aussage spielen in Ihrem Leben noch eine wichtig"
+      },
+      {
+        "rank": 2,
+        "id": "0fb5c98e6ede092d1b8b0d782b131d0e8b6025f561008b564117c04fb88570dd",
+        "score": 0.9955549836158752,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 27,
+          "split_id": 60,
+          "split_idx_start": 68049,
+          "_split_overlap": [
+            {
+              "doc_id": "63012979169b62ec7d6eeeb975f1d112dca9049a1b3757f5cb9eb45b529cfad0",
+              "range": [
+                1187,
+                1588
+              ]
+            },
+            {
+              "doc_id": "32d2d3a3d5bc3429ce334444bc04cfa240661ab520ab16a7caebb31caa560191",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Dies wird dann wichtig, wenn Beratungseinrichtungen mit bestimmten Zielgruppen arbeiten, die dabei unterstützt werden sollen, sich von äußerlich vorhandenen Lebens-\numständen durch das Aufsuchen von Bildungsangeboten emanzipieren zu können. Ressourcen- und Lösungsorientierte Beratung Die hilft dem oder der Rat-\nsuchenden, sich ganz auf die Bewältigung des Anliegens zu konzentrieren. Sie wendet die Aufmerksamkeit auf vorhandene Fähigkeiten und Ideen und verknüpft dabei eine biographie- und eine zukunftsorientierte Perspektive. Ratsuchenden sind ihre eigenen Ressourcen oft nicht gegenwärtig. Was uns im Leben Probleme bereitet, bindet eher unsere Aufmerksamkeit, als diejeni-\ngen Anteile, die gut und wie automatisch funktionieren. Indem die Ressour-\ncen- und Lösungsorientierte Beratung dem Raum gibt, was den Ratsuchenden schon zur Verfügung steht, stärkt sie ihre Selbstwirksamkeit und das Vertrauen in eine eigenständige Bewältigung der Situation. Gerade für die Bildungsberatung verknüpft s"
+      },
+      {
+        "rank": 3,
+        "id": "4fd4a447d3ebfbb94f2581aba09a9fafb0ac142f302e313500e373858a4728c9",
+        "score": 0.9949837923049927,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 20,
+          "split_id": 44,
+          "split_idx_start": 52765,
+          "_split_overlap": [
+            {
+              "doc_id": "14e1750b895b23c68c0e0c3e3230312ea365a8899c5a4391306d5ed0a424e89e",
+              "range": [
+                1246,
+                1663
+              ]
+            },
+            {
+              "doc_id": "c9949d2eb670033fc15c64900bd1e50bd2a34fa0bf5437b8146a9f1fe5161929",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "Bildungsberatung eine not-\nwendige Ergänzung zu einem gesamtgesellschaftlichen Umgang mit den Herausforderungen der Globalisierung dar und zeigt, wie wichtig die Pro-\nfessionalisierung in diesem Bereich wird. Ratsuchende, die Beratung für sich nutzen und Zugang dazu erhalten, erschließen sich damit ein breites Lern-\nangebot. Jede positive Beratungserfahrung steigert letztlich also auch die Selbstlernkompetenz auf Seiten der Ratsuchenden, um mit Übergängen und Veränderungsprozessen wirksam umgehen zu können. 36 2 Hintergründe von Beratungsprozessen\f2.4 Zusammenfassung Anne Schlüter Hintergründe von Beratungsprozessen sind die Einbindung in Theorien, die den Gegenstand Beratung erzeugen, die Kontextualisierung der Biographisie-\nrung als Sinnkategorie und die Einbindung in ein professionelles Feld, das die Auswahl der Inhalte von Beratungsgesprächen dominiert. Beraterinnen und Berater werden sich in der Praxis mit Ratsuchenden kaum über theoretische Ansätze unterhalten. Ratsuchende nehmen"
+      },
+      {
+        "rank": 4,
+        "id": "89d0cb8df35ad2237a92ad020e42efcefeb66df4de48f50436acce74f67a21bf",
+        "score": 0.9919776916503906,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 13,
+          "split_id": 30,
+          "split_idx_start": 34356,
+          "_split_overlap": [
+            {
+              "doc_id": "894a734a6274b042642075039c9fe56d4ac0232f8b254f5c9de130ea7102cad9",
+              "range": [
+                1182,
+                1539
+              ]
+            },
+            {
+              "doc_id": "b30feba5d765174d9bd5285ce27ab507f59612a687b9f34d6d7da9a7ad508142",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "und dabei darauf achten, dass das Wissen „nicht statisch allgemein angewandt, sondern ausgelegt und fallspezifisch gehandhabt [wird]“ (Schröd-\nter 2004: 459). Sich auf eine Beratung einzulassen, erfordert von den Ratsuchenden in den meisten Fällen die Überwindung von mal mehr, mal weniger großen Hür-\nden. Es geht um Veränderungswünsche, bei denen der Weg sowie der Ausgang noch ungewiss sind. Ratsuchende kommen mit Fragen, Zweifeln und manch-\nmal auch Sorgen um ihre Zukunft in die Beratung und erhoffen sich im bes-\nten Falle eine Lösung dieser Unsicherheiten. Es geht in fast allen Fällen von Beratung um das Aufrechterhalten oder Wiedererlangen von Sicherheit und Handlungsmacht. In die Person des oder der Beratenden wird dabei sowohl Hoffnung in Bezug auf die Lösungsfindung als auch ein enormer Vertrauens-\nvorschuss investiert. Diesem Einsatz auf Seiten der Ratsuchenden sollten die Beratenden mit Respekt und Wertschätzung begegnen und sich stets an deren Wohl und der Vermeidung von Schad"
+      },
+      {
+        "rank": 5,
+        "id": "63460860ad15a620d4472b3f5b5a17fd2e623cfaa6ab0892f37a7680b24c3b5f",
+        "score": 0.9899458289146423,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 14,
+          "split_id": 34,
+          "split_idx_start": 37222,
+          "_split_overlap": [
+            {
+              "doc_id": "4127feef5c080129a0790a27c555f8e118f19774db2dd2331d5f46a918a19757",
+              "range": [
+                1124,
+                1499
+              ]
+            },
+            {
+              "doc_id": "d6c1fa9632d5aa849039427126a105140b9f8c962e9e42034610c159d2760755",
+              "range": [
+                0,
+                305
+              ]
+            }
+          ]
+        },
+        "content": "die Beratung in Anspruch nehmen können. Dann können die Ratsuchenden mit darauf achten, die Zeit einigermaßen einzuhalten. Machen Sie sich aber bewusst, dass das Zeitmanagement in der Beratung in Ihrer Ver-\nantwortung liegt. Wenn Sie während des Prozesses auch gelassen und selbst-\nverständlich nächste Schritte mit zeitlichen Abschnitten im Beratungsprozess versehen, geben Sie den Ratsuchenden damit auch gleichzeitig eine gute Ori-\nentierung. Das Zeitempfinden von Ratsuchenden ist ein anderes als das der Berate-\nrinnen und Berater. Da für sie alle besprochenen Inhalte bedeutsam und mit einer Fülle von vernetzten Assoziationen und Emotionen verbunden sind, ist das Gespräch für sie viel intensiver. Man könnte auch sagen innerhalb der zur Verfügung stehenden Zeit viel dichter. Es ist zwar einladend, gerade wenn man das Gefühl hat, dass es gerade gut läuft, einen Prozess nach dem ande-\nren anzustoßen. In der Regel entfalten diese zusätzlichen Schritte jedoch nicht mehr ihre volle Wirkung. E"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-167-171.txt",
+    "question": "In welchen Beratungskontexten wird die Methode des Lebensrads typischerweise angewendet und warum?",
+    "answer": "I cannot find the answer in the provided context. The context discusses the concept of \"methoden\" and \"techniken\" in the context of Beratung, but does not mention the \"Lebensrad\" method. The Lebensrad method is a specific technique used in the context of career counseling and career development, but it is not mentioned in the provided text.",
+    "expected": "Die Methode wird vor allem in der Berufs- oder Studienberatung verwendet, kann aber auch bei Anliegen zur Beziehungssituation, persönlichen Lebensqualität oder Work-Life-Balance eingesetzt werden. Sie eignet sich besonders dann, wenn der Ratsuchende Unzufriedenheit äußert, aber keine klare Handlungsorientierung für Veränderungen hat, da das Lebensrad eine Visualisierung und Strukturierung der Situation schafft.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ccf1cb73ab8e8ba59f3133679f2314eff2be432c46eb0295c1fca0ef6b64905d",
+        "score": 0.9963562488555908,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 6,
+          "split_id": 14,
+          "split_idx_start": 15763,
+          "_split_overlap": [
+            {
+              "doc_id": "1f19a8611b4f80346e3aecacdb4d99e01ca57755281921d44a0b9e5d603a9ba6",
+              "range": [
+                1105,
+                1505
+              ]
+            },
+            {
+              "doc_id": "b2407410e42222ef6a13015d8a99f628dc6e6270fa953b7e79047f7ad18d7aea",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "Die Verwendung der Begriffe „Methoden“, „Techniken“ und „Interventionen“ sind immer eng verbunden mit den Ansätzen und Theorien, die von Autorin-\nnen und Autoren als grundlegend für das Gelingen von Beratungsprozessen 44 3 Erfahrungsraum Beratung: Handlungsorientierung\fgriff\nangesehen werden. In unserem Fall verwenden wir daher den Methodenbe- für Beratungsverfahren, die einen Prozess in mehreren Schritten beglei-\nten, die aufeinander aufbauen und sich aus dem jeweils vorherigen heraus ergeben. Es ist uns jedoch wichtig, Methoden von Methoden zu unterscheiden. Methoden als starre Abläufe zu verstehen, würde unserem Verständnis eines „methodischen Vorgehens“ in der Beratung widersprechen. Methodenbeschreibungen sehen wir als Ideenlieferant für die Entwicklung und Entfaltung von eigenen Beratungsmethoden durch Beraterinnen und Be-\nrater. Beratungstechniken beschreibung Den Begriff verwenden wir hingegen, wenn es um frei kombinierbare einzelne Tätigkeiten im Beratungshandeln geht. Wissens"
+      },
+      {
+        "rank": 2,
+        "id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+        "score": 0.9956135749816895,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 9,
+          "split_idx_start": 10650,
+          "_split_overlap": [
+            {
+              "doc_id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+              "range": [
+                1180,
+                1562
+              ]
+            },
+            {
+              "doc_id": "591ab83cb2906ffd82d57d1cc622d2cffdaee72a6e660b3446987075b4b025c3",
+              "range": [
+                0,
+                310
+              ]
+            }
+          ]
+        },
+        "content": "the-\noretischen Ausrichtung und ihrer Methode(n) angewandt werden, (…) haben Methoden selbst dagegen etwas mit Beratungskonzepten, Beratungstheorien, Menschenbildern und ähnlichem zu tun, dem konzeptionellen Ansatz ‚hinter‘ dem, was der /die BeraterIn im Kontext der Beratung tut. Sie sind Ausdruck einer bestimmten Haltung gegenüber denjenigen, die Beratung suchen und worum es in der Beratung geht und können daher auch schwer aus diesem Kontext gelöst werden.“ (Brunner 2006: 29, zit. nach Zienert 2009: 50) Im Folgenden sollen die Begriffe, wie wir sie gebrauchen, umschrieben und damit vereindeutigt werden, um damit agieren zu können. Das sind die Begrif-\nfe: Prinzipien, Methoden, Techniken, Instrumente, Tools und Medien. Häufig werden Begriffe synonym verwendet, so wie bei Brunner im obigen Zitat. Er setzt Instrumente und Techniken auf eine Stufe. Nach unserem Verständnis sind diese aber sprachlich durchaus unterscheidbar. Mit einem Instrument 12 1 Einleitung\flässt sich arbeiten. Man de"
+      },
+      {
+        "rank": 3,
+        "id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+        "score": 0.9934226870536804,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 8,
+          "split_idx_start": 9470,
+          "_split_overlap": [
+            {
+              "doc_id": "c19f20cd37e4b74c2f853b63714c3c5d5545248aaaba84d829715363b8f031bf",
+              "range": [
+                1075,
+                1448
+              ]
+            },
+            {
+              "doc_id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie-\nhen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge-\nklärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar-\nbeiten ermöglichen. Brunner formuliert z. B. Daher wird zunächst der Stellenwert von Methoden und Techniken, von Konzepten und Theorien erläutert und der Stellenwert von Beratungsanläs-\nsen und Inhalten der Beratungsgespräche erörtert. Sie einem Format und Feld zuzuordnen, ist darüber hinaus wichtig, um die Anforderungen im jeweiligen Feld der Beratung einschätzen zu können. Denn zu jedem Beratungsfeld ge-\nhören Wissensbestände, die der Beratung"
+      },
+      {
+        "rank": 4,
+        "id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+        "score": 0.9921114444732666,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+              "range": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        "content": "3 Erfahrungsraum Beratung: Handlungsorientierung 3.1 Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter-\nschiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech-\nniken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer in diesem Band verwenden – einen eigenen Beitrag.\nnicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön-\nnen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) So heißt es bei Frank Nestmann im Handbuch der Beratung. Fast alle Erläute-\nrungen des Methodenbegriffs gehen von der etymologischen Herleitung aus, dass eine Methode ein Weg ist, ein Ziel zu erreichen. In dem Zitat von Frank N"
+      },
+      {
+        "rank": 5,
+        "id": "5086b69799f5a9e871e7341ef5c749a05f78fae9ca646a84ebf1f61014004658",
+        "score": 0.9920210242271423,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 8,
+          "split_id": 18,
+          "split_idx_start": 20235,
+          "_split_overlap": [
+            {
+              "doc_id": "cd5af7c454322269948944dd60160b34d23680d93e6eb3e289860462ab8f8f91",
+              "range": [
+                1126,
+                1542
+              ]
+            },
+            {
+              "doc_id": "5e4aa13ac782bf8b862ca7554dcb0eb4f9125f95ec9bd196a5a2d31085872015",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "von Methoden sind dort erreicht, wo die Bezie-\nhung zwischen Ratsuchenden und Beratenden nicht konstruktiv genutzt werden kann, sondern von gegenseitigen Widerständen geprägt ist. Im Um-\nkehrschluss kann eine methodengeleitete Entwicklungsunterstützung nur dann gelingen, wenn diese Widerstände ernstgenommen werden und der Aktualisierungstendenz der Ratsuchenden ein Klima geboten wird, in dem Entfaltung angstfrei möglich wird. Dann kann ein Umstrukturierungsprozess vorangetrieben werden: kognitiv, emotional und nachhaltig handlungsrele-\nvant.\n6.2 Umgang mit schwierigen Beratungssituationen Reflexionen aus dem Seminar „Methoden und Techniken in der Bildungsberatung“ Karin Kress Während unserer Praxiseinheiten in den Seminaren zur Bildungsberatung kommen von den Studierenden immer wieder Fragen auf, die nicht mit dem Verweis auf eine Methode oder die Umsetzung einer bestimmten Technik be-\nantwortet werden können. Vielmehr handelt es sich dabei um Fragen, die ein Zusammenspiel der untersch"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-167-171.txt",
+    "question": "Warum ist die Visualisierung mittels Lebensrad für Ratsuchende mit komplexen und voneinander abhängigen Lebensbereichen besonders hilfreich?",
+    "answer": "Die Visualisierung mittels Lebensrad kann für Ratsuchende mit komplexen und voneinander abhängigen Lebensbereichen besonders hilfreich sein, da sie es ihnen ermöglicht, ihre verschiedenen Lebensbereiche grafisch darzustellen und ihre Zufriedenheit in jedem Bereich zu skizzieren. Dies kann helfen, die Komplexität ihrer Situation zu überblicken und mögliche Ursachen ihrer Unzufriedenheit zu identifizieren. Außerdem kann die Visualisierung die Ratsuchenden dazu anregen, ihre verschiedenen Lebensbereiche in Beziehung zu setzen und zu sehen, wie sie sich gegenseitig beeinflussen. Dies kann zu neuen Erkenntnissen und Lösungsideen führen. Im Zusammenhang mit der Beziehungskategorie ist es beispielsweise möglich, dass das Zuordnen eines Zahlenwertes Schwierigkeiten mit sich bringen kann, da diese Kategorie mehrere gute und schlechte Seiten hat. Das Lebensrad/der Lebensstern kann daher als Momentaufnahme des emotionalen Zustandes des Ratsuchenden eingeschätzt werden. Es ermöglicht eine grafische Darstellung der verschiedenen Lebensbereiche und kann so die Komplexität der Situation überblicken und mögliche Ursachen der Unzufriedenheit identifizieren. Die Visualisierung kann auch dazu anregen, die verschiedenen Lebensbereiche in Beziehung zu setzen und zu sehen, wie sie sich gegenseitig beeinflussen. Dies kann zu neuen Erkenntnissen und Lösungsideen führen. Im Beratungsgespräch kann die Visualisierung auch dazu dienen, die positiven Entwicklung durchzuführen, indem die Ratsuchenden ihre positiven Entwicklungen und Erfolge visualisieren und sich auf diese konzentrieren können.",
+    "expected": "Weil die verschiedenen Lebensbereiche oft miteinander verflochten sind und sich gegenseitig beeinflussen, fällt es Ratsuchenden schwer, einen Anfang zur Veränderung zu finden. Die Visualisierung mit dem Lebensrad macht diese Zusammenhänge sichtbar, ordnet die Zufriedenheit in den einzelnen Bereichen und hilft so, Prioritäten zu setzen und gezielte Lösungsansätze zu entwickeln.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5aa8bbdc82440c39f2ab1a96859b041e665942e56601eed100765677ae090f00",
+        "score": 0.9952784776687622,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a79b5c3c0cb6163d454ce404524835e429994f62d1fa5f770ba1e1d4d136c4a7",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "5.5 Methodenbeispiele 5.5.10 Lebensrad/Lebensstern Theresa Heimann Kurzbeschreibung Das Lebensrad oder der „Lebensstern“ (Bamberger 2010: 110) dient als Me-\nthode der lösungsorientieren Beratung zur Visualisierung bei Unzufrieden-\nheit bezüglich unterschiedlicher Lebensbereiche des oder der Ratsuchenden. Die Bezeichnung „Rad“ oder „Stern“ bezieht sich auf die gemeinsam erarbeite-\nte Zeichnung während der Durchführung der Methode. Die Zeichnung besteht aus einem großen Kreis, unterteilt in einzelne „Kuchenstücke“, die sich jeweils auf einen Lebensbereich des oder der Ratsuchenden beziehen (z.B. Familie, Beruf, Zeit für mich, Gesundheit, Beziehung, Freunde etc.). An die einzelnen Linien, die sich vom Mittelpunkt des Kreises bis zur Außenlinie ziehen, wird eine Skala im Wert von 1-10 eingetragen, welches die Zufriedenheitsskala zu dem jeweiligen Lebensbereich darstellt. Für diejenigen Bereiche, in denen der oder die Ratsuchende noch unzufrieden ist, erarbeiten der oder die Ratsu-\nchende u"
+      },
+      {
+        "rank": 2,
+        "id": "e3c869ed6663a2e14dc2e6a1516a7cb7bd253c2ac7ccdca524e36ad7117b9cbc",
+        "score": 0.995275616645813,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 23,
+          "split_id": 56,
+          "split_idx_start": 63830,
+          "_split_overlap": [
+            {
+              "doc_id": "95f1b5c2ac4c7f7d1ef53da9fe0a598d6ccf8f1499c4a94cac3fbfff5e0c1e6c",
+              "range": [
+                1167,
+                1581
+              ]
+            },
+            {
+              "doc_id": "a78716323ca605f791686cb4ae67640d2442f51a579a3b4eecfe3d95cc42adfe",
+              "range": [
+                0,
+                427
+              ]
+            }
+          ]
+        },
+        "content": "Ausblick auf den möglichen Einsatz von Visualisierungs-\ntechniken bzw. Methoden gegeben werden. Wichtiges reflektierendes Überprüfungsmoment ist zu diesem Zeitpunkt auch, ob die Möglichkeiten der Beratung Anliegen und Ziele des Ratsuchenden auch wirklich erfüllen können. In dieser Phase der Themenklärung empfehlen sich große Sorgfalt, aktives Zuhören, erhellendes Nachfragen und zusammen-\nfassendes Spiegeln, um wirklich die Bedürfnisse und Interessen hinter den genannten Themen und Positionen der Ratsuchenden zu erfassen und zu er-\nspüren, da in der Problembeschreibung, im subjektiven Problemerleben, sich bereits Wegweiser für die spätere Bearbeitungs- und Lösungsebene eröffnen.\nMittelphase – Problemerhellung und Entfaltungswünsche klären „Jenseits von richtig und falsch liegt ein Ort. Dort treffen wir uns.“ Dschalal ad-Din al-Rumi (1207–1273) Leitend für das Beratungshandeln ist der Respekt vor den Rahmungen und Sichtweisen des oder der Ratsuchenden. Der zu Beratende eröffnet der Bera-"
+      },
+      {
+        "rank": 3,
+        "id": "e4f19804f11d535193615149da6020d053f8a22a26413d507af15a7f6a66d320",
+        "score": 0.9937552213668823,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 14,
+          "split_id": 34,
+          "split_idx_start": 36921,
+          "_split_overlap": [
+            {
+              "doc_id": "e2271f1180590ce33c1d6e22d1a734114385677a8cf4ce155295886c8b1b06a3",
+              "range": [
+                1084,
+                1497
+              ]
+            },
+            {
+              "doc_id": "adda2513f9c7469a3675dceab3e0cf4c94fefa1ba94b04ab40145fb1be5503f4",
+              "range": [
+                0,
+                385
+              ]
+            }
+          ]
+        },
+        "content": "durch das reine Bera-\ntungsgespräch. Visualisierungen wirken ähnlich wie verbale Spiegeltechni-\nken. Ratsuchende vergegenwärtigen sich ihre Situation, ihr Anliegen, ihre Lösungsoptionen je nachdem in welcher Phase die Visualisierung eingesetzt wird. Außerdem können die Visualisierungen je nach Größe der Abbildungen entweder direkt von den Ratsuchenden mitgenommen oder ggf. fotografiert werden. Auf diese Weise können sich die Ratsuchenden auch unabhängig von der Beratungssituation selbst mit ihren Überlegungen weiter beschäftigen oder sich verdeutlichen, zu welchen Erkenntnissen oder Entscheidungen sie mit der Beratung gelangt sind. Für Beraterinnen und Berater haben Visualisierungen den Vorteil, dass sie die Aussagen des oder der Ratsuchenden nicht nur im Kopf behalten müs-\nsen. Auch für sie bietet die Visualisierung eine Struktur, die den Beratungspro-\nzess begleiten kann. Außerdem können die Ratsuchenden jederzeit in die Visualisierung ein- greifen, diese ergänzen, abwandeln oder ums"
+      },
+      {
+        "rank": 4,
+        "id": "adda2513f9c7469a3675dceab3e0cf4c94fefa1ba94b04ab40145fb1be5503f4",
+        "score": 0.9928913116455078,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 14,
+          "split_id": 35,
+          "split_idx_start": 38096,
+          "_split_overlap": [
+            {
+              "doc_id": "e4f19804f11d535193615149da6020d053f8a22a26413d507af15a7f6a66d320",
+              "range": [
+                1175,
+                1560
+              ]
+            },
+            {
+              "doc_id": "c8ee38a575fbd8c4b7f201cf9756161df8577d254c02eee09e10e621cf252ed3",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "der Visualisierung. Sie können den Ratsuchenden 116 5 Methoden und Techniken\fihre Beobachtung zur Verfügung stellen und die Ratsuchenden zu Kommen-\ntaren einladen. So kann sich z.B. durch eine visualisierte Überfülle von Ent-\nscheidungsmöglichkeiten für die ratsuchende Person der Gedanke eröffnen, dass nicht die mangelnde Sympathie für eine der Möglichkeiten, sondern der Widerstand dagegen, die anderen Möglichkeiten loszulassen, einer Entschei-\ndung im Weg steht. Methoden arbeiten mit unterschiedlichen Visualisierungstechniken und geben oft schon Vorschläge für eine Schrittfolge, in der die Visualisierung in den Beratungsprozess integriert wird. In Methoden werden also schon Ent-\nscheidungen vorweg genommen, z.B. mit welcher Metapher gearbeitet wird, in welcher Phase die Methode eingesetzt werden kann und welche Fragen durch den Beratungsprozess führen. Hier soll nun eine Auswahl an grundlegenden Visualisierungstechniken beschrieben werden, in denen diese Entscheidungen noch nicht getr"
+      },
+      {
+        "rank": 5,
+        "id": "9537c8d2a7e35c8e5299f23d8ae409d3819d700af438adc1735dd0d73c626534",
+        "score": 0.9908658862113953,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6817,
+          "_split_overlap": [
+            {
+              "doc_id": "ef6d05e4dda429c22610e11be0dd1fb57275cbed6897b6ada2be52f7096ea121",
+              "range": [
+                1153,
+                1559
+              ]
+            },
+            {
+              "doc_id": "e09368288d04edb24e6f492e865da11dd1db74ec57f4b8396d6ca91988348a9f",
+              "range": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        "content": "in anderer Farbe zum Vergleich eingezeichnet werden. Am Ende der Be-\n169 5.5 Methodenbeispiele\fratungsphase könnte die Methode noch einmal zur Visualisierung der positi-\nven Entwicklung durchgeführt werden. Die Methode kann ebenfalls mit Hilfe von Kreppband und Methodenkar-\nten auf dem Boden durchgeführt werden, um einen Perspektivenwechsel beim Ratsuchenden anzuregen (vgl. Rauen, 2008: 154).\nKommentar zum Einsatz\nZielgruppe: Anliegen: Es gibt keine Einschränkungen bei der Auswahl der Zielgruppe. Lösungsfindung, Verbesserung der Lebensqualität, „Standortbe- Phase im Beratungsgespräch: stimmung“. Mittelpha-\nse der Beratung durchgeführt werden. Der bzw. die Ratsuchende äußert seine Unzufriedenheit bezüglich verschiedener Themen und findet selbst keine Lö-\nSchwierigkeiten/Barrieren: sungsansätze. Die Methode kann vor allem in der Dem bzw. der Rastsuchenden könnte zunächst das Festlegen der Lebensthemen und besonders das Zuordnen der Skalie-\nrungswerte schwerfallen. Speziell bei komplexen "
+      }
+    ]
+  },
+  {
+    "filename": "1001586-167-171.txt",
+    "question": "Wie kann man die Methode des Lebensrads mit anderen Beratungsinstrumenten kombinieren, um eine nachhaltigere Verbesserung der Lebensqualität zu erzielen?",
+    "answer": "Es gibt keine explizite Information im gegebenen Kontext, die besagt, wie man die Methode des Lebensrads mit anderen Beratungsinstrumenten kombinieren kann, um eine nachhaltigere Verbesserung der Lebensqualität zu erzielen. Der Kontext beschreibt die Methode des Lebensrads als ein Werkzeug, das zur Visualisierung von Problemlagen und zur strukturierten Lösungswegfindung verwendet werden kann, und es wird erwähnt, dass die Methode gut eingesetzt werden kann, wenn der bzw. die Ratsuchende im Beratungsgespräch äußert, mit der eigenen Lebenssituation unzufrieden zu sein und selbst nicht weiß, wie er oder sie etwas verändern und dadurch verbessern soll. Es wird jedoch keine spezifischen Empfehlungen oder Beispiele gegeben, wie man die Methode des Lebensrads mit anderen Beratungsinstrumenten kombinieren kann, um eine nachhaltigere Verbesserung der Lebensqualität zu erzielen.",
+    "expected": "Man könnte das Lebensrad mit Zielsetzungs- und Ressourcenanalysen ergänzen, um neben der Visualisierung der Zufriedenheit auch konkrete Handlungsschritte und vorhandene Stärken des Ratsuchenden zu identifizieren. Durch die Kombination mit Techniken wie SMART-Zielsetzung oder Motivationsförderung kann der Beratungsprozess strukturierter gestaltet und die Umsetzung der Veränderungen langfristig unterstützt werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a79b5c3c0cb6163d454ce404524835e429994f62d1fa5f770ba1e1d4d136c4a7",
+        "score": 0.997637152671814,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1158,
+          "_split_overlap": [
+            {
+              "doc_id": "5aa8bbdc82440c39f2ab1a96859b041e665942e56601eed100765677ae090f00",
+              "range": [
+                1158,
+                1562
+              ]
+            },
+            {
+              "doc_id": "04afde3e55edc58a76d9cd9172e666b36a5b2b6f1c2f823bc0f2fbc074083a3b",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Abb. 24: Mehrere Lebensbereiche mit jeweiligen Skalierungen im Lebensstern (eigene Darstellung) Zunächst findet die Methode Verwendung in der Berufs- oder Studienbera-\ntung. Weitere Anliegen können ebenfalls die Beziehungssituation oder die persönliche Lebensqualität und Work-Life-Balance betreffen (vgl. Rauen, 2008: 153). Die Methode kann gut eingesetzt werden, wenn der bzw. die Rat-\n167\fsuchende im Beratungsgespräch äußert, mit der eigenen Lebenssituation un-\nzufrieden zu sein und selbst nicht weiß, wie er oder sie etwas verändern und dadurch verbessern soll. Mit dem Lebensrad kann also eine Visualisierung der Problemlage und zum anderen ein strukturierter Lösungsweg gefunden werden. Der Beratungsprozess mit Hilfe des Lebensrads hat zum Ziel, vom Ist-\nWert zum Soll-Wert einer oder mehrerer der Kategorien zu gelangen. Zeit: Phase/Funktion: Anliegen: Material: • DinA3- oder Flipchartpapier • DinA4-Papier\n• Stifte Mittelphase: Ziel- und Lösungserarbeitung Lösungsfindung, Verbesse-\nrung "
+      },
+      {
+        "rank": 2,
+        "id": "95f1b5c2ac4c7f7d1ef53da9fe0a598d6ccf8f1499c4a94cac3fbfff5e0c1e6c",
+        "score": 0.9953100085258484,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 22,
+          "split_id": 55,
+          "split_idx_start": 62663,
+          "_split_overlap": [
+            {
+              "doc_id": "48ae4765608e2e4d205661a0ae612378295541ba48f9ff2aaebd00dde1e96330",
+              "range": [
+                1116,
+                1498
+              ]
+            },
+            {
+              "doc_id": "e3c869ed6663a2e14dc2e6a1516a7cb7bd253c2ac7ccdca524e36ad7117b9cbc",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "stark von der Art des Beratungsformates ab. In manchen Fällen geht es lediglich darum, zu klären, wie lang das Beratungsgespräch dauern kann und ob das anvisierte Anliegen für diese Dauer realistisch ist 60 3 Erfahrungsraum Beratung: Handlungsorientierung\foder andere Beratungsformate geeigneter sind. In umfangreicheren Bera-\ntungsprozessen, wie z.B. dem Karrierecoaching oder der Mediation gehen diese Absprachen bis hin zu vertraglichen Vereinbarungen, die schriftlich festgehalten werden. Es wird ein Kontrakt verbindlich vereinbart. Dieser um-\nfasst die jeweilige Sitzungsdauer, die weitere Terminfindung, den zunächst gewünschten Zeitraum der Beratung, evtl. den Kostenrahmen und eine erste Zielklärung und Themenklärung der anstehenden bzw. nächsten Beratung. Im Mittelpunkt steht die Auftragsklärung, welche Problemanliegen im Fokus der Bearbeitung und der ersten Klärungsschritte stehen sollen. In der Prozess-\nverantwortung der Beraterin bzw. des Beraters liegt nun, über Visualisierung und"
+      },
+      {
+        "rank": 3,
+        "id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+        "score": 0.9940308928489685,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+              "range": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        "content": "3 Erfahrungsraum Beratung: Handlungsorientierung 3.1 Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter-\nschiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech-\nniken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer in diesem Band verwenden – einen eigenen Beitrag.\nnicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön-\nnen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) So heißt es bei Frank Nestmann im Handbuch der Beratung. Fast alle Erläute-\nrungen des Methodenbegriffs gehen von der etymologischen Herleitung aus, dass eine Methode ein Weg ist, ein Ziel zu erreichen. In dem Zitat von Frank N"
+      },
+      {
+        "rank": 4,
+        "id": "5ad698e75c0f11b67ffe6d27d728c203bbc973b50c833f284f7c82fb5bd8f2d0",
+        "score": 0.9907873272895813,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 4,
+          "split_id": 7,
+          "split_idx_start": 8102,
+          "_split_overlap": [
+            {
+              "doc_id": "236ff3c7987586663ffb47e1da0d9d06cf8ee8e85a500d6171c83a18dc8827f8",
+              "range": [
+                1236,
+                1618
+              ]
+            },
+            {
+              "doc_id": "28a1bff32805bb801a5a160871bdea4273073bfd6b292e5208b2af1bda2d3e60",
+              "range": [
+                0,
+                342
+              ]
+            }
+          ]
+        },
+        "content": "der Vermittlung von Beratungskompetenz. Ich beschreibe eine Metho-\nde oder eine Technik, damit mein Gegenüber (Studierende, Kolleginnen und Kollegen oder auch Leser und Leserinnen von Handbüchern) wichtige oder hilfreiche Handlungsformen von Beratung versteht, diese ausprobieren und abwandeln kann. Dabei ist es jedoch entscheidend, die Abstraktion nicht mit dem Handeln selbst zu verwechseln.\nDie Landkarte ist nicht der Weg Daraus erklärt sich auch, warum immer wieder betont wird, dass Methoden in der Beratung kein Selbstläufer sind und eben viel mehr dazu gehört, eine gute Beratung durchzuführen, als nur die Anwendung eines bestimmten Schemas. Interessanterweise scheint der Boom an Methodensammlungen diese Hin-\nweise zu verstärken. Was in der Diskussion allerdings oft nicht bedacht wird, ist der Umstand, dass diese Methodensammlungen ja letztlich keine ‚echten‘ Wege enthalten. Die Beschreibung eines Weges ist eben genau das: eine Be-\nschreibung. Methodensammlungen enthalten also allenf"
+      },
+      {
+        "rank": 5,
+        "id": "b5e7a8e7ac6f23420aba0bc18a3b863fe844bbb08d1abc244f18d1126218fea1",
+        "score": 0.9899325370788574,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5652,
+          "_split_overlap": [
+            {
+              "doc_id": "cd3f3318542e9852f2d5d7890c563cfe654cbc06c9060d0acfaa55930ab9b20e",
+              "range": [
+                1155,
+                1546
+              ]
+            },
+            {
+              "doc_id": "236ff3c7987586663ffb47e1da0d9d06cf8ee8e85a500d6171c83a18dc8827f8",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter-\nventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier-\nte Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich-\nkeit gehören. Beratungsansatz Technik Methode Techniken Methoden Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze (eigene Darstellung) Anschlussfähigkeit der Begriffsverwendung Mit einer solchen reinen Sortierung der Begriffe, lassen sich jedoch noch nicht die wissenschaftlichen Beiträge zum Thema „Methoden und Techniken“ nachvollziehen. Denn wenn es so einfach wäre, warum besteht dann immer wieder Uneinigkeit über die Zuordnung der Begriffe? Zunächst einmal gibt es unterschiedliche Vorstellunge"
+      }
+    ]
+  }
+]

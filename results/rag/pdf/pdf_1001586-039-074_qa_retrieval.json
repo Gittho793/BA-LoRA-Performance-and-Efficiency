@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "1001586-039-074.txt",
+    "question": "Wie definiert Frank Nestmann eine Methode in der Beratung?",
+    "answer": "Eine Methode ist eine bewusst und geplant eingesetzte, bereits erprobte Handlungsweise, mit der ein bestimmtes Ziel erreicht werden soll.",
+    "expected": "Frank Nestmann definiert eine Methode in der Beratung als eine bewusst und geplant eingesetzte, bereits erprobte Handlungsweise, mit der ein bestimmtes Ziel erreicht werden soll.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+        "score": 0.9977250695228577,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+              "range": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        "content": "3 Erfahrungsraum Beratung: Handlungsorientierung 3.1 Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter-\nschiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech-\nniken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer in diesem Band verwenden – einen eigenen Beitrag.\nnicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön-\nnen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) So heißt es bei Frank Nestmann im Handbuch der Beratung. Fast alle Erläute-\nrungen des Methodenbegriffs gehen von der etymologischen Herleitung aus, dass eine Methode ein Weg ist, ein Ziel zu erreichen. In dem Zitat von Frank N"
+      },
+      {
+        "rank": 2,
+        "id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+        "score": 0.9918637275695801,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1136,
+          "_split_overlap": [
+            {
+              "doc_id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+              "range": [
+                1136,
+                1492
+              ]
+            },
+            {
+              "doc_id": "15016cafd94f66bb86cc761d4c95fb66c7426a17af7d9dc5e8010a5ee52336c2",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "lässt sich aus die-\nser Perspektive als „Methode“ bezeichnen. Jörg Knoll verwendet den Begriff zum Beispiel in Bezug auf die „Kollegiale Beratung“ als Methode der Lern- und Bildungsberatung (Knoll 2008). Der Methodenbegriff wird für Vorgehenswei-\nsen verwendet, die – bildlich gesprochen – die ‚ganze Reise‘ beschreiben, wäh-\nrend andere sich nur auf eine konkrete Etappe beziehen. Immer handelt es sich aber um ein zielgerichtetes und reflektierendes Vorgehen. „Eine Methode ist eine bewusst und geplant eingesetzte, bereits erprobte Handlungsweise, mit der ein bestimmtes Ziel erreicht werden soll“, heißt es im weiteren Verlauf bei Nestmann präziser. Allerdings wechselt Nestmann in seinem Beitrag zwi-\nschen den Begriffen „Methoden“ und „Techniken“ und verwendet den Begriff „Methodik“ darüber hinaus auch als Sammelbegriff für ein generell „metho-\ndisches Vorgehen“ also als Synonym für ein bewusst planendes und reflektie-\nrendes Handeln von Beraterinnen und Beratern (Nestmann 2004: 784).\fMeth"
+      },
+      {
+        "rank": 3,
+        "id": "944afbad49d2a91f7f4c377917119f956a573731cc174f3b2a5c96e9b095688b",
+        "score": 0.9883115887641907,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 14,
+          "split_id": 34,
+          "split_idx_start": 38953,
+          "_split_overlap": [
+            {
+              "doc_id": "7f0d79f4b875ef421360db44c129390e667d963cc236212a444c49b20f18acb5",
+              "range": [
+                1174,
+                1554
+              ]
+            },
+            {
+              "doc_id": "dc2b3c3a05343926925b42b352ec10c0e6854b0df8ce62eda22d04732affd24c",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "die Haltung des Beraters bzw. der Beraterin, eine professionelle Gesprächs-\nführung, eine angenehme Raumgestaltung (s. 3.4 Beratungsräume) und den Einsatz von Beratungsmethoden (s. 5 Methoden und Techniken) sinnvoll ge-\nstalten. Methoden, wie sie in diesem Band beschrieben und erläutert werden, sind ein hilfreiches Element für den Aufbau und die Gestaltung einer förder-\nlichen Arbeitsbeziehung. Allerdings ist zu bedenken, dass es nicht nur darauf ankommt, ein möglichst professionelles und vielfältiges Repertoire an Metho-\nden und Techniken in der Beratung anzuwenden und darauf zu hoffen, dass sich die Beziehung dadurch gewissermaßen von selbst einstellt. Die beste Technik oder Methode ist nur dann sinnvoll, wenn sie im Systemkontext der je individuellen Beratung einen Sinn macht. Methoden und Techniken müssen reflektiert eingesetzt und angepasst werden, um ihre immanente Wirkung entfalten zu können. Nestmann (2004) betont, dass „Beziehung und Metho-\n52 3 Erfahrungsraum Beratung: Handlu"
+      },
+      {
+        "rank": 4,
+        "id": "b5e7a8e7ac6f23420aba0bc18a3b863fe844bbb08d1abc244f18d1126218fea1",
+        "score": 0.9826986789703369,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5652,
+          "_split_overlap": [
+            {
+              "doc_id": "cd3f3318542e9852f2d5d7890c563cfe654cbc06c9060d0acfaa55930ab9b20e",
+              "range": [
+                1155,
+                1546
+              ]
+            },
+            {
+              "doc_id": "236ff3c7987586663ffb47e1da0d9d06cf8ee8e85a500d6171c83a18dc8827f8",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter-\nventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier-\nte Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich-\nkeit gehören. Beratungsansatz Technik Methode Techniken Methoden Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze (eigene Darstellung) Anschlussfähigkeit der Begriffsverwendung Mit einer solchen reinen Sortierung der Begriffe, lassen sich jedoch noch nicht die wissenschaftlichen Beiträge zum Thema „Methoden und Techniken“ nachvollziehen. Denn wenn es so einfach wäre, warum besteht dann immer wieder Uneinigkeit über die Zuordnung der Begriffe? Zunächst einmal gibt es unterschiedliche Vorstellunge"
+      },
+      {
+        "rank": 5,
+        "id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+        "score": 0.9745331406593323,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 9,
+          "split_idx_start": 10650,
+          "_split_overlap": [
+            {
+              "doc_id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+              "range": [
+                1180,
+                1562
+              ]
+            },
+            {
+              "doc_id": "591ab83cb2906ffd82d57d1cc622d2cffdaee72a6e660b3446987075b4b025c3",
+              "range": [
+                0,
+                310
+              ]
+            }
+          ]
+        },
+        "content": "the-\noretischen Ausrichtung und ihrer Methode(n) angewandt werden, (…) haben Methoden selbst dagegen etwas mit Beratungskonzepten, Beratungstheorien, Menschenbildern und ähnlichem zu tun, dem konzeptionellen Ansatz ‚hinter‘ dem, was der /die BeraterIn im Kontext der Beratung tut. Sie sind Ausdruck einer bestimmten Haltung gegenüber denjenigen, die Beratung suchen und worum es in der Beratung geht und können daher auch schwer aus diesem Kontext gelöst werden.“ (Brunner 2006: 29, zit. nach Zienert 2009: 50) Im Folgenden sollen die Begriffe, wie wir sie gebrauchen, umschrieben und damit vereindeutigt werden, um damit agieren zu können. Das sind die Begrif-\nfe: Prinzipien, Methoden, Techniken, Instrumente, Tools und Medien. Häufig werden Begriffe synonym verwendet, so wie bei Brunner im obigen Zitat. Er setzt Instrumente und Techniken auf eine Stufe. Nach unserem Verständnis sind diese aber sprachlich durchaus unterscheidbar. Mit einem Instrument 12 1 Einleitung\flässt sich arbeiten. Man de"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-039-074.txt",
+    "question": "Was ist der Unterschied zwischen Methoden und Techniken in der Beratung?",
+    "answer": "Methoden beziehen sich auf einen umfangreichen Theoriehintergrund, Beratungsansätze und Menschenbilder, während Techniken einzelne, frei kombinierbare Tätigkeiten im Beratungshandeln sind. Methoden kombinieren mehrere Techniken und realisieren sich in der Beratung durch konkrete Interventionen. Techniken beschreiben die Wirkungsweise und die Einbettung in verschiedene Beratungsansätze. Die Kenntnis von Techniken hilft auszuwählen, welche Techniken für eine Situation angemessen sind. Im Gegensatz dazu bezeichnet der Begriff Technik das konkrete, situative Beratungshandeln.",
+    "expected": "Methoden unterscheiden sich von Techniken durch ihre Komplexität: Eine Methode besteht aus einer Kombination mehrerer Techniken und erstreckt sich über einen längeren zeitlichen Rahmen, während Techniken einzelne, konkrete Handlungsweisen oder Interventionen darstellen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+        "score": 0.998190701007843,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+              "range": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        "content": "3 Erfahrungsraum Beratung: Handlungsorientierung 3.1 Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter-\nschiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech-\nniken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer in diesem Band verwenden – einen eigenen Beitrag.\nnicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön-\nnen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) So heißt es bei Frank Nestmann im Handbuch der Beratung. Fast alle Erläute-\nrungen des Methodenbegriffs gehen von der etymologischen Herleitung aus, dass eine Methode ein Weg ist, ein Ziel zu erreichen. In dem Zitat von Frank N"
+      },
+      {
+        "rank": 2,
+        "id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+        "score": 0.9977144002914429,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 9,
+          "split_idx_start": 10650,
+          "_split_overlap": [
+            {
+              "doc_id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+              "range": [
+                1180,
+                1562
+              ]
+            },
+            {
+              "doc_id": "591ab83cb2906ffd82d57d1cc622d2cffdaee72a6e660b3446987075b4b025c3",
+              "range": [
+                0,
+                310
+              ]
+            }
+          ]
+        },
+        "content": "the-\noretischen Ausrichtung und ihrer Methode(n) angewandt werden, (…) haben Methoden selbst dagegen etwas mit Beratungskonzepten, Beratungstheorien, Menschenbildern und ähnlichem zu tun, dem konzeptionellen Ansatz ‚hinter‘ dem, was der /die BeraterIn im Kontext der Beratung tut. Sie sind Ausdruck einer bestimmten Haltung gegenüber denjenigen, die Beratung suchen und worum es in der Beratung geht und können daher auch schwer aus diesem Kontext gelöst werden.“ (Brunner 2006: 29, zit. nach Zienert 2009: 50) Im Folgenden sollen die Begriffe, wie wir sie gebrauchen, umschrieben und damit vereindeutigt werden, um damit agieren zu können. Das sind die Begrif-\nfe: Prinzipien, Methoden, Techniken, Instrumente, Tools und Medien. Häufig werden Begriffe synonym verwendet, so wie bei Brunner im obigen Zitat. Er setzt Instrumente und Techniken auf eine Stufe. Nach unserem Verständnis sind diese aber sprachlich durchaus unterscheidbar. Mit einem Instrument 12 1 Einleitung\flässt sich arbeiten. Man de"
+      },
+      {
+        "rank": 3,
+        "id": "b5e7a8e7ac6f23420aba0bc18a3b863fe844bbb08d1abc244f18d1126218fea1",
+        "score": 0.9974179267883301,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5652,
+          "_split_overlap": [
+            {
+              "doc_id": "cd3f3318542e9852f2d5d7890c563cfe654cbc06c9060d0acfaa55930ab9b20e",
+              "range": [
+                1155,
+                1546
+              ]
+            },
+            {
+              "doc_id": "236ff3c7987586663ffb47e1da0d9d06cf8ee8e85a500d6171c83a18dc8827f8",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter-\nventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier-\nte Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich-\nkeit gehören. Beratungsansatz Technik Methode Techniken Methoden Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze (eigene Darstellung) Anschlussfähigkeit der Begriffsverwendung Mit einer solchen reinen Sortierung der Begriffe, lassen sich jedoch noch nicht die wissenschaftlichen Beiträge zum Thema „Methoden und Techniken“ nachvollziehen. Denn wenn es so einfach wäre, warum besteht dann immer wieder Uneinigkeit über die Zuordnung der Begriffe? Zunächst einmal gibt es unterschiedliche Vorstellunge"
+      },
+      {
+        "rank": 4,
+        "id": "ccf1cb73ab8e8ba59f3133679f2314eff2be432c46eb0295c1fca0ef6b64905d",
+        "score": 0.9973548650741577,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 6,
+          "split_id": 14,
+          "split_idx_start": 15763,
+          "_split_overlap": [
+            {
+              "doc_id": "1f19a8611b4f80346e3aecacdb4d99e01ca57755281921d44a0b9e5d603a9ba6",
+              "range": [
+                1105,
+                1505
+              ]
+            },
+            {
+              "doc_id": "b2407410e42222ef6a13015d8a99f628dc6e6270fa953b7e79047f7ad18d7aea",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "Die Verwendung der Begriffe „Methoden“, „Techniken“ und „Interventionen“ sind immer eng verbunden mit den Ansätzen und Theorien, die von Autorin-\nnen und Autoren als grundlegend für das Gelingen von Beratungsprozessen 44 3 Erfahrungsraum Beratung: Handlungsorientierung\fgriff\nangesehen werden. In unserem Fall verwenden wir daher den Methodenbe- für Beratungsverfahren, die einen Prozess in mehreren Schritten beglei-\nten, die aufeinander aufbauen und sich aus dem jeweils vorherigen heraus ergeben. Es ist uns jedoch wichtig, Methoden von Methoden zu unterscheiden. Methoden als starre Abläufe zu verstehen, würde unserem Verständnis eines „methodischen Vorgehens“ in der Beratung widersprechen. Methodenbeschreibungen sehen wir als Ideenlieferant für die Entwicklung und Entfaltung von eigenen Beratungsmethoden durch Beraterinnen und Be-\nrater. Beratungstechniken beschreibung Den Begriff verwenden wir hingegen, wenn es um frei kombinierbare einzelne Tätigkeiten im Beratungshandeln geht. Wissens"
+      },
+      {
+        "rank": 5,
+        "id": "b9d4be765f9390b1580e57436700b44ef3ad6c8e235ebd5e0a9065d0d4d49f03",
+        "score": 0.9962933659553528,
+        "meta": {
+          "file_path": "1001586-005-006.txt",
+          "source_id": "909b2961af75875cc1c508eaa9e5ba917bac9244238dea21fc7171f88f7a4809",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "67a894c28ac3d577dadc39ba0d7d4aa921c44338cd7bb9ab997aaa371f4ff5bf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Vorwort Diese Publikation „Methoden und Techniken der Bildungsberatung“ ist von uns Herausgeberinnen als Lehrbuch für Studierende konzipiert worden. Eine zusätzliche Motivation fanden wir darin, dass bisher noch kein eigener Metho-\ndenband für die Bildungsberatung vorlag. Wir freuen uns daher, wenn auch Beraterinnen und Berater in der Praxis in diesem Band eine Unterstützung sehen. Die Komplexität von Beratungsprozessen im Feld der Bildungsberatung zu verdeutlichen, ist ein wichtiges Anliegen dieses Buches. Theorie und Pra-\nxis aufeinander zu beziehen, indem insbesondere Methoden und Techniken und ihre jeweiligen Hintergründe verdeutlicht werden, waren Ausgangspunkt unserer Überlegungen. Dafür wurden nicht allein Wissenschaftlerinnen und Praktikerinnen aus dem Beruf eingeladen, mitzumachen, sondern auch Stu-\ndierende, die Beratung lernen. Der Part der Studierenden bezog sich auf die Übernahme einer einzelnen Methode. Das Ausprobieren von Methoden und Techniken und die Reflexion im Semi"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-039-074.txt",
+    "question": "Warum kann die Beziehung zwischen Berater und Ratsuchendem als eine wirksame Methode betrachtet werden?",
+    "answer": "Eine tragfähige Beziehung zwischen Berater und Ratsuchendem kann als eine wirksame Methode betrachtet werden, da sie es dem Ratsuchenden ermöglicht, sich in der Beratung zu öffnen und sich mit seinem Anliegen auseinanderzusetzen. Die Beziehung kann helfen, Inkongruenzen zwischen dem Ratsuchenden und der beratenden Person zu erkennen und zu überwinden, was zu einer besseren Verständigung und Kommunikation führt. Außerdem kann die Beziehung unterstützen, dass der Ratsuchende sich selbst reflektiert und seine eigenen Stärken und Schwächen erkennt, was zu einer selbstaktualisierten Motivation für Veränderungsprozesse führen kann. Durch die Beziehung kann der Ratsuchende auch ein Gefühl der Sicherheit und des Vertrauens entwickeln, was es ihm ermöglicht, sich in der Beratung zu öffnen und sich mit seinen Problemen auseinanderzusetzen. Somit kann die Beziehung zwischen Berater und Ratsuchendem als eine wirksame Methode betrachtet werden, um den Ratsuchenden zu unterstützen und zu begleiten.",
+    "expected": "Die Beziehung zwischen Berater und Ratsuchendem kann als eine wirksame Methode betrachtet werden, weil nahezu alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion potenzielle Beratungsmethoden sind, und allein die unterstützende und verändernde Funktion dieser Beziehung eine bedeutende Rolle in der Beratung einnimmt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "25727b7cb1068bb4a63e5277653974f5f38f8e73820b756b8290102feb2e557d",
+        "score": 0.9970492720603943,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 6,
+          "split_id": 13,
+          "split_idx_start": 14576,
+          "_split_overlap": [
+            {
+              "doc_id": "962b8115179b97759b149ab712a32e94fcd626d0a7549757f6f1f8a8dd6bdb5b",
+              "range": [
+                1135,
+                1532
+              ]
+            },
+            {
+              "doc_id": "9677d428fe916b5e39d3c0a02f6600849daeb4d0be29249aa15411a29c9f24fa",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "diese – zwischen den Me-\nthoden – zum impliziten oder expliziten Gesprächsgegenstand gemacht wer-\nden: Welche wiederkehrenden Handlungsstrategien der Ratsuchenden sind im Kontakt mit der Beraterin oder dem Berater erkennbar? Dies ist bspw. eine der reflexiven Fragen der kommunikativen Metaebene, die Beziehungs-\nhandeln transparenter machen und dem oder der Ratsuchenden Aufschluss darüber geben kann, welche Verhaltensmuster sie auch in andere Beziehun-\ngen trägt und umgekehrt. Bemerke ich z.B., dass der oder die Ratsuchende denn?“, kann ich während der Beratung immer wieder fragt: „Was meinen diese Beobachtung dem Ratsuchenden zur Verfügung stellen. Prozessorientierung versus Ergebnisorientierung Sie Das Erleben einer professionell sicheren Beziehung zum Berater trägt – im besten Fall – also dazu bei, dass wiederkehrende Muster oder erstarrte Denk-\nformen beim Ratsuchenden wieder in Bewegung kommen und damit ver-\nändert werden können. Dies kann sogar bewirken, dass Ratsuchende in der Bi"
+      },
+      {
+        "rank": 2,
+        "id": "c36aa2aea9eab41e184cb38bf4e81ba7efbb1c8f276b2f4946c9b8dd92c4d9b8",
+        "score": 0.9961923360824585,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 13,
+          "split_id": 31,
+          "split_idx_start": 33778,
+          "_split_overlap": [
+            {
+              "doc_id": "f6ff6d6d1768e6816dd01a918a4f154b2dd0f2c9b7c30681e36aa901d5f672bd",
+              "range": [
+                982,
+                1334
+              ]
+            },
+            {
+              "doc_id": "e671be20254ac2a03b770de6caa5dda84ae6bd635ef941c9ebffc813ed760a24",
+              "range": [
+                0,
+                316
+              ]
+            }
+          ]
+        },
+        "content": "die Methode nicht auf mich zu beziehen oder als eine Wertung meiner Qualitäten als Beraterin oder Berater misszuverstehen. Auf diese Weise kann selbst eine abgebrochene Methode dazu führen, dass sich Ratsuchende und Beratende besser kennen lernen und sich wieder neu aufeinander einstellen.\nEine Methode beenden Schließlich kann eine Methode auch ganz regulär zu Ende geführt werden. Es ist wichtig, rechtzeitig zum Abschluss zu kommen. Selbst erfahrenen Berate-\nrinnen und Beratern passiert es, wenn sie Ratsuchenden erfolgreich zu einer Erkenntnis verholfen haben, dass sie motiviert sind, den Faden noch weiter zu spinnen. Manchmal sind auch die Ratsuchenden Feuer und Flamme und wol-\nlen gleich das nächste Problem angehen. In den seltensten Fällen ist dies ziel-\nführend. Sie sollten deswegen immer eine Pause einlegen, bevor ein nächster Prozess begonnen wird. Nach der Pause haben Ratsuchende und Beratende ein besseres Gespür, ob sie diesem ersten Impuls nachgeben wollen. Generell sollte ich"
+      },
+      {
+        "rank": 3,
+        "id": "892c2c983ad914069fdcedb69603060f6e1abeda17310f5c4a1a7f422a73e3c9",
+        "score": 0.9932382106781006,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 10,
+          "split_id": 21,
+          "split_idx_start": 23195,
+          "_split_overlap": [
+            {
+              "doc_id": "c9205e0cd7fd1dd71945e717efe704b8cbefe1030114acdea2de1d171ec06fd9",
+              "range": [
+                1122,
+                1446
+              ]
+            },
+            {
+              "doc_id": "3149405a0b804bd3a8e90af5dcdc629847d2de5965a3393e96ae24a0f1f3430f",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "reagiert die Beraterin bzw. der Berater auf die Ratsuchenden? 3. Welchen Kontakt kann die Beraterin oder der Berater zu sich selber aufneh-\nmen? Wie bewusst ist ihr oder ihm die Gestaltung ihres bzw. seines Bera-\ntungsangebotes? Welche Botschaften sendet sie oder er durch was? Welche Bedingungen braucht sie oder er im und für den tragfähigen Kontaktaufbau 84 4 Gesprächsführungstechniken und Beratungsansätze\fmit dem oder der Ratsuchenden (s. 3.2 Verantwortung der Beraterin und des Beraters)? Die Sensibilität, diese Fragen im Beratungsprozess immer wieder beantwor-\nbelastbaren ten zu können, verfolgt das Ziel, eine tragfähige Beziehung und damit einen Kontakt aufzubauen. Wenn ich mich nicht ganz auf diesen Kontakt mit dem oder der Ratsuchenden einlasse, sind Inhalte – besonders schwieri-\nge – nicht zu bearbeiten. Ratsuchende werden sich auf die Begleitung von Ver-\nänderungsprozessen nicht einlassen und z.B. mit Passivität oder Widerstand reagieren (s.u.).\nInkongruenzen prüfen: Diskrepanz"
+      },
+      {
+        "rank": 4,
+        "id": "4270b79cbc41d6829631e4f83db34c40fac9d5b69b07a033f9f86b04b74e336e",
+        "score": 0.9931231141090393,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 3,
+          "split_id": 7,
+          "split_idx_start": 7863,
+          "_split_overlap": [
+            {
+              "doc_id": "a383f2aa06ea26b1bf9a3e7f8c9a200a84a99c80fd69a8adec6945f0fe1d6779",
+              "range": [
+                1019,
+                1392
+              ]
+            },
+            {
+              "doc_id": "576d5794f8322ce6066bb91cbf2388ddc9e50b74964904282d96e7a6554e4e96",
+              "range": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        "content": "Doch: wenn Beraterinnen und Berater den Ratsuchenden erklären, was bestimmte Vorgehensweisen für einen Sinn machen, stellt auch dies die Vermittlung des eigenen subjekti-\nven Sinns der beratenden Person dar, den diese ebenfalls kritisch überprüfen kann. Diese Reflexionsschleife ist somit hilfreich für beide Gesprächsteilneh-\nmer. Denn sonst kann die Gefahr in der „guten Absicht“ der Beraterin oder des Beraters liegen, da nach Mead Sinnfindung durch wechselseitiges, aufeinan-\n193 6.1 Was geschieht zwischen den Methoden?\fsinnvoll der bezogenes Handeln konstituiert wird (vgl. Mead 1968: 115ff.). Das kann zur Folge haben, dass erstens Handlungsvorschläge von den Ratsuchenden zwar als angenommen werden können, jedoch mitunter Widerstand gegen die Umsetzung besteht, da sie in Inkongruenz zu den tatsächlichen Be-\ndürfnissen stehen können.\nDie Haltung der Beraterin und des Beraters Die Position, die Beraterinnen und Berater in Bezug auf Weiterentwicklung, Finden von Wegen, Erweiterung der Opti"
+      },
+      {
+        "rank": 5,
+        "id": "aa5dd4e4841912f94188ec49b0437ffaab1deb6fc36b67e684c4701a17618a97",
+        "score": 0.9921978116035461,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 6,
+          "split_id": 12,
+          "split_idx_start": 13501,
+          "_split_overlap": [
+            {
+              "doc_id": "cc7927222bbf8951bc2d2cca4760336ff45f2cd7ecba4042b1815c9ba1a161ea",
+              "range": [
+                1026,
+                1374
+              ]
+            },
+            {
+              "doc_id": "1f19a8611b4f80346e3aecacdb4d99e01ca57755281921d44a0b9e5d603a9ba6",
+              "range": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        "content": "Beraterinnen und Berater hat die Struktur einer Methode den Vorteil, dass sie auch eine Kontinuität in der Veränderung be-\nreitstellt. Die „Stolpersteine“ werden in der Mauer zunächst auf- und nachher wieder abgebaut. Der bzw. die Ratsuchende kann sich darauf verlassen, dass die Beratung nicht beim Problem verharren wird, sondern dass vorgesehen ist, anschließend auch systematisch Lösungen zu erarbeiten. Das heißt, wenn ich eine Methode vorher erläutere, schafft dies zusätzlich Transparenz im Be-\nratungsprozess. Gleichzeitig kann der oder die Ratsuchende die angewandte Methode für spätere Entscheidungsprozesse auch ohne den bzw. die Beraterin ausprobie-\nren (s. 2.3 Bildungsberatung als Anleitung von Selbstlernprozessen). Methoden sehen außerdem oft die Aktivierung mehrerer Sinneseindrü-\ncke vor. Das Gespräch wird unterstützt durch Visualisierungen, Bewegungen oder sogar kreative Techniken. Dadurch werden bei den Ratsuchenden auch andere Gehirnareale zur Ideenentwicklung aktiviert, anst"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-039-074.txt",
+    "question": "Wie kann das Verständnis des Methodenbegriffs als „ganzer Weg“ in der Beratung zu Interpretationsproblemen führen?",
+    "answer": "Die Verwendung des Methodenbegriffs als „ganzer Weg“ in der Beratung kann zu Interpretationsproblemen führen, wenn er von verschiedenen Autoren und Experten unterschiedlich verwendet wird. In diesem Zusammenhang ist es wichtig, zwischen Methoden, Techniken und Interventionen zu unterscheiden und den Kontext zu berücksichtigen, in dem der Begriff verwendet wird. Eine Methodik kann als ein bewusst planendes und reflektierendes Handeln von Beraterinnen und Beratern angesehen werden, während ein Systembegriff als Konstrukt hilft, Lebenszusammenhänge zu ordnen. Im Falle von schwierigen Beratungssituationen kann die eigene Wahrnehmung überprüft und Ziele im Beratungsgespräch transparent gemacht werden. Im Gegensatz dazu können Beratungstechniken als einzelne Tätigkeiten im Beratungshandeln angesehen werden, die frei kombinierbar sind und helfen, eine Situation angemessen zu bewältigen. Wenn es um die Verwendung von Methoden und Techniken in der Beratung geht, ist es wichtig, den Kontext und die Situation zu berücksichtigen, um das Verständnis des Begriffs zu verbessern.",
+    "expected": "Das Verständnis des Methodenbegriffs als „ganzer Weg“ kann zu Interpretationsproblemen führen, weil dadurch sehr unterschiedliche Vorgehensweisen oder sogar die gesamte Beratung als Methode bezeichnet werden können, was die Klarheit und Abgrenzung von spezifischen Methoden erschwert und zu einer uneinheitlichen Verwendung des Begriffs führt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ccf1cb73ab8e8ba59f3133679f2314eff2be432c46eb0295c1fca0ef6b64905d",
+        "score": 0.9945277571678162,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 6,
+          "split_id": 14,
+          "split_idx_start": 15763,
+          "_split_overlap": [
+            {
+              "doc_id": "1f19a8611b4f80346e3aecacdb4d99e01ca57755281921d44a0b9e5d603a9ba6",
+              "range": [
+                1105,
+                1505
+              ]
+            },
+            {
+              "doc_id": "b2407410e42222ef6a13015d8a99f628dc6e6270fa953b7e79047f7ad18d7aea",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "Die Verwendung der Begriffe „Methoden“, „Techniken“ und „Interventionen“ sind immer eng verbunden mit den Ansätzen und Theorien, die von Autorin-\nnen und Autoren als grundlegend für das Gelingen von Beratungsprozessen 44 3 Erfahrungsraum Beratung: Handlungsorientierung\fgriff\nangesehen werden. In unserem Fall verwenden wir daher den Methodenbe- für Beratungsverfahren, die einen Prozess in mehreren Schritten beglei-\nten, die aufeinander aufbauen und sich aus dem jeweils vorherigen heraus ergeben. Es ist uns jedoch wichtig, Methoden von Methoden zu unterscheiden. Methoden als starre Abläufe zu verstehen, würde unserem Verständnis eines „methodischen Vorgehens“ in der Beratung widersprechen. Methodenbeschreibungen sehen wir als Ideenlieferant für die Entwicklung und Entfaltung von eigenen Beratungsmethoden durch Beraterinnen und Be-\nrater. Beratungstechniken beschreibung Den Begriff verwenden wir hingegen, wenn es um frei kombinierbare einzelne Tätigkeiten im Beratungshandeln geht. Wissens"
+      },
+      {
+        "rank": 2,
+        "id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+        "score": 0.9942757487297058,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1136,
+          "_split_overlap": [
+            {
+              "doc_id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+              "range": [
+                1136,
+                1492
+              ]
+            },
+            {
+              "doc_id": "15016cafd94f66bb86cc761d4c95fb66c7426a17af7d9dc5e8010a5ee52336c2",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "lässt sich aus die-\nser Perspektive als „Methode“ bezeichnen. Jörg Knoll verwendet den Begriff zum Beispiel in Bezug auf die „Kollegiale Beratung“ als Methode der Lern- und Bildungsberatung (Knoll 2008). Der Methodenbegriff wird für Vorgehenswei-\nsen verwendet, die – bildlich gesprochen – die ‚ganze Reise‘ beschreiben, wäh-\nrend andere sich nur auf eine konkrete Etappe beziehen. Immer handelt es sich aber um ein zielgerichtetes und reflektierendes Vorgehen. „Eine Methode ist eine bewusst und geplant eingesetzte, bereits erprobte Handlungsweise, mit der ein bestimmtes Ziel erreicht werden soll“, heißt es im weiteren Verlauf bei Nestmann präziser. Allerdings wechselt Nestmann in seinem Beitrag zwi-\nschen den Begriffen „Methoden“ und „Techniken“ und verwendet den Begriff „Methodik“ darüber hinaus auch als Sammelbegriff für ein generell „metho-\ndisches Vorgehen“ also als Synonym für ein bewusst planendes und reflektie-\nrendes Handeln von Beraterinnen und Beratern (Nestmann 2004: 784).\fMeth"
+      },
+      {
+        "rank": 3,
+        "id": "a098567576e9d2cca6ceec75b998f0d506b9892a40c40f9e779a4aeb2c8107be",
+        "score": 0.9881188273429871,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 14,
+          "split_id": 29,
+          "split_idx_start": 32086,
+          "_split_overlap": [
+            {
+              "doc_id": "01a372803dcea242fc9afa703e8c9e55e1a2d212173a4dc49dfa1e177ea92a86",
+              "range": [
+                1175,
+                1531
+              ]
+            },
+            {
+              "doc_id": "8caca24e8c727f84ba0cbf6fc5e093c73f629e91d5097a73ce189f7c637c6e29",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "Beraterinnen und Berater eine große Vielfalt von Methoden und Techniken zur Anwendung verfügbar. Grundlegend wird beim Systemischen Ansatz der Mensch, das Paar, die Familie, das Team als System, eingebunden in Beziehung, gesehen. Das jeweili-\nge System wird als eine Ganzheit verstanden: wie in einem Mobile beeinflusst eine (neue) Bewegung eines Elements alle anderen Teile, ein Bewegungsim-\npuls überträgt sich auf das Ganze, bringt das ganze Beziehungsgefüge als Sys-\ntem in Schwingung und in Veränderungsprozesse. Systemisch zu denken und zu handeln, bedeutet vorrangig, Ereignisse zu kontextualisieren. Eine systemische Betrachtung nimmt die Lebenszu-\nsammenhänge der Ratsuchenden zum Ausgangspunkt jeglicher Klärung und Entwicklung. Der oder die Ratsuchende ist und bleibt über seine Handlun-\ngen und Sprache der verantwortliche Konstrukteur seiner Lebenswirklich-\nkeit (vgl. Schwing u.a. 2012: 26). Der Systembegriff als Konstrukt hilft diese zu ordnen. Vorgänge in Systemen werden als Wechsel"
+      },
+      {
+        "rank": 4,
+        "id": "5086b69799f5a9e871e7341ef5c749a05f78fae9ca646a84ebf1f61014004658",
+        "score": 0.9873420596122742,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 8,
+          "split_id": 18,
+          "split_idx_start": 20235,
+          "_split_overlap": [
+            {
+              "doc_id": "cd5af7c454322269948944dd60160b34d23680d93e6eb3e289860462ab8f8f91",
+              "range": [
+                1126,
+                1542
+              ]
+            },
+            {
+              "doc_id": "5e4aa13ac782bf8b862ca7554dcb0eb4f9125f95ec9bd196a5a2d31085872015",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "von Methoden sind dort erreicht, wo die Bezie-\nhung zwischen Ratsuchenden und Beratenden nicht konstruktiv genutzt werden kann, sondern von gegenseitigen Widerständen geprägt ist. Im Um-\nkehrschluss kann eine methodengeleitete Entwicklungsunterstützung nur dann gelingen, wenn diese Widerstände ernstgenommen werden und der Aktualisierungstendenz der Ratsuchenden ein Klima geboten wird, in dem Entfaltung angstfrei möglich wird. Dann kann ein Umstrukturierungsprozess vorangetrieben werden: kognitiv, emotional und nachhaltig handlungsrele-\nvant.\n6.2 Umgang mit schwierigen Beratungssituationen Reflexionen aus dem Seminar „Methoden und Techniken in der Bildungsberatung“ Karin Kress Während unserer Praxiseinheiten in den Seminaren zur Bildungsberatung kommen von den Studierenden immer wieder Fragen auf, die nicht mit dem Verweis auf eine Methode oder die Umsetzung einer bestimmten Technik be-\nantwortet werden können. Vielmehr handelt es sich dabei um Fragen, die ein Zusammenspiel der untersch"
+      },
+      {
+        "rank": 5,
+        "id": "5286f2ab1546496710188e3386c3e926baa3b86cc7c125a3e4dd23ed17fe9a6a",
+        "score": 0.978661060333252,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 10,
+          "split_id": 23,
+          "split_idx_start": 25656,
+          "_split_overlap": [
+            {
+              "doc_id": "c1877bba3b4842fc7e5d9fdbf888a358097905633f344e361a509182cbfdf729",
+              "range": [
+                1033,
+                1394
+              ]
+            },
+            {
+              "doc_id": "0fe1229513493a2a5c01733c04c5b9b4db2b3d9364967d77b9ead793494a0437",
+              "range": [
+                0,
+                345
+              ]
+            }
+          ]
+        },
+        "content": "Regel.\n„Wie kann ich Sie dabei unterstützen, mich möglichst schnell Eine elegante und humorvolle Variante der paradoxen Intervention ist au-\nwieder los zu werden?“\nßerdem die Frage: (s. 2.2 Beziehung)\nWas mache ich, wenn ich merke, dass mein Beratungssetting nicht geeignet ist, oder nicht nur? Es ist immer wichtig, im Beratungsgespräch transparent zu machen, wenn die Grenzen der eigenen Beratung berührt werden. So kann es z.B. vorkommen, dass sich die Ratsuchenden Antworten erhoffen, die nur durch Anwälte ge-\nklärt werden könnten oder auch ganz trivial das Beratungsanliegen eine sol-\nche Fülle an Fragen bietet, dass sie in der zur Verfügung stehenden Zeit nicht beantwortet werden können. Meine Aufgabe als Beraterin oder Berater ist hier vor allem, Transparenz herzustellen, die Fragen mit dem oder der Ratsuchenden ggf. zu sortieren, um so einen Überblick zu verschaffen und Informationen anzubieten, welche an-\nderen Beratungseinrichtungen es außerdem gibt. Denken Sie dabei immer daran, d"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-039-074.txt",
+    "question": "Wie lässt sich anhand eines Beispiels aus dem Text der Übergang von einer Technik zu einer Methode veranschaulichen?",
+    "answer": "Ein Beispiel dafür ist die \"Stolperstein-Methode\", bei der zunächst Gesprächs- und Visualisierungstechniken verwendet werden, um Hindernisse zu identifizieren und zu visualisieren. Dann werden diese Hindernisse in Form einer symbolischen Mauer an der Pinnwand befestigt und schließlich abgebaut. Dies ist ein Beispiel für eine Methode, da sie mehrere aufeinander folgende Schritte umfasst, die in einer inneren Logik miteinander verbunden sind und sich auf unterschiedliche Phasen im Beratungsprozess beziehen. Die Verwendung von Techniken wie Gesprächs- und Visualisierungstechniken innerhalb dieser Methode ist ein Beispiel dafür, wie Techniken in einer Methode kombiniert werden können.  I cannot find the answer in the provided context.",
+    "expected": "Ein Beispiel aus dem Text zeigt, dass das Schreiben von Stichworten auf Moderationskarten oder das Vorlegen eines Bildimpulses allein Techniken sind; wenn jedoch diese Techniken systematisch und geplant in mehreren Schritten eingesetzt werden, um den Ratsuchenden dabei zu helfen, ein Problem zu ordnen und eine Lösung zu finden, wird daraus eine Methode, da ein zielgerichteter, zeitlich umfangreicher Prozess entsteht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "46a38af2426bb06c6e5ed02d1a80e064207c4e4d8df661fba53a29d7b832e10c",
+        "score": 0.9928994178771973,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2475,
+          "_split_overlap": [
+            {
+              "doc_id": "fae8213cf5effe019e2b031b6a3b8dc8286eccd2e372a5d19f6091987aa405cd",
+              "range": [
+                1175,
+                1542
+              ]
+            },
+            {
+              "doc_id": "15ba350a81def399818e3f3cce5629bd4c35f38937b3202750cc9f55319cde40",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "dort geschilderte Beratungsprozess durch den Einsatz einer geeigneten Me-\nthode hätte anders gestalten lassen. Die Beratungsfälle können zudem auf den Einsatz von konkreten Techniken (s. Kap. 4) hin untersucht werden oder im Seminar, zum Beispiel in Form von Rollenspielen, eine alternative Gesprächs-\nführung erprobt werden. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho-\nden und Techniken wert zu legen, um deutlich zu machen, dass die Metho-\ndenkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi-\nnierbare Bausteine weniger äußere Voraussetzungen erfüllt sein müssen, als für den Einsatz einer umfangreichen Beratungsmethode, können diese auch in kürzeren Beratungssettings eingesetzt werden. Die von uns für diesen Band ausgewählten Me"
+      },
+      {
+        "rank": 2,
+        "id": "d3088bc3d1fa67dd9ce6bf9f7bc6bcd7977bcd3cc043088870c3f0d2a3ad69ac",
+        "score": 0.9928815364837646,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2230,
+          "_split_overlap": [
+            {
+              "doc_id": "a55a8cada186d1be55277dc665b5ca4d381f1b3198e77ac106b988ecf953cc0d",
+              "range": [
+                1052,
+                1400
+              ]
+            },
+            {
+              "doc_id": "72970865bc2b1a478b03aa360eac5f69631e0b9a9a7f88f46f03661b6985d3a9",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "gemeint, dass es nur diese Techniken gibt. Jede dieser Grundtechniken kann in wiederum vielfältigen Techniken ausgestaltet\fsein. Letztlich sind diese aber immer Kombinationen aus drei sprachlichen Handlungen: 1. Ich lasse mich auf die Sichtweise meines Gegenübers ein – Ich höre ihm bzw. ihr aufmerksam zu und biete anschließend meine Deutung, von dem, was er oder sie gesagt hat, zur Präzisierung an. 2. Ich erzähle von meinem Erleben und meiner Sicht auf die Welt.\n3. Ich frage die andere Person nach seiner bzw. ihrer Sicht der Dinge. Als Gesprächsführungstechniken entspricht dies den Techniken: 1. Wiederholen, Paraphrasieren, Spiegeln, Zusammenfassen\n2. Ich-Botschaften\n3. Fragetechniken „Habe ich Sie richtig verstanden, dass Sie im Diese drei Techniken treten oft gemischt auf. So ließe sich z.B. argumentieren, Augenblick wenig Zeit mit der Suche nach Stellenanzeigen verbringen?“\ndass sich in dem deutenden Satz: alle drei Techniken zusammenschmelzen. Der Satz ist als Frage formuliert. Er "
+      },
+      {
+        "rank": 3,
+        "id": "15016cafd94f66bb86cc761d4c95fb66c7426a17af7d9dc5e8010a5ee52336c2",
+        "score": 0.9849129319190979,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2254,
+          "_split_overlap": [
+            {
+              "doc_id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+              "range": [
+                1118,
+                1507
+              ]
+            },
+            {
+              "doc_id": "333ea84bb6f70afe5225e9cf43d088988b10f2f139b78749dabf2cf9e1dda7e8",
+              "range": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        "content": "Kombination mehrerer Techniken. Für die Beratung sind neben Gesprächstechniken auch Visualisierungs- und Aktivierungstech-\nniken bedeutsam. Stichworte auf Moderationskarten zu schreiben, ist noch keine Methode. Dem oder der Ratsuchenden einen Bildimpuls vorzulegen, ist ebenfalls noch keine Methode. Wenn ich mir aber überlege, in welchen Schrit-\nten ich mit Hilfe dieser Technik den oder die Ratsuchenden dabei begleite, ein Problem zu sortieren, um von da aus zu einer Lösung zu kommen, habe ich den Bereich einer reinen Technik verlassen. Methoden haben im Vergleich zu Techniken also eine zeitlich umfangreichere Ausdehnung. Sie umfassen meh-\nrere aufeinander folgende Schritte, die in einer inneren Logik miteinander verbunden sind und sich daher auch auf unterschiedliche Phasen im Bera-\ntungsprozess beziehen. Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen. Bezogen auf die „Stolperstein-Methode“ (s. S. 123) werden z. B. Gesprächs- und Visualis"
+      },
+      {
+        "rank": 4,
+        "id": "e6fdb55f312d3b75ae1fab81e86d2775812439d04ecd31f0770ff111d8991e7a",
+        "score": 0.9491949081420898,
+        "meta": {
+          "file_path": "9783847412304-009-015.txt",
+          "source_id": "b95e63990ac4390b5ab0f9e9a3c9565fdcf96e7029ed357ca8a1e742c793c7d5",
+          "page_number": 6,
+          "split_id": 13,
+          "split_idx_start": 16847,
+          "_split_overlap": [
+            {
+              "doc_id": "6f582a1dc5b254b6a977d3e1b09282b570f529611b8c9fe6020ea3c9006c1be9",
+              "range": [
+                1242,
+                1696
+              ]
+            },
+            {
+              "doc_id": "403e2517814f47caab0ee9ffa1e61cb284d863a15eea3cfaa69c3c26046815d0",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "TU Dresden werden Ergebnisse zu den Problemlagen der Studierenden, die zu einem Studienabbruch führen (können), wie auch deren Umgang damit, präsentiert. Die Erforschung realer Beratungsinteraktionen anhand gesprächsanalyti-\nscher Zugänge verbindet die beiden Aufsätze im sechsten Kapitel. Aus einer an Foucault anschließenden Subjektivierungsperspektive werden von Farina Wagner authentische Weiterbildungsberatungsgespräche daraufhin unter-\nsucht, wie der Prozess der Entscheidungsgenerierung in den Interaktionen vor dem Hintergrund von Narrativen des Lebenslangen Lernens hergestellt wird. Auch Christian Schröder und Claudia Muche beschäftigen sich mit Ge-\nsprächsanalysen – jedoch bezogen auf Coaching von Führungskräften – mit C. Maier-Gutheil / C. Schiersmann / C. Iller / O. Dörner / I. Schüßler\f15 dem Ziel, die Bedingungen professionellen Beratungshandelns zu rekonstru-\nieren. Im letzten Kapitel (7) richtet sich der Fokus der vier Beiträge auf Beratung in unterschiedlichen organisationa"
+      },
+      {
+        "rank": 5,
+        "id": "b9d4be765f9390b1580e57436700b44ef3ad6c8e235ebd5e0a9065d0d4d49f03",
+        "score": 0.9484846591949463,
+        "meta": {
+          "file_path": "1001586-005-006.txt",
+          "source_id": "909b2961af75875cc1c508eaa9e5ba917bac9244238dea21fc7171f88f7a4809",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "67a894c28ac3d577dadc39ba0d7d4aa921c44338cd7bb9ab997aaa371f4ff5bf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Vorwort Diese Publikation „Methoden und Techniken der Bildungsberatung“ ist von uns Herausgeberinnen als Lehrbuch für Studierende konzipiert worden. Eine zusätzliche Motivation fanden wir darin, dass bisher noch kein eigener Metho-\ndenband für die Bildungsberatung vorlag. Wir freuen uns daher, wenn auch Beraterinnen und Berater in der Praxis in diesem Band eine Unterstützung sehen. Die Komplexität von Beratungsprozessen im Feld der Bildungsberatung zu verdeutlichen, ist ein wichtiges Anliegen dieses Buches. Theorie und Pra-\nxis aufeinander zu beziehen, indem insbesondere Methoden und Techniken und ihre jeweiligen Hintergründe verdeutlicht werden, waren Ausgangspunkt unserer Überlegungen. Dafür wurden nicht allein Wissenschaftlerinnen und Praktikerinnen aus dem Beruf eingeladen, mitzumachen, sondern auch Stu-\ndierende, die Beratung lernen. Der Part der Studierenden bezog sich auf die Übernahme einer einzelnen Methode. Das Ausprobieren von Methoden und Techniken und die Reflexion im Semi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "filename": "1001586-140-144.txt",
+    "question": "Wer hat die Methode des \"Inneren Teams\" entwickelt und in welchem Kontext wird sie hauptsächlich eingesetzt?",
+    "answer": "Die Methode des \"Inneren Teams\" wurde von Prof. Dr. Schulz von Thun entwickelt und wird hauptsächlich eingesetzt, wenn der oder die Ratsuchende sich in einem (inneren) Konflikt befindet.",
+    "expected": "Die Methode des \"Inneren Teams\" wurde von Prof. Dr. Schulz von Thun entwickelt und wird hauptsächlich eingesetzt, wenn eine Person sich in einem inneren Konflikt befindet, beispielsweise bei einer unklaren Entscheidung wie einer beruflichen Umorientierung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3fb83cb34feca1159b0abe7681abb2fda99489df049060d2dac233976c767b4e",
+        "score": 0.9991668462753296,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4252,
+          "_split_overlap": [
+            {
+              "doc_id": "87d91d7022eb4b120189a8283793935275e4aec59af28cf81efa0591332c028c",
+              "range": [
+                993,
+                1352
+              ]
+            },
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "Team“ einkehrt. Variante: Im Laufe des (Beratungs-)Prozesses kann sich die Zusammenset-\nzung des „Inneren Teams“ ändern. Sie können die ratsuchende Person am An-\nfang fragen, ob sich zum letzten Gespräch noch etwas verändert hat. Ist das der Fall, können neue Teammitglieder in die Zeichnung aufgenommen wer-\nden. Diese späteren Änderungen sind oft besonders wichtig, da sie auf einer 141 5.5 Methodenbeispiele\ftiefer gehenden Auseinandersetzung beruhen und helfen, zum Kern des Pro-\nblems vorzustoßen.\nKommentar zum Einsatz\nZielgruppe: Bei der Methode des „Inneren Teams“ ist es nicht relevant, wie alt die Ratsuchenden sind oder in welcher Lebensphase sie sich befinden. Ebenso ist es nicht entscheidend, welche Bildung oder welchen Beruf sie be-\nkleiden. Da das „Innere Team“ die innere Welt des oder der Ratsuchenden wi-\nderspiegelt, passt sich die Methode an die Person an und erfordert somit kein weiteres Wissen. Entscheidend ist nur, dass das Beratungsanliegen und der Anliegen: (innere) Konf"
+      },
+      {
+        "rank": 2,
+        "id": "18fb19b5cec69eb0882a9e7ccf0bf01d8229fdbd86d88460cc70abbe1d0e953f",
+        "score": 0.9985371828079224,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6377,
+          "_split_overlap": [
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                1053,
+                1415
+              ]
+            },
+            {
+              "doc_id": "79d6b5d9cb7acee1f2eeb0b78222dccc70a89f8889c9c0c46356d8991d509176",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "auch mal auszuhalten, um nach genauer Überlegung bewusst zu handeln. Für die Methode des „Inneren Teams“ gibt es nicht die alleinige, optimale Beratungsphase. Aber es gibt Voraussetzungen, die vor der Anwendung erfüllt sein sollten, um ein gutes Gelingen zu ermöglichen. Zwischen beratender und ratsuchender Person sollte eine wertschätzende und vertrauensvolle Beziehung bestehen. Da sich die Beziehung aber zunächst aufbauen muss, kann die Methode gut in der Mittel-\nphase eines Beratungsgespräches angewandt werden. Ist die Methode jedoch einmal angewendet worden, kann sie auch am Anfang des nächsten Bera-\nSchwierigkeiten/Barrieren: tungsgesprächs genutzt werden. Eine Barriere bei der Aufstellung des „Inneren Teams“ kann die benötigte Offenheit und Ehrlichkeit von Seiten der Ratsu-\nchenden sein. Es kann sein, dass Sie sich Schritt für Schritt vorarbeiten müs-\nsen, um an die wichtigen Teammitglieder zu gelangen. Des Weiteren kann es eine Schwierigkeit darstellen, dass eine gewisse Kreativi"
+      },
+      {
+        "rank": 3,
+        "id": "c20e9b050ca41656e9db8f38845c04ee9ce4decadac0a2976b77e4fe3fc2ab51",
+        "score": 0.9962336421012878,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "713b72a06c445ceebc9565b412b28743d46a375e463fb11687d2bec1c7db5945",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "5.5.5 Das Innere Team Nora Sieg Kurzbeschreibung Das „Innere Team“ wurde von Prof. Dr. Schulz von Thun entwickelt und wird vor allem eingesetzt, wenn der oder die Ratsuchende sich in einem (inneren) Konflikt befindet. Er oder sie kann sich zum Beispiel nicht für oder gegen eine berufliche Umorientierung entscheiden, da die eigenen Gefühle keine klare Auskunft geben. Widersprüchliche Wünsche und Interessen des oder der Rat-\nsuchenden werden als unterschiedliche Mitglieder eines gedachten inneren Teams versinnbildlicht. Diese inneren Teammitglieder sind unterschiedlicher Meinung und geben somit unterschiedliche Antworten auf die gleiche Frage. Der Berater oder die Beraterin unterstützt die zu beratende Person dabei, alle inneren Teammitglieder zu identifizieren und zu benennen. Über die Befra-\ngung der verschiedenen inneren Stimmen können Entscheidungshemmnisse bearbeitet und im besten Fall überwunden werden. Der oder die Ratsuchende wird in der Rolle als sein oder ihr eigener Coach bzw."
+      },
+      {
+        "rank": 4,
+        "id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+        "score": 0.9926746487617493,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5324,
+          "_split_overlap": [
+            {
+              "doc_id": "3fb83cb34feca1159b0abe7681abb2fda99489df049060d2dac233976c767b4e",
+              "range": [
+                1072,
+                1405
+              ]
+            },
+            {
+              "doc_id": "18fb19b5cec69eb0882a9e7ccf0bf01d8229fdbd86d88460cc70abbe1d0e953f",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "befinden, in der sie sich unter einer ungeordneten Menge von Gefühlen, Empfindungen, Ge-\ndanken und Einstellungen wie begraben fühlt. Beim „Inneren Team“ kommt es darauf an, das Gewirr in seine Einzelteile zu zerlegen und zu sortieren, um dann eine Lösung erarbeiten zu können, durch welche die Ratsuchenden wie-\nder in Einklang mit sich selbst kommen. Nach Schulz von Thun tritt eine innere Unstimmigkeit, die „inneren Plu-\nralität“ (Schulz von Thun 2008: 21), zwar relativ häufig auf, aber oft ohne größere Probleme zu verursachen. In einigen Fällen kann sie jedoch zu tie-\nferen Konflikten, Unentschlossenheit und zu voreiligen oder aufgeschobenen Entscheidungen führen. In diesen Fällen ist die Methode des „Inneren Teams“ angebracht. Der oder die Ratsuchende kann sich dann seines bzw. ihres Ver-\nhaltens bewusstwerden und eine Lösung vorbereiten. Auf die gewonnenen Erfahrungen kann er oder sie auch in Zukunft zurückgreifen. Nicht immer muss eine Entscheidung sofort getroffen werden, es gilt "
+      },
+      {
+        "rank": 5,
+        "id": "713b72a06c445ceebc9565b412b28743d46a375e463fb11687d2bec1c7db5945",
+        "score": 0.9895729422569275,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1071,
+          "_split_overlap": [
+            {
+              "doc_id": "c20e9b050ca41656e9db8f38845c04ee9ce4decadac0a2976b77e4fe3fc2ab51",
+              "range": [
+                1071,
+                1461
+              ]
+            },
+            {
+              "doc_id": "ebacd939869e2b21bf0b254c5ff1c6b046d61ebd3ad7ac939f5741edb3c3628b",
+              "range": [
+                0,
+                354
+              ]
+            }
+          ]
+        },
+        "content": "seine bzw. ihre Aufgabe, zwi-\nschen den einzelnen Stimmen eine Entscheidung zu vermitteln. Material: Phase/Funktion: Anliegen: Zeit: • Ausdruck\n• Stifte Sortieren verschiede-\nner Handlungsoptionen Entscheidungsfindung ca. 60 Min. Ablauf der Beratung Vorbereitung: 1. Da das „Innere Team“ eine sehr komplexe Methode ist, emp-\nfiehlt es sich, dass sich auch Berate-\nrinnen und Berater vorher mit dieser auseinandersetzen. Für die Anwendung können Sie das Grundschema des „Inne-\nren Teams“ auf einem Plakat vorzeich-\nnen, wobei Sie darauf achten sollten, genug Platz für mehrere Teammitglie-\nder zu lassen. Abb. 17: Das innere Team (eigene Darstellung) 140 5 Methoden und Techniken\fMethode einleiten: 2. Wenn Ihnen innerhalb des Beratungsgesprächs auf-\nfällt, dass der oder die Ratsuchende in einem inneren Konflikt steckt, da er oder sie verschiedene Meinungen, Reaktionen oder Gefühle zu einer Situa-\ntion äußert, dann können Sie dem oder der Ratsuchenden zur Auflösung die Methode des „Inneren Teams“"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-140-144.txt",
+    "question": "Wie werden widersprüchliche Wünsche und Interessen einer Person im Modell des Inneren Teams dargestellt?",
+    "answer": "Diese widersprüchlichen Wünsche und Interessen werden als unterschiedliche Mitglieder eines gedachten inneren Teams versinnbildlicht. Diese inneren Teammitglieder sind unterschiedlicher Meinung und geben somit unterschiedliche Antworten auf die gleiche Frage. Der Berater oder die Beraterin unterstützt die zu beratende Person dabei, alle inneren Teammitglieder zu identifizieren und zu benennen.",
+    "expected": "Widersprüchliche Wünsche und Interessen werden als unterschiedliche Mitglieder eines gedachten inneren Teams versinnbildlicht, die unterschiedliche Meinungen vertreten und somit verschiedene Antworten auf dieselbe Frage geben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c20e9b050ca41656e9db8f38845c04ee9ce4decadac0a2976b77e4fe3fc2ab51",
+        "score": 0.9889479875564575,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "713b72a06c445ceebc9565b412b28743d46a375e463fb11687d2bec1c7db5945",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "5.5.5 Das Innere Team Nora Sieg Kurzbeschreibung Das „Innere Team“ wurde von Prof. Dr. Schulz von Thun entwickelt und wird vor allem eingesetzt, wenn der oder die Ratsuchende sich in einem (inneren) Konflikt befindet. Er oder sie kann sich zum Beispiel nicht für oder gegen eine berufliche Umorientierung entscheiden, da die eigenen Gefühle keine klare Auskunft geben. Widersprüchliche Wünsche und Interessen des oder der Rat-\nsuchenden werden als unterschiedliche Mitglieder eines gedachten inneren Teams versinnbildlicht. Diese inneren Teammitglieder sind unterschiedlicher Meinung und geben somit unterschiedliche Antworten auf die gleiche Frage. Der Berater oder die Beraterin unterstützt die zu beratende Person dabei, alle inneren Teammitglieder zu identifizieren und zu benennen. Über die Befra-\ngung der verschiedenen inneren Stimmen können Entscheidungshemmnisse bearbeitet und im besten Fall überwunden werden. Der oder die Ratsuchende wird in der Rolle als sein oder ihr eigener Coach bzw."
+      },
+      {
+        "rank": 2,
+        "id": "3fb83cb34feca1159b0abe7681abb2fda99489df049060d2dac233976c767b4e",
+        "score": 0.8715378046035767,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4252,
+          "_split_overlap": [
+            {
+              "doc_id": "87d91d7022eb4b120189a8283793935275e4aec59af28cf81efa0591332c028c",
+              "range": [
+                993,
+                1352
+              ]
+            },
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "Team“ einkehrt. Variante: Im Laufe des (Beratungs-)Prozesses kann sich die Zusammenset-\nzung des „Inneren Teams“ ändern. Sie können die ratsuchende Person am An-\nfang fragen, ob sich zum letzten Gespräch noch etwas verändert hat. Ist das der Fall, können neue Teammitglieder in die Zeichnung aufgenommen wer-\nden. Diese späteren Änderungen sind oft besonders wichtig, da sie auf einer 141 5.5 Methodenbeispiele\ftiefer gehenden Auseinandersetzung beruhen und helfen, zum Kern des Pro-\nblems vorzustoßen.\nKommentar zum Einsatz\nZielgruppe: Bei der Methode des „Inneren Teams“ ist es nicht relevant, wie alt die Ratsuchenden sind oder in welcher Lebensphase sie sich befinden. Ebenso ist es nicht entscheidend, welche Bildung oder welchen Beruf sie be-\nkleiden. Da das „Innere Team“ die innere Welt des oder der Ratsuchenden wi-\nderspiegelt, passt sich die Methode an die Person an und erfordert somit kein weiteres Wissen. Entscheidend ist nur, dass das Beratungsanliegen und der Anliegen: (innere) Konf"
+      },
+      {
+        "rank": 3,
+        "id": "18fb19b5cec69eb0882a9e7ccf0bf01d8229fdbd86d88460cc70abbe1d0e953f",
+        "score": 0.8183806538581848,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6377,
+          "_split_overlap": [
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                1053,
+                1415
+              ]
+            },
+            {
+              "doc_id": "79d6b5d9cb7acee1f2eeb0b78222dccc70a89f8889c9c0c46356d8991d509176",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "auch mal auszuhalten, um nach genauer Überlegung bewusst zu handeln. Für die Methode des „Inneren Teams“ gibt es nicht die alleinige, optimale Beratungsphase. Aber es gibt Voraussetzungen, die vor der Anwendung erfüllt sein sollten, um ein gutes Gelingen zu ermöglichen. Zwischen beratender und ratsuchender Person sollte eine wertschätzende und vertrauensvolle Beziehung bestehen. Da sich die Beziehung aber zunächst aufbauen muss, kann die Methode gut in der Mittel-\nphase eines Beratungsgespräches angewandt werden. Ist die Methode jedoch einmal angewendet worden, kann sie auch am Anfang des nächsten Bera-\nSchwierigkeiten/Barrieren: tungsgesprächs genutzt werden. Eine Barriere bei der Aufstellung des „Inneren Teams“ kann die benötigte Offenheit und Ehrlichkeit von Seiten der Ratsu-\nchenden sein. Es kann sein, dass Sie sich Schritt für Schritt vorarbeiten müs-\nsen, um an die wichtigen Teammitglieder zu gelangen. Des Weiteren kann es eine Schwierigkeit darstellen, dass eine gewisse Kreativi"
+      },
+      {
+        "rank": 4,
+        "id": "79d6b5d9cb7acee1f2eeb0b78222dccc70a89f8889c9c0c46356d8991d509176",
+        "score": 0.760182797908783,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 4,
+          "split_id": 7,
+          "split_idx_start": 7474,
+          "_split_overlap": [
+            {
+              "doc_id": "18fb19b5cec69eb0882a9e7ccf0bf01d8229fdbd86d88460cc70abbe1d0e953f",
+              "range": [
+                1097,
+                1435
+              ]
+            },
+            {
+              "doc_id": "56bdca34f690993d18eefd475479c94e76129b5449877b9aa67b99048523277f",
+              "range": [
+                0,
+                287
+              ]
+            }
+          ]
+        },
+        "content": "definieren und zu visualisie-\nren. Hierbei ist es hilfreich, sich auf das Umfeld des oder der Ratsuchenden zu beziehen. Hat die Person einen Beruf, wie zum Beispiel aus dem Garten- und Landschaftsbau, können Sie aus diesem Repertoire schöpfen und Symbole wie den Baum für ein standhaftes Teammitglied verwenden. Genauso funktioniert dies auch mit Hobbys oder Interessen.\nZum Weiterlesen Schulz von Thun, Friedemann (2008): Miteinander reden: 3. Das „Innere Team“ und situationsgerechte Kommunikation. Hamburg. Beratungsbeispiel\nDie Beraterin und der Ratsuchende erstellen nach gemeinsamer Vereinbarung das „Innere Team“ des Ratsuchenden auf die Frage hin, ob er eine bestimmte Weiterbildung absolvieren soll. Es wurden schon einige Teammitglieder aufge-\nspürt. Beraterin [B]: Verstehe ich Sie richtig, dass Sie mit „zu wenig Geld haben“ nicht das Geld meinen, das Sie aktuell verdienen, sondern das Geld, womit Sie die Weiterbil-\ndung bezahlen müssten? Ratsuchender [R]: Ja genau. Die Weiterbildung i"
+      },
+      {
+        "rank": 5,
+        "id": "4ffaca35dd958e4cb76e9ff5a1363227f55bdc4a9c33abc4cb00e72e4624baa8",
+        "score": 0.683214008808136,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 13,
+          "split_id": 21,
+          "split_idx_start": 26907,
+          "_split_overlap": [
+            {
+              "doc_id": "2ff868e6e930470ecadca7db78c2cd3f05bfd9a6bf9a4d998b914e017e8200b4",
+              "range": [
+                2345,
+                2794
+              ]
+            },
+            {
+              "doc_id": "fbfca5818a21d32f8cfa0966f99490502876db32334565447325717b6e427917",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf-\nten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio-\nnen im Team auch die Frage, welche formalen Qualifikationen für die Ein-\nstellung als Berater_in in diesem Feld relevant sind. Aus den Interviews wird ersichtlich, dass sich die einzelnen Teams zwar interdisziplinär zusammen-\nsetzen, jedoch für die Einstellung durchaus Qualifikationen aus dem päda-\ngogischen und sozialen Bereich von Bedeutung sind.\f124 Bildungs- und Berufsberatung in der Migrationsgesellschaft »[D]ie Kolleg_innen […] haben sozialpädagogischen, sozialarbeiterischen, pädagogischen, soziologischen Hintergrund. Alle haben irgendwie eine Grundau"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-140-144.txt",
+    "question": "Welche Rolle übernimmt der Berater oder die Beraterin bei der Anwendung der Methode des Inneren Teams?",
+    "answer": "Die Beraterin oder der Berater tritt als Gastgeber in den eigenen Beratungsräumen auf und verantwortet die angenehme Einsteigssituation und das Wohlbefinden der Ratsuchenden. Im Laufe des Beratungsprozesses kann sich die Zusammensetzung des \"Inneren Teams\" ändern, und neue Teammitglieder können in die Zeichnung aufgenommen werden. Die Beraterin oder der Berater unterstützt die Ratsuchenden dabei, das Gewirr in seine Einzelteile zu zerlegen und zu sortieren, um dann eine Lösung erarbeiten zu können. Die Beraterin oder der Berater übernimmt auch die Rolle, die benötigte Offenheit und Ehrlichkeit von Seiten der Ratsuchenden zu fördern, um das \"Innere Team\" aufzubauen.",
+    "expected": "Der Berater oder die Beraterin unterstützt die zu beratende Person dabei, alle inneren Teammitglieder zu identifizieren und zu benennen, hört aktiv zu, stellt offene Fragen und hilft dabei, die inneren Stimmen zu befragen, um Entscheidungshemmnisse zu bearbeiten und zu überwinden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "892c2c983ad914069fdcedb69603060f6e1abeda17310f5c4a1a7f422a73e3c9",
+        "score": 0.9878276586532593,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 10,
+          "split_id": 21,
+          "split_idx_start": 23195,
+          "_split_overlap": [
+            {
+              "doc_id": "c9205e0cd7fd1dd71945e717efe704b8cbefe1030114acdea2de1d171ec06fd9",
+              "range": [
+                1122,
+                1446
+              ]
+            },
+            {
+              "doc_id": "3149405a0b804bd3a8e90af5dcdc629847d2de5965a3393e96ae24a0f1f3430f",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "reagiert die Beraterin bzw. der Berater auf die Ratsuchenden? 3. Welchen Kontakt kann die Beraterin oder der Berater zu sich selber aufneh-\nmen? Wie bewusst ist ihr oder ihm die Gestaltung ihres bzw. seines Bera-\ntungsangebotes? Welche Botschaften sendet sie oder er durch was? Welche Bedingungen braucht sie oder er im und für den tragfähigen Kontaktaufbau 84 4 Gesprächsführungstechniken und Beratungsansätze\fmit dem oder der Ratsuchenden (s. 3.2 Verantwortung der Beraterin und des Beraters)? Die Sensibilität, diese Fragen im Beratungsprozess immer wieder beantwor-\nbelastbaren ten zu können, verfolgt das Ziel, eine tragfähige Beziehung und damit einen Kontakt aufzubauen. Wenn ich mich nicht ganz auf diesen Kontakt mit dem oder der Ratsuchenden einlasse, sind Inhalte – besonders schwieri-\nge – nicht zu bearbeiten. Ratsuchende werden sich auf die Begleitung von Ver-\nänderungsprozessen nicht einlassen und z.B. mit Passivität oder Widerstand reagieren (s.u.).\nInkongruenzen prüfen: Diskrepanz"
+      },
+      {
+        "rank": 2,
+        "id": "320272b4573d2bb608cb369de966bb3d8aea209cdea24a9a58b5a57b465efb1e",
+        "score": 0.9792312383651733,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 21,
+          "split_id": 50,
+          "split_idx_start": 57170,
+          "_split_overlap": [
+            {
+              "doc_id": "cfeb7a6a9cc328dd083404d7c11140deaf3a74ad56914c16bad850c789d0c970",
+              "range": [
+                1162,
+                1517
+              ]
+            },
+            {
+              "doc_id": "538875db80874d28a7ce7f08597dcd7f16ca311c62e0544b8499d4a86c6a5f40",
+              "range": [
+                0,
+                373
+              ]
+            }
+          ]
+        },
+        "content": "Beraterin und der Berater in ihrer oder seiner persönlichen Verfassung, neben Fachwissen und Methodenkompetenz, ein wichtiges Instrument des Beratungsprozesses ist, gilt es darauf zu achten, in guter aufgeräumter Verfassung zu sein, sich wohlzufühlen. So haben die Beraterin und der Berater zum Beispiel darauf zu achten, keinen Hunger zu verspüren, dass keine Müdigkeit auf Grund von mangelnden Pausen eines lan-\ngen Arbeitstages die Beratung beeinträchtigt, keine ablenkenden Gedanken auf Seiten der Beraterin und des Beraters die Offenheit und Wahrnehmung für den Ratsuchenden stören. Die bevorstehende Aufgabe, den Rahmen der Beratung verantwortlich zu gestalten, gelingt erfahrungsgemäß am besten, wenn die Beraterin und der Berater sich selbst nicht aus dem Blick verlieren. Das persönliche Befinden, Ausgeglichenheit und positiv gestimmte Gefühle spielen eine große Rolle für gelingende Empathie und um die eigene Aufmerk-\nsamkeit ganz den Ratsuchenden als Geschichten-Erzählerinnen und Erzähl"
+      },
+      {
+        "rank": 3,
+        "id": "0e918392e544a0cc96af4574aae39c7ff13e6fa1e01dac2fbce7a9c69a5bd0cb",
+        "score": 0.9645296335220337,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 7,
+          "split_id": 15,
+          "split_idx_start": 17151,
+          "_split_overlap": [
+            {
+              "doc_id": "6d1a12106b8610fd07d56258873658afd837b589232f576d4a7da2dab1a3391b",
+              "range": [
+                1127,
+                1501
+              ]
+            },
+            {
+              "doc_id": "2f84dda1d846ff4f5acd4ff12f5691be297682caf0000093558dc72551b51e96",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "Erarbeitung von Problemlösungen (z.B. die hier vorgestellte Variante des Bodenankers, S. 127), wieder andere bereiten eine Entscheidungsfindung durch ein strukturiertes Brainstorming (z.B. PMI- Tabelle, S. 136) vor. Wenn ich die groben Phasen einer Beratung im Hinterkopf habe (s. 3.2 Verantwortung der Beraterin und des Beraters), lassen sich dar-\naufhin gezielt geeignete Methoden auswählen.\nWas passt zu mir als Berater oder Beraterin? Zu guter Letzt oder zu allererst sollte die Methode auch zum eigenen berate-\nrischen Selbstverständnis passen und mich dabei unterstützen, in der Bera-\ntung kongruent zu bleiben. Auch dies gehört zu dem eigenen Reflexions- und Entwicklungsprozess. Es kann hilfreich sein, Methoden z.B. im Kollegium mit anderen Beraterinnen und Beratern auszuprobieren, um sich in Ratsuchende einfühlen zu können. Hier ist auch der kollegiale Austausch hilfreich. Oft er-\nleben wir dabei eine Überraschung, dass auch Methoden, die wir sonst nicht übernommen hätten, unerwartete "
+      },
+      {
+        "rank": 4,
+        "id": "18fb19b5cec69eb0882a9e7ccf0bf01d8229fdbd86d88460cc70abbe1d0e953f",
+        "score": 0.9570354223251343,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6377,
+          "_split_overlap": [
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                1053,
+                1415
+              ]
+            },
+            {
+              "doc_id": "79d6b5d9cb7acee1f2eeb0b78222dccc70a89f8889c9c0c46356d8991d509176",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "auch mal auszuhalten, um nach genauer Überlegung bewusst zu handeln. Für die Methode des „Inneren Teams“ gibt es nicht die alleinige, optimale Beratungsphase. Aber es gibt Voraussetzungen, die vor der Anwendung erfüllt sein sollten, um ein gutes Gelingen zu ermöglichen. Zwischen beratender und ratsuchender Person sollte eine wertschätzende und vertrauensvolle Beziehung bestehen. Da sich die Beziehung aber zunächst aufbauen muss, kann die Methode gut in der Mittel-\nphase eines Beratungsgespräches angewandt werden. Ist die Methode jedoch einmal angewendet worden, kann sie auch am Anfang des nächsten Bera-\nSchwierigkeiten/Barrieren: tungsgesprächs genutzt werden. Eine Barriere bei der Aufstellung des „Inneren Teams“ kann die benötigte Offenheit und Ehrlichkeit von Seiten der Ratsu-\nchenden sein. Es kann sein, dass Sie sich Schritt für Schritt vorarbeiten müs-\nsen, um an die wichtigen Teammitglieder zu gelangen. Des Weiteren kann es eine Schwierigkeit darstellen, dass eine gewisse Kreativi"
+      },
+      {
+        "rank": 5,
+        "id": "3fb83cb34feca1159b0abe7681abb2fda99489df049060d2dac233976c767b4e",
+        "score": 0.9239030480384827,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4252,
+          "_split_overlap": [
+            {
+              "doc_id": "87d91d7022eb4b120189a8283793935275e4aec59af28cf81efa0591332c028c",
+              "range": [
+                993,
+                1352
+              ]
+            },
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "Team“ einkehrt. Variante: Im Laufe des (Beratungs-)Prozesses kann sich die Zusammenset-\nzung des „Inneren Teams“ ändern. Sie können die ratsuchende Person am An-\nfang fragen, ob sich zum letzten Gespräch noch etwas verändert hat. Ist das der Fall, können neue Teammitglieder in die Zeichnung aufgenommen wer-\nden. Diese späteren Änderungen sind oft besonders wichtig, da sie auf einer 141 5.5 Methodenbeispiele\ftiefer gehenden Auseinandersetzung beruhen und helfen, zum Kern des Pro-\nblems vorzustoßen.\nKommentar zum Einsatz\nZielgruppe: Bei der Methode des „Inneren Teams“ ist es nicht relevant, wie alt die Ratsuchenden sind oder in welcher Lebensphase sie sich befinden. Ebenso ist es nicht entscheidend, welche Bildung oder welchen Beruf sie be-\nkleiden. Da das „Innere Team“ die innere Welt des oder der Ratsuchenden wi-\nderspiegelt, passt sich die Methode an die Person an und erfordert somit kein weiteres Wissen. Entscheidend ist nur, dass das Beratungsanliegen und der Anliegen: (innere) Konf"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-140-144.txt",
+    "question": "Welche Bedeutung hat die Offenheit des Ratsuchenden im Prozess der Arbeit mit dem Inneren Team und warum ist sie wichtig?",
+    "answer": "Offenheit des Ratsuchenden ist wichtig, um die tiefere Auseinandersetzung mit dem Problem zu ermöglichen und den Kern des Problems zu erreichen. \nI cannot find the answer in the provided context.",
+    "expected": "Die Offenheit des Ratsuchenden ist entscheidend, da nur durch ehrliches und offenes Äußern der inneren Stimmen die verschiedenen Mitglieder des Inneren Teams identifiziert werden können. Ohne diese Offenheit kann keine Ordnung der inneren Haltung geschaffen werden, die eine Entscheidung ermöglicht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3fb83cb34feca1159b0abe7681abb2fda99489df049060d2dac233976c767b4e",
+        "score": 0.9967378973960876,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4252,
+          "_split_overlap": [
+            {
+              "doc_id": "87d91d7022eb4b120189a8283793935275e4aec59af28cf81efa0591332c028c",
+              "range": [
+                993,
+                1352
+              ]
+            },
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "Team“ einkehrt. Variante: Im Laufe des (Beratungs-)Prozesses kann sich die Zusammenset-\nzung des „Inneren Teams“ ändern. Sie können die ratsuchende Person am An-\nfang fragen, ob sich zum letzten Gespräch noch etwas verändert hat. Ist das der Fall, können neue Teammitglieder in die Zeichnung aufgenommen wer-\nden. Diese späteren Änderungen sind oft besonders wichtig, da sie auf einer 141 5.5 Methodenbeispiele\ftiefer gehenden Auseinandersetzung beruhen und helfen, zum Kern des Pro-\nblems vorzustoßen.\nKommentar zum Einsatz\nZielgruppe: Bei der Methode des „Inneren Teams“ ist es nicht relevant, wie alt die Ratsuchenden sind oder in welcher Lebensphase sie sich befinden. Ebenso ist es nicht entscheidend, welche Bildung oder welchen Beruf sie be-\nkleiden. Da das „Innere Team“ die innere Welt des oder der Ratsuchenden wi-\nderspiegelt, passt sich die Methode an die Person an und erfordert somit kein weiteres Wissen. Entscheidend ist nur, dass das Beratungsanliegen und der Anliegen: (innere) Konf"
+      },
+      {
+        "rank": 2,
+        "id": "25727b7cb1068bb4a63e5277653974f5f38f8e73820b756b8290102feb2e557d",
+        "score": 0.9826288223266602,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 6,
+          "split_id": 13,
+          "split_idx_start": 14576,
+          "_split_overlap": [
+            {
+              "doc_id": "962b8115179b97759b149ab712a32e94fcd626d0a7549757f6f1f8a8dd6bdb5b",
+              "range": [
+                1135,
+                1532
+              ]
+            },
+            {
+              "doc_id": "9677d428fe916b5e39d3c0a02f6600849daeb4d0be29249aa15411a29c9f24fa",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "diese – zwischen den Me-\nthoden – zum impliziten oder expliziten Gesprächsgegenstand gemacht wer-\nden: Welche wiederkehrenden Handlungsstrategien der Ratsuchenden sind im Kontakt mit der Beraterin oder dem Berater erkennbar? Dies ist bspw. eine der reflexiven Fragen der kommunikativen Metaebene, die Beziehungs-\nhandeln transparenter machen und dem oder der Ratsuchenden Aufschluss darüber geben kann, welche Verhaltensmuster sie auch in andere Beziehun-\ngen trägt und umgekehrt. Bemerke ich z.B., dass der oder die Ratsuchende denn?“, kann ich während der Beratung immer wieder fragt: „Was meinen diese Beobachtung dem Ratsuchenden zur Verfügung stellen. Prozessorientierung versus Ergebnisorientierung Sie Das Erleben einer professionell sicheren Beziehung zum Berater trägt – im besten Fall – also dazu bei, dass wiederkehrende Muster oder erstarrte Denk-\nformen beim Ratsuchenden wieder in Bewegung kommen und damit ver-\nändert werden können. Dies kann sogar bewirken, dass Ratsuchende in der Bi"
+      },
+      {
+        "rank": 3,
+        "id": "1d1d46e76eaaeef4141cec1d3be1c3841f58973d0d00dee53238320f775c41a1",
+        "score": 0.9734162092208862,
+        "meta": {
+          "file_path": "1001586-127-131.txt",
+          "source_id": "a8811ebc0932f460b356214d0ac105aa07bba9369d03a2761ad63bf05bc0c940",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4308,
+          "_split_overlap": [
+            {
+              "doc_id": "5219082e05c9249a8d282f711c4d9fb2b791aeb77b1ec44b416b606ba58a1708",
+              "range": [
+                1131,
+                1478
+              ]
+            },
+            {
+              "doc_id": "593ea5efeb6918a03d103c4b7307994c026a34472aa31b71f8e34689f881a44a",
+              "range": [
+                0,
+                347
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. Girsberger, Andri 2012: 8ff.). Abschluss und Transfer: 4. Nachdem der oder die Ratsuchende sich auf jeden Bodenanker gestellt, sich in die Situation hineingefühlt hat und durch geziel-\nte Fragen durch die Situationen begleitet wurde, können Sie sich gemein-\nsam mit dem oder der Ratsuchenden wieder setzen und die Bodenanker betrachten. Nun soll der bzw. die Ratsuchende erzählen, wie er oder sie sich auf den einzelnen Bodenankern gefühlt hat, was er bzw. sie gelernt hat und welche Lösung bzw. nächsten Schritte sich für ihn oder sie am besten oder am selbstverständlichsten angefühlt haben. Der oder die Ratsuchende kann nun zusammen mit dem Berater bzw. der Beraterin die nächsten Schritte benennen. 128 5 Methoden und Techniken\f5.5 Methodenbeispiele Abb. 14: Bodenankeraufb au und -bewegung mit beispielhaft er Laufrichtung (eigene Darstellung) Variante: Sie können mit den Ratsuchenden auch erst die Bodenanker sam-\nmeln, anfertigen, dann im Raum platzieren und anschließend den Ratsuchen"
+      },
+      {
+        "rank": 4,
+        "id": "373642142244ffa693531e909ee4e7d1e077c9fb682f859ca22963da53cc8455",
+        "score": 0.9660027027130127,
+        "meta": {
+          "file_path": "1001586-167-171.txt",
+          "source_id": "ac1ae7427cab6893ce471f90727ea3a0ed7f3643e5ea92ef81bc1a857b77aca9",
+          "page_number": 3,
+          "split_id": 4,
+          "split_idx_start": 4623,
+          "_split_overlap": [
+            {
+              "doc_id": "089acf44b12ab78cb0931d0c6d9631cbca095c6aaa42efc578b29740e8f88165",
+              "range": [
+                1139,
+                1482
+              ]
+            },
+            {
+              "doc_id": "ef6d05e4dda429c22610e11be0dd1fb57275cbed6897b6ada2be52f7096ea121",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "und einen Stift an den oder die Ratsuchenden weiterzureichen. Nun kann der bzw. die Ratsu-\nchende über jeden Lebensbereich noch einmal kurz nachdenken und sich dann für einen Zufriedenheitswert anhand der Skala entscheiden. Dabei kann der bzw. die Ratsuchende laut erzählen, ist dazu aber nicht gezwun-\ngen. Die Reihenfolge, mit welchem Thema er bzw. sie als erstes beginnt, ist Abschluss und Transfer:\ndabei nicht entscheidend. 4. Nachdem das Lebensrad/der Lebensstern vom Ratsuchenden mit den jeweiligen Werten gekennzeichnet wurde, kann der bzw. die Beratende die einzelnen Punkte miteinander verbinden, sodass die graphische Darstellung eines Rads oder Sterns entsteht (vgl. Bamber-\nger 2010: 111). Nun kann der bzw. die Beratende die ratsuchende Person zunächst fragen, was er oder sie beim Anblick des Lebensrads empfindet. „Gibt es Um das Thema, welches dem bzw. der Ratsuchenden am meisten am Her-\n„Welcher einen bestimmten Punkt der besonders auffällig für Sie ist?“\nzen liegt, weiter bearbe"
+      },
+      {
+        "rank": 5,
+        "id": "c2db5066bb12e62335eaeccb35516a4f83644c7a727dec6e73a9146dde96105d",
+        "score": 0.9605982899665833,
+        "meta": {
+          "file_path": "1001586-178-183.txt",
+          "source_id": "1c28e14f6cec3b9ca8b97a26d77173a8d1361f53f56863713c7cb5e6138de11f",
+          "page_number": 3,
+          "split_id": 4,
+          "split_idx_start": 5093,
+          "_split_overlap": [
+            {
+              "doc_id": "1d6de366c2940ddd2e31c6013f9b8ca2c46a7502e1341a6200fc05a9f0b9cf09",
+              "range": [
+                1115,
+                1470
+              ]
+            },
+            {
+              "doc_id": "d7ad5013767df5e3747411e020c0b1e1feced06fd7b54d521842fc0417e75808",
+              "range": [
+                0,
+                335
+              ]
+            }
+          ]
+        },
+        "content": "Beobachtung oder Erfragen des Arbeitsstandes aufzubauen; es kann ratsam sein, den bzw. die Ratsuchende kurzzeitig allein zu lassen oder sich selbst der Auswer-\ntungsvorbereitung zu widmen. Vor die gemeinsame Auswertung mit Hilfe „Wel-\nder Matrix sollten Sie einen Augenblick des „Durchatmens“ stellen. Mit den chen Eindruck hatten Sie zu den Aussagen, wo Sie nun das letzte Kreuz gesetzt Fragen haben?“ „Wie geht es Ihnen nun nach der Bearbeitung des Tests?“ oder geben Sie dem bzw. der Ratsuchenden die Möglichkeit, das Erlebte kurzzeitig zu explorieren. Von der sich ergebenden kurzen Gesprächsse-\nquenz leiten Sie dann zur Auswertung über. Diese können die Ratsuchenden selbst vornehmen oder Sie lassen sich die zugeordneten Punktzahlen der Items auf Basis der Matrix ansagen. Der so ermittelte Wert liegt pro Antrei-\nber bei zehn dazugehörigen Items zwischen minimal 10 und maximal 50 Punkten. Das Gesamtergebnis kann dann grafisch dargestellt oder mit Hilfe Abschluss und Transfer: einer einfach"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-140-144.txt",
+    "question": "Wie sollte ein Berater die Methode des Inneren Teams vorbereiten und durchführen, um die Entscheidungsfindung der zu beratenden Person effektiv zu unterstützen?",
+    "answer": "Eine Beraterin oder ein Berater sollte sich vor der Anwendung der Methode des Inneren Teams mit dieser auseinandersetzen, indem sie sich mit dem Grundschema der Methode vertraut macht und es vorher auf einem Plakat vorzeichnet. Es ist wichtig, dass sich auch die Beraterin oder der Berater vorher mit der Methode auseinandersetzt, da sie eine sehr komplexe Methode ist. Vor der Anwendung der Methode sollte die Beraterin oder der Berater der zu beratenden Person erklären, wie die Methode abläuft und was damit bezweckt wird, um die Offenheit und das Vertrauen der zu beratenden Person zu gewährleisten. Die Methode kann gut in der Mittelphase eines Beratungsgesprächs angewandt werden, aber auch am Anfang des nächsten Beratungsgesprächs genutzt werden, wenn die Methode bereits angewendet wurde. Die Beraterin oder der Berater sollte die zu beratende Person dabei unterstützen, alle inneren Teammitglieder zu identifizieren und zu benennen, indem sie die verschiedenen inneren Stimmen befragt. Durch die Befragung der verschiedenen inneren Stimmen können Entscheidungshemmnisse bearbeitet und im besten Fall überwunden werden. Am Ende ist es die Aufgabe der zu beratenden Person, zwischen den einzelnen Stimmen eine Entscheidung zu vermitteln. Die Methode des Inneren Teams ist eine sehr komplexe Methode, daher ist es ratsam, dass sich auch die Beraterin und der Berater vorher mit dieser auseinandersetzen, um die Anwendung der Methode effektiv durchzuführen. Es ist wichtig, dass sich die Beraterin und der Berater vorher mit der Methode vertraut machen, um die zu beratende Person effektiv zu unterstützen. Die Methode kann gut in der Mittelphase eines Beratungsgesprächs angewandt werden, aber auch am Anfang des nächsten Beratungsgesprächs genutzt werden, wenn die Methode bereits angewendet wurde. \n        Die richtige Antwort lautet: Eine Beraterin oder ein Berater sollte sich vor der Anwendung der Methode des Inneren Teams mit dieser auseinandersetzen, indem sie sich mit dem Grundschema der Meth",
+    "expected": "Der Berater sollte sich zunächst selbst mit der komplexen Methode auseinandersetzen und ein Grundschema des Inneren Teams auf einem Plakat vorzeichnen, das genügend Platz für mehrere Teammitglieder bietet. Im Gespräch schlägt er dem Ratsuchenden die Methode vor, erklärt den Ablauf und stellt offene Fragen, um alle inneren Stimmen zu identifizieren, präzisieren und aufzuzeichnen. Durch aktives Zuhören unterstützt er die Person als ihr eigener Coach, um die unterschiedlichen inneren Stimmen zu ordnen und eine Entscheidung zu vermitteln.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "18fb19b5cec69eb0882a9e7ccf0bf01d8229fdbd86d88460cc70abbe1d0e953f",
+        "score": 0.9984147548675537,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 6377,
+          "_split_overlap": [
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                1053,
+                1415
+              ]
+            },
+            {
+              "doc_id": "79d6b5d9cb7acee1f2eeb0b78222dccc70a89f8889c9c0c46356d8991d509176",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "auch mal auszuhalten, um nach genauer Überlegung bewusst zu handeln. Für die Methode des „Inneren Teams“ gibt es nicht die alleinige, optimale Beratungsphase. Aber es gibt Voraussetzungen, die vor der Anwendung erfüllt sein sollten, um ein gutes Gelingen zu ermöglichen. Zwischen beratender und ratsuchender Person sollte eine wertschätzende und vertrauensvolle Beziehung bestehen. Da sich die Beziehung aber zunächst aufbauen muss, kann die Methode gut in der Mittel-\nphase eines Beratungsgespräches angewandt werden. Ist die Methode jedoch einmal angewendet worden, kann sie auch am Anfang des nächsten Bera-\nSchwierigkeiten/Barrieren: tungsgesprächs genutzt werden. Eine Barriere bei der Aufstellung des „Inneren Teams“ kann die benötigte Offenheit und Ehrlichkeit von Seiten der Ratsu-\nchenden sein. Es kann sein, dass Sie sich Schritt für Schritt vorarbeiten müs-\nsen, um an die wichtigen Teammitglieder zu gelangen. Des Weiteren kann es eine Schwierigkeit darstellen, dass eine gewisse Kreativi"
+      },
+      {
+        "rank": 2,
+        "id": "3fb83cb34feca1159b0abe7681abb2fda99489df049060d2dac233976c767b4e",
+        "score": 0.9947267174720764,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4252,
+          "_split_overlap": [
+            {
+              "doc_id": "87d91d7022eb4b120189a8283793935275e4aec59af28cf81efa0591332c028c",
+              "range": [
+                993,
+                1352
+              ]
+            },
+            {
+              "doc_id": "3510ad6909376f97a035cf60a46a94379c5a266f760053c1868f66b0767dda21",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "Team“ einkehrt. Variante: Im Laufe des (Beratungs-)Prozesses kann sich die Zusammenset-\nzung des „Inneren Teams“ ändern. Sie können die ratsuchende Person am An-\nfang fragen, ob sich zum letzten Gespräch noch etwas verändert hat. Ist das der Fall, können neue Teammitglieder in die Zeichnung aufgenommen wer-\nden. Diese späteren Änderungen sind oft besonders wichtig, da sie auf einer 141 5.5 Methodenbeispiele\ftiefer gehenden Auseinandersetzung beruhen und helfen, zum Kern des Pro-\nblems vorzustoßen.\nKommentar zum Einsatz\nZielgruppe: Bei der Methode des „Inneren Teams“ ist es nicht relevant, wie alt die Ratsuchenden sind oder in welcher Lebensphase sie sich befinden. Ebenso ist es nicht entscheidend, welche Bildung oder welchen Beruf sie be-\nkleiden. Da das „Innere Team“ die innere Welt des oder der Ratsuchenden wi-\nderspiegelt, passt sich die Methode an die Person an und erfordert somit kein weiteres Wissen. Entscheidend ist nur, dass das Beratungsanliegen und der Anliegen: (innere) Konf"
+      },
+      {
+        "rank": 3,
+        "id": "713b72a06c445ceebc9565b412b28743d46a375e463fb11687d2bec1c7db5945",
+        "score": 0.9937193393707275,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1071,
+          "_split_overlap": [
+            {
+              "doc_id": "c20e9b050ca41656e9db8f38845c04ee9ce4decadac0a2976b77e4fe3fc2ab51",
+              "range": [
+                1071,
+                1461
+              ]
+            },
+            {
+              "doc_id": "ebacd939869e2b21bf0b254c5ff1c6b046d61ebd3ad7ac939f5741edb3c3628b",
+              "range": [
+                0,
+                354
+              ]
+            }
+          ]
+        },
+        "content": "seine bzw. ihre Aufgabe, zwi-\nschen den einzelnen Stimmen eine Entscheidung zu vermitteln. Material: Phase/Funktion: Anliegen: Zeit: • Ausdruck\n• Stifte Sortieren verschiede-\nner Handlungsoptionen Entscheidungsfindung ca. 60 Min. Ablauf der Beratung Vorbereitung: 1. Da das „Innere Team“ eine sehr komplexe Methode ist, emp-\nfiehlt es sich, dass sich auch Berate-\nrinnen und Berater vorher mit dieser auseinandersetzen. Für die Anwendung können Sie das Grundschema des „Inne-\nren Teams“ auf einem Plakat vorzeich-\nnen, wobei Sie darauf achten sollten, genug Platz für mehrere Teammitglie-\nder zu lassen. Abb. 17: Das innere Team (eigene Darstellung) 140 5 Methoden und Techniken\fMethode einleiten: 2. Wenn Ihnen innerhalb des Beratungsgesprächs auf-\nfällt, dass der oder die Ratsuchende in einem inneren Konflikt steckt, da er oder sie verschiedene Meinungen, Reaktionen oder Gefühle zu einer Situa-\ntion äußert, dann können Sie dem oder der Ratsuchenden zur Auflösung die Methode des „Inneren Teams“"
+      },
+      {
+        "rank": 4,
+        "id": "c20e9b050ca41656e9db8f38845c04ee9ce4decadac0a2976b77e4fe3fc2ab51",
+        "score": 0.9720947742462158,
+        "meta": {
+          "file_path": "1001586-140-144.txt",
+          "source_id": "590a09430295937edf60cb0e6df71d1f7a9c94fe1a968c802f62b45bb6a37e06",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "713b72a06c445ceebc9565b412b28743d46a375e463fb11687d2bec1c7db5945",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "5.5.5 Das Innere Team Nora Sieg Kurzbeschreibung Das „Innere Team“ wurde von Prof. Dr. Schulz von Thun entwickelt und wird vor allem eingesetzt, wenn der oder die Ratsuchende sich in einem (inneren) Konflikt befindet. Er oder sie kann sich zum Beispiel nicht für oder gegen eine berufliche Umorientierung entscheiden, da die eigenen Gefühle keine klare Auskunft geben. Widersprüchliche Wünsche und Interessen des oder der Rat-\nsuchenden werden als unterschiedliche Mitglieder eines gedachten inneren Teams versinnbildlicht. Diese inneren Teammitglieder sind unterschiedlicher Meinung und geben somit unterschiedliche Antworten auf die gleiche Frage. Der Berater oder die Beraterin unterstützt die zu beratende Person dabei, alle inneren Teammitglieder zu identifizieren und zu benennen. Über die Befra-\ngung der verschiedenen inneren Stimmen können Entscheidungshemmnisse bearbeitet und im besten Fall überwunden werden. Der oder die Ratsuchende wird in der Rolle als sein oder ihr eigener Coach bzw."
+      },
+      {
+        "rank": 5,
+        "id": "cfeb7a6a9cc328dd083404d7c11140deaf3a74ad56914c16bad850c789d0c970",
+        "score": 0.9311510920524597,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 20,
+          "split_id": 49,
+          "split_idx_start": 56008,
+          "_split_overlap": [
+            {
+              "doc_id": "7d4c53665174965412fb08079ffc4f79b4fddeac2910884be27cb1b333904325",
+              "range": [
+                1127,
+                1525
+              ]
+            },
+            {
+              "doc_id": "320272b4573d2bb608cb369de966bb3d8aea209cdea24a9a58b5a57b465efb1e",
+              "range": [
+                0,
+                355
+              ]
+            }
+          ]
+        },
+        "content": "eine der genannten Phasen auch aus mehreren Beratungssitzungen bestehen. Die Chance zur klärenden Vertie-\nfung eröffnet sich im Wechselspiel mit der verfügbaren zeitlichen Ressource.\nVorbereitung und Einstimmung als Selbstverantwortung der Beraterinnen und Berater Um als Beraterin und Berater offen, neugierig und interessiert dem oder der Ratsuchenden begegnen zu können, ist erfahrungsgemäß ein achtsames Selbst-Management für das eigene Wohlbefinden eine grundlegende Basis. Die Prozessverantwortung für eine gelingende Beratung beginnt somit schon in der Vorbereitung. Es ist bedeutsam, dafür Sorge zu tragen, dass die Berate-\nrin und der Berater nicht gehetzt von einer Beratung zur nächsten übergehen oder dass der Wechsel aus anderen beruflichen Kontexten nicht zu unver-\nmittelt ausfällt. Es ist ratsam, sich sozusagen kurz „zu leeren“, innezuhalten 58 3 Erfahrungsraum Beratung: Handlungsorientierung\fund sich darauf einzustimmen, dass ein Anfang mit einem fremden Menschen bevorsteht bzw. "
+      }
+    ]
+  }
+]

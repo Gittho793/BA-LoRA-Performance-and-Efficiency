@@ -330,11 +330,11 @@ def main():
     # Index documents
     print("Indexing documents...")
     rag.index_documents([str(p) for p in Path(
-        "../../data/raw_splitted_txt").rglob("*") if p.is_file()])
+        "../../data/raw_splitted_pdfs").rglob("*") if p.is_file()])
 
     # Query the system
     questions_map, answer_map = load_question_json(
-        "../eval/output/txt_questions.json")
+        "../eval/output/pdf_questions.json")
 
     """for source_file, qs in questions_map.items():
         for i, q in enumerate(qs):
@@ -344,7 +344,7 @@ def main():
             print(f"\n\n\n\nExpected: {answer_map[source_file][i]}")
             print("-" * 30)"""
 
-    output_dir = Path("../../results/rag")
+    output_dir = Path("../../results/rag/pdf")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     for source_file, qs in questions_map.items():
@@ -369,7 +369,7 @@ def main():
             })
 
         out_name = output_dir / \
-            f"txt_{Path(source_file).stem}_qa_retrieval.json"
+            f"pdf_{Path(source_file).stem}_qa_retrieval.json"
         with open(out_name, "w", encoding="utf-8") as f:
             json.dump(results_for_source, f, ensure_ascii=False, indent=2)
         print(f"Saved results to {out_name}")

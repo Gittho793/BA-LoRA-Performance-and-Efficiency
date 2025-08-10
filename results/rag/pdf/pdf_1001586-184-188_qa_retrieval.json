@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "1001586-184-188.txt",
+    "question": "Was ist der Talentkompass NRW und wofür wird er verwendet?",
+    "answer": "Der Talentkompass NRW ist eine Orientierungshilfe für die berufliche Beratung, die in einem Ringordner Arbeitsblätter in mehreren Abteilungen zusammenfasst. Er wurde entwickelt, um während einer Einzelberatung in fünf Schritten den persönlichen \"Kompass\" des oder der Ratsuchenden aus seinen bzw. ihren Fähigkeiten, Interessen und Werten zu entwickeln. Der Talentkompass NRW wird verwendet, um berufliche Entscheidungen zu unterstützen und die berufliche Entwicklung zu fördern. Er kann für junge Erwachsene in Ausbildungsverhältnissen, Beschäftigte, Berufsrückkehrende und Arbeitssuchende verwendet werden, die Unterstützung bei beruflichen Veränderungen benötigen. Der Talentkompass NRW ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgesprächs füllen kann und kann in mehr als einer Beratungssitzung eingesetzt werden. Er enthält sechs Felder: Eigenschaften, Tätigkeiten und Wissen des bzw. der Ratsuchenden, sowie berufliches Umfeld, Werte und Interessen. Der Talentkompass NRW kann auch isoliert eingesetzt werden, um bestimmte Methoden zur Visualisierung, Entscheidungsfindung oder Kompetenzbilanzierung zu nutzen. Die Durchführung des Talentkompasses kann vorbereitet werden, indem man sich mit dem Leitfaden für Beratende oder Kursleitende zum Talentkompass NRW vertraut macht. Es gibt auch Fortbildungen zur Anwendung des Talentkompasses, die von der Talentkompass Akademie angeboten werden. Der Talentkompass NRW ist kostenlos im Internet verfügbar.",
+    "expected": "Der Talentkompass NRW ist eine Orientierungshilfe für die berufliche Beratung, die in einem Ringordner Arbeitsblätter in mehreren Abteilungen enthält. Er wird genutzt, um in fünf Schritten den persönlichen Kompass der Ratsuchenden aus ihren Fähigkeiten, informellen Kompetenzen, Interessen, Wünschen und Wertvorstellungen zu entwickeln und damit berufliche Entscheidungen oder Entwicklungen zu unterstützen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+        "score": 0.9892728924751282,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1288,
+          "_split_overlap": [
+            {
+              "doc_id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+              "range": [
+                1288,
+                1698
+              ]
+            },
+            {
+              "doc_id": "13af272d26681c4cfa39e41bf3881b24ed7adf2e08e00e64ec9466b05b44a102",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "oder Kursleitende zum Talentkom-\npass NRW. Es empfiehlt sich, als Beraterin oder Berater z.B. mit Hilfe des Leitfadens die Durchführung des Talentkompasses vorzubereiten, des Wei-\nteren werden z.B. von der Talentkompass Akademie verschiedene Fortbil-\nMethode einleiten:\ndungen zur Anwendung des Talentkompasses angeboten. 2. Die Nutzung des Talentkompasses kann z.B. über die Homepage der Beratungseinrichtung und durch das Aufführen des offizi-\nellen Flyers vorgestellt werden. Der ratsuchenden Person sollten die fünf Schritte des Talentkompasses NRW vorgestellt werden (s.u.). Der Ringord-\nner wird den Ratsuchenden ausgehändigt und geht in seinen bzw. ihren Be-\nsitz über; dazu werden persönliche Daten auf Seite drei des Ringordners eingetragen. Der oder die Ratsuchende kann entscheiden, ob er bzw. sie die Notizen selbst einfügt oder dies dem bzw. der Beratenden überlässt. In die-\nsem Fall sollte der bzw. die Ratsuchende in die Formulierung der Antworten mit einbezogen werden. Als roter Fad"
+      },
+      {
+        "rank": 2,
+        "id": "b63200149833e6a6cb2d3f4adeb933b298bfeaa037c68a4d209a36c958d187fc",
+        "score": 0.9862404465675354,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4667,
+          "_split_overlap": [
+            {
+              "doc_id": "b340a2915bab98436ef752cee3fd75a6e967816ed9e401397c57d158ee58d16f",
+              "range": [
+                1151,
+                1555
+              ]
+            },
+            {
+              "doc_id": "59b7af400631e150ea7c3be2bae59ed0a2d501c3d8131ebb32dd145ef0e5993b",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "viele Hinweise zur Durchführung, sodass ein Ratsuchender den Ordner auch allein durcharbeiten kann. Der Umfang des Talentkompasses lässt es auch zu, ihn in mehr als einer Bera-\ntungssitzung zu benutzen, einige Teilschritte können dem Ratsuchenden auch als „Hausaufgabe“ mitgegeben werden. Einzelne der Methoden zur Visualisie-\nrung, Entscheidungsfindung oder Kompetenzbilanzierung können auch iso-\nliert eingesetzt werden. 185 5.5 Methodenbeispiele\fKommentar zum Einsatz\nAnliegen & Zielgruppe: Der Talentkompass NRW kommt zum Einsatz, wenn eine Auseinandersetzung mit beruflichen Veränderungen gewünscht wird. Somit können Zielpersonen sowohl junge Erwachsene in Ausbildungsverhält-\nnissen, Beschäftigte und Berufsrückkehrende als auch Arbeitssuchende sein, die Unterstützung darin brauchen, berufliche Veränderungen und Entschei-\nPhase im Beratungsgespräch: dungen aktiv zu gestalten . Der Talentkompass ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgespräches füllen kann. Vorhan"
+      },
+      {
+        "rank": 3,
+        "id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+        "score": 0.985526442527771,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+              "range": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        "content": "5.5.13 Talentkompass NRW Sarah Künne Kurzbeschreibung Der Talentkompass NRW wurde als Orientierungshilfe für die berufliche Bera-\ntung entwickelt. In einem Ringordner sind Arbeitsblätter in mehreren Abtei-\nlungen zusammengefasst, anhand derer während einer Einzelberatung in fünf Schritten der titelgebende persönliche „Kompass“ des oder der Ratsuchenden aus seinen bzw. ihren Fähigkeiten entwickelt wird. Dabei werden gerade auch informelle Kompetenzen, sowie persönliche Interessen aber auch Wünsche bezüglich eines neuen Arbeitsplatzes berücksichtigt, sowie Wertvorstellun-\ngen des oder der Ratsuchenden bewusstgemacht, die als Grundlage für be-\nrufliche Entscheidungen oder Entwicklungen dienen. Das berufliche Ziel wird formuliert, dessen Hürden veranschaulicht und der nächste Schritt zur Zieler-\nreichung geplant. Phase/Funktion: Anliegen: Material: Zeit: Wegweiser für beruf-\nliche Entscheidungen Berufliche Entwicklung Kompetenzbilanzierung ca.2 h\n2 Sitzungen • Ringordner „Talentkompass NRW"
+      },
+      {
+        "rank": 4,
+        "id": "17f03f520e3c3c83668238bf4a8cea364f627ca0636228e01777f0b3d827f9df",
+        "score": 0.272002249956131,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 20,
+          "split_id": 32,
+          "split_idx_start": 38514,
+          "_split_overlap": [
+            {
+              "doc_id": "c7f2c594e4e81c532aac6a15df28901179fae97919cab64fb5104027c7e04d69",
+              "range": [
+                1054,
+                1480
+              ]
+            },
+            {
+              "doc_id": "d5b2bf1d54ed249fab6f04e858d8fd85f2ce91f7901e9ed707d3d4d82dd607d9",
+              "range": [
+                0,
+                340
+              ]
+            }
+          ]
+        },
+        "content": "Abbildung sind von Legamaster; Emoticons könnten aber auch selbst hergestellt oder andere Karten verwendet werden. 19\fFragentyp Zielsetzung Beispiel Ressourcenfragen Reflexion von internen und externen Ressourcen bezogen auf Vergangenheit, Gegenwart und Zukunft. Fragen zu Ausnahmen Aktivierung bereits vorhandener, aber unbewusster Res– sourcen und Lösungs– möglichkeiten Gegenwartsbezogen: Was funktioniert aktuell gut? Wie erreichen Sie das? Was soll trotz Veränderung erhalten bleiben? Eigene Person: Was sind Ihrer Einschätzung nach Ressourcen (wichtige Eigenschaften, Talente, Fähigkeiten), die Ihnen bisher beim Lösen von Problemen geholfen haben? Welche Ressource davon können Sie nutzen, um das Problem zu lösen? Vergangenheit: Wie haben Sie in der Vergangenheit das Problem gelöst? Wie haben Sie konkret welche Art von Problem gelöst? Lösungen/ Zukunft: Woran würden Sie merken, dass Sie auf dem richtigen Weg sind? Welche Lösungsideen würde Ihr bester Freund/Ihre beste Freundin entwickeln"
+      },
+      {
+        "rank": 5,
+        "id": "478df2011e9c3c43ac0ee1bd3b967690298b5bae7e6516b1770742dd3a88b315",
+        "score": 0.20431706309318542,
+        "meta": {
+          "file_path": "9783866496811-098-147.txt",
+          "source_id": "2fb3e5fc0eec8b84a32268e4710418d6a7fbcd5830c45793929a76f4aa8593ee",
+          "page_number": 7,
+          "split_id": 14,
+          "split_idx_start": 17467,
+          "_split_overlap": [
+            {
+              "doc_id": "f954edf40c72cef07750b001b679398d0bba16680a08b4829c536fe9a5870068",
+              "range": [
+                1306,
+                1690
+              ]
+            },
+            {
+              "doc_id": "572484a52fe82658b55a41129fcc9f5f095671625771ad4884fdd1778268e516",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen-\nschaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizite feststellen“ (Veit 2004:129). Sie geht sogar so weit, dass sie feststellt, dass es eine falsch verstandene Professionalisierung sei, „ (...) wenn sie nicht zum professionellen Handeln in der Praxis führt“ (Veit 2004:129). Bei der Gestaltung der Lernprozesse wurde hervor gehoben, dass “die Ausbil-\ndung in der Pflege (...) stärker mit der Praxis zu vernetzen und Professionali-\nsierungsstrategien frühzeitig einzuleiten“ sind (Görres 1997. In: Roes 2004:141). Hierzu wurden verschiedene Modelle i"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-184-188.txt",
+    "question": "Welche sechs Felder umfasst der Talentkompass NRW und wie werden diese kategorisiert?",
+    "answer": "Der Talentkompass NRW umfasst sechs Felder, die in zwei Kategorien unterteilt sind: \"Kraftfelder\" und \"Magnetfelder\". Die \"Kraftfelder\" sind Eigenschaften, Tätigkeiten und Wissen des bzw. der Ratsuchenden, während die \"Magnetfelder\" berufliches Umfeld, Werte und Interessen umfassen. Diese sechs Felder sollen durch die ratsuchende Person in der Bestandsaufnahme beschrieben werden.",
+    "expected": "Der Talentkompass NRW umfasst sechs Felder: Eigenschaften, Tätigkeiten und Wissen der Ratsuchenden, die als \"Kraftfelder\" bezeichnet werden, sowie die Aspekte berufliches Umfeld, Werte und Interessen, die als \"Magnetfelder\" bezeichnet werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+        "score": 0.9722498655319214,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1288,
+          "_split_overlap": [
+            {
+              "doc_id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+              "range": [
+                1288,
+                1698
+              ]
+            },
+            {
+              "doc_id": "13af272d26681c4cfa39e41bf3881b24ed7adf2e08e00e64ec9466b05b44a102",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "oder Kursleitende zum Talentkom-\npass NRW. Es empfiehlt sich, als Beraterin oder Berater z.B. mit Hilfe des Leitfadens die Durchführung des Talentkompasses vorzubereiten, des Wei-\nteren werden z.B. von der Talentkompass Akademie verschiedene Fortbil-\nMethode einleiten:\ndungen zur Anwendung des Talentkompasses angeboten. 2. Die Nutzung des Talentkompasses kann z.B. über die Homepage der Beratungseinrichtung und durch das Aufführen des offizi-\nellen Flyers vorgestellt werden. Der ratsuchenden Person sollten die fünf Schritte des Talentkompasses NRW vorgestellt werden (s.u.). Der Ringord-\nner wird den Ratsuchenden ausgehändigt und geht in seinen bzw. ihren Be-\nsitz über; dazu werden persönliche Daten auf Seite drei des Ringordners eingetragen. Der oder die Ratsuchende kann entscheiden, ob er bzw. sie die Notizen selbst einfügt oder dies dem bzw. der Beratenden überlässt. In die-\nsem Fall sollte der bzw. die Ratsuchende in die Formulierung der Antworten mit einbezogen werden. Als roter Fad"
+      },
+      {
+        "rank": 2,
+        "id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+        "score": 0.662042498588562,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+              "range": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        "content": "5.5.13 Talentkompass NRW Sarah Künne Kurzbeschreibung Der Talentkompass NRW wurde als Orientierungshilfe für die berufliche Bera-\ntung entwickelt. In einem Ringordner sind Arbeitsblätter in mehreren Abtei-\nlungen zusammengefasst, anhand derer während einer Einzelberatung in fünf Schritten der titelgebende persönliche „Kompass“ des oder der Ratsuchenden aus seinen bzw. ihren Fähigkeiten entwickelt wird. Dabei werden gerade auch informelle Kompetenzen, sowie persönliche Interessen aber auch Wünsche bezüglich eines neuen Arbeitsplatzes berücksichtigt, sowie Wertvorstellun-\ngen des oder der Ratsuchenden bewusstgemacht, die als Grundlage für be-\nrufliche Entscheidungen oder Entwicklungen dienen. Das berufliche Ziel wird formuliert, dessen Hürden veranschaulicht und der nächste Schritt zur Zieler-\nreichung geplant. Phase/Funktion: Anliegen: Material: Zeit: Wegweiser für beruf-\nliche Entscheidungen Berufliche Entwicklung Kompetenzbilanzierung ca.2 h\n2 Sitzungen • Ringordner „Talentkompass NRW"
+      },
+      {
+        "rank": 3,
+        "id": "b63200149833e6a6cb2d3f4adeb933b298bfeaa037c68a4d209a36c958d187fc",
+        "score": 0.6505382657051086,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4667,
+          "_split_overlap": [
+            {
+              "doc_id": "b340a2915bab98436ef752cee3fd75a6e967816ed9e401397c57d158ee58d16f",
+              "range": [
+                1151,
+                1555
+              ]
+            },
+            {
+              "doc_id": "59b7af400631e150ea7c3be2bae59ed0a2d501c3d8131ebb32dd145ef0e5993b",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "viele Hinweise zur Durchführung, sodass ein Ratsuchender den Ordner auch allein durcharbeiten kann. Der Umfang des Talentkompasses lässt es auch zu, ihn in mehr als einer Bera-\ntungssitzung zu benutzen, einige Teilschritte können dem Ratsuchenden auch als „Hausaufgabe“ mitgegeben werden. Einzelne der Methoden zur Visualisie-\nrung, Entscheidungsfindung oder Kompetenzbilanzierung können auch iso-\nliert eingesetzt werden. 185 5.5 Methodenbeispiele\fKommentar zum Einsatz\nAnliegen & Zielgruppe: Der Talentkompass NRW kommt zum Einsatz, wenn eine Auseinandersetzung mit beruflichen Veränderungen gewünscht wird. Somit können Zielpersonen sowohl junge Erwachsene in Ausbildungsverhält-\nnissen, Beschäftigte und Berufsrückkehrende als auch Arbeitssuchende sein, die Unterstützung darin brauchen, berufliche Veränderungen und Entschei-\nPhase im Beratungsgespräch: dungen aktiv zu gestalten . Der Talentkompass ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgespräches füllen kann. Vorhan"
+      },
+      {
+        "rank": 4,
+        "id": "4857efa7bf779e942bac33adf4f1a40561000be0751d2c4d8e1a517f716686b9",
+        "score": 0.2428971379995346,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen.txt",
+          "source_id": "2f003a9f1868a99b4c2da95595ea2af8d8a4f82a7ce62ff83b388833275b9c00",
+          "page_number": 5,
+          "split_id": 5,
+          "split_idx_start": 6882,
+          "_split_overlap": [
+            {
+              "doc_id": "1c17523887029b2d2bbedf7bea37c3b2da83829034908f4c8261fceae78cdad0",
+              "range": [
+                1298,
+                1720
+              ]
+            },
+            {
+              "doc_id": "1e3525006d0b03b9e4217fb8275f58be73e54d1c134b8ac0b367d78adcfc155d",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsfeldern und der Wis-\nsenschaft konzeptualisiert, um „vor dem Hintergrund fehlender einheitlicher Standards in der Beratung sowie der heterogenen Qualifikationen des tätigen Personals […] die Professionalität von Beratenden zu stärken“ (ebd., S. 7). Es werden darin sechs Kompe-\ntenzbereiche unterschieden. Ein Bereich beschreibt die Kompetenz zur professionellen (Selbst-)Reflexion. Diese umfasst „das Entwickeln einer professionellen Haltung im Beratungskontext [und] […] verweist auf das permanente Wechselspiel von Selbstreflexion und Weiterentwicklung des professionellen Handelns“ (ebd., S. 11). Im Kontext von Beratung sind folglich jene Auffas-\nsungen von Selbstreflexion von heuristischem Wert, die eine verbesserte professionelle Praxis in den Blick nehmen. Siegfried Greif (2008) etwa spricht diesbezüglich von ergebnisorientierter Problem- oder Selbstreflexion. Wesentlich ist dabei der Aspekt der Ergebnisorientierung: Im Unterschied zu „ziellos kreisenden Grübeleien“ (Greif 200"
+      },
+      {
+        "rank": 5,
+        "id": "9533aae6a2577e679369142573fd70fb423247d9453d2d51809aed4f0936a37b",
+        "score": 0.1679159253835678,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 9,
+          "split_id": 21,
+          "split_idx_start": 23446,
+          "_split_overlap": [
+            {
+              "doc_id": "dca6c8533e8e0e2f9d545a70a2c599d149f991365213b75306b3c3d92877f356",
+              "range": [
+                1057,
+                1477
+              ]
+            },
+            {
+              "doc_id": "0d9d972877a0f98375e12870dba1333bd965b6a059a07b1224421af6ba77bf00",
+              "range": [
+                0,
+                320
+              ]
+            }
+          ]
+        },
+        "content": "bezeichnen, kann es hilfreich sein, darauf hinzuweisen, dass die neuronalen Netze in unserem Gehirn Erfahrungen nicht nur sprachlich, sondern auch in Bildern und Handlungsabläufen speichern.\nEinführungsvariante III: Über mögliche Instrumente und Vorgehensweisen (vorab) informieren Manche Beraterinnen und Berater bevorzugen es auch, Ratsuchende nach der Klärung des Anliegens über verschiedene mögliche Vorgehensweisen vorab 111 5.3 Einführen, Anpassen, Verlassen\fzu informieren. Dies entspricht in besonderem Maße dem Transparenzgrund-\nsatz und eignet sich vor allem, wenn Instrumente wie der Talentkompass NRW (S. 184), der ProfilPass oder reflektierende Fragebögen (Selbsttest S. 172), wie z.B. den Karriereanker in der Beratung genutzt werden. Auch hier ist es wichtig, darauf zu achten, wie ausgeprägt das Informationsbedürfnis der Ratsuchenden ist. Zu allen Methoden und Instrumenten sollte ich mir da-\nher kurze Überblickssätze überlegen, mit denen ich schnell erläutern kann, wie die Methode"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-184-188.txt",
+    "question": "Wie wird der Talentkompass NRW in der Beratungspraxis eingesetzt und welche Materialien werden dafür benötigt?",
+    "answer": "Der Talentkompass NRW wird in der Beratungspraxis eingesetzt, wenn eine Auseinandersetzung mit beruflichen Veränderungen gewünscht wird. Er kann von jungen Erwachsenen in Ausbildungsverhältnissen, Beschäftigten und Berufsrückkehrenden als auch Arbeitssuchenden eingesetzt werden, die Unterstützung bei der Gestaltung von beruflichen Veränderungen und Entscheidungen benötigen. Der Talentkompass ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgespräches füllen kann. Der Ringordner des Talentkompasses enthält Arbeitsblätter in mehreren Abteilungen, die während einer Einzelberatung in fünf Schritten den persönlichen „Kompass“ des oder der Ratsuchenden entwickeln. Die Ratsuchende kann die Notizen selbst einfügen oder dies dem Berater überlassen. Der Talentkompass kann in mehr als einer Beratungssitzung verwendet werden, und einige Teilschritte können dem Ratsuchenden als „Hausaufgabe“ mitgegeben werden. Die Durchführung des Talentkompasses kann durch den Leitfaden für Berater oder Kursleitende unterstützt werden, der auf der Homepage der Gesellschaft für innovative Beschäftigungsförderung (GIB) zur Verfügung steht. Der Talentkompass wird durch die Nutzung von Visualisierungstechniken, Entscheidungsfindung und Kompetenzbilanzierung unterstützt. Die Materialien, die für den Einsatz des Talentkompasses benötigt werden, sind der Ringordner „Talentkompass NRW“, Stifte und die Homepage der Beratungseinrichtung. Die Durchführung des Talentkompasses kann durch den Leitfaden für Berater oder Kursleitende unterstützt werden, der auf der Homepage der Gesellschaft für innovative Beschäftigungsförderung (GIB) zur Verfügung steht. Der Talentkompass kann auch in Kombination mit anderen Methoden und Techniken eingesetzt werden, um die Beratung zu unterstützen.",
+    "expected": "Der Talentkompass NRW wird in der Einzelberatung in zwei Sitzungen von etwa zwei Stunden durchgeführt. Die Ratsuchenden erhalten den Ringordner mit den Arbeitsblättern, in dem sie persönliche Daten eintragen. Die Beratung wird mit Hilfe eines Leitfadens vorbereitet und mit dem Beispiel einer Geschichte über einen jungen Mann namens Frank als rotem Faden veranschaulicht. Benötigt werden der Ringordner \"Talentkompass NRW\" und Stifte.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+        "score": 0.9980925917625427,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+              "range": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        "content": "5.5.13 Talentkompass NRW Sarah Künne Kurzbeschreibung Der Talentkompass NRW wurde als Orientierungshilfe für die berufliche Bera-\ntung entwickelt. In einem Ringordner sind Arbeitsblätter in mehreren Abtei-\nlungen zusammengefasst, anhand derer während einer Einzelberatung in fünf Schritten der titelgebende persönliche „Kompass“ des oder der Ratsuchenden aus seinen bzw. ihren Fähigkeiten entwickelt wird. Dabei werden gerade auch informelle Kompetenzen, sowie persönliche Interessen aber auch Wünsche bezüglich eines neuen Arbeitsplatzes berücksichtigt, sowie Wertvorstellun-\ngen des oder der Ratsuchenden bewusstgemacht, die als Grundlage für be-\nrufliche Entscheidungen oder Entwicklungen dienen. Das berufliche Ziel wird formuliert, dessen Hürden veranschaulicht und der nächste Schritt zur Zieler-\nreichung geplant. Phase/Funktion: Anliegen: Material: Zeit: Wegweiser für beruf-\nliche Entscheidungen Berufliche Entwicklung Kompetenzbilanzierung ca.2 h\n2 Sitzungen • Ringordner „Talentkompass NRW"
+      },
+      {
+        "rank": 2,
+        "id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+        "score": 0.9949211478233337,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1288,
+          "_split_overlap": [
+            {
+              "doc_id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+              "range": [
+                1288,
+                1698
+              ]
+            },
+            {
+              "doc_id": "13af272d26681c4cfa39e41bf3881b24ed7adf2e08e00e64ec9466b05b44a102",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "oder Kursleitende zum Talentkom-\npass NRW. Es empfiehlt sich, als Beraterin oder Berater z.B. mit Hilfe des Leitfadens die Durchführung des Talentkompasses vorzubereiten, des Wei-\nteren werden z.B. von der Talentkompass Akademie verschiedene Fortbil-\nMethode einleiten:\ndungen zur Anwendung des Talentkompasses angeboten. 2. Die Nutzung des Talentkompasses kann z.B. über die Homepage der Beratungseinrichtung und durch das Aufführen des offizi-\nellen Flyers vorgestellt werden. Der ratsuchenden Person sollten die fünf Schritte des Talentkompasses NRW vorgestellt werden (s.u.). Der Ringord-\nner wird den Ratsuchenden ausgehändigt und geht in seinen bzw. ihren Be-\nsitz über; dazu werden persönliche Daten auf Seite drei des Ringordners eingetragen. Der oder die Ratsuchende kann entscheiden, ob er bzw. sie die Notizen selbst einfügt oder dies dem bzw. der Beratenden überlässt. In die-\nsem Fall sollte der bzw. die Ratsuchende in die Formulierung der Antworten mit einbezogen werden. Als roter Fad"
+      },
+      {
+        "rank": 3,
+        "id": "b63200149833e6a6cb2d3f4adeb933b298bfeaa037c68a4d209a36c958d187fc",
+        "score": 0.9935601949691772,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4667,
+          "_split_overlap": [
+            {
+              "doc_id": "b340a2915bab98436ef752cee3fd75a6e967816ed9e401397c57d158ee58d16f",
+              "range": [
+                1151,
+                1555
+              ]
+            },
+            {
+              "doc_id": "59b7af400631e150ea7c3be2bae59ed0a2d501c3d8131ebb32dd145ef0e5993b",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "viele Hinweise zur Durchführung, sodass ein Ratsuchender den Ordner auch allein durcharbeiten kann. Der Umfang des Talentkompasses lässt es auch zu, ihn in mehr als einer Bera-\ntungssitzung zu benutzen, einige Teilschritte können dem Ratsuchenden auch als „Hausaufgabe“ mitgegeben werden. Einzelne der Methoden zur Visualisie-\nrung, Entscheidungsfindung oder Kompetenzbilanzierung können auch iso-\nliert eingesetzt werden. 185 5.5 Methodenbeispiele\fKommentar zum Einsatz\nAnliegen & Zielgruppe: Der Talentkompass NRW kommt zum Einsatz, wenn eine Auseinandersetzung mit beruflichen Veränderungen gewünscht wird. Somit können Zielpersonen sowohl junge Erwachsene in Ausbildungsverhält-\nnissen, Beschäftigte und Berufsrückkehrende als auch Arbeitssuchende sein, die Unterstützung darin brauchen, berufliche Veränderungen und Entschei-\nPhase im Beratungsgespräch: dungen aktiv zu gestalten . Der Talentkompass ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgespräches füllen kann. Vorhan"
+      },
+      {
+        "rank": 4,
+        "id": "95f1b5c2ac4c7f7d1ef53da9fe0a598d6ccf8f1499c4a94cac3fbfff5e0c1e6c",
+        "score": 0.9721802473068237,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 22,
+          "split_id": 55,
+          "split_idx_start": 62663,
+          "_split_overlap": [
+            {
+              "doc_id": "48ae4765608e2e4d205661a0ae612378295541ba48f9ff2aaebd00dde1e96330",
+              "range": [
+                1116,
+                1498
+              ]
+            },
+            {
+              "doc_id": "e3c869ed6663a2e14dc2e6a1516a7cb7bd253c2ac7ccdca524e36ad7117b9cbc",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "stark von der Art des Beratungsformates ab. In manchen Fällen geht es lediglich darum, zu klären, wie lang das Beratungsgespräch dauern kann und ob das anvisierte Anliegen für diese Dauer realistisch ist 60 3 Erfahrungsraum Beratung: Handlungsorientierung\foder andere Beratungsformate geeigneter sind. In umfangreicheren Bera-\ntungsprozessen, wie z.B. dem Karrierecoaching oder der Mediation gehen diese Absprachen bis hin zu vertraglichen Vereinbarungen, die schriftlich festgehalten werden. Es wird ein Kontrakt verbindlich vereinbart. Dieser um-\nfasst die jeweilige Sitzungsdauer, die weitere Terminfindung, den zunächst gewünschten Zeitraum der Beratung, evtl. den Kostenrahmen und eine erste Zielklärung und Themenklärung der anstehenden bzw. nächsten Beratung. Im Mittelpunkt steht die Auftragsklärung, welche Problemanliegen im Fokus der Bearbeitung und der ersten Klärungsschritte stehen sollen. In der Prozess-\nverantwortung der Beraterin bzw. des Beraters liegt nun, über Visualisierung und"
+      },
+      {
+        "rank": 5,
+        "id": "e17e938b71b513b8586bc3775d4c04966fbdcc5cf7293e61987f687fbcd4cfae",
+        "score": 0.9687585234642029,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 36,
+          "split_id": 69,
+          "split_idx_start": 85979,
+          "_split_overlap": [
+            {
+              "doc_id": "ef104fa3b5137c5fc12560d15e4762f32a13d6b48fb272c8f55947b58df6ab1a",
+              "range": [
+                1174,
+                1540
+              ]
+            },
+            {
+              "doc_id": "b9a50ea460a0c7ba4eb7042af554c708849302fda5f0ffe104761d474491bb90",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Fokus auf Materialität von Praktiken vergleichend in den Blick genommen, ergeben sich ähnliche Einsichten: Die Materialität in Form des Raumes zeigt sich so-\nwohl im Coaching als auch in der Transfergesellschaft als konstitutives Ele-\nment für Atmosphäre, Positionierung der Körper und die Etablierung der da-\nmit verbundenen sozialen Rollen. Dabei dominiert in der Transfergesellschaft der schulähnliche Charakter, im Coaching wird gleichzeitig der Dienstleis-\ntungscharakter hervorgehoben. Die Beratungssituation wird zudem durch den Einsatz von Artefakten sys-\ntematisch gestaltet und gesteuert. Artefakte dienen in beiden Fällen als Me-\ndium der Gestaltung, als Redeanlass und somit zur methodischen Umsetzung von Beratungsgesprächen. Insbesondere im Coaching generiert das Artefakt eine Ordnung des Sprechens und bietet objektiven, durch den Arbeitsbogen generierten Gesprächsanlass und -inhalt. Die Artefakte stellen einerseits das Beratungssetting her und bieten andererseits über den Beratung"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-184-188.txt",
+    "question": "Warum ist es wichtig, dass Ratsuchende bei der Nutzung des Talentkompasses NRW in die Formulierung ihrer Antworten einbezogen werden?",
+    "answer": "Es empfiehlt sich, als Beraterin oder Berater z.B. mit Hilfe des Leitfadens die Durchführung des Talentkompasses vorzubereiten, des Weiteren werden z.B. von der Talentkompass Akademie verschiedene Fortbildungen zur Anwendung des Talentkompasses angeboten. 2. Die Nutzung des Talentkompasses kann z.B. über die Homepage der Beratungseinrichtung und durch das Aufführen des offiziellen Flyers vorgestellt werden. Der ratsuchenden Person sollten die fünf Schritte des Talentkompasses NRW vorgestellt werden (s.u.). Der Ringordner wird den Ratsuchenden ausgehändigt und geht in seinen bzw. ihren Besitz über; dazu werden persönliche Daten auf Seite drei des Ringordners eingetragen. Der oder die Ratsuchende kann entscheiden, ob er bzw. sie die Notizen selbst einfügt oder dies dem bzw. der Beratenden überlässt. In diesem Fall sollte der bzw. die Ratsuchende in die Formulierung der Antworten mit einbezogen werden. Als roter Faden dient eine Geschichte über einen jungen Mann namens Frank, an dem die Ausgangslage, die Durchführung Kernphase: und die Lösung mit Hilfe des Kompasses veranschaulicht werden. 3. Der Kompass beinhaltet sechs Felder: Eigenschaften, Tätigkeiten und Wissen des bzw. der Ratsuchenden, sogenannte „Kraftfelder“. Die Aspekte berufliches Umfeld, Werte und Interessen werden als „Magnetfelder“ bezeichnet. Bei der Bestandsaufnahme sollen diese jeweils durch die ratsuchende Person\n        \n        Antwort:\n        Es empfiehlt sich, als Beraterin oder Berater z.B. mit Hilfe des Leitfadens die Durchführung des Talentkompasses vorzubereiten, des Weiteren werden z.B. von der Talentkompass Akademie verschiedene Fortbildungen zur Anwendung des Talentkompasses angeboten. 2. Die Nutzung des Talentkompasses kann z.B. über die Homepage der Beratungseinrichtung und durch das Aufführen des offiziellen Flyers vorgestellt werden. Der ratsuchenden Person sollten die fünf Schritte des Talentkompasses NRW vorgestellt werden",
+    "expected": "Es ist wichtig, dass Ratsuchende in die Formulierung ihrer Antworten einbezogen werden, um deren persönliche Sichtweise und Selbstreflexion zu fördern und sicherzustellen, dass die Ergebnisse authentisch und individuell sind. Dies unterstützt eine bewusste Auseinandersetzung mit ihren Fähigkeiten, Interessen, Wünschen und Wertvorstellungen, die als Grundlage für berufliche Entscheidungen dienen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+        "score": 0.9961663484573364,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1288,
+          "_split_overlap": [
+            {
+              "doc_id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+              "range": [
+                1288,
+                1698
+              ]
+            },
+            {
+              "doc_id": "13af272d26681c4cfa39e41bf3881b24ed7adf2e08e00e64ec9466b05b44a102",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "oder Kursleitende zum Talentkom-\npass NRW. Es empfiehlt sich, als Beraterin oder Berater z.B. mit Hilfe des Leitfadens die Durchführung des Talentkompasses vorzubereiten, des Wei-\nteren werden z.B. von der Talentkompass Akademie verschiedene Fortbil-\nMethode einleiten:\ndungen zur Anwendung des Talentkompasses angeboten. 2. Die Nutzung des Talentkompasses kann z.B. über die Homepage der Beratungseinrichtung und durch das Aufführen des offizi-\nellen Flyers vorgestellt werden. Der ratsuchenden Person sollten die fünf Schritte des Talentkompasses NRW vorgestellt werden (s.u.). Der Ringord-\nner wird den Ratsuchenden ausgehändigt und geht in seinen bzw. ihren Be-\nsitz über; dazu werden persönliche Daten auf Seite drei des Ringordners eingetragen. Der oder die Ratsuchende kann entscheiden, ob er bzw. sie die Notizen selbst einfügt oder dies dem bzw. der Beratenden überlässt. In die-\nsem Fall sollte der bzw. die Ratsuchende in die Formulierung der Antworten mit einbezogen werden. Als roter Fad"
+      },
+      {
+        "rank": 2,
+        "id": "da4b5b3b5f94cf7e78995dc81aa63ed0bb9d64e48768ced7de5684404d8da76e",
+        "score": 0.9954761862754822,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 8,
+          "split_id": 17,
+          "split_idx_start": 19292,
+          "_split_overlap": [
+            {
+              "doc_id": "2f84dda1d846ff4f5acd4ff12f5691be297682caf0000093558dc72551b51e96",
+              "range": [
+                1052,
+                1408
+              ]
+            },
+            {
+              "doc_id": "9e8f7bfabe997d47205520acb7b6bb30b7f1f773f20eb20760891b67d005cc90",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "Ratsuchende eine Begründung, warum es sinn-\nvoll ist, sich auf einen Wechsel der Handlungs- oder Medienform einzulassen. Diese Begründung darf jedoch auch nicht zu „technisch“ ausfallen, da sich der bzw. die Ratsuchende ja in gedanklicher Auseinandersetzung mit seinem An-\nliegen befindet. Dies wiederum hat den Vorteil, dass sich Ratsuchende in der Regel wenig mit den Details einer Methode beschäftigen. Wenn sie das Ziel und die grobe Struktur nachvollziehen können und als stimmig mit ihrem An-\nliegen erleben, ist die Chance groß, dass sie sich auf das Verfahren auch einlas-\nsen. Der oder die Beraterin kann diesen Einführungsprozess unterschiedlich gestalten.\nEinführungsvariante I: Eine Methode aus dem Beratungsprozess heraus entwickeln In dieser Variante stelle ich die Methode nicht in allen Einzelheiten vor. Aus Sicht des oder der Ratsuchenden entwickle ich die Methode aus unserem Ge-\nspräch heraus. Ich selbst habe die grobe Struktur jedoch im Kopf und weiß, welche Bausteine im Prozes"
+      },
+      {
+        "rank": 3,
+        "id": "b63200149833e6a6cb2d3f4adeb933b298bfeaa037c68a4d209a36c958d187fc",
+        "score": 0.994284451007843,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4667,
+          "_split_overlap": [
+            {
+              "doc_id": "b340a2915bab98436ef752cee3fd75a6e967816ed9e401397c57d158ee58d16f",
+              "range": [
+                1151,
+                1555
+              ]
+            },
+            {
+              "doc_id": "59b7af400631e150ea7c3be2bae59ed0a2d501c3d8131ebb32dd145ef0e5993b",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "viele Hinweise zur Durchführung, sodass ein Ratsuchender den Ordner auch allein durcharbeiten kann. Der Umfang des Talentkompasses lässt es auch zu, ihn in mehr als einer Bera-\ntungssitzung zu benutzen, einige Teilschritte können dem Ratsuchenden auch als „Hausaufgabe“ mitgegeben werden. Einzelne der Methoden zur Visualisie-\nrung, Entscheidungsfindung oder Kompetenzbilanzierung können auch iso-\nliert eingesetzt werden. 185 5.5 Methodenbeispiele\fKommentar zum Einsatz\nAnliegen & Zielgruppe: Der Talentkompass NRW kommt zum Einsatz, wenn eine Auseinandersetzung mit beruflichen Veränderungen gewünscht wird. Somit können Zielpersonen sowohl junge Erwachsene in Ausbildungsverhält-\nnissen, Beschäftigte und Berufsrückkehrende als auch Arbeitssuchende sein, die Unterstützung darin brauchen, berufliche Veränderungen und Entschei-\nPhase im Beratungsgespräch: dungen aktiv zu gestalten . Der Talentkompass ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgespräches füllen kann. Vorhan"
+      },
+      {
+        "rank": 4,
+        "id": "ca88b8fc5b0e838f8d65c25a7de8a78cc7a8d48df1ceefbd322cc97ff747a686",
+        "score": 0.9915478825569153,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 3,
+          "split_id": 6,
+          "split_idx_start": 7070,
+          "_split_overlap": [
+            {
+              "doc_id": "6de86b2af9c4232c9b9a385457d4887b496aea5c53b826c61a6997c615fa95a2",
+              "range": [
+                1092,
+                1482
+              ]
+            },
+            {
+              "doc_id": "19dabfa7e1020c516d1bedcea22fcfdf5ddc68250c7763ffb6e1e248a57a0dff",
+              "range": [
+                0,
+                323
+              ]
+            }
+          ]
+        },
+        "content": "Ratsuchenden eine Zielformulierung zu erarbeiten, sowie die Wertehaltung mit einzubeziehen, vor welcher der oder die Ratsuchende entscheidet, ob eine Veränderung für ihn oder sie auch alltagstauglich ist. Sie kann Ressourcen bewusstmachen (s. 4.4 Ressourcen- und Lösungsorientierte Gesprächsführung), über die Ratsuchende verfügen, oder den bzw. die Ratsuchende dabei begleiten, Kontakt zu seinen Gefühlen herzustellen. Dies ist z.B. hilfreich, wenn Ratsuchende zwar Strategien haben 105 5.2 Orientierung zur Auswahl geeigneter Methoden und Techniken\fzur Alltagsbewältigung, diese aber bis zur Erschöpfung durchhalten, ohne sich ausreichend Ruhephasen zuzugestehen. Gerade in der Weiterbildungs-\nberatung kann dies wichtig werden, wenn es um die Frage geht, etwas Neues anzufangen, etwas Altes zu beenden oder frühere Anteile im Leben wieder aufzunehmen, die sich seit vielen Jahren nicht mehr verwirklicht haben (s. 2.3 Bildungsberatung als Begleitung von Selbstlernprozessen). Neben diesen inhaltli"
+      },
+      {
+        "rank": 5,
+        "id": "c8ba32f9e4ce38310a0e1d3d4f50d4b52c5dc551605c8687020fb1fecfb64960",
+        "score": 0.9912343621253967,
+        "meta": {
+          "file_path": "1001586-191-206.txt",
+          "source_id": "5996317b3d6fb495232e6fedeb0c860a654108106958d08f3a09b9eb5dd0c419",
+          "page_number": 11,
+          "split_id": 26,
+          "split_idx_start": 28831,
+          "_split_overlap": [
+            {
+              "doc_id": "926041ca9983a8cc3466d3a6f4ec220ba7a50b90fea4f03b4230fb564865679a",
+              "range": [
+                1100,
+                1457
+              ]
+            },
+            {
+              "doc_id": "671305b8bfe84d811c9b86c0d980ae74c17c82244e33607f1b96696d1a0617a9",
+              "range": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        "content": "in Richtung Therapien ist also wenig hilfreich und wird zudem von Ratsuchenden vermutlich eher als grenzüberschreitend oder sogar als Angriff erlebt. Es ist daher zunächst einmal wichtig, selbst die Grenzen des eigenen Be-\nratungsangebotes zu bemerken und auch akzeptieren zu können. Gerade bei sehr schwierigen Lebenslagen der Ratsuchenden ist es wichtig, die Situation nicht durch vorschnelle Lösungsvorschläge oder halbherzige Aufmunterun-\ngen zu verharmlosen. Die Ratsuchenden empfinden es in der Regel als wohl-\ntuend, wenn sie auf Personen treffen, die mit ihnen die Situation zunächst einfach aushalten. Ich kann als Beraterin oder Berater Empathie zeigen, bleibe aber im Rahmen meines Beratungssettings und meiner Rolle. Meiner Informationsaufgabe kann ich gerecht werden, indem ich z.B. auf psychosoziale Beratungsangebote in der Nähe verweise. Die Mitarbeiterin-\nnen und Mitarbeiter in diesen Einrichtungen können die Situation der Rat-\nsuchenden in der Regel besser einschätzen, selbst hel"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-184-188.txt",
+    "question": "Wie könnte die Einbindung informeller Kompetenzen und persönlicher Wertvorstellungen im Talentkompass NRW die berufliche Entwicklung von Ratsuchenden positiv beeinflussen?",
+    "answer": "Die Einbindung informeller Kompetenzen und persönlicher Wertvorstellungen im Talentkompass NRW könnte die berufliche Entwicklung von Ratsuchenden positiv beeinflussen, indem sie eine umfassendere und authentischere Darstellung ihrer Fähigkeiten und Interessen ermöglicht. Dies könnte dazu beitragen, dass Ratsuchende besser verstehen, was sie können und was sie wollen, und somit fundiertere Entscheidungen über ihre berufliche Zukunft treffen können. Darüber hinaus könnte die Einbindung informeller Kompetenzen und persönlicher Wertvorstellungen auch dazu beitragen, dass Ratsuchende ihre Motivation und Selbstwahrnehmung steigern können, was wiederum positive Auswirkungen auf ihre berufliche Entwicklung haben könnte.",
+    "expected": "Die Einbindung informeller Kompetenzen und persönlicher Wertvorstellungen ermöglicht es Ratsuchenden, ein umfassenderes und realistisches Bild ihrer Fähigkeiten und Motivationen zu erhalten. Dadurch können berufliche Ziele besser an die individuellen Stärken und Wünsche angepasst werden, was die Motivation steigert und die Wahrscheinlichkeit erhöht, passende und erfüllende Arbeitsplätze zu finden. Zudem unterstützt dies eine nachhaltige berufliche Entwicklung, die nicht nur fachliche, sondern auch persönliche Aspekte berücksichtigt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "59b7af400631e150ea7c3be2bae59ed0a2d501c3d8131ebb32dd145ef0e5993b",
+        "score": 0.9939488172531128,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5928,
+          "_split_overlap": [
+            {
+              "doc_id": "b63200149833e6a6cb2d3f4adeb933b298bfeaa037c68a4d209a36c958d187fc",
+              "range": [
+                1261,
+                1618
+              ]
+            },
+            {
+              "doc_id": "6aa6a750a34de3b702004193fc48deb55ea73e43d02e24db7ee93a4f7082f219",
+              "range": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        "content": "sei darauf hingewiesen, dass die Me-\nthode insgesamt sehr sprachlastig ist und durch den vergleichsweise großen Umfang aller Schritte die Gefahr besteht, im Verlauf des Beratungsprozesses die Motivation und den Zusammenhang zu den Belangen der ratsuchenden Person zu verlieren. Deswegen ist es die Aufgabe der beratenden Person mit-\nzubekommen, ob die oder der Ratsuchende gedanklich abschweift. Sollte die Durchführung des gesamten Instruments als zu langwierig erscheinen, bietet der Ordner viele einzelne Methoden, die auch unabhängig und in veränderter Reihenfolge im Beratungsprozess eingesetzt werden können. Gerade die Er-\nfassung der Werte und Wünsche der oder des Ratsuchenden tragen dazu bei, erarbeitete Entscheidungen zum beruflichen Umfeld nachhaltiger und zufrie-\ndenstellender zu machen.\nZum Weiterlesen http://www.der-talentkompass.de/ (abgerufen am 16.10.2016)\nhttps://www.weiterbildungsberatung.nrw/themen/kompetenzbilanzierung/ta- lentkompass-nrw (abgerufen am 16.10.2016) Flachmey"
+      },
+      {
+        "rank": 2,
+        "id": "a230904b54e4cb06390107d70be90aee4de33865f2f638e4229980fbc08d0eb5",
+        "score": 0.9715110063552856,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "301ac621051c4e296503690e78524c1d710216ffce026a6311d7695df8db8b59",
+              "range": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        "content": "5.5.13 Talentkompass NRW Sarah Künne Kurzbeschreibung Der Talentkompass NRW wurde als Orientierungshilfe für die berufliche Bera-\ntung entwickelt. In einem Ringordner sind Arbeitsblätter in mehreren Abtei-\nlungen zusammengefasst, anhand derer während einer Einzelberatung in fünf Schritten der titelgebende persönliche „Kompass“ des oder der Ratsuchenden aus seinen bzw. ihren Fähigkeiten entwickelt wird. Dabei werden gerade auch informelle Kompetenzen, sowie persönliche Interessen aber auch Wünsche bezüglich eines neuen Arbeitsplatzes berücksichtigt, sowie Wertvorstellun-\ngen des oder der Ratsuchenden bewusstgemacht, die als Grundlage für be-\nrufliche Entscheidungen oder Entwicklungen dienen. Das berufliche Ziel wird formuliert, dessen Hürden veranschaulicht und der nächste Schritt zur Zieler-\nreichung geplant. Phase/Funktion: Anliegen: Material: Zeit: Wegweiser für beruf-\nliche Entscheidungen Berufliche Entwicklung Kompetenzbilanzierung ca.2 h\n2 Sitzungen • Ringordner „Talentkompass NRW"
+      },
+      {
+        "rank": 3,
+        "id": "aa0113f589bd2892333fc8dac09a7df396b94a8cd6dc67cd451e212750077ee2",
+        "score": 0.9703206419944763,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 7,
+          "split_id": 15,
+          "split_idx_start": 17737,
+          "_split_overlap": [
+            {
+              "doc_id": "060be40fc9da057ce591cead94a38f5ff3b7a9ba13850face235b4c6054e6376",
+              "range": [
+                1113,
+                1473
+              ]
+            },
+            {
+              "doc_id": "27c5abf3fc81198a0cba452b10d41475ce29e4f6203d45ca6a6944741c322675",
+              "range": [
+                0,
+                447
+              ]
+            }
+          ]
+        },
+        "content": "Schlüter und Nadine Feisel thematisieren den Einfluss von Raum auf das Setting von Beratung. Passung Bei so viel Anfangsüberlegungen für das Vorgehen in der Beratung, stellt sich die Frage, nach welchen Kriterien ein Beratender sich entscheiden kann. Die Frage der von Anliegen eines Ratsuchenden, Kompetenz des Beratenden bzw. zwischenmenschlicher Annäherung an Verstehensprozes-\nse und angemessenem Methoden- und Technikeinsatz muss in einer Weise thematisiert werden, die für Lernende, Studierende, Anfängerinnen und An-\nfänger nachvollziehbar wird. Karin Kress liefert Anhaltspunkte zu einer Ori-\nentierung zur Auswahl geeigneter Methoden und Techniken in Bezug auf die Anliegen von Ratsuchenden. Der vierte Teil des Buches wird sich mit sprachlichen Techniken und In-\nterventionen beschäftigen. Neben den voraussetzungsvollen Grundtechniken der Gesprächsführung (Karin Kress) werden in einzelnen Abschnitten die Personenzentrierte Gesprächsführung (Christiane Hellwig), die Systemische Gesprächs"
+      },
+      {
+        "rank": 4,
+        "id": "a69589a2d614aa0eb168d6a6c6155f02b97e77d649ac46cc3e43d4ac326b31bd",
+        "score": 0.9684712290763855,
+        "meta": {
+          "file_path": "9783847412304-059-086.txt",
+          "source_id": "45dee5f385fe757b59e7435157597176c3afe94ee539439ed53af7cefa795258",
+          "page_number": 5,
+          "split_id": 4,
+          "split_idx_start": 5266,
+          "_split_overlap": [
+            {
+              "doc_id": "ac0e19f77374abf309a900554cd4c4b4fa362d5b81e92cd21e6c61c3ac79df78",
+              "range": [
+                1344,
+                1797
+              ]
+            },
+            {
+              "doc_id": "44437a8b7e11beef8e75d8bc99304806fca25def41c119b1c59a9b21d0ac4743",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "eine professionelle Lesekompetenz (vgl. Brunner 2006), um hinreichende Klärungen der Beratungsanliegen vor-\nnehmen zu können. Während in Beratungskommunikationen/-interaktionen Beratende zum Beispiel ad hoc Nach- oder Verständnisfragen stellen kön-\nnen bzw. Anliegen im Gespräch ausgehandelt werden (vgl. Kallmeyer 2000), stehen bei E-Mail-Beratungen zunächst nur die schriftlichen Ausgangsschil-\nderungen der Ratsuchenden zur Verfügung. Darüber hinaus benötigen Bera-\nter*innen für die Interventionen eine professionelle Schreibkompetenz, die an den Leser*innen bzw. Ratsuchenden orientiert ist, um an deren Vorwissen und Wortschatz anschlussfähig formulieren zu können (vgl. Becker-Mrotzek/\nSchindler 2007: 13(cid:3445).). An diesen skizzierten Herausforderungen setzt die Fragestellung des vor-\nliegenden Beitrags insofern an, als dass analysiert wird, wie Berater*innen die schriftlichen Beratungsanliegen der Ratsuchenden in ihren Interventionen transformieren und prozessieren. Wichtig ist es i"
+      },
+      {
+        "rank": 5,
+        "id": "b63200149833e6a6cb2d3f4adeb933b298bfeaa037c68a4d209a36c958d187fc",
+        "score": 0.9683310985565186,
+        "meta": {
+          "file_path": "1001586-184-188.txt",
+          "source_id": "a7cfd16a736dced9fcc917b15368e1b81a91c29ded001f2564f49270b97cfe0e",
+          "page_number": 2,
+          "split_id": 4,
+          "split_idx_start": 4667,
+          "_split_overlap": [
+            {
+              "doc_id": "b340a2915bab98436ef752cee3fd75a6e967816ed9e401397c57d158ee58d16f",
+              "range": [
+                1151,
+                1555
+              ]
+            },
+            {
+              "doc_id": "59b7af400631e150ea7c3be2bae59ed0a2d501c3d8131ebb32dd145ef0e5993b",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "viele Hinweise zur Durchführung, sodass ein Ratsuchender den Ordner auch allein durcharbeiten kann. Der Umfang des Talentkompasses lässt es auch zu, ihn in mehr als einer Bera-\ntungssitzung zu benutzen, einige Teilschritte können dem Ratsuchenden auch als „Hausaufgabe“ mitgegeben werden. Einzelne der Methoden zur Visualisie-\nrung, Entscheidungsfindung oder Kompetenzbilanzierung können auch iso-\nliert eingesetzt werden. 185 5.5 Methodenbeispiele\fKommentar zum Einsatz\nAnliegen & Zielgruppe: Der Talentkompass NRW kommt zum Einsatz, wenn eine Auseinandersetzung mit beruflichen Veränderungen gewünscht wird. Somit können Zielpersonen sowohl junge Erwachsene in Ausbildungsverhält-\nnissen, Beschäftigte und Berufsrückkehrende als auch Arbeitssuchende sein, die Unterstützung darin brauchen, berufliche Veränderungen und Entschei-\nPhase im Beratungsgespräch: dungen aktiv zu gestalten . Der Talentkompass ist so aufgebaut, dass er die gesamte Mittelphase eines Beratungsgespräches füllen kann. Vorhan"
+      }
+    ]
+  }
+]

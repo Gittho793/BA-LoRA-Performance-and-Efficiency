@@ -1,0 +1,732 @@
+[
+  {
+    "filename": "1001586-005-006.txt",
+    "question": "Was ist der Hauptzweck der Publikation \"Methoden und Techniken der Bildungsberatung\"?",
+    "answer": "Der Hauptzweck der Publikation \"Methoden und Techniken der Bildungsberatung\" ist, eine Unterstützung für Beraterinnen und Berater in der Praxis zu bieten und ein Lehrbuch für Studierende zu konzipieren, das sich auf Methoden und Techniken der Bildungsberatung konzentriert. Ziel ist es, professionell, zielgerichtet und effektiv Bildungsberatung durchführen zu können.",
+    "expected": "Der Hauptzweck der Publikation ist, als Lehrbuch für Studierende der Bildungsberatung zu dienen und gleichzeitig Beraterinnen und Berater in der Praxis zu unterstützen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b9d4be765f9390b1580e57436700b44ef3ad6c8e235ebd5e0a9065d0d4d49f03",
+        "score": 0.998012900352478,
+        "meta": {
+          "file_path": "1001586-005-006.txt",
+          "source_id": "909b2961af75875cc1c508eaa9e5ba917bac9244238dea21fc7171f88f7a4809",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "67a894c28ac3d577dadc39ba0d7d4aa921c44338cd7bb9ab997aaa371f4ff5bf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Vorwort Diese Publikation „Methoden und Techniken der Bildungsberatung“ ist von uns Herausgeberinnen als Lehrbuch für Studierende konzipiert worden. Eine zusätzliche Motivation fanden wir darin, dass bisher noch kein eigener Metho-\ndenband für die Bildungsberatung vorlag. Wir freuen uns daher, wenn auch Beraterinnen und Berater in der Praxis in diesem Band eine Unterstützung sehen. Die Komplexität von Beratungsprozessen im Feld der Bildungsberatung zu verdeutlichen, ist ein wichtiges Anliegen dieses Buches. Theorie und Pra-\nxis aufeinander zu beziehen, indem insbesondere Methoden und Techniken und ihre jeweiligen Hintergründe verdeutlicht werden, waren Ausgangspunkt unserer Überlegungen. Dafür wurden nicht allein Wissenschaftlerinnen und Praktikerinnen aus dem Beruf eingeladen, mitzumachen, sondern auch Stu-\ndierende, die Beratung lernen. Der Part der Studierenden bezog sich auf die Übernahme einer einzelnen Methode. Das Ausprobieren von Methoden und Techniken und die Reflexion im Semi"
+      },
+      {
+        "rank": 2,
+        "id": "47a30f860810a4cc859e1c449e6014736d00ac0ee6d1ab972dbbea56f2c8c547",
+        "score": 0.9861264824867249,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "fae8213cf5effe019e2b031b6a3b8dc8286eccd2e372a5d19f6091987aa405cd",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "5 Methoden und Techniken 5.1 Einführung Karin Kress Die Bildungsberatung ist ein Beratungsfeld, das in besonderem Maße durch das Wechselspiel von Informationsangeboten und Prozessbegleitung durch die Beraterinnen und Berater geprägt ist. Die Institutionalisierung der Bildungsberatung in kommunal geförderten Einrichtungen bedingt, dass die Informationsvermittlung zunächst im Vorder-\ngrund zu stehen scheint. Ratsuchende möchten sich über Kursangebote, För-\ndermöglichkeiten oder berufliche Alternativen informieren. ohne gezielte Beratungsausbildung durchgeführt wird. Hinzu kommt, dass die Bildungsberatung bisher oft auch von Personen „Doch die Beratungsarbeit ist nicht durchgehend professionalisiert. In vielen Bil-\ndungseinrichtungen der Erwachsenenbildung finden Ratsuchende auch heute noch keine ausgebildeten Weiterbildungsberater/innen. Von Ausnahmen abge-\nsehen, ist Bildungsberatung eine Tätigkeit, die von vielen Akteuren in diesem Feld tendenziell eher autodidaktisch gelernt wurde.“ ("
+      },
+      {
+        "rank": 3,
+        "id": "eb66ef060bdf53f4c44f7c45e6f687b7affd81f48c5e76166c34ab200175ebe5",
+        "score": 0.9643666744232178,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1179,
+          "_split_overlap": [
+            {
+              "doc_id": "e7a5d9547cef8983581a5230f25865796ede67b86b6e077a5d972ea070a7f63b",
+              "range": [
+                1179,
+                1594
+              ]
+            },
+            {
+              "doc_id": "f1c10e22da917ece694c09d33736324efc21a45e22149608d2b79c9ef68e3e7e",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "aus multikultureller Perspektive. Im Vordergrund stehen Modelle für die Beratung, u.a. das Modell des Microcoun-\nseling sowie das Modell des Problemmanagements, der Lösungsorientierten Beratung und des integrativen Modells in der beruflichen Einzelberatung. Es enthält viele Übungen, die die Beratungskompetenz trainieren soll. Wel-\nche Methoden und Techniken in der Bildungsberatung bekannt, praktikabel, nützlich sind, erfahren wir in den verschiedenen existierenden Publikationen allerdings nicht. Daher ist ein Lehrbuch mit dem Fokus auf Methoden und Techniken, das wir hiermit vorlegen, für die Praxis der Bildungsberatung hilfreich. Denn Ler-\nnende möchten wissen, wie es geht, welche Verfahren sinnvoll einzusetzen sind, um zum Ziel zu kommen: Das Ziel ist, professionell, zielgerichtet und effektiv Bildungsberatung durch Methoden- und Technikkenntnisse durch-\nführen zu können. Selbstverständlich kann dies nicht geschehen, ohne die Einbindung und Reflexion von Konzepten, Theorien und Metat"
+      },
+      {
+        "rank": 4,
+        "id": "e7a5d9547cef8983581a5230f25865796ede67b86b6e077a5d972ea070a7f63b",
+        "score": 0.937456488609314,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "eb66ef060bdf53f4c44f7c45e6f687b7affd81f48c5e76166c34ab200175ebe5",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "1 Einleitung Anne Schlüter Mittlerweile liegen einige Handbücher und Einführungen in die Bildungs-\nberatung vor, die beanspruchen, für die Praxis der Bildungsberatung hand-\nlungsleitend zu sein. Auffällig ist allerdings, dass das Wissen, das Handlungen strukturiert, meistens zu kurz kommt. Methoden und Techniken werden relativ kurz abgehandelt. Dies ist auch der Fall in aktuellen Veröffentlichun-\ngen, beispielsweise von Maier-Gutheil und Nierobisch (2015), das unter dem Titel „Beratungswissen für die Erwachsenenbildung“ veröffentlicht wurde. Die Publikation von Frank Schröder und Peter Schlögl zur Weiterbildungs-\nberatung wurde unter der Perspektive „Qualität definieren, gestalten, reflek-\ntieren“ bearbeitet. Das Lehrbuch von Andreas Bürgi und Herbert Eberhardt (2006) enthält ein Kapitel „Beratung als methodisches Tun“ sowie ein Kapitel „Arbeitstechniken“. Es vermittelt auf der Basis von Praxiserfahrungen, dass Beratung sich auf dem Weg zur Professionalität befindet. Das Handbuch zur B"
+      },
+      {
+        "rank": 5,
+        "id": "f1c10e22da917ece694c09d33736324efc21a45e22149608d2b79c9ef68e3e7e",
+        "score": 0.858733594417572,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2409,
+          "_split_overlap": [
+            {
+              "doc_id": "eb66ef060bdf53f4c44f7c45e6f687b7affd81f48c5e76166c34ab200175ebe5",
+              "range": [
+                1230,
+                1596
+              ]
+            },
+            {
+              "doc_id": "6cef5377405d4dab72d3771fdf08dd23ba0d5eca01848cf620637a5debe2da7c",
+              "range": [
+                0,
+                437
+              ]
+            }
+          ]
+        },
+        "content": "der UDE an. Die Einführung in die Lern- und Bildungsbe-\nratung für Studierende (2010) und die „Beratungsfälle - Fallanalysen für die Lern- und Bildungsberatung“ (2014) sind immer wieder inhaltliche Bezüge, die wir aufnehmen, um das Feld der Bildungsberatung in Zielen und Zugehö-\nrigkeiten nachvollziehbar zu halten und weiterhin zu profilieren. Zur Ausge-\nstaltung des Feldes Bildungsberatung konzentrieren wir uns auf Methoden und Techniken, die für die Bildungsberatung anwendbar sind. Schließlich lie-\ngen für die Lernberatung Ausführungen zum Vorgehen vor, die wir an dieser Stelle nicht duplizieren wollen. Bildungsberatung bezieht sich auf die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung. Das Ziel von Beratungsgesprächen ist Orientierungen für (Weiter-)Bildungswege zu geben, um damit persönli-\nche und berufliche Entwicklungen unterschiedlicher Art zu ermöglichen bzw. Kompetenzentwicklung zu befördern, auch entsprechende Schritte im Rah-\nmen von Übergangsproz"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-005-006.txt",
+    "question": "Wie wurde die Einbindung von Studierenden in die Erstellung des Buches umgesetzt?",
+    "answer": "Die Einbindung von Studierenden in die Erstellung des Buches wurde nicht thematisiert. Das Buch beschreibt jedoch die Ergebnisse des Frühwarnsystems an der TU Dresden und die Identifizierung von Schwierigkeiten und Handlungsmöglichkeiten von Studierenden, die durch das System erfasst wurden.",
+    "expected": "Studierende übernahmen einzelne Methoden, probierten diese aus, reflektierten im Seminar darüber und beschrieben die Methoden anschließend, was eine Herausforderung war, die sie mit Freude meisterten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8e7645179cc6f771a8690c2e5e077348eca52061cce61136f5add61ce9842b62",
+        "score": 0.9982017278671265,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 10,
+          "split_id": 10,
+          "split_idx_start": 14404,
+          "_split_overlap": [
+            {
+              "doc_id": "529cdcfc25cdcd8ef397c3bd565a884fef9d3f51634ab0754baa38fd130d9ff0",
+              "range": [
+                1293,
+                1742
+              ]
+            },
+            {
+              "doc_id": "5d18391ce182562ce1f6b761a0bcac9dcf08c005552823f2d0218c69c713f550",
+              "range": [
+                0,
+                532
+              ]
+            }
+          ]
+        },
+        "content": "in der Beratung ebenfalls eine große Rolle.\nEinen weiteren hohen Beratungsbedarf stellt die Finanzierung des weiter-\nbildenden Studienprogramms dar. Hier spielen sowohl die hohen Kosten als auch generelle Fragen zur Finanzierung, Kostenübernahme, Stipendien und steuerlicher Absetzbarkeit eine besondere Rolle; grundsätzlich also „Fragen rund um Weiterbildungs(cid:191)nanzierung“ (Studiengangkoordinierende 1, Abs. 13). Weniger häu(cid:191)g wurde von den Studiengangkoordinierenden benannt, dass diese die Studieninteressierten auf deren Passung hin beraten. Lediglich zwei Koordinierende gaben an, dass sie daraufhin beraten, „ob der Kurs für sie [die Studieninteressierten] in Frage kommen würde“ (Studiengangkoor-\ndinierende 9, Abs. 33). Auf Programmebene wird ebenfalls seltener zur Be-\nwerbung allgemein beraten, wobei es sich bei den von den Studiengangkoor-\ndinierenden dargestellten Anliegen eher um Informationsweitergabe als um Beratung handelt. Abbildung 3 zeigt die von nicht-traditione"
+      },
+      {
+        "rank": 2,
+        "id": "2936747109f899326d42d4fdc728cd574e3cf81bc350ad5945ba92b58397dfc3",
+        "score": 0.9957518577575684,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 44,
+          "split_id": 82,
+          "split_idx_start": 102422,
+          "_split_overlap": [
+            {
+              "doc_id": "9ec05dfbe75b29cf42d9982824d63993d76be8adf84cae68b61834291603732a",
+              "range": [
+                1155,
+                1548
+              ]
+            },
+            {
+              "doc_id": "5b607bb452bc06b814d9a559d0290efa6a97c3096600620dba84ce90e2f6732a",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "von der sogenannten Loyalität ab, die laut Hirschman (1974) einer Institution entgegengebracht wird (z. B. Fachbindung). 4. Fragestellung Auf Grundlage dieser theoretischen Zugänge zu Ursachen von Schwierigkei-\nten und Handlungsmöglichkeiten der Studierenden sind zwei Fragen zentral für die Etablierung eines Frühwarnsystems: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um? Im Folgenden geht es um die an der TU Dresden beschrittenen methodischen Wege, diese Fragen zu beantworten. 5. Methode 5.1 Kontext: Das Frühwarnsystem an der TU Dresden Das Frühwarnsystem „Partnerschaft · Studienerfolg · TU Dresden“ (kurz: PASST?!)2 ist Teil des Studienerfolgskonzepts der TU Dresden und wird ko-\noperativ von der Zentralen Studienberatung und dem Zentrum für Qualitäts-\nanalyse koordiniert. Aus seinen drei zentralen Aufgabenbereichen (Abbildung 1) resultieren die unterschiedlichen Zugänge zu den für das Frühwarnsystem grundlegenden I"
+      },
+      {
+        "rank": 3,
+        "id": "dd11c0a920a9c6977702d1a1b5ea4ccb92667e7665ef4f620138f0a3ac1ebc8b",
+        "score": 0.9936496615409851,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 24,
+          "split_id": 37,
+          "split_idx_start": 50031,
+          "_split_overlap": [
+            {
+              "doc_id": "5060d04460336c39ae79c402a99893a07770d762fd1671ba2f391f35d48ee168",
+              "range": [
+                1300,
+                1653
+              ]
+            },
+            {
+              "doc_id": "74c29c12556ae1aebbd6c1a92675bbc77439778f86417a00064312b0d3a9714d",
+              "range": [
+                0,
+                406
+              ]
+            }
+          ]
+        },
+        "content": "absolvieren. Dies ist wesentlich, um nur Personen in das Studienprogramm aufzunehmen, die in der Lage sind, dieses bis zum Ende erfolgreich zu durchlaufen. Davon verspricht sich die Hochschule Kostendeckung und vorzeigbare Ergebnisse, es ist jedoch ver-\nbunden mit der die Schwierigkeit, zum einen Bewerber_innen zu gewinnen und zum anderen die Passung zu wahren: „dann gibt es natürlich persönliche Beratungsgespräche […] Das kann dann auch so pas-\nsieren dass sie dann außerhalb [des Studienfachs, C. D.] dann landen, die Studenten“. Neben dem Übergang vom Beruf ins Studium ist auch der zweite Übergang aus dem Studium in den Beruf relevant und wird nur in diesem Handlungsmuster so deutlich angesprochen. Erfolgreiche Professionalisierung wird als etwas be-\nhandelt, was beratungswürdig ist. Die Beratung selbst wird nicht thematisiert, wie bei einer Studiengangskoordinatorin exemplarisch deutlich wird: „Ich berate auch zu dem Einstieg ins Berufsleben. Also dann nach dem Studium also […] nach "
+      },
+      {
+        "rank": 4,
+        "id": "19a9fe7a4404169a77a8e085f93d4825f74b0334bf9d111b0d9fe7e6032292ed",
+        "score": 0.9935583472251892,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 7,
+          "split_id": 6,
+          "split_idx_start": 8532,
+          "_split_overlap": [
+            {
+              "doc_id": "35125b4c3446fd7946c310824ad4a9ba01ab173cf413727883890b4b32a7ab92",
+              "range": [
+                1228,
+                1625
+              ]
+            },
+            {
+              "doc_id": "3d0cb2c4986853f069c903461ac020be4ba7e2ddbd51204fc9f8bb19d7faec5a",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "das den Lernenden in der 18 -\ninsbesondere monatigen Grundphase der studienintegrierenden Ausbildung eine individuelle Unterstützung anbietet, um Erfahrungen aus Ausbildung und Studium zu reflektieren. Das Coaching zielt damit auf die Förderung der Reflexionskompetenz zur Gestaltung des Bildungsweges, indem die Lernenden sich über Stärken und Ressourcen sowie die spezifischen Anforderungen und Erwartungen in dem gewählten Berufsfeld bewusst werden. Das Unterstützungsangebot kann auch die Bewältigung von Herausforderungen wie Prüfungsstress oder der Balance zwischen Studium und anderen Verpflichtungen zum Gegenstand haben. Das Angebot zielt darauf ab, folgende Kompetenzen zu fördern: • sich selbst und das eigene Qualifikations- und Kompetenzprofil in Bezug zum Beruf zu reflektieren und eigene Ziele und Überzeugungen zu entwickeln bzw. zu identifizieren. • eigene Erfahrungen, die in Ausbildung und Studium an den Lernorten Hochschule, Berufsschule und Betrieb gesammelt wurden, analysieren"
+      },
+      {
+        "rank": 5,
+        "id": "be488b2501051db547fcf320b52742d6ca68361fa09307f3229431474d883e2a",
+        "score": 0.9931708574295044,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 48,
+          "split_id": 90,
+          "split_idx_start": 112501,
+          "_split_overlap": [
+            {
+              "doc_id": "0c8762c0abc1d7c0968634f665521d00cf311e2583e802d1bdb5ff593a02fb2a",
+              "range": [
+                1196,
+                1596
+              ]
+            },
+            {
+              "doc_id": "2d43659fee89a13aacc4211d7383c197d915328c1c30762a87e21f918217442c",
+              "range": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        "content": "intervenierend tätig sein wollen, vor komplexe Herausforderungen.\fIntervention in den Studienverlauf und Beratung 229 Forschungsfrage 2: Wie gehen Studierende mit Schwierigkeiten im Studium um?\nDie quantitative Befragung und auch die qualitativen Interviews zeigen, dass sich die Studierenden der TU Dresden sowohl für Voice- als auch für Exit-Op-\ntionen entscheiden, wenn Schwierigkeiten im Studium auftreten. In welchem Verhältnis und in welcher Reihenfolge dies geschieht, kann mit den bisher erhobenen Daten noch nicht geklärt werden. Das betri(cid:3445)t auch die Bedeutung der Loyalität, also der Bindung an die TU Dresden als Institution und den gewählten Studiengang. Im Detail zeigt sich die Unzufriedenheit bezüglich der Studieninhalte, -bedingungen, -leistungen und -anforderungen und des Informationsstands zu Beginn des Studiums sowie bei psychischen Belastun-\ngen und der Vereinbarkeit von Studium, Beruf, Familie und sozialem Umfeld. Die Studienabbruchgedanken oder auch das Recherchie"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-005-006.txt",
+    "question": "Warum war es den Herausgeberinnen wichtig, Theorie und Praxis in diesem Buch zu verbinden?",
+    "answer": "Es ist Aufgabe wissenschaftlicher Forschung, Vorhandenes genau zu erfassen und die komplizierten Wechselwirkungen zu beschreiben. Wissenschaft stellt in Frage, wo die Praxis schnelle Antworten liefert. Wissenschaft schafft Komplexität, wo die Praxis darum bemüht ist, Komplexität zu reduzieren, um den Alltag bewältigbar zu machen. Durch die Verbindung von Theorie und Praxis können Herausforderungen und Schwierigkeiten in der Bildungsberatung besser verstanden und gelöst werden. Außerdem kann die Praxis durch die Theorie orientiert und verbessert werden, während die Theorie durch die Praxis konkretisiert und erweitert wird. Durch diese Verbindung können Rückschlüsse auf Theorie und Praxis gezogen werden und ein Beitrag zur Veränderung der gesellschaftlichen Institutionalisierung von Beratung geleistet werden.",
+    "expected": "Weil die Komplexität von Beratungsprozessen verdeutlicht werden soll, war es wichtig, Methoden und Techniken sowie deren Hintergründe sowohl theoretisch als auch praktisch zu erläutern, um einen umfassenden Bezug herzustellen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8f60ec8783eee82a01557503d9a41e17836da38a12d0a70bffdbf4028c8c173b",
+        "score": 0.9600078463554382,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 8,
+          "split_id": 18,
+          "split_idx_start": 21358,
+          "_split_overlap": [
+            {
+              "doc_id": "528efc65851564416baa2bb2864863a30e9483a64502a4ff80a497fa374594f2",
+              "range": [
+                1239,
+                1607
+              ]
+            },
+            {
+              "doc_id": "a77cc11662b049b64c928ee9bd8cf812155e881b2d201c276f8aeeb3b3bd08d9",
+              "range": [
+                0,
+                392
+              ]
+            }
+          ]
+        },
+        "content": "Bedeutung er-\nhalten. Diese Herleitung dient dazu, Auswahl und Einsatz von Methoden und Techniken in der Bildungsberatung in ihrem Praxisfeld zu verankern. In dieser Publikation verbinden wir die Perspektiven von Wissenschaft, Theorie und Praxis, wenn wir uns mit Beratung beschäftigen. Damit haben wir die Gelegenheit, diese Perspektiven zueinander ins Verhältnis zu setzen. Denn nicht nur für unsere Studierenden kann es verwirrend sein, sich zwischen den Fragen: „Wie geht Beratung?“ (Praxis), „Wie sollte Beratung gehen?“ (Theo-\n24 2 Hintergründe von Beratungsprozessen\frie) und „Was passiert tatsächlich in Beratung?“ oder auch „Wie kommt es dazu?“ (Wissenschaft) zurecht zu finden. Die Theorie bietet Orientierung für die Praxis, die Praxis konkretisiert die Theorie auf echte Beratungssituationen bezogen, die Wissenschaft analysiert je nach Forschungsvorhaben die Theo-\nrie und/oder die Praxis, woraus sich wiederum Rückschlüsse auf Theorie und Praxis ziehen lassen bzw. ein Beitrag zur Verän"
+      },
+      {
+        "rank": 2,
+        "id": "a77cc11662b049b64c928ee9bd8cf812155e881b2d201c276f8aeeb3b3bd08d9",
+        "score": 0.9498277306556702,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 9,
+          "split_id": 19,
+          "split_idx_start": 22503,
+          "_split_overlap": [
+            {
+              "doc_id": "8f60ec8783eee82a01557503d9a41e17836da38a12d0a70bffdbf4028c8c173b",
+              "range": [
+                1145,
+                1537
+              ]
+            },
+            {
+              "doc_id": "f9b49373637b0ffc073f49a9352d62b17486cc14fb303ff7ad548872844dc303",
+              "range": [
+                0,
+                427
+              ]
+            }
+          ]
+        },
+        "content": "was zu Frustrationserlebnissen führen kann. Es ist Aufgabe wissenschaftlicher Forschung, Vorhandenes zunächst genau zu erfassen und die komplizierten Wechselwirkungen zu beschreiben. Wissenschaft stellt in Frage, wo die Praxis schnelle Antworten liefert. Wissen-\nschaft schafft Komplexität, wo die Praxis darum bemüht ist, Komplexität zu reduzieren, um den Alltag bewältigbar zu machen. Wenn ich in diesem Beitrag Bildungsberatung in ihren Bezügen zur Er-\nwachsenenbildung betrachte, geht es mir darum, verstehbar zu machen, wa-\nrum Bildungsberatung ein wichtiges gesellschaftliches Handlungsfeld ist, wie die Bildungsberatung mit gesellschaftlichen Strukturen und Belangen von In-\ndividuen in Wechselwirkung steht und warum es wichtig ist, in Theorie und Praxis den Anteil der Erwachsenenbildung bei der Umsetzung von Beratung nicht aus dem Blick zu verlieren. Ich beginne dafür mit einer historischen Herleitung der Bildungsberatung als Feld der pädagogischen Beratung aus den frühen Emanzipationsb"
+      },
+      {
+        "rank": 3,
+        "id": "5d933a9b3704cdb477a80f85dbcf408b7206355d73aa3ca9c1a94ce605e397b2",
+        "score": 0.9147548079490662,
+        "meta": {
+          "file_path": "1001586-075-102.txt",
+          "source_id": "72b5fd5770f54ee865692e906610c146cdb57819fc6177f272c86d8acd555bb1",
+          "page_number": 8,
+          "split_id": 15,
+          "split_idx_start": 16274,
+          "_split_overlap": [
+            {
+              "doc_id": "aba6a6a6fff434fd170103a69bf1561d1eee367c8d60dd1dad0fd41251121ea3",
+              "range": [
+                1191,
+                1539
+              ]
+            },
+            {
+              "doc_id": "dbdfec457148b802c4bdf3bc27a0117610a0436a388213236288f3ec7791c138",
+              "range": [
+                0,
+                452
+              ]
+            }
+          ]
+        },
+        "content": "zunächst im neuen Team eher zurückhalten. Wie wort abspielen kann. war das denn bei Ihnen?“. schon eine gewisse Deutung nahe. Balkonfragen legen den Ratsuchenden jedoch auch „Warum haben Sie sich für diesen Weg entschieden?“.\nWarum-Fragen haben in der Regel den Effekt, dass sie eine unterschwel- lige Wertung suggerieren. Menschen empfinden diese Art der Fragestellung oft schon als Kritik oder „Wie ist es dazu gekommen, dass Sie Vorwurf und beginnen, sich zu rechtfertigen. Hilfreicher ist es, eine der an-\ndiese Ausbildung gewählt haben?“.\nderen W-Fragen zu nutzen. Zum Beispiel: Auch Alternativfragen (Entweder – oder) können Ratsuchende unter Druck setzen, sich schnell zwischen den beiden angegebenen Aspekten ent-\nscheiden zu müssen. Sie haben außerdem den Nachteil, dass sie das Nach-\ndenken über andere Optionen ausbremsen. Sie sind aber sehr sinnvoll, wenn „Soll ich anfangen, oder haben Sie etwas Bestimmtes auf dem Herzen, ich dem Gegenüber zum Beispiel eine Mitwirkung am Gesprächsverla"
+      },
+      {
+        "rank": 4,
+        "id": "cfeeb06b199be2cf4ea75fd878ce65f052835e424b6ed163b7e1bb45179ecb89",
+        "score": 0.7696437835693359,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops.txt",
+          "source_id": "c4c961c0b29389d0282cdf757ba65aaa37877ed4d2d543798c786c5660e27daf",
+          "page_number": 3,
+          "split_id": 4,
+          "split_idx_start": 5566,
+          "_split_overlap": [
+            {
+              "doc_id": "9c37ea71b6b9e099458373adf65efbddda45517dac6fd9bd4d4dc3c9f12105e1",
+              "range": [
+                1268,
+                1679
+              ]
+            },
+            {
+              "doc_id": "c16337719be0f1cf55a6e079de7d4fcafbae276fe1cb4a57071d0ca9f267d1cf",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "die nicht nur eine Zusammenführung der Theorie mit\nder Praxis beinhalten, sondern auch einen Fokus auf die Schlüsselkompetenzen le-\ngen. Hierdurch sollen das Problemverständnis verbessert und die Entwicklung von\nvielfältigeren Handlungsoptionen ermöglicht werden (vgl. Ufert, 2015, S. 39). Im Mit-\ntelpunkt der Projektarbeit steht die Lernerzentrierung. Dies bedeutet, dass der aktive\nPart bei den Studierenden und der reaktive Part bei den Lehrenden liegt. Das Lernen\nberuht auf einem konstruktiven, situativen und sozialen Prozess, dessen Basis das\nbereits vorhandene Wissen ist. Sowohl das Wissen als auch der Verlauf des Prozesses\nist von Individuum zu Individuum verschieden. Die Lehrenden unterstützen, beraten\nund regen die Studierenden in erster Linie an, indem sie insbesondere auf das Han-\ndeln und Verhalten der Studierenden reagieren (vgl. Zumbach & Astleitner, 2016,\nS. 38 f.). Dies erfolgt im Praxisseminar bspw. im Rahmen von regelmäßigen Statusbe-\nrichten. Dies sind schriftliche Kurz"
+      },
+      {
+        "rank": 5,
+        "id": "827a6fb6e5c719cabc2aa2e2ac5daa1e9e621b0d765a92577f9513f9831cccb0",
+        "score": 0.6285345554351807,
+        "meta": {
+          "file_path": "1001586-172-177.txt",
+          "source_id": "637cd67a3ae8db8c1e1a2397f3d47728016b0c19c079eca6e233169f20c10086",
+          "page_number": 4,
+          "split_id": 9,
+          "split_idx_start": 10018,
+          "_split_overlap": [
+            {
+              "doc_id": "0d98b885fdfd65cfacce9b2296ce217a1dcb3a34db214fe11aa08a26adfac8f6",
+              "range": [
+                933,
+                1224
+              ]
+            },
+            {
+              "doc_id": "af6a28d00c4ee3ed3089511c588959cb7e1e4b1f83fd0dbd5804567732040425",
+              "range": [
+                0,
+                295
+              ]
+            }
+          ]
+        },
+        "content": "ihn dann in aller Ruhe zu Hause ausfüllen. Es ist nur wichtig, dass sie ihn alleine ausfüllen und möglichst spontan antworten. R: Das passt mir sehr gut. Ich habe heute nämlich noch einiges zu erledigen. 175 5.5 Methodenbeispiele\f[...] B: Und? Wie war es mit dem Fragebogen? R: Ja, war ganz gut. Ja, das war schon komisch mit den doppelten Fragen. Hier zum Beispiel, Frage drei: „Ich träume von einer Berufstätigkeit, bei der ich meine Arbeit so durchführen und meine Zeit so einteilen kann, wie ich es für richtig halte.“ Und die Frage 7: „Ich träume von einer Berufstätigkeit, bei der ich Probleme lösen oder Situationen meistern kann, die eine Herausforderung darstellen.“ Das war schon et-\nwas komisch, aber ich habe dann gemerkt, dass ich meine vorherige Antwort später noch einmal geändert habe. B: Das klingt als hätten Sie sich sehr ausführlich mit den Fragen beschäftigt? R: Ja, zuerst hatte ich nicht wirklich so die Ruhe dafür. Als ich dann die doppelten Fra-\ngen las, kam ich da schon etw"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-005-006.txt",
+    "question": "Analysieren Sie die Bedeutung der Zusammenarbeit verschiedener Gruppen (Wissenschaftlerinnen, Praktikerinnen, Studierende) für die Qualität und Relevanz des Buches.",
+    "answer": "Die Zusammenarbeit verschiedener Gruppen (Wissenschaftlerinnen, Praktikerinnen, Studierende) ist für die Qualität und Relevanz des Buches von wesentlicher Bedeutung. Die Autoren betonen die Notwendigkeit der Zusammenarbeit zwischen Wissenschaft und Praxis, um ein umfassendes Verständnis der Beratungspraxis und ihrer Herausforderungen zu erlangen. Durch die Einbindung von Experten aus verschiedenen Bereichen (Pädagogik, Sozialwissenschaften, Rechtswissenschaften) werden verschiedene Perspektiven und Erfahrungen in das Buch einfließen, was zu einem umfassenderen Verständnis der Thematik beiträgt. Die Autoren betonen auch die Bedeutung der Einbindung von Studierenden, um ihre Perspektiven und Erfahrungen in die Forschung einzubringen und so einen Beitrag zur Weiterentwicklung der Beratungspraxis zu leisten. Durch die Zusammenarbeit verschiedener Gruppen kann das Buch eine breitere Relevanz und Akzeptanz in der Praxis und in der Wissenschaft erlangen.",
+    "expected": "Die Zusammenarbeit verschiedener Gruppen ermöglicht eine umfassendere Perspektive: Wissenschaftlerinnen bringen theoretisches Wissen ein, Praktikerinnen teilen praktische Erfahrungen, und Studierende tragen durch das Ausprobieren und Reflektieren von Methoden zur Praxisrelevanz und Aktualität bei. Dies erhöht die Qualität und Anwendbarkeit des Buches im Bildungsberatungsfeld.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4ffaca35dd958e4cb76e9ff5a1363227f55bdc4a9c33abc4cb00e72e4624baa8",
+        "score": 0.9049071669578552,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 13,
+          "split_id": 21,
+          "split_idx_start": 26907,
+          "_split_overlap": [
+            {
+              "doc_id": "2ff868e6e930470ecadca7db78c2cd3f05bfd9a6bf9a4d998b914e017e8200b4",
+              "range": [
+                2345,
+                2794
+              ]
+            },
+            {
+              "doc_id": "fbfca5818a21d32f8cfa0966f99490502876db32334565447325717b6e427917",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf-\nten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio-\nnen im Team auch die Frage, welche formalen Qualifikationen für die Ein-\nstellung als Berater_in in diesem Feld relevant sind. Aus den Interviews wird ersichtlich, dass sich die einzelnen Teams zwar interdisziplinär zusammen-\nsetzen, jedoch für die Einstellung durchaus Qualifikationen aus dem päda-\ngogischen und sozialen Bereich von Bedeutung sind.\f124 Bildungs- und Berufsberatung in der Migrationsgesellschaft »[D]ie Kolleg_innen […] haben sozialpädagogischen, sozialarbeiterischen, pädagogischen, soziologischen Hintergrund. Alle haben irgendwie eine Grundau"
+      },
+      {
+        "rank": 2,
+        "id": "602d624f4554e3353c951356e6deaf332e7880f4ecb35fd7d6f7d82526d3ff02",
+        "score": 0.8878560662269592,
+        "meta": {
+          "file_path": "9783847412304-017-032.txt",
+          "source_id": "381ca0766dd21046b8f621aadf64fff8f24e44233671b2594c7152944aba33a1",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 6260,
+          "_split_overlap": [
+            {
+              "doc_id": "e0a540d9e36babf417ab562e2f1403591890fdbb024243ea445820873d1d15d1",
+              "range": [
+                1289,
+                1711
+              ]
+            },
+            {
+              "doc_id": "d0019df3606876eddc4dd024294dc192c9256e6351e766b60ebbaa61619a5e9e",
+              "range": [
+                0,
+                420
+              ]
+            }
+          ]
+        },
+        "content": "ausgeblendet bleibt. Stanik (2016) hat die Bedeutung des instituti-\nonellen Kontexts anhand von Beispielen empirisch bearbeitet. Die Kommis-\nsion Organisationspädagogik (Göhlich et al. 2010) hat des Öfteren das Thema Beratung aufgegri(cid:3445)en und aus ihrer organisationspädagogischen Perspektive beleuchtet. Der Fokus des Qualitätsdiskurses liegt eher auf Organisation, wo-\nbei der kritische Hinweis erlaubt sei, dass hier die Gefahr besteht, Organisa-\f20 Bernd Käpplinger tion wichtiger als Profession zu nehmen, zugespitzt Professionalisierung nur als Seitenstrang und Unterthema von Organisationsentwicklung zu begreifen (Egetenmeyer/Käpplinger 2011). Für den Weiterbildungsbereich und speziell LQW diskutieren die Studien von Hartz und die LQW-Implementationsstudie der damaligen Tübinger Forschungsgruppe um Schrader, dass die Qualitäts-\nmanagements (QMs) den Kern, d. h. die Lehr-/Lernprozesse, kaum bis gar nicht erreichen (vgl. Hartz 2011). Warum werden jedoch immense Finanzsu-\nmmen in Q"
+      },
+      {
+        "rank": 3,
+        "id": "af0f32835d691487121db94d98de2fe69575ede0da1f3faaf81c8ddcc00d3c1f",
+        "score": 0.8651714324951172,
+        "meta": {
+          "file_path": "9783839444856-094-111.txt",
+          "source_id": "e955173d90dfcf7a99a1450fce68f984b57cfc69775a2489a07323814273ee0c",
+          "page_number": 12,
+          "split_id": 21,
+          "split_idx_start": 26536,
+          "_split_overlap": [
+            {
+              "doc_id": "2286439c86f4fffa3313d603e38d4c2a1734a63bbc29f6c7e7360f68b190696b",
+              "range": [
+                1252,
+                1703
+              ]
+            },
+            {
+              "doc_id": "3a9f0c996b5f9aa120d16abf796af7c7dd43a3acd8eafb48fdd04e1f22741de9",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "für die Analyse der Aufgabenfelder und Rahmenbedingungen von Anerkennungsberatung diente (vgl. Mayring 2015; Kuckartz 2012). So konnte das Expert_innenwissen der Interviewpartner_innen über die Inhalte und Bedingungen von Anerkennungsberatung analysiert und durch die Infor-\nmationen aus den Beobachtungsprotokollen und Dokumentationen ergänzt werden. Für die Rekonstruktion des professionellen Selbstverständnisses und der Handlungsstrategien wurden zusätzlich interpretative Verfahren herangezogen, um an ausgewählten Stellen zugrundeliegende Strukturen aufzuzeigen und Verbindungen zwischen den gebildeten Kategorien herzu-\nstellen (vgl. Kelle und Kluge 2010, S. 101ff.; Meuser und Nagel 1991). Demnach konnten die zentralen Konzepte von pädagogischer Beratung, Anerkennung und Professionalität fortwährend empirisch konkretisiert werden, indem\f4. Methodologische Einordnung und methodisches Vorgehen 105 die subjektiven Perspektiven der Akteur_innen auf den Forschungsgegen-\nstand erfasst wurden."
+      },
+      {
+        "rank": 4,
+        "id": "f85c248956d85c95d444354ef6dc9f9977a19cb12068bdb0c3cbfd4aeaabbdaa",
+        "score": 0.8017646074295044,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 29,
+          "split_id": 45,
+          "split_idx_start": 61503,
+          "_split_overlap": [
+            {
+              "doc_id": "8b272819b9de836797cc862e5367131a5317673a81a51de59e13bc4f01292a3f",
+              "range": [
+                1443,
+                1872
+              ]
+            },
+            {
+              "doc_id": "e274d73d8edaabcb200911ba8ca1991de4cd4cfff18fea9c0501eb0281ecaadb",
+              "range": [
+                0,
+                406
+              ]
+            }
+          ]
+        },
+        "content": "des Verbundprojekts OTH mind – modulares innovatives Netzwerk für Durchlässigkeit der OTH Amberg-Weiden und Regensburg wird ein über die Region angelegtes Maßnahmenkonzept für lebenslanges Lernen entwickelt. Dabei steht die Bedarfserhebung der Zielgruppen an erster Stelle, wobei spezi(cid:191)sche Beratungs- und Betreuungsstrukturen, Gender Mainstrea-\nming und Diversity Management zentrale Themen sind. Die Bildungsange-\nbote adressieren vor allem beruflich Quali(cid:191)zierte, Studienabbrecher/innen, Ingenieur/innen sowie technische Fachkräfte. Es gilt für die Gruppe der nicht traditionell Studierenden – auf Basis der Analyse und der vorhandenen Ange-\nbote – bedarfsgerechte professionelle Beratungs- und Betreuungsstrukturen zu installieren und weiterzuentwickeln sowie eine Infrastruktur zu scha(cid:3445)en, die zu einem erfolgreichen Studienzugang, Studienverlauf und Studienab-\nschluss beiträgt. 2. Forschungsstand Im Jahr 2015 studierten rund 51.000 beruflich Quali(cid:191)zierte an d"
+      },
+      {
+        "rank": 5,
+        "id": "b7d049530136c097791eb8243b557ad6c2be50c9b700a2b03a287bddba13981e",
+        "score": 0.48899292945861816,
+        "meta": {
+          "file_path": "9783839444856-094-111.txt",
+          "source_id": "e955173d90dfcf7a99a1450fce68f984b57cfc69775a2489a07323814273ee0c",
+          "page_number": 18,
+          "split_id": 32,
+          "split_idx_start": 40560,
+          "_split_overlap": [
+            {
+              "doc_id": "3cbaaf6431237988f86f644fd14888ee105c8194b666fd647da7220a35c8e852",
+              "range": [
+                1298,
+                1700
+              ]
+            }
+          ]
+        },
+        "content": "beschrieben wurden, die in dieser Form in der Fachöffentlichkeit nicht diskutiert werden würden. Er sieht dies als ein charakteristisches Merkmal der Berufstätigkeit von Be-\nrater_innen, welche vor dem Hintergrund fachlicher, gesellschaftlicher und politischer Anforderungen durch eine Art intellektuelles Doppelleben ge-\nprägt sind. Demnach gehört die Fähigkeit, je nach Kontext eine andere Spra-\nche und Denkweise anzuwenden, zu den Merkmalen professioneller Bera-\ntungstätigkeit. Dennoch sieht er das ungezwungene Expert_inneninterview als Möglichkeit, die tatsächliche Beratungspraxis mit den zugrundeliegen-\nden Werten, Überzeugungen und Übersetzungsleistungen bezüglich exter-\nner Anforderungen zu rekonstruieren. Diese Sichtweise auf das Material als Übersetzungsleistung der Interviewpartner_innen von ihrer individuellen Beratungstätigkeit zu einer Darstellung entsprechend der Interviewfragen ist für die Auswertung leitend. Für die Interpretation des Textmaterials ist daher auch durchgehe"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-005-006.txt",
+    "question": "Fassen Sie zusammen, welche Unterstützungen und Beiträge neben den Autorinnen selbst zum Zustandekommen der Publikation beigetragen haben.",
+    "answer": "Neben den Autorinnen selbst haben sich die wissenschaftlichen Hilfskräfte Marina Basic und Nadine Feisel an der Publikation beteiligt. Marina Basic hat Schaubilder erstellt, während Nadine Feisel Fotos der Räume beigesteuert hat. Nicole Justen hat im Lektorat unterstützt. Die Herausgeberinnen bedanken sich für die gute Zusammenarbeit.",
+    "expected": "Neben den Autorinnen trugen wissenschaftliche Hilfskräfte wie Marina Basic (Anfertigung von Schaubildern) und Nadine Feisel (Fotos der Räume) bei. Studierende aus dem Seminar im Sommersemester 2016 wirkten durch ihre methodischen Beiträge mit. Nicole Justen unterstützte im Lektorat, und die Herausgeberinnen betonen die gute Zusammenarbeit aller Beteiligten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "67a894c28ac3d577dadc39ba0d7d4aa921c44338cd7bb9ab997aaa371f4ff5bf",
+        "score": 0.8593520522117615,
+        "meta": {
+          "file_path": "1001586-005-006.txt",
+          "source_id": "909b2961af75875cc1c508eaa9e5ba917bac9244238dea21fc7171f88f7a4809",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1151,
+          "_split_overlap": [
+            {
+              "doc_id": "b9d4be765f9390b1580e57436700b44ef3ad6c8e235ebd5e0a9065d0d4d49f03",
+              "range": [
+                1151,
+                1530
+              ]
+            }
+          ]
+        },
+        "content": "Zustandekommen beteiligt waren. Ne-\nben den Kolleginnen, die Beiträge schrieben und den Studierenden aus dem gleichnamig durchgeführten Seminar im Sommer-Semester 2016 sind dies auch die wissenschaftlichen Hilfskräfte Marina Basic und Nadine Feisel. Na-\ndine Feisel hat die Fotos der Räume beigesteuert. Marina Basic hat für uns die Schaubilder angefertigt. Nicole Justen danken wir insbesondere für ihre Unterstützung im Lekto-\nrat. Und wir als Herausgeberinnen freuen uns über die allseitig gute Zusam-\nmenarbeit. Essen, im Januar 2017\nAnne Schlüter und Karin Kress\f\f"
+      },
+      {
+        "rank": 2,
+        "id": "ef3693031c70cda2d27611fea5239c2f40ac576433507f64956a7a3a42160a53",
+        "score": 0.7706145644187927,
+        "meta": {
+          "file_path": "9783866496811-052-071.txt",
+          "source_id": "d67f5566ad024f53e8dc40fa1b86892b9badec6d1dde853366f10233833cc9fc",
+          "page_number": 12,
+          "split_id": 23,
+          "split_idx_start": 27210,
+          "_split_overlap": [
+            {
+              "doc_id": "9f49d83034dd02b5adfda97fb11cd8375bd0e1cd5bff86cad480272773e6727f",
+              "range": [
+                1281,
+                1663
+              ]
+            },
+            {
+              "doc_id": "a41a7c2bd96265e52750e7ddf174f5bce2f0b507483c1bc340dab9f0c14e674d",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "mutig auf kreative Lösungen hin interveniert.“ (Zwicker-Pelzer 2010:61) Also nicht nur wir, die Autorinnen dieses Fachbuches sind der Meinung, dass die systemische Beratung eine Bereicherung für die Pflege darstellt, auch haben die eben aufgeführten Wissenschaftlerinnen unter anderem oder als Hauptvorschlag die systemische Beratung benannt. Um also dem Ausspruch von KOCH-STRAUBE getreu zu bleiben: Wir haben jetzt das Rad übernommen, aber was genau sollte Veränderung erfah-\nren, bevor es auch in die Profession Pflege passt? Schauen wir dazu erst einmal genauer darauf, was in der Pflege bereits vor-\nhanden ist und für systemische Beratung bereits von Nutzen sein kann. 3.3. Schnittstellen des Systemischen zwischen Pflege und Beratung Fachkräfte in der Pflege haben viele Ressourcen, die ihnen einen Einstieg in die systemische Beratung erleichtern können. Damit sind in erster Linie berufseigene Fähigkeiten gemeint, wie die Fähigkeiten Sicherheit zu vermit-\nteln, einfühlsam zu beobachten, di"
+      },
+      {
+        "rank": 3,
+        "id": "17f03f520e3c3c83668238bf4a8cea364f627ca0636228e01777f0b3d827f9df",
+        "score": 0.7353790402412415,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 20,
+          "split_id": 32,
+          "split_idx_start": 38514,
+          "_split_overlap": [
+            {
+              "doc_id": "c7f2c594e4e81c532aac6a15df28901179fae97919cab64fb5104027c7e04d69",
+              "range": [
+                1054,
+                1480
+              ]
+            },
+            {
+              "doc_id": "d5b2bf1d54ed249fab6f04e858d8fd85f2ce91f7901e9ed707d3d4d82dd607d9",
+              "range": [
+                0,
+                340
+              ]
+            }
+          ]
+        },
+        "content": "Abbildung sind von Legamaster; Emoticons könnten aber auch selbst hergestellt oder andere Karten verwendet werden. 19\fFragentyp Zielsetzung Beispiel Ressourcenfragen Reflexion von internen und externen Ressourcen bezogen auf Vergangenheit, Gegenwart und Zukunft. Fragen zu Ausnahmen Aktivierung bereits vorhandener, aber unbewusster Res– sourcen und Lösungs– möglichkeiten Gegenwartsbezogen: Was funktioniert aktuell gut? Wie erreichen Sie das? Was soll trotz Veränderung erhalten bleiben? Eigene Person: Was sind Ihrer Einschätzung nach Ressourcen (wichtige Eigenschaften, Talente, Fähigkeiten), die Ihnen bisher beim Lösen von Problemen geholfen haben? Welche Ressource davon können Sie nutzen, um das Problem zu lösen? Vergangenheit: Wie haben Sie in der Vergangenheit das Problem gelöst? Wie haben Sie konkret welche Art von Problem gelöst? Lösungen/ Zukunft: Woran würden Sie merken, dass Sie auf dem richtigen Weg sind? Welche Lösungsideen würde Ihr bester Freund/Ihre beste Freundin entwickeln"
+      },
+      {
+        "rank": 4,
+        "id": "590299ab6c21a71dd87dc072f1e330843a2b71fc96943ac87c80dc3c4cead633",
+        "score": 0.6819026470184326,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 24,
+          "split_id": 40,
+          "split_idx_start": 49295,
+          "_split_overlap": [
+            {
+              "doc_id": "4e7b8e6cda4a467a65617d9389a421b762bc40ec430ad0ea2fde9ebae1376a93",
+              "range": [
+                1221,
+                1588
+              ]
+            },
+            {
+              "doc_id": "3e25a5651ab849ef7e1a0a5ad7be76903980b2d101a625eb2d2b3ed812be4c80",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "zur Gesamtwirkung der Projekte in den Unternehmen Während zum Abschluss des Projekts „Future is Female – FIF“ Interviews mit relevanten Unternehmensvertreteinnen und -vertretern geführt wurden, um die E(cid:3445)ekte auf die Unternehmensstruktur zu erfassen, wurde im Projekt „Die Zukunft im Unternehmen gestalten mit Gender und Diversity – ZUG“ nach Projektende ein Online-Fragebogen an alle beteiligten Unternehmen verschickt, der die Gesamtwirkung in den einzelnen Unternehmen erhob. Die Unternehmen gaben selbst an, sich nachhaltig gewandelt zu haben. Zum Teil wurde der Prozess der verbesserten Gleichstellung nach Projektende noch weitergeführt. Artefakte belegten die nachhaltige Veränderung der Unter-\nnehmenskultur hinsichtlich Gender und Diversity. Das Projekt vergrößerte insgesamt die Akzeptanz von Vielfalt: Das zeigen Beispiele wie das „Fest der Vielfalt“ bei einem Unternehmen, dessen Mitarbeitende und Führungskräfte aus insgesamt 38 Nationen stammen. Während vorher dieser Tatsache k"
+      },
+      {
+        "rank": 5,
+        "id": "f0a1a90cb3eb3c6afa7bbe5c1df5af96874f1ceded958eae61b7ec0badf1a960",
+        "score": 0.4432547688484192,
+        "meta": {
+          "file_path": "Jlb_2022_3_Lipowsky_Rzejak_Unterrichtsgespraeche_erfolgreich.txt",
+          "source_id": "5c97e4742b2ad7390e42e263f7fdd8a5b3ec8b7c2db61ba0dc4922975009f4fa",
+          "page_number": 5,
+          "split_id": 4,
+          "split_idx_start": 5476,
+          "_split_overlap": [
+            {
+              "doc_id": "ff50dd6d91c3c1dded8ff0f026fdaab47b19d762b7b2f10632864ced0c8d0b43",
+              "range": [
+                1259,
+                1636
+              ]
+            },
+            {
+              "doc_id": "370373359457f3bad0255e81bb877ee7ca6986da3c28dd8b77373ad7f89d89d2",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "und demonstriert außerdem aktives Zuhören und eine Wertschätzung der Beiträge. Immer wieder erinnert sie die Schüler*innen an die Aus-\ngangsfrage oder das Ziel des Gesprächs und sorgt somit für dessen Kohärenz. Ausgewählte Forschungsbefunde Die Forschung zur Gestaltung von Unterrichtsgesprächen umspannt ein breites Feld (Hardman, 2020; Wilkinson, Murphy & Binici, 2015). Zum einen werden einzelne Komponenten von Gesprächen untersucht, wie z. B. die Fragen von Lehrpersonen oder ihr Feedback, zum anderen stehen Verläufe und Muster von Gesprächen und die oben genannten Ansätze (z. B. Accountable Talk, Dialogic Teaching) im Vordergrund. Im Folgenden werden exemplarisch einzelne Studien präsentiert, die Wir-\nkungen auf die Leistungen von Lernenden analysierten. Murphy, Wilkinson, Soter, Hennessey und Alexander (2009) unter-\nsuchten in einer Metaanalyse die Wirksamkeit von neun Ansätzen, die Lernende zu dialogisch orientierten Gesprächen im Umgang mit Tex-\nten anregen. Die Metaanalyse zeigt, "
+      }
+    ]
+  }
+]

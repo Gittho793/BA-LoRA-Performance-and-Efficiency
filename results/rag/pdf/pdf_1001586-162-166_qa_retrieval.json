@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "1001586-162-166.txt",
+    "question": "Wer ist der Urheber der Netzwerkmethode und wozu dient sie in der Beratung?",
+    "answer": "Die Frage nach dem Urheber der Netzwerkmethode und ihrem Zweck in der Beratung kann in dem bereitgestellten Text nicht direkt beantwortet werden. Der Text beschreibt verschiedene Beratungsmethoden und -techniken, aber nicht speziell die Netzwerkmethode. Es wird jedoch erwähnt, dass Methoden wie die Netzwerkmethode zur Unterstützung der Entscheidungsfindung und zur Förderung von Veränderungen eingesetzt werden können. Eine direkte Bezugnahme auf den Urheber der Netzwerkmethode und ihr spezifisches Ziel in der Beratung ist nicht enthalten.",
+    "expected": "Die Netzwerkmethode ist auf Dr. W. Vogelauer zurückzuführen und dient zur Visualisierung von komplexen Entscheidungsmöglichkeiten einer ratsuchenden Person.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8cccc1051c592a06c3f7a73aae6740e7ae9b21ee8f0e7978f2104260b5a14aef",
+        "score": 0.9427006840705872,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 4,
+          "split_id": 8,
+          "split_idx_start": 9470,
+          "_split_overlap": [
+            {
+              "doc_id": "c19f20cd37e4b74c2f853b63714c3c5d5545248aaaba84d829715363b8f031bf",
+              "range": [
+                1075,
+                1448
+              ]
+            },
+            {
+              "doc_id": "25381183a533ab8a369ced300e64286b06a6ebbb7b1903b7ea4a3dbf6af9babc",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie-\nhen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge-\nklärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar-\nbeiten ermöglichen. Brunner formuliert z. B. Daher wird zunächst der Stellenwert von Methoden und Techniken, von Konzepten und Theorien erläutert und der Stellenwert von Beratungsanläs-\nsen und Inhalten der Beratungsgespräche erörtert. Sie einem Format und Feld zuzuordnen, ist darüber hinaus wichtig, um die Anforderungen im jeweiligen Feld der Beratung einschätzen zu können. Denn zu jedem Beratungsfeld ge-\nhören Wissensbestände, die der Beratung"
+      },
+      {
+        "rank": 2,
+        "id": "14bfcd82a2df57483d520c3be31f3a06ab48a19d5cf39e518e029cff4992505e",
+        "score": 0.8667844533920288,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ee2c223597547377affde49db3c953669419009636712694cff2c121f2843c30",
+              "range": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        "content": "3 Erfahrungsraum Beratung: Handlungsorientierung 3.1 Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter-\nschiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech-\nniken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer in diesem Band verwenden – einen eigenen Beitrag.\nnicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön-\nnen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) So heißt es bei Frank Nestmann im Handbuch der Beratung. Fast alle Erläute-\nrungen des Methodenbegriffs gehen von der etymologischen Herleitung aus, dass eine Methode ein Weg ist, ein Ziel zu erreichen. In dem Zitat von Frank N"
+      },
+      {
+        "rank": 3,
+        "id": "48daa6e33c7882baf36997a027d4bd18fe2932654f4cce5f8e623c9074398f54",
+        "score": 0.815514087677002,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 15,
+          "split_id": 23,
+          "split_idx_start": 28622,
+          "_split_overlap": [
+            {
+              "doc_id": "011f1c7165a07542a8fb354da6a72baabf34b5cdba5366a3a97a302bb35cad5d",
+              "range": [
+                1337,
+                1739
+              ]
+            },
+            {
+              "doc_id": "07aad067b042128158c154afbb004ca7c0ca02ad89c75f68607476ae88fd1ed2",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "im Dienste der Weiter-\nentwicklung von Klient_innen. Kollegiale Beratung hilft zum Beispiel einer Gruppe, thematische Klärungen zu beruflichen Problemen – zum Beispiel des Schulunterrichts – zu erörtern und ist lösungsorientiert. Beratung in Unter-\nnehmen gestaltet sich aufgrund des Kontextes anders als die Face-to-Face-Be-\nratung bzw. Beratung in Gruppen im sozialen Feld. Organisationsberatung und Beratung einzelner Führungskräfte hat zum Ziel, Entwicklungsprozesse oder Bildungsprozesse in den Beteiligten zu initiieren (Göhlich et al. 2010). In Wirtschaftsunternehmen muss stets das Beratungsziel mit der Wirt-\nschaftlichkeit austariert werden – das Beratungsziel muss entweder die Produktion verbessern oder der Belegschaft und der gesamten Organisa-\ntion nutzen, am besten beides zugleich (Tomaschek 2014; König/Vollmer 2018). Dennoch gilt es, am Grundsatz der humanen Dienstleistung für die betro(cid:3445)enen Menschen festzuhalten. Um diesen Spagat zwischen E(cid:3446)zienz, Wirtschaftli"
+      },
+      {
+        "rank": 4,
+        "id": "944afbad49d2a91f7f4c377917119f956a573731cc174f3b2a5c96e9b095688b",
+        "score": 0.7734109163284302,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 14,
+          "split_id": 34,
+          "split_idx_start": 38953,
+          "_split_overlap": [
+            {
+              "doc_id": "7f0d79f4b875ef421360db44c129390e667d963cc236212a444c49b20f18acb5",
+              "range": [
+                1174,
+                1554
+              ]
+            },
+            {
+              "doc_id": "dc2b3c3a05343926925b42b352ec10c0e6854b0df8ce62eda22d04732affd24c",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "die Haltung des Beraters bzw. der Beraterin, eine professionelle Gesprächs-\nführung, eine angenehme Raumgestaltung (s. 3.4 Beratungsräume) und den Einsatz von Beratungsmethoden (s. 5 Methoden und Techniken) sinnvoll ge-\nstalten. Methoden, wie sie in diesem Band beschrieben und erläutert werden, sind ein hilfreiches Element für den Aufbau und die Gestaltung einer förder-\nlichen Arbeitsbeziehung. Allerdings ist zu bedenken, dass es nicht nur darauf ankommt, ein möglichst professionelles und vielfältiges Repertoire an Metho-\nden und Techniken in der Beratung anzuwenden und darauf zu hoffen, dass sich die Beziehung dadurch gewissermaßen von selbst einstellt. Die beste Technik oder Methode ist nur dann sinnvoll, wenn sie im Systemkontext der je individuellen Beratung einen Sinn macht. Methoden und Techniken müssen reflektiert eingesetzt und angepasst werden, um ihre immanente Wirkung entfalten zu können. Nestmann (2004) betont, dass „Beziehung und Metho-\n52 3 Erfahrungsraum Beratung: Handlu"
+      },
+      {
+        "rank": 5,
+        "id": "f9563ccdf3c33b5bb8f119021b0163c53f64fa3920436c3776c4408a980d887d",
+        "score": 0.7199946045875549,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 2,
+          "split_id": 3,
+          "split_idx_start": 4089,
+          "_split_overlap": [
+            {
+              "doc_id": "ca0862434d9e33b52618658005402ee9eff7a468b123254b947ea8cc188965fe",
+              "range": [
+                1327,
+                1729
+              ]
+            },
+            {
+              "doc_id": "ce44a09d4bd24c5921300dd715104c4ab7b1da1c8048f3d097e6d7942bd6a7d6",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "immer wieder auch als Vorteil von Beratung gesehen wird. »Wenn auch Beratung aufgrund seiner semantischen Breite ein eher offe-\nner, diversifizierter und damit schwieriger Begriff ist, so verkehrt sich dieses Konturierungsproblem und dieser Profilierungsnachteil doch vor dem Hin-\f3. Theoretischer Analyserahmen 45 tergrund gesellschaftlicher und kultureller Veränderungen in einen Vorteil« (ebd.). In der Folge weisen Engel et al. jedoch auch darauf hin, dass zahlreiche und umfangreiche Konzepte und Ansätze existieren, um Beratung zu definie-\nren und zu beschreiben. Nach Nittel (2016, S. 20) stellt Beratung »gleich für mehrere Disziplinen einen ernstzunehmenden wissenschaftlichen Gegen-\nstandsbereich« dar. Entsprechend werden hier unterschiedliche disziplinäre und handlungsfeldbezogene Zugänge diskutiert, welche spezifische bera-\ntungstheoretische Perspektiven auf Anerkennungsberatung ermöglichen. Nicht weiter thematisiert wird die therapeutische Intervention, da die Ab-\ngrenzung zwischen"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-162-166.txt",
+    "question": "Wie werden die Handlungsoptionen bei der Netzwerkmethode dargestellt und miteinander verbunden?",
+    "answer": "Die Handlungsoptionen werden bei der Netzwerkmethode mit Pfeilen und Symbole dargestellt. Die Pfeile und Symbole verbinden die Optionen miteinander und zeigen, welche Optionen am meisten Pfeile aus- oder auf sie zeigen.",
+    "expected": "Die Handlungsoptionen werden auf Moderationskarten, beispielsweise in Wolkenform, notiert und auf einem Plakat als Netzwerk dargestellt. Die Beziehungen und Beeinflussungen zwischen den Optionen werden durch Pfeile und Symbole visualisiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0be37502d3ab5747b57674140453667f9d05ad018c9bb0d0796df4c28baad9ce",
+        "score": 0.9987397789955139,
+        "meta": {
+          "file_path": "1001586-162-166.txt",
+          "source_id": "20f2d2defc90565713f4374cbb91f111d67b34e9ec904032a8ed20542f934de1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1278,
+          "_split_overlap": [
+            {
+              "doc_id": "8b9d39cf093c92480fe3fb64bf180fb8b86f8a1c8aff5b78a451b3781775c83c",
+              "range": [
+                1278,
+                1658
+              ]
+            },
+            {
+              "doc_id": "af1bb4809e111f5e3b9f083cd83352a18a8f65c2ed7da1142838a2e71242fc85",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Handlungsoptionen zueinander durch Pfeile und Symbole dargestellt. Die Handlungsoption, von der am meisten Pfeile ausgehen oder auf die die meisten Pfeilspitzen zeigen, wird im Bera-\ntungsgespräch als erstes thematisiert.\n162 5 Methoden und Techniken\fIm Anschluss an die Netzwerkmethode wird entweder gemeinsam, oder von der ratsuchenden Person alleine als Aufgabe zu Hause, eine Hand-\nlungs-Matrix ausgefüllt. In dieser Matrix werden die Entscheidungsmöglich-\nkeiten strukturiert und priorisiert. Dann wird der Frage nachgegangen, auf welche Optionen der oder die Ratsuchende aktiv Einfluss nehmen kann bzw. welchen passiven unveränderbaren Faktoren sie ausgesetzt ist. Die Aufstel-\nlung erfolgt in kurz-, mittel- und langfristige Handlungsoptionen. Phase/Funktion: Anliegen: Material: Zeit: • Flipchart\n• Stifte\n• Matrix als Kopie Mittel- und Endphase: Optionen ordnen, abwä-\ngen und priorisieren Entscheidungsfindung und Priorisieren von Handlungsoptionen ab 45 Min. Ablauf der Beratung\nVorbereitu"
+      },
+      {
+        "rank": 2,
+        "id": "b7aa9c26d876e00256f0bcf0422bb367524fafe7c6f4cc953aff2746e30be722",
+        "score": 0.9957191348075867,
+        "meta": {
+          "file_path": "1001586-162-166.txt",
+          "source_id": "20f2d2defc90565713f4374cbb91f111d67b34e9ec904032a8ed20542f934de1",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5997,
+          "_split_overlap": [
+            {
+              "doc_id": "2f1ae1c17504ca0c0010099b818e7047d97c3e29387a69ba9ab8c6ea6167f219",
+              "range": [
+                1242,
+                1635
+              ]
+            },
+            {
+              "doc_id": "2a6a57dac84169169da6da475a88c84857e3da84935e44589b8adc8f760f3c67",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "und nun in eine Reihenfolge und Ordnung gebracht werden müssen. Wird die Netzwerkmethode erfolgreich Schwierigkeiten/Barrieren: durchgeführt, kann sie zum Abschluss des Beratungsverhältnisses überleiten. Die Methode dient zur Unterstützung der rat-\nsuchenden Person durch den Berater oder die Beraterin. Er oder sie fordert die ratsuchende Person allerdings auch auf, vernetzt mitzudenken und sich von Wechselwirkungen zwischen Optionen nicht verwirren zu lassen. Es be-\nsteht die Gefahr, dass das „Chaos im Kopf“ der ratsuchenden Person während der Umsetzung der Netzwerkmethode zu einem Chaos auf dem Papier über-\ntragen wird und die Wolkenabbildung inklusive der Pfeilverbindungen sehr unübersichtlich ist. In diesem Fall ist es wichtig, die ratsuchende Person nicht alleine zu lassen, sondern auch unterschwelligen Anteilen, die emotional mit den verschiedenen Handlungsoptionen verbunden sind, Raum zu geben. Nur 164 5 Methoden und Techniken\fEigentlich-Lösungsideen\nso kann sie sich auch von Opt"
+      },
+      {
+        "rank": 3,
+        "id": "8e287fe26e589402f85399f1ba9f4cab24e7858aa88c294b215d3536a963fc11",
+        "score": 0.9938492178916931,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 109,
+          "split_id": 213,
+          "split_idx_start": 253977,
+          "_split_overlap": [
+            {
+              "doc_id": "e165f1b553deb18588982cfd602f6f19fd5489d0cf23020916de1d5f9136fd33",
+              "range": [
+                1415,
+                1859
+              ]
+            },
+            {
+              "doc_id": "7bc2c924b42d999fbfd5b1f0683baba38ffab3544a151e4f24e2d7edf4fe9579",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "Erhöhung der individuellen Handlungsfä-\nhigkeit der Klient_innen. Bei einer Kombination aus Handlungsweisen, die nur auf der strukturellen Handlungs- und Anerkennungsebene stattfänden und auf diese ausgerichtet wären, würde kein Bezug mehr zur Beratung be-\nstehen und sie wären eher dem Bereich Organisations- oder Politikberatung zuzuordnen. Abbildung 17: (Aus-)Handlungsmuster in der Anerkennungsberatung Analyseebenen Anerkennungsverhältnis auf individueller Ebene Anerkennungsverhältnis auf struktureller Ebene Beratung als\nAnerkennung Beratung für\nAnerkennung Anerkennung von Beratung n\ne\nn\ne\nb\ne\ns\ng\nn\nu\nd\nn\na\nH l individuelle Ebene strukturelle Ebene Quelle: eigene Darstellung\f220 Bildungs- und Berufsberatung in der Migrationsgesellschaft Entscheidend für die Analyse und Interpretation sind hier jedoch nicht nur die unterschiedlichen Aushandlungsprozesse, sondern auch deren si-\ntuationsspezifische Realisierungen. Die rekonstruierten Muster bieten unterschiedliche Möglichkeiten von Ausha"
+      },
+      {
+        "rank": 4,
+        "id": "4e7b8e6cda4a467a65617d9389a421b762bc40ec430ad0ea2fde9ebae1376a93",
+        "score": 0.9928644895553589,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 23,
+          "split_id": 39,
+          "split_idx_start": 48074,
+          "_split_overlap": [
+            {
+              "doc_id": "ed651e8706503855dd061e9e74674df7438cefef55923588e97f2857112b3a11",
+              "range": [
+                1239,
+                1639
+              ]
+            },
+            {
+              "doc_id": "590299ab6c21a71dd87dc072f1e330843a2b71fc96943ac87c80dc3c4cead633",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "und gleichstellungssensible Handlungsoptionen in Inter-\naktionen (vgl. Macha et al. 2017). Die Akzeptanz der Lernmethoden und Inhalte betrug 80%, die wissen-\nschaftlichen Informationen waren manchmal jedoch zu abstrakt. Die oberen Führungskräfte und insbesondere die Unternehmensleitungen trugen den Wandel in Bezug auf die Ziele der Gleichstellung: Sie waren die Schlüssel-\npersonen, die den Erfolg des Beratungsprozesses maßgeblich positiv beein-\n(cid:192)ussten, indem sie mit Autorität und Überzeugungskraft vorangingen. Sie ließen sich von der Argumentation überzeugen und lernten am meisten und am schnellsten über die Inhalte bis hin zu alternativen Regeln und Verhal-\ntensweisen.\f288 Hildegard Macha Ergebnisse auf der organisationalen Ebene der Unternehmen Die Lernkultur der Unternehmen wurde hinsichtlich Partizipation und Gleich-\nstellung nachhaltig verändert. Artefakte belegen die nachhaltige Veranke-\nrung, zum Beispiel in Bezug auf diversitysensible Unternehmensleitbilder und Diversi"
+      },
+      {
+        "rank": 5,
+        "id": "9b80e7ead2b8355427b64271703c91d5c8498d8600c57f6c7aa8d170085292ff",
+        "score": 0.9896724224090576,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 35,
+          "split_id": 83,
+          "split_idx_start": 95378,
+          "_split_overlap": [
+            {
+              "doc_id": "34e8a5931866ac26c9c1acd5f342477a19316b73101130a3d4bfccf597167e85",
+              "range": [
+                1278,
+                1719
+              ]
+            }
+          ]
+        },
+        "content": "es Handlungsfähigkeiten auf verschiedenen Ebenen, die auf einer professionellen Haltung basieren. Im umsichtigen Handeln kommen diese zum Ausdruck. Wie ausgeführt gehören Handwerkszeuge wie Methoden und Techniken zur Intervention in Gesprächs-\nsituationen in ausdifferenzierter Weise zur Beratungskompetenz. Ohne Be-\nziehungsgestaltung werden diese allerdings kaum nachhaltige Wirksamkeit entfalten können. Daher lässt sich resümieren, dass es einer bewussten Zu-\nwendung und eines Eingehens auf die Anliegen der anderen Person bedarf, um den Erfahrungsraum für Kommunikation und Interaktion so auszufüllen, dass nicht nur eine Klärung des Anliegens, sondern auch eine Zielformulierung für 73 3.5 Zusammenfassung\fdie Phasen des Beratungsgesprächs erfolgen kann. Kommunikation und Inter-\naktion haben sich generell an ethischen Werten und Normen zu orientieren, denn Beratende haben Verantwortung für das Geschehen. Verantwortlichkeit sollte sich speziell auch zeigen in der Ausgestaltung von Beratung"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-162-166.txt",
+    "question": "Welche Schritte folgen nach der Anwendung der Netzwerkmethode in der Beratung, um die Entscheidung weiter zu strukturieren?",
+    "answer": "Die Anwendung der Netzwerkmethode in der Beratung ist ein wichtiger Schritt, um die Entscheidung weiter zu strukturieren. Nach der Anwendung dieser Methode folgen folgende Schritte: \n         1. Auswertung und Interpretation der Ergebnisse: Die Ergebnisse der Netzwerkmethode werden ausgewertet und interpretiert, um die wichtigsten Aspekte der Entscheidung zu identifizieren. \n         2. Identifizierung von Handlungsoptionen: Basierend auf den Ergebnissen der Netzwerkmethode werden Handlungsoptionen identifiziert, die zur Umsetzung der Entscheidung beitragen können. \n         3. Priorisierung von Handlungsoptionen: Die identifizierten Handlungsoptionen werden priorisiert, um sicherzustellen, dass die wichtigsten Aspekte der Entscheidung an erster Stelle stehen. \n         4. Entwicklung eines Handlungsplans: Basierend auf der Priorisierung der Handlungsoptionen wird ein Handlungsplan entwickelt, der die Schritte zur Umsetzung der Entscheidung enthält. \n         5. Überprüfung und Anpassung des Handlungsplans: Der Handlungsplan wird regelmäßig überprüft und angepasst, um sicherzustellen, dass die Entscheidung weiterhin auf dem richtigen Weg ist.",
+    "expected": "Nach der Netzwerkmethode wird gemeinsam oder von der ratsuchenden Person zuhause eine Handlungs-Matrix ausgefüllt, in der die Entscheidungsmöglichkeiten strukturiert, priorisiert und hinsichtlich des Einflusses (aktiv oder passiv) sowie der Zeithorizonte (kurz-, mittel- und langfristig) bewertet werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e13f1885d0850053410f8f802dd12962b7b1c5e55e5fdeed77b74d5681811922",
+        "score": 0.652834415435791,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 19,
+          "split_id": 35,
+          "split_idx_start": 42900,
+          "_split_overlap": [
+            {
+              "doc_id": "fcea487a60468cc9044212df394c310a9c3862a380462dbd54fba9594ed16f61",
+              "range": [
+                1167,
+                1566
+              ]
+            },
+            {
+              "doc_id": "5d51efb55e5dd4c8640f252d4fee023a476b37fffa718eaee61081083330b20c",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "zu zeigen sein wird, besteht ein Strukturproblem darin, die fachliche Expertise als Coach ausweisen zu müssen, aber dabei zugleich einen möglichst o(cid:3445)enen Raum für inhaltliche Themensetzung und Selbstre(cid:192)exion zu lassen. Ein wei-\nteres Strukturproblem zeigt sich in einer Beratungsbedürftigkeit, die herge-\nstellt werden muss, um die Sinnhaftigkeit von Beratung zu rechtfertigen, die jedoch nicht die schon vorhandene Kompetenz des Coachees in Frage stellen darf. Zuletzt besteht das Strukturproblem in einer unbedingten Orientierung an den Bedürfnissen und Bedarfen des/der Klient*in und gleichzeitig in der Notwendigkeit, auch einen Folgeauftrag für die Beratungsorganisation zu si-\nchern. Empirisches Beispiel I: Fachexpertise vs. Raum für Selbstre(cid:192)exion Der folgende Sequenzauszug stammt aus dem Beratungsgespräch 1. Dieses Gespräch ist ein Erstgespräch, was erklärt, dass es zunächst zu einer etwas allgemeineren Auftragsklärung zwischen Coach 1 und Herrn G kommt.\f254 Chr"
+      },
+      {
+        "rank": 2,
+        "id": "fdadfb29d00b9cb5956f2e3293afe3638db9e6056839ec25a0044a3ff9fc56ec",
+        "score": 0.5696587562561035,
+        "meta": {
+          "file_path": "9783847412304-129-180.txt",
+          "source_id": "a552771cf1a4f5dfa3b9da300d101a1da2157deec1a617bbc06888db07eeba93",
+          "page_number": 18,
+          "split_id": 29,
+          "split_idx_start": 37598,
+          "_split_overlap": [
+            {
+              "doc_id": "2d63e44e7be0af1fef331515097ae2f19461bc1dac7500644b0d060e6b53db40",
+              "range": [
+                1289,
+                1728
+              ]
+            },
+            {
+              "doc_id": "6a0bdf7a646e39e495642d9d403e86c9d30887d720dc9b7669843719baeb3faa",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "sind neue Aufgaben im Kinderschutz, das Hinzu-\nkommen medial vermittelter Beratung im Sinne von Blended Counseling und so weiter. Diese Heterogenisierung der Beratungslandschaft geht zusätzlich mit einer Zunahme von Beratungsangeboten einher. In der Folge können ak-\ntuelle Professionalisierungswünsche hinsichtlich Beratung nicht mehr auf den überlieferten Strukturkern einer im wesentlichen gesetzten Beratungsinfra-\nstruktur aufsetzen. Beratung als Handlungsform ist angesichts dieser Hetero-\ngenisierung aus ihren Strukturen freigesetzt, ähnlich wie das Unterrichten, das sich angesichts rasch ausdi(cid:3445)erenzierender Schulformen- und konzepte zunehmend auch wieder aus seiner eigentlichen pädagogischen Praxis heraus und nicht (nur) entlang der Institution Schule legitimieren muss. Zweitens be-\ndeutet Bologna, dass Professionalisierungsprozesse schon früher zielgerichtet beginnen als im bisherigen berufsbiographischen Zweiphasenmodell. Nimmt man an dieser Stelle die Handlungsorientieru"
+      },
+      {
+        "rank": 3,
+        "id": "94a814954bf3c2272eb80e154e7f5946a2a3a58da08cc0183116963d57b62de3",
+        "score": 0.5362778902053833,
+        "meta": {
+          "file_path": "9783847412304-009-015.txt",
+          "source_id": "b95e63990ac4390b5ab0f9e9a3c9565fdcf96e7029ed357ca8a1e742c793c7d5",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 6457,
+          "_split_overlap": [
+            {
+              "doc_id": "25c7008f6a4466bde1de5111bc71421c1182f67c0738472a26e773d617d9c919",
+              "range": [
+                1240,
+                1741
+              ]
+            },
+            {
+              "doc_id": "9ab1a0d2453c22f333e27cf98861d74eabcb4923c10c204c730555af3ae40cad",
+              "range": [
+                0,
+                452
+              ]
+            }
+          ]
+        },
+        "content": "Frage nach weite-\nren Professionalisierungsprozessen, etwa durch Verbände, Publikationen oder Standards. Schließlich kommen Wechselwirkungen zwischen unter-\nschiedlichen Systemebenen in den Blick (z. B. Weiterbildungsorganisatio-\nnen als Adressat*innen von Organisationsberatung). • Permanenter Wandel in der Folge von Technologisierung und damit ver-\nbundene Veränderungsprozesse/-notwendigkeiten betreffen auch die (Wei-\nter-)Entwicklung von Beratungsformaten und -settings. Dies betrifft nicht nur medial vermittelte Formen (Telefon- bzw. Online-Beratung), sondern auch neuere Handlungsformate wie Gruppenberatung und Coaching. Zen-\ntral werden Fragen danach, ob und inwiefern sich die technologiebasierten Veränderungen auf Struktur- und Ablaufmuster, Anforderungen an Rolle und Funktion seitens der Beratenden wie auch der Ratsuchenden auswir-\nken. Damit einher geht auch die Frage nach Möglichkeiten zum Abbau von Zugangshindernissen für pädagogische Beratung wie auch die Nut-\nzung entsprechen"
+      },
+      {
+        "rank": 4,
+        "id": "32504c1ed2ab357545878fdee1573aa054196668564939dfff0dd9988bbdf94d",
+        "score": 0.4809904396533966,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 43,
+          "split_id": 77,
+          "split_idx_start": 100793,
+          "_split_overlap": [
+            {
+              "doc_id": "e98912c4214b70148e74c960b9142e69b5cfcfec10d59893aa97bfcc99275c50",
+              "range": [
+                1498,
+                1908
+              ]
+            },
+            {
+              "doc_id": "8df867bdfdaf146fb70dc8d8f2d61a0cae7a7b38962dd391bf74f94aaeb9d02a",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "Zentrum ihrer Dar-\nstellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird\f86 Bildungs- und Berufsberatung in der Migrationsgesellschaft das Beratungssystem von dem organisationalen und gesellschaftlichen Kon-\ntext. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu-\ngeordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln nicht nur Kompetenzen zur Gestaltung des Beratungsprozesses voraussetzt, sondern auch Kompetenzen im Umgang mit der Institution und der Gesellschaft be-\ninhaltet (vgl. ebd., S. 15ff.). Abbildung 12: Systemisches Kontextmodell von Beratung Quelle: Schiersmann 2013, S. 162 Die Definition von Kompetenzanforderungen und Wissenssystemen stellt in diesem Modell die Voraussetzung für professionelle Handlungsfähig-\nkeit und -sic"
+      },
+      {
+        "rank": 5,
+        "id": "d50c910c05975e61a4b93e819dfcbc8b41d0fb783cc6b7a475c469e2e0e98515",
+        "score": 0.43655213713645935,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 95,
+          "split_id": 186,
+          "split_idx_start": 220537,
+          "_split_overlap": [
+            {
+              "doc_id": "d50f972428b410ec404730f8694bf401692d0d32060ff7e6e5c407712de12e2a",
+              "range": [
+                1149,
+                1571
+              ]
+            },
+            {
+              "doc_id": "ee1bc0ba8bddcf4604eda9b7ef7d362520b46587d648a570ea0a79b8e21ff36b",
+              "range": [
+                0,
+                475
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. 2015) weist darauf hin, dass die institutionelle Eingrenzung des Beratungsgegen-\nstandes in der Weiterbildungsberatung durch mit dem Beratungsanliegen implizit verbundene Problemstellungen erschwert werden kann. Von den Berater_innen wird hier die Fähigkeit gefordert, professionelle Distanz zu wahren, Beratungsanliegen bearbeitbar zu halten und bei Bedarf auch tatsächlich an entsprechende Institutionen weiter zu verweisen (vgl. ebd., S. 208). Die Professionalität zeigt sich damit auch in der Fähigkeit, sich den Grenzen von Beratung innerhalb der gegebenen Strukturen bewusst zu sein, um alternative Handlungsweisen, wie die Weitervermittlung an geeignete Stellen, umsetzen zu können. Insbesondere vor dem Hintergrund des be-\nschriebenen Engagements der Berater_innen besteht die Herausforderung in der Abwägung des notwendigen Beratungsbedarfs und des institutio-\nnellen Beratungsauftrags. Aus anerkennungstheoretischer Perspektive ist der Umgang mit diesen Spannungsfeldern gekennzeichne"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-162-166.txt",
+    "question": "Warum ist es wichtig, dass in der Netzwerkmethode die Handlungsoption mit den meisten Pfeilen als erstes thematisiert wird, und welche Wirkung hat dies auf den Entscheidungsprozess?",
+    "answer": "Die Handlungsoption mit den meisten Pfeilen wird als erstes thematisiert, um den Ratsuchenden zu helfen, sich auf das wichtigste Thema zu konzentrieren und sich zu fokussieren. Dies ist wichtig, um sicherzustellen, dass der Entscheidungsprozess effektiv und effizient ist. Durch das Fokussieren auf die wichtigste Handlungsoption können die Ratsuchenden ihre Zeit und Energie besser nutzen, um das Thema zu bearbeiten und Lösungen zu finden. Außerdem kann dies dazu beitragen, dass die Ratsuchenden ihre eigenen Ressourcen und Potenziale besser nutzen, um Lösungen zu finden. In der Mittelphase der Beratung liegt es in der Prozessverantwortung der Beraterin und des Beraters, eine Bearbeitungs- und Lösungsebene der mehr und mehr deutlich gewordenen Problemstellung bzw. Entfaltungswünsche des oder der Ratsuchenden anzubahnen. Nach gelungener Problemerhellung steht nun der eigentliche Klärungsprozess, das Suchen und Finden möglicher Lösungsoptionen im Vordergrund. Die gestalterische Herausforderung im Beratungsprozess ist, den Blickwinkel des oder der zu Beratenden zu erweitern, ihn bzw. sie in seiner persönlichen Ideenentwicklung für Problemlösungen zu begleiten. Zentral ist es in dieser Phase, zu ermutigen, mehr mögliche Lösungswege zu finden und nebeneinander stehen zu lassen, um sie in einem nächsten Schritt eingehend zu betrachten, abzuwägen und zu bewerten. Oft sehen Ratsuchende keine oder nur eine denkbare Lösung, dieses „Schwarz-Weiß-Denken“ gilt es aufzubrechen. Leitend kann sein, bisherige Lösungswege zu betrachten und neue Lösungsansätze zu finden. Durch das Fokussieren auf die wichtigste Handlungsoption können die Ratsuchenden ihre Zeit und Energie besser nutzen, um das Thema zu bearbeiten und Lösungen zu finden. Außerdem kann dies dazu beitragen, dass die Ratsuchenden ihre eigenen Ressourcen und Potenziale besser nutzen, um Lösungen zu finden. In der Mittelphase der Beratung liegt es in",
+    "expected": "Die Handlungsoption mit den meisten Pfeilen ist zentral, da sie entweder viele andere Optionen beeinflusst oder selbst stark beeinflusst wird. Durch das Thematisieren dieser Option zuerst wird der Fokus auf den wichtigsten Entscheidungspunkt gelegt, was hilft, die Komplexität zu reduzieren und Prioritäten im Entscheidungsprozess zu setzen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0be37502d3ab5747b57674140453667f9d05ad018c9bb0d0796df4c28baad9ce",
+        "score": 0.9900850057601929,
+        "meta": {
+          "file_path": "1001586-162-166.txt",
+          "source_id": "20f2d2defc90565713f4374cbb91f111d67b34e9ec904032a8ed20542f934de1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1278,
+          "_split_overlap": [
+            {
+              "doc_id": "8b9d39cf093c92480fe3fb64bf180fb8b86f8a1c8aff5b78a451b3781775c83c",
+              "range": [
+                1278,
+                1658
+              ]
+            },
+            {
+              "doc_id": "af1bb4809e111f5e3b9f083cd83352a18a8f65c2ed7da1142838a2e71242fc85",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Handlungsoptionen zueinander durch Pfeile und Symbole dargestellt. Die Handlungsoption, von der am meisten Pfeile ausgehen oder auf die die meisten Pfeilspitzen zeigen, wird im Bera-\ntungsgespräch als erstes thematisiert.\n162 5 Methoden und Techniken\fIm Anschluss an die Netzwerkmethode wird entweder gemeinsam, oder von der ratsuchenden Person alleine als Aufgabe zu Hause, eine Hand-\nlungs-Matrix ausgefüllt. In dieser Matrix werden die Entscheidungsmöglich-\nkeiten strukturiert und priorisiert. Dann wird der Frage nachgegangen, auf welche Optionen der oder die Ratsuchende aktiv Einfluss nehmen kann bzw. welchen passiven unveränderbaren Faktoren sie ausgesetzt ist. Die Aufstel-\nlung erfolgt in kurz-, mittel- und langfristige Handlungsoptionen. Phase/Funktion: Anliegen: Material: Zeit: • Flipchart\n• Stifte\n• Matrix als Kopie Mittel- und Endphase: Optionen ordnen, abwä-\ngen und priorisieren Entscheidungsfindung und Priorisieren von Handlungsoptionen ab 45 Min. Ablauf der Beratung\nVorbereitu"
+      },
+      {
+        "rank": 2,
+        "id": "e7a5d9547cef8983581a5230f25865796ede67b86b6e077a5d972ea070a7f63b",
+        "score": 0.975818395614624,
+        "meta": {
+          "file_path": "1001586-009-016.txt",
+          "source_id": "3f9788ae8711dcc8e396942ba92917ab6b9c2d0b0dab855ca6fef70f938d7e4f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "eb66ef060bdf53f4c44f7c45e6f687b7affd81f48c5e76166c34ab200175ebe5",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "1 Einleitung Anne Schlüter Mittlerweile liegen einige Handbücher und Einführungen in die Bildungs-\nberatung vor, die beanspruchen, für die Praxis der Bildungsberatung hand-\nlungsleitend zu sein. Auffällig ist allerdings, dass das Wissen, das Handlungen strukturiert, meistens zu kurz kommt. Methoden und Techniken werden relativ kurz abgehandelt. Dies ist auch der Fall in aktuellen Veröffentlichun-\ngen, beispielsweise von Maier-Gutheil und Nierobisch (2015), das unter dem Titel „Beratungswissen für die Erwachsenenbildung“ veröffentlicht wurde. Die Publikation von Frank Schröder und Peter Schlögl zur Weiterbildungs-\nberatung wurde unter der Perspektive „Qualität definieren, gestalten, reflek-\ntieren“ bearbeitet. Das Lehrbuch von Andreas Bürgi und Herbert Eberhardt (2006) enthält ein Kapitel „Beratung als methodisches Tun“ sowie ein Kapitel „Arbeitstechniken“. Es vermittelt auf der Basis von Praxiserfahrungen, dass Beratung sich auf dem Weg zur Professionalität befindet. Das Handbuch zur B"
+      },
+      {
+        "rank": 3,
+        "id": "edfddec01692792fb6c97c9d9a45e9669d51c15d3031ae54b1889f136bead89e",
+        "score": 0.9160060882568359,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 17,
+          "split_id": 34,
+          "split_idx_start": 40073,
+          "_split_overlap": [
+            {
+              "doc_id": "d80c50b85db46cd49c1c7af1abd444a0462bec360926df53b00815180eb7c5ea",
+              "range": [
+                1146,
+                1571
+              ]
+            },
+            {
+              "doc_id": "2e630d964dc60a9fd5d055e50c200179fcd3f71627569941cfb17d2b4cdb45d7",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "diesem neuen, bisher wenig vertrauten Handlungsfeld zu erreichen, war hoch. Als Grundlage wurde im Projekt ein spezifisches Qualifizierungskonzept entwickelt, um die Pflegefachkräfte für ihre Aufgabe „Gesundheits- und Pflegeberatung in Familien, in denen demenzerkrankte Menschen leben“, zu qualifizieren. Sie sollten umfassende Handlungskompetenzen entwickeln können insbesondere für Beratungen und Schulungen in häuslicher Umge-\nbung. Das Konzept orientiert sich inhaltlich an den Anforderungen, die an eine präventive Arbeit im Gesundheitswesen zu stellen sind, wie sie in der Studie ‚Ansätze zu Pflegeprävention‘ (Weidner 2003) herausgearbeitet wur-\nden. Damit mussten die Bereiche Bedarfseinschätzung und Hilfeplanung, Beratungsintervention und Schulung sowie Vermittlung und Koordination von Hilfen im Konzept enthalten sein. In didaktischer Hinsicht wurde das Konzept der Kompetenzorientierung8 (Handreichungen 2007) zu Grunde gelegt. Dabei ging es um eine Spezifizie-\nrung bereits vorhandener"
+      },
+      {
+        "rank": 4,
+        "id": "4fc23e59b63082209618cb8ff778e0639442f1b50b8c28acfb0721b22944db20",
+        "score": 0.8755900263786316,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 24,
+          "split_id": 60,
+          "split_idx_start": 68463,
+          "_split_overlap": [
+            {
+              "doc_id": "4405da6d27193196a30ce1a01b7c151a0ae4b575f69e0e8cf422e639fdab793d",
+              "range": [
+                1142,
+                1569
+              ]
+            },
+            {
+              "doc_id": "d9aee1f9da772955a973f649ae3c4e79a192a225425ef91460406ed7e05079e4",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "und strukturieren persönliche Reflexionsprozesse persönlicher Handlungsmuster des oder der Ratsuchenden, gestalten Impulse und Anregungen. So eröffnen und erweitern sich mögliche Handlungsoptionen – immer in der Offenheit für den individuellen Lösungs- und Entscheidungsweg des oder der Ratsuchen-\nden. Dieser Haltung liegt ein humanistisches und ressourcenorientiertes Men-\nschenbild zugrunde, das unbedingte Vertrauen in die Entwicklungsfähigkeit des Menschen. Menschen verändern sich ständig und verfügen über unzählige Ressourcen und Potenziale, wenn sie sich verändern wollen.\n62 3 Erfahrungsraum Beratung: Handlungsorientierung\fMittelphase – Lösungsmöglichkeiten erarbeiten In der Mittelphase der Beratung liegt es in der Prozessverantwortung der Beraterin und des Beraters, eine Bearbeitungs- und Lösungsebene der mehr und mehr deutlich gewordenen Problemstellung bzw. Entfaltungswünsche des oder der Ratsuchenden anzubahnen. Nach gelungener Problemerhellung steht nun der eigentliche Klärungs"
+      },
+      {
+        "rank": 5,
+        "id": "ea545215f305871d49285ad2ae6de17b218d6dfa93332a944f2ab379e0b68083",
+        "score": 0.8739781975746155,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 27,
+          "split_id": 55,
+          "split_idx_start": 65844,
+          "_split_overlap": [
+            {
+              "doc_id": "68baa4ed0ca0d577b047d2ff18535f8f4e17f026ec2e00b5b168b197b2cc1855",
+              "range": [
+                1227,
+                1593
+              ]
+            },
+            {
+              "doc_id": "d3c7981912634e1a896cc0e36829dcccd4fb478cbed1c931c77132c8cb8bba7e",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Die hohe Individualität der Fallzusammenhänge in den Familien erfor-\ndert es, der Qualifizierung und Begleitung der Beraterinnen und Berater eine zentrale Bedeutung beizumessen. 6.4. Ein neues pflegerisches Handlungsfeld – Beratung in Pflegestützpunkten Das neue Handlungsfeld der Pflege wird im § 92c SGB XI beschrieben, es besagt u.a., dass für jeden Versicherten eine wohnortnahe Beratung, Versor-\ngung und Betreuung eingerichtet werden soll. Mit diesem Gesetzestext erfolgte die lang erwartete Antwort auf den § 3 SGB XI in welchem bereits seit 1995 festgelegt ist, dass die ambulante Pflege der stationären vorzuziehen ist, für dieses Prinzip wurde jetzt mit dem § 92c eine solide Basis geschaffen. Den Vorrang der ambulanten bzw. häuslichen Pflege zu geben beruht auf den Wünschen und Bedürfnissen der Pflegebedürftigen selbst (Schmidbauer 2008:18), welchem der Gesetzesgeber hier Folge leistet. Die überwiegende Zahl der pflegebedürftigen Menschen wünscht so lange wie es ermöglicht werden kan"
+      }
+    ]
+  },
+  {
+    "filename": "1001586-162-166.txt",
+    "question": "Wie verknüpft die Netzwerkmethode die beruflichen und privaten Veränderungsoptionen der ratsuchenden Person, und welche Vorteile ergeben sich daraus für die Entscheidungsfindung?",
+    "answer": "Die Netzwerkmethode verknüpft die beruflichen und privaten Veränderungsoptionen der ratsuchenden Person durch die Visualisierung von Zusammenhängen zwischen einzelnen Optionen. Dazu werden die Handlungsoptionen auf einem Plakat mit Moderationskarten dargestellt, wobei die Beziehungen und die Beeinflussung der Handlungsoptionen zueinander durch Pfeile und Symbole dargestellt werden. Die Handlungsoption, von der am meisten Pfeile ausgehen oder auf die die meisten Pfeilspitzen zeigen, wird im Beratungsgespräch als erstes thematisiert. Dies ermöglicht die Identifizierung von Wechselwirkungen zwischen Optionen und hilft der ratsuchenden Person, Prioritäten zu setzen und Entscheidungen zu treffen. Die Vorteile der Netzwerkmethode liegen darin, dass sie die Komplexität von Entscheidungssituationen visualisiert, die ratsuchende Person dabei unterstützt, ihre Optionen zu strukturieren und zu priorisieren, und dass sie die Möglichkeit bietet, neue Perspektiven und Lösungen zu entdecken. \nDie Netzwerkmethode ermöglicht es der ratsuchenden Person, ihre beruflichen und privaten Veränderungsoptionen in Beziehung zu setzen und zu analysieren. Durch die Visualisierung der Zusammenhänge zwischen den Optionen kann die Person ihre Prioritäten setzen und Entscheidungen treffen. Die Methode hilft auch, die Komplexität der Entscheidungssituation zu reduzieren und neue Perspektiven und Lösungen zu entdecken. Die Vorteile der Netzwerkmethode liegen in der Strukturierung und Priorisierung der Optionen, der Identifizierung von Wechselwirkungen zwischen Optionen und der Möglichkeit, neue Perspektiven und Lösungen zu entdecken.",
+    "expected": "Die Netzwerkmethode stellt Zusammenhänge zwischen verschiedenen beruflichen und privaten Handlungsoptionen her, die zunächst unvereinbar erscheinen können. Durch die Visualisierung dieser Vernetzungen werden Wechselwirkungen sichtbar, was es der ratsuchenden Person ermöglicht, Prioritäten zu erkennen und informierte Entscheidungen zu treffen, die sowohl berufliche als auch private Aspekte berücksichtigen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8b9d39cf093c92480fe3fb64bf180fb8b86f8a1c8aff5b78a451b3781775c83c",
+        "score": 0.995881199836731,
+        "meta": {
+          "file_path": "1001586-162-166.txt",
+          "source_id": "20f2d2defc90565713f4374cbb91f111d67b34e9ec904032a8ed20542f934de1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "0be37502d3ab5747b57674140453667f9d05ad018c9bb0d0796df4c28baad9ce",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "5.5.9 Netzwerkmethode Jana Gerling und Antonia Sehlleier Kurzbeschreibung Die Netzwerkmethode ist auf Dr. W. Vogelauer zurückzuführen und dient zur Visualisierung von komplexen Entscheidungsmöglichkeiten einer ratsu-\nchenden Person. Innerhalb der Beratung berichtet die ratsuchende Person von verschiedenen Möglichkeiten der eigenen Zukunftsgestaltung, zwischen denen es ihr schwerfällt, Prioritäten zu setzen. Hierbei kann es sich in der Bildungsberatung z.B. um eine Entscheidung bezüglich beruflicher Verän-\nderungen handeln, sodass beispielsweise die Handlungsoptionen wie Studi-\num, Ausbildung, Privates, Arbeiten im bisherigen Berufsfeld und finanzielle Sicherheit zunächst unvereinbar gegenüberstehen. Jede Entscheidungsmög-\nlichkeit geht mit positiven und negativen beruflichen, sowie privaten Verän-\nderungen einher. Abb. 22: Netzwerkmethode (eigene Darstellung) Hier setzt die Netzwerkmethode an. Sie dient dazu, Zusammenhänge zwi-\nschen einzelnen Optionen herzustellen und zu visualisieren"
+      },
+      {
+        "rank": 2,
+        "id": "b7aa9c26d876e00256f0bcf0422bb367524fafe7c6f4cc953aff2746e30be722",
+        "score": 0.9726179242134094,
+        "meta": {
+          "file_path": "1001586-162-166.txt",
+          "source_id": "20f2d2defc90565713f4374cbb91f111d67b34e9ec904032a8ed20542f934de1",
+          "page_number": 3,
+          "split_id": 5,
+          "split_idx_start": 5997,
+          "_split_overlap": [
+            {
+              "doc_id": "2f1ae1c17504ca0c0010099b818e7047d97c3e29387a69ba9ab8c6ea6167f219",
+              "range": [
+                1242,
+                1635
+              ]
+            },
+            {
+              "doc_id": "2a6a57dac84169169da6da475a88c84857e3da84935e44589b8adc8f760f3c67",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "und nun in eine Reihenfolge und Ordnung gebracht werden müssen. Wird die Netzwerkmethode erfolgreich Schwierigkeiten/Barrieren: durchgeführt, kann sie zum Abschluss des Beratungsverhältnisses überleiten. Die Methode dient zur Unterstützung der rat-\nsuchenden Person durch den Berater oder die Beraterin. Er oder sie fordert die ratsuchende Person allerdings auch auf, vernetzt mitzudenken und sich von Wechselwirkungen zwischen Optionen nicht verwirren zu lassen. Es be-\nsteht die Gefahr, dass das „Chaos im Kopf“ der ratsuchenden Person während der Umsetzung der Netzwerkmethode zu einem Chaos auf dem Papier über-\ntragen wird und die Wolkenabbildung inklusive der Pfeilverbindungen sehr unübersichtlich ist. In diesem Fall ist es wichtig, die ratsuchende Person nicht alleine zu lassen, sondern auch unterschwelligen Anteilen, die emotional mit den verschiedenen Handlungsoptionen verbunden sind, Raum zu geben. Nur 164 5 Methoden und Techniken\fEigentlich-Lösungsideen\nso kann sie sich auch von Opt"
+      },
+      {
+        "rank": 3,
+        "id": "8a13870c1e138251f72d2031f0a81d979276472cb1de16160c4456786e65275a",
+        "score": 0.8241931200027466,
+        "meta": {
+          "file_path": "1001586-136-139.txt",
+          "source_id": "971ef64c87ce6eeeeb6a4c0a76df2de0eeb3b6a5e1f7d2045594b018d8f00c67",
+          "page_number": 3,
+          "split_id": 4,
+          "split_idx_start": 4428,
+          "_split_overlap": [
+            {
+              "doc_id": "8442627039a0208851a6c3ad9c5c6aced010eea0cdb736bcb471b17733c0e4b1",
+              "range": [
+                1076,
+                1466
+              ]
+            },
+            {
+              "doc_id": "eb6f9afa2afb4615e0d3af63e14efca3bd6beb5ab8965d6c9fd6875d659b402d",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "Tabelle dem oder der Ratsuchenden auch unausge-\nfüllt als Anregung für eigene weitere Überlegungen mitgeben. Bei mehreren Beratungssitzungen kann das Anlegen der Tabelle zur Vorbereitung auf ein nächstes Gespräch dienen.\nKommentar zum Einsatz\nZielgruppe: Die Methode lässt sich, wenn Sie die Tabelle für die ratsuchende Person ausfüllen, auf viele Personenkreise anwenden. Für Ratsuchende, die selbst schon sehr strukturiert vorgehen, reicht es mitunter, das Modell zur Anliegen: Eigenbearbeitung vorzustellen. Entscheidungsvorbereitung zu verschiedenen Weiterbildungen, zwischen Weiterbildung oder beruflicher Umorientierung, zwischen privaten und beruflichen Prioritäten, zwischen zeitlich unterschiedlich umfangreichen Phase im Beratungsgespräch:\nOptionen. Das Beratungsgespräch sollte schon so weit fortgeschritten sein, dass sich auch verschiedene Entscheidungsvarianten abzeichnen. Die Methode ist daher eher am Ende der Mittelphase anzusie-\ndeln. Ergeben sich aus der Methode jedoch neue Frage"
+      },
+      {
+        "rank": 4,
+        "id": "a91e9f01acc0cc641a2e89953a74e3fabb2dfb566096edf735f7a0378a6702ce",
+        "score": 0.42813995480537415,
+        "meta": {
+          "file_path": "9783866496811-072-097.txt",
+          "source_id": "e4041675176fbacce2245254f79d637eeda350caf0bc23b4931c81076d58da44",
+          "page_number": 5,
+          "split_id": 8,
+          "split_idx_start": 10068,
+          "_split_overlap": [
+            {
+              "doc_id": "64066b90661a8d53ce27c2440ac6fc8ef0b8ff6c871b30d7a2cc67a46c728f69",
+              "range": [
+                1147,
+                1711
+              ]
+            },
+            {
+              "doc_id": "eaaafbbd22a03d54c5aeafb404431b6797b376414183ac769e4951ad346dcb21",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "in Forschungs-\nprozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. z.B. Arbeitsmarkt, Bildungssystem, Rechtliche Regelung z.B.Agentur für Arbeit, Kommunale Beratungsstellen, Kammern, Betriebe, Beratungsagenturen Gesellschaftlicher Kontext Organisationaler Kontext Beratungs System Lösung\nKlärung\nBeziehung Ratsuchenden-System Berater-System z.B. Person (beruflich,\nBiographie, Einstellung, Erfahrungen) private Lebenswelt z.B. Person (beruflich,\nBiographie, Einstellung, Erfahrungen) private Lebenswelt Abb.5: Systemisches Kontextmodell der Beratung Die verschiedenen Ebenen der Betrachtung von Beratung in Theoriebildung und Forschung kommt folgendes Bild nahe. Beratung ist darin als ein Akt des Pendelns von Mikro-, Meso- und Makro-Ebene zu sehen und verlangt hohe fachliche Kompetenzen der Reflexion auf unterschiedlichen Ebenen des Prozessgeschehens von Beratung. Die reinen klientenbezogenen Theorien und Konzepte von Beratung verken-\nnen die Komplexitä"
+      },
+      {
+        "rank": 5,
+        "id": "a69589a2d614aa0eb168d6a6c6155f02b97e77d649ac46cc3e43d4ac326b31bd",
+        "score": 0.3996792137622833,
+        "meta": {
+          "file_path": "9783847412304-059-086.txt",
+          "source_id": "45dee5f385fe757b59e7435157597176c3afe94ee539439ed53af7cefa795258",
+          "page_number": 5,
+          "split_id": 4,
+          "split_idx_start": 5266,
+          "_split_overlap": [
+            {
+              "doc_id": "ac0e19f77374abf309a900554cd4c4b4fa362d5b81e92cd21e6c61c3ac79df78",
+              "range": [
+                1344,
+                1797
+              ]
+            },
+            {
+              "doc_id": "44437a8b7e11beef8e75d8bc99304806fca25def41c119b1c59a9b21d0ac4743",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "eine professionelle Lesekompetenz (vgl. Brunner 2006), um hinreichende Klärungen der Beratungsanliegen vor-\nnehmen zu können. Während in Beratungskommunikationen/-interaktionen Beratende zum Beispiel ad hoc Nach- oder Verständnisfragen stellen kön-\nnen bzw. Anliegen im Gespräch ausgehandelt werden (vgl. Kallmeyer 2000), stehen bei E-Mail-Beratungen zunächst nur die schriftlichen Ausgangsschil-\nderungen der Ratsuchenden zur Verfügung. Darüber hinaus benötigen Bera-\nter*innen für die Interventionen eine professionelle Schreibkompetenz, die an den Leser*innen bzw. Ratsuchenden orientiert ist, um an deren Vorwissen und Wortschatz anschlussfähig formulieren zu können (vgl. Becker-Mrotzek/\nSchindler 2007: 13(cid:3445).). An diesen skizzierten Herausforderungen setzt die Fragestellung des vor-\nliegenden Beitrags insofern an, als dass analysiert wird, wie Berater*innen die schriftlichen Beratungsanliegen der Ratsuchenden in ihren Interventionen transformieren und prozessieren. Wichtig ist es i"
+      }
+    ]
+  }
+]

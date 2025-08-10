@@ -1,0 +1,760 @@
+[
+  {
+    "filename": "9783847412304-009-015.txt",
+    "question": "Was versteht man unter Beratung im anthropologischen Kontext und in welchen Formen tritt sie auf?",
+    "answer": "Im anthropologischen Kontext versteht man Beratung als eine Form der Erwachsenenbildung, die sich auf die (Wieder-)Herstellung der individuellen Entscheidungs- und Handlungsfähigkeit abzielt. Sie kann als „pädagogische Bildungschance“, „alltags- und lebensweltorientierte Bewältigungshilfe in der sozialen Arbeit“ oder „therapeutische Intervention in klinisch-psychologischen oder medizinisch-psychologischen Handlungsfeldern“ verstanden werden. Im Kontext der Erwachsenenbildung ist Beratung ein von mehreren Kontexten, bei der Gestaltung von Beratungsprozessen, neben Einflüssen aus Psychologie und Soziologie, der zielgruppenorientierten Angebotsgestaltung, der Anbindung an unterschiedliche Träger und anderen.\n         Beratung tritt in verschiedenen Formen auf, wie z.B. in der Form von Sprechstunden, Kollegialer Beratung, Organisationsberatung und Beratung einzelner Führungskräfte. Sie kann auch als Face-to-Face-Beratung, Beratung in Gruppen oder als Beratung in Unternehmen erfolgen. Im Kontext der Migrationsgesellschaft ist Beratung ein wichtiger Teil der Bildungs- und Berufsberatung, die darauf abzielt, die individuellen Bedürfnisse und Ziele der Klienten zu verstehen und zu unterstützen.",
+    "expected": "Beratung ist ein Handlungsphänomen, das anthropologisch betrachtet recht alt ist und tritt in transitiver Form (jemanden beraten) sowie in reflexiver Form (sich beraten) auf. Sie kommt sowohl in alltagsweltlichen Zusammenhängen als auch in professionellen Settings vor und richtet sich als Dienstleistung an einzelne Personen, Gruppen und Organisationen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ddfdbbe1db020bd326108c35fda673954b57f205cb519df8463c9f46b2f3782d",
+        "score": 0.9851460456848145,
+        "meta": {
+          "file_path": "1001586-017-038.txt",
+          "source_id": "e2db4c3c6be036659c8c8adb6f1e92bcb1ffd8ebea9a67b35c43887110964361",
+          "page_number": 16,
+          "split_id": 35,
+          "split_idx_start": 41996,
+          "_split_overlap": [
+            {
+              "doc_id": "696000d6c74f2ed0f7a191a22a1dbb194b96653ee68f02b7171bf19423da62cf",
+              "range": [
+                1170,
+                1557
+              ]
+            },
+            {
+              "doc_id": "29155188ecceeaf9deb207ee309fbe57d9d3de07d0d65b2ba6adc13c151421c8",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "anderen. Jörg Knoll versteht unter einer „impliziten“ Lernberatung Beratungsanlässe, in denen die Beratung während einer Lernsituation (z.B. eines Seminars) stattfindet. Als „explizite“ Beratung bezeichnet er Beratungssituationen, in denen die Ratsuchenden bewusst die Beratung z.B. in Form von Sprechstunden aufsuchen (Knoll 2008). In der einen Perspektive ist Beratung eine von vielen Formen der Erwachsenenbildung (neben der Gestaltung von Sozialformen, der Materialauswahl, der Raumregie …) in der anderen Perspektive ist die Didaktik der Erwachsenenbildung eine von mehreren Kon-\ntexten bei der Gestaltung von Beratungsprozessen (neben Einflüssen aus Psychologie und Soziologie, der zielgruppenorientierten Angebotsgestaltung, der Anbindung an un-\nterschiedliche Träger …). 5 6 32 2 Hintergründe von Beratungsprozessen\f„Unsere Wirklichkeitskonstrukte steuern das Handeln und Verhalten, aber diese Konstrukte wiederum sind (…) gefärbt von unserer sozialen und kulturellen Um-\nwelt.“ (Siebert 2003"
+      },
+      {
+        "rank": 2,
+        "id": "ca0862434d9e33b52618658005402ee9eff7a468b123254b947ea8cc188965fe",
+        "score": 0.9583573341369629,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 2,
+          "split_id": 2,
+          "split_idx_start": 2762,
+          "_split_overlap": [
+            {
+              "doc_id": "980b169ffa36aa076ba29bf494e9288a807d5b7e99e2aec30bb16d325d7e8299",
+              "range": [
+                1313,
+                1733
+              ]
+            },
+            {
+              "doc_id": "f9563ccdf3c33b5bb8f119021b0163c53f64fa3920436c3776c4408a980d887d",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "und methodisch ausdifferenziert hat. Schröd-\nter (2014, S. 809, Herv. i. Orig.) definiert diese Form der Beratung als »ein eigenständiges Gesprächsangebot für Menschen in aktuell schwierigen Ent-\nscheidungs-, Konf likt- und Krisensituationen«. Als konstitutive Merkmale von Beratung nennt er die Freiwilligkeit der Inanspruchnahme, die Vertrau-\nlichkeit, die Kostenfreiheit sowie die Multiperspektivität des Zugangs und die Interdisziplinarität des Teams. Beratung als professionelles Angebot zielt auf die (Wieder-)Herstellung der individuellen Entscheidungs- und Hand-\nlungsfähigkeit ab und findet in einem zeitlich eingegrenzten, institutionel-\nlen und organisatorischen Rahmen statt, der durch spezifische Richtlinien und Vorgaben geprägt ist (vgl. ebd., S. 809ff.). Damit ist ein relativ weites und offenes Beratungsverständnis verbunden, das auf unterschiedliche dis-\nziplinäre Zugänge und gesellschaftliche Handlungsfelder zutrifft. Beratung kann als »pädagogische Bildungschance«, als »alltag"
+      },
+      {
+        "rank": 3,
+        "id": "1482c351180584cc24a81a1a3d021af6c28c1bb94b6dfdb1d2868b01e7d09b18",
+        "score": 0.9234444499015808,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 47,
+          "split_id": 88,
+          "split_idx_start": 107026,
+          "_split_overlap": [
+            {
+              "doc_id": "8a9b430eab38fb2988f60a9a0f080f4fd2c4eb0820c6eea63d34a1d6ebfd3d07",
+              "range": [
+                1343,
+                1769
+              ]
+            },
+            {
+              "doc_id": "d5df7e92be0526fc1eb18d4027355abc4479d55c1061b653ee744feee3b6623c",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsverständnis auf inhaltlicher Ebene und in Bezug auf die für die Anerkennungsberatung erforderliche Qualifikation. Die Be-\nzeichnung als eine pädagogische Beratung wird hier eher in den erzieheri-\nschen bzw. sanktionierenden Kontext des Bildungssystems eingeordnet. Die interviewten Personen verbinden pädagogische Beratung dadurch tenden-\nziell mit einer bevormundenden Haltung, die den Klient_innen ein gewisses Maß an Bedürftigkeit unterstellt. Den Interviewpartner_innen ist es wich-\ntig, sich von diesem Verständnis eines Erziehungs- und Bildungsauftrages und damit der Bezeichnung als eine pädagogische Beratung zu distanzieren. »Gar nicht. Es ist wirklich eher vielleicht vergleichbar mit einer Beratung, vielleicht einer Rechtsberatung […]. Was wir z. B. auch grundsätzlich nicht machen, ist, mit zu Stellen zu gehen, das machen wir nie […] die schaffen das auch alleine, zu einer Stelle zu gehen, und wir sind sozusagen immer im Hintergrund und sind immer ansprechbar und für irgendw"
+      },
+      {
+        "rank": 4,
+        "id": "48daa6e33c7882baf36997a027d4bd18fe2932654f4cce5f8e623c9074398f54",
+        "score": 0.880424976348877,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 15,
+          "split_id": 23,
+          "split_idx_start": 28622,
+          "_split_overlap": [
+            {
+              "doc_id": "011f1c7165a07542a8fb354da6a72baabf34b5cdba5366a3a97a302bb35cad5d",
+              "range": [
+                1337,
+                1739
+              ]
+            },
+            {
+              "doc_id": "07aad067b042128158c154afbb004ca7c0ca02ad89c75f68607476ae88fd1ed2",
+              "range": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        "content": "im Dienste der Weiter-\nentwicklung von Klient_innen. Kollegiale Beratung hilft zum Beispiel einer Gruppe, thematische Klärungen zu beruflichen Problemen – zum Beispiel des Schulunterrichts – zu erörtern und ist lösungsorientiert. Beratung in Unter-\nnehmen gestaltet sich aufgrund des Kontextes anders als die Face-to-Face-Be-\nratung bzw. Beratung in Gruppen im sozialen Feld. Organisationsberatung und Beratung einzelner Führungskräfte hat zum Ziel, Entwicklungsprozesse oder Bildungsprozesse in den Beteiligten zu initiieren (Göhlich et al. 2010). In Wirtschaftsunternehmen muss stets das Beratungsziel mit der Wirt-\nschaftlichkeit austariert werden – das Beratungsziel muss entweder die Produktion verbessern oder der Belegschaft und der gesamten Organisa-\ntion nutzen, am besten beides zugleich (Tomaschek 2014; König/Vollmer 2018). Dennoch gilt es, am Grundsatz der humanen Dienstleistung für die betro(cid:3445)enen Menschen festzuhalten. Um diesen Spagat zwischen E(cid:3446)zienz, Wirtschaftli"
+      },
+      {
+        "rank": 5,
+        "id": "5ad698e75c0f11b67ffe6d27d728c203bbc973b50c833f284f7c82fb5bd8f2d0",
+        "score": 0.8422167897224426,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 4,
+          "split_id": 7,
+          "split_idx_start": 8102,
+          "_split_overlap": [
+            {
+              "doc_id": "236ff3c7987586663ffb47e1da0d9d06cf8ee8e85a500d6171c83a18dc8827f8",
+              "range": [
+                1236,
+                1618
+              ]
+            },
+            {
+              "doc_id": "28a1bff32805bb801a5a160871bdea4273073bfd6b292e5208b2af1bda2d3e60",
+              "range": [
+                0,
+                342
+              ]
+            }
+          ]
+        },
+        "content": "der Vermittlung von Beratungskompetenz. Ich beschreibe eine Metho-\nde oder eine Technik, damit mein Gegenüber (Studierende, Kolleginnen und Kollegen oder auch Leser und Leserinnen von Handbüchern) wichtige oder hilfreiche Handlungsformen von Beratung versteht, diese ausprobieren und abwandeln kann. Dabei ist es jedoch entscheidend, die Abstraktion nicht mit dem Handeln selbst zu verwechseln.\nDie Landkarte ist nicht der Weg Daraus erklärt sich auch, warum immer wieder betont wird, dass Methoden in der Beratung kein Selbstläufer sind und eben viel mehr dazu gehört, eine gute Beratung durchzuführen, als nur die Anwendung eines bestimmten Schemas. Interessanterweise scheint der Boom an Methodensammlungen diese Hin-\nweise zu verstärken. Was in der Diskussion allerdings oft nicht bedacht wird, ist der Umstand, dass diese Methodensammlungen ja letztlich keine ‚echten‘ Wege enthalten. Die Beschreibung eines Weges ist eben genau das: eine Be-\nschreibung. Methodensammlungen enthalten also allenf"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-009-015.txt",
+    "question": "Wie hat sich das Forschungsinteresse an Beratung seit den 1960er Jahren entwickelt und welche Veränderungen gab es ab Mitte der 1990er Jahre?",
+    "answer": "Das Forschungsinteresse an Beratung hat sich seit den 1960er Jahren stark erweitert und verändert. In den 1960er Jahren stand die Beratung im Mittelpunkt der Aufmerksamkeit, insbesondere im Kontext der psychologischen Beratung. Im Laufe der Zeit erweiterte sich das Forschungsinteresse auf andere Bereiche, wie die Bildungsberatung, die Berufsberatung und die Migrationsberatung. Ab Mitte der 1990er Jahre gab es einen Schwerpunktwechsel hin zu einer stärkeren Betonung der sozialen und kulturellen Aspekte der Beratung, einschließlich der Anerkennungsberatung. Dieser Wechsel wurde durch die zunehmende Diversität der Gesellschaft und die steigende Bedeutung von Migration und Integration motiviert. Die Forschung konzentrierte sich auf die Rolle der Beratung bei der Förderung von Integration, Inklusion und Teilhabe. Darüber hinaus wurde die Bedeutung von Beziehung und Beziehungsarbeit in der Beratung betont, einschließlich der Notwendigkeit, eine tragfähige Beratungsbeziehung zu gründen, um effektiv beraten zu können. Im Kontext der Corona-Pandemie kam es zu einer weiteren Veränderung in der Beratung, da die Beratung in häuslicher Umgebung zunehmend an Bedeutung gewann.",
+    "expected": "Seit den 1960er Jahren steht Beratung als eine der Grundformen pädagogischen Handelns im Fokus erwachsenenbildnerischer Forschung. Ab Mitte der 1990er Jahre kam es im Zuge des sogenannten Beratungsbooms zu Diversifizierungen und Erosionsprozessen, die den Fokus auf die Professionalisierung im Beratungsfeld richteten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f9563ccdf3c33b5bb8f119021b0163c53f64fa3920436c3776c4408a980d887d",
+        "score": 0.9599222540855408,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 2,
+          "split_id": 3,
+          "split_idx_start": 4089,
+          "_split_overlap": [
+            {
+              "doc_id": "ca0862434d9e33b52618658005402ee9eff7a468b123254b947ea8cc188965fe",
+              "range": [
+                1327,
+                1729
+              ]
+            },
+            {
+              "doc_id": "ce44a09d4bd24c5921300dd715104c4ab7b1da1c8048f3d097e6d7942bd6a7d6",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "immer wieder auch als Vorteil von Beratung gesehen wird. »Wenn auch Beratung aufgrund seiner semantischen Breite ein eher offe-\nner, diversifizierter und damit schwieriger Begriff ist, so verkehrt sich dieses Konturierungsproblem und dieser Profilierungsnachteil doch vor dem Hin-\f3. Theoretischer Analyserahmen 45 tergrund gesellschaftlicher und kultureller Veränderungen in einen Vorteil« (ebd.). In der Folge weisen Engel et al. jedoch auch darauf hin, dass zahlreiche und umfangreiche Konzepte und Ansätze existieren, um Beratung zu definie-\nren und zu beschreiben. Nach Nittel (2016, S. 20) stellt Beratung »gleich für mehrere Disziplinen einen ernstzunehmenden wissenschaftlichen Gegen-\nstandsbereich« dar. Entsprechend werden hier unterschiedliche disziplinäre und handlungsfeldbezogene Zugänge diskutiert, welche spezifische bera-\ntungstheoretische Perspektiven auf Anerkennungsberatung ermöglichen. Nicht weiter thematisiert wird die therapeutische Intervention, da die Ab-\ngrenzung zwischen"
+      },
+      {
+        "rank": 2,
+        "id": "1eca46103ad1da716b6fa5508b77b1d6dcfeaaa11fd74232afa0eaf60aedd6d0",
+        "score": 0.9022228121757507,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 9,
+          "split_id": 16,
+          "split_idx_start": 20898,
+          "_split_overlap": [
+            {
+              "doc_id": "fb7e8504b00f3e923fe1a3423a77d13124580761680f51649102ba1c4eb98d4e",
+              "range": [
+                1357,
+                1763
+              ]
+            },
+            {
+              "doc_id": "791440769f8d2a1e3ed62514930e60b6785374143163d0691d02778dca6ce364",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsverständnis wird hier explizit mit einer anerkennenden Beratungshaltung verbunden und damit eine pädagogische Perspektive auf Beratung begründet. Schiersmann und Remmele (vgl. 2004) stellen in ihrer Studie zu den in der Bildungs- und Berufsberatung verwen-\ndeten Beratungsansätzen in Deutschland fest, dass die Berater_innen sich nach eigener Einschätzung am häufigsten an dem personenzentrierten An-\nsatz orientieren. Der vielfache Rückgriff kann zwar sicherlich auch in Zu-\nsammenhang mit dessen großen Bekanntheitsgrad im pädagogischen Be-\nreich gesehen werden, dennoch ist die damit verbundene Beratungshaltung zu einem charakteristischen Merkmal eines pädagogischen Beratungsver-\nständnisses geworden. Gleichzeitig findet durch diese Orientierung an Rogers jedoch auch eine Übernahme von psychologisch geprägten Beratungsansätzen statt. Diese ermöglichen für die Berater_innen eine Form der »Handlungssicherheit« durch den Einsatz methodisch begründeter Interventionstechniken und zu-\f5"
+      },
+      {
+        "rank": 3,
+        "id": "6f6295ca76435e7d77fba7fe22ddb70af1d98ea7a10f45693b34d20196446984",
+        "score": 0.8826376795768738,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 7,
+          "split_id": 16,
+          "split_idx_start": 18136,
+          "_split_overlap": [
+            {
+              "doc_id": "b2407410e42222ef6a13015d8a99f628dc6e6270fa953b7e79047f7ad18d7aea",
+              "range": [
+                1176,
+                1594
+              ]
+            },
+            {
+              "doc_id": "bf5fa90715187f75f1f7c5868a14f1a979460b065fa6ac24f29860318a2d7b9a",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "Beratungserfolg, die Kontinuität von Beratungspro-\nzessen und die Verbindlichkeit von gemeinsamen Beratungsabsprachen sichern, wenn keine positive und von Vertrauen getragene Beratungsbeziehung existiert.“ (a.a.O.: 792) 45 3.2 Beziehung und Beziehungsarbeit\fWas aber gehört zu einer guten Beratungsbeziehung? Wie sollten Beratende sein und was müssen sie können, wenn sie eine tragfähige Beratungsbezie-\nhung für ihre Arbeit grundlegen wollen, um effektiv beraten zu können? Ist Beziehungsarbeit oder Beziehungsaufbau eine zu erlernende Technik oder Methode?\nWas ist eine (Beratungs-)Beziehung? sozialen Beziehung. In erster Instanz ist zu fragen, was mit dem Begriff der Beziehung gemeint ist und wie dieser konzeptionell verstanden wird. Wir alle kennen den Begriff in vielerlei Hinsicht in alltäglichen Zusammenhängen – dabei vor allem in Bezug auf das Konzept der Alfred Schütz erläutert mit Rückgriff auf Max Weber die soziale Beziehung als „ein seinem Sinngehalt nach aufein-\nander gegenseitig "
+      },
+      {
+        "rank": 4,
+        "id": "5a0987b0c9730b5d499546cfa16d56b4ba894608030e59188f3c5aadca3324b4",
+        "score": 0.8721646666526794,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 14,
+          "split_id": 27,
+          "split_idx_start": 31958,
+          "_split_overlap": [
+            {
+              "doc_id": "5c912a3d510803eaa57a4a0e10970b2a248a88f342abecbf6eaeceb32816ae43",
+              "range": [
+                1155,
+                1607
+              ]
+            },
+            {
+              "doc_id": "0934e06fe33a9db43568aece9836dcf9226ddbca674facc60be68064ea1400a0",
+              "range": [
+                0,
+                359
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsintervention in häuslicher Umgebung In Zusammenarbeit und in Begleitung und Schulung mit Frau Prof. ZWICKER-PELZER wurde für die Beratungsarbeit in den Familien mit demenzerkrankten Menschen ein systemisch-lösungsorientierter Beratungs-\nansatz umgesetzt, welcher der gesamtfamiliären Betrachtung der Demenz Rechnung trägt. Die Beratungsinterventionen beinhalteten das Anstoßen und Begleiten von Veränderungsprozessen in den Familien. Vielfach ging es auch darum, zu-\nnächst einmal das Bewusstsein für die Notwendigkeit von Veränderungen zu stärken. Dies stellte die Arbeit mit Beratungsauftrag und Zielvereinbarung teilweise vor eine große Herausforderung. Die Gesundheitsberaterinnen und –berater standen vor der Aufgabe, das Beratungsangebot an die Familien umzuwandeln in einen Beratungsauftrag und zudem über Zielvereinbarungen die hoch belasteten Familien aktiv in den Beratungsprozess einzubeziehen. Eine ebensolche Herausforderung war das Verständnis, dass eine lösungsori-\nentierte B"
+      },
+      {
+        "rank": 5,
+        "id": "ae769798cae340f4aee4789c68272be33876c0e4887162a2597323554e8d904c",
+        "score": 0.868293046951294,
+        "meta": {
+          "file_path": "1001586-103-122.txt",
+          "source_id": "703de242bbca21fb44a372f294b8d15e12e6513559c5c63aeb11c6ab02234406",
+          "page_number": 6,
+          "split_id": 12,
+          "split_idx_start": 13709,
+          "_split_overlap": [
+            {
+              "doc_id": "7284342db15734a28418c086f922e6a314da750e5cbef98ae0d323d882632733",
+              "range": [
+                1153,
+                1577
+              ]
+            },
+            {
+              "doc_id": "fdb0052ab8d28250df69fa487a810cc83a3a89285ce5baad24e811d1d4069eab",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "Karriereberatung, die wie-\nderum Anteile an der biographieorientierten Beratung aufweisen kann, die (je nach eingesetztem Instrument) z.B. in der Kompetenzberatung stärker im Vordergrund steht. informative Beratung Eine ist gegeben, wenn der fachlich-informative Beratungsanteil im Mittelpunkt steht. Der Berater bzw. die Beraterin verfügt über einen guten Überblick über vorhandene Angebote, rechtliche Rahmen-\nbedingungen oder auch Kenntnisse oder eigene Erfahrungen über Prozesse und Strategien, wie die Ratsuchenden vorgehen können, um ein für sie pas-\nsendes Angebot zu finden und sich auch zu erschließen (z.B. durch die Be-\nantragung von Fördermitteln). Eine rein informative Beratung findet in der Regel als Beratungsgespräch statt, in dem der Berater oder die Beraterin auf Informationsmaterialien zur Visualisierung zurückgreift. Der Einsatz von Be-\nsituative Beratung\nratungsmethoden ist hier eher selten. Eine macht sich an einem Ereignis in der Lebenssi-\ntuation der Ratsuchenden fest. I"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-009-015.txt",
+    "question": "Welche Rolle spielt Beratung im Kontext des Lebenslangen Lernens und wie wird sie von gesellschaftspolitischen Akteuren eingesetzt?",
+    "answer": "Beratung im Kontext des Lebenslangen Lernens spielt eine bedeutende Rolle, indem sie Individuen Unterstützungsgelegenheiten für lebenslaufrelevante Entscheidungen bietet. Sie kann als Steuerungsinstrument eingesetzt werden, aber auch als Gegenentwurf zu neoliberalen Entwicklungen. Beratung kann in Bildung, Beruf und Beschäftigung eigenständige professionelle Angebote sein oder Teilangebot von Weiterbildungseinrichtungen oder anderen öffentlich-rechtlichen Trägern. In Unternehmen kann Beratung durch die Methode des Transformativen Organisationalen Lernens unterstützt werden, das ein partizipatives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln ist.",
+    "expected": "Im paradigmatischen Kontext des Lebenslangen Lernens wird Beratung in modernen Gesellschaften bedeutsam. Gesellschaftspolitische Akteure setzen Beratung einerseits als Steuerungsinstrument ein, beispielsweise als verpflichtendes Element bei der Vergabe öffentlicher Fördergelder im Rahmen neoliberaler Entwicklungen. Andererseits gibt es Angebote, die diesen Tendenzen entgegenwirken, wie Beratungen im Kontext von Antifa-Arbeit oder Angebote für „Aussteiger“.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b991d1ea1adfb84dd9ac512a12df2373084cfb7d186c5f377966ea34337969e8",
+        "score": 0.9954469799995422,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4c694f4ab145a5ea4f805380e24434aba3156e9dc9bdf4da1b33375b7557485f",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "VII. Beratung in organisationalen Kontexten: Lernen – Steuerung – Methoden\f\fHenning Pätzold Beratung im Kontext organisationalen Lernens Ausgangslage und Relevanz Organisationsberatung ist in den vergangenen Jahren verstärkt und aus ver-\nschiedensten Perspektiven als Gegenstand pädagogischer Forschung und Praxis wahrgenommen worden. Als pädagogisches Handlungsfeld wird sie beispielsweise in dem Handbuch von Gieseke und Nittel (2016) thematisiert, ebenso in verschiedenen Tagungsbänden der Kommission Organisationspä-\ndagogik der DGfE (insbesondere Göhlich, Weber, Seitter und Feld 2010) und zunehmend auch in Studiengangsbeschreibungen (z. B. in pädagogischen Studiengängen der Universitäten Heidelberg, Hildesheim, Koblenz-Landau und anderen). Die Rolle von Lernberatung in Organisationen wird u. a. in dem genannten Band von Göhlich thematisiert, daneben auch in früheren Untersuchungen zu Lernberatung in beruflichen Kontexten (vgl. z. B. Klein und Reutter 2005), auch wenn hier der Bezug zur "
+      },
+      {
+        "rank": 2,
+        "id": "1bbce92f8a3aded4f1d85df94c70caba680dab6d391b74a220089855e8c21f73",
+        "score": 0.9893267154693604,
+        "meta": {
+          "file_path": "9783847412304-033-058.txt",
+          "source_id": "7004ecd49a9ce342c472d79ee1d6acfce61402fdbc965fef279e2244975485cc",
+          "page_number": 12,
+          "split_id": 20,
+          "split_idx_start": 25501,
+          "_split_overlap": [
+            {
+              "doc_id": "09e3ee3e4b310a8c2e7612b45c6bed54e742e05895852746df21fd6433fc3c1d",
+              "range": [
+                1302,
+                1701
+              ]
+            },
+            {
+              "doc_id": "24930d6b47cba53cd79165c1d38be2329e14e3b3c69768ca825a49fcea88e72e",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "so können sie ihre Lage als struktu-\fEine resonanztheoretische Betrachtung von Beratung 45 relles Problem erkennen, welches mit individuellen Lösungen nur begrenzt beherrschbar wird. Dadurch kann Beratung re(cid:192)exiv und erfüllend werden. Neben Beratung kann auch Bildung eine resonante Funktion einnehmen, die Frage einer „Resonanzachse Lebenslanges Lernen“ ließe sich in diesem Zu-\nsammenhang weiterführend entfalten. Literatur Arbeitsstab Forum Bildung (Hg.) (2001): Lernen – ein Leben lang. Vorläu(cid:191)ge Emp- fehlungen und Expertenbericht. Bonn. Beck, Ulrich (1986): Risikogesellschaft – auf dem Weg in eine andere Moderne. Frankfurt a. M.: Suhrkamp. Blossfeld, Hans-Peter et al. (2017): Bildung 2030 – veränderte Welt. Fragen an die Bildungspolitik. Gutachten. Vereinigung der Bayerischen Wirtschaft e. V. (Hg.). Münster: Waxmann. Bude, Heinz (2014): Gesellschaft der Angst. Hamburg: Hamburger Edition, HIS.\nBrumlik, Micha (2016): Resonanz oder: Das Ende der kritischen Theorie. Blätter"
+      },
+      {
+        "rank": 3,
+        "id": "18e30b0a08db403ae87b1516b04585327cbac14f83ad304909c56b9c057aa04b",
+        "score": 0.9835577607154846,
+        "meta": {
+          "file_path": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss.txt",
+          "source_id": "1e4391597958969a4e50c5a22d0ceadc96dc875d6b72fba065687d4d114c2c64",
+          "page_number": 22,
+          "split_id": 36,
+          "split_idx_start": 43777,
+          "_split_overlap": [
+            {
+              "doc_id": "3de3b0dd91e98f971b3617560e6f7ba48526b4853c53748dca8ecbf99fbb27f8",
+              "range": [
+                1100,
+                1485
+              ]
+            },
+            {
+              "doc_id": "c4e92710860947a4f8e05abfc3e4c6175743300cb27f6ce11093439ddedebcac",
+              "range": [
+                0,
+                469
+              ]
+            }
+          ]
+        },
+        "content": "Lerntagebuch, welches zudem als Datengrundlage für weitere Forschung von „Was willst DU lernen?!“ dienen könnte. Dadurch, dass die schriftliche Prüfung nicht benotet wird, entfällt auch weitgehend die Problematik der hier skizzierten Selbstbewer-\ntung und des Aushandlungsprozesses19. So können künftig mehr Zeit und Energie in die Planung, den individuellen (Lern-)Prozess, die Frage nach Lernbegleitung und vor allem in die eigene Beschäftigung mit der Frage „Was willst DU lernen?!“ fließen. 18 Diese mangelnde Nachhaltigkeit eines ggf. nur kurzfristig erfolgreichen Rollenwechsels und der Fokussierung auf Individualität des Lernens wird in weiteren Studien betrachtet werden müssen. Hier ist geplant mit Tiefeninterviews spezifischen Aspekten des Lernens und der Haltungsände-\nrung zu begegnen. 19 Gemeint ist hier der gefühlte Zwang ein gemeinsames Gruppenprodukt (Zeitschrift, Podcast) zu einem „individuellem“ Gruppenthema erstellen zu müssen, damit die anschließende Bewertung gerecht ist. d"
+      },
+      {
+        "rank": 4,
+        "id": "251713239be2f7a9acd8dbdc3ec516bd7195fa6f334693130fbd71916b549639",
+        "score": 0.9673900604248047,
+        "meta": {
+          "file_path": "9783847412304-009-015.txt",
+          "source_id": "b95e63990ac4390b5ab0f9e9a3c9565fdcf96e7029ed357ca8a1e742c793c7d5",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1209,
+          "_split_overlap": [
+            {
+              "doc_id": "27636cf9677937c5a16a9f17cb0d6a1fd736375c35cfbe319bde2bb72f6308c6",
+              "range": [
+                1209,
+                1669
+              ]
+            },
+            {
+              "doc_id": "d56b9048bbc0b518e0392d53e4c6029917af656c71e38c054ae5e6bd38bf25aa",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "nur die Einrichtung entsprechender Studiengänge zur Folge, sondern befördern insbesondere Fragen nach der Qualität von Beratung (vgl. Schiers-\nmann/Weber 2013), den Möglichkeiten und Bedingungen, Beratungskom-\npetenzen zu entwickeln (vgl. Weinhardt 2015; Weinhardt 2018) sowie den Wirkfaktoren im Kontext von Beratungsinteraktionen (vgl. Schiersmann/\nMaier-Gutheil/Weber 2016). Diese Entwicklungen stehen im paradigmatischen Kontext des Lebens-\nlangen Lernens wodurch Beratung in modernen Gesellschaften in unter-\nschiedlicher Weise bedeutsam wird. Seitens gesellschaftspolitischer Akteu-\nre wird Beratung einerseits als Steuerungsinstrument eingesetzt, etwa im Zusammenhang mit neoliberalen Entwicklungen (z.B. wenn Beratung ein verpflichtendes Element bei der Vergabe öffentlicher Fördergelder darstellt). Andererseits gibt es entsprechende (Beratungs-)Angebote, die diesen Ten-\ndenzen etwas entgegen zu setzen versuchen (z.B. Beratung im Kontext von Antifa-Arbeit bzw. Angebote für „Aussteiger“). "
+      },
+      {
+        "rank": 5,
+        "id": "a9a08e868e7c252fa0fde9930a925cd74c94b679771959c5385a0fec441a5d20",
+        "score": 0.9653672575950623,
+        "meta": {
+          "file_path": "9783847412304-265-314.txt",
+          "source_id": "e78f3de846481542ef1a36062cbffeb9bf156766c75aea63d7d240a21c5bc371",
+          "page_number": 19,
+          "split_id": 31,
+          "split_idx_start": 38318,
+          "_split_overlap": [
+            {
+              "doc_id": "eed5e41a97777d1634fa9bd09c41707df397734c2f367ab6bd81e3ec0ee6ff60",
+              "range": [
+                1304,
+                1720
+              ]
+            },
+            {
+              "doc_id": "831ee2003b65f94b9c4ad1f93229892bb663840f54f6505dfb726b6f9df9c7d7",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "Beratung in Unternehmen 283 Macht-Strukturen und Perspektivenwechsel sowie auftretende Barrieren eine Rolle (Macha/Brendler 2014: 333). 2.3 Das Beratungskonzept der Interventionsprojekte Dem Beratungskonzept der Projekte lag die Methode des „Transformativen Organisationalen Lernens“ zugrunde. Sie wurde für die Projekte aus Ergeb-\nnissen der Forschung weiterentwickelt (Macha et al. 2011, 2014, 2015; Mezirow 2012; Bateson 2013; Schilling/Kluge 2009). Die De(cid:191)nition des Transformati-\nven Organisationalen Lernens – TOL lautet: Transformatives Organisationa-\nles Lernen“ – TOL – im Unternehmen ist gekennzeichnet durch ein partizipa-\ntives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln, das Räume für Lernvorgänge der Stakeholder scha(cid:3445)t, anregt und unterstützt und dadurch neue Handlungsoptionen und -Freiräume erö(cid:3445)net (…). Beratung und Weiterbildung werden verzahnt (vgl. Macha et"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-009-015.txt",
+    "question": "Wie können Individuen von Beratung profitieren, insbesondere im Spannungsfeld von Chancen und Zumutungen?",
+    "answer": "Beratung kann Individuen von verschiedenen Seiten helfen. Im Spannungsfeld von Chancen und Zumutungen können Beratende unterstützend auftreten, indem sie eine anerkennende und wertschätzende Haltung einnehmen und Aufgaben zur Stärkung und Unterstützung der Handlungs- und Entscheidungsfähigkeit der Klient_innen übernehmen. Individuen können von der Beratung profitieren, indem sie ihre eigenen Grenzen kennen und anerkennen und entscheiden können, wann es notwendig ist, die Angelegenheiten an andere Stellen oder Berufsgruppen weiterzuleiten. Beratende sollten eine gute Balance zwischen Nähe und Distanz finden und ausdrücken können, um möglicherweise erscheinende Abhängigkeitsgefühle der Ratsuchenden erst gar nicht entstehen zu lassen. Zudem sollte es in Beratungsprozessen immer um Autonomieförderung gehen, was nicht nur auf die Themen, Inhalte und Lösungsfindungen bezogen ist, sondern auch auf die Beziehungsebene.",
+    "expected": "Für Individuen bietet Beratung die Möglichkeit, in einem von vielfältigen Anforderungen geprägten Leben, das zwischen Chancen und Zumutungen schwankt, Unterstützungsgelegenheiten für lebenslaufrelevante Entscheidungen zu finden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "052aca0f83004c78d2a24ca1a449b6c66c88e90922bf449b556fe2903607baf3",
+        "score": 0.9895714521408081,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 26,
+          "split_id": 45,
+          "split_idx_start": 54155,
+          "_split_overlap": [
+            {
+              "doc_id": "61a7bd8fa84d0bb8b45a5e745ee4e5f54ccd109ee25c33a81e923b2797663832",
+              "range": [
+                1221,
+                1647
+              ]
+            },
+            {
+              "doc_id": "f2c7460aa31e1ed474b89addfd6f1db60b2897335fb3dd5c35f5274f3fc8afb5",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "und Spannungsfelder können in weiteren Studien überprüft und erweitert werden. Dabei wäre es auch interessant herauszuarbeiten, wie un-\nterschiedliche organisationale Rahmungen, z. B. Beratung in Sanktionskon-\ntexten (Böhringer u. a. 2012; Wol(cid:3445) 2014) oder in privat-ö(cid:3445)entlich (cid:191)nanzierten Kontexten in Transfergesellschaften (Muche u. a. i. E.) Spannungsfelder für einen professionellen Umgang in der Beratung entstehen lassen. In Bezug auf Professionalisierungstendenzen wird in sozialwissenschaft-\nlichen Zusammenhängen die Debatte um „Organisation und Profession“ seit langem geführt (Klatetzki/Tacke 2012; Klatetzki/Nokielski 2010). Argumen-\ntiert wird, dass professionelles Handeln durch organisationale Rahmungen und Strukturierungen eingeschränkt oder gar verunmöglicht werde. Auch Beratung weist stets sowohl professionsförmige als auch organisationsförmi-\nge Elemente auf (Brüsemeister 2004). In den Beratungsgesprächen des un-\ntersuchten Coaching-Unternehmens zeigt"
+      },
+      {
+        "rank": 2,
+        "id": "6e3e80a42fba30770ab77847879b2d47e6246e3460795bc0722f853cbd3091d2",
+        "score": 0.9085368514060974,
+        "meta": {
+          "file_path": "9783839444856-044-093.txt",
+          "source_id": "bf75b87727c829557cb2be5c2dc25177fd0db7fd9f72558a9fc4bfa6d0c723ea",
+          "page_number": 45,
+          "split_id": 79,
+          "split_idx_start": 103365,
+          "_split_overlap": [
+            {
+              "doc_id": "8df867bdfdaf146fb70dc8d8f2d61a0cae7a7b38962dd391bf74f94aaeb9d02a",
+              "range": [
+                1276,
+                1737
+              ]
+            },
+            {
+              "doc_id": "aeb6511b4c846d685642c3ad1101f4187c2f628d97a9237752942d1224b2ce22",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "einem »Spannungsfeld von divergierenden Anforderungen, Erwartungen und Interessenslagen«. Professionelles Bera-\ntungshandeln stellt innerhalb dieser Widersprüche kein »regelgebundenes Handeln« (ebd., S. 11) dar, sondern zeigt sich stattdessen im bewussten Um-\ngang und in der Auseinandersetzung mit diesen unterschiedlichen Anforde-\nrungen und Erwartungen. Es sind jedoch nicht nur die unterschiedlichen Anforderungen und Er-\nwartungen, die zu Spannungsfeldern in der Beratung führen. Professionel-\nles Beratungshandeln umfasst unauf hebbare Paradoxien und Widersprüche, die bereits in dem Verständnis von Professionalität implizit enthalten sind. Dazu gehört beispielsweise der unauf lösliche Widerspruch einer Konstitu-\ntion von Beratung als »Hilfe zur Selbsthilfe« sowie die Diskrepanz zwischen alltäglichem und professionellem Wissen. Gröning (vgl. 2011, S. 90) beschreibt das ethische Dilemma der Beratung in Bezug auf die personenzentrierte Ge-\nsprächsführung nach Carl Rogers, die eine offene "
+      },
+      {
+        "rank": 3,
+        "id": "8e0a1fa50125cc8f6d0d2eaf7c87257c53d39638232513180272dd0554c220fe",
+        "score": 0.900645911693573,
+        "meta": {
+          "file_path": "9783866496811-148-191.txt",
+          "source_id": "dcadb0fd7788289545c1742e25a596be9a0c6b647d9756b4a76abaeb2333cc38",
+          "page_number": 21,
+          "split_id": 44,
+          "split_idx_start": 52323,
+          "_split_overlap": [
+            {
+              "doc_id": "2faf123ddd72e08e48990fa901841714d6335908d82428a39668e33b92d78d23",
+              "range": [
+                1278,
+                1659
+              ]
+            },
+            {
+              "doc_id": "7fedb1808bcad5d439f3d806e2ad1a1037ec38de8b596096f196e8b524f4cf52",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "von Weidner, sondern wurde als Bestandteil professioneller Beratung im Pro-\njektverlauf hinzugefügt. 167\fhier nicht nur für die zu Beratenden, sondern auch für die Beratenden ein elementarer Bestandteil im Beratungsprozess, um die Komplexität der Situa-\ntion und des Prozesses zu reduzieren. Die Beratenden müssen ihre eigenen Grenzen kennen und anerkennen und entscheiden können, wann es notwen-\ndig ist, die Familien an andere Stellen oder Berufsgruppen weiterzuleiten. Es ist damit auch Aufgabe der Beratenden, ein Zusammenwirken mit anderen Berufsgruppen und eine Vernetzung der Angebote im Sinne der Angehörigen und der Pflegebedürftigen zu initiieren. Gestaltung der Beratungsprozesse Das Beratungsgeschehen im Projekt folgte einem prozessualen Verlauf und hatte seine „innere Ordnung“. Im aufsuchenden Beratungshandeln ist es umso wichtiger, einer inneren Ordnung zu folgen, zumal das „Außenfeld“, der häusliche Rahmen, wenig gestaltbar ist. Raum und Zeit der professionel-\nlen Hilfe machen es"
+      },
+      {
+        "rank": 4,
+        "id": "57e108427b61cf7cdd23dcf2c4959a542751144257879f1ba7098062471fd874",
+        "score": 0.8712090253829956,
+        "meta": {
+          "file_path": "1001586-039-074.txt",
+          "source_id": "f93a356287fbee599a6282971f7556b0781cb19f067f935a25a58e8a75d62d81",
+          "page_number": 16,
+          "split_id": 38,
+          "split_idx_start": 43503,
+          "_split_overlap": [
+            {
+              "doc_id": "2e4aedd8140e23fa365ac27dbf42e746dfe246186be802979258257bef5eccee",
+              "range": [
+                1112,
+                1485
+              ]
+            },
+            {
+              "doc_id": "1f79d921120f65405fcfa7be8014858c1972816e5898e7254d82302f023292a3",
+              "range": [
+                0,
+                354
+              ]
+            }
+          ]
+        },
+        "content": "auch auf der sozialen und personalen Ebene integer und damit vertrauenserweckend wahrgenommen werden kann. Zu einer guten Beziehungsarbeit innerhalb der Beratung gehört auch, dass das Ende beziehungsweise der Prozess des Auflösens der Beziehung mitgedacht und ebenso professionell von den Beratenden gestaltet wird wie der Beziehungsaufbau. Insbesondere dann, wenn es sich um einen länger andauernden Beratungsprozess handelt, kann es vorkommen, dass Ratsu-\nchende Schwierigkeiten haben, sich aus der Beratung und von der Person des Beraters bzw. der Beraterin zu lösen. Sie können das Gefühl entwickeln, diese unterstützende Beziehung (noch) nicht aufgeben zu wollen. Beratende soll-\nten durch eine gute Balance zwischen Nähe und Distanz, das heißt, ein ausge-\nwogenes und individuell anzupassendes Verhältnis zwischen der personalen und funktionalen Ebene der Arbeitsbeziehung finden und auch ausdrücken können, um möglicherweise erscheinende Abhängigkeitsgefühle der Ratsu-\nchenden erst gar nicht "
+      },
+      {
+        "rank": 5,
+        "id": "bd1341e8912a442c03ab297735fa9889fb211aedd08d3c3bf6d1d681f3d354b8",
+        "score": 0.8458095192909241,
+        "meta": {
+          "file_path": "9783839444856-112-221.txt",
+          "source_id": "726586a234df23d086c834a96ae0593a72252e939de7473e7450e4d79410e6ec",
+          "page_number": 75,
+          "split_id": 145,
+          "split_idx_start": 173122,
+          "_split_overlap": [
+            {
+              "doc_id": "4d251ac661d58bbd2ea79ceed71a83807689501a88f7f1926e07c21c13323c0d",
+              "range": [
+                1343,
+                1784
+              ]
+            },
+            {
+              "doc_id": "8845613410b40e369868ca957d816626921c35d53a239f90c3db8c42c5d9f424",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "und Einschränkungen werden Spannungsfelder in der Beratungs-\ntätigkeit sichtbar. Diese Spannungsfelder werden auf allen drei Ebenen für die beschriebenen Aufgabenfelder deutlich (vgl. Abb. 15). Auf der Ebene des Beratungsgesprächs übernehmen die Berater_innen durch eine anerkennende und wertschätzende Beratungshaltung Aufgaben zur Stärkung und Unterstützung der Handlungs- und Entscheidungsfähig-\nkeit der Klient_innen. Als einschränkende Rahmenbedingungen werden hier aufgrund der hohen Beratungsnachfrage knappe Personal- und Zeit-\nressourcen sowie Planungsunsicherheit durch befristete Projektfinanzie-\nrungen genannt. Über die institutionelle Ebene hinaus erschweren zudem die fehlende soziale Wertschätzung auf der gesellschaftlichen Ebene und die restriktiven rechtlichen Rahmenbedingungen einen ressourcenorientierten Zugang zur Beratung. Das Aufgabenfeld auf rechtlicher Ebene umfasst die Unterstützung und Begleitung bei dem Prozess der formalen Anerkennung. Diesen Aufgaben steht ein sehr"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304-009-015.txt",
+    "question": "Welche Entwicklungen und Fragestellungen haben die Einrichtung von Studiengängen im Bereich Beratung beeinflusst?",
+    "answer": "Die Einrichtung von Studiengängen im Bereich Beratung wurde von Entwicklungen und Fragestellungen beeinflusst, wie z.B. der Bedarf an qualifizierten Beratern, die zunehmende Komplexität von Beratungsaufgaben, die Notwendigkeit der Berücksichtigung von Anrechnungsmöglichkeiten, der Schwerpunkt auf gezielte Beratung und die Bedeutung von Beratungswissen. Außerdem wurde die Rolle von Studiengangkoordinierenden als Akteure mit zentraler Schnittstellenfunktion innerhalb eines weiterbildenden Studienprogramms betont.",
+    "expected": "Versuche, die Wissenschaft der Beratung weiterzuentwickeln, haben zur Einrichtung entsprechender Studiengänge geführt. Diese Entwicklungen fördern insbesondere Fragen nach der Qualität von Beratung, den Möglichkeiten und Bedingungen der Entwicklung von Beratungskompetenzen sowie den Wirkfaktoren in Beratungsinteraktionen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2936747109f899326d42d4fdc728cd574e3cf81bc350ad5945ba92b58397dfc3",
+        "score": 0.9725236892700195,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 44,
+          "split_id": 82,
+          "split_idx_start": 102422,
+          "_split_overlap": [
+            {
+              "doc_id": "9ec05dfbe75b29cf42d9982824d63993d76be8adf84cae68b61834291603732a",
+              "range": [
+                1155,
+                1548
+              ]
+            },
+            {
+              "doc_id": "5b607bb452bc06b814d9a559d0290efa6a97c3096600620dba84ce90e2f6732a",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "von der sogenannten Loyalität ab, die laut Hirschman (1974) einer Institution entgegengebracht wird (z. B. Fachbindung). 4. Fragestellung Auf Grundlage dieser theoretischen Zugänge zu Ursachen von Schwierigkei-\nten und Handlungsmöglichkeiten der Studierenden sind zwei Fragen zentral für die Etablierung eines Frühwarnsystems: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um? Im Folgenden geht es um die an der TU Dresden beschrittenen methodischen Wege, diese Fragen zu beantworten. 5. Methode 5.1 Kontext: Das Frühwarnsystem an der TU Dresden Das Frühwarnsystem „Partnerschaft · Studienerfolg · TU Dresden“ (kurz: PASST?!)2 ist Teil des Studienerfolgskonzepts der TU Dresden und wird ko-\noperativ von der Zentralen Studienberatung und dem Zentrum für Qualitäts-\nanalyse koordiniert. Aus seinen drei zentralen Aufgabenbereichen (Abbildung 1) resultieren die unterschiedlichen Zugänge zu den für das Frühwarnsystem grundlegenden I"
+      },
+      {
+        "rank": 2,
+        "id": "529cdcfc25cdcd8ef397c3bd565a884fef9d3f51634ab0754baa38fd130d9ff0",
+        "score": 0.9550402164459229,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 9,
+          "split_id": 9,
+          "split_idx_start": 13111,
+          "_split_overlap": [
+            {
+              "doc_id": "d05001cd671214b13e8fc3e0e457c294f919642333b84fd893bdfd64fcd07a0d",
+              "range": [
+                1430,
+                1886
+              ]
+            },
+            {
+              "doc_id": "8e7645179cc6f771a8690c2e5e077348eca52061cce61136f5add61ce9842b62",
+              "range": [
+                0,
+                449
+              ]
+            }
+          ]
+        },
+        "content": "der Anrechnung8. Diese Bedarfe lassen sich entsprechend der Häu(cid:191)gkeit ihrer Nennung gewichten. Insbesondere Beratungsanliegen bezüglich der Zu-\nlassung wurden in den Interviews mehrfach thematisiert. Für die Studien-\ninteressierten ist es von besonderer Bedeutung, ob ihre bereits erworbenen Quali(cid:191)kationen für die Zulassung zum entsprechenden weiterbildenden Stu-\ndienprogramm ausreichen, als eine zentrale Frage von Studieninteressierten formuliert eine Studiengangkoordinierende: „Also bringe ich die notwendigen Voraussetzungen mit, um da teilnehmen zu können?“ (Studiengangkoordinie-\nrende 1, Abs. 13). Als ebenso wichtig werden studienorganisatorische Aspekte wie „Zeitpläne und Fehlzeiten“ (Studiengangkoordinierende 7, Abs. 4), aber 8 Fragen der Anrechnung außerhochschulisch erworbener Kompetenzen wurden von den Befragten so eng an die Frage der Zulassung gekoppelt, dass sie nicht eindeutig dem Bera-\ntungsfeld der Anrechnung zugeordnet werden konnten. Für die hier verwend"
+      },
+      {
+        "rank": 3,
+        "id": "8e7645179cc6f771a8690c2e5e077348eca52061cce61136f5add61ce9842b62",
+        "score": 0.9537681937217712,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 10,
+          "split_id": 10,
+          "split_idx_start": 14404,
+          "_split_overlap": [
+            {
+              "doc_id": "529cdcfc25cdcd8ef397c3bd565a884fef9d3f51634ab0754baa38fd130d9ff0",
+              "range": [
+                1293,
+                1742
+              ]
+            },
+            {
+              "doc_id": "5d18391ce182562ce1f6b761a0bcac9dcf08c005552823f2d0218c69c713f550",
+              "range": [
+                0,
+                532
+              ]
+            }
+          ]
+        },
+        "content": "in der Beratung ebenfalls eine große Rolle.\nEinen weiteren hohen Beratungsbedarf stellt die Finanzierung des weiter-\nbildenden Studienprogramms dar. Hier spielen sowohl die hohen Kosten als auch generelle Fragen zur Finanzierung, Kostenübernahme, Stipendien und steuerlicher Absetzbarkeit eine besondere Rolle; grundsätzlich also „Fragen rund um Weiterbildungs(cid:191)nanzierung“ (Studiengangkoordinierende 1, Abs. 13). Weniger häu(cid:191)g wurde von den Studiengangkoordinierenden benannt, dass diese die Studieninteressierten auf deren Passung hin beraten. Lediglich zwei Koordinierende gaben an, dass sie daraufhin beraten, „ob der Kurs für sie [die Studieninteressierten] in Frage kommen würde“ (Studiengangkoor-\ndinierende 9, Abs. 33). Auf Programmebene wird ebenfalls seltener zur Be-\nwerbung allgemein beraten, wobei es sich bei den von den Studiengangkoor-\ndinierenden dargestellten Anliegen eher um Informationsweitergabe als um Beratung handelt. Abbildung 3 zeigt die von nicht-traditione"
+      },
+      {
+        "rank": 4,
+        "id": "ab23c67e9c9c81c654676f37cc18ae884864606b46351d7cc86682050b827dae",
+        "score": 0.9448891878128052,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 23,
+          "split_id": 35,
+          "split_idx_start": 47464,
+          "_split_overlap": [
+            {
+              "doc_id": "9b7ed0f87616eb00518cb8b0ae8b3621e29e576c4c909b9dc82d66cbace0234d",
+              "range": [
+                1272,
+                1616
+              ]
+            },
+            {
+              "doc_id": "5060d04460336c39ae79c402a99893a07770d762fd1671ba2f391f35d48ee168",
+              "range": [
+                0,
+                476
+              ]
+            }
+          ]
+        },
+        "content": "Wege und Möglichkeiten der Umsetzung aufzuzeigen. Ein Studiengangskoordinator sagt: „unsere Studenten sind ja älter und es sind auch zum Teil Prominente [die, C. D.] genau wissen in der Regel was sie möchten und dann auch ihre Fragen haben“. Anrechnungsmöglichkeiten werden als Anreize für Student_innen themati-\nsiert. Immer wieder geht es um die hohen Kosten der Weiterbildungsangebo-\nte, die durch Anrechnung etwas reduziert und die intensiven beruflichen An-\nforderungen, die durch Anrechnung mit dem Ziel der Studienzeitreduzierung kompensiert werden können. Problematisiert werden rechtliche Zugangsmög-\nlichkeiten von Bachelor-Absolvent_innen mit wenigen Jahren Berufserfah-\nrung. Vordergründig wird die Exklusivität des Angebots als Selbstverständ-\nlichkeit präsentiert und im Hintergrund alles so organisiert, dass die Grenzen trotz neuer Anforderungen geschärft bleiben. Anrechnungsberatung erö(cid:3445)net hier also nicht Zugänge, sondern bietet einer exklusiven Zielgruppe Anrech-\nnungsm"
+      },
+      {
+        "rank": 5,
+        "id": "042b08a996ea0ad4322c35fb9dd1ad8b098ce528fc6e0e653c7c47ba4d65808c",
+        "score": 0.9348295331001282,
+        "meta": {
+          "file_path": "9783847412304-087-128.txt",
+          "source_id": "9405feca7a8e6bd3a70fa783daaed0442b18530116168b37bb7a6bc827e0a487",
+          "page_number": 12,
+          "split_id": 14,
+          "split_idx_start": 19652,
+          "_split_overlap": [
+            {
+              "doc_id": "d2488600a517df59e99c6ba2f4228eef382ff00d891f6b6e14080a1066f29464",
+              "range": [
+                1284,
+                1765
+              ]
+            },
+            {
+              "doc_id": "73f7ac96cc4e4cacf504a00bb34cbed425295795eff3268fa8be150ce05fd16a",
+              "range": [
+                0,
+                492
+              ]
+            }
+          ]
+        },
+        "content": "und die Be ra-\ntungs instrumente auf Programmebene. Beratungsstrukturen\nCharakteristisch für die Rolle von Studiengangkoordinierenden als Akteurin-\nnen und Akteure mit zentraler Schnittstellenfunktion innerhalb eines weiter-\nbildenden Studienprogramms ist, dass sie neben der Beratung von nicht-tra-\nditionell Studieninteressierten eine Vielzahl weiterer Aufgaben wahrnehmen. Darüber hinaus ist zu berücksichtigen, dass die Beratung von Studieninteres-\nsierten zeitlich verdichtet vor Beginn des weiterbildenden Studienprogramms ansteht. Um diese besonders beratungsintensiven Phasen optimal zu gestalten, be-\ndarf es zum einen entsprechender Zeitbudgets für die Beratung der nicht-tra-\nditionell Studieninteressierten und zum anderen der Scha(cid:3445)ung möglichst e(cid:3446)-\nzienter Beratungsstrukturen, um der bedeutsamen Aufgabe der Beratung auf Programmebene hinreichend gerecht werden zu können. Unter Rückbindung auf die hochschulischen Beratungsstrukturen (2.2) ist für die Beratung auf Pr"
+      }
+    ]
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "filename": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+    "question": "Wer sind die Autor:innen der Handreichung \"Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA)\" am Standort Hamburg?",
+    "answer": "Die Autor:innen der Handreichung \"Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA)\" am Standort Hamburg sind Dr. Alina Redmer, Dietmar Kleb und Dirk Raguse.",
+    "expected": "Die Autor:innen sind Dr. Alina Redmer, Dietmar Kleb und Dirk Raguse.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d7f65e222e251fdfb6ea7d422328d554ab95c4391dad52df08356a1e98ef7b80",
+        "score": 0.9972499012947083,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de5d885b49a043b889c48255cc71a5a6d3a0662b01fed385eda964e38d1fc1b4",
+              "range": [
+                0,
+                496
+              ]
+            }
+          ]
+        },
+        "content": "Redmer, Alina; Kleb, Dietmar; Raguse, Dirk; InnoVET-Projekt tQM\nHandreichung Coaching-Gespräche im Bildungsweg-Coaching der\nstudienintegrierenden Ausbildung (siA). Standort Hamburg Hamburg 2024, 31 S. Quellenangabe/ Reference:\nRedmer, Alina; Kleb, Dietmar; Raguse, Dirk; InnoVET-Projekt tQM: Handreichung Coaching-Gespräche\nim Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA). Standort Hamburg. Hamburg\n2024, 31 S. - URN: urn:nbn:de:0111-pedocs-321609 - DOI: 10.25656/01:32160 https://nbn-resolving.org/urn:nbn:de:0111-pedocs-321609\nhttps://doi.org/10.25656/01:32160 Nutzungsbedingungen Terms of use steht unter folgender Creative Commons-Lizenz:\nDieses Dokument\nhttp://creativecommons.org/licenses/by/4.0/deed.de - Sie dürfen das Werk\nbzw. den Inhalt vervielfältigen, verbreiten und öffentlich zugänglich machen\nsowie Abwandlungen und Bearbeitungen des Werkes bzw. Inhaltes\nanfertigen, solange Sie den Namen des Autors/Rechteinhabers in der von ihm\nfestgelegten Weise nennen.\nMit Verw"
+      },
+      {
+        "rank": 2,
+        "id": "de5d885b49a043b889c48255cc71a5a6d3a0662b01fed385eda964e38d1fc1b4",
+        "score": 0.9949215054512024,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1472,
+          "_split_overlap": [
+            {
+              "doc_id": "d7f65e222e251fdfb6ea7d422328d554ab95c4391dad52df08356a1e98ef7b80",
+              "range": [
+                1472,
+                1968
+              ]
+            },
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                0,
+                558
+              ]
+            }
+          ]
+        },
+        "content": "conditions of\nuse. Kontakt / Contact: peDOCS\nDIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation\nInformationszentrum (IZ) Bildung\nE-Mail: pedocs@dipf.de\nInternet: www.pedocs.de\fNr. 2 / September 2024 Handreichung Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA) Standort Hamburg Autor:innen Dr. Alina Redmer, Dietmar Kleb, Dirk Raguse Ein Verbundprojekt von\fNr. 2 / September 2024 Handreichung Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA) Standort Hamburg Autor:innen Dr. Alina Redmer, Dietmar Kleb, Dirk Raguse 2\f3 Danksagung Die studienintegrierende Ausbildung (siA) am Standort Hamburg lebt vom Zusammenwirken der Lernorte und Partner:innen. Wir danken allen Beitragenden für ihre engagierte Mitarbeit an der Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching und ihre wertvollen Beiträge für die siA Hamburg. Insbesondere danken wir den Bildungsweg-Coach:innen an den beteiligten Lernor"
+      },
+      {
+        "rank": 3,
+        "id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+        "score": 0.9818549156188965,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 4,
+          "split_idx_start": 6172,
+          "_split_overlap": [
+            {
+              "doc_id": "091e31f308dd25ad4054c8e1b2f12655313ccd344ecf5f65d0b97e585b91a7ec",
+              "range": [
+                1265,
+                1673
+              ]
+            },
+            {
+              "doc_id": "35125b4c3446fd7946c310824ad4a9ba01ab173cf413727883890b4b32a7ab92",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Orientierung in der Handreichung Coaching-Gespräche Um die Nutzung der Handreichungen möglichst niedrigschwellig zu gestalten, ist die Gliederung aller drei Handreichungen zum Bildungsweg–Coaching ähnlich strukturiert. Auch die Einleitung ist identisch, denn hier erfolgt eine allgemeine Einführung in die siA und in das Bildungsweg–Coaching als Grundlage für das Verständnis der nachfolgenden Ausführungen. Im Kapitel 2 werden dem Bildungsweg-Coaching zu Grunde liegende Implikationen beschrieben auf Seiten der Bildungsweg-Coach:innen und auf Seiten der Lernenden. Man erfährt, mit welcher Haltung die Coach:innen die Gespräche führen und welcher Coaching-Ansatz dem zu Grunde liegt. Auch die Situation der Lernenden in der Startphase der siA wird in diesem Kapitel in den Blick genommen und aufgezeigt, wie sich diese in den Coaching-Themen widerspiegelt. Darauf folgen im Kapitel 3 Hinweise zur Durchführung und zum Ablauf der Coaching- Gespräche auf organisatorischer und inhaltlicher Ebene. Es "
+      },
+      {
+        "rank": 4,
+        "id": "091e31f308dd25ad4054c8e1b2f12655313ccd344ecf5f65d0b97e585b91a7ec",
+        "score": 0.9815300107002258,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 3,
+          "split_idx_start": 4907,
+          "_split_overlap": [
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                2218,
+                2604
+              ]
+            },
+            {
+              "doc_id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "eine Art Anleitung für das Bildungsweg-Coaching verstehen. Für andere beratend Tätige an Schule und Hochschule gilt dies ebenso. Für sie ist die Handreichung zur Einordnung dieses neuen Beratungselements in das bestehende Beratungskonzept hilfreich. Einen Mehrwert für alle Lehrenden schaffen die Handreichungen, indem sie kompakte Informationen zu den Phasen des Bildungsweg-Coachings (BC) liefern, die die Lernenden in der studienintegrierenden Ausbildung (siA) durchlaufen. Alle drei Komponenten des Bildungsweg-Coachings – Einführungsveranstaltung , Coaching-Gespräche und Reflexionsimpulse - werden praxisnah beschrieben, indem ausgewählte Methoden und Durchführungsbeispiele aus den beteiligten Schulen gezeigt werden. Somit können die Handreichungen als Onboarding-\nInstrument genutzt werden. Die angehenden Bildungsweg-Coach:innen bekommen einen fundierten Einblick und gleichzeitig hilfreiche Materialien an die Hand, um selbst in das Bildungsweg-Coaching einzusteigen. Für bereits tätige Bi"
+      },
+      {
+        "rank": 5,
+        "id": "574d8876a1a636520687eb03fef9ff87971a2f2e5429367b827248d59f421ce3",
+        "score": 0.9730821847915649,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 17,
+          "split_id": 32,
+          "split_idx_start": 39578,
+          "_split_overlap": [
+            {
+              "doc_id": "13a58373caf6d9faf8809bede51fae60aa3fad2cc22127a815dc567c30447d4e",
+              "range": [
+                1140,
+                1527
+              ]
+            },
+            {
+              "doc_id": "b1d77bc98f611fe16c33ac624ad3eea2156e05f24c341cb25a5aa6bf49dbe121",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "auf die Gesamtstruktur der Coaching-Gespräche zeigt sich die Rol-\nlenverteilung, dass sich der*die Coach für die methodische Ausgestaltung der 2 An den Analysesitzungen waren neben den Autor*innen des Beitrags Ute Karl und Inga Truschkat die studentischen Mitarbeiterinnen Claudine Bastian und Mieke Mierzowsky beteiligt.\nIm Text werden primär die Funktionsbezeichnungen „Coach“ für die beratende Person und „Coachee“ für die zu beratende Person verwendet. 3\f252 Christian Schröder / Claudia Muche Gespräche verantwortlich zeigt, während der*die Coachee die inhaltlichen Themen setzt (siehe Tabelle 1). Deutlich wird jedoch auch, dass die metho-\ndische Rahmung durch die Coachs insgesamt o(cid:3445)en gestaltet ist und auch die thematischen Vorstellungen der Coachees stark variieren. So möchte in Ge-\nspräch 1 Herr G ein berufliches Coaching in Anspruch nehmen, um Re(cid:192)exi-\non und Unterstützung für seine neue berufliche Funktion zu bekommen. Er ist vor etwa einem halben Jahr zu Träger X ge"
+      }
+    ]
+  },
+  {
+    "filename": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+    "question": "Welche Rolle spielen die Bildungsweg-Coach:innen an den Lernorten für die studienintegrierende Ausbildung (siA) am Standort Hamburg?",
+    "answer": "Die Bildungsweg-Coach:innen an den Lernorten spielen eine entscheidende Rolle für die studienintegrierende Ausbildung (siA) am Standort Hamburg. Sie bieten den Lernenden in der monatigen Grundphase der siA eine individuelle Unterstützung an, um Erfahrungen aus Ausbildung und Studium zu reflektieren. Das Coaching zielt darauf ab, die Reflexionskompetenz zur Gestaltung des Bildungsweges zu fördern, indem die Lernenden sich über Stärken und Ressourcen sowie die spezifischen Anforderungen und Herausforderungen ihres Bildungsweges bewusst werden. Die Bildungsweg-Coach:innen arbeiten lernortübergreifend und bieten somit eine wichtige Unterstützung für die Lernenden, um ihre Ziele zu erreichen.",
+    "expected": "Die Bildungsweg-Coach:innen an den beteiligten Lernorten tragen durch ihr engagiertes Mitwirken an der Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching wesentlich zum Gelingen der siA am Standort Hamburg bei.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "de5d885b49a043b889c48255cc71a5a6d3a0662b01fed385eda964e38d1fc1b4",
+        "score": 0.9713437557220459,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1472,
+          "_split_overlap": [
+            {
+              "doc_id": "d7f65e222e251fdfb6ea7d422328d554ab95c4391dad52df08356a1e98ef7b80",
+              "range": [
+                1472,
+                1968
+              ]
+            },
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                0,
+                558
+              ]
+            }
+          ]
+        },
+        "content": "conditions of\nuse. Kontakt / Contact: peDOCS\nDIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation\nInformationszentrum (IZ) Bildung\nE-Mail: pedocs@dipf.de\nInternet: www.pedocs.de\fNr. 2 / September 2024 Handreichung Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA) Standort Hamburg Autor:innen Dr. Alina Redmer, Dietmar Kleb, Dirk Raguse Ein Verbundprojekt von\fNr. 2 / September 2024 Handreichung Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA) Standort Hamburg Autor:innen Dr. Alina Redmer, Dietmar Kleb, Dirk Raguse 2\f3 Danksagung Die studienintegrierende Ausbildung (siA) am Standort Hamburg lebt vom Zusammenwirken der Lernorte und Partner:innen. Wir danken allen Beitragenden für ihre engagierte Mitarbeit an der Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching und ihre wertvollen Beiträge für die siA Hamburg. Insbesondere danken wir den Bildungsweg-Coach:innen an den beteiligten Lernor"
+      },
+      {
+        "rank": 2,
+        "id": "091e31f308dd25ad4054c8e1b2f12655313ccd344ecf5f65d0b97e585b91a7ec",
+        "score": 0.9675142765045166,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 3,
+          "split_idx_start": 4907,
+          "_split_overlap": [
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                2218,
+                2604
+              ]
+            },
+            {
+              "doc_id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "eine Art Anleitung für das Bildungsweg-Coaching verstehen. Für andere beratend Tätige an Schule und Hochschule gilt dies ebenso. Für sie ist die Handreichung zur Einordnung dieses neuen Beratungselements in das bestehende Beratungskonzept hilfreich. Einen Mehrwert für alle Lehrenden schaffen die Handreichungen, indem sie kompakte Informationen zu den Phasen des Bildungsweg-Coachings (BC) liefern, die die Lernenden in der studienintegrierenden Ausbildung (siA) durchlaufen. Alle drei Komponenten des Bildungsweg-Coachings – Einführungsveranstaltung , Coaching-Gespräche und Reflexionsimpulse - werden praxisnah beschrieben, indem ausgewählte Methoden und Durchführungsbeispiele aus den beteiligten Schulen gezeigt werden. Somit können die Handreichungen als Onboarding-\nInstrument genutzt werden. Die angehenden Bildungsweg-Coach:innen bekommen einen fundierten Einblick und gleichzeitig hilfreiche Materialien an die Hand, um selbst in das Bildungsweg-Coaching einzusteigen. Für bereits tätige Bi"
+      },
+      {
+        "rank": 3,
+        "id": "35125b4c3446fd7946c310824ad4a9ba01ab173cf413727883890b4b32a7ab92",
+        "score": 0.9523323178291321,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 5,
+          "split_idx_start": 7304,
+          "_split_overlap": [
+            {
+              "doc_id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+              "range": [
+                1132,
+                1532
+              ]
+            },
+            {
+              "doc_id": "19a9fe7a4404169a77a8e085f93d4825f74b0334bf9d111b0d9fe7e6032292ed",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Bildungsweg-Coachings befinden sich im Kapitel 4. Es startet mit einer Methode, die hilfreich ist, um niedrigschwellig mit dem/r Coachee ins Gespräch zu kommen. Dann folgt eine Sammlung von vielen ihren Einsatzmöglichkeiten. Zudem werden unterschiedlichen Fragen und zur exemplarische Methoden Entscheidungsfindung und zum Selbstmanagement vorgestellt. Empowerments, Stärkung des zur 5\f1. Einleitung Das Bildungsweg-Coaching (BC) in der siA Mit der studienintegrierenden Ausbildung (siA) wird in Hamburg ein neuer Typ tertiärer Bildung entwickelt, erprobt und etabliert. Übergeordnetes Ziel dieses Vorhabens ist es, die traditionell getrennten Bildungswege beruflicher und akademischer Bildung zu verzahnen. Damit erhalten Lernende ein neues Berufsbildungsangebot, dass ihnen die Möglichkeit bietet, innerhalb von vier Jahren sowohl eine duale Berufsausbildung abzuschließen als auch einen Bachelorabschluss zu erlangen. Ein Kernelement der siA bildet das Bildungsweg– Coaching als spezifisches Unter"
+      },
+      {
+        "rank": 4,
+        "id": "d7f65e222e251fdfb6ea7d422328d554ab95c4391dad52df08356a1e98ef7b80",
+        "score": 0.9462339282035828,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de5d885b49a043b889c48255cc71a5a6d3a0662b01fed385eda964e38d1fc1b4",
+              "range": [
+                0,
+                496
+              ]
+            }
+          ]
+        },
+        "content": "Redmer, Alina; Kleb, Dietmar; Raguse, Dirk; InnoVET-Projekt tQM\nHandreichung Coaching-Gespräche im Bildungsweg-Coaching der\nstudienintegrierenden Ausbildung (siA). Standort Hamburg Hamburg 2024, 31 S. Quellenangabe/ Reference:\nRedmer, Alina; Kleb, Dietmar; Raguse, Dirk; InnoVET-Projekt tQM: Handreichung Coaching-Gespräche\nim Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA). Standort Hamburg. Hamburg\n2024, 31 S. - URN: urn:nbn:de:0111-pedocs-321609 - DOI: 10.25656/01:32160 https://nbn-resolving.org/urn:nbn:de:0111-pedocs-321609\nhttps://doi.org/10.25656/01:32160 Nutzungsbedingungen Terms of use steht unter folgender Creative Commons-Lizenz:\nDieses Dokument\nhttp://creativecommons.org/licenses/by/4.0/deed.de - Sie dürfen das Werk\nbzw. den Inhalt vervielfältigen, verbreiten und öffentlich zugänglich machen\nsowie Abwandlungen und Bearbeitungen des Werkes bzw. Inhaltes\nanfertigen, solange Sie den Namen des Autors/Rechteinhabers in der von ihm\nfestgelegten Weise nennen.\nMit Verw"
+      },
+      {
+        "rank": 5,
+        "id": "9fa409e8b7945bfbfb5aa406e4c0f121d5eb89fa7966c11217e86d4fa70eda5b",
+        "score": 0.9306835532188416,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 25,
+          "split_id": 38,
+          "split_idx_start": 44914,
+          "_split_overlap": [
+            {
+              "doc_id": "e958cda6e88612be3f15da007f36850d920dc31279d6b280e47c6178b19c9e67",
+              "range": [
+                1220,
+                1581
+              ]
+            },
+            {
+              "doc_id": "c61ebff35709ec125f203ed1aff02a757b64ea24133f44c2772604bd6888fc4f",
+              "range": [
+                0,
+                344
+              ]
+            }
+          ]
+        },
+        "content": "II Schritt 4: Platzieren des Ressourcenrads an einer oder an mehreren für dich sichtbaren Stellen 4.4 Der erste Schritt Zielsetzung: Ziel dieses Coaching–Tools ist es, größere Ziele in kleine Teilschritte zu unterteilen, um sie – gerade auch bei Überforderung – besser bewältigen zu können. Anwendungsgebiet: Bei sehr herausfordernden Zielsetzungen/ Problemen. Anwendungsbeispiele für das Bildungsweg–Coaching: 1) 2) Coachee sieht vor lauter „Bäumen, den Wald nicht mehr“, das heißt er/sie hat Schwierigkeiten, ein gesetztes Ziel (z. B. Studienabschluss) im Auge zu behalten und dieses auf erforderliche Schritte herunterzubrechen. Coachee benennt Wünsche und Ziele eher unbewusst (z. B. besseres Zeit – management, was die Bewältigung der drei Lernorte angeht), das heißt, es fehlt ein Bewusstsein und bisweilen auch Klarheit, was den Weg zum Ziel 24\fangeht, zum Beispiel welche Schritte erforderlich sind, um das eigene Zeitmanagement zu verbessern. Vorgehen: Führen eines Gesprächs zwischen Coache"
+      }
+    ]
+  },
+  {
+    "filename": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+    "question": "Wie wird die Nutzung und Weiterverbreitung des Dokuments \"Handreichung Coaching-Gespräche\" rechtlich geregelt?",
+    "answer": "Die Nutzung und Weiterverbreitung des Dokuments \"Handreichung Coaching-Gespräche\" ist nicht explizit rechtlich geregelt. Das Dokument scheint eher als Informationsmaterial für die Durchführung von Coaching-Gesprächen gedacht zu sein und enthält keine Hinweise auf rechtliche Einschränkungen oder Bedingungen für die Nutzung und Weiterverbreitung. Es ist jedoch anzunehmen, dass die Verwendung des Dokuments in einer bestimmten Form oder Weise rechtlich geregelt sein könnte, beispielsweise durch Urheberrechte oder Lizenzbedingungen, die nicht im Dokument selbst enthalten sind. Um die genauen rechtlichen Bedingungen zu ermitteln, wäre eine weitere Recherche erforderlich. I cannot find the answer in the provided context.",
+    "expected": "Das Dokument steht unter der Creative Commons-Lizenz BY 4.0, die es erlaubt, das Werk oder dessen Inhalte zu vervielfältigen, verbreiten, öffentlich zugänglich zu machen sowie Abwandlungen und Bearbeitungen anzufertigen, solange der Name des Autors oder Rechteinhabers in der vom Urheber festgelegten Weise genannt wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "091e31f308dd25ad4054c8e1b2f12655313ccd344ecf5f65d0b97e585b91a7ec",
+        "score": 0.9905263185501099,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 3,
+          "split_idx_start": 4907,
+          "_split_overlap": [
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                2218,
+                2604
+              ]
+            },
+            {
+              "doc_id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "eine Art Anleitung für das Bildungsweg-Coaching verstehen. Für andere beratend Tätige an Schule und Hochschule gilt dies ebenso. Für sie ist die Handreichung zur Einordnung dieses neuen Beratungselements in das bestehende Beratungskonzept hilfreich. Einen Mehrwert für alle Lehrenden schaffen die Handreichungen, indem sie kompakte Informationen zu den Phasen des Bildungsweg-Coachings (BC) liefern, die die Lernenden in der studienintegrierenden Ausbildung (siA) durchlaufen. Alle drei Komponenten des Bildungsweg-Coachings – Einführungsveranstaltung , Coaching-Gespräche und Reflexionsimpulse - werden praxisnah beschrieben, indem ausgewählte Methoden und Durchführungsbeispiele aus den beteiligten Schulen gezeigt werden. Somit können die Handreichungen als Onboarding-\nInstrument genutzt werden. Die angehenden Bildungsweg-Coach:innen bekommen einen fundierten Einblick und gleichzeitig hilfreiche Materialien an die Hand, um selbst in das Bildungsweg-Coaching einzusteigen. Für bereits tätige Bi"
+      },
+      {
+        "rank": 2,
+        "id": "b9a50ea460a0c7ba4eb7042af554c708849302fda5f0ffe104761d474491bb90",
+        "score": 0.9897714257240295,
+        "meta": {
+          "file_path": "9783847412304-181-234.txt",
+          "source_id": "8757f783c501e6563cac20f7c3aa21115c20ea72b02d99960e7954974f8ec3e8",
+          "page_number": 36,
+          "split_id": 70,
+          "split_idx_start": 87186,
+          "_split_overlap": [
+            {
+              "doc_id": "e17e938b71b513b8586bc3775d4c04966fbdcc5cf7293e61987f687fbcd4cfae",
+              "range": [
+                1207,
+                1593
+              ]
+            },
+            {
+              "doc_id": "48d6bed683b60da2294fe4f63ca18d5d43677b7281728995da5505001f8210d2",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "Form von Kurzpro(cid:191)len vor-\nhandene berufliche Fähigkeiten der Arbeitnehmer*innen sichtbar gemacht. Im Coaching wird die Artefaktnutzung dem Coachee angeboten, er hat die Wahl, diese im Beratungssetting und darüber hinaus für eine Re(cid:192)exion der eigenen Fähigkeiten zu nutzen. In beiden Fällen geht es dabei um eine Kom-\npetenzbilanzierung der zu Beratenden, die allerdings in divergenter Weise\fEin ethnogra(cid:191)scher Blick auf Materialität in der Beratung 217 verwertet wird: In der Transfergesellschaft werden die ermittelten Kompeten-\nzen an übergeordnete und sonstige relevante Institutionen weitergeleitet. Im Coaching dagegen liegt die Verantwortung für die weitere Verwendung allein beim Coachee. Es zeigt sich hier ein relevanter Unterschied: innerhalb der Transfergesellschaft erzielte Ergebnisse müssen für Dritte verwertbar sein, dagegen sind Coaching-Inhalte ausschließlich für die eigenverantwortliche Nutzung durch den Coachee vorgesehen, es gibt keine strukturellen Vor"
+      },
+      {
+        "rank": 3,
+        "id": "fcea487a60468cc9044212df394c310a9c3862a380462dbd54fba9594ed16f61",
+        "score": 0.9818315505981445,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 18,
+          "split_id": 34,
+          "split_idx_start": 41733,
+          "_split_overlap": [
+            {
+              "doc_id": "b1d77bc98f611fe16c33ac624ad3eea2156e05f24c341cb25a5aa6bf49dbe121",
+              "range": [
+                1066,
+                1434
+              ]
+            },
+            {
+              "doc_id": "e13f1885d0850053410f8f802dd12962b7b1c5e55e5fdeed77b74d5681811922",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Im Gespräch 1 und Gespräch 2 weicht der Gesprächsverlauf von der (o(cid:3445)en-\nsichtlichen) Vorstellung des Coachs von einem Coaching – die in einer Re-\n(cid:192)exion der eigenen Führungsposition in der Organisation besteht – ab. Die Coachees verlangen eher nach einer Supervision oder einer Schulung in der Führung von Mitarbeitergesprächen. Wenngleich die Coachs in diesen Ge-\nsprächen versuchen, ein o(cid:3445)enes Gespräch über die Position der Coachees in ihrer Organisation zu initiieren und thematisch auszuhandeln, (cid:191)nden keine\fProfessionalität im Coaching von Führungskräften 253 eindeutigen Prozesse der Grenzziehung seitens der Coaches statt, die das Ge-\nspräch inhaltlich begrenzen würden. Ferner ist festzustellen, dass zu Beginn des Coachings die Gesprächsthemen bzw. Coaching-Ziele, wenn überhaupt, dann nur sehr vage festgelegt werden. 3.2 Mikroskopische Analyse In den mikroskopischen Analysen wurde neben der Frage nach dem „Wie etwas gesagt wurde“ auch untersucht, welch"
+      },
+      {
+        "rank": 4,
+        "id": "e2c12dc25d4fce53716a6c3242dc8e1617bb8b755dafdf1e56aab745374f7ce8",
+        "score": 0.9805521368980408,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 9,
+          "split_id": 10,
+          "split_idx_start": 13371,
+          "_split_overlap": [
+            {
+              "doc_id": "c1f7bc491f261a5d142b4b1c75a74808002c0c055e36bc0c615004f0c01f073b",
+              "range": [
+                1241,
+                1649
+              ]
+            },
+            {
+              "doc_id": "7ba78af8ae905b800655af270b1f731d3776a9c1f48843590911ea810e7594e6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "der durchgeführten Coaching-Maßnahmen und dem Qualitätszirkel. Im Qualitätszirkel Coaching und Beratung arbeiten Vertreter:innen der Lernorte zusammen, die Rahmenbedingungen zu gestalten. konzeptionell weiterzuentwickeln das BC und um Das Bildungsweg-Coaching wurde im Zeitraum 2020 bis 2024 in der Entwicklung, Erprobung und Verstetigung an den Lernorten durch das Teilprojekt triales Coaching und Beratung des vom BMBF geförderten InnoVET-Verbundprojektes tQM (triales Qualitätsmanagement) begleitet und koordiniert. 8\f2. Gegenstand und Ziele der Coaching–Gespräche für geht es darum, Kompetenzen Im Bildungsweg–Coaching einen erfahrungsbasierten Entscheidungsprozess in Bezug zum weiteren Bildungsweg sowie auf das Studium und die Ausbildung reflexiv zu entwickeln. Primär geht es demnach im BC um die Stärkung der sogenannten Reflexions– und Handlungskompetenz der Lernenden, die relevante personale, methodische sowie sozial–kommunikative Kompetenzen einschließt. Das BC richtet sich dabei konkr"
+      },
+      {
+        "rank": 5,
+        "id": "b1d77bc98f611fe16c33ac624ad3eea2156e05f24c341cb25a5aa6bf49dbe121",
+        "score": 0.9708510041236877,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 18,
+          "split_id": 33,
+          "split_idx_start": 40667,
+          "_split_overlap": [
+            {
+              "doc_id": "574d8876a1a636520687eb03fef9ff87971a2f2e5429367b827248d59f421ce3",
+              "range": [
+                1089,
+                1442
+              ]
+            },
+            {
+              "doc_id": "fcea487a60468cc9044212df394c310a9c3862a380462dbd54fba9594ed16f61",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "Geschäftsführer einer größeren sozialen Einrichtung. Das vorliegende Gespräch fand in der ersten Sitzung des Coachings statt, in der u. a. die künftige Zusammenarbeit mit dem*der Berater*in und die Bezahlung des Coachings verhandelt werden. Herr D (Gespräch 2) wurde erst vor kurzen zum Teamleiter in einer sozialen Einrichtung befördert, woraufhin ihm sein Chef die Teilnahme am Coaching vorschlug. In einer vorangegangenen Coaching-Sitzung wurde das Thema Mitarbeitergespräche besprochen und in der aufgezeichneten Sitzung soll ein solches Gespräch ‚durchgespielt‘ werden. Frau N ist Schulleiterin und nimmt bereits seit einiger Zeit am Coaching teil. Im Gespräch geht es um den aktuel-\nlen Stand im beruflichen Kontext. Dazu wird auf eine Frau N bereits bekannte Methode, das „Brett“, zurückgegri(cid:3445)en. Frau N beginnt zunächst ihre Rolle im Zuge der Aufstellung auf dem Brett sowie aktuelle bestehende Probleme zu re(cid:192)ektieren. Der Coach macht verschiedene Angebote, wie Frau N damit"
+      }
+    ]
+  },
+  {
+    "filename": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+    "question": "Analysieren Sie, warum die Zusammenarbeit verschiedener Lernorte und Partner:innen für das Bildungsweg-Coaching in der studienintegrierenden Ausbildung (siA) als besonders wichtig hervorgehoben wird.",
+    "answer": "Die Zusammenarbeit verschiedener Lernorte und Partner:innen wird für das Bildungsweg-Coaching in der studienintegrierenden Ausbildung (siA) als besonders wichtig hervorgehoben, weil sie die Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching ermöglicht. Die siA lebt vom Zusammenwirken der Lernorte und Partner:innen, und es wird ihnen allen für ihre engagierte Mitarbeit an der Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching gedankt. Die Zusammenarbeit ermöglicht die Gestaltung von Rahmenbedingungen, die konzeptionelle Weiterentwicklung des Bildungsweg-Coaching und die Verstetigung an den Lernorten. Daher ist die Zusammenarbeit zwischen verschiedenen Lernorten und Partner:innen für die erfolgreiche Umsetzung des Bildungsweg-Coaching in der siA von entscheidender Bedeutung.",
+    "expected": "Die Zusammenarbeit verschiedener Lernorte und Partner:innen ist zentral, weil sie durch das Zusammenwirken unterschiedlicher Perspektiven, Ressourcen und Kompetenzen die Entwicklung und Erprobung des Prototyps im Bildungsweg-Coaching ermöglicht. Dies fördert eine ganzheitliche und praxisnahe Gestaltung der siA, die sowohl die Qualität als auch die Wirksamkeit des Coaching-Prozesses erhöht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "de5d885b49a043b889c48255cc71a5a6d3a0662b01fed385eda964e38d1fc1b4",
+        "score": 0.8640942573547363,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1472,
+          "_split_overlap": [
+            {
+              "doc_id": "d7f65e222e251fdfb6ea7d422328d554ab95c4391dad52df08356a1e98ef7b80",
+              "range": [
+                1472,
+                1968
+              ]
+            },
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                0,
+                558
+              ]
+            }
+          ]
+        },
+        "content": "conditions of\nuse. Kontakt / Contact: peDOCS\nDIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation\nInformationszentrum (IZ) Bildung\nE-Mail: pedocs@dipf.de\nInternet: www.pedocs.de\fNr. 2 / September 2024 Handreichung Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA) Standort Hamburg Autor:innen Dr. Alina Redmer, Dietmar Kleb, Dirk Raguse Ein Verbundprojekt von\fNr. 2 / September 2024 Handreichung Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA) Standort Hamburg Autor:innen Dr. Alina Redmer, Dietmar Kleb, Dirk Raguse 2\f3 Danksagung Die studienintegrierende Ausbildung (siA) am Standort Hamburg lebt vom Zusammenwirken der Lernorte und Partner:innen. Wir danken allen Beitragenden für ihre engagierte Mitarbeit an der Entwicklung und Erprobung des Prototypen im Bildungsweg-Coaching und ihre wertvollen Beiträge für die siA Hamburg. Insbesondere danken wir den Bildungsweg-Coach:innen an den beteiligten Lernor"
+      },
+      {
+        "rank": 2,
+        "id": "e2c12dc25d4fce53716a6c3242dc8e1617bb8b755dafdf1e56aab745374f7ce8",
+        "score": 0.680303692817688,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 9,
+          "split_id": 10,
+          "split_idx_start": 13371,
+          "_split_overlap": [
+            {
+              "doc_id": "c1f7bc491f261a5d142b4b1c75a74808002c0c055e36bc0c615004f0c01f073b",
+              "range": [
+                1241,
+                1649
+              ]
+            },
+            {
+              "doc_id": "7ba78af8ae905b800655af270b1f731d3776a9c1f48843590911ea810e7594e6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "der durchgeführten Coaching-Maßnahmen und dem Qualitätszirkel. Im Qualitätszirkel Coaching und Beratung arbeiten Vertreter:innen der Lernorte zusammen, die Rahmenbedingungen zu gestalten. konzeptionell weiterzuentwickeln das BC und um Das Bildungsweg-Coaching wurde im Zeitraum 2020 bis 2024 in der Entwicklung, Erprobung und Verstetigung an den Lernorten durch das Teilprojekt triales Coaching und Beratung des vom BMBF geförderten InnoVET-Verbundprojektes tQM (triales Qualitätsmanagement) begleitet und koordiniert. 8\f2. Gegenstand und Ziele der Coaching–Gespräche für geht es darum, Kompetenzen Im Bildungsweg–Coaching einen erfahrungsbasierten Entscheidungsprozess in Bezug zum weiteren Bildungsweg sowie auf das Studium und die Ausbildung reflexiv zu entwickeln. Primär geht es demnach im BC um die Stärkung der sogenannten Reflexions– und Handlungskompetenz der Lernenden, die relevante personale, methodische sowie sozial–kommunikative Kompetenzen einschließt. Das BC richtet sich dabei konkr"
+      },
+      {
+        "rank": 3,
+        "id": "854e2f29507b619178f739d2f545223f847fcfb41074c33cabb531273259f152",
+        "score": 0.5421286821365356,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 15,
+          "split_id": 28,
+          "split_idx_start": 34592,
+          "_split_overlap": [
+            {
+              "doc_id": "f2c473e99e31a9634294f58beb4dd29520c128242a2841ff7b9c74000703ea0b",
+              "range": [
+                1250,
+                1695
+              ]
+            },
+            {
+              "doc_id": "1c734376464420a1e2a012a70c88db86b9325ff7dcd8f5a7cb09c70e5e1b5226",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Kernprobleme des (situativen) professionellen Bera-\ntungshandeln[s]“ zu ermitteln und daran die performativen Gestaltungsanfor-\nderungen aufzuzeigen sowie Berater*innen zu Selbstbeobachtungen und -re-\n(cid:192)exion durch einen fremden Blick auf ihre Praxis anzuregen (Maier-Gutheil 2013: 182).\f250 Christian Schröder / Claudia Muche 2. Datenerhebung und -analyse Empirisch analysiert wird die Coaching-Praxis mit Führungskräften, bei der es um die Bearbeitung persönlicher Handlungsprobleme bezüglich beruf-\nlicher bzw. arbeitsfeldbezogener Themen geht (Fietze 2015). Coaching mit Führungskräften zielt darauf ab, in personenbezogenen Beratungsgesprächen Handlungsfähigkeit im beruflichen Kontext zu verbessern (Riedel 2003). Die Beratung (cid:191)ndet in Form einer dyadischen Gesprächssituation statt, an der unternehmensexterne Coachs und Führungskraft teilnehmen. In Abgrenzung zu anderen Beratungsformaten vollzieht sich Coaching mit einer „ausgepräg-\nten Prozess- und Personen-Orientierung“ sc"
+      },
+      {
+        "rank": 4,
+        "id": "1b4e17c17256cec2f2b52bdf3289aa68d21f12714402a7be29db30a44481c95a",
+        "score": 0.3208945691585541,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 17,
+          "split_id": 26,
+          "split_idx_start": 31783,
+          "_split_overlap": [
+            {
+              "doc_id": "85476d085e4fd4539b8889b17963c66a2f6094d5db43a07c56ccf3551585ca59",
+              "range": [
+                1058,
+                1483
+              ]
+            },
+            {
+              "doc_id": "ff444c905e3bcda56e39688ecc2dae4ba74b9ddec82a1992e6dd65c19852bd76",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "Hamburg (LI) im Arbeitsbereich Lerncoaching folgenden Ablauf erstellt, der sich gut auf den Bildungsweg–Coaching–Prozess in der siA adaptieren lässt. Coaching–Ablauf Abbildung 3: Niehaves/Kjaer, LI (2014): Coaching–Ablauf ©Tiki Küstenmacher Coaching–Ablauf 1. Gesprächseinstieg (Beziehungsaufbau) • Informelle Fragen, Smalltalk, Frage nach persönlichem Wohlbefinden, Komplimente machen • Fragen zu den Lernorten / Wie erging es Ihnen in letzter Zeit am Lernort Berufsschule/Betrieb/Unternehmen? 2. Thema erfassen • Problemschilderung / Geschichte (max. 5 Minuten) Worum geht es? Von den genannten Problemen: Welches ist das dringendste? Wie kann ich helfen? • Was haben Sie bereits versucht? Was war hilfreich? 3. Thema bearbeiten • Auftragsklärung / Zielformulierung • Was muss sich als Ergebnis unseres Treffens heute verändert haben, damit Sie sagen können, unser Gespräch hat sich gelohnt? Was ist Ihr Ziel? Evtl. Zielbild–Entwicklung 4. Maßnahmen • Was macht es aus, dass X bereits funktioniert?"
+      },
+      {
+        "rank": 5,
+        "id": "574d8876a1a636520687eb03fef9ff87971a2f2e5429367b827248d59f421ce3",
+        "score": 0.30032891035079956,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 17,
+          "split_id": 32,
+          "split_idx_start": 39578,
+          "_split_overlap": [
+            {
+              "doc_id": "13a58373caf6d9faf8809bede51fae60aa3fad2cc22127a815dc567c30447d4e",
+              "range": [
+                1140,
+                1527
+              ]
+            },
+            {
+              "doc_id": "b1d77bc98f611fe16c33ac624ad3eea2156e05f24c341cb25a5aa6bf49dbe121",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "auf die Gesamtstruktur der Coaching-Gespräche zeigt sich die Rol-\nlenverteilung, dass sich der*die Coach für die methodische Ausgestaltung der 2 An den Analysesitzungen waren neben den Autor*innen des Beitrags Ute Karl und Inga Truschkat die studentischen Mitarbeiterinnen Claudine Bastian und Mieke Mierzowsky beteiligt.\nIm Text werden primär die Funktionsbezeichnungen „Coach“ für die beratende Person und „Coachee“ für die zu beratende Person verwendet. 3\f252 Christian Schröder / Claudia Muche Gespräche verantwortlich zeigt, während der*die Coachee die inhaltlichen Themen setzt (siehe Tabelle 1). Deutlich wird jedoch auch, dass die metho-\ndische Rahmung durch die Coachs insgesamt o(cid:3445)en gestaltet ist und auch die thematischen Vorstellungen der Coachees stark variieren. So möchte in Ge-\nspräch 1 Herr G ein berufliches Coaching in Anspruch nehmen, um Re(cid:192)exi-\non und Unterstützung für seine neue berufliche Funktion zu bekommen. Er ist vor etwa einem halben Jahr zu Träger X ge"
+      }
+    ]
+  },
+  {
+    "filename": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+    "question": "Fassen Sie die wichtigsten Inhalte und Ziele der Handreichung \"Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA)\" am Standort Hamburg zusammen.",
+    "answer": "Die Handreichung \"Coaching-Gespräche im Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA)\" am Standort Hamburg ist eine Anleitung für das Bildungsweg-Coaching. Sie soll den Bildungsweg-Coaches in die Lage versetzen, die Lernenden in der studienintegrierenden Ausbildung (siA) in ihrer beruflichen und persönlichen Entwicklung zu unterstützen. Die Handreichung bietet eine umfassende Einführung in das Bildungsweg-Coaching, einschließlich seiner Ziele, Anforderungen und Methoden. Sie enthält auch Hinweise zur Durchführung und zum Ablauf der Coaching-Gespräche, sowie Empfehlungen für die Auswahl geeigneter Methoden und Fragen. Ziel der Handreichung ist es, die Qualität des Bildungsweg-Coachings zu sichern und die Bildungsweg-Coaches in ihre Arbeit zu unterstützen.",
+    "expected": "Die Handreichung dient als Leitfaden für Coaching-Gespräche im Rahmen der studienintegrierenden Ausbildung (siA) am Standort Hamburg. Sie unterstützt Bildungsweg-Coach:innen bei der Durchführung von Coachingprozessen, fördert die Zusammenarbeit der beteiligten Lernorte und Partner:innen und trägt zur Entwicklung und Erprobung eines Prototyps im Bildungsweg-Coaching bei. Ziel ist es, die Qualität der Ausbildung zu verbessern und die Lernenden bestmöglich zu begleiten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d7f65e222e251fdfb6ea7d422328d554ab95c4391dad52df08356a1e98ef7b80",
+        "score": 0.9849543571472168,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de5d885b49a043b889c48255cc71a5a6d3a0662b01fed385eda964e38d1fc1b4",
+              "range": [
+                0,
+                496
+              ]
+            }
+          ]
+        },
+        "content": "Redmer, Alina; Kleb, Dietmar; Raguse, Dirk; InnoVET-Projekt tQM\nHandreichung Coaching-Gespräche im Bildungsweg-Coaching der\nstudienintegrierenden Ausbildung (siA). Standort Hamburg Hamburg 2024, 31 S. Quellenangabe/ Reference:\nRedmer, Alina; Kleb, Dietmar; Raguse, Dirk; InnoVET-Projekt tQM: Handreichung Coaching-Gespräche\nim Bildungsweg-Coaching der studienintegrierenden Ausbildung (siA). Standort Hamburg. Hamburg\n2024, 31 S. - URN: urn:nbn:de:0111-pedocs-321609 - DOI: 10.25656/01:32160 https://nbn-resolving.org/urn:nbn:de:0111-pedocs-321609\nhttps://doi.org/10.25656/01:32160 Nutzungsbedingungen Terms of use steht unter folgender Creative Commons-Lizenz:\nDieses Dokument\nhttp://creativecommons.org/licenses/by/4.0/deed.de - Sie dürfen das Werk\nbzw. den Inhalt vervielfältigen, verbreiten und öffentlich zugänglich machen\nsowie Abwandlungen und Bearbeitungen des Werkes bzw. Inhaltes\nanfertigen, solange Sie den Namen des Autors/Rechteinhabers in der von ihm\nfestgelegten Weise nennen.\nMit Verw"
+      },
+      {
+        "rank": 2,
+        "id": "091e31f308dd25ad4054c8e1b2f12655313ccd344ecf5f65d0b97e585b91a7ec",
+        "score": 0.9830946326255798,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 3,
+          "split_idx_start": 4907,
+          "_split_overlap": [
+            {
+              "doc_id": "aec311ec148100b10cce26d4883861e852f3197dcb781c82c49af17d46f7083d",
+              "range": [
+                2218,
+                2604
+              ]
+            },
+            {
+              "doc_id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "eine Art Anleitung für das Bildungsweg-Coaching verstehen. Für andere beratend Tätige an Schule und Hochschule gilt dies ebenso. Für sie ist die Handreichung zur Einordnung dieses neuen Beratungselements in das bestehende Beratungskonzept hilfreich. Einen Mehrwert für alle Lehrenden schaffen die Handreichungen, indem sie kompakte Informationen zu den Phasen des Bildungsweg-Coachings (BC) liefern, die die Lernenden in der studienintegrierenden Ausbildung (siA) durchlaufen. Alle drei Komponenten des Bildungsweg-Coachings – Einführungsveranstaltung , Coaching-Gespräche und Reflexionsimpulse - werden praxisnah beschrieben, indem ausgewählte Methoden und Durchführungsbeispiele aus den beteiligten Schulen gezeigt werden. Somit können die Handreichungen als Onboarding-\nInstrument genutzt werden. Die angehenden Bildungsweg-Coach:innen bekommen einen fundierten Einblick und gleichzeitig hilfreiche Materialien an die Hand, um selbst in das Bildungsweg-Coaching einzusteigen. Für bereits tätige Bi"
+      },
+      {
+        "rank": 3,
+        "id": "fcea487a60468cc9044212df394c310a9c3862a380462dbd54fba9594ed16f61",
+        "score": 0.9830256104469299,
+        "meta": {
+          "file_path": "9783847412304-235-264.txt",
+          "source_id": "0ef41ce438f84c3f9b1783208333e697ee3501cfd605d983dd3497c2980cb794",
+          "page_number": 18,
+          "split_id": 34,
+          "split_idx_start": 41733,
+          "_split_overlap": [
+            {
+              "doc_id": "b1d77bc98f611fe16c33ac624ad3eea2156e05f24c341cb25a5aa6bf49dbe121",
+              "range": [
+                1066,
+                1434
+              ]
+            },
+            {
+              "doc_id": "e13f1885d0850053410f8f802dd12962b7b1c5e55e5fdeed77b74d5681811922",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Im Gespräch 1 und Gespräch 2 weicht der Gesprächsverlauf von der (o(cid:3445)en-\nsichtlichen) Vorstellung des Coachs von einem Coaching – die in einer Re-\n(cid:192)exion der eigenen Führungsposition in der Organisation besteht – ab. Die Coachees verlangen eher nach einer Supervision oder einer Schulung in der Führung von Mitarbeitergesprächen. Wenngleich die Coachs in diesen Ge-\nsprächen versuchen, ein o(cid:3445)enes Gespräch über die Position der Coachees in ihrer Organisation zu initiieren und thematisch auszuhandeln, (cid:191)nden keine\fProfessionalität im Coaching von Führungskräften 253 eindeutigen Prozesse der Grenzziehung seitens der Coaches statt, die das Ge-\nspräch inhaltlich begrenzen würden. Ferner ist festzustellen, dass zu Beginn des Coachings die Gesprächsthemen bzw. Coaching-Ziele, wenn überhaupt, dann nur sehr vage festgelegt werden. 3.2 Mikroskopische Analyse In den mikroskopischen Analysen wurde neben der Frage nach dem „Wie etwas gesagt wurde“ auch untersucht, welch"
+      },
+      {
+        "rank": 4,
+        "id": "8277f85e664b170b9703e83128383aba9dc3a6beeec70d38b78a614511ed2906",
+        "score": 0.981748640537262,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 6,
+          "split_id": 4,
+          "split_idx_start": 6172,
+          "_split_overlap": [
+            {
+              "doc_id": "091e31f308dd25ad4054c8e1b2f12655313ccd344ecf5f65d0b97e585b91a7ec",
+              "range": [
+                1265,
+                1673
+              ]
+            },
+            {
+              "doc_id": "35125b4c3446fd7946c310824ad4a9ba01ab173cf413727883890b4b32a7ab92",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Orientierung in der Handreichung Coaching-Gespräche Um die Nutzung der Handreichungen möglichst niedrigschwellig zu gestalten, ist die Gliederung aller drei Handreichungen zum Bildungsweg–Coaching ähnlich strukturiert. Auch die Einleitung ist identisch, denn hier erfolgt eine allgemeine Einführung in die siA und in das Bildungsweg–Coaching als Grundlage für das Verständnis der nachfolgenden Ausführungen. Im Kapitel 2 werden dem Bildungsweg-Coaching zu Grunde liegende Implikationen beschrieben auf Seiten der Bildungsweg-Coach:innen und auf Seiten der Lernenden. Man erfährt, mit welcher Haltung die Coach:innen die Gespräche führen und welcher Coaching-Ansatz dem zu Grunde liegt. Auch die Situation der Lernenden in der Startphase der siA wird in diesem Kapitel in den Blick genommen und aufgezeigt, wie sich diese in den Coaching-Themen widerspiegelt. Darauf folgen im Kapitel 3 Hinweise zur Durchführung und zum Ablauf der Coaching- Gespräche auf organisatorischer und inhaltlicher Ebene. Es "
+      },
+      {
+        "rank": 5,
+        "id": "a6e1e9fb7db6d44f1b8657eca087f59dba9de9a9331cf804e22c62667f350973",
+        "score": 0.9603940844535828,
+        "meta": {
+          "file_path": "Redmer_et_al_2014_Handreichung_Coaching-Gespraeche.txt",
+          "source_id": "86a9dd02f9057b46359a4b19edcbce047fba4489469de331442e0719053ab3b4",
+          "page_number": 30,
+          "split_id": 46,
+          "split_idx_start": 53814,
+          "_split_overlap": [
+            {
+              "doc_id": "01ecb9e0118a748929c9590d88d2e0f747e46ed290c9e71c9c2206396aa58ea5",
+              "range": [
+                1234,
+                1623
+              ]
+            },
+            {
+              "doc_id": "6c8e3febe16d7c87868c3c41f333334c0641943a08aa2e00d140a9461a5d29a5",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "die Alternativen sind nicht die richtigen, Entscheidung steht noch nicht an etc. 2. Kein positives oder negatives Gefühl ➔ Ursachenforschung: Entscheidung ist emotional nicht wichtig genug bzw. der/die siA–Lernende lehnt dieses Coaching-Tool ab etc. 29\f5. Literatur- und Abbildungsverzeichnis Literatur Damasio, Antonio (1994). Descartes Irrtum. Fühlen, Denken und das menschliche Gehirn. List: München. Euler, Dieter; Naeve–Stoß, Nicole (2023). Bildungsweg–Coaching in der studienintegrierenden Ausbildung am Standort Hamburg. Internes Dokument. Euler, Dieter; Naeve–Stoß, Nicole (2020). Verloren in der Multioptionsgesellschaft? Jugendliche zwischen Berufsausbildung und Studium. In: Berufs– und Wirtschaftspädagogik – Online. Ausgabe 38. Online verfügbar unter https://www.bwpat.de/ausgabe/38/euler_naeve–stoss Gebhardt, Anja; Quach, Han Sam (2020). Welche Herausforderungen begegnen Auszubildende im Berufs– und Privatleben? In: bwp@ (38). Online verfügbar unter https://www.bwpat.de/ausgabe38/ge"
+      }
+    ]
+  }
+]
