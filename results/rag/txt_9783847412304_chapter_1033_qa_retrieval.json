@@ -1,0 +1,667 @@
+[
+  {
+    "filename": "9783847412304_chapter_1033.txt",
+    "question": "Wie wird Beratung im Konzept des 'Transition Processing' definiert und welche Merkmale kennzeichnen diese Form der sozialen Interaktion?",
+    "answer": "Beratung im Konzept des 'Transition Processing' wird als gesprächsförmig gestaltete soziale Interaktion verstanden, die auf Augenhöhe und mit gegenseitiger Anerkennung der Beteiligten stattfindet. Diese Interaktion ist zeitlich umrissen, prozesshaft, interessensensibel und ergebnisoffen. Ziel ist es, Ratsuchende zu unterstützen, ihre Interessen, Ressourcen und Kompetenzen zu erkennen und zur eigenverantwortlichen Gestaltung ihrer Lebensentwürfe oder Bildungs- und Berufsbiografien weiterzuentwickeln. Beratung beinhaltet eine strukturierte Form der Informations- und Wissensvermittlung sowie eine subjektiv relevante Reflexion der Sachverhalte, die durch das Wechselspiel von Reflexion und Informationsvermittlung charakterisiert ist. Die Merkmale dieser Form der sozialen Interaktion sind: Zeitlichkeit, Prozesshaftigkeit, Interessenorientierung, Ergebnisoffenheit, Informations- und Wissensvermittlung, subjektive Reflexion und Wechselspiel von Reflexion und Informationsvermittlung.",
+    "expected": "Beratung im 'Transition Processing' wird als gesprächsförmig gestaltete soziale Interaktion verstanden, die auf Augenhöhe und mit gegenseitiger Anerkennung der Beteiligten stattfindet. Sie ist zeitlich umrissen, prozesshaft, interessensensibel und ergebnisoffen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4aa2bec54befdfb2f80ebdbef8be0fb748fc52cd7b007dd0537dc6140822d2ff",
+        "score": 0.9934754967689514,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "075f8b6c2b7d80d2471b0cd3785142b52c787c65024b1a551c31099dd87c5229",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "3. Theoretische und methodologische Grundlegung In „Transition Processing“ wird Beratung als gesprächsförmig gestaltete so- ziale Interaktion verstanden, die auf Augenhöhe und mit gegenseitiger Aner- kennung der Beteiligten stattfindet. Diese Interaktion ist zeitlich umrissen, prozesshaft, interessensensibel und ergebnisoffen (vgl. Gieseke 2016: 102; Schiersmann 2011: 429). Ratsuchende werden unterstützt, ihre Interessen, Ressourcen und Kompetenzen zu erkennen und zur eigenverantwortlichen Gestaltung ihrer Lebensentwürfe oder im Fall von „Transition Processing“ und damit im Kontext von Erwachsenenbildung zur Gestaltung spezifischer Bildungs- und Berufsbiografien weiterzuentwickeln (vgl. Tippelt 2013: 71; vgl. Schiersmann 2011: 429). Es geht um Entscheidungsprozesse und die Bewältigung von Problemen, wofür die Bedingungen im Beratungsprozess zu gestalten sind (vgl. Gieseke 2016: 102; Schiersmann 2011: 429). Beratung beinhaltet zum einen eine strukturierte Form der Informations- und Wiss"
+      },
+      {
+        "rank": 2,
+        "id": "ecfbdd586f56f83324ac79e76d0f37f79494bba2b48aaa95a73bd25621744a84",
+        "score": 0.9881975054740906,
+        "meta": {
+          "file_path": "9783847412304_chapter_1031.txt",
+          "source_id": "aa376513512b85c9c2a6691bca9fd0862f42bc550f72472886428c5db16460ce",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1296,
+          "_split_overlap": [
+            {
+              "doc_id": "aaf0cd4548ca4a7afad67c76a6ae4fc7d0b514390f0225aa04675648c7ad6df0",
+              "range": [
+                1296,
+                1668
+              ]
+            }
+          ]
+        },
+        "content": "Rah- men des DFG-Forschungsprojekts „Transition Processing“ werden hierfür mittels teilnehmender Beobachtung angebotstypische Situationen und reale Handlungsvollzüge der Beteiligten empirisch erfasst. In diesem Zusammen- hang liegt der Fokus der Analyse auf dem Umgang mit Artefakten, die – wie sich im empirischen Datenmaterial zeigt – sowohl im Coaching als auch in der Transfergesellschaft für die Inszenierung einer Beratung eine zentrale ge- stalterische Rolle spielen. Im Folgenden wird zunächst das Projekt „Transition Processing“, dem der thematische Zuschnitt dieses Beitrags entlehnt ist, vorgestellt (2.). Daran an- schließend werden die theoretischen und methodischen Grundlegungen die- ses Beitrags eingegrenzt (3.). Im 4. Abschnitt wird beispielhaft skizziert, wie sich Materialität als Steuerungselement in der Beratung des Coachings und der Transfergesellschaft zeigt. Abschließend werden die beiden Handlungs- felder Coaching und Transfergesellschaft im Fazit vergleichend betrachtet"
+      },
+      {
+        "rank": 3,
+        "id": "2a90971cc21373359d452ad7ff1afaaa53128d063183de4c483e2ae79848eb03",
+        "score": 0.9776345491409302,
+        "meta": {
+          "file_path": "9783847412304_chapter_1122.txt",
+          "source_id": "bc15ea92743151fa194c0dbb4dfea344ac45c77f26002a8e0dd2e165156d8084",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1286,
+          "_split_overlap": [
+            {
+              "doc_id": "29ef3ebbea3b5630484d1e4e3c58f9f655eb41654d694648e94dab746f998d25",
+              "range": [
+                1286,
+                1731
+              ]
+            },
+            {
+              "doc_id": "5c092a0060ca72555a4baa3eb77acaad1f6969b01a53d944f9a0e73dee28178d",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "oder es werden einschlägige absolvierte Studien- gänge aufgelistet, die die fachliche Kompetenz der Coachs ausweisen sollen. Die Daten stammen aus dem kooperativen, grenzüberschreitenden DFG/ FNR-Projekt Transition Processing, in dem pädagogische Rationalitäten im Kontext personenbezogener Beratungsdienste vergleichend untersucht wurden.1 Mit der Gesprächsanalyse rekonstruieren wir Rationalitäten auf der Ebe- ne der Einzelberatungsgespräche und verfolgen die Frage, wie in konkreten Situationen soziale Wirklichkeit hergestellt wird (Garfinkel 1967). Wir gehen also davon aus, dass vermeintlich objektive Tatsachen nicht per se existieren, sondern erst durch unser Handeln erzeugt werden. Neben der Frage, wie etwas gesagt wird, interessiert uns vor allem auch wozu, d. h. in welcher Logik der In- teraktion, etwas gesagt wird. Wir fragen also auch nach dem Zweck bestimm- ter Aussagen in der jeweiligen Handlungsabfolge und rekonstruieren so, wie institutionelle Strukturprobleme bearbeitet werd"
+      },
+      {
+        "rank": 4,
+        "id": "45d60a37d18124f9b7bc28cbf87316eaa94ee8df3693dd0eaa5b3e152c103b29",
+        "score": 0.9703634977340698,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3624,
+          "_split_overlap": [
+            {
+              "doc_id": "c972666e53ba44e96d0be72923bcd3119a013dc044f1eab70397b1380e30bc51",
+              "range": [
+                1233,
+                1621
+              ]
+            },
+            {
+              "doc_id": "52dc3cbf533613c7a86e2ab19d6ddccbbbec2c6ffa8306a249bbcce023cc9352",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "verwiesen (vgl. ebd.: 289 ff.). Zur Analyse der hier dargestellten theoretischen Referenzpunkte der In- szenierung von Rollen und der sozialen Praktiken orientiert sich die Auswer- tung des ethnografischen Studienteils von „Transition Processing“ methodolo- gisch an der Grounded Theory (vgl. Glaser/Strauss 2010). Für die Auswertung bilden Protokolle aus teilnehmenden Beobachtungen von feldtypischen Situ- ationen den Analysegegenstand. Entsprechend des Erkenntnisinteresses und der Datensorte wurden in Anlehnung an Charmaz’ Vorschlag zum gegen- standsangemessenen Umgang mit dem Kodierparadigma (2006) praxisthe- oretische Leitfragen entwickelt und zugrunde gelegt, welche die Analyse von Praktiken der Beratung ermöglichen. Die Besonderheit der Ethnografie, Nicht-Versprachlichtes zu versprachlichen, ermöglicht einen Einblick in un- ausgesprochene und unhinterfragte Routinen in der Beratungssituation (vgl. Breidenstein et al. 2013: 95) sowie die Analyse der interaktiven Herstellung organisat"
+      },
+      {
+        "rank": 5,
+        "id": "9613333bd8fefc480c22d74b555c7e391ca4d1e050fe10c70080d4e37f31ae72",
+        "score": 0.9461100101470947,
+        "meta": {
+          "file_path": "9783847412304_chapter_1032.txt",
+          "source_id": "1abdef58bc9ffc9ec22def41aea146d1a57b5a385373b19c3204fd55b60b94d5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2. Forschungskontext Übergänge in Arbeit sind in ihrer Zunahme, Ausdehnung und Verdichtung zwischen Lebensphasen bzw. Berufspositionen zunehmend durch pädagogi- sche Zugänge charakterisiert, wodurch sich Beratung am Übergang in Ar- beit als zentraler Handlungsmodus pädagogischer Praxis erweist (vgl. z. B. Helsper 2013; Stauber et al. 2007; Walther 2008). Ziel des DFG-Forschungs- projektes „Transition Processing – Pädagogische Rationalitäten in personen- bezogenen Dienstleistungen zur Begleitung und Beratung von Übergängen in Arbeit“1 ist es daher, eine grundlagentheoretische vergleichende Analyse fünf verschiedener Angebote zur Beratung und Begleitung am Übergang in Arbeit2 vorzunehmen. Analyseleitend sind dabei die Fragen, wie sich pädago- gische Rationalitäten in den Wissensbeständen der Akteur*innen zeigen, wie pädagogische Rationalitäten in den unterschiedlichen Organisationsformen dieser Dienstleistungen prozessiert werden und ob sich gemeinsame und/oder feldspezifische Deutungsmu"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1033.txt",
+    "question": "Welche Rolle spielen die Interessen, Ressourcen und Kompetenzen der Ratsuchenden im Beratungsprozess und wie unterstützt die Beratung sie dabei?",
+    "answer": "Die Interessen, Ressourcen und Kompetenzen der Ratsuchenden spielen eine wichtige Rolle im Beratungsprozess. Die Beratung zielt darauf ab, die Ressourcen der Personen zu stärken und ihre Leistungen hervorzuheben, insbesondere im Kontext der Anerkennung im Ausland erworbener Qualifikationen. Die Beraterinnen und Berater versuchen, den Anliegen und Beweggründen der Ratsuchenden Wertschätzung und Interesse entgegenzubringen und eine gute, vertrauensvolle Beziehung aufzubauen. Sie nutzen die Interessen, Ressourcen und Kompetenzen der Ratsuchenden, um ihre Entscheidungen zu unterstützen und ihnen dabei zu helfen, ihre Ziele zu erreichen. Die Beratung soll dabei eine ressourcenorientierte Anerkennungsberatung sein, die nicht nur auf individueller, sondern auch auf gesellschaftlicher Ebene verortet ist. Die Beraterinnen und Berater sollen die Ressourcen der Ratsuchenden aktivieren und ihre Kompetenzen stärken, um ihnen dabei zu helfen, ihre Ziele zu erreichen. Die Beratung soll eine partnerschaftliche Beziehung aufbauen und die Ratsuchenden aktivieren, um gemeinsam Lösungen zu finden. Die Beratung soll sich auf die individuellen Bedürfnisse und Interessen der Ratsuchenden einstellen und ihnen dabei helfen, ihre Ziele zu erreichen. Die Beratung soll auch die gesellschaftlichen und interpersonellen Wechselwirkungen in der Beratung berücksichtigen und die Ratsuchenden dabei unterstützen, ihre Ziele zu erreichen. Die Beratung soll eine unterstützende und ressourcenorientierte Rolle einnehmen und die Ratsuchenden dabei helfen, ihre Ziele zu erreichen. Die Beratung soll auch die Ausstattung der Beratungsstellen berücksichtigen, insbesondere die mehrsprachige Beratung, um die Ratsuchenden besser zu unterstützen. Die Beratung soll eine flexible und anpassungsfähige Rolle einnehmen und sich an die individuellen Bedürfnisse und Interessen der Ratsuchenden anpassen. Die Beratung soll auch die",
+    "expected": "Ratsuchende werden unterstützt, ihre Interessen, Ressourcen und Kompetenzen zu erkennen und zur eigenverantwortlichen Gestaltung ihrer Lebensentwürfe beziehungsweise im Kontext von Erwachsenenbildung zur Gestaltung spezifischer Bildungs- und Berufsbiografien weiterzuentwickeln. Die Beratung fördert so Entscheidungsprozesse und die Bewältigung von Problemen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1ac8cbf2ed6ad7e48c1ad82608d12ba839860a1a769cc2f179ef9df959c24bf1",
+        "score": 0.6787702441215515,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1076,
+          "_split_overlap": [
+            {
+              "doc_id": "732ede48d730ebdcb492b7e4e56a962039a5f69b88fb7009eb7d4216768febeb",
+              "range": [
+                1076,
+                1470
+              ]
+            },
+            {
+              "doc_id": "132ba922cdac327f7f07fea69e95c867231fa34ce835dbb900e009441f2e9d7e",
+              "range": [
+                0,
+                359
+              ]
+            }
+          ]
+        },
+        "content": "Beratung werden die Phasen entsprechend schneller durchlaufen und die Methoden­ wahl auf die zeitlich eingeschränkte Interaktion zwischen Ratsuchenden und Beraterin und Berater angepasst. Anregungen und Impulsgebung stehen dann mehr im Vordergrund. In einem längeren Beratungszyklus kann eine der genannten Phasen auch aus mehreren Beratungssitzungen bestehen. Die Chance zur klärenden Vertie­ fung eröffnet sich im Wechselspiel mit der verfügbaren zeitlichen Ressource. Vorbereitung und Einstimmung als Selbstverantwortung der Beraterinnen und Berater Anfangsphase – Joining Anfangsphase – Situation und Anliegen klären Nach dieser ersten Ankommphase eröffnen die Beraterin bzw. der Berater den Raum für die Klärung des Kontextes, der zur Idee der Inanspruchnahme einer Beratung geführt hat bzw. führt. Wertschätzend nähern sich die Berate­ rin bzw. der Berater den Anliegen des oder der Ratsuchenden, versuchen zu erfahren und zu explorieren, welcher konkrete Anlass, welche Vorgeschich­ te und wel"
+      },
+      {
+        "rank": 2,
+        "id": "15810ef9646f282c8fc29283c25457c1bdc26cee604a91db13be2cb1ea5cc98a",
+        "score": 0.5968865156173706,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7656,
+          "_split_overlap": [
+            {
+              "doc_id": "88e29e2d5b2751111eacdf3a30bd9f4d6d20b02e06447c4bcf7129b1bd7e955b",
+              "range": [
+                1020,
+                1439
+              ]
+            },
+            {
+              "doc_id": "7b33b43dc2b4d4dfb393b4707ca108dbf8098b0d52b051adea0e2e86eab62a09",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "einer defizitorientierten Beratung das beruf­ liche Selbstverständnis einer Beratung deutlich, welches sich auf die Res­ sourcen der Personen bezieht und deren Leistungen auch in Bezug auf den gesellschaftlichen und arbeitsmarktpolitischen Beitrag hervorhebt. Der An­ spruch einer ressourcenorientierten Anerkennungsberatung, welcher nicht nur auf individueller, sondern auch auf gesellschaftlicher Ebene verortet ist, wird jedoch durch die fehlende Absicherung und Anerkennung einge­ schränkt. Hinsichtlich der personellen Ressourcen und der Ausstattung der Be­ ratungsstellen nimmt in den Interviews das Angebot einer mehrsprachigen Beratung einen hohen Stellenwert ein. In der Beschreibung der Aufgaben­ gebiete wird der Sprache als zentralem Medium im Beratungsprozess eine große Bedeutung für den Aufbau der Beratungsbeziehung zugeschrieben. Die Interviewpartner_innen stellen ihre eigene Erfahrung mit der Anerken­ nung im Ausland erworbener Qualifikationen als eine zusätzliche Ressour­ ce dar"
+      },
+      {
+        "rank": 3,
+        "id": "381539a6b0aa5c9aceaf21e40cc7d724f334a905356ab149e7139f354e097ee0",
+        "score": 0.5785530209541321,
+        "meta": {
+          "file_path": "1001586_chapter_74.txt",
+          "source_id": "64816df4598bdaf9acb383f07c35cf94a07eaa1c319f46180433d20dddc8772a",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5645,
+          "_split_overlap": [
+            {
+              "doc_id": "6458b66e9fb80e0857cca2754bff09e9005f5e470312c646f39977952f7c30ab",
+              "range": [
+                1163,
+                1506
+              ]
+            },
+            {
+              "doc_id": "8cf52edcdd438f4e9a79d4d3f1a79b7a9f9e544d768cbfaa1126201d1c3f0953",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "für die Erzählungen des oder der Ratsuchenden wirken und stellt dem oder der Ratsuchenden diese Wahrnehmungen zur Verfügung, um Erlebnisin­ halte beleuchten zu können, die den Ratsuchenden bisher noch nicht zu Be­ wusstsein gekommen sind. Für die Prozessgestaltung der Beratung steht das Mitgehen mit dem oder der Ratsuchenden im Vordergrund, welche Themen sich im Hier und Jetzt bei ihm oder ihr aktualisieren wollen. Verhaltensweisen der Ratsuchenden während der Beratung – auch Widerstände, Schleifen oder Ablenkungen – können als Informationen genutzt werden, welche Bedürfnis­ se oder Werte der Ratsuchenden bei einer Entscheidung bisher noch nicht berücksichtigt wurden. Durch das Sichtbarmachen dieser bisher ungehörten Anteile kann der oder die Ratsuchende begleitet werden, Entscheidungen zu treffen, die sich nachhaltig und ganzheitlich in sein oder ihr Leben integrieren lassen. Für die Bildungsberatung ist vor allem die Grundannahme der Person­ zentrierten Beratung interessant, dass Rat"
+      },
+      {
+        "rank": 4,
+        "id": "cb580bffbcd508fd2ff58cf50e4149675f25e10f23037fd09b10afe27658e02b",
+        "score": 0.28991562128067017,
+        "meta": {
+          "file_path": "9783847412304_chapter_1221.txt",
+          "source_id": "ecc391e1bdf23aba49b5eb4d7e32789b0319a511a0fd9265bd70074451874c8a",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b3cd298cf74b6b7c3a97a92baf8937f413939c7c1c4207a267bcb413501e1059",
+              "range": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        "content": "Hildegard Macha Das Konzept der transformativen Beratung in Unternehmen und seine wissenschaftliche Evaluation 1. Einleitung Pädagogische Beratung ist eine zielgerichtete, vertrauensvolle und Rat suchende Interaktion zwischen Klient(_innen) und Berater(_innen). Probleme eines/r Probanden/in bzw. eines Ratsuchenden werden einer Klärung zugeführt (Mutzek 2014: 12; Macha et al. 2012: 18). Somit steht sie im Dienste der Weiterentwicklung von Klient_innen. Kollegiale Beratung hilft zum Beispiel einer Gruppe, thematische Klärungen zu beruflichen Problemen – zum Beispiel des Schulunterrichts – zu erörtern und ist lösungsorientiert. Beratung in Unternehmen gestaltet sich aufgrund des Kontextes anders als die Face-to-Face-Beratung bzw. Beratung in Gruppen im sozialen Feld. Organisationsberatung und Beratung einzelner Führungskräfte hat zum Ziel, Entwicklungsprozesse oder Bildungsprozesse in den Beteiligten zu initiieren (Göhlich et al. 2010). In Wirtschaftsunternehmen muss stets das Beratungszi"
+      },
+      {
+        "rank": 5,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.1736023873090744,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1033.txt",
+    "question": "Wie beschreibt Goffmans Theatermetapher die soziale Situation in Beratungen und welche Bedeutung haben die Konzepte von Rolle und Interaktionsordnung darin?",
+    "answer": "Goffmans Theatermetapher beschreibt die soziale Situation in Beratungen als ein Szenario, in dem die Akteure (Berater und Ratsuchender) ihre Rollen spielen, die von Regeln und Verhaltensnormen bestimmt werden. Die Interaktionsordnung wird durch die Inszenierung der Rollen und die Regeln, die sie unterliegen, hergestellt. Die Konzepte von Rolle und Interaktionsordnung sind in Beratungen von zentraler Bedeutung, da sie die Dynamik der Interaktion zwischen Berater und Ratsuchender bestimmen und die Art und Weise, wie die Situation gestaltet wird. Die Rollen des Beraters und des Ratsuchenden sind konstitutiv für die Situation und werden durch ihre Rollenzuweisungen bestimmt. Durch die Inszenierung der Rollen können die Akteure ihre Performance in der Situation gestalten und die Interaktionsordnung herstellen. Die soziale Ordnung in Beratungen wird als Konstrukt hergestellt, das durch sozial geteilte Wissensordnungen und Verhaltensroutinen entsteht. Die Materialität von Praktiken spielt eine zentrale Rolle bei der Gestaltung der Situation. Die Beratung wird als soziale Praxis verstanden, die durch die Interaktion zwischen Berater und Ratsuchender und die Inszenierung der Rollen gestaltet wird. Die Konzepte von Rolle und Interaktionsordnung bieten einen Rahmen für die Analyse der sozialen Situation in Beratungen und helfen, die Dynamik der Interaktion zwischen Berater und Ratsuchender zu verstehen. \n        I can find the answer in the provided context.",
+    "expected": "Goffmans Theatermetapher unterscheidet zwischen der Theaterbühne, wo Schauspieler*innen in künstlichen Rollen agieren, und der Alltagswelt, in der soziale Rollen bestimmte Handlungsweisen vorgeben. In Beratungen sind die Rollen des*der Beraters*in und des*der Ratsuchenden konstitutiv und werden durch Rollenzuweisungen gespielt. Soziale Rollen unterliegen Regeln, die eine Interaktionsordnung herstellen, wodurch die Inszenierung der Rollen die Situation gestalten kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "075f8b6c2b7d80d2471b0cd3785142b52c787c65024b1a551c31099dd87c5229",
+        "score": 0.997439980506897,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1231,
+          "_split_overlap": [
+            {
+              "doc_id": "4aa2bec54befdfb2f80ebdbef8be0fb748fc52cd7b007dd0537dc6140822d2ff",
+              "range": [
+                1231,
+                1615
+              ]
+            },
+            {
+              "doc_id": "c972666e53ba44e96d0be72923bcd3119a013dc044f1eab70397b1380e30bc51",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "2013: 71; Schiersmann 2011: 429). Der Beitrag betrachtet Beratung als soziale Situation mit dem Fokus auf ihre Herstellung und Gestaltung. Ziel ist es aufzuzeigen, wie die Situation über Materialität, hier insbesondere über den Einsatz von Artefakten, hergestellt wird. Als theoretischer Analyserahmen erscheinen in diesem Zusammenhang Goffmans Situationsanalyse (1959) und Reckwitz’ Praxistheorie (2003) als gegenstandsangemessen, deren für den Beitrag wesentliche Punkte im Folgenden knapp umrissen werden. Für die Situationsanalyse bei Goffman kommt seine Theatermetapher zum Tragen, mit der er in der Analyse das Geschehen zwischen Alltagswelt und Theaterbühne unterscheidet. Auf der Theaterbühne agieren Schauspieler*innen in künstlichen Rollen, die ein Stück vorschreibt. In der Alltagswelt hingegen beschreibt der Begriff Rolle soziale Rollen, die in bestimmten Kontexten Handlungsweisen vorgeben, die mit dem Ziel der (Selbst-)Darstellung genutzt werden können und müssen. Gleichzeitig finden"
+      },
+      {
+        "rank": 2,
+        "id": "7e38086e0593c389edd796c3ca2dc1f964ff91972188042c32f68c8632c2da0d",
+        "score": 0.6783531904220581,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9319,
+          "_split_overlap": [
+            {
+              "doc_id": "900023ddb228f4cef77767f75b4464c87e1fbb0fd9f6c11c7f8b78352809864a",
+              "range": [
+                1114,
+                1506
+              ]
+            },
+            {
+              "doc_id": "4996c03b578c8876f07f530fde577e34b9968f7465b8639cc0f1729f257e1d3a",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "ohne dass der Angehörige überlastet und der Pflegebedürftige unterversorgt ist. Aus diesem Grund steht die Stärkung der Autonomie dieses „Pflegegefü- ges“ im Vordergrund der Beratung. Die Beratenden sollen die Angehörigen befähigen, ihre Situation selbst (mit-) einzuschätzen und Lösungsstrategien zu entwickeln. Die Angehörigen sollen dahingehend beraten werden, die Pflegesituation mit den ihnen zur Verfügung stehenden Ressourcen und der notwendigen Unterstützung aufrechtzuerhalten. Sofern die Familien bisher nicht auf Unterstützung von außerhalb zurückge- griffen haben, stellen die Beratungsbesuche selbst unter Umständen zunächst einmal einen Eingriff in ihre bisherige Autonomie dar. Diese zukunftsorien- tiert zu entwickeln, ist ein Ziel der Beratung. Keine vollständige Standardisierbarkeit von Beratung und Interventi- onszuordnung Ein gewisses Maß an Standardisierung von Dienstleistungen, so auch von Beratung, ist im Sinne von Transparenz und Qualitätssicherung geboten910. So hat z. B"
+      },
+      {
+        "rank": 3,
+        "id": "c972666e53ba44e96d0be72923bcd3119a013dc044f1eab70397b1380e30bc51",
+        "score": 0.5348412394523621,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2391,
+          "_split_overlap": [
+            {
+              "doc_id": "075f8b6c2b7d80d2471b0cd3785142b52c787c65024b1a551c31099dd87c5229",
+              "range": [
+                1160,
+                1582
+              ]
+            },
+            {
+              "doc_id": "45d60a37d18124f9b7bc28cbf87316eaa94ee8df3693dd0eaa5b3e152c103b29",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "der Transfergesellschaft sind die Rollen des*der Beraters*in (Coach bzw. Transfer-Mitarbeiter*in) und des*der Ratsuchenden (Coachee bzw. Teilnehmer*in) konstitutiv, die aus ihren Rollenzuweisungen heraus für den jeweils anderen ihre Performance in dieser Situation ‚spielen‘. Durch Regeln, denen soziale Rollen unterliegen, wird eine Interaktionsordnung hergestellt (vgl. Bausch 2001: 204). Die Inszenierung der einzelnen Rollen kann durch intentionales Handeln und unbewusste Praktiken die Situation gestalten. Dabei ist ausschlaggebend, inwiefern Rollenerwartungen, Verhaltensregeln und Rollenverpflichtungen aufgeführt bzw. dargestellt werden (vgl. Reckwitz 2003; Bausch 2001: 219). Mit Rückbezug auf die Theorie sozialer Praktiken (vgl. Reckwitz 2003) erfolgt eine Abgrenzung von der Reduktion des Handelns auf Intentionalität. Soziale Ordnungen gelten hier als Konstrukt, das durch sozial geteilte Wissensordnungen hergestellt wird. Soziale Praktiken werden gefasst als Verhaltensroutinen, deren"
+      },
+      {
+        "rank": 4,
+        "id": "3a326282a00e4f45589edb2ce7ba312a3d6263091f419fa41b690d7a0b8b1d4f",
+        "score": 0.18538643419742584,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7174,
+          "_split_overlap": [
+            {
+              "doc_id": "6769735a6d6d5b2b7a7c3faf46e0f46ea3413df997f2adba607beec2dce14c3a",
+              "range": [
+                1020,
+                1370
+              ]
+            },
+            {
+              "doc_id": "ec131a5cc26b5ec6306b8788f81096b1cec076c0438cea9a37d5d4147bd3bc61",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "ihre eigene Wahl zu treffen, soweit dies menschenwürdig ist. 14. sie unterstreicht die Erwünschtheit von primärer Prävention gegenüber korrektiver Intervention (vgl. Mahoney & McCray Patterson 1992). Aus den Vorgaben von GELSO und FRETZ (1992) bezüglich der verschie- denen Rollen und Aufgaben fokussieren sie drei Rollen: 1. Die präventive Rolle in der Beratung versucht, Problemursachen und Probleme zu antizipieren, sie umgehbar zu machen oder ihnen vorzubeu- gen. FRETZ (1995) geht davon aus, zentraler Aspekt von Counseling Psychology sei es, Individuen dabei behilflich zu sein, Veränderungen in ihrer persönlichen und sozialen Umwelt vorzunehmen und so die Auftre- tenswahrscheinlichkeit von Problemen zu minimieren und dadurch die Notwendigkeit kurativ/heilender Maßnahmen der Wiederherstellung zu vermeiden. 2. Die entwickelnde/wachstumsfördernde Rolle in der Beratung ver- sucht, Individuen dabei zu unterstützen, die größt-möglichen Vorteile aus den Erfahrungen ihrer eigenen Kräfte, Poten"
+      },
+      {
+        "rank": 5,
+        "id": "c44d5a435677a4df63a47dbabe746a97c715a8aecdca21e8d024e9a0e65f51dc",
+        "score": 0.15918312966823578,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 18313,
+          "_split_overlap": [
+            {
+              "doc_id": "024950a04f13cfc8577bb22890369962275b8a2802af81d5e83775042baf15c2",
+              "range": [
+                1102,
+                1473
+              ]
+            },
+            {
+              "doc_id": "85dce4fb692c3f1d39477aed1bd3b50dab1de8dec7cf1dcd24261a60bd9e1594",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "durch den Workshop Konfliktmanagement Tabelle 5: Kompetenz Metho- disch Sozial- kommunikativ Per- sönlich Angesprochen z. B. durch … Konfliktmanagement X das Erarbeiten der Definition, des Media- tionsverfahrens und der Modelle (z. B. Eisbergmodell) Aktives Zuhören X X die spezielle Fragetechnik das Einüben in Rollenspielen Reflexion X das Analysieren einer Situation, um einzu- schätzen, auf welcher Stufe sich ein Konflikt befindet Konfliktfähigkeit X das frühzeitige Erkennen von Konflikten das Entwickeln eines Gespürs für den Zeitpunkt, an dem eine Mediation notwendig wird Empathie X das Hineinversetzen in die Rolle im Rollenspiel und das Entwickeln von Verständnis für den Konfliktgegner Selbstreflexion X das Überdenken der eigenen Gefühle und des eigenen Verhaltens im Rollenspiel 3.6 Präsentation, Rhetorik und Körpersprache Die Projektzwischen- und -endergebnisse werden üblicherweise dem Projektauftrag- geber präsentiert (vgl. u. a. Patzak & Rattay, 2014, S. 366). Die Studierenden so"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1033.txt",
+    "question": "Inwiefern geht Beratung im 'Transition Processing' über eine reine Informationsvermittlung hinaus und welche Rolle spielt dabei die Reflexion?",
+    "answer": "Beratung im 'Transition Processing' geht über eine reine Informationsvermittlung hinaus, indem sie eine subjektiv relevante Reflexion der Sachverhalte einbezieht und durch das Wechselspiel von Reflexion und Informationsvermittlung charakterisiert ist. Dies bedeutet, dass Beratung nicht nur die Übermittlung von Informationen, sondern auch die Reflexion und die Bewertung dieser Informationen durch den Ratsuchenden umfasst. Durch diese Kombination aus Informationsvermittlung und Reflexion kann die Beratung im 'Transition Processing' eine umfassende Unterstützung für den Ratsuchenden bieten.",
+    "expected": "Beratung beinhaltet zwar eine strukturierte Informations- und Wissensvermittlung, geht jedoch darüber hinaus, indem sie eine subjektiv relevante Reflexion der Sachverhalte einschließt. Das Wechselspiel von Reflexion und Informationsvermittlung charakterisiert die Beratung und unterstützt die Ratsuchenden bei der bewussten Auseinandersetzung mit ihren Lebensentwürfen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4aa2bec54befdfb2f80ebdbef8be0fb748fc52cd7b007dd0537dc6140822d2ff",
+        "score": 0.9950660467147827,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "075f8b6c2b7d80d2471b0cd3785142b52c787c65024b1a551c31099dd87c5229",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "3. Theoretische und methodologische Grundlegung In „Transition Processing“ wird Beratung als gesprächsförmig gestaltete so- ziale Interaktion verstanden, die auf Augenhöhe und mit gegenseitiger Aner- kennung der Beteiligten stattfindet. Diese Interaktion ist zeitlich umrissen, prozesshaft, interessensensibel und ergebnisoffen (vgl. Gieseke 2016: 102; Schiersmann 2011: 429). Ratsuchende werden unterstützt, ihre Interessen, Ressourcen und Kompetenzen zu erkennen und zur eigenverantwortlichen Gestaltung ihrer Lebensentwürfe oder im Fall von „Transition Processing“ und damit im Kontext von Erwachsenenbildung zur Gestaltung spezifischer Bildungs- und Berufsbiografien weiterzuentwickeln (vgl. Tippelt 2013: 71; vgl. Schiersmann 2011: 429). Es geht um Entscheidungsprozesse und die Bewältigung von Problemen, wofür die Bedingungen im Beratungsprozess zu gestalten sind (vgl. Gieseke 2016: 102; Schiersmann 2011: 429). Beratung beinhaltet zum einen eine strukturierte Form der Informations- und Wiss"
+      },
+      {
+        "rank": 2,
+        "id": "ecfbdd586f56f83324ac79e76d0f37f79494bba2b48aaa95a73bd25621744a84",
+        "score": 0.9760830402374268,
+        "meta": {
+          "file_path": "9783847412304_chapter_1031.txt",
+          "source_id": "aa376513512b85c9c2a6691bca9fd0862f42bc550f72472886428c5db16460ce",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1296,
+          "_split_overlap": [
+            {
+              "doc_id": "aaf0cd4548ca4a7afad67c76a6ae4fc7d0b514390f0225aa04675648c7ad6df0",
+              "range": [
+                1296,
+                1668
+              ]
+            }
+          ]
+        },
+        "content": "Rah- men des DFG-Forschungsprojekts „Transition Processing“ werden hierfür mittels teilnehmender Beobachtung angebotstypische Situationen und reale Handlungsvollzüge der Beteiligten empirisch erfasst. In diesem Zusammen- hang liegt der Fokus der Analyse auf dem Umgang mit Artefakten, die – wie sich im empirischen Datenmaterial zeigt – sowohl im Coaching als auch in der Transfergesellschaft für die Inszenierung einer Beratung eine zentrale ge- stalterische Rolle spielen. Im Folgenden wird zunächst das Projekt „Transition Processing“, dem der thematische Zuschnitt dieses Beitrags entlehnt ist, vorgestellt (2.). Daran an- schließend werden die theoretischen und methodischen Grundlegungen die- ses Beitrags eingegrenzt (3.). Im 4. Abschnitt wird beispielhaft skizziert, wie sich Materialität als Steuerungselement in der Beratung des Coachings und der Transfergesellschaft zeigt. Abschließend werden die beiden Handlungs- felder Coaching und Transfergesellschaft im Fazit vergleichend betrachtet"
+      },
+      {
+        "rank": 3,
+        "id": "9613333bd8fefc480c22d74b555c7e391ca4d1e050fe10c70080d4e37f31ae72",
+        "score": 0.9396770596504211,
+        "meta": {
+          "file_path": "9783847412304_chapter_1032.txt",
+          "source_id": "1abdef58bc9ffc9ec22def41aea146d1a57b5a385373b19c3204fd55b60b94d5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2. Forschungskontext Übergänge in Arbeit sind in ihrer Zunahme, Ausdehnung und Verdichtung zwischen Lebensphasen bzw. Berufspositionen zunehmend durch pädagogi- sche Zugänge charakterisiert, wodurch sich Beratung am Übergang in Ar- beit als zentraler Handlungsmodus pädagogischer Praxis erweist (vgl. z. B. Helsper 2013; Stauber et al. 2007; Walther 2008). Ziel des DFG-Forschungs- projektes „Transition Processing – Pädagogische Rationalitäten in personen- bezogenen Dienstleistungen zur Begleitung und Beratung von Übergängen in Arbeit“1 ist es daher, eine grundlagentheoretische vergleichende Analyse fünf verschiedener Angebote zur Beratung und Begleitung am Übergang in Arbeit2 vorzunehmen. Analyseleitend sind dabei die Fragen, wie sich pädago- gische Rationalitäten in den Wissensbeständen der Akteur*innen zeigen, wie pädagogische Rationalitäten in den unterschiedlichen Organisationsformen dieser Dienstleistungen prozessiert werden und ob sich gemeinsame und/oder feldspezifische Deutungsmu"
+      },
+      {
+        "rank": 4,
+        "id": "45d60a37d18124f9b7bc28cbf87316eaa94ee8df3693dd0eaa5b3e152c103b29",
+        "score": 0.904864490032196,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3624,
+          "_split_overlap": [
+            {
+              "doc_id": "c972666e53ba44e96d0be72923bcd3119a013dc044f1eab70397b1380e30bc51",
+              "range": [
+                1233,
+                1621
+              ]
+            },
+            {
+              "doc_id": "52dc3cbf533613c7a86e2ab19d6ddccbbbec2c6ffa8306a249bbcce023cc9352",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "verwiesen (vgl. ebd.: 289 ff.). Zur Analyse der hier dargestellten theoretischen Referenzpunkte der In- szenierung von Rollen und der sozialen Praktiken orientiert sich die Auswer- tung des ethnografischen Studienteils von „Transition Processing“ methodolo- gisch an der Grounded Theory (vgl. Glaser/Strauss 2010). Für die Auswertung bilden Protokolle aus teilnehmenden Beobachtungen von feldtypischen Situ- ationen den Analysegegenstand. Entsprechend des Erkenntnisinteresses und der Datensorte wurden in Anlehnung an Charmaz’ Vorschlag zum gegen- standsangemessenen Umgang mit dem Kodierparadigma (2006) praxisthe- oretische Leitfragen entwickelt und zugrunde gelegt, welche die Analyse von Praktiken der Beratung ermöglichen. Die Besonderheit der Ethnografie, Nicht-Versprachlichtes zu versprachlichen, ermöglicht einen Einblick in un- ausgesprochene und unhinterfragte Routinen in der Beratungssituation (vgl. Breidenstein et al. 2013: 95) sowie die Analyse der interaktiven Herstellung organisat"
+      },
+      {
+        "rank": 5,
+        "id": "2a90971cc21373359d452ad7ff1afaaa53128d063183de4c483e2ae79848eb03",
+        "score": 0.8362888097763062,
+        "meta": {
+          "file_path": "9783847412304_chapter_1122.txt",
+          "source_id": "bc15ea92743151fa194c0dbb4dfea344ac45c77f26002a8e0dd2e165156d8084",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1286,
+          "_split_overlap": [
+            {
+              "doc_id": "29ef3ebbea3b5630484d1e4e3c58f9f655eb41654d694648e94dab746f998d25",
+              "range": [
+                1286,
+                1731
+              ]
+            },
+            {
+              "doc_id": "5c092a0060ca72555a4baa3eb77acaad1f6969b01a53d944f9a0e73dee28178d",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "oder es werden einschlägige absolvierte Studien- gänge aufgelistet, die die fachliche Kompetenz der Coachs ausweisen sollen. Die Daten stammen aus dem kooperativen, grenzüberschreitenden DFG/ FNR-Projekt Transition Processing, in dem pädagogische Rationalitäten im Kontext personenbezogener Beratungsdienste vergleichend untersucht wurden.1 Mit der Gesprächsanalyse rekonstruieren wir Rationalitäten auf der Ebe- ne der Einzelberatungsgespräche und verfolgen die Frage, wie in konkreten Situationen soziale Wirklichkeit hergestellt wird (Garfinkel 1967). Wir gehen also davon aus, dass vermeintlich objektive Tatsachen nicht per se existieren, sondern erst durch unser Handeln erzeugt werden. Neben der Frage, wie etwas gesagt wird, interessiert uns vor allem auch wozu, d. h. in welcher Logik der In- teraktion, etwas gesagt wird. Wir fragen also auch nach dem Zweck bestimm- ter Aussagen in der jeweiligen Handlungsabfolge und rekonstruieren so, wie institutionelle Strukturprobleme bearbeitet werd"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1033.txt",
+    "question": "Welche theoretischen Rahmen werden im Beitrag zur Analyse der Beratungssituation herangezogen und wie tragen sie zum Verständnis der Herstellung und Gestaltung der Beratungssituation bei?",
+    "answer": "Der Beitrag bezieht sich auf verschiedene theoretische Rahmen, darunter die Resonanztheorie, die Beschleunigungstheorie, die Individualisierungstheorie und die Wettbewerbs- und Optimierungslogik. Diese Rahmen werden verwendet, um die Auswirkungen und Folgen der Beschleunigung auf die Beratungssituation zu analysieren und die Herstellung und Gestaltung der Beratungssituation zu verstehen. Die Resonanztheorie beispielsweise wird verwendet, um die Resonanz zwischen Berater und Klienten zu analysieren und die Bedeutung der wertschätzenden und empathischen Beratungshaltung zu betonen. Die Beschleunigungstheorie wird verwendet, um die Auswirkungen der Beschleunigung auf die Beratungssituation zu analysieren und die Bedeutung der zeitlichen Begrenzung der Interaktion im Beratungsgespräch zu betonen. Die Individualisierungstheorie wird verwendet, um die Auswirkungen der Individualisierung auf die Beratungssituation zu analysieren und die Bedeutung der Anerkennung der individuellen Ziele und Kompetenzen der Klienten zu betonen. Die Wettbewerbs- und Optimierungslogik wird verwendet, um die Auswirkungen der Wettbewerbs- und Optimierungslogik auf die Beratungssituation zu analysieren und die Bedeutung der Information und Orientierung für die Klienten zu betonen. Durch die Kombination dieser theoretischen Rahmen wird ein umfassenderes Verständnis der Herstellung und Gestaltung der Beratungssituation erzielt.",
+    "expected": "Der Beitrag nutzt Goffmans Situationsanalyse (1959) und Reckwitz’ Praxistheorie (2003) als theoretische Rahmen. Goffmans Analyse mit der Theatermetapher hilft, die sozialen Rollen und deren Inszenierung in Beratungssituationen zu verstehen, während Reckwitz’ Praxistheorie die Bedeutung von Praktiken und Materialität (insbesondere Artefakten) für die Herstellung und Gestaltung der sozialen Situation betont.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "914ce54abeac91099bc60635cecd8adbddda15df385c99df38400214c55aae1e",
+        "score": 0.9716914296150208,
+        "meta": {
+          "file_path": "9783847412304_chapter_06.txt",
+          "source_id": "fea79bceed1fa1b544695a00185e7c0814af644405a8954a462934d3f81b4bec",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e1184f22ea904645e37ef54058cb2edc943e2bba0b207a6d874b87ee8ce0eaae",
+              "range": [
+                0,
+                420
+              ]
+            }
+          ]
+        },
+        "content": "### I. Theoretische Zugänge zum Beratungshandeln: Verortung und Diskurse ### I. Theoretische Zugänge zum Beratungshandeln: Verortung und Diskurse Jana Wienberg Eine resonanztheoretische Betrachtung von Beratung Abstract Der Beitrag befasst sich mit einer zeitdiagnostischen und resonanztheoreti- schen Betrachtung zunehmender Beschleunigungs- und Wettbewerbstenden- zen sowie den damit einhergehenden Anforderungen und Auswirkungen auf Beratung. Beratung scheint sich nach Auffassung des österreichischen Bil- dungsforschers Erich Ribolits fest in den verschiedensten Lebensbereichen des postmodernen Menschen etabliert zu haben (Ribolits 2007). Angesichts des- sen ließ sich bereits Anfang der 2000er Jahre eine räumliche Entgrenzung von Beratung erkennen (Sultana 2003: 31). Zudem zeichnen sich zeitgenössischen Diagnosen zufolge Entwicklungen einer zunehmenden Individualisierung (Beck 1986) und Modernisierung (Field, zit. n. Hösel u. a. 2017), Wettbewerbs- und Optimierungslogik (Rosa 2016a, 201"
+      },
+      {
+        "rank": 2,
+        "id": "25cef7c96d9e4486137c81fa20269b5ef7cdfbf40a72657a1ae5c6babac5eff6",
+        "score": 0.8788642287254333,
+        "meta": {
+          "file_path": "9783839444856_chapter_07211.txt",
+          "source_id": "3b98917686b1e260c57b8605b6191355ef39f086c54dc31ece365f789dfbf8b0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "256f594f6ccf0ec1542a1da06a89145f70b0696847fd074bcf3ac37d63b1d2b4",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "5.2.1.1 Interaktionsebene der Beratung Die zeitlich begrenzte Interaktion des Beratungsgesprächs wurde als erste Analyseebene definiert, in der Anerkennungsverhältnisse hergestellt und zudem Erfahrungen verweigerter Anerkennung ausgedrückt und bearbei­ tet werden können. Während in Deutschland der Begriff »Anerkennungs­ beratung« verbreitet ist, werden in Österreich mit der Bezeichnung der Beratungsangebote als Anlaufstellen die Schwerpunkte auf Information und Orientierung gesetzt. Mit dem AuBG werden die Anlaufstellen in Ös­ terreich nun ebenfalls als Beratungsstellen bezeichnet. Aus den Interviews wird deutlich, dass Information und Orientierung ein erstes wichtiges Auf­ gabenfeld in der Anerkennungsberatung bilden und zu einem längeren Beratungsprozesses führen können. Das zweite Aufgabengebiet umfasst die Herstellung einer spezifischen Beratungsbeziehung, die nach dem per­ sonenzentrierten Ansatz durch eine wertschätzende und empathische Be­ ratungshaltung charakterisiert wird. Da"
+      },
+      {
+        "rank": 3,
+        "id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+        "score": 0.687620222568512,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "4.1.1. Beratung als Wissenschaft? Bei allen Gelegenheiten der wissenschaftlichen Verortung von Beratung (erste Fachtagungen in Mainz 11/2007 und in Kassel 11/2008) zeigen sich sehr unterschiedliche Bilder. Letztlich löste auch Manfred MOLDASCHL (Technische Universität Chem- nitz) in seinem Beitrag in Kassel am 07.11.2009 diese Frage der wissenschaftlichen Verortung noch nicht auf. Abb.4: Beratungswissenschaft Wenn gleich dieses Bild für die Theoriebegründung noch nicht ausreichen mag. Fest steht aber, viele neue andere Wissenschaften, wie z. B. die Geron- towissenschaft, die Sozialarbeitswissenschaft, die Pflegewissenschaft begründen sich aus genau dieser Querlage heraus. Also doch: der Anfang einer Theoriegrundlage? Es wird in Zukunft deutlicher denn je darum gehen, die Besonderheit des Beratens aus den verschiedenen wissenschaftlichen Foki heraus zu beschrei- ben und im interdisziplinären Diskurs jeweils neu zu verorten. Auch die verschiedenen ‚Ebenen‘ der Betrachtung von Beratung si"
+      },
+      {
+        "rank": 4,
+        "id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+        "score": 0.622312605381012,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1155,
+          "_split_overlap": [
+            {
+              "doc_id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+              "range": [
+                1155,
+                1534
+              ]
+            },
+            {
+              "doc_id": "68d9f8b21ee11ad0662f6dd327ee9d5c17dc6d3dba333963654f1a294107d67d",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "so scheint die neue Herausforderung darin zu liegen, den Kontext, den Rahmen von Beratung und die Lebenswelt von Klienten in Forschungs- prozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. Abb.5: Systemisches Kontextmodell der Beratung Die verschiedenen Ebenen der Betrachtung von Beratung in Theoriebildung und Forschung kommt folgendes Bild nahe. Beratung ist darin als ein Akt des Pendelns von Mikro-, Meso- und Makro-Ebene zu sehen und verlangt hohe fachliche Kompetenzen der Reflexion auf unterschiedlichen Ebenen des Prozessgeschehens von Beratung. Die reinen klientenbezogenen Theorien und Konzepte von Beratung verken- nen die Komplexität des Beratungsgeschehens. Das Umfeld, die lebensbegleitenden nächsten Menschen (Familie, Freunde, etc.) erscheinen Gesellschaftlicher Kontext Organisationaler Kontext Beratungs System Ratsuchenden-System Berater-System Lösung Klärung Beziehung z.B. Person (beruflich, Biographie, Einstellung, Erfahrungen) private"
+      },
+      {
+        "rank": 5,
+        "id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+        "score": 0.6011838316917419,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Beratungstheoretische Perspektive Zur Analyse der empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg­ liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor­ mellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf­ gabe oder als formales eigenständiges Beratungsangebot beschrieben wer­ den (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An­ gebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting kann es s"
+      }
+    ]
+  }
+]

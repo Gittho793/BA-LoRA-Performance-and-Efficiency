@@ -8,8 +8,8 @@ import sys
 import datetime
 from time import time
 from dotenv import load_dotenv
-from src.util.args import (PDF_OUTPUT_DIR as OUTPUT_DIR,
-                           PDF_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
+from src.util.args import (TXT_OUTPUT_DIR as OUTPUT_DIR,
+                           TXT_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
 
 
 load_dotenv("../../.env")

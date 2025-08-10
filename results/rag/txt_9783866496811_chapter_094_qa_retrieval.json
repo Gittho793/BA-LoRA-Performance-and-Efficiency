@@ -1,0 +1,657 @@
+[
+  {
+    "filename": "9783866496811_chapter_094.txt",
+    "question": "Was versteht man unter einem systemischen Beratungsprozess im Kontext der Pflegeausbildung?",
+    "answer": "Ein systemischer Beratungsprozess im Kontext der Pflegeausbildung kann verstanden werden als Hilfe bei notwendigen oder selbst gewünschten Veränderungen oder der Bewahrung vorhandener Potentiale und Ressourcenerfahrung. Er soll Lernen als Wesensäußerung der beteiligten Personen, Gruppen und Organisationen zur Bewältigung der situativen Anforderungen verstanden werden. Der systemische Beratungsprozess soll diesen Lernprozess begleiten und dabei den Beratungs-Suchenden (Lernende in den Pflegeberufen, Praxisanleiter oder auch Lehrende) unterstützen, indem er ihnen hilft, ihre Ressourcen zu identifizieren und zu nutzen, um die gestellten Anforderungen zu bewältigen. Der systemische Beratungsprozess kann von verschiedenen Anlässen ausgelöst werden und kann lebens- und arbeitsweltliche Bezüge haben. Es gibt verschiedene Modelle zum Beratungsprozess, aber der systemische Beratungsprozess soll in erster Linie auf die individuellen Bedürfnisse und Ziele des Beratungs-Suchenden zugeschnitten sein. Er soll professionelle und distanziertere Perspektiven ermöglichen und so einen Beitrag zur Erhaltung der Handlungsfähigkeit und emotionalen Stabilität leisten.",
+    "expected": "Ein systemischer Beratungsprozess im Kontext der Pflegeausbildung ist eine Hilfe bei notwendigen oder gewünschten Veränderungen oder der bewussten Bewahrung und Erfahrung von Ressourcen im Lernprozess. Er unterstützt Lernende und Lehrende bei der Bewältigung beruflicher Anforderungen an verschiedenen Lernorten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fada84b669428bbe69312739bf9ee666830892e3e946289a20ad11e77a5b08be",
+        "score": 0.9984747767448425,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2ac58ea6e417402b9a0a37f2ac126badb7de73c3b06245c553932a461b9fa9d1",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "5.4.1. Ablauf einer systemischen Beratung im Lernprozess Systemische Beratung in der Pflegeausbildung kann verstanden werden als Hilfe bei notwendigen oder selbst gewünschten Veränderungen oder der Bewahrung vorhandener Potentiale und Ressourcenerfahrung. (vgl. LIPTITT/LIPITT 1999.) Im Kontext der Pflegeausbildung soll Lernen als Wesensäußerung der beteiligten Personen, Gruppen und Organisationen zur Bewältigung der situativen Anforderungen verstanden werden. Die systemi- sche Beratung als Dienstleistung soll diesen Lernprozess begleiten. Dabei gilt im Gegensatz zum Unterricht und der praktischen Ausbildung, dass der Bera- tung-Suchende (Lernende in den Pflegeberufen, Praxisanleiter oder auch Lehrende) den Beratungsprozess selbst initiiert. Er zeigt damit einen Grad an Reife, der die übernommene Selbstverantwortlichkeit in der Bewältigung der gestellten Anforderungen zum Ausdruck bringt. Aufgrund der Komplexität, Schwierigkeit und oftmals auch der Selbst- und Fremdgefährdungen der zu b"
+      },
+      {
+        "rank": 2,
+        "id": "d413c8d7d5cba62dfc7708b5f3018ad08ba2ed3724e09cd7a4c8c04bb0b92219",
+        "score": 0.9983574748039246,
+        "meta": {
+          "file_path": "9783866496811_chapter_05.txt",
+          "source_id": "f94971cb221a79adc5cf8aeef75db05cf36a3c7861848ac0e87a1f71633c314c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung ### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung Auf die jeweilige Person zentriert, auf deren soziales Umfeld bezogen und im Feld der professionellen Pflege verortet, so tut sich ein komplexes Feld auf, in dem entsprechende Beratungsdienstleistungen auszudifferenzieren sind. Das Format „Beratung“ ist neu zu gestalten, ja es legt eine umfassendere Verortung nahe, die den gesellschaftlichen Entwicklungen ebenso Rechnung trägt, wie den rechtlichen Rahmenbedingungen. Systemisch ist die Beratung als konsequent kontextbezogen, die Ressourcen verfolgend, sich zirkulär verstehend und prozeßdiagnostisch angelegt. Sys- temische Beratung geht mutig mit notwendigen Interventionen um und balanciert hochsensibel mit den notwendigen Veränderungsprozessen, um der Not eine Wendung zu geben. In aller erster Linie gilt es, in Raum und Zeit den einzelnen Menschen und dessen sozialem Kont"
+      },
+      {
+        "rank": 3,
+        "id": "4ab72bc83483b72c08b0ffbdbf4a992ae4fd91432d7a08e947c3851833469511",
+        "score": 0.9939067959785461,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 19362,
+          "_split_overlap": [
+            {
+              "doc_id": "e731ddd76a65c83d4490e2570d791dbca474c4e098b95b83db26ceb30c9e4ede",
+              "range": [
+                1044,
+                1432
+              ]
+            },
+            {
+              "doc_id": "143b4e8e96f4178783b3e8ce0eadc791961b6cf92e6f5c66aa0f401fa7ab0691",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsprozess noch auftrags- gemäß handeln. Dies gilt gleichermaßen für systemische Berater im Zusammenhang mit der Praxisbegleitung als eigenständigem Handlungsfeld in den Pflegeausbildungen. Je nach dem Anliegen der Beratung-suchenden Person wird der ein oder andere Aspekt stärker im Kontrakt fokussiert. Aller- dings kann es durch die Beteiligung von Praxisanleiter, Lehrendem und Lernenden durchaus auch sein, dass jeder seinen eigenen Aspekt in den Vor- dergrund stellen möchte. Systemische Beratung ist weder als fertige, unmittelbar wissenschaftsgeleite- te Anwendung systemtheoretischer Konzepte, noch als Anwendung von Techniken oder Methodenbausteinen zu verstehen. Systemische Beratung als professionelles Handlungsfeld wird wesentlich durch die systemisch handelnde Person und den relevanten Kontexten konsti- tuiert, die Konstruktion des relevanten Kontextes hier der ‚Pflegeausbildung‘ ist auf eine mögliche Integration hin zu prüfen. Dabei gibt es sowohl struk- turelle, personelle"
+      },
+      {
+        "rank": 4,
+        "id": "b6b8a06ee0126b12878c832c2b71645387e8a7dcb8a9ed7bf7803be2d304f98e",
+        "score": 0.9918097853660583,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6224,
+          "_split_overlap": [
+            {
+              "doc_id": "ab5f5b028ebb79df18fc5de9d8e6a53eea46c9451d4a1a94454766bbe5363cc2",
+              "range": [
+                1281,
+                1691
+              ]
+            },
+            {
+              "doc_id": "b954f33dff6a163592a1bc142385171e307346858fa4d0b66e06c25a423ffae9",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Lehrenden und Lernenden ist bezogen auf die spezi- fischen Wirklichkeitskonstruktionen der Pflege bzw. des Pflegehandelns. Damit unterstützt diese Art von reflexiver Beratung die notwendigen domä- nenspezifischen Lernprozesse in den Kontexten der Pflegeausbildungen. Der ‚dritte Lernort‘ könnte den Kontext für diese Form pädagogischer Beratung des Innehaltens im Lernprozess der Pflegeausbildungen darstellen bzw. an- bieten. Im pädagogischen Handlungsfeld der Praxisbegleitung ist grundsätzlich eine Gestaltungsmöglichkeit für systemische Beratung gegeben. Bei einer vertief- ten und erweiterten konzeptionellen Gestaltung käme es hierbei auf die gewollte und durch Ressourcen unterstützten Aufgaben der Organisations- und Personalentwicklung der Ausbildungsträger an. Denn nur wenn diese es bejahen, dass nicht nur funktionale, sondern intentionale also auf (Selbst-) Bildung ausgerichtetes Lernen stattfinden kann und darf, können die hierfür notwendigen Ressourcen zur Verfügung gestellt werden."
+      },
+      {
+        "rank": 5,
+        "id": "9225a3efb7cc162b0f91c01274db2fcc1e6d72f69b06edccb86883ccfb0f445b",
+        "score": 0.988347589969635,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "5.2.3. Zur Verortung von systemischer Beratung im und beim Lernen in den Pflegeausbildungen Ziel und Gegenstand der Lernprozesse in den Pflegeausbildungen ist die Entwicklung von Pflegekompetenzen, die die erfolgreiche Bewältigung rele- vanter Pflegebedarfe in Pflegesituationen gewährleisten. Hierzu sind Lernprozesse am schulischen und betrieblichen Lernort und wechselseitig aufeinander bezogen zu gestalten. Insgesamt steht hierbei der Lernort Betrieb und damit das Lernen am Arbeitsplatz im Vordergrund. Hier begegnet der Lernende in der Pflegeausbildung den Pflegebedürftigen in komplexen Pfle- gesituationen, die durch die Pflegebedürftigkeit und die damit verbundenen Pflegeanlässe konstituiert sind. Je nach Pflege- und Behandlungsbedarfen erfolgt die pflegebedarfsorientierte Betreuung und Versorgung in stationären, teilstationären oder ambulanten Einrichtungen. Praxisanleiter begleiten den Lernenden bei der Bewältigung vielfältiger Anforderungen und unterstützen ihn systematisch bei de"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_094.txt",
+    "question": "Welche Merkmale zeichnen einen professionellen systemischen Beratungsprozess aus?",
+    "answer": "Der strukturierte Prozess, die präzise Ziel- und Auftragsklärung, das Tempo und die Geschütztheit des Klienten/Ratsuchenden, die ethischen Prinzipien, die Kenntnis von Grenzen und deren Respekt, der Vertrauensschutz.",
+    "expected": "Ein professioneller systemischer Beratungsprozess zeichnet sich durch einen strukturierten Ablauf, präzise Ziel- und Auftragsklärung, angemessenes Tempo, Geschütztheit des Klienten, ethische Prinzipien, Kenntnis und Respekt von Grenzen sowie Vertrauensschutz aus.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d9c510e8fe44e8e6066a8a1c564c5c221089c1df58e22063440c879cfc699563",
+        "score": 0.9725697040557861,
+        "meta": {
+          "file_path": "9783866496811_chapter_094.txt",
+          "source_id": "9a5c59e8341e0c0160fa175a837b6af6e6ef8f36add18761ba4c64fa81973442",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.4. Systemisch Beraten – aber wie? Der systemische Beratungsprozess soll als Hilfe bei notwendigen oder ge- wünschten Veränderungen oder der bewussten Bewahrung und Erfahrung von Ressourcen im Kontext des Lernens in der Pflegeausbildung verstanden werden. Lehrende, Praxisanleiter und Lernende üben alltäglich beratende Funktion aus. Im Kontext von Lernen kann ein professioneller systemischer Beratungsprozess selbst wesenhaft als personaler Bewältigungsprozess der beruflichen Anforderungen in den verschiedenen Lernorten angesehen wer- den. Hierzu gibt es bereits mehrere Veröffentlichungen. (vgl. u.a. Culley 2002, Lipitt/Lipitt1999) Beratungsmerkmale sind der strukturierte Prozess, die präzise Ziel-und Auf- tragsklärung, das Tempo und die Geschütztheit des Klienten /Ratsuchenden, die ethischen Prinzipien, die Kenntnis von Grenzen und deren Respekt, der Vertrauensschutz. (vgl. Zwicker-Pelzer 2010:43-54) Unsere hier dargelegten modellhaften Phasen eines Beratungsprozesses sind der Veröffen"
+      },
+      {
+        "rank": 2,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.9445534944534302,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 3,
+        "id": "d413c8d7d5cba62dfc7708b5f3018ad08ba2ed3724e09cd7a4c8c04bb0b92219",
+        "score": 0.9328693151473999,
+        "meta": {
+          "file_path": "9783866496811_chapter_05.txt",
+          "source_id": "f94971cb221a79adc5cf8aeef75db05cf36a3c7861848ac0e87a1f71633c314c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung ### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung Auf die jeweilige Person zentriert, auf deren soziales Umfeld bezogen und im Feld der professionellen Pflege verortet, so tut sich ein komplexes Feld auf, in dem entsprechende Beratungsdienstleistungen auszudifferenzieren sind. Das Format „Beratung“ ist neu zu gestalten, ja es legt eine umfassendere Verortung nahe, die den gesellschaftlichen Entwicklungen ebenso Rechnung trägt, wie den rechtlichen Rahmenbedingungen. Systemisch ist die Beratung als konsequent kontextbezogen, die Ressourcen verfolgend, sich zirkulär verstehend und prozeßdiagnostisch angelegt. Sys- temische Beratung geht mutig mit notwendigen Interventionen um und balanciert hochsensibel mit den notwendigen Veränderungsprozessen, um der Not eine Wendung zu geben. In aller erster Linie gilt es, in Raum und Zeit den einzelnen Menschen und dessen sozialem Kont"
+      },
+      {
+        "rank": 4,
+        "id": "bf6f43e7abaec872102ac0946fd2cd0e0f9192aae881b838152605813bf7538f",
+        "score": 0.9032241106033325,
+        "meta": {
+          "file_path": "9783866496811_chapter_10.txt",
+          "source_id": "1c6d04cfbc34b687d96464b4848cf37ec824db1c393bbeb4ef55889a13e4eeef",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2360eccd34433d18439d06d1bd3911056a550ff86cd982d5fbb7c82f26d8cdd6",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "### 6. Systemische Beratung im neuen pflegerischen Handlungsfeld nach dem Pflege-Weiterentwicklungsgesetz ### 6. Systemische Beratung im neuen pflegerischen Handlungsfeld nach dem Pflege- Weiterentwicklungsgesetz Die Profession Pflege ist ein Berufsbild das sich bezogen auf die kontinuier- liche Veränderung der Gesellschaft immer wieder neu ausrichten muss, um den Anforderungen welches an dieses gestellt wird auch gerecht zu werden und den Bedürfnissen der Bevölkerung nachzukommen. Eine Tatsache, wel- che für das Gesundheitssystem in der nahen Zukunft von Bedeutung ist, ist der Demographische Wandel der Gesellschaft. Der demographische Wandel hat bereits dazu geführt das im Sektor der Am- bulanten pflegerischen Versorgung spezifische Veränderungsprozesse stattgefunden haben. Mögliche Zukunftsszenarien lassen sich anhand von statistischem Material erahnen. Die Wahrscheinlichkeit, dass Menschen pflegebedürftig werden steigt mit zunehmendem Alter an. Zwar ist die Verbindung von Krankheit "
+      },
+      {
+        "rank": 5,
+        "id": "4ab72bc83483b72c08b0ffbdbf4a992ae4fd91432d7a08e947c3851833469511",
+        "score": 0.8579123020172119,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 19362,
+          "_split_overlap": [
+            {
+              "doc_id": "e731ddd76a65c83d4490e2570d791dbca474c4e098b95b83db26ceb30c9e4ede",
+              "range": [
+                1044,
+                1432
+              ]
+            },
+            {
+              "doc_id": "143b4e8e96f4178783b3e8ce0eadc791961b6cf92e6f5c66aa0f401fa7ab0691",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsprozess noch auftrags- gemäß handeln. Dies gilt gleichermaßen für systemische Berater im Zusammenhang mit der Praxisbegleitung als eigenständigem Handlungsfeld in den Pflegeausbildungen. Je nach dem Anliegen der Beratung-suchenden Person wird der ein oder andere Aspekt stärker im Kontrakt fokussiert. Aller- dings kann es durch die Beteiligung von Praxisanleiter, Lehrendem und Lernenden durchaus auch sein, dass jeder seinen eigenen Aspekt in den Vor- dergrund stellen möchte. Systemische Beratung ist weder als fertige, unmittelbar wissenschaftsgeleite- te Anwendung systemtheoretischer Konzepte, noch als Anwendung von Techniken oder Methodenbausteinen zu verstehen. Systemische Beratung als professionelles Handlungsfeld wird wesentlich durch die systemisch handelnde Person und den relevanten Kontexten konsti- tuiert, die Konstruktion des relevanten Kontextes hier der ‚Pflegeausbildung‘ ist auf eine mögliche Integration hin zu prüfen. Dabei gibt es sowohl struk- turelle, personelle"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_094.txt",
+    "question": "Wie wird der Beratungsprozess im vorgestellten Modell initiiert und welche Bedeutung hat dies für den Ratsuchenden?",
+    "answer": "Der Beratungsprozess wird im vorgestellten Modell initiiert, indem die Ratsuchende ein Entscheidungsproblem äußert, mehrere Handlungsoptionen formuliert und unsicher ist, welches Ziel/Handlungsziel zuerst angegangen werden soll. Dieser Anlass wird dann durch die Einführung der Netzwerkmethode aufgegriffen, um die grundlegenden Informationen über den Beratungsanlass und Inhalt in eine Reihenfolge und Ordnung zu bringen. Der Ratsuchende hat hier den Wunsch und das Energiepotenzial, sich selbst beständig weiter zu entwickeln, um weitere Anteile seiner Persönlichkeit in einer Veränderung seiner Situation zu verwirklichen. Durch die Beratung soll er unterstützt werden, seine Entscheidungsfindung zu erleichtern und seine Ziele zu erreichen. Die Beratung soll dabei auf die Bedürfnisse und Werte des Ratsuchenden eingeht und ihm ermöglicht, seine eigenen Lösungen zu finden. Der Berater sollte dabei auf die Personenzentrierte Beratung achten und sich auf die aktive Selbstexploration und Reflexivität des Ratsuchenden konzentrieren. Die Beratung soll einen tragfähigen Beziehungsaufbau zwischen Berater und Ratsuchendem fördern, um eine aktive Selbstexploration und Reflexivität des Ratsuchenden zu erreichen. Der Ratsuchende steht im Mittelpunkt der Beratung und nicht die Methode. Die Bewertung des Ziels, das mit der Methode erreicht werden soll, obliegt dem Ratsuchenden und wird mit seinen Augen angenommen. Die Beratung soll auf diese Weise einen Wachstumsprozess für den Ratsuchenden ermöglichen. Die treibende Kraft ist die Aktualisierungstendenz des Ratsuchenden, die es ihm ermöglicht, neue Perspektiven zu gewinnen und seine Situation zu verändern. Die Beratung soll dabei auf die gesellschaftlichen und interpersonalen Wechselwirkungen eingeht, um dem Ratsuchenden ein umfassendes Bild seiner Situation zu geben. Durch die Beratung soll der Ratsuchende unterstützt werden, seine eigenen Lösungen zu finden und seine Ziele zu erreichen",
+    "expected": "Der Beratungsprozess wird vom Beratung-Suchenden initiiert, was einen Reifegrad zeigt, bei dem die Person selbst die Verantwortung für die Gestaltung der Anforderungen in der Pflegeausbildung übernimmt. Dies bedeutet, dass der Ratsuchende aktiv den Beratungsprozess anstößt und damit seine Eigenverantwortung im Lernprozess wahrnimmt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "732ede48d730ebdcb492b7e4e56a962039a5f69b88fb7009eb7d4216768febeb",
+        "score": 0.9561492204666138,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "1ac8cbf2ed6ad7e48c1ad82608d12ba839860a1a769cc2f179ef9df959c24bf1",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "3.3 Verantwortung der Beraterin und des Beraters in den Phasen des Beratungsprozesses Ein jedes Beratungsgespräch ist zuallererst die Begegnung zweier Menschen in einer wechselseitigen Rahmung der Erwartungen. Beraterinnen und Be­ rater stellen ihr Fachwissen und die Metaperspektive für den Prozess der Beratung zur Verfügung (vgl. Brüggemann u.a. 2009: 15). Die Ratsuchenden gestalten diesen Prozess der Begegnung insofern mit, als sie Expertin und Experte für das eigene Leben sind, für das, wie sie sich im Laufe der Bera­ tung verhalten und welche Entscheidungen sie treffen möchten (vgl. Hargens 2011: 26). Das Setting der Beratung ist von Anfang an über wechselseitige Er­ wartungen definiert. Beide Seiten erwarten ein professionelles, strukturiertes Gespräch unter (zunächst) Fremden. Nachfolgend werden wesentliche Elemente in den jeweiligen Beratungs­ phasen skizziert. Es sei an dieser Stelle darauf hingewiesen, dass sich die Beratungsphasen sowohl auf eine einmalige Beratung als auch a"
+      },
+      {
+        "rank": 2,
+        "id": "12f8801df40aa143a88e723fa1b493fda35d03134fb4cd108a23f7ce5fd2b753",
+        "score": 0.9543918371200562,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9189,
+          "_split_overlap": [
+            {
+              "doc_id": "2476839bbf27b980c0239b62d800959f2b2bee41dca1271bfc9945eb635f3bd9",
+              "range": [
+                1175,
+                1575
+              ]
+            },
+            {
+              "doc_id": "a32163650a4f0d5bcae5bd2c6e355c3e22242b31b483e123bead28a03d112712",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "neue Beratungskapazitäten entstanden, aber die Weiterentwicklung bereits beste- hender Beratungsstrukturen war die Folge. Die Beratungen in diesen Einrichtungen sind vorrangig auf sozialrechtliche Aspekte konzentriert und treffen damit nur partiell die Bedürfnisse der Rat- suchenden (vgl. Asam et al. 1997:241ff; Hurrelmann 2006:863f; Müller- Mundt 2005:46f). Um die Bedürfnisse der Ratsuchenden zu verdeutlichen greifen wir hier kurz der Zeit voraus und verweisen dazu auf eine unabhängige Nutzerbefragung von Modellprojekten der Patientenberatungsstellen in der Zeit vom Juli 2003 bis Februar 2004. Diese Evaluation der Modellprojekte ist gesetzlich im SGBV §65 ‚Auswertung der Modellvorhaben‘ festgelegt und somit ist von den Krankenkassen oder ihren Verbänden eine Evaluation der Modellvorhaben nach allgemein anerkannten wissenschaftlichen Standards zu veranlassen, welche von unabhängigen Sachverständigen zu erstellen sind. Die Ergebnisse sind zu veröffentlichen. Die Ergebnisse dieser Studie"
+      },
+      {
+        "rank": 3,
+        "id": "8bb3961830670875949667151dc421b67ca3f2667c4caee96cf576ccbd512433",
+        "score": 0.94842129945755,
+        "meta": {
+          "file_path": "1001586_chapter_091.txt",
+          "source_id": "a8273a1ddb1643af5071b4632176285c2a7a594028ab130d6c75dcdcd50284a7",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6533,
+          "_split_overlap": [
+            {
+              "doc_id": "a58149d932a68403c115bedfd19f83987f4273709816aff8f740e41c32ec0906",
+              "range": [
+                1099,
+                1441
+              ]
+            },
+            {
+              "doc_id": "a2ee2e0563d209c0b9caba54008283964daec1843194bdc7eae68d80ac29a0f9",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "Phase im Beratungs­ prozess usw. passen, treffen sie diese Entscheidungen auf der Grundlage ihrer Deutungen über die Ratsuchenden und ihr Anliegen. Durch diese Deutungen aber verschieben und verändern sich Anliegen und Ratsuchende (wie oben beschrieben) bereits, was die Gefahr birgt, dass nicht der Berater oder die Beraterin die Methode an das Anliegen, sondern der oder die Ratsuchende ihr Anliegen an die Methode anpasst. Ich muss während der Durchführung also immer wieder darauf achten, dass ich nah an den Prozessen der Ratsuchen­ den bleibe (s. 5.3 Einführen, Anpassen und Verlassen einer Methode). 1. \u0007Es sollte eine tragfähige Beziehung entwickelt werden können, mit dem Ziel, aktive Selbstexploration und Reflexivität der Ratsuchenden zu fördern. 2. \u0007Die Methode sollte kein „Selbstzweck“ sein: Der oder die Ratsuchende steht im Mittelpunkt – nicht die Methode, mit allen Konsequenzen, die sich dar­ aus ergeben. 3. \u0007Ebenfalls sollte deutlich sein, dass die Bewertung des Ziels, das mit de"
+      },
+      {
+        "rank": 4,
+        "id": "381539a6b0aa5c9aceaf21e40cc7d724f334a905356ab149e7139f354e097ee0",
+        "score": 0.864065945148468,
+        "meta": {
+          "file_path": "1001586_chapter_74.txt",
+          "source_id": "64816df4598bdaf9acb383f07c35cf94a07eaa1c319f46180433d20dddc8772a",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5645,
+          "_split_overlap": [
+            {
+              "doc_id": "6458b66e9fb80e0857cca2754bff09e9005f5e470312c646f39977952f7c30ab",
+              "range": [
+                1163,
+                1506
+              ]
+            },
+            {
+              "doc_id": "8cf52edcdd438f4e9a79d4d3f1a79b7a9f9e544d768cbfaa1126201d1c3f0953",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "für die Erzählungen des oder der Ratsuchenden wirken und stellt dem oder der Ratsuchenden diese Wahrnehmungen zur Verfügung, um Erlebnisin­ halte beleuchten zu können, die den Ratsuchenden bisher noch nicht zu Be­ wusstsein gekommen sind. Für die Prozessgestaltung der Beratung steht das Mitgehen mit dem oder der Ratsuchenden im Vordergrund, welche Themen sich im Hier und Jetzt bei ihm oder ihr aktualisieren wollen. Verhaltensweisen der Ratsuchenden während der Beratung – auch Widerstände, Schleifen oder Ablenkungen – können als Informationen genutzt werden, welche Bedürfnis­ se oder Werte der Ratsuchenden bei einer Entscheidung bisher noch nicht berücksichtigt wurden. Durch das Sichtbarmachen dieser bisher ungehörten Anteile kann der oder die Ratsuchende begleitet werden, Entscheidungen zu treffen, die sich nachhaltig und ganzheitlich in sein oder ihr Leben integrieren lassen. Für die Bildungsberatung ist vor allem die Grundannahme der Person­ zentrierten Beratung interessant, dass Rat"
+      },
+      {
+        "rank": 5,
+        "id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+        "score": 0.8387462496757507,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1235,
+          "_split_overlap": [
+            {
+              "doc_id": "f1aa242f3d992072ac200f1611292380b23e515811bf607285987648a58ae472",
+              "range": [
+                1235,
+                1605
+              ]
+            },
+            {
+              "doc_id": "feacde067c71a2d987729b336c17467c4e6bb63fea3b873aef613a4f47962cdf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "ratsuchende Person beschreibt viele Entschei­ dungs- und Handlungsoptionen, die jedoch alle gleichrangig attraktiv oder schwer zu realisieren erscheinen. Sie äußert den Wunsch, Unterstützung bei der Entscheidungsfindung zu erhalten. Sie als Berater, fassen nun das Anliegen zusammen und teilen der ratsuchenden Person mit, dass Sie eine geeignete Methode zum Einsatz in Entscheidungsfindungsprozessen ken­ nen. Sie erläutern den Ablauf der Netzwerkmethode und den Nutzen der Moderationskarten. 3. \u0007Kernphase: Sie stehen nun an der Flipchart und bitten die ratsuchende Per­ Kommentar zum Einsatz Voraussetzungen für den Berater bzw. die Beraterin: Der oder die Bera­ tende sollte Grundwissen über systemische Beratung mitbringen und selbst in der Lage sein, Zusammenhänge und Abhängigkeiten schnell mitzudenken. Anliegen: Die ratsuchende Person äußert ein Entscheidungsproblem, formu­ liert mehrere Handlungsoptionen und ist unsicher, welches Ziel/Handlungs­ option zuerst angegangen werden soll. Phas"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_094.txt",
+    "question": "Inwiefern kann ein systemischer Beratungsprozess als personaler Bewältigungsprozess im beruflichen Kontext verstanden werden?",
+    "answer": "Ein systemischer Beratungsprozess kann als personaler Bewältigungsprozess im beruflichen Kontext verstanden werden, indem er die Selbststeuerungskompetenzen des Ratsuchenden erhöht und die jeweiligen Handlungsoptionen erweitert. Er umfasst die Kontexte, das Lebensumfeld der Ratsuchenden und die im System weiteren handelnden Akteure in Wechselwirkung zur ratsuchenden Person, was die Komplexität der aktuellen und biographischen Lebenserfahrungen der Ratsuchenden mit einbezieht. Systemische Fragetechniken sind lösungs- und nicht problemorientiert, es wird keine ausführliche Problemanamnese betrieben, es interessieren wenger die Defizite und Probleme der Vergangenheit. Der systemische Beratungsprozess kann daher als eine Form der bewussten Bewahrung und Erfahrung von Ressourcen im Kontext des Lernens in der Pflegeausbildung verstanden werden.",
+    "expected": "Ein systemischer Beratungsprozess kann als personaler Bewältigungsprozess verstanden werden, da er den Einzelnen unterstützt, berufliche Anforderungen in unterschiedlichen Lernorten zu meistern. Der Prozess fördert die persönliche Auseinandersetzung mit Herausforderungen und die Nutzung vorhandener Ressourcen zur erfolgreichen Bewältigung der beruflichen Situation.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d9c510e8fe44e8e6066a8a1c564c5c221089c1df58e22063440c879cfc699563",
+        "score": 0.9984968900680542,
+        "meta": {
+          "file_path": "9783866496811_chapter_094.txt",
+          "source_id": "9a5c59e8341e0c0160fa175a837b6af6e6ef8f36add18761ba4c64fa81973442",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.4. Systemisch Beraten – aber wie? Der systemische Beratungsprozess soll als Hilfe bei notwendigen oder ge- wünschten Veränderungen oder der bewussten Bewahrung und Erfahrung von Ressourcen im Kontext des Lernens in der Pflegeausbildung verstanden werden. Lehrende, Praxisanleiter und Lernende üben alltäglich beratende Funktion aus. Im Kontext von Lernen kann ein professioneller systemischer Beratungsprozess selbst wesenhaft als personaler Bewältigungsprozess der beruflichen Anforderungen in den verschiedenen Lernorten angesehen wer- den. Hierzu gibt es bereits mehrere Veröffentlichungen. (vgl. u.a. Culley 2002, Lipitt/Lipitt1999) Beratungsmerkmale sind der strukturierte Prozess, die präzise Ziel-und Auf- tragsklärung, das Tempo und die Geschütztheit des Klienten /Ratsuchenden, die ethischen Prinzipien, die Kenntnis von Grenzen und deren Respekt, der Vertrauensschutz. (vgl. Zwicker-Pelzer 2010:43-54) Unsere hier dargelegten modellhaften Phasen eines Beratungsprozesses sind der Veröffen"
+      },
+      {
+        "rank": 2,
+        "id": "ef208b6a7f28dbea824911b9313fe6034547bf09fa361ce86850738c4e83c1e5",
+        "score": 0.9954906105995178,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7020,
+          "_split_overlap": [
+            {
+              "doc_id": "6537cc4d355a8dfe871718327848dee45e39519395bbdf0e03796af7f53a32c8",
+              "range": [
+                1189,
+                1576
+              ]
+            },
+            {
+              "doc_id": "a735c85e603e93fddcbb64474e6055e4ed4a0088928e9a68af279ea89f6c2e5d",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "die Beteiligten wesentlichen Einfluss auf die Ergebnisse des Der Berater als fachlicher Experte eher Domänenspezifische Lernberatung Im Lernprozess der Pflegeberatung eher systemische Beratung Der Berater als Prozessspezialist gemeinsamen Prozesses haben. So weiß weder der Beratung-Gebende noch der Beratung-Suchende genau, was am Ende des Prozesses sein wird. In jeder neuen Begegnung werden beide gefordert sein, sich immer wieder neu auf- einander zu beziehen und die Auftragsklärung miteinander immer wieder aktualisiert zu vollziehen. Zum Anfang des gesamten Prozesses ist an dem Auftrag vertieft zu arbeiten, der dann für mehrere Beratungsstunden hand- lungsleitend sein wird. Es kann aber auch vereinbart werden, gar keinen festen Auftrag am Anfang zu formulieren, sondern sich dem beiderseitigen Entwicklungsprozess zu überlassen und miteinander schrittweise im Prozess selbst die Beratungsaufträge an die Situationen anzupassen. Im Kontext der Pflegeausbildung und dort im Handlungsfeld der"
+      },
+      {
+        "rank": 3,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.9859278202056885,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 4,
+        "id": "aad963b4049b5ae336068a34ca7c96a1edcfd61f7be842c00a5f1d27fb3f3c76",
+        "score": 0.973108172416687,
+        "meta": {
+          "file_path": "9783847412304_chapter_10133.txt",
+          "source_id": "ee380522d367ddf134510fda37e8ca8d6b6ceeeb9564c9ed633ca1344ae4c28e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9279d4024c8ea15b131f8a7df9d1f4166330e4f85c5bb13b75e87f93c9c587f4",
+              "range": [
+                0,
+                322
+              ]
+            }
+          ]
+        },
+        "content": "3.3 Wirkfaktor: ergebnisorientierte Problemreflexion Der dritte Fall bezieht sich auf ein seit zwei Jahren freigestelltes Personalratsmitglied (40 Jahre, männlich). Neben seiner Personalratstätigkeit ist er parteipolitisch engagiert und mit drei Kindern stark familiär eingebunden. Im Moment pausiert sein Personalratsmandat, weil er für eine Führungslaufbahn im öffentlichen Dienst eine Bewährungszeit als Führungskraft nachweisen muss. Diese absolviert er aktuell. Für ihn stellt sich die Frage, ob er in den Personalrat zurückkehren, also einen Übergang wieder hinein oder ganz heraus aus dem Personalrat gestalten will. Speziell diese Entscheidungskonstellation, aber auch generell seine beruflichen Entwicklungsmöglichkeiten möchte er in der Beratung reflektieren. Gegen Ende des Beratungsprozesses nach u. a. einer verkürzten Kompe- tenzbilanzierung wird seine aktuelle Lebenssituation mit der Methode „Le- bensrad“ (Gasteiner 2014: 84f.) reflektiert, um daraus Schlussfolgerungen für die zukün"
+      },
+      {
+        "rank": 5,
+        "id": "604c8e6639199e3d00e16f4a6ba9989f98fb087781c5c0f6966c24dd4623198a",
+        "score": 0.9669609665870667,
+        "meta": {
+          "file_path": "1001586_chapter_073.txt",
+          "source_id": "df5c987964cfe796d7648750df82cb8635127c219f625609b99c97aa86d6082c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1124,
+          "_split_overlap": [
+            {
+              "doc_id": "0bac526cf660429621eb5939ec652fc83996c4d53cbbcb08416cdb6ed5c08850",
+              "range": [
+                1124,
+                1505
+              ]
+            },
+            {
+              "doc_id": "4ee7a95a9346e491463302b56ada7f9d090427bf2e03f46432d77efb4acd51a8",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Schwing u.a. 2012: 26). Der Systembegriff als Konstrukt hilft diese zu ordnen. Vorgänge in Systemen werden als Wechselwirkungs-Prozesse im Interaktionszusammenhang gesehen, als Folge von Ursache- und Wirkungs­ zusammenhängen. Menschen unterscheiden sich darin, wie weit sie selbst davon überzeugt sind, Beziehungsgefüge und Systeme durch ihr eigenes Verhalten und durch ihre Sicht auf die Dinge beeinflussen zu können. Die Handlungsmaxime der systemischen Beratung ist daher, die Selbststeuerungskompetenzen des Rat­ suchenden zu erhöhen sowie die jeweiligen Handlungsoptionen zu erweitern. Im Vergleich zu anderen Beratungsansätzen erweitert sich die Betrachtung der einzelnen Person im Beratungsprozess im systemischen Blick; besonders um die Kontexte, das Lebensumfeld der Ratsuchenden und die im System wei­ teren handelnden Akteure in Wechselwirkung zur ratsuchenden Person. So wird die Komplexität der aktuellen und biographischen Lebenserfahrungen der Ratsuchenden mit einbezogen. Systemische "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_094.txt",
+    "question": "Welche Rolle spielen ethische Prinzipien und der Vertrauensschutz im systemischen Beratungsprozess und warum sind sie besonders wichtig?",
+    "answer": "Die ethischen Prinzipien und der Vertrauensschutz spielen eine wichtige Rolle im systemischen Beratungsprozess. Sie sind besonders wichtig, da sie die Grundlage für ein vertrauensvolles und sicherer Beratungsprozess bilden. Der Berater muss die ethischen Prinzipien beachten und den Klienten schützen, um sicherzustellen, dass der Beratungsprozess nicht schädlich oder unangemessen ist. Der Vertrauensschutz ist wichtig, um den Klienten zu ermöglichen, sich offen und ehrlich auszudrücken, ohne Angst vor einer negativen Bewertung oder Konsequenzen zu haben. Die ethischen Prinzipien und der Vertrauensschutz sind entscheidende Elemente für eine erfolgreiche und respektvolle Beratung. (vgl. Zwicker-Pelzer 2010:43-54) I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the answer in the provided context. I cannot find the",
+    "expected": "Ethische Prinzipien und Vertrauensschutz sind zentral im systemischen Beratungsprozess, da sie die geschützte und respektvolle Atmosphäre gewährleisten, die notwendig ist, damit der Klient offen und ehrlich kommunizieren kann. Sie verhindern Übergriffe und fördern die Achtung der Grenzen des Ratsuchenden, was eine vertrauensvolle Beziehung und somit einen erfolgreichen Beratungsprozess ermöglicht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d9c510e8fe44e8e6066a8a1c564c5c221089c1df58e22063440c879cfc699563",
+        "score": 0.8459171056747437,
+        "meta": {
+          "file_path": "9783866496811_chapter_094.txt",
+          "source_id": "9a5c59e8341e0c0160fa175a837b6af6e6ef8f36add18761ba4c64fa81973442",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.4. Systemisch Beraten – aber wie? Der systemische Beratungsprozess soll als Hilfe bei notwendigen oder ge- wünschten Veränderungen oder der bewussten Bewahrung und Erfahrung von Ressourcen im Kontext des Lernens in der Pflegeausbildung verstanden werden. Lehrende, Praxisanleiter und Lernende üben alltäglich beratende Funktion aus. Im Kontext von Lernen kann ein professioneller systemischer Beratungsprozess selbst wesenhaft als personaler Bewältigungsprozess der beruflichen Anforderungen in den verschiedenen Lernorten angesehen wer- den. Hierzu gibt es bereits mehrere Veröffentlichungen. (vgl. u.a. Culley 2002, Lipitt/Lipitt1999) Beratungsmerkmale sind der strukturierte Prozess, die präzise Ziel-und Auf- tragsklärung, das Tempo und die Geschütztheit des Klienten /Ratsuchenden, die ethischen Prinzipien, die Kenntnis von Grenzen und deren Respekt, der Vertrauensschutz. (vgl. Zwicker-Pelzer 2010:43-54) Unsere hier dargelegten modellhaften Phasen eines Beratungsprozesses sind der Veröffen"
+      },
+      {
+        "rank": 2,
+        "id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+        "score": 0.8139989376068115,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1227,
+          "_split_overlap": [
+            {
+              "doc_id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+              "range": [
+                1227,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidungs- und Übergangsberatung resultieren kann, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Methodenbeschreibungen spielen für das Erlernen von Beratungskompe­ tenz eine wichtige Rolle. Sie haben den Vorteil, dass sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Auch wenn es sich immer um abstra­ hierte Beratungsprozesse handelt, transportieren sie Ideen für ein Vorgehen, das erfahrene Beraterinnen und Berater entwickelt haben. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho­ den und Techniken wert zu legen, um deutlich zu machen, dass die Metho­ denkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi­ nierbare Bausteine weniger äußere Vora"
+      },
+      {
+        "rank": 3,
+        "id": "9b9a92f8e14455f0a19055c5e542b303b0210737b245fed79a972bcc8f1fd4fc",
+        "score": 0.46777650713920593,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1261,
+          "_split_overlap": [
+            {
+              "doc_id": "816c068ea1a69ae93978190057c5e5822ac8a6882731928f75880c5fd02920f7",
+              "range": [
+                1261,
+                1667
+              ]
+            },
+            {
+              "doc_id": "d4181cd52317079e9d1d2aa386a6a4080a9809eb4719b3b72259104561617d2b",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "des Be­ ratungsfeldes steht ebenfalls noch aus (vgl. Maier-Gutheil und Nierobisch 2015, S. 30). Stattdessen existieren unterschiedliche Theoriemodelle und Systematisierungsversuche, welche jedoch ein sehr umfassendes Bild von Bildungs- und Berufsberatung in unterschiedlichen Kontexten vermitteln. Die Darstellung dieser Zugänge soll hier genutzt werden, um das breite Auf­ gabenspektrum der Bildungs- und Berufsberatung und die unterschiedli­ chen Perspektiven auf die Zielsetzungen zu verdeutlichen. Nach Preißer (vgl. 2012, S. 14f.) erfolgen die Systematisierungen nach Leitideen, Themenfel­ dern, Beratungsanlässen, Zielgruppen, Zielen, Beratungsformen, der Reich­ weite, dem Medium und den Beratungsmethoden. Nachfolgend werden drei ausgewählte Systematisierungen nach Gieseke und Opelt (vgl. 2004), Schiersmann und Remmele (vgl. 2004) sowie Arnold und Mai (vgl. 2008) aus­ führlicher dargestellt und in Bezug auf die Einordnung von Anerkennungs­ beratung reflektiert. Auf der Grundlage von Gesp"
+      },
+      {
+        "rank": 4,
+        "id": "46a2a3aa778bde7575f262f0efea72fd70efcdfbf22610ac63b594942e63d6eb",
+        "score": 0.35024720430374146,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10882,
+          "_split_overlap": [
+            {
+              "doc_id": "7a32c65e05e86a68631caf913ad4a0ff0c5f356be7ec51436b5712368364bef0",
+              "range": [
+                1082,
+                1503
+              ]
+            },
+            {
+              "doc_id": "9c24ff5126e67150f216f4f22979b8ae865df1cd3a43cc43768a5a9764611df2",
+              "range": [
+                0,
+                327
+              ]
+            }
+          ]
+        },
+        "content": "der Klienten hier auf die Lernenden/ Lehrenden/Praxisanleiter übertragen, dass bleiben wir im systemischer Beratungsprozess. Sobald eine Verbindlichkeit wie wir sie bei der Erbringung von Leistungsnachweisen und/oder Lernaufgaben in Aus- bildungskontexten kennen, erwartet bzw, vereinbart wird, wird dem tatsächli- chen Anforderungsprofil systemsicher Beratung nicht entsprochen. Verwirrend kann erlebt werden, wenn dann in solchen Commitment- Sitzungen Methodenbausteine eingesetzt werden, die aus dem Handlungsfeld der systemischen Familientherapie stammen. Da muss dann eine genaue Betrachtung her, die die Differenzen zwischen Methodik und Methodologie bzw. Konzeption wahrnimmt. Das Prinzip der Reflexionsorientierung kann im Sinne des Zurückblickens und des Vorausschauen vom gegenwärtigen Standpunkt aus gestaltet werden. Damit können die Wechselwirkungen zwischen den Zeitzonen betrachtet werden (vgl. Kemper/Klein 1998:44). Hierzu die Vorschläge von KEMPER und KLEIN: - „Welche inhaltlichen "
+      },
+      {
+        "rank": 5,
+        "id": "ac64a8312846d6ed4903342ac202972d6d05880186bf48d0813b37faf5fb3a52",
+        "score": 0.25605255365371704,
+        "meta": {
+          "file_path": "9783866496811_chapter_093.txt",
+          "source_id": "826d654414b5870a514b3ca850e10f6b57e45a6c67c324832e379dae664d3526",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6978,
+          "_split_overlap": [
+            {
+              "doc_id": "fe7ae8d7093ee904819d9c50a733598a5d78a748ba992d5c611cee05c3a0e72a",
+              "range": [
+                1137,
+                1530
+              ]
+            },
+            {
+              "doc_id": "c6bfd2526414356fcbd6fa3573a766d65e10cdfc664829848104ba7c73920644",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "partnerschaftliches Gespräch benötigt einen sanktionsfreien Raum, den es natürlicherweise in einem institutionalisierten Ausbildungsprozess so nicht gibt. Sowohl Lehrer als auch Praxisanleiter sind häufig mit Bewertungen von Leistungen verbunden und keineswegs frei. Dies widerspricht dem Ethos systemischer Beratung, die sich hiervon freima- chen möchte und die eigene Rolle und Bewertung an sich im Beratungsprozess mit thematisiert. Abb.13: systemische Beratung und Lernberatung im Prozess Für Lösungen in problematisch erlebten Schulsystemen schlagen VON SCHLIPPE und SCHWEITZER (vgl. 2003:254-256) hilfreiche Vorgehens- weisen vor: - eine weite Fassung des Schul-Problem-Systems - Akzeptanz anfänglicher Schulzuweisungen - Anschl. Eingrenzung auf relevante Sub-Systeme - Gemeinsame Erstgespräche mit den am Problemfall benannten Per- sonen - Den Lernenden als Ressourcenträger und nicht als Problemfall wahrnehmen ist in dieser gemeinsamen Sitzung wesentlich - Entscheidende Unterschiede zwische"
+      }
+    ]
+  }
+]

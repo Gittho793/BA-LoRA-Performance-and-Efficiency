@@ -1,0 +1,739 @@
+[
+  {
+    "filename": "1001586_chapter_089.txt",
+    "question": "Wer ist der Urheber der Netzwerkmethode und wofür wird sie hauptsächlich eingesetzt?",
+    "answer": "Die Netzwerkmethode wurde von Werner Vogelauer entwickelt. Sie wird hauptsächlich zur Unterstützung von Coaching-Prozessen eingesetzt, um die Ziele und die Handlungsoptionen der Ratsuchenden zu klären und zu priorisieren. Die Methode besteht aus einer Handlungsmatrix, die den Ratsuchenden hilft, ihre Ziele und Handlungsoptionen zu visualisieren und zu priorisieren. Die Methode wird auch zur Unterstützung von Entscheidungsprozessen eingesetzt, um die Ratsuchenden zu unterstützen, ihre Ziele zu erreichen. Die Netzwerkmethode kann auch zum Abschluss des Beratungsverhältnisses überleiten.",
+    "expected": "Die Netzwerkmethode geht auf Dr. W. Vogelauer zurück und dient hauptsächlich zur Visualisierung komplexer Entscheidungsmöglichkeiten einer ratsuchenden Person, um bei der Priorisierung von Handlungsoptionen zu unterstützen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "feacde067c71a2d987729b336c17467c4e6bb63fea3b873aef613a4f47962cdf",
+        "score": 0.9566737413406372,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2387,
+          "_split_overlap": [
+            {
+              "doc_id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+              "range": [
+                1152,
+                1531
+              ]
+            },
+            {
+              "doc_id": "c282553302bec0c2e844e59cad4975f6fe834907c1416a2cf39161b781012f9c",
+              "range": [
+                0,
+                312
+              ]
+            }
+          ]
+        },
+        "content": "darauf, dass grundlegende Informationen über den Beratungsan­ lass und Inhalt bereits thematisiert wurden und nun in eine Reihenfolge und Ordnung gebracht werden müssen. Wird die Netzwerkmethode erfolgreich durchgeführt, kann sie zum Abschluss des Beratungsverhältnisses überleiten. Die Handlungsmatrix Vorhaben Was? Wie? (Bis) wann? Mit wem? Zusätzliches? Option A Option B ... Abb. 23: Die Handlungsmatrix der Netzwerkmethode (s. Vogelauer 2011) Zum Weiterlesen Vogelauer, Werner (2011): Methoden-ABC im Coaching. Praktisches Handwerks­ zeug für den erfolgreichen Coach. 6. Aufl. Köln, S. 199 ff. Beratungsbeispiel […] Berater [B]: Sie hatten ja von mehreren Möglichkeiten für Ihre Zukunft gesprochen, welche verschiedenen Handlungsoptionen haben Sie? Ratsuchender [R]: Also, ich würde ja gerne mein Hobby Yoga weiter ausbauen, ich weiß nicht, ob man das irgendwie als Beruf, also ob man das irgendwie so ändern kann, dass ich Kurse gebe. Also Yoga macht mir auf jeden Fall sehr viel Spaß und ich m"
+      },
+      {
+        "rank": 2,
+        "id": "14ec846eb1fc9cc21221f6d3e2398d9010d185299ede54334eb6353e8f99957b",
+        "score": 0.9370306730270386,
+        "meta": {
+          "file_path": "9783839444856_chapter_07424.txt",
+          "source_id": "94deff8d3a809562d86ce29185b163f6f439fc80493ffc9571ca71f93ab79ed6",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3433,
+          "_split_overlap": [
+            {
+              "doc_id": "ef178120fdb4f0782a18c1b9c6a1ad96919e5b461ee6589e17a385fcdd17925a",
+              "range": [
+                1128,
+                1502
+              ]
+            },
+            {
+              "doc_id": "24101f04d274e4c741be988a6f6fbc797526c92dc5686d04b75fcbce66c80b1b",
+              "range": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        "content": "damit zwar nicht aufgelöst, jedoch werden diese kritisch reflektiert und hinterfragt. Voraussetzung hierfür ist eine Generalisierung der Einzelfälle, wodurch eine kritische Auseinandersetzung mit den strukturellen Bedin­ gungen des Systems möglich wird. »Wir nennen es Aufbereitung der Anerkennungslandschaft, dass wir sukzes­ siv …, denn jetzt …, vorher waren wir halt nur in Einzelfällen, und jetzt haben wir die Möglichkeit, mehr Überblick zu bekommen. Das heißt, wir versuchen das aufzuarbeiten, haben jetzt auch zugearbeitet, natürlich, in die verschie­ denen Institutionen hinein […]. Und unsere nächste Zukunft ist einfach, dass dieses Vernetzen vorangetrieben wird, aber auch tatsächlich dieses Auf­ arbeiten der Anerkennungslandschaft, dass es einfach ein bisschen objekti­ vierbarer wird oder dass man auch mehr Fälle hat, wo man aus dem Einzelfall herauskommt […] dass man ein Gefühl bekommt, das ist eigentlich in dieser Systematik normal, und daraus nachher Schlüsse ziehen oder andere S"
+      },
+      {
+        "rank": 3,
+        "id": "b1d9035852d6d1a00b8f7e33df518dc860b024efa08257e3d30b98a9b63e7d72",
+        "score": 0.8868792057037354,
+        "meta": {
+          "file_path": "1001586_chapter_083.txt",
+          "source_id": "f0eefd12cd3b5c30d0b154354d0a609f74c00abaec78f4a5b39a77c75cc84270",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6187,
+          "_split_overlap": [
+            {
+              "doc_id": "b72274aa713e3ab4a51cd87833cb570baac39f1127f968e5e4a1a8e3175f1fa0",
+              "range": [
+                1011,
+                1347
+              ]
+            },
+            {
+              "doc_id": "93a3738b116cd4a7d8b1914e1e164701c3faf298b05cc8615eac41e37e0fbd0a",
+              "range": [
+                0,
+                308
+              ]
+            }
+          ]
+        },
+        "content": "dass Sie Ihre Vorschläge aus guten Gründen unterbreiten, dass sie diese aber als offene Prozesse sehen, die vor allem dazu dienen, Möglichkeitsräume zu eröffnen, die durch Ideen und Gedanken von beiden Seiten gefüllt werden. Methoden im Prozess anpassen Methoden lassen sich ganz gut danach unterscheiden, wie flexibel sie einge­ setzt werden können. Es gibt manche, die es kaum erlauben, während des Pro­ zesses Veränderungen vorzunehmen. Wenn ich einmal mit der Metapher des „Lebensbaums“ (S. 151) begonnen habe, ist es schwierig, auf eine ganz andere Visualisierung zu wechseln. Andere Methoden, wie z.B. die Netzwerkmethode (S. 162) bieten dagegen gleich mehrere Etappen an, von denen ich auch nur einzelne nutzen kann. Methoden verlassen – Aktive Arbeit mit Widerständen Es kann allerdings auch vorkommen, dass ich die Passung zwischen Metho­ de, ratsuchender Person und Anliegen bei meinem Vorschlag nicht gut ein­ schätzen konnte. Dies kann vielfältige Gründe haben. Jeder Vorschlag ist in der"
+      },
+      {
+        "rank": 4,
+        "id": "24101f04d274e4c741be988a6f6fbc797526c92dc5686d04b75fcbce66c80b1b",
+        "score": 0.8840508460998535,
+        "meta": {
+          "file_path": "9783839444856_chapter_07424.txt",
+          "source_id": "94deff8d3a809562d86ce29185b163f6f439fc80493ffc9571ca71f93ab79ed6",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4496,
+          "_split_overlap": [
+            {
+              "doc_id": "14ec846eb1fc9cc21221f6d3e2398d9010d185299ede54334eb6353e8f99957b",
+              "range": [
+                1063,
+                1435
+              ]
+            },
+            {
+              "doc_id": "501c2b2edd766ebeefa5e8f5e2b8b472e71ace015f9bdf4f59bdda12e3e1d098",
+              "range": [
+                0,
+                283
+              ]
+            }
+          ]
+        },
+        "content": "mehr weitergeht« (A/ AT, Z. 400-414). In diesem Interviewausschnitt wird dabei noch nicht von einer Kritik an be­ stehenden Strukturen gesprochen, sondern stattdessen von einer Form des Wissensmanagements. Im ersten Schritt soll überhaupt erst ein einheitli­ ches und transparentes System geschaffen werden, welches die Grundlage für eine kritische Auseinandersetzung und Verbesserungen bilden kann. Während in Österreich diese systematische Bearbeitung der Beratungs­ fälle und die landesweite Zusammenarbeit durch die Koordinierungsstelle strukturell verankert sind, wird in Deutschland diese Rolle größtenteils vom IQ-Netzwerk übernommen bzw. durch unterschiedliche regionale Struktu­ ren. Trotzdem wird aus den Interviews in Deutschland deutlich, dass es sich hier nicht um ein geteiltes Selbstverständnis in der Anerkennungsberatung handelt, sondern um ein Handlungsfeld, welches von verschiedenen Bera­ tungsstellen und regionalen Netzwerken unterschiedlich umgesetzt wird. »[W]irklich diese st"
+      },
+      {
+        "rank": 5,
+        "id": "b8f4644fe12b4d4523487e1aa39e532a6213b90bf5fc5f4fb95357d6498b5da6",
+        "score": 0.7036740183830261,
+        "meta": {
+          "file_path": "9783839444856_chapter_0733.txt",
+          "source_id": "49b24248a218c8d45f82d86f56205210f88a633f70569e0099f3aebc522a0c69",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7766,
+          "_split_overlap": [
+            {
+              "doc_id": "f8f9ad9efa0fbda5ff18ca36b296051b605a273bd434f668c5109e2130a0415f",
+              "range": [
+                1078,
+                1432
+              ]
+            },
+            {
+              "doc_id": "77d5f663a9b17d6edcf20329a787b1b79cd9f46bae82a769216435b7acbbf724",
+              "range": [
+                0,
+                310
+              ]
+            }
+          ]
+        },
+        "content": "testen Sinne, wirklich. Diese Sensibilisierung …, und das kannst du natürlich, wenn du jetzt in die Netzwerke zuarbeitest und diese Kontaktpflege, diese ganze Vernetzungsgeschichte. Das gelingt begrenzt und natürlich sehr lang­ sam, aber es ist wirklich, also eine ganz globale breite gesellschaftliche Frage, wie weit sind wir bereit, die ausländischen Qualifikationen anzuerkennen, wenn es um Nichtreglementierte geht« (B/AT, Z. 906-915). Dieser Widerspruch wird in einem Interview in Deutschland ganz ähnlich thematisiert. Der weit verbreiteten defizitorientierten Sichtweise in der Öf­ fentlichkeit wird hier bewusst ein ressourcenorientierter Beratungsansatz gegenübergestellt. Die zuvor dargelegte Entwicklung von einer defizitorien­ tierten »Ausländerpädagogik« zu einer ressourcenorientierten Perspektive auf Migration wird damit in Bezug auf die im Ausland erworbenen Qualifi­ kationen wieder zu einem aktuellen Thema. »[A]ber das ist so ein gesamtgesellschaftliches Problem, dass ausländisc"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_089.txt",
+    "question": "Welche Phasen im Beratungsprozess sind für den Einsatz der Netzwerkmethode besonders geeignet und warum?",
+    "answer": "Die Methode des „Netzwerks“ kann in verschiedenen Phasen des Beratungsprozesses eingesetzt werden. Die Netzwerkmethode ist besonders geeignet für die Phase, in der die Ratsuchende ihre Ziele und Prioritäten klären muss. In dieser Phase kann die Ratsuchende ihre verschiedenen Beziehungen und Netzwerke identifizieren und analysieren, um ihre Ziele zu erreichen. Die Methode kann auch in der Phase der Umsetzung eingesetzt werden, um die Ratsuchende bei der Implementierung ihrer Ziele zu unterstützen. Die Netzwerkmethode ist jedoch nicht geeignet für die Phase der Abschiednahme, da sie sich auf die Entwicklung und Unterstützung von Beziehungen und Netzwerken konzentriert und nicht auf die Abwicklung der Beratung. Die Methode ist auch nicht geeignet für die Phase der Vorbereitung, da sie sich auf die Analyse und Identifizierung von Beziehungen und Netzwerken konzentriert und nicht auf die Vorbereitung der Beratung. Es ist jedoch zu beachten, dass die Netzwerkmethode flexibel ist und in verschiedenen Phasen des Beratungsprozesses eingesetzt werden kann, solange die Ratsuchende bereit ist, ihre Beziehungen und Netzwerke zu analysieren und zu entwickeln. Die Methode kann auch in Kombination mit anderen Methoden eingesetzt werden, um die Ratsuchende bei der Erreichung ihrer Ziele zu unterstützen. Insgesamt ist die Netzwerkmethode eine geeignete Methode für die Beratung, wenn die Ratsuchende ihre Beziehungen und Netzwerke analysieren und entwickeln möchte. Sie kann in verschiedenen Phasen des Beratungsprozesses eingesetzt werden und ist flexibel in ihrer Anwendung. \n\nI cannot find the answer in the provided context. However, based on the context, the Netzwerkmethode (Network Method) is described as a method that can be applied in different phases of the counseling process. The context does not specifically mention which phases are particularly suitable for the Netzwerkmethode, but it does mention that the method is flexible and can be used in various phases of the counseling process. Therefore, I would suggest that the Netzwerkmethode can be applied in various phases",
+    "expected": "Die Netzwerkmethode wird im Übergang von der Mittel- zur Endphase der Beratung eingesetzt, weil in dieser Phase bereits grundlegende Informationen zum Beratungsanlass gesammelt wurden und nun die Optionen in eine Reihenfolge und Ordnung gebracht werden müssen, um die Entscheidungsfindung zu unterstützen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ed967c9db20b3b758c0bbc829676c74affedb5d8bc24a4c13a3f026b8190fea0",
+        "score": 0.9974314570426941,
+        "meta": {
+          "file_path": "1001586_chapter_084.txt",
+          "source_id": "5134f1b377f44191938ba67612ea64aa34ed406e509d4f76c59028805d32c746",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1195,
+          "_split_overlap": [
+            {
+              "doc_id": "d30040bb6cbdd06c484267e261592912b257729c0a106374453b482b9bd9ef1d",
+              "range": [
+                1195,
+                1543
+              ]
+            },
+            {
+              "doc_id": "343427ede4f8fd12a6070feebb768b6c09da48e7bfbff7cfa66461123b8cc9b9",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "geben oft schon Vorschläge für eine Schrittfolge, in der die Visualisierung in den Beratungsprozess integriert wird. In Methoden werden also schon Ent­ scheidungen vorweg genommen, z.B. mit welcher Metapher gearbeitet wird, in welcher Phase die Methode eingesetzt werden kann und welche Fragen durch den Beratungsprozess führen. Hier soll nun eine Auswahl an grundlegenden Visualisierungstechniken beschrieben werden, in denen diese Entscheidungen noch nicht getroffen wurden. Die Techniken lassen sich daher unterschiedlich in Beratungssituati­ onen zusammenfügen und frei in verschiedene Phasen integrieren. Stichwortkarten Als Material lassen sich Moderationskarten (10x8 cm), Karteikarten (A6, A7), Klebezettel oder selbst zugeschnittene Karten nutzen. Das Grundprinzip ist immer das gleiche. Im Beratungsprozess werden Stichworte nicht als Liste aufgeschrieben, sondern auf frei bewegliche Karten. Je nach Platz auf dem Tisch oder an der Pinnwand sowie Größe der Karten werden sie mit dicke­ ren"
+      },
+      {
+        "rank": 2,
+        "id": "c4977ff04aa693c0d8f929b6799407e0ab865ec92d3ec25087f812587caf64e5",
+        "score": 0.9928032755851746,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5525,
+          "_split_overlap": [
+            {
+              "doc_id": "dc9ac465e906135bbc0f4014452f4f66affd9c0d43a1fdcb23ca5dc4a176ae40",
+              "range": [
+                1104,
+                1472
+              ]
+            },
+            {
+              "doc_id": "6b9893e7df5aef25cf53eb4f5bc18fef8c7877467a2981bd76b2652523301d57",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "dieser Phase außerdem gemeinsam mit dem bzw. der Ratsuchenden den Rückblick auf Verlauf und Erfolge der Be­ ratung und im nächsten Schritt den Ausblick. Der Berater bzw. die Beraterin thematisieren die gewachsene Neuorientierung für die Zukunft, vermitteln resümierend Zuversicht in die gewonnenen, erarbeiteten Handlungsperspek­ tiven, dass große Probleme zu kleinen bewältigbaren, lösungsorientierten Schritten geworden sind. Strukturierende und wertschätzende Fragen kön­ nen sein: „Welche Impulse möchte der zu Beratende weiter verfolgen, und welche Fragen, Wünsche und Ziele haben sich aus der oder den Beratungen ergeben?“ (Brügge­ mann u.a. 2009: 111) Abschied gestalten Die Beraterin bzw. der Berater leiten behutsam den Raum für die Zelebrie­ rung des Abschieds ein. Wichtige Elemente sind sowohl eine Kurzevaluati­ on des Beratungsprozesses, Höhen und Tiefen des Beratungsweges können noch einmal Raum bekommen, ein Feedback zur Person und Vorgehenswei­ sen des Beraters oder der Beraterin "
+      },
+      {
+        "rank": 3,
+        "id": "844727704acc68e89750ddcf15839e72d3dfe9c8af8aef49574ecae4fd24a438",
+        "score": 0.9911017417907715,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5145,
+          "_split_overlap": [
+            {
+              "doc_id": "2aeabd3654cdce11f23978bb6c472de964eef8e323b6dc9b7f7392ab91bc3bad",
+              "range": [
+                1268,
+                1689
+              ]
+            },
+            {
+              "doc_id": "91b2fcbe6146b590096e95c36f3380d304ae9bc8cf67aee720871bbffacfc062",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "Organisationale und institutionelle Strukturen von Beratung ändern sich sehr rasch. Beispiele sind neue Aufgaben im Kinderschutz, das Hinzukommen medial vermittelter Beratung im Sinne von Blended Counseling und so weiter. Diese Heterogenisierung der Beratungslandschaft geht zusätzlich mit einer Zunahme von Beratungsangeboten einher. In der Folge können aktuelle Professionalisierungswünsche hinsichtlich Beratung nicht mehr auf den überlieferten Strukturkern einer im wesentlichen gesetzten Beratungsinfrastruktur aufsetzen. Beratung als Handlungsform ist angesichts dieser Heterogenisierung aus ihren Strukturen freigesetzt, ähnlich wie das Unterrichten, das sich angesichts rasch ausdifferenzierender Schulformen- und konzepte zunehmend auch wieder aus seiner eigentlichen pädagogischen Praxis heraus und nicht (nur) entlang der Institution Schule legitimieren muss. Zweitens bedeutet Bologna, dass Professionalisierungsprozesse schon früher zielgerichtet beginnen als im bisherigen berufsbiograp"
+      },
+      {
+        "rank": 4,
+        "id": "978ca4a74eea5a49d5f3b720b8cfee426878a93cd3d421add6d68881371c6866",
+        "score": 0.9851359724998474,
+        "meta": {
+          "file_path": "1001586_chapter_0855.txt",
+          "source_id": "6abd44ab0aa0b0738551347b5a57af10e46274824d6f3df05b3a57fc069e7cde",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5094,
+          "_split_overlap": [
+            {
+              "doc_id": "47411ae7807e2b43456afd3cfd4f5dd79f36ce8dda4375232b0d8813cb25687a",
+              "range": [
+                1018,
+                1371
+              ]
+            },
+            {
+              "doc_id": "ce1bc7d903c654450e4099da9cbf6dcb8c60e25378f6cc3834feab0c7aeb2197",
+              "range": [
+                0,
+                342
+              ]
+            }
+          ]
+        },
+        "content": "sie auch in Zukunft zurückgreifen. Nicht immer muss eine Entscheidung sofort getroffen werden, es gilt innere Unstimmigkei­ ten auch mal auszuhalten, um nach genauer Überlegung bewusst zu handeln. Phase im Beratungsgespräch: Für die Methode des „Inneren Teams“ gibt es nicht die alleinige, optimale Beratungsphase. Aber es gibt Voraussetzungen, die vor der Anwendung erfüllt sein sollten, um ein gutes Gelingen zu ermöglichen. Zwischen beratender und ratsuchender Person sollte eine wertschätzende und vertrauensvolle Beziehung bestehen. Da sich die Beziehung aber zunächst aufbauen muss, kann die Methode gut in der Mittel­ phase eines Beratungsgespräches angewandt werden. Ist die Methode jedoch einmal angewendet worden, kann sie auch am Anfang des nächsten Bera­ tungsgesprächs genutzt werden. Zum Weiterlesen Schulz von Thun, Friedemann (2008): Miteinander reden: 3. Das „Innere Team“ und situationsgerechte Kommunikation. Hamburg. Beratungsbeispiel Die Beraterin und der Ratsuchende erstellen n"
+      },
+      {
+        "rank": 5,
+        "id": "08e445bb1c9799baea3a8f109a73ecde37b4d25bb2587b831e1476efe139fef2",
+        "score": 0.9804604649543762,
+        "meta": {
+          "file_path": "9783866496811_chapter_11.txt",
+          "source_id": "b583be53ea4b64d62e1f93c258612e112070cfbe7d3bc99c54a55777d65af387",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7402,
+          "_split_overlap": [
+            {
+              "doc_id": "1a37d368229177a3f6eafec71a3464d08b25849f65385d9e1912a65a8dbd591a",
+              "range": [
+                1286,
+                1684
+              ]
+            },
+            {
+              "doc_id": "1fb7f1dd027021ead5d9f40b5ef34ba69d911f2cd3d8e1e561534991e00244d0",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "auf das letzte Werk von Renate Zwicker-Pelzer (Beratung in sozialer Arbeit 2010) Parallel zur Entwicklung der Grundlagen von Beratung wird sich der Profes- sionalisierungsprozess der Pflege auf die zukünftigen Beratungssettings in der Pflegelandschaft auswirken. Hier gilt unsere Aufmerksamkeit insbeson- dere den zukünftigen Forschungsbeiträgen zu den vielfältigen Facetten von Beratungsthemen in der Pflege und Pflegebildung. Hier sind die blinden Flecken noch sehr groß. Uns bewegt auch die Frage, wie diese sich parallel derzeit entwickelnden Prozesse miteinander sinnhaft verknüpft werden kön- nen, da ja gezeigt werden konnte, dass Beratung, ähnlich wie dem Berufsfeld der Sozialen Arbeit, integraler Bestandteil vom Pflegehandeln ist. Gemeinsame Projekte der Sozialen Arbeit und dem Gesundheitswesen könn- ten entstehen und in systemisch- und/oder fachlich ausgerichteten Foren sektorenübergreifende Impulse entwickeln. Politische und kulturelle Fragen sind von der Gesellschaft und ihrer Syst"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_089.txt",
+    "question": "Wie gestaltet sich der Ablauf der Netzwerkmethode in der Beratung, insbesondere in Bezug auf die Rolle des Beraters und der ratsuchenden Person?",
+    "answer": "In der Netzwerkmethode werden die ratsuchende Person und der Berater gemeinsam an der Flipchart stehen. Der Berater bittet die ratsuchende Person, Kommentare zum Einsatz der Netzwerkmethode abzugeben. Der Berater fasst das Anliegen der ratsuchenden Person zusammen und teilt mit, dass er eine geeignete Methode zum Einsatz in Entscheidungsfindungsprozessen kennt. Der Berater erläutert den Ablauf der Netzwerkmethode und den Nutzen der Moderationskarten. Die Kernphase der Netzwerkmethode besteht darin, dass der Berater und die ratsuchende Person gemeinsam an der Flipchart stehen und die Handlungsmatrix Vorhaben Was? Wie? (Bis) wann? Mit wem? Zusätzlich? Option A Option B... erarbeiten. Der Berater begleitet die ratsuchende Person in der abschließenden Entscheidungsfindung, welche Lösung(en) ihr als angemessen und Erfolg versprechend in ihrer Entscheidung für das weitere Handeln über die Beratung hinaus erscheinen. Nach einem längeren Beratungsprozess können nun die Ideen für die nähere (und weitere) Zukunft, die Maßnahmen, die Lösungsansätze in eine Vereinbarung bzw. in eine Visualisierung münden. Die Beraterin bzw. der Berater gestalten in dieser Phase außerdem gemeinsam mit dem bzw. der Ratsuchenden den Rückblick auf Verlauf und Erfolge der Beratung und im nächsten Schritt den Ausblick. Der Berater bzw. die Beraterin thematisieren die gewachsene Neuorientierung für die Zukunft, vermitteln resümierend Zuversicht in die gewonnenen, erarbeiteten Handlungsperspektiven, dass große Probleme zu kleinen werden. \n        Die Antwort kann in den bereitgestellten Texten nicht gefunden werden. \n\n        Antwort: Die Antwort kann in den bereitgestellten Texten nicht gefunden werden.  I cannot find the answer in the provided context.",
+    "expected": "Der Ablauf umfasst drei Schritte: 1) Vorbereitung des Flipcharts, Stifte und der Handlungsmatrix; 2) Einleitung, bei der die ratsuchende Person ihre gleichrangigen Handlungsoptionen beschreibt und der Berater das Anliegen zusammenfasst sowie die Methode erklärt; 3) Kernphase, in der der Berater gemeinsam mit der ratsuchenden Person die Optionen visualisiert, ordnet, abwägt und priorisiert. Der Berater sollte dabei über systemisches Grundwissen verfügen und Zusammenhänge schnell erfassen können.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+        "score": 0.9820203185081482,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1235,
+          "_split_overlap": [
+            {
+              "doc_id": "f1aa242f3d992072ac200f1611292380b23e515811bf607285987648a58ae472",
+              "range": [
+                1235,
+                1605
+              ]
+            },
+            {
+              "doc_id": "feacde067c71a2d987729b336c17467c4e6bb63fea3b873aef613a4f47962cdf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "ratsuchende Person beschreibt viele Entschei­ dungs- und Handlungsoptionen, die jedoch alle gleichrangig attraktiv oder schwer zu realisieren erscheinen. Sie äußert den Wunsch, Unterstützung bei der Entscheidungsfindung zu erhalten. Sie als Berater, fassen nun das Anliegen zusammen und teilen der ratsuchenden Person mit, dass Sie eine geeignete Methode zum Einsatz in Entscheidungsfindungsprozessen ken­ nen. Sie erläutern den Ablauf der Netzwerkmethode und den Nutzen der Moderationskarten. 3. \u0007Kernphase: Sie stehen nun an der Flipchart und bitten die ratsuchende Per­ Kommentar zum Einsatz Voraussetzungen für den Berater bzw. die Beraterin: Der oder die Bera­ tende sollte Grundwissen über systemische Beratung mitbringen und selbst in der Lage sein, Zusammenhänge und Abhängigkeiten schnell mitzudenken. Anliegen: Die ratsuchende Person äußert ein Entscheidungsproblem, formu­ liert mehrere Handlungsoptionen und ist unsicher, welches Ziel/Handlungs­ option zuerst angegangen werden soll. Phas"
+      },
+      {
+        "rank": 2,
+        "id": "dc9ac465e906135bbc0f4014452f4f66affd9c0d43a1fdcb23ca5dc4a176ae40",
+        "score": 0.8626748323440552,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4421,
+          "_split_overlap": [
+            {
+              "doc_id": "e2035c517443537d470514a30d9e85642b537b47ac7c04b92ecb68f7e63033a1",
+              "range": [
+                1129,
+                1491
+              ]
+            },
+            {
+              "doc_id": "c4977ff04aa693c0d8f929b6799407e0ab865ec92d3ec25087f812587caf64e5",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "Die Zielgerade der Beratung, die Endphase, ist erreicht, wenn der Ratsuchende die Überzeugung mit der Beraterin und dem Berater teilt, dass sein Anliegen bzw. die Klärungsthemen ausführlich und sorgfältig umfassend betrachtet, dass mehr Transparenz und Verständnis für die eigenen Beweggründe er­ reicht und dass die eigene Problemkompetenz erweitert wurde. Nun kann die Abschlussphase der Entscheidungsfindung, der Maßnahmensicherung und der Vereinbarung eingeleitet werden. Diese Phase zeichnet sich dadurch aus, dass der Blickwinkel der zu be­ ratenden Person sich nun bewusst lösungsorientiert wieder verengen darf. Die Beraterin bzw. der Berater begleiten Ratsuchende in der abschließenden Entscheidungsfindung, welche Lösung(en) ihm oder ihr als angemessen und Erfolg versprechend in seiner Entscheidung für das weitere Handeln über die Beratung hinaus erscheinen. Nach einem längeren Beratungsprozess können nun die Ideen für die nähere (und weitere) Zukunft, die Maßnahmen, die Lö­ sungsansät"
+      },
+      {
+        "rank": 3,
+        "id": "c146158e96dc8665345222da138233b2a5b5e935e6ff3e0752b4c709aafff3fe",
+        "score": 0.7734134197235107,
+        "meta": {
+          "file_path": "1001586_chapter_10.txt",
+          "source_id": "74935ab79138f13413a51a4f1a705b885231c17e8a389164d88c05d7eda3f261",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "db0c8b72deb6c8b64a516d92b2de850621be194fc8822fd62e5617233c993eda",
+              "range": [
+                0,
+                310
+              ]
+            }
+          ]
+        },
+        "content": "### 7 Es geschieht immer etwas … ### Karin Kress Beratungen durchzuführen ist eine der intensivsten Tätigkeiten im Kontakt mit Menschen. Wir begegnen für einen kurzen Zeitraum fremden Personen, die mit uns für sie wichtige, manchmal existenzielle Anliegen teilen. Beratung geht daher mit einem großen Vertrauensvorschuss einher, der auch Verunsi­ cherungen auf Seiten der Ratsuchenden mit sich bringt. Doch auch für Beraterinnen und Berater ist dies eine intensive und oft kraftraubende Tätigkeit. Sie stellen sich den Ratsuchenden mit all ihrem Wissen und ihren Fähigkeiten zur Verfügung, erbringen eine hohe Konzen­ trationsleistung, sich nicht nur inhaltlich, sondern auch emotional auf die Ratsuchenden einzuschwingen. Sie öffnen sich für die ganz unterschiedlichen Welten und Lebensumstände der Ratsuchenden und stellen eigene vorschnel­ le Reaktionen und Bewertungen der gehörten Lösungsstrategien zurück. Sie finden Umgehensweisen mit oft schwierigen Rahmenbedingungen, seien dies die Räumlich"
+      },
+      {
+        "rank": 4,
+        "id": "50f197ec6fc9413dfc50f015e182b7e736885adf9456bb426ab7d962d1ed2641",
+        "score": 0.7485689520835876,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6307,
+          "_split_overlap": [
+            {
+              "doc_id": "ff6c996a6a6f17693733db60ac906b3b89ca5db17823a4262c5e9dd44a83d122",
+              "range": [
+                1343,
+                1785
+              ]
+            },
+            {
+              "doc_id": "0ddfcf99875c993d18c6c6bc744488e03afaeb038cf2ff4a9bd7a981193afb0e",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "und reflektieren die Beratenden das wahrgenommene Beratungshandeln einer anderen Person und formulieren ggf. Verbesserungsvorschläge bzw. weitere Handlungsstrategien in Bezug auf die Gestaltung der jeweiligen Beratungssituation (Schiersmann/Petersen/Weber 2017, S. 58). Das Instrument zielt darauf, durch die Bewertung der Einschätzung fremden beraterischen Handelns etwas über die Beratungskompetenzen der Einschätzenden aussagen zu können. Insbesondere wird die Wahrnehmungsfähigkeit der Person bzgl. des beraterischen Handelns erfasst und im Abgleich mit Verhaltensmerkmalen, die empirisch gewonnen wurden, bewertet (Schiersmann/Petersen/Weber 2017, S. 58f.). Mit Hilfe eines leitfadengestützten Sitzungsbogens werden Beratende angeregt, gezielt über ihr kompetentes Handeln zu reflektieren. Basis ist ein selbst durchgeführtes Beratungsgespräch. Die Auswertung und Überprüfung des beraterischen Handelns kann im Abgleich mit möglichen Verhaltensweisen und Begründungen für das Handeln gewonnen we"
+      },
+      {
+        "rank": 5,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.7382404208183289,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_089.txt",
+    "question": "Welche Voraussetzungen sollte der Berater erfüllen, um die Netzwerkmethode effektiv anzuwenden, und warum sind diese wichtig?",
+    "answer": "Der Berater sollte Grundwissen über systemische Beratung mitbringen und in der Lage sein, Zusammenhänge und Abhängigkeiten schnell mitzudenken. Diese Voraussetzungen sind wichtig, weil sie es dem Berater ermöglichen, die Netzwerkmethode erfolgreich durchzuführen und die Ratsuchende zu unterstützen, ihre Entscheidungsfindung zu strukturieren. Wenn der Berater diese Fähigkeiten besitzt, kann er die Beziehung zwischen Ratsuchendem und Berater konstruktiv nutzen und eine angstfreie Entfaltung des Ratsuchenden ermöglichen. Außerdem kann er die Widerstände des Ratsuchenden ernstnehmen und ihnen ein Klima bieten, in dem Entfaltung angstfrei möglich ist. Dadurch kann ein Umstrukturierungsprozess vorangetrieben werden, der kognitiv, emotional und nachhaltig handlungsrelevant ist.",
+    "expected": "Der Berater sollte Grundwissen über systemische Beratung besitzen und in der Lage sein, Zusammenhänge und Abhängigkeiten schnell mitzudenken. Diese Voraussetzungen sind wichtig, weil die Methode darauf beruht, komplexe und miteinander verknüpfte Handlungsoptionen zu visualisieren und sinnvoll zu ordnen, was ein rasches Erfassen von Beziehungen zwischen Optionen erfordert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "49d1029e9818545fee9ca8f2a1cd0c6900b5f8c7c575349794ce67a4026140ae",
+        "score": 0.9298903942108154,
+        "meta": {
+          "file_path": "1001586_chapter_091.txt",
+          "source_id": "a8273a1ddb1643af5071b4632176285c2a7a594028ab130d6c75dcdcd50284a7",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 13037,
+          "_split_overlap": [
+            {
+              "doc_id": "4eddad3772794692a3fe7a76b8be1738d694b0c5bf3c80215e1af6643acd907a",
+              "range": [
+                966,
+                1314
+              ]
+            }
+          ]
+        },
+        "content": "die „Hauptsteuerungszentrale“ ist, trägt zur Reflexion und Förderung der eigenen Kongruenz bei: in sich zu hören, welche Formulierungen des Ratsuchenden sich gut anfühlen oder welche ein Unbehagen erzeugen und somit zu bemerken, wann es eine Diskrepanz zum eigenen Sprachgebrauch gibt. Und diese Fragen können ebenso dazu hilfreich sein, eine ggf. bestehende Methodenlastigkeit zu reflektieren: Welche Metho­ denart ist die bevorzugte der Beraterin oder des Beraters? Eher die emotions­ bezogenen oder die eher kognitiven Methoden? Darauf zu achten, wo Ratsuchende besonders empfindsam oder zu­ gänglich sind, wo Widerstand verspürt wird, ist ein Schritt zur Integration der Wahrnehmungsbereiche. Es setzt Empathie, Kongruenz und Wertschät­ zung im Umgang miteinander und mit sich selbst voraus und fördert diese Beziehungsbedingungen gleichermaßen. Es ist ein ständiges Wechselspiel von Kontaktanfrage und Kontaktantwort, das den ganzen Beratungsprozess durchzieht. Die Grenzen im Einsatz von Method"
+      },
+      {
+        "rank": 2,
+        "id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+        "score": 0.9242153167724609,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1235,
+          "_split_overlap": [
+            {
+              "doc_id": "f1aa242f3d992072ac200f1611292380b23e515811bf607285987648a58ae472",
+              "range": [
+                1235,
+                1605
+              ]
+            },
+            {
+              "doc_id": "feacde067c71a2d987729b336c17467c4e6bb63fea3b873aef613a4f47962cdf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "ratsuchende Person beschreibt viele Entschei­ dungs- und Handlungsoptionen, die jedoch alle gleichrangig attraktiv oder schwer zu realisieren erscheinen. Sie äußert den Wunsch, Unterstützung bei der Entscheidungsfindung zu erhalten. Sie als Berater, fassen nun das Anliegen zusammen und teilen der ratsuchenden Person mit, dass Sie eine geeignete Methode zum Einsatz in Entscheidungsfindungsprozessen ken­ nen. Sie erläutern den Ablauf der Netzwerkmethode und den Nutzen der Moderationskarten. 3. \u0007Kernphase: Sie stehen nun an der Flipchart und bitten die ratsuchende Per­ Kommentar zum Einsatz Voraussetzungen für den Berater bzw. die Beraterin: Der oder die Bera­ tende sollte Grundwissen über systemische Beratung mitbringen und selbst in der Lage sein, Zusammenhänge und Abhängigkeiten schnell mitzudenken. Anliegen: Die ratsuchende Person äußert ein Entscheidungsproblem, formu­ liert mehrere Handlungsoptionen und ist unsicher, welches Ziel/Handlungs­ option zuerst angegangen werden soll. Phas"
+      },
+      {
+        "rank": 3,
+        "id": "927c9982923ffe0e5c3bfa787581aa24eb60126c1c63deea7319519e41453791",
+        "score": 0.8325774073600769,
+        "meta": {
+          "file_path": "9783839444856_chapter_07431.txt",
+          "source_id": "5629f198b0898d4079278091d23193bd08a18f7743b6f854be3f8ee9d207afe9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1162,
+          "_split_overlap": [
+            {
+              "doc_id": "f80c313a254e247bf06131a5e5c89223544a1b8130e968537bdaeb5f29e53028",
+              "range": [
+                1162,
+                1557
+              ]
+            },
+            {
+              "doc_id": "e6655ae2acbedac8059cf5d3637e5653ad7814d4e79d1847e7b1119daf235b83",
+              "range": [
+                0,
+                460
+              ]
+            }
+          ]
+        },
+        "content": "daher auch nicht als Erfolgskriterium herangezogen werden. Inwiefern die gesetzten Ziele erreicht wurden, wird stattdessen vor allem über die subjektive Wahrnehmung der Berater_innen und über ver­ schiedene Formen des strukturierten Feedbacks beurteilt. Durch die kon­ kret definierten Ziele sind hier vor allem die beschriebenen Spannungsfelder auf institutioneller Ebene relevant. Hindernisse auf gesellschaftlicher und rechtlicher Ebene sind strukturell bedingt, liegen daher außerhalb des durch die Zielsetzungen definierten Einflussbereichs der Beratung und werden damit von den Interviewpartner_innen auch als Grenzen der eigenen fach­ lichen Zuständigkeit und damit der Beratungssituation interpretiert. Voraussetzung hierfür ist eine ressourcenorientierte Perspektive in der Beratung und die Aufrechterhaltung einer anerkennenden und wertschät­ zenden Beratungshaltung unabhängig von einer etwaigen verweigerten An­ erkennung auf rechtlicher oder gesellschaftlicher Ebene. Vor dem Hinter­ gru"
+      },
+      {
+        "rank": 4,
+        "id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+        "score": 0.8093290328979492,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1227,
+          "_split_overlap": [
+            {
+              "doc_id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+              "range": [
+                1227,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidungs- und Übergangsberatung resultieren kann, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Methodenbeschreibungen spielen für das Erlernen von Beratungskompe­ tenz eine wichtige Rolle. Sie haben den Vorteil, dass sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Auch wenn es sich immer um abstra­ hierte Beratungsprozesse handelt, transportieren sie Ideen für ein Vorgehen, das erfahrene Beraterinnen und Berater entwickelt haben. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho­ den und Techniken wert zu legen, um deutlich zu machen, dass die Metho­ denkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi­ nierbare Bausteine weniger äußere Vora"
+      },
+      {
+        "rank": 5,
+        "id": "a58149d932a68403c115bedfd19f83987f4273709816aff8f740e41c32ec0906",
+        "score": 0.7999659776687622,
+        "meta": {
+          "file_path": "1001586_chapter_091.txt",
+          "source_id": "a8273a1ddb1643af5071b4632176285c2a7a594028ab130d6c75dcdcd50284a7",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5434,
+          "_split_overlap": [
+            {
+              "doc_id": "f92c77b3243bfa47459983045766ff09b1aca12f381a584857c8f74646ae5242",
+              "range": [
+                1017,
+                1386
+              ]
+            },
+            {
+              "doc_id": "8bb3961830670875949667151dc421b67ca3f2667c4caee96cf576ccbd512433",
+              "range": [
+                0,
+                342
+              ]
+            }
+          ]
+        },
+        "content": "pretationen, Deutungen und Erklärungen voraus. Die von Rogers aufgestellte Bedingung, andere Weltsichten nicht zu beurteilen, sondern mit dem anderen zusammen zu verstehen, ist bei diesem Vorgehen tragende Kraft. Denn gerade, wenn das Gefühl der eigenen Inkongruenz bei Ratsuchenden besonders hoch ist, werden Vorschläge und Denkanstöße von Seiten der Beraterinnen und Berater oft schon als Versuche einer indirekten Einflussnahme und damit als potenziell bedrohlich erlebt. Ratsuchende, die sich zu einem Wiedereinstieg in den Beruf beraten lassen, können z.B. tatsächlich überzeugt davon sein, dass eine Weiterbildung generell wichtig ist, um ihre Situation zu verbessern; auf alle konkreten Weiterbildungsvorschläge aber trotzdem mit Abwehr re­ agieren, weil sie sich mit der Vorstellung der jeweiligen Berufstätigkeit (noch) nicht identifizieren können. Vor diesem Hintergrund kann auch der Einsatz von Methoden als eine solche indirekte Einflussnahme erlebt werden. Denn immer, wenn sich Berater"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_089.txt",
+    "question": "Inwiefern unterstützt die Handlungsmatrix der Netzwerkmethode die Entscheidungsfindung, und welche Elemente enthält sie?",
+    "answer": "Die Handlungsmatrix der Netzwerkmethode unterstützt die Entscheidungsfindung, indem sie die ratsuchende Person dazu anregt, ihre Handlungsoptionen in eine Struktur zu bringen und diese zu priorisieren. Die Matrix enthält die folgenden Elemente:\n         - Vorhaben: Hier wird das Ziel oder die Aufgabe beschrieben, die die ratsuchende Person erreichen möchte.\n         - Was?: Hier werden die spezifischen Schritte oder Maßnahmen aufgeführt, die zur Erreichung des Ziels erforderlich sind.\n         - Wie?: Hier werden die Methoden oder Mittel beschrieben, die zur Umsetzung der Schritte verwendet werden sollen.\n         - (Bis) wann?: Hier wird die Frist oder der Zeitpunkt festgelegt, bis wann das Vorhaben umgesetzt werden soll.\n         - Mit wem?: Hier werden die Personen oder Gruppen aufgeführt, die an der Umsetzung des Vorhabens beteiligt sind.\n         - Zusätzliches?: Hier können weitere Informationen oder Anmerkungen aufgenommen werden, die für die Umsetzung des Vorhabens relevant sind.\n         Option A und Option B: Hier werden die möglichen Handlungsoptionen aufgeführt, die die ratsuchende Person in Betracht zieht. Die Handlungsmatrix hilft der ratsuchenden Person, diese Optionen zu priorisieren und eine Entscheidung zu treffen. Durch die Strukturierung der Handlungsoptionen kann die ratsuchende Person ihre Gedanken klarer und logischer organisieren und eine fundiertere Entscheidung treffen. Die Handlungsmatrix ist somit ein nützliches Werkzeug, um die Entscheidungsfindung zu unterstützen und die ratsuchende Person bei der Priorisierung ihrer Handlungsoptionen zu helfen.",
+    "expected": "Die Handlungsmatrix unterstützt die Entscheidungsfindung, indem sie die einzelnen Handlungsoptionen strukturiert darstellt und Aspekte wie das Vorhaben, das Was, Wie, Bis wann, Mit wem und zusätzliches berücksichtigt. Dadurch können die Optionen systematisch verglichen, geordnet und priorisiert werden, was die Entscheidungsfindung erleichtert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+        "score": 0.9935075044631958,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1235,
+          "_split_overlap": [
+            {
+              "doc_id": "f1aa242f3d992072ac200f1611292380b23e515811bf607285987648a58ae472",
+              "range": [
+                1235,
+                1605
+              ]
+            },
+            {
+              "doc_id": "feacde067c71a2d987729b336c17467c4e6bb63fea3b873aef613a4f47962cdf",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "ratsuchende Person beschreibt viele Entschei­ dungs- und Handlungsoptionen, die jedoch alle gleichrangig attraktiv oder schwer zu realisieren erscheinen. Sie äußert den Wunsch, Unterstützung bei der Entscheidungsfindung zu erhalten. Sie als Berater, fassen nun das Anliegen zusammen und teilen der ratsuchenden Person mit, dass Sie eine geeignete Methode zum Einsatz in Entscheidungsfindungsprozessen ken­ nen. Sie erläutern den Ablauf der Netzwerkmethode und den Nutzen der Moderationskarten. 3. \u0007Kernphase: Sie stehen nun an der Flipchart und bitten die ratsuchende Per­ Kommentar zum Einsatz Voraussetzungen für den Berater bzw. die Beraterin: Der oder die Bera­ tende sollte Grundwissen über systemische Beratung mitbringen und selbst in der Lage sein, Zusammenhänge und Abhängigkeiten schnell mitzudenken. Anliegen: Die ratsuchende Person äußert ein Entscheidungsproblem, formu­ liert mehrere Handlungsoptionen und ist unsicher, welches Ziel/Handlungs­ option zuerst angegangen werden soll. Phas"
+      },
+      {
+        "rank": 2,
+        "id": "f1aa242f3d992072ac200f1611292380b23e515811bf607285987648a58ae472",
+        "score": 0.9896591305732727,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "5.5.9 Netzwerkmethode Jana Gerling und Antonia Sehlleier Kurzbeschreibung Die Netzwerkmethode ist auf Dr. W. Vogelauer zurückzuführen und dient zur Visualisierung von komplexen Entscheidungsmöglichkeiten einer ratsu­ chenden Person. Innerhalb der Beratung berichtet die ratsuchende Person von verschiedenen Möglichkeiten der eigenen Zukunftsgestaltung, zwischen denen es ihr schwerfällt, Prioritäten zu setzen. Hierbei kann es sich in der Bildungsberatung z.B. um eine Entscheidung bezüglich beruflicher Verän­ derungen handeln, sodass beispielsweise die Handlungsoptionen wie Studi­ um, Ausbildung, Privates, Arbeiten im bisherigen Berufsfeld und finanzielle Sicherheit zunächst unvereinbar gegenüberstehen. Jede Entscheidungsmög­ lichkeit geht mit positiven und negativen beruflichen, sowie privaten Verän­ derungen einher. Abb. 22: Netzwerkmethode (eigene Darstellung) Material: Phase/Funktion: Anliegen: Zeit: • Flipchart • Stifte • Matrix als Kopie Mittel- und Endphase: Optionen ordnen, abwä­ g"
+      },
+      {
+        "rank": 3,
+        "id": "feacde067c71a2d987729b336c17467c4e6bb63fea3b873aef613a4f47962cdf",
+        "score": 0.9765625596046448,
+        "meta": {
+          "file_path": "1001586_chapter_089.txt",
+          "source_id": "8dfc8fc6757d0369aebc646b6ca79aa7f44ade0c810a20a87ec2f0d7efee79f5",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2387,
+          "_split_overlap": [
+            {
+              "doc_id": "b43e8783a7290c0dee5abe4dbd1881e950c47a9681cefb03ae502739110f5b77",
+              "range": [
+                1152,
+                1531
+              ]
+            },
+            {
+              "doc_id": "c282553302bec0c2e844e59cad4975f6fe834907c1416a2cf39161b781012f9c",
+              "range": [
+                0,
+                312
+              ]
+            }
+          ]
+        },
+        "content": "darauf, dass grundlegende Informationen über den Beratungsan­ lass und Inhalt bereits thematisiert wurden und nun in eine Reihenfolge und Ordnung gebracht werden müssen. Wird die Netzwerkmethode erfolgreich durchgeführt, kann sie zum Abschluss des Beratungsverhältnisses überleiten. Die Handlungsmatrix Vorhaben Was? Wie? (Bis) wann? Mit wem? Zusätzliches? Option A Option B ... Abb. 23: Die Handlungsmatrix der Netzwerkmethode (s. Vogelauer 2011) Zum Weiterlesen Vogelauer, Werner (2011): Methoden-ABC im Coaching. Praktisches Handwerks­ zeug für den erfolgreichen Coach. 6. Aufl. Köln, S. 199 ff. Beratungsbeispiel […] Berater [B]: Sie hatten ja von mehreren Möglichkeiten für Ihre Zukunft gesprochen, welche verschiedenen Handlungsoptionen haben Sie? Ratsuchender [R]: Also, ich würde ja gerne mein Hobby Yoga weiter ausbauen, ich weiß nicht, ob man das irgendwie als Beruf, also ob man das irgendwie so ändern kann, dass ich Kurse gebe. Also Yoga macht mir auf jeden Fall sehr viel Spaß und ich m"
+      },
+      {
+        "rank": 4,
+        "id": "18e96a1f5c6e2d2e9dd32f3f874c1d6bbac03a9e013df4223d94b50bb8df6290",
+        "score": 0.974780797958374,
+        "meta": {
+          "file_path": "9783839444856_chapter_07424.txt",
+          "source_id": "94deff8d3a809562d86ce29185b163f6f439fc80493ffc9571ca71f93ab79ed6",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 9711,
+          "_split_overlap": [
+            {
+              "doc_id": "76e44ba974212d611b8024882f030fdb79c715fd156d90e28f3e2d31121474e2",
+              "range": [
+                955,
+                1420
+              ]
+            },
+            {
+              "doc_id": "535b22781e509fe805161d9f7dbc2738761b70512cc4b7886680800d4feb0cb3",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "nicht als genuine Beratungsaufgabe beschrieben, sondern als ein Handlungsfeld, welches Anerkennungsberatung aufgrund struktureller Defizite übernimmt, jedoch gleichzeitig auch auszeichnet. Während die bisher dargestellten Handlungsstrategien auf die Unterstüt­ zung der Eigentätigkeit und Eigenverantwortung der Klient_innen abzielen, bezieht sich die vierte Handlungsstrategie auf die kritische Auseinanderset­ zung mit den strukturellen Rahmenbedingungen, welche Anerkennungs­ verhältnisse ermöglichen, aber auch verhindern können. In der Anerken­ nungsberatung konkretisiert sich diese Handlungsstrategie vor allem auf gesellschaftlicher und rechtlicher Ebene. Durch die Ausweitung der Be­ ratung auf die Arbeitgeber_innen und die Öffentlichkeit wird Einfluss auf die Bedingungen gesellschaftlicher Anerkennungsverhältnisse genommen. Aufgrund der spezifischen Expertise im Bereich Anerkennung leisten die Beratungsstellen in beiden Ländern zudem fachliche Unterstützung und Beratung auf politische"
+      },
+      {
+        "rank": 5,
+        "id": "21f13803bc4b1c249efa89960ff69ecda94783eef81df8965a5ab8d792eb9b03",
+        "score": 0.960695743560791,
+        "meta": {
+          "file_path": "1001586_chapter_091.txt",
+          "source_id": "a8273a1ddb1643af5071b4632176285c2a7a594028ab130d6c75dcdcd50284a7",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 10877,
+          "_split_overlap": [
+            {
+              "doc_id": "e137606911ee09e8bcb86d5422dd8a9c189974db56d9d4fa4ed7f888ddf54624",
+              "range": [
+                1110,
+                1528
+              ]
+            },
+            {
+              "doc_id": "4eddad3772794692a3fe7a76b8be1738d694b0c5bf3c80215e1af6643acd907a",
+              "range": [
+                0,
+                324
+              ]
+            }
+          ]
+        },
+        "content": "und Ratsuchenden lässt beim letzteren Beziehungserfahrung zu, die förderlich ist für individuelle Entwicklungs- und Wachstumsprozesse. Sie unterstützt dabei, die Selbst-Aktualisierung als die genuine Motivationsquelle für Veränderungsprozesse zu kräftigen und somit konstruktives Auseinander­ setzen mit Konfrontationen zuzulassen. Entwicklung und Entfaltung sind daher immer an der Person orientiert und nicht an der äußeren Struktur von Methoden. Entwicklung und Entfal­ tung kann nicht ergebnisorientiert sein, sondern zeigt sich im Prozess. Zwei Entwicklungsrichtungen auf drei Ebenen Werden im Kontakt Emotionen zugelassen oder ignoriert, um die Fassade aufrecht zu erhalten. Wenn z.B. das Bild der „netten, hilfsbereiten Angestell­ ten“ aufrecht gehalten werden will, obwohl der Ärger da ist und nicht ausge­ sprochen wird. Werden „Bauch“-Entscheidungen unreflektiert getroffen, obwohl der Kopf vehement dagegen spricht. Werden Alternativen, Vorschläge, Vorgehen, trotz anderen Wissens vorschne"
+      }
+    ]
+  }
+]

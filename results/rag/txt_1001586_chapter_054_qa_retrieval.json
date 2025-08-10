@@ -1,0 +1,690 @@
+[
+  {
+    "filename": "1001586_chapter_054.txt",
+    "question": "Welche Rolle spielen theoretische Ansätze im Beratungsprozess laut dem Text?",
+    "answer": "Laut dem Text spielen theoretische Ansätze eine wichtige Rolle im Beratungsprozess. BildungsberaterInnen benötigen einen „gut gefüllten Werkzeugkoffer“ an Beratungs-theorien und -methoden, um fallangemessen handeln zu können. Dies wird in mehreren Reflexionen hervorgehoben, wie z.B. in der Fallreflexion 6, Z. 72-75. Theoretische Ansätze dienen hierbei als wichtige Ressource, um den Beratungsprozess erfolgreich zu gestalten und die Bedürfnisse der KlientInnen zu erfüllen. Die BildungsberaterInnen müssen in der Lage sein, verschiedene theoretische Ansätze anzuwenden und zu kombinieren, um die jeweiligen Situationen zu bewältigen. Durch die Anwendung von theoretischen Ansätzen können die BeraterInnen ihre Kompetenzen und Fähigkeiten erweitern und ihre Professionalität stärken. In diesem Zusammenhang wird auch die Bedeutung von Lösungsorientierung hervorgehoben, wie z.B. im Fallreflexion 10, Z. 155-160. Die BildungsberaterInnen sollen die KlientInnen dabei unterstützen, selbst Lösungen zu entwickeln und sich auf ihre Ziele zu fokussieren. Durch die Kombination von theoretischen Ansätzen und der Lösungsorientierung können die BeraterInnen ihre Beratungskompetenzen verbessern und ihre Wirksamkeit steigern. Insgesamt zeigt der Text, dass theoretische Ansätze ein wichtiger Bestandteil des Beratungsprozesses sind und für die erfolgreiche Arbeit der BildungsberaterInnen unerlässlich sind.",
+    "expected": "Theoretische Ansätze stehen im Beratungsprozess eher im Hintergrund, entfalten aber ihre Wirkung durch das Wissen der Beratenden und gehören zum professionellen Selbstverständnis.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b2618c4c2615bb570be90b6929eb3d19dd870b8555bf6d8bd0667c0b3722020c",
+        "score": 0.9644529223442078,
+        "meta": {
+          "file_path": "9783847412304_chapter_102.txt",
+          "source_id": "b7829b287b3720c67e566249489499b9b3bf0fd979ee5ca2939b0a846e4224e8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1257,
+          "_split_overlap": [
+            {
+              "doc_id": "e3873be21dfbc7914cd9d347720ae8fc672fe7ebfa61a68ffa504369cd9da40c",
+              "range": [
+                1257,
+                1635
+              ]
+            }
+          ]
+        },
+        "content": "Begleitung der Freiwilligen eine Rolle spielt, ist die übergeordnete Fragestellung eines Dissertationsprojektes an der WWU Münster. Es exis- tiert allerdings ein großes Forschungsdesiderat zum Thema Beratung in der Außerschulischen Jugendbildung (AJB) allgemein und speziell in ihrem Handlungsfeld des FSJ. Der bald 15 Jahre alte von Ziemons (2004) konsta- tierte (Miss-)Stand, dass es grundlegend an einem Verständnis von Anlässen, Funktion und Wirkung von Beratung in der AJB fehle, hat bis heute nicht an Aktualität eingebüßt. Im Rahmen des vorliegenden Beitrags wird die Frage nach Beratungs- anlässen bzw. -themen fokussiert, die die Bildungsreferent*innen bei den Teilnehmenden im FSJ wahrnehmen. Dafür wird im Folgenden ein kurzer Überblick sowohl über das FSJ als Handlungsfeld der AJB (1) als auch über Beratung als pädagogische Handlungsform (2) gegeben und das methodische Vorgehen der Studie skizziert (3). Im Mittelpunkt des Beitrags steht die Dar- stellung ausgewählter Forschungsbefund"
+      },
+      {
+        "rank": 2,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9538682103157043,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 3,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.8697128295898438,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 4,
+        "id": "b6ef5b0eb03019f985cdf71cd0f00881d576d06ea9d6d55b80f391c0b4f89836",
+        "score": 0.8303701281547546,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 13403,
+          "_split_overlap": [
+            {
+              "doc_id": "19cc1874d670262789f6cbe3dadaa5d10516cb605a20608bd9dc67283cd8200a",
+              "range": [
+                1235,
+                1673
+              ]
+            },
+            {
+              "doc_id": "f820a62e6cdae7ec18bbf25d5b0d13ea495cb6c4b1e5388752ef197cc80c7c55",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "nisse: lösungsorientierte Gespräche unter Einsatz angemessener Beratungsansätze Neben der Darstellung der Beratungsverläufe und der Begründung der gewählten Interventionen nehmen Aussagen über die Beratungsverständnisse einen zentralen Stellenwert ein. Hierbei lassen sich Reflexionen über die Ziele der Beratungen und über notwendige Beratungskompetenzen unterscheiden. Übergreifend wird als Zielsetzung benannt, dass die KlientInnen in den Beratungen selbst Lösungen entwickeln sollten und dass Bildungsberatung mehr sei als die Weitergabe von Informationen. Hierfür sei die Vereinbarung von Zielen notwendig, die vor dem Hintergrund der gegebenen Rahmenbedingun- gen auch erreichbar sind. In einer Reflexion wird in diesem Zusammenhang darauf hingewiesen, an dem/der KlientIn orientierte Ziele finden zu wollen: „Das ist mir wichtig: [...] Ziele vereinbaren, die einer- seits eine Herausforderung sind, andererseits nicht überfordern“ (Fallreflexion 10, Z. 155-160). In zwei Fällen werden „klare B"
+      },
+      {
+        "rank": 5,
+        "id": "7b33b43dc2b4d4dfb393b4707ca108dbf8098b0d52b051adea0e2e86eab62a09",
+        "score": 0.7911971807479858,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8869,
+          "_split_overlap": [
+            {
+              "doc_id": "15810ef9646f282c8fc29283c25457c1bdc26cee604a91db13be2cb1ea5cc98a",
+              "range": [
+                1213,
+                1631
+              ]
+            },
+            {
+              "doc_id": "8f1f062976a08ac671a7709d250ef5abd09ab1aa0631a86ab176dfb9f27e406c",
+              "range": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        "content": "den Regeldiensten oftmals (noch) nicht in diesem Ausmaß stattgefunden hat. Ergänzend konnte beobachtet werden, dass bereits im Eingangsbereich der Beratungsstellen mehrsprachiges Informationsmaterial ausliegt und bei der Anmeldung bzw. Terminvereinbarung die Offenheit für verschiedene Sprachen eine wichtige Rolle einnimmt. Während für viele Beratungs- und Sozialleistungen ein bestimmtes Sprachniveau in Deutsch als notwendige Voraussetzung gesehen wird, ermöglichen die Anlaufstellen Beratung unab­ hängig von dem Stand der deutschen Sprachkenntnisse. Gleichzeitig stoßen hier vor allem die kleineren Beratungsstellen schnell an die Grenzen ihrer Ressourcen. »[A]ber dort für die Gruppen, wo wir die Sprachen sprechen, haben wir so einen Grundsatz, über Bildungswege nachzudenken, muss man nicht Deutsch können. Also weil halt unsere Leute ein gewisses Bildungsniveau haben, ist es möglich, mit ihnen über Bildung und Anerkennung schon in der Mutter- oder Vatersprache zu reden, und die können vie"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_054.txt",
+    "question": "Warum sind Wissensbestände über Biographisierung und Biographische Kommunikation für Beratende wichtig?",
+    "answer": "Die Wissensbestände über Biographisierung und Biographische Kommunikation sind für Beratende wichtig, weil sie es ihnen ermöglichen, die Ratsuchenden als Biographieträger in der Darstellung zu ihrer Person und ihren Anliegen zu verstehen und zu selektiv zu agieren. Biographische Kommunikation ist eine oft praktizierte Form der Bewältigung von anstehenden Anforderungen und mitmenschlichen Erwartungen, und Beratende können diese Kommunikation angeleitet und Regeln und Strukturen des Denkens wahrnehmen, die der oder die Erzählende einbringt. Dadurch können Beratende ein besseres Verständnis für die Ratsuchenden gewinnen und besser darauf eingehen können. Zudem können Biographisierung und Biographische Kommunikation auch auf Generationen bezogene und Lebensalter affine Erfahrungen offenlegen, die für die Beratung relevant sind. Die Wissensbestände über Biographisierung und Biographische Kommunikation sind somit wichtig für die erfolgreiche Durchführung von Beratungssituationen.",
+    "expected": "Weil Beratung als Einflussnahme auf Biographieträger verstanden wird, sind Kenntnisse über Biographisierung und Biographische Kommunikation essentiell, um die Bedeutung von Biographien als soziale Konstruktionen im spezifischen Kommunikationsraum zu erfassen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0db0bcb41f6532b9b271d36080f52c348776d89a5124e36f594da8119aff027c",
+        "score": 0.9946398138999939,
+        "meta": {
+          "file_path": "1001586_chapter_052.txt",
+          "source_id": "96c9a399be2805ccceee186ebb965efde9e32e16e6e7dca3f0c02039c45d5be0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5c790d39b877e6d4878ec3fb697b6b10440f40bcc2fd009256e1d07372ec75c5",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "2.2 \u0007Biographieorientierung in der (Weiterbildungs-)Beratungssituation Anne Schlüter Biographisierung in der Beratung Biographisierung meint, dass die Ratsuchenden als Biographieträger in der Darstellung zu ihrer Person und ihren Anliegen bezogen auf die Bedeut­ samkeit für ihre Person selektiv agieren. Was in dem Moment relevant für die Biographieträger ist, wird erzählt. Daher können solche Erzählungen Prinzi­ pien und Regeln der individuellen Wahrnehmung liefern, die als Anknüpfung für weiterführende Gespräche dienen können. Die alltägliche biographische Kommunikation, die tendenziell intuitiv und naturwüchsig verläuft (vgl. Nittel/Völzke 1993), ist eine oft praktizierte Form der Bewältigung von anstehenden Anforderungen und mitmenschlichen Er­ wartungen, die individuell als nicht (sofort) realisierbar erscheinen. In Beratungssituation lässt sich einerseits erwarten, dass biographische Kommunikation angeleitet wird. Andererseits können Beratende, die analy­ tisch zuhören, Regeln und"
+      },
+      {
+        "rank": 2,
+        "id": "347a6140711d96982a9bff5af330edb4fa96c5ff3d046ca106db0ac984f05b29",
+        "score": 0.9895501732826233,
+        "meta": {
+          "file_path": "9783847412304_chapter_0936.txt",
+          "source_id": "26d56da4d380c9ca3606f85191cb1e4eb9c1e8e1daa41393ab0d8d06591f0f50",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1192,
+          "_split_overlap": [
+            {
+              "doc_id": "62ad1a6d7708f47a39d8b3210e4b6575f2924493a73699a32a8ca8f811bc4714",
+              "range": [
+                1192,
+                1648
+              ]
+            }
+          ]
+        },
+        "content": "(Lern-)Erfahrungen umfassen, einen Zeitbezug zur biographischen Vergan- genheit auf. Demgegenüber wird die biographische Zukunft in solchen beruf- lichen Selbstbeschreibungen chronologisch kontextualisiert, in denen mögli- che Gestaltungsoptionen für die weitere Berufs- und/oder Bildungsbiographie den Beratungsanlass darstellen. Darüber hinaus lässt sich aus den Ergebnissen eine professionstheoretisch anschlussfähige Folge ableiten. Die Pluralität der möglichen Negativerfah- rungen und die potentiell zunehmende Vielfalt der berufs- und bildungsbio- graphischen Gestaltungsoptionen führen zu steigenden Anforderungen an die pädagogisch Tätigen, die ihren Wissensstand entsprechend anpassen müssen; eine Konstellation, die sich für diejenigen verschärft, die im Rahmen ihres beruflichen Handelns nicht ausschließlich beratend tätig sind."
+      },
+      {
+        "rank": 3,
+        "id": "f6f99228c7bc88d03347b0ff013c3cfff8065330cdc875b7c974c0a59eb5e3d4",
+        "score": 0.9570797681808472,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6053,
+          "_split_overlap": [
+            {
+              "doc_id": "16add3992f3bbaed2c26592b0ff806dadc099dbe3e06d7ca88bd561fbe63bc64",
+              "range": [
+                1278,
+                1727
+              ]
+            },
+            {
+              "doc_id": "444435c5950eb6cec332b8a5c54da2f1b2cc8b4d52cd8ee10f1d6c35335937a6",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "biographieorientierte Beratung1. In dieser Bandbreite hat die Bildungsberatung auch Überschneidungen mit Coaching, Mediation und Supervision, in denen es um die Begleitung von Entschei­ dungs- und Entwicklungsprozessen geht. Therapie und Beratung teilen Verfahrensweisen und Hintergründe. Die Beratungsansätze Personzentriert, Systemisch, Ressourcen- und Lösungsori­ entiert bilden auch den Hintergrund unterschiedlicher therapeutischer Ansät­ ze2. Sie sind in der Grafik daher sowohl bezogen auf die Beratung, als auch auf die Therapie dargestellt. Auf der anderen Seite nutzen Beratung und Therapie die gleichen Gesprächsführungstechniken (und vielfach auch Visualisierungs­ techniken). Wie sie diese einsetzen, unterscheidet sich jedoch wiederum. Schließlich können auch ähnliche methodische Ansätze verwendet werden. Da es sich bei Methoden aber immer um eine Kombination von Techniken, die Auswahl einer Schrittfolge bezogen auf anvisierte Ziele während einer be­ stimmten Phase der Beratung han"
+      },
+      {
+        "rank": 4,
+        "id": "18530733d3c2cbb2ab2c44dd904247034565e633647b632e01dffe06d36ecf26",
+        "score": 0.9434279799461365,
+        "meta": {
+          "file_path": "9783847412304_chapter_0931.txt",
+          "source_id": "ab921f466b8a63720fec3d52a1a0a3c09cfbd8f39e08d281b2900e73b5f84ef4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8c79f8a0037ea412e0e186c1039fa9598faae4d0a57d74aa8f998c3f7657fee1",
+              "range": [
+                0,
+                373
+              ]
+            }
+          ]
+        },
+        "content": "Johannes Wahl Beratung zwischen biographischen ­Negativerfahrungen und offener biographischer Zukunft. Eine komparative Sicht auf pädagogische Arbeitsfelder 1. Beratung im Horizont des Lebensverlaufs Aus erziehungswissenschaftlicher Perspektive lässt sich das Thema Beratung unter vielfältigen Gesichtspunkten erforschen. So können bspw. die gesell- schaftlichen und organisationalen Kontexte von Beratung (Schiersmann 2013: 31–32) oder diverse Handlungsfelder, wie sie exemplarisch von Gieseke und Nittel (2016) gesammelt wurden, untersucht werden. Darüber hinaus besteht die Möglichkeit, die spezifischen Interaktionsmodalitäten in Beratungssitua- tionen (Maier-Gutheil 2009: 125–170), die dabei eingesetzten Praktiken und Medien (Seel 2014: 57–130) oder die Anforderungen für Berater*innen im Kontext ihres professionellen Handelns (Gröning 2011: 107–126) näher zu betrachten. Zudem lassen sich auch die Beratenen selbst in den Fokus des erziehungswissenschaftlichen Interesses rücken und dabei bs"
+      },
+      {
+        "rank": 5,
+        "id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+        "score": 0.9354435801506042,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "cd2618d4785848ce538691cd9bdf9d2e0fab3d8e56fe71e70ad378074e305cd1",
+              "range": [
+                1205,
+                1614
+              ]
+            },
+            {
+              "doc_id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Formate der Beratung, die sich auf die Bewältigung der Anforderungen ergeben, im Le­ benslauf Entscheidungen für weitergehende zukünftige Bildungsprozesse zu treffen. Daher sind Lebenslauf- und Biographieorientierung in diesem Buch zentrale zu beachtende Prinzipien im Beratungsprozess. Das Beratungsverständnis in diesem Feld lässt sich beschreiben, wenn die theoretischen und empirisch evidenten Grundlagen benannt werden. Das Tätigkeitsfeld Bildungsberatung geht von der Annahme aus, dass Men­ schen ein Leben lang entwicklungsfähig und damit auch lernfähig sind, auch wenn immer wieder konstatiert und diskutiert wird, dass dies aufgrund der lebensweltlichen Bedingungen nur begrenzt möglich ist. Dieses humanisti­ sche Menschenbild findet weiterhin in der These Ausdruck, dass Menschen ihre Wirklichkeitskonstruktionen gestalten, auch wenn sie diese nicht allein zu verantworten haben. Ein Überblick von Anne Schlüter im ersten Teil des vorliegenden Buches zu den metatheoretischen Grundlagen pr"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_054.txt",
+    "question": "Wie wird das professionelle Selbstverständnis der Erziehungswissenschaft in den Beratungsprozess eingebunden?",
+    "answer": "Die Studie von Pätzold (2008) und die quantitative Bestandsaufnahme von Schiersmann/Remmele (2004) erfassen die Selbstverständnisse und Ziele der Professionellen, um sie in den Beratungsprozess einzubinden. Zudem werden die Ergebnisse der Untersuchungen von Maier-Gutheil (2009), Enoch (2011) und Stanik (2015) verwendet, um die beratenden Ziele und Handlungen zu analysieren. Die Einbindung des professionellen Selbstverständnisses in den Beratungsprozess ermöglicht eine umfassende und praxisorientierte Beratung.",
+    "expected": "Das professionelle Selbstverständnis der Erziehungswissenschaft, insbesondere der Erwachsenenbildung, liefert eine dritte theoretische Perspektive, die Beratung nicht nur nach Formaten unterscheidet, sondern auch in den fachlichen und disziplinbezogenen pädagogischen Zusammenhang einordnet.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9928455948829651,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 2,
+        "id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+        "score": 0.9905988574028015,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2416,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                1187,
+                1616
+              ]
+            },
+            {
+              "doc_id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "organisationswissenschaftlicher Standardliteratur entliehen wird (vgl. hierzu Pätzold 2015: 29f.). Beratung wird also als pädagogische Aufgabenstellung auf Organisatio- nen bezogen und vielfältig ausgearbeitet. Lernen ist dabei ein wichtiger, aber keineswegs dominanter Bezugspunkt. Viel häufiger findet sich ein Verständ- nis von Organisationsberatung, bei dem diese auf Organisationsentwicklung abzielt (vgl. z. B. Schiersmann und Thiel 2014: 68). Organisationales Lernen wird dabei zwar mitgedacht, ist aber nicht in gleicher Weise profiliert, stellt es doch – im Gegensatz zu Beratung – keine Handlungsform dar, für deren Aus- übung ein professioneller Anspruch erhoben werden kann. Die im Folgenden zu entfaltende These setzt an diesem Punkt an, indem Organisationsbera- tung als Lernberatung von Organisationen konzipiert werden soll. Auf diese Weise soll das pädagogische Proprium eines disziplinären und professionel- len Beitrags zum Handlungsfeld Organisationsentwicklung herausgearbeitet w"
+      },
+      {
+        "rank": 3,
+        "id": "ad2fa88c7cc6f088815784fe9a1bba049650cc1fd2547a7adc96009fce34e4cd",
+        "score": 0.9865276217460632,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7257,
+          "_split_overlap": [
+            {
+              "doc_id": "f527efa858599a1b374377c8814a9e2d50aafed62030152124fdb8141871b4f8",
+              "range": [
+                1176,
+                1559
+              ]
+            },
+            {
+              "doc_id": "a08d4b609ca1dbc80a59808883de682fe2c03c0024069d451dd869cc7b748e7b",
+              "range": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        "content": "vor allem durch Irritationen oder Herausforderungen, die im professionellen Tun auftreten (vgl. ebd., S. 16). Für professionelles Beratungshandeln sind zusam- menfassend zwei Aspekte festzuhalten: Zum einen geht es um die kontinuierliche Beobachtung des eigenen professionellen Denkens und Tuns mit dem Ziel, immer mehr Bewusstheit über dieselben zu erlangen (vgl. Schiersmann/Weber 2009, S. 11). Zum anderen soll dies, wo nötig, auch begleitet sein von der fortwährenden Weiterentwicklung des eigenen professionellen Beratungshandelns. Dann erst wäre von einer Kompetenz zur professionellen (Selbst-)Reflexion zu sprechen. Ausgewählte Befunde zur Bildungsberatung In den Jahren 2009 bis 2015 sind insbesondere In- teraktionsprotokolle von Bildungsberatungen aus unterschiedlichen Bereichen gesprächsanalytisch untersucht worden. Diese Analysen zeigten auf einer interaktionsstrukturellen Ebene, dass neben der Wissensvermittlung (siehe Maier-Gutheil 2009) Wissen für BeraterInnen auch als Ressource "
+      },
+      {
+        "rank": 4,
+        "id": "9dbc41cc1800ba31a1886e855e12fee66b06f6b7ff0b0ee1673bac683dae10a4",
+        "score": 0.9726471304893494,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3849,
+          "_split_overlap": [
+            {
+              "doc_id": "75a045a93887d624418c9c93502d889168c7ef1e5e847c43c0d5ac6624711517",
+              "range": [
+                1304,
+                1742
+              ]
+            },
+            {
+              "doc_id": "8a1c91cb0fb31a699a1af5949f2128172476d398ca4612b513f90658303c9a1e",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "und Weiterbildungsangelegenheiten, die nicht unwesentlich für die Inanspruchnahme und Nichtinanspruchnahme von institutionellen Bera- tungsangeboten relevant sind. Die Jahrestagung der Sektion Erwachsenenbildung der Deutschen Gesell- schaft für Erziehungswissenschaft (DGfE), die 2017 in Heidelberg stattfand, fokussierte die wechselseitigen Bezüge der Themen Beratung – Organisation – Politik im Kontext der Erwachsenenbildung, in denen sich die genannten Entwicklungen vollziehen. Das Feld Beratung in der Erwachsenenbildung wird dabei aus den unterschiedlichen und zum Teil widersprüchlichen diszi- plinären, institutionellen, (organisationalen), gesellschaftlichen und bildungs- politischen Perspektiven und damit verbundenen Spannungsfeldern beleuchtet. Im Anschluss an den Grundgedanken, Bildungsmöglichkeiten zu eröffnen, gehört Beraten als Bestandteil pädagogischen Handelns zu den zentralen Handlungsformen neben solchen wie Informieren, Unterrichten, Arrangieren. In den Blick kommen gleich"
+      },
+      {
+        "rank": 5,
+        "id": "94ee2ff76e8f25d03e2ec484c55ba716eeb263ab12eb91d0378086e69a4d503e",
+        "score": 0.9569984078407288,
+        "meta": {
+          "file_path": "9783866496811_chapter_0722.txt",
+          "source_id": "2fe850598934cc6b5ffbe08137333675563a210cb9f56e926e4cf59cafd58aa1",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2372,
+          "_split_overlap": [
+            {
+              "doc_id": "8c0b91cb81e40bf0afaaa93b22a0dcb97726ad9db2de2d784012be0cf56bf353",
+              "range": [
+                1143,
+                1539
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsauftrag anzunehmen und umsetzen zu können wird eine Aufklärung, ein Training und die Entwicklung eines Beratungskonzeptes benötigt. 3. Veränderung von Lebenssituationen in der Gesellschaft Auf Grund dessen, dass die soziodemographische Zusammensetzung der Gesellschaft sich ändert, sowie auch durch die Budgetierung mittels DRG’s in deutschen Krankenhäusern, gibt es eine steigende Zahl an chronisch Er- krankten, an alten Menschen und kurzzeitig hilfebedürftigen Patienten in der häuslichen und ambulanten Versorgung. Diese und auch deren Angehörigen benötigen nicht nur pflegerische Profession, sondern auch beratende Unterstützung, um mit der veränderten Lebenssituation oder auch Situation der Abhängigkeit umgehen zu lernen um so viel wie möglich von ihrer Selbstän- digkeit zu behalten oder wieder zu erlangen."
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_054.txt",
+    "question": "Welche Bedeutung hat die Einordnung von Beratung in die Erwachsenenbildung für das Ziel der pädagogischen Beratung?",
+    "answer": "Die Einordnung von Beratung in die Erwachsenenbildung ist für das Ziel der pädagogischen Beratung von Bedeutung, da sie es ermöglicht, die Beratung als einen Prozess kritischer Aufklärung zu verstehen, der die Selbstreflexion des Einzelnen und die kritische Auseinandersetzung mit sozialpolitischen Verhältnissen ermöglicht. Dieser Ansatz sieht die Beratung als eine Form der Unterstützung bei dem Prozess kritischer Aufklärung an, die die Selbständigkeit und Autonomie des Einzelnen im Vordergrund stellt. Die Einordnung von Beratung in die Erwachsenenbildung ermöglicht es, die Beratung als einen Prozess zu verstehen, der nicht nur die Anpassung an bestehende Verhältnisse fördert, sondern vielmehr die Kritik und die Selbstreflexion des Einzelnen anregt. Dieser Ansatz ist von wesentlicher Bedeutung für das Ziel der pädagogischen Beratung, da er die Beratung als einen Prozess versteht, der die Entwicklung der Autonomie und der Selbstständigkeit des Einzelnen fördert. \n\nI cannot find the answer in the provided context.",
+    "expected": "Die Einordnung in die Erwachsenenbildung verdeutlicht, dass das allgemeine Ziel der pädagogischen Beratung darin besteht, Selbstlernprozesse anzustoßen und bei Bedarf zu begleiten, was die Handlungsfelder und Reflexionen der Bildungsberatung prägt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3a3fb5800f68553697074d2600bb746fdfafc40d1e242155632e5321e732db5e",
+        "score": 0.9962444305419922,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1292,
+          "_split_overlap": [
+            {
+              "doc_id": "657b50e4c4448fd12b03eca2296b50dd4d30b714a5e34917329f4c0cc02f5101",
+              "range": [
+                1292,
+                1710
+              ]
+            },
+            {
+              "doc_id": "1a554039c73b795bdb0fe3bbd9baed11ca387cc09e466ae29a0d7ca6243a977b",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Studieninteressierten und zum anderen der Schaffung möglichst effi- zienter Beratungsstrukturen, um der bedeutsamen Aufgabe der Beratung auf Programmebene hinreichend gerecht werden zu können. Unter Rückbindung auf die hochschulischen Beratungsstrukturen (2.2) ist für die Beratung auf Programmebene bedeutsam, welche Beratungsbedarfe bis zu welcher Bera- tungstiefe10 auf welcher Beratungsebene bearbeitet werden und ab wann an welche Organisationseinheit zur abschließenden Beratung weiterverwiesen wird.11 Eine eindeutige Klärung der Verantwortlichkeiten minimiert Redun- danzen, reduziert das Risiko von fehlerhaften Beratungsinhalten und macht die Beratung sowohl für die Studiengangkoordinierenden als auch für die Ratsuchenden effizienter. Beratungswissen Auf der Grundlage zuvor geklärter Beratungsstrukturen ist sicherzustellen, wie die Studiengangkoordinierenden auf das Beratungswissen zugreifen können. Unter Berücksichtigung dessen, dass Beratung nur eine Aufgabe des vielfältigen Aufgab"
+      },
+      {
+        "rank": 2,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.9930799603462219,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 3,
+        "id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+        "score": 0.99257892370224,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3432,
+          "_split_overlap": [
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                1247,
+                1632
+              ]
+            }
+          ]
+        },
+        "content": "(durch Unterstützung der Filetierung) nicht noch Vorschub leistet. Beratung hat u.a. auch eine gesellschaftliche Funktion (vgl. Seel, 2009:4) Die Metaperspektive von Beratung – als mikro- und makrosystemische – ist von nachhaltiger Bedeutung für die Professionalität von Beratung. Insofern ist Beratung ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient- Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gül- tigkeit zu reklamieren gedenkt. Als weitere systemische Kompetenzen von Beratung können Fähigkeiten des Beraters ausgemacht werden - vernetzt zu denken, und Wechselbeziehungen, Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen - die adäquate Vernetzung mit anderen Hilfesystemen - komplexe Auftragssituationen sind zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen: - Anlass, An"
+      },
+      {
+        "rank": 4,
+        "id": "a99afa21f86ad01fd65e7745648b4f1676b25679066dd3a42fa59bbaf48d9746",
+        "score": 0.9915674328804016,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 11503,
+          "_split_overlap": [
+            {
+              "doc_id": "e8f9f3d7484b6dddb079453574eb0b5ab2051e861ffef583a3e6ed51782cf5e0",
+              "range": [
+                984,
+                1435
+              ]
+            },
+            {
+              "doc_id": "c0a3a64c6354aaa6089f8f0127a250d96c4d39e677eb4609bcb29b94226a50ea",
+              "range": [
+                0,
+                304
+              ]
+            }
+          ]
+        },
+        "content": "dieser Beratungsstelle bei der Anerkennungsberatung größtenteils um ein­ malige Beratungskontakte. Eine pädagogische Haltung wird allerdings als integrativer und notwendiger Bestandteil der Beratung gesehen, sobald die spezifischen Lebensbedingungen und der soziale Kontext in der Beratung mitberücksichtigt werden. Pädagogische Haltung als Voraussetzung für Anerkennungsberatung Aus einer beratungstheoretischen Perspektive wird der Unterschied zwi­ schen einer Fachberatung und einer prozessorientierten Beratung vielfach darin gesehen, dass die Informations- und Wissensvermittlung in der Fach­ beratung einen höheren Stellenwert hat. Daraus folgt, dass für eine eher informationsorientierte Beratung Beratungskompetenzen wie Gesprächs­ führung und Beziehungsaufbau von geringerer Bedeutung sind. In einem Interview wird jedoch gerade der hohe Anteil der Informations- und Wis­ sensvermittlung herangezogen, um die Vorteile einer pädagogischen Quali­ fikation für die Durchführung einer Fachberatu"
+      },
+      {
+        "rank": 5,
+        "id": "23d72fecc9037c07d36dff64052ec85bf2feaa6a91d4936c971c32a20a057d57",
+        "score": 0.9913185834884644,
+        "meta": {
+          "file_path": "9783839444856_chapter_0512.txt",
+          "source_id": "599c7475f34d1fbb18ad5518a30249aaa9a89e1ed3736b6f7e65506a45804434",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2495,
+          "_split_overlap": [
+            {
+              "doc_id": "b92f2247c853b5c490fca80b9b50c5370538b4a60b93b401e875c64e653dd1ff",
+              "range": [
+                1192,
+                1608
+              ]
+            },
+            {
+              "doc_id": "ff1a28e2844992abe1d8bc1e7192864673d921fd39b1e16cca20665df6de366a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Beratung wird zu einer kritischen Aufklärung, indem auf individueller Ebene die Selbstreflexion und auf gesellschaftlicher Ebene die kritische Auseinandersetzung mit sozialpolitischen Verhältnissen ermöglicht wird (vgl. Gröning 2010, S. 125f.). Nach Nittel (2016, S. 21) erhält der Beratungs­ begriff durch Mollenhauer innerhalb der pädagogischen Handlungsformen »eine strategisch wichtige Bedeutung und Rolle eines kritischen Korrektivs gegenüber anderen pädagogischen Interventionsformen«. Damit entwirft Mollenhauer eine genuin pädagogische Perspektive auf Beratung. Es ist ge­ rade der emanzipative Ansatz in der Beratung, welcher bei ihm das spezi­ fische Charakteristikum eines pädagogischen Beratungsverständnisses be­ gründet: »Beratung soll nicht in die Anpassung hineinführen, sondern von Konformi­ tätszwängen befreien. Ein Rat, der keine Alternative erkennen lässt, sondern nur die gleichsam naive normative Eindeutigkeit der Antwort kennt, ist ein schlechter Rat. Er verfehlt die pädagog"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_054.txt",
+    "question": "Wie beeinflusst die Kontextualisierung der Biographisierung als Sinnkategorie die Auswahl der Inhalte in Beratungsgesprächen?",
+    "answer": "Die Kontextualisierung der Biographisierung als Sinnkategorie beeinflusst die Auswahl der Inhalte in Beratungsgesprächen, indem sie den Beratenen ermöglicht, ihre biografischen Erfahrungen und Narrative als relevante Aspekte für die Beratung zu benennen. Dies führt dazu, dass die Beratung auf die individuellen Bedürfnisse und Ziele des Beratenen zugeschnitten wird, was eine effektive und unterstützende Beratung ermöglicht. Die Kontextualisierung der Biographisierung ermöglicht es auch, die Beratung in den Lebenslauf und die Biographie des Beratenen einzubetten, was eine umfassendere und nachhaltigere Beratung ermöglicht. \nI cannot find the answer in the provided context.",
+    "expected": "Die Kontextualisierung der Biographisierung als Sinnkategorie wird zusammen mit der Einbindung in ein professionelles Feld die Auswahl der Inhalte von Beratungsgesprächen dominieren, da sie den Gegenstand Beratung erzeugt und damit den Rahmen für die thematische Ausgestaltung vorgibt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0db0bcb41f6532b9b271d36080f52c348776d89a5124e36f594da8119aff027c",
+        "score": 0.9667637348175049,
+        "meta": {
+          "file_path": "1001586_chapter_052.txt",
+          "source_id": "96c9a399be2805ccceee186ebb965efde9e32e16e6e7dca3f0c02039c45d5be0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5c790d39b877e6d4878ec3fb697b6b10440f40bcc2fd009256e1d07372ec75c5",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "2.2 \u0007Biographieorientierung in der (Weiterbildungs-)Beratungssituation Anne Schlüter Biographisierung in der Beratung Biographisierung meint, dass die Ratsuchenden als Biographieträger in der Darstellung zu ihrer Person und ihren Anliegen bezogen auf die Bedeut­ samkeit für ihre Person selektiv agieren. Was in dem Moment relevant für die Biographieträger ist, wird erzählt. Daher können solche Erzählungen Prinzi­ pien und Regeln der individuellen Wahrnehmung liefern, die als Anknüpfung für weiterführende Gespräche dienen können. Die alltägliche biographische Kommunikation, die tendenziell intuitiv und naturwüchsig verläuft (vgl. Nittel/Völzke 1993), ist eine oft praktizierte Form der Bewältigung von anstehenden Anforderungen und mitmenschlichen Er­ wartungen, die individuell als nicht (sofort) realisierbar erscheinen. In Beratungssituation lässt sich einerseits erwarten, dass biographische Kommunikation angeleitet wird. Andererseits können Beratende, die analy­ tisch zuhören, Regeln und"
+      },
+      {
+        "rank": 2,
+        "id": "18530733d3c2cbb2ab2c44dd904247034565e633647b632e01dffe06d36ecf26",
+        "score": 0.8169753551483154,
+        "meta": {
+          "file_path": "9783847412304_chapter_0931.txt",
+          "source_id": "ab921f466b8a63720fec3d52a1a0a3c09cfbd8f39e08d281b2900e73b5f84ef4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8c79f8a0037ea412e0e186c1039fa9598faae4d0a57d74aa8f998c3f7657fee1",
+              "range": [
+                0,
+                373
+              ]
+            }
+          ]
+        },
+        "content": "Johannes Wahl Beratung zwischen biographischen ­Negativerfahrungen und offener biographischer Zukunft. Eine komparative Sicht auf pädagogische Arbeitsfelder 1. Beratung im Horizont des Lebensverlaufs Aus erziehungswissenschaftlicher Perspektive lässt sich das Thema Beratung unter vielfältigen Gesichtspunkten erforschen. So können bspw. die gesell- schaftlichen und organisationalen Kontexte von Beratung (Schiersmann 2013: 31–32) oder diverse Handlungsfelder, wie sie exemplarisch von Gieseke und Nittel (2016) gesammelt wurden, untersucht werden. Darüber hinaus besteht die Möglichkeit, die spezifischen Interaktionsmodalitäten in Beratungssitua- tionen (Maier-Gutheil 2009: 125–170), die dabei eingesetzten Praktiken und Medien (Seel 2014: 57–130) oder die Anforderungen für Berater*innen im Kontext ihres professionellen Handelns (Gröning 2011: 107–126) näher zu betrachten. Zudem lassen sich auch die Beratenen selbst in den Fokus des erziehungswissenschaftlichen Interesses rücken und dabei bs"
+      },
+      {
+        "rank": 3,
+        "id": "f6f99228c7bc88d03347b0ff013c3cfff8065330cdc875b7c974c0a59eb5e3d4",
+        "score": 0.7253069877624512,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6053,
+          "_split_overlap": [
+            {
+              "doc_id": "16add3992f3bbaed2c26592b0ff806dadc099dbe3e06d7ca88bd561fbe63bc64",
+              "range": [
+                1278,
+                1727
+              ]
+            },
+            {
+              "doc_id": "444435c5950eb6cec332b8a5c54da2f1b2cc8b4d52cd8ee10f1d6c35335937a6",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "biographieorientierte Beratung1. In dieser Bandbreite hat die Bildungsberatung auch Überschneidungen mit Coaching, Mediation und Supervision, in denen es um die Begleitung von Entschei­ dungs- und Entwicklungsprozessen geht. Therapie und Beratung teilen Verfahrensweisen und Hintergründe. Die Beratungsansätze Personzentriert, Systemisch, Ressourcen- und Lösungsori­ entiert bilden auch den Hintergrund unterschiedlicher therapeutischer Ansät­ ze2. Sie sind in der Grafik daher sowohl bezogen auf die Beratung, als auch auf die Therapie dargestellt. Auf der anderen Seite nutzen Beratung und Therapie die gleichen Gesprächsführungstechniken (und vielfach auch Visualisierungs­ techniken). Wie sie diese einsetzen, unterscheidet sich jedoch wiederum. Schließlich können auch ähnliche methodische Ansätze verwendet werden. Da es sich bei Methoden aber immer um eine Kombination von Techniken, die Auswahl einer Schrittfolge bezogen auf anvisierte Ziele während einer be­ stimmten Phase der Beratung han"
+      },
+      {
+        "rank": 4,
+        "id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+        "score": 0.6132466197013855,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "cd2618d4785848ce538691cd9bdf9d2e0fab3d8e56fe71e70ad378074e305cd1",
+              "range": [
+                1205,
+                1614
+              ]
+            },
+            {
+              "doc_id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Formate der Beratung, die sich auf die Bewältigung der Anforderungen ergeben, im Le­ benslauf Entscheidungen für weitergehende zukünftige Bildungsprozesse zu treffen. Daher sind Lebenslauf- und Biographieorientierung in diesem Buch zentrale zu beachtende Prinzipien im Beratungsprozess. Das Beratungsverständnis in diesem Feld lässt sich beschreiben, wenn die theoretischen und empirisch evidenten Grundlagen benannt werden. Das Tätigkeitsfeld Bildungsberatung geht von der Annahme aus, dass Men­ schen ein Leben lang entwicklungsfähig und damit auch lernfähig sind, auch wenn immer wieder konstatiert und diskutiert wird, dass dies aufgrund der lebensweltlichen Bedingungen nur begrenzt möglich ist. Dieses humanisti­ sche Menschenbild findet weiterhin in der These Ausdruck, dass Menschen ihre Wirklichkeitskonstruktionen gestalten, auch wenn sie diese nicht allein zu verantworten haben. Ein Überblick von Anne Schlüter im ersten Teil des vorliegenden Buches zu den metatheoretischen Grundlagen pr"
+      },
+      {
+        "rank": 5,
+        "id": "2d9b4ad6b30712cf0e567094cd9deaaac6796bd83e072b37b277304a3090a35d",
+        "score": 0.33294832706451416,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 16742,
+          "_split_overlap": [
+            {
+              "doc_id": "d97792add0dcabd13ba7d9d2fdf34d9c2267022382917fd23f02be1623c28bdd",
+              "range": [
+                1212,
+                1674
+              ]
+            },
+            {
+              "doc_id": "f85aec72f640cb9ac1549d24f13f25a3806fba5a49f9fbe32a16f0ca4a0e0577",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "einem Studienabbruch führen (können), wie auch deren Umgang damit, präsentiert. Die Erforschung realer Beratungsinteraktionen anhand gesprächsanalytischer Zugänge verbindet die beiden Aufsätze im sechsten Kapitel. Aus einer an Foucault anschließenden Subjektivierungsperspektive werden von Farina Wagner authentische Weiterbildungsberatungsgespräche daraufhin untersucht, wie der Prozess der Entscheidungsgenerierung in den Interaktionen vor dem Hintergrund von Narrativen des Lebenslangen Lernens hergestellt wird. Auch Christian Schröder und Claudia Muche beschäftigen sich mit Gesprächsanalysen – jedoch bezogen auf Coaching von Führungskräften – mit dem Ziel, die Bedingungen professionellen Beratungshandelns zu rekonstru- ieren. Im letzten Kapitel (7) richtet sich der Fokus der vier Beiträge auf Beratung in unterschiedlichen organisationalen Kontexten – auch aus spezifisch orga- nisationspädagogischer Perspektive. Henning Pätzold lotet in seinem Aufsatz das Verhältnis von Organisationsbera"
+      }
+    ]
+  }
+]

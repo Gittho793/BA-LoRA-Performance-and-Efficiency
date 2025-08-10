@@ -1,0 +1,704 @@
+[
+  {
+    "filename": "9783847412304_chapter_1223.txt",
+    "question": "Welche erste Phase wird im Beratungsprozess zur Organisationsentwicklung beschrieben und was beinhaltet sie?",
+    "answer": "Die erste Phase im Beratungsprozess zur Organisationsentwicklung wird nicht explizit beschrieben. Die Text passt sich an den Kontext der Beratung und Organisationsentwicklung an, beschreibt aber keine spezifische Phase. Es wird erwähnt, dass Organisationsberatung als pädagogische Handlungsform auf Organisationen bezogen wird und vielfältig ausgearbeitet wird, aber es wird keine spezifische Phase beschrieben. Daher kann ich keine genaue Antwort geben. Ich kann jedoch die folgende Antwort geben: \"Die erste Phase im Beratungsprozess zur Organisationsentwicklung wird nicht explizit beschrieben, aber Organisationsberatung wird als pädagogische Handlungsform auf Organisationen bezogen und vielfältig ausgearbeitet.\" \n        Aber die Frage scheint sich auf die erste Phase im Beratungsprozess zur Organisationsentwicklung zu beziehen, die im Kontext der Hochschullehre und Professionalisierungsprozessen beschrieben wird. In diesem Fall ist die erste Phase die \"Handlungsorientierung- und Befähigung\". \n\n        Die Antwort lautet also: Die erste Phase im Beratungsprozess zur Organisationsentwicklung ist die \"Handlungsorientierung- und Befähigung\", die sich auf die Gestaltung von Professionalisierungsprozessen in berufsbiographisch frühen Phasen und am Lernort Hochschule bezieht. Diese Phase beinhaltet die Gestaltung von Professionalisierungsprozessen, die früher beginnen als im bisherigen berufsbiographischen Zweiphasenmodell. \n        Ich hoffe, diese Antwort ist korrekt. Ich bitte um Bestätigung. \n\n        Ich bin mir nicht sicher, ob ich die Frage richtig verstanden habe. Wenn ich mich irre, bitte um Klarstellung. Ich kann gerne eine andere Antwort geben, wenn die Frage anders zu verstehen ist. \n\n        Ich kann auch eine andere Antwort geben, wenn ich die Frage besser verstehe. Die Frage könnte sich auf die erste Phase im Beratungsprozess zur Organisationsentwicklung beziehen, die im Kontext der Hochschullehre und Professionalisierungsprozessen beschrieben wird. In diesem Fall ist die erste Phase die \"Handlungsorientierung- und B",
+    "expected": "Die erste Phase des Beratungsprozesses ist, dass ein Problem sichtbar wird, in diesem Fall die strukturelle Ungleichheit in den Unternehmen. Als Grundlage der Beratung wird eine empirische Erhebung zum Status quo der Diversity-Maßnahmen durchgeführt, und der Change-Prozess beginnt mit der Datenanalyse.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+        "score": 0.994975209236145,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2416,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                1187,
+                1616
+              ]
+            },
+            {
+              "doc_id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "organisationswissenschaftlicher Standardliteratur entliehen wird (vgl. hierzu Pätzold 2015: 29f.). Beratung wird also als pädagogische Aufgabenstellung auf Organisatio- nen bezogen und vielfältig ausgearbeitet. Lernen ist dabei ein wichtiger, aber keineswegs dominanter Bezugspunkt. Viel häufiger findet sich ein Verständ- nis von Organisationsberatung, bei dem diese auf Organisationsentwicklung abzielt (vgl. z. B. Schiersmann und Thiel 2014: 68). Organisationales Lernen wird dabei zwar mitgedacht, ist aber nicht in gleicher Weise profiliert, stellt es doch – im Gegensatz zu Beratung – keine Handlungsform dar, für deren Aus- übung ein professioneller Anspruch erhoben werden kann. Die im Folgenden zu entfaltende These setzt an diesem Punkt an, indem Organisationsbera- tung als Lernberatung von Organisationen konzipiert werden soll. Auf diese Weise soll das pädagogische Proprium eines disziplinären und professionel- len Beitrags zum Handlungsfeld Organisationsentwicklung herausgearbeitet w"
+      },
+      {
+        "rank": 2,
+        "id": "34a07ed00a06adb570720ee4bc4c0e6b4423e3562261d4f5535751893a3747c5",
+        "score": 0.9943922162055969,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4530,
+          "_split_overlap": [
+            {
+              "doc_id": "2bee060ce1a47fdf438509667172b8b2e9f8fc4589809e980402848f2980d9da",
+              "range": [
+                1187,
+                1557
+              ]
+            },
+            {
+              "doc_id": "9903190d4903148202eccd893c8eb622bd4589b7e888d359617456e9e7baf48c",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Angebot zurück und baten um Beratung in Bezug auf die organisationale Situation unter Berücksichtigung der in der Untersuchung gewonnenen Befunde. Diese fand im Rahmen von zwei Präsentationen statt; bei der ersten nahmen unterschiedliche Mitglieder der NPO teil (einschließlich Leitungsebene), bei der zweiten nur der Gründer, welcher als Stifter die Hauptverantwortung für die Ausrichtung der Organisation hat. Die Beratungen hatten primär das Ziel, die Organisation in ihrem Entwicklungs- und Lernprozess zu unterstützen, weshalb sie nicht umfassend forschungsmethodisch begleitet werden konnten. Während und nach den jeweiligen Beratungen wurden allerdings Notizen angefertigt, die wesentliche Interaktionen festhielten. Interessanterweise zeigte sich hier, dass die Logik des Modells – und damit des Organisationsentwicklungsprozesses als Lernprozess – in wesentlichen Teilen angenommen bzw. im Gespräch genutzt wurde. So wurde geäußert, der „bisherigen Dynamik [fehle] die Reflexion“ (Zitat nach"
+      },
+      {
+        "rank": 3,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.9851240515708923,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 4,
+        "id": "844727704acc68e89750ddcf15839e72d3dfe9c8af8aef49574ecae4fd24a438",
+        "score": 0.9832856059074402,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5145,
+          "_split_overlap": [
+            {
+              "doc_id": "2aeabd3654cdce11f23978bb6c472de964eef8e323b6dc9b7f7392ab91bc3bad",
+              "range": [
+                1268,
+                1689
+              ]
+            },
+            {
+              "doc_id": "91b2fcbe6146b590096e95c36f3380d304ae9bc8cf67aee720871bbffacfc062",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "Organisationale und institutionelle Strukturen von Beratung ändern sich sehr rasch. Beispiele sind neue Aufgaben im Kinderschutz, das Hinzukommen medial vermittelter Beratung im Sinne von Blended Counseling und so weiter. Diese Heterogenisierung der Beratungslandschaft geht zusätzlich mit einer Zunahme von Beratungsangeboten einher. In der Folge können aktuelle Professionalisierungswünsche hinsichtlich Beratung nicht mehr auf den überlieferten Strukturkern einer im wesentlichen gesetzten Beratungsinfrastruktur aufsetzen. Beratung als Handlungsform ist angesichts dieser Heterogenisierung aus ihren Strukturen freigesetzt, ähnlich wie das Unterrichten, das sich angesichts rasch ausdifferenzierender Schulformen- und konzepte zunehmend auch wieder aus seiner eigentlichen pädagogischen Praxis heraus und nicht (nur) entlang der Institution Schule legitimieren muss. Zweitens bedeutet Bologna, dass Professionalisierungsprozesse schon früher zielgerichtet beginnen als im bisherigen berufsbiograp"
+      },
+      {
+        "rank": 5,
+        "id": "4fac8b27abff34ec9b393300e17fef254b51a2a8a11f769e8f0f6c72fdf18f90",
+        "score": 0.982299268245697,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "VII.\tBeratung in organisationalen Kontexten: ­Lernen – Steuerung – Methoden Henning Pätzold Beratung im Kontext organisationalen Lernens Ausgangslage und Relevanz Organisationsberatung ist in den vergangenen Jahren verstärkt und aus verschiedensten Perspektiven als Gegenstand pädagogischer Forschung und Praxis wahrgenommen worden. Als pädagogisches Handlungsfeld wird sie beispielsweise in dem Handbuch von Gieseke und Nittel (2016) thematisiert, ebenso in verschiedenen Tagungsbänden der Kommission Organisationspädagogik der DGfE (insbesondere Göhlich, Weber, Seitter und Feld 2010) und zunehmend auch in Studiengangsbeschreibungen (z. B. in pädagogischen Studiengängen der Universitäten Heidelberg, Hildesheim, Koblenz-Landau und anderen). Die Rolle von Lernberatung in Organisationen wird u. a. in dem genannten Band von Göhlich thematisiert, daneben auch in früheren Untersuchungen zu Lernberatung in beruflichen Kontexten (vgl. z. B. Klein und Reutter 2005), auch wenn hier der Bezug zur Gesa"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1223.txt",
+    "question": "Wie wurde die Vision für das Entwicklungsziel formuliert und welche Ziele verfolgte sie?",
+    "answer": "Eine Vision für das Entwicklungsziel wurde nicht explizit formuliert. Die Frage, welche Ziele verfolgt wurden, ist ebenfalls nicht beantwortet. Die Antwort kann nicht gefunden werden, da die Frage nicht in dem bereitgestellten Text beantwortet wird. \n        I cannot find the answer in the provided context.",
+    "expected": "Die Vision wurde von den Unternehmensleitungen und Führungskräften formuliert und bestand darin, mehr Gleichstellung zu erreichen, um mehr Frauen zu gewinnen, sowie Vielfalt zu akzeptieren, um mehr Fachkräfte zu rekrutieren und an das Unternehmen zu binden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b3f58b1ef1d0620756486797d36f1e2e05879a4ab94b84e7d378b79308e97db3",
+        "score": 0.9667701125144958,
+        "meta": {
+          "file_path": "9783847412304_chapter_0923.txt",
+          "source_id": "116745f40d292a8fe8178b2878eeb684d6a523260a3f5cc07ec0920549d4a89e",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6478,
+          "_split_overlap": [
+            {
+              "doc_id": "79b5b123e98bf1f1373b0cafdc4bf34ca98c6a5096be51dfec8a00c10d690fa9",
+              "range": [
+                1232,
+                1648
+              ]
+            },
+            {
+              "doc_id": "586ce3228480f952f9795ae728da17c765cc306c308662c12adf64e53225eae3",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "Lerneffekte über die Zeit nachweisen, allerdings flachen sich die Zuwächse mit zunehmender Studiendauer ab. Diese empirischen Daten lassen sich nun unterschiedlich interpretieren. Aus Sicht der allgemeinen Professionalisierungsforschung verwundert beispielsweise nicht, dass die Beziehungsgestaltungskompetenz mit einem eher kleinen Effekt, aber linear zunimmt. Unterstellt wird hier oft, dass sich gerade in dieser Kompetenzdimension das Zusammenspiel unterschiedlicher Lern- und Entwicklungseffekte zeigt, beispielsweise Einsozialisation in zunehmend komplexere Situationen, aber auch persönliche biographische Entwicklung, insbesondere wenn man sich vergegenwärtigt, dass hier ein Lebensalter von ungefähr 20 bis etwa 27 Jahren abgebildet ist. Für den nichtlinearen Verlauf im Kompetenzzuwachs des technisch-methodischen Handelns lautet eine gängige These, dass für komplexe Interventionstechniken, wie sie sich in dieser Teilkompetenz abbilden, die Curricula generalistisch angelegter Studiengäng"
+      },
+      {
+        "rank": 2,
+        "id": "bb90c36a37c85473e9f6b3d886b58dfb0ebef0517322b672b43fedc70b797503",
+        "score": 0.942273736000061,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Mikroskopische Analyse In den mikroskopischen Analysen wurde neben der Frage nach dem „Wie etwas gesagt wurde“ auch untersucht, welche Funktion das Gesagte im Gesprächsverlauf erfüllt. So konnten insgesamt drei Strukturprobleme des Coachings herausgearbeitet werden. Wie anhand von Gesprächsauszügen zu zeigen sein wird, besteht ein Strukturproblem darin, die fachliche Expertise als Coach ausweisen zu müssen, aber dabei zugleich einen möglichst offenen Raum für inhaltliche Themensetzung und Selbstreflexion zu lassen. Ein wei- teres Strukturproblem zeigt sich in einer Beratungsbedürftigkeit, die herge- stellt werden muss, um die Sinnhaftigkeit von Beratung zu rechtfertigen, die jedoch nicht die schon vorhandene Kompetenz des Coachees in Frage stellen darf. Zuletzt besteht das Strukturproblem in einer unbedingten Orientierung an den Bedürfnissen und Bedarfen des/der Klient*in und gleichzeitig in der Notwendigkeit, auch einen Folgeauftrag für die Beratungsorganisation zu si- chern. Empi"
+      },
+      {
+        "rank": 3,
+        "id": "e35f91ed918cb33ddb75cdb1e7296f3e5e768d89f670d2438924c15dd6d9f890",
+        "score": 0.9336270093917847,
+        "meta": {
+          "file_path": "1001586_chapter_74.txt",
+          "source_id": "64816df4598bdaf9acb383f07c35cf94a07eaa1c319f46180433d20dddc8772a",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1137,
+          "_split_overlap": [
+            {
+              "doc_id": "5a85dcba27c02b715d5846e252961f36297372df05da33cbb0963be1a152f648",
+              "range": [
+                1137,
+                1474
+              ]
+            },
+            {
+              "doc_id": "5b2324d04603f12c43cc4ab3eabf304598f479bd04ca393a95b78d0acd0fe128",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Richtung zu lenken, auch mutig zu werden für die nächsten Schritte. Lösung meint Los-Lösung von etwas, wo hingegen der Begriff Ziel auf einen Zustand verweist, der erreicht werden soll. Zukunftsper­ spektiven sind zu erarbeiten und Übergänge zu gestalten. Die zu entwickelnde Vision kann es erfordern, sich über Zieldiskrepanzen klar zu werden, mehrere Szenarien durchzuspielen oder auch unrealistische Ziele zu verwerfen (vgl. Bürgi/Eberhart 2006: 188ff.). Selbstwirksamkeit für Wachstumsprozesse bestätigen „Entwickler von Möglichkeitssinn, Aktivierer von Ressourcen, Ermutiger für den ersten Schritt, Bewunderer von Autonomie, Unterstützer von Selbstwirksamkeit zu sein.“ (Bamberger 2010: 339) Und Grawe schlussfolgert, dass man den Lösungsorientierten Berater bzw. die Lösungsorientierte Beraterin plakativ auch als „Förderer des Lustgewinns“ bezeichnen kann (ebd.). Dies lässt sich konkret dadurch realisieren, dass die Beratenden auf die Grundbedürfnisse des Ratsuchenden eingehen, die aus Orie"
+      },
+      {
+        "rank": 4,
+        "id": "ed967c9db20b3b758c0bbc829676c74affedb5d8bc24a4c13a3f026b8190fea0",
+        "score": 0.8152851462364197,
+        "meta": {
+          "file_path": "1001586_chapter_084.txt",
+          "source_id": "5134f1b377f44191938ba67612ea64aa34ed406e509d4f76c59028805d32c746",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1195,
+          "_split_overlap": [
+            {
+              "doc_id": "d30040bb6cbdd06c484267e261592912b257729c0a106374453b482b9bd9ef1d",
+              "range": [
+                1195,
+                1543
+              ]
+            },
+            {
+              "doc_id": "343427ede4f8fd12a6070feebb768b6c09da48e7bfbff7cfa66461123b8cc9b9",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "geben oft schon Vorschläge für eine Schrittfolge, in der die Visualisierung in den Beratungsprozess integriert wird. In Methoden werden also schon Ent­ scheidungen vorweg genommen, z.B. mit welcher Metapher gearbeitet wird, in welcher Phase die Methode eingesetzt werden kann und welche Fragen durch den Beratungsprozess führen. Hier soll nun eine Auswahl an grundlegenden Visualisierungstechniken beschrieben werden, in denen diese Entscheidungen noch nicht getroffen wurden. Die Techniken lassen sich daher unterschiedlich in Beratungssituati­ onen zusammenfügen und frei in verschiedene Phasen integrieren. Stichwortkarten Als Material lassen sich Moderationskarten (10x8 cm), Karteikarten (A6, A7), Klebezettel oder selbst zugeschnittene Karten nutzen. Das Grundprinzip ist immer das gleiche. Im Beratungsprozess werden Stichworte nicht als Liste aufgeschrieben, sondern auf frei bewegliche Karten. Je nach Platz auf dem Tisch oder an der Pinnwand sowie Größe der Karten werden sie mit dicke­ ren"
+      },
+      {
+        "rank": 5,
+        "id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+        "score": 0.7309584021568298,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7823,
+          "_split_overlap": [
+            {
+              "doc_id": "9728acc546a35e5fa2f838b754eda74f6edbb55b99699ff32227352150f8c22f",
+              "range": [
+                1099,
+                1498
+              ]
+            },
+            {
+              "doc_id": "32e1c27754c33e8e2205dbd493d9874e7d22250d38cdc1d03cf1ef62270a68aa",
+              "range": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        "content": "die Ratsuchende die angewandte Methode für spätere Entscheidungsprozesse auch ohne den bzw. die Beraterin ausprobie­ ren (s. 2.3 Bildungsberatung als Anleitung von Selbstlernprozessen). Methoden sehen außerdem oft die Aktivierung mehrerer Sinneseindrü­ cke vor. Das Gespräch wird unterstützt durch Visualisierungen, Bewegungen oder sogar kreative Techniken. Dadurch werden bei den Ratsuchenden auch andere Gehirnareale zur Ideenentwicklung aktiviert, anstatt ein Problem ein weiteres Mal nur sprachlich-kognitiv hin und her zu wenden. Visualisierungen können außerdem anschließend fotografiert oder dem oder der Ratsuchenden als Plakat direkt mitgegeben werden. Durch den Einsatz von Methoden ermögliche ich Ratsuchenden, unabhän­ gig von der Person der Beratenden aus sich heraus eigene Ideen zu entwi­ ckeln. Sind z.B. die ersten „Stolpersteine“ an die Pinnwand gesteckt, kann ich den Ratsuchenden bzw. die Ratsuchende zu einer ersten Selbstauswertung anregen. „In dieser Tradition ist die M.[ethod"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1223.txt",
+    "question": "Welche Rolle spielte das Change Team im Beratungsprozess und wie war es zusammengesetzt?",
+    "answer": "Das Change Team spielte als Steuerungsgruppe eine entscheidende Rolle im Beratungsprozess. Es bestand aus relevanten Gruppen der Unternehmen, darunter die Unternehmensleitung, Personalverantwortliche, der Personalrat, Vertreter der beteiligten Abteilungen und die Frauenbeauftragte. Das Change Team war für die Steuerung des Beratungsprozesses und die Überwachung der Fortschritte verantwortlich. Es wurde gegründet, um sicherzustellen, dass das Projekt erfolgreich umgesetzt wurde und dass die Ziele erreicht wurden. Das Change Team traf sich regelmäßig mit dem Projektteam, um über die Fortschritte zu berichten und mögliche Korrekturen zu diskutieren. Die Mitglieder des Change Teams waren für die Umsetzung der Maßnahmen verantwortlich und arbeiteten eng mit dem Projektteam zusammen, um sicherzustellen, dass das Projekt erfolgreich war. Das Change Team spielte eine entscheidende Rolle bei der Steuerung des Beratungsprozesses und war für die Erfolg des Projekts verantwortlich.",
+    "expected": "Das Change Team fungierte als Steuerungsgruppe und wurde aus relevanten Gruppen der Unternehmen gegründet. Es war verantwortlich für die Steuerung des Veränderungsprozesses und die Koordination mit dem Projektteam.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b421cdeddc227a5724d97dcbaeca3627cbd50541dbab5ec281f5c3af28430a7b",
+        "score": 0.9917829036712646,
+        "meta": {
+          "file_path": "9783847412304_chapter_1223.txt",
+          "source_id": "6885c2df36eca9f5cb15bad81185ab5beda1f92d4a815056895e919c665cb005",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1133,
+          "_split_overlap": [
+            {
+              "doc_id": "2a33b355df21d267036656bf58c2a1c10711c74be50ec32b148d2b29834c480d",
+              "range": [
+                1133,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "zu gewinnen, sowie Vielfalt zu akzeptieren, um so mehr Fachkräfte zu rekrutieren und an das Unternehmen zu binden. 4. Das Ziel wurde im Unternehmen kommuniziert und diskutiert (in Kick-off-Konferenzen). 5. Das Change Team als Steuerungsgruppe wurde gegründet (aus relevanten Gruppen der Unternehmen). 6. Thematische Arbeitsgruppen aus verschiedenen Abteilungen wurden ge- gründet und Monitoring als Steuerungselement eingerichtet: Regelmäßige Jour-fixe-Termine mit dem Projektteam und dem Change Team zu Berich- ten der Arbeitsgruppen und ggf. Korrekturen wurden vereinbart. 7. Die Evaluation der Maßnahmen der Intervention wurde begleitend durch- geführt; Zwischenergebnisse wurden den Beteiligten präsentiert – zum Beispiel in der Mid Time Konferenz – und kritische Stellungnahmen in Feedbackschleifen angefordert. 8. Ergebnisberichte aller Arbeitsgruppen wurden eingereicht und veröffent- licht und in den Abschlusskonferenzen diskutiert. In der folgenden Graphik wird der Beratungsprozess zusamme"
+      },
+      {
+        "rank": 2,
+        "id": "2a33b355df21d267036656bf58c2a1c10711c74be50ec32b148d2b29834c480d",
+        "score": 0.9831597208976746,
+        "meta": {
+          "file_path": "9783847412304_chapter_1223.txt",
+          "source_id": "6885c2df36eca9f5cb15bad81185ab5beda1f92d4a815056895e919c665cb005",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b421cdeddc227a5724d97dcbaeca3627cbd50541dbab5ec281f5c3af28430a7b",
+              "range": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        "content": "3. Die chronologische Struktur des Beratungsprozesses Beratungshandeln in den Unternehmen geschah als Prozess der Organisationsentwicklung, er war zielerichtet und erfolgsorientiert. Einzelne typische Stufen oder Phasen können dabei identifiziert werden (Macha et al. 2017a, b; unter Bezug auf Kotter 1996; Richman 2015): 1. Ein Problem wurde sichtbar: in diesem Fall strukturelle Ungleichheit in den Unternehmen. Als Grundlage der Beratung wurde eine empirische Erhebung zum Status quo der Diversity-Maßnahmen in den Unternehmen vor Projektbeginn durchgeführt. Der Change-Prozess begann mit der Da- tenanalyse. 2. Externe Trainerinnen und Trainer aus dem Projektteam wurden beauf- tragt, die Organisationsentwicklung zur Behebung des Problems zu steu- ern. Die Durchführung der Intervention mit Beratung und Weiterbildung wurde in Auftaktkonferenzen gestartet und aufgrund der Bedarfe und Ziele der einzelnen Unternehmen gestaltet. 3. Eine Vision für das Entwicklungsziel wurde von den Unternehmensl"
+      },
+      {
+        "rank": 3,
+        "id": "39671329dd7da5e160d73a4843391f1023738414608eff5fc8832fa4446a1b7d",
+        "score": 0.9616745114326477,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 19261,
+          "_split_overlap": [
+            {
+              "doc_id": "9ea13179493c5bb0e9a198018231d17296240482e42655a1e025c010183eab6d",
+              "range": [
+                1145,
+                1533
+              ]
+            },
+            {
+              "doc_id": "7368fe23c208858d90bdb9e9ca30e7051f41e19e111540aaa663371b21b15886",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "Kontexte der Beratun- gen spielen in den Reflexionen eine untergeordnete Rolle. In einer Reflexion wird der dargelegte Zeit- mangel auf institutionelle Vorgaben zurückgeführt. Daneben werden in zwei weiteren Dokumentatio- nen organisationale Rahmenbedingungen erwähnt. So führt das Prinzip der KundInnenfreundlichkeit der Organisation in einer Beratung dazu, dass der Berater spontan die reflektierte Beratung ohne vorherige Terminvereinbarung durchführt und sich daher wenig vorbereitet fühlt. In einem zweiten Fall wird die fehlende organisationale Un- terstützung in Form von kollegialen Beratungen oder Supervisionen angesprochen. In keinem der Fälle führt dies jedoch dazu, dass die BeraterInnen angeben, organisationale Veränderungsprozesse anregen zu wollen. Auf zeitliche Beschränkungen etwa wird stattdessen mit Hilfe der Auswahl von lösungsorientierten Beratungsansätzen reagiert: „Dort wo institutionell bedingt wenig Zeit für Bera- tung ist, wird man eher den kurzzeitberaterischen Ansatz"
+      },
+      {
+        "rank": 4,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.9582803845405579,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      },
+      {
+        "rank": 5,
+        "id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+        "score": 0.957205593585968,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5886,
+          "_split_overlap": [
+            {
+              "doc_id": "e1c1d6fa6bffac1efeb04374decf715e5a131be2044bf74c8860db597cf5d05c",
+              "range": [
+                1206,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "ansetzte und auch die Ebene der Gruppe und der Organisation mit einbezog. Dabei spielten kognitive, affektive, volitive und spirituelle Dimensionen wie Ziele und Visionen, Wissen, individuelle Motivationen, Kompetenzen, Macht-Strukturen und Perspektivenwechsel sowie auftretende Barrieren eine Rolle (Macha/Brendler 2014: 333). 2.3 Das Beratungskonzept der Interventionsprojekte Dem Beratungskonzept der Projekte lag die Methode des „Transformativen Organisationalen Lernens“ zugrunde. Sie wurde für die Projekte aus Ergeb- nissen der Forschung weiterentwickelt (Macha et al. 2011, 2014, 2015; Mezirow 2012; Bateson 2013; Schilling/Kluge 2009). Die Definition des Transformati- ven Organisationalen Lernens – TOL lautet: Transformatives Organisationa- les Lernen“ – TOL – im Unternehmen ist gekennzeichnet durch ein partizipa- tives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln, das Räume für Lernvorgänge "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1223.txt",
+    "question": "Warum wurde ein Monitoring als Steuerungselement eingerichtet und wie fand die Steuerung der Arbeitsgruppen statt?",
+    "answer": "Ein Monitoring als Steuerungselement wurde eingerichtet, um die Fortschritte der Arbeitsgruppen zu überwachen und zu steuern. Die Steuerung der Arbeitsgruppen fand durch regelmäßige Jour-fixe-Termine mit dem Projektteam und dem Change Team statt, bei denen die Berichte der Arbeitsgruppen diskutiert und ggf. Korrekturen vereinbart wurden. Die Evaluation der Maßnahmen der Intervention wurde ebenfalls begleitend durchgeführt, und Zwischenergebnisse wurden den Beteiligten präsentiert, um kritische Stellungnahmen in Feedbackschleifen anzufordern. Die Ergebnisberichte aller Arbeitsgruppen wurden eingereicht und veröffentlicht und in den Abschlusskonferenzen diskutiert.",
+    "expected": "Das Monitoring wurde eingerichtet, um den Fortschritt der thematischen Arbeitsgruppen aus verschiedenen Abteilungen zu überwachen. Die Steuerung erfolgte durch regelmäßige Jour-fixe-Termine mit dem Projektteam und dem Change Team, bei denen Berichte der Arbeitsgruppen präsentiert und gegebenenfalls Korrekturen vereinbart wurden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b421cdeddc227a5724d97dcbaeca3627cbd50541dbab5ec281f5c3af28430a7b",
+        "score": 0.9965534210205078,
+        "meta": {
+          "file_path": "9783847412304_chapter_1223.txt",
+          "source_id": "6885c2df36eca9f5cb15bad81185ab5beda1f92d4a815056895e919c665cb005",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1133,
+          "_split_overlap": [
+            {
+              "doc_id": "2a33b355df21d267036656bf58c2a1c10711c74be50ec32b148d2b29834c480d",
+              "range": [
+                1133,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "zu gewinnen, sowie Vielfalt zu akzeptieren, um so mehr Fachkräfte zu rekrutieren und an das Unternehmen zu binden. 4. Das Ziel wurde im Unternehmen kommuniziert und diskutiert (in Kick-off-Konferenzen). 5. Das Change Team als Steuerungsgruppe wurde gegründet (aus relevanten Gruppen der Unternehmen). 6. Thematische Arbeitsgruppen aus verschiedenen Abteilungen wurden ge- gründet und Monitoring als Steuerungselement eingerichtet: Regelmäßige Jour-fixe-Termine mit dem Projektteam und dem Change Team zu Berich- ten der Arbeitsgruppen und ggf. Korrekturen wurden vereinbart. 7. Die Evaluation der Maßnahmen der Intervention wurde begleitend durch- geführt; Zwischenergebnisse wurden den Beteiligten präsentiert – zum Beispiel in der Mid Time Konferenz – und kritische Stellungnahmen in Feedbackschleifen angefordert. 8. Ergebnisberichte aller Arbeitsgruppen wurden eingereicht und veröffent- licht und in den Abschlusskonferenzen diskutiert. In der folgenden Graphik wird der Beratungsprozess zusamme"
+      },
+      {
+        "rank": 2,
+        "id": "e1c1d6fa6bffac1efeb04374decf715e5a131be2044bf74c8860db597cf5d05c",
+        "score": 0.9142096638679504,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4680,
+          "_split_overlap": [
+            {
+              "doc_id": "a56f76431f5e096936cf588841e8e1a41d48029224c09b5394bdeab67ca300da",
+              "range": [
+                1157,
+                1552
+              ]
+            },
+            {
+              "doc_id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "stellte die erste Steue- rungsinstanz dar. Es bot Beratung und thematische Weiterbildung an und verzahnte beides. Ferner führte das Projektteam die Evaluation durch. 2. Das Change Team fungierte als zweite Steuerungsinstanz vonseiten der Unternehmen. Es bestand aus Mitgliedern relevanter Unternehmensgrup- pen wie zum Beispiel der Unternehmensleitung, den beteiligten Abtei- lungsleiter_innen, der Frauenbeauftragten, den Personalentwicklern, Mit- arbeitenden sowie Mitgliedern des Personalrats. Seine Aufgabe bestand in der Erstellung einer leitenden Vision, von Einzelzielen und in der Durch- führung des Monitorings. Einzelne thematische Arbeitsgruppen zur Erreichung der Unternehmensziele wurden gegründet (zwischen 6 und 14 Gruppen pro Unternehmen). Regelmäßige Jour fixes dienten der Kontrolle der Arbeitsgruppen und ihrer Fortschritte sowie der Kommunikation der Ergebnisse ins Unternehmen hinein sowie an die Kunden. Das Beratungsziel bestand darin, die Unternehmen diversitygerecht mit part"
+      },
+      {
+        "rank": 3,
+        "id": "c0cdc2977f53231b6befc8d319b4b5d079e3e94605487aade7662753d18a6778",
+        "score": 0.15986306965351105,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12856,
+          "_split_overlap": [
+            {
+              "doc_id": "1a24b29491bf48f991bff40c97845cd4d3fb657182481c62f7b7e21d05219106",
+              "range": [
+                1062,
+                1449
+              ]
+            },
+            {
+              "doc_id": "81482177bf1225d0629abc58f684d613afa2c6ef4162fa203738a0812cda1c86",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "rücken, auch wiederum mit Fragetechniken aus dem systemischen ‚Beratungstool’ z.B.: - Lösungsorientierte Fragen (Verbesserungsfragen) o Fragen nach Ressourcen o Fragen nach Ausnahmen vom Problem o Die Wunderfrage - Kombination lösungsorientierte und problemorientierte Fragen o Fragen nach dem Nutzen, das Problem (vorläufig) noch zu behalten o Zukunfts-Zeitpläne Dies wäre zum Beispiel eine Systemische Intervention, um einem Rat- und Hilfesuchenden eine Entscheidung leichter nahe zu bringen, bzw. kann so ein Pflegeberater auch erkennen wo noch Informations-/ Beratungsdefizite beim Kundensystem vorliegen. Fallklärung und -steuerung In der Darstellung der Fallklärung und –steuerung wird als ‚wichtig’ betont, dass die Hauptverantwortung immer bei einer Person verbleibt auch wenn weitere Fachleute zu diesem Fall hinzugezogen werden sollte die Steuerung immer in den gleichen Händen liegen (vgl. KDA 2009:43f). Es wird beschrieben, dass um die Fälle individuell zu klären unterschied- lichste As"
+      },
+      {
+        "rank": 4,
+        "id": "d6cd00a981e3451e30d1726f513a00bd55edda60a9db8c19d95224be341cfaf9",
+        "score": 0.12102993577718735,
+        "meta": {
+          "file_path": "9783847412304_chapter_0942.txt",
+          "source_id": "ff83987ddc0bbc8f52e5840a07b0638982d85a26e45389ee5f265defa5ed0e38",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1243,
+          "_split_overlap": [
+            {
+              "doc_id": "ebe8952494ba6dd1809f99a1bb07d020e665f4205e3c19e0dcd68de6fabdde33",
+              "range": [
+                1243,
+                1665
+              ]
+            },
+            {
+              "doc_id": "1d1af7ef3fe4252604f2b7a8acc32055bc083b3f52248919454f9c5cbe9b01eb",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "durch die auf dem Bildungsberatungs-Radar geschulten BeraterInnen Beratungsfälle in einem vorstrukturierten webbasierten Tool dokumentiert. Der Fokus liegt dabei auf Fällen mit möglicher Systemrelevanz. Als systemrelevante Fälle werden Beratungsfälle bezeichnet, die auf strukturelle Defizite oder Hindernisse hinweisen und die auf individueller Ebene bzw. durch ein Beratungsgespräch nicht gelöst oder beeinflusst werden können. Neben der Selbsteingabe der systemrelevanten Beratungsfälle durch die BeraterInnen wurde während der Pilotphase seitens der wissenschaftlichen Begleitung auch das Angebot gemacht, mögliche Fälle mittels leitfadengestütztem qualitativem Interview zu erheben. Der dabei verwendete Leitfaden orientierte sich am Eingaberaster des webbasierten Erfassungstools im Bib-Radar. Im Anschluss an die Interviews wurden diese transkribiert und die mit den BeraterInnen gemeinsam definierten systemrelevanten Fälle von den ForscherInnen in das Erfassungstool eingepflegt. Die eingege"
+      },
+      {
+        "rank": 5,
+        "id": "fc5f21c7b1c61cc5dfcf298a0f19a69ed8b752f1018658075faee567e1ffcdc2",
+        "score": 0.08287899941205978,
+        "meta": {
+          "file_path": "9783839444856_chapter_0733.txt",
+          "source_id": "49b24248a218c8d45f82d86f56205210f88a633f70569e0099f3aebc522a0c69",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9437d481f872ae6dce52a1612e6da787a9387b363e1528aca718a5c603f209c7",
+              "range": [
+                0,
+                419
+              ]
+            }
+          ]
+        },
+        "content": "5.3.3 Gesellschaftliche Rahmenbedingungen Auf gesellschaftlicher Ebene werden in den Interviews vor allem die struk­ turellen Voraussetzungen und gesellschaftlichen Bedingungen in Bezug auf das Ziel einer bildungsadäquaten beruflichen Integration thematisiert. Der Einstieg in den Arbeitsmarkt stellt für viele Klient_innen die Motiva­ tion für ein Anerkennungs- oder Bewertungsverfahren dar. Dadurch sind die Berater_innen gefordert, sich mit den Möglichkeiten und Grenzen der arbeitsmarktbezogenen »Verwertbarkeit« von im Ausland erworbenen Qua­ lifikationen auseinanderzusetzen, auch wenn die Unterstützung bei der Arbeitsplatzsuche nicht zum direkten Aufgabenfeld in der Anerkennungs­ beratung gehört. »Also ich kann kein vollständiges Bewerbungscoaching machen, ich kann sicher auch keine Laufbahnberatung machen […]. Also Berufsberatung, das sind dann so die Grenzen. Also Grenzen für mich sind dann einfach, den Leu­ ten einen Job zu vermitteln. Das kann ich nicht, da hab ich weder das Instru"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1223.txt",
+    "question": "Wie wurden die Ergebnisse der Intervention bewertet und kommuniziert, und welche Bedeutung hatten Feedbackschleifen dabei?",
+    "answer": "Die Ergebnisse der Intervention wurden im Projekt „Entlastungsprogramm bei Demenz – EDe“ durch die Gesundheitsberaterinnen und -berater bewertet und kommuniziert. Sie führten Feedbackschleifen durch, um die Wirksamkeit der Interventionen zu überprüfen und anzupassen. Dabei spielte die pflegefachliche Expertise der Gesundheitsberaterinnen und -berater eine zentrale Rolle. Die Ergebnisse wurden nicht im Text beschrieben. Es wird jedoch erwähnt, dass der systemisch-lösungsorientierte Beratungsansatz sich als hilfreich und effektiv erwiesen hat.",
+    "expected": "Die Evaluation der Maßnahmen wurde begleitend durchgeführt, Zwischenergebnisse wurden den Beteiligten präsentiert, beispielsweise in der Mid Time Konferenz. Kritische Stellungnahmen wurden in Feedbackschleifen eingeholt, um die Maßnahmen zu überprüfen und anzupassen. Am Ende wurden Ergebnisberichte aller Arbeitsgruppen eingereicht, veröffentlicht und in den Abschlusskonferenzen diskutiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "18a043736ca5d76fc862ae8016e89b593c5d6a832dcfc39fd1c818d506ab78ce",
+        "score": 0.9880650639533997,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2262,
+          "_split_overlap": [
+            {
+              "doc_id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+              "range": [
+                1119,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Kontext, Persönlichkeitstyp und individueller Motivationslage kann eine frühzeitige Intervention den Abbruchwunsch sogar erst hervorrufen oder einen vorhandenen Wunsch in diese Richtung verstärken. Für die persönli- che Entwicklung und für den weiteren Bildungsweg kann das aber auch eine Chance zum Neubeginn sein. Daraus ergeben sich hohe Ansprüche an die professionellen Kompetenzen von Studienberaterinnen und Studienberatern und deren Qualifizierung (z. B. Hoff/Zwicker-Pelzer 2015; Stiehler 2007)."
+      },
+      {
+        "rank": 2,
+        "id": "af21212a12118ea256d52707ca6c19ac319acf1100d0e3d9a49fa4c68dc617c6",
+        "score": 0.9811495542526245,
+        "meta": {
+          "file_path": "9783847412304_chapter_069.txt",
+          "source_id": "50634dfb3a578b548ee10a5f59757f3b7df3b36e420007c95fb69f6cdba6e2c5",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2409,
+          "_split_overlap": [
+            {
+              "doc_id": "a5a6be9ac0f394c578e8819391331b12eabe3e9db6fbc482c08fe14e7dbe7ed8",
+              "range": [
+                1173,
+                1568
+              ]
+            }
+          ]
+        },
+        "content": "Lernbiografie“ (ebd.) betrachtet, die dies in der Beratung klar explizieren, reflektieren und aktiv nach Optimierungen suchen. • Zeitlich wird das Beratungsgespräch als „aus dem Seminar ausgegliederte Intervention“ (ebd. S. 148) verstanden und individualisiert nach den Bedarfen der Teilnehmenden realisiert. Wie die zeitliche Kopplung an die strukturierte Seminarsituation genau erfolgen soll, bleibt konzeptionell unklar. Es handelt sich damit um ein exkludierendes, unbestimmtes Zeitkonzept"
+      },
+      {
+        "rank": 3,
+        "id": "3a326282a00e4f45589edb2ce7ba312a3d6263091f419fa41b690d7a0b8b1d4f",
+        "score": 0.9661775827407837,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7174,
+          "_split_overlap": [
+            {
+              "doc_id": "6769735a6d6d5b2b7a7c3faf46e0f46ea3413df997f2adba607beec2dce14c3a",
+              "range": [
+                1020,
+                1370
+              ]
+            },
+            {
+              "doc_id": "ec131a5cc26b5ec6306b8788f81096b1cec076c0438cea9a37d5d4147bd3bc61",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "ihre eigene Wahl zu treffen, soweit dies menschenwürdig ist. 14. sie unterstreicht die Erwünschtheit von primärer Prävention gegenüber korrektiver Intervention (vgl. Mahoney & McCray Patterson 1992). Aus den Vorgaben von GELSO und FRETZ (1992) bezüglich der verschie- denen Rollen und Aufgaben fokussieren sie drei Rollen: 1. Die präventive Rolle in der Beratung versucht, Problemursachen und Probleme zu antizipieren, sie umgehbar zu machen oder ihnen vorzubeu- gen. FRETZ (1995) geht davon aus, zentraler Aspekt von Counseling Psychology sei es, Individuen dabei behilflich zu sein, Veränderungen in ihrer persönlichen und sozialen Umwelt vorzunehmen und so die Auftre- tenswahrscheinlichkeit von Problemen zu minimieren und dadurch die Notwendigkeit kurativ/heilender Maßnahmen der Wiederherstellung zu vermeiden. 2. Die entwickelnde/wachstumsfördernde Rolle in der Beratung ver- sucht, Individuen dabei zu unterstützen, die größt-möglichen Vorteile aus den Erfahrungen ihrer eigenen Kräfte, Poten"
+      },
+      {
+        "rank": 4,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.963557779788971,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 5,
+        "id": "57a5ab0448cd2878500c3e47ee28061fd7fa455c7d3488a92dbe49bfaaf44b01",
+        "score": 0.959550142288208,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 19,
+          "split_idx_start": 22474,
+          "_split_overlap": [
+            {
+              "doc_id": "f2f5036029372429064e4641d1d45345d6f5a29b629f28ad79fd0b7f1b5f2cb1",
+              "range": [
+                1160,
+                1581
+              ]
+            },
+            {
+              "doc_id": "0ecd8375f40ed85039b48209bee5b24d6549317ee69e6d10c1f17358e4253df6",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "zu akzeptieren. 6.3.4. Beratung als Entlastungsprogramm Das Projekt ‚Entlastungsprogramm bei Demenz – EDe‘ hat gezeigt, wie pflegende Angehörige und Familien demenzerkrankter Menschen wirkungs- voll unterstützt werden können. Im Zentrum der Interventionen stand dabei ein proaktiver zugehender Beratungsansatz. Der Hilfebedarf der Familien bestand dabei grundsätzlich in drei Bereichen, die unterschiedliche Schwerpunkte in den Beratungsbesuchen und nicht in jeder Familie gleiches Ge- wicht hatten: Beratungsbedarf im Hinblick auf eine Problemlösung und im Hinblick auf eine emotionale Entlastung Bedarf an Schulung und Anleitung zu demenzspezifischen Pflegeproblemen Bedarf an Information über die Leistungen der Pflegeversicherung und die regionalen Angebote sowie Vermittlung und Koordination von Hilfen Der systemisch-lösungsorientierte Beratungsansatz hat sich als hilfreich und effektiv erwiesen. Dabei diente die systemische Komponente der angemesse- nen und multiperspektivischen Fähigkeit z"
+      }
+    ]
+  }
+]

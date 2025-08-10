@@ -1,0 +1,648 @@
+[
+  {
+    "filename": "9783866496811_chapter_1042.txt",
+    "question": "Was ist das Hauptziel des Pilotprojekts „Werkstatt Pflegestützpunkt“ im Rahmenmodell?",
+    "answer": "Das Hauptziel des Pilotprojekts „Werkstatt Pflegestützpunkt“ im Rahmenmodell ist es, ein umfassendes Profil von Tätigkeiten der Pflegeberatung/Care Management zu erstellen und die auf Erfahrung basierten ausgearbeiteten Strukturen darzustellen, um Schwachstellen zu benennen und kreative Verbesserungsvorschläge angesetzt werden zu können.",
+    "expected": "Das Hauptziel des Pilotprojekts „Werkstatt Pflegestützpunkt“ ist es, ein ausführliches Profil von Tätigkeiten der Pflegeberatung und des Care Managements zu erstellen, Schwachstellen in den bestehenden Strukturen zu identifizieren und kreative Verbesserungsvorschläge zu entwickeln.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+        "score": 0.9971444010734558,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "6.4.2. Fazit Das Pilotprojekt „Werkstatt Pflegestützpunkt“ am Beispiel des Rahmenmo- dells (vgl. KDA 2009:40-46) dargestellt, hat in der bereits fortgeschrittenen Laufzeit des Projekts ein ausführliches Profil von Tätigkeiten der Pflegebera- tung/ Care Management erstellen können. Auch ist es KDA und den Akteuren gelungen, die auf Erfahrung basierten ausgearbeiteten Strukturen darzustellen und in diesen Strukturen vorhandene Schwachstellen zu benen- nen, damit dort kreative Verbesserungsvorschläge angesetzt werden können. Die Mitarbeiter des Pilotprojektes haben im Verlauf der Durchführung er- kannt, dass besonders im Kontakt mit den Rat- und Hilfesuchenden die Schwierigkeiten auftreten, also in Gesprächs- und Beratungssituationen noch nötige Kompetenzen fehlen. An diesem Punkt waren die Erfahrungen im EDe-Projekt sehr ähnlich. Die Beratungsleistungen eines Pflegeberaters im Care Management sind, wie im Rahmenplan selbst beschrieben steht „hochkomplex“, daher sollte dem Pflegeberater a"
+      },
+      {
+        "rank": 2,
+        "id": "d48dc886f863d7419d420cad74f59b54e49a4a92571ac12ecf4d7d87cbd7e917",
+        "score": 0.9917591214179993,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2544,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                1276,
+                1656
+              ]
+            },
+            {
+              "doc_id": "ddf86321fca238557ac12457d9931f394456b66f8f30975ad6fbdbfaeb012d79",
+              "range": [
+                0,
+                486
+              ]
+            }
+          ]
+        },
+        "content": "von Pflegestützpunkten ermit- telt und somit wurden sechzehn Standorte als ‚Pilot-Pflegestützpunkte’ ins Projekt aufgenommen. Das Pilotprojekt wird Bundesweit durchgeführt, bis auf Bremen ist in jedem Bundesland ein Pilot-Pflegestützpunkt enthalten und in Nordrhein-Westfalen sind es zwei. Begonnen hat das Pilotprojekt im No- vember 2007 und sollte seinen Abschluss im Juni 2010 finden, leider liegt zur jetzigen Zeit noch kein Abschlußbericht vor. Allerdings ist der zweite Zwischenbericht vom November 2009 bereits sehr aufschlussreich und es sind einige interessante Aspekte zum Thema individuelle Beratung zu ent- nehmen. Beschrieben wird die Wichtigkeit eines Betriebsmodells, das bei Implemen- tierung des Stützpunktes mit den Akteuren individuell der Umgebung und dem Kontext angepasst und ausgearbeitet werden soll. Anhand der Erfahrun- gen des bereits weit fortgeschrittenen Pilotprojektes entwirft KDA mit Kooperation aller Akteure der Pilot-Stützpunkte einen Rahmenplan für ein Betriebsko"
+      },
+      {
+        "rank": 3,
+        "id": "1317f4d497c2b09f9e96e8e688a20fea2580e45e98fb4a8cb3b8f01de242448e",
+        "score": 0.9901828169822693,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                0,
+                490
+              ]
+            }
+          ]
+        },
+        "content": "6.4.1. Empfehlungen des Pilotprojektes ‚Werkstatt Pflegestützpunkt‘ Durch das Pflege-Weiterentwicklungsgesetz sollen keine Doppelstrukturen entstehen. Dafür aber eine Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren. Diese Vernetzungsaufgabe gehört zur Kernkompetenz der Pflegestützpunkte, welche flächendeckend in Deutschland (in 14 Bundesländern) etabliert wer- den sollen (vgl. KDA 2009:14ff). Auf diese Art ergänzt das Konzept der Pflegestützpunkte die Pflegeberatung auf essentielle Weise, denn durch die Verwurzelung der Pflegeberater ist die benötigte Unterstützung wohnortnah und gut erreichbar. Gleichwohl auch eine veränderte Bedarfsregelung eines Pflegebedürftigen mit direkter Unterstützung und örtlicher Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person erfolgen kann. Gesetzlich sind di"
+      },
+      {
+        "rank": 4,
+        "id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+        "score": 0.9774968028068542,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2417,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "Tätigkeiten eines Pflegeberaters aus der Pilotstudie der Pflegestützpunkte vergleichen. Darüber hinaus wird im 2. Zwischenbericht ‚Werkstatt Pflegestützpunkt’ ausdrücklich festgehalten, dass der Ansatz einer (singulären) Pflegeberatung durch das Konzept der Pflegestützpunkte in substanzieller Weise ergänzt wird (vgl. KDA 2009:12). Durch die angestrebte flächendeckende Verwurzelung von Pflegestützpunk- ten, wäre der Ansprechpartner, die PflegeberaterIn, für pflegende Angehörige, und auch Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe. Wie der zweite Zwischenbericht der Pilot-Pflegestützpunkte zeigt, ist der Anteil von Rat- und Hilfesuchenden rund um die Demenz kein Geringer. Es wurde als sechs häufigstes Thema von Rat- und Hilfesuchenden in den Pflegestützpunkten nachgefragt und betrug 8% aller vorgebrachten Problemthemen."
+      },
+      {
+        "rank": 5,
+        "id": "d2695104a256dd251d2079819b852ef816b946c21901e9eef746dbfa353c7b2a",
+        "score": 0.9659165143966675,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 15150,
+          "_split_overlap": [
+            {
+              "doc_id": "81482177bf1225d0629abc58f684d613afa2c6ef4162fa203738a0812cda1c86",
+              "range": [
+                1152,
+                1536
+              ]
+            },
+            {
+              "doc_id": "f81a33e69acbc131102a1d81ad60b56b04fdddd420daaad793a33b7f4d4e2116",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "den Adressaten und dessen Veränderungsbemühen zuständig. Diese Philosophie wird ebenfalls von KDA im zweiten Zwischenbericht der ‚Werkstatt Pflegestützpunk- te’ geteilt (vgl. KDA 2009:41ff). Wahlmöglichkeiten schaffen Aus den Erfahrungen des Pilotprojektes ist zu erkennnen, dass eine umfas- sende Erhebung des Hilfebedarfs sich als schwierig erweisen kann. Da in einer Familie sowie beim Pflegebedürftigen selbst Meinungen und Einschät- zungen einer Sache oder Situation ganz unterschiedlich dargestellt werden können. Diese Erfahrung wird durch eine systemische Theorie dem „Konstruktivis- mus“ bestätigt, denn dieser beschäftigt sich mit der vom Menschen konstruierten Wirklichkeit. Dabei steht nicht die Frage im Vordergrund, ob es eine ‚wirkliche Wirklichkeit’ gibt, vielmehr wird davon ausgegangen, dass dem Menschen nur subjektive Realitäten zugänglich sind (vgl. Bamberger 2005, S.8 ff). Das bedeutet, dass jeder Mensch ganz individuell aus der Posi- tion, in welcher dieser sich befindet die"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1042.txt",
+    "question": "Welche Schwierigkeiten treten laut dem Pilotprojekt besonders im Kontakt mit den Rat- und Hilfesuchenden auf?",
+    "answer": "Die Schwierigkeiten, die laut dem Pilotprojekt besonders im Kontakt mit den Rat- und Hilfesuchenden auftreten, sind die Schwierigkeiten, die sich aus dem Mangel an notwendigen Kompetenzen im Gesprächs- und Beratungssituationen ergeben. \n        I cannot find the answer in the provided context. or The answer to the question cannot be found in the provided context. or I cannot determine the answer to the question based on the provided context. or The provided context does not contain information about the specific difficulties that occur in the contact with the seekers of advice and help. or The context does not mention the specific difficulties that occur in the contact with the seekers of advice and help. or The difficulties that occur in the contact with the seekers of advice and help are not mentioned in the context. or The context does not provide information about the specific challenges that the seekers of advice and help face in their contact with the service providers. or The context does not mention the specific challenges that the seekers of advice and help face in their contact with the service providers. or The provided context does not contain information about the specific difficulties that occur in the contact between the seekers of advice and help and the service providers. or The context does not provide information about the specific difficulties that occur in the contact between the seekers of advice and help and the service providers. or The difficulties that occur in the contact between the seekers of advice and help and the service providers are not mentioned in the context. or The context does not mention the specific difficulties that occur in the contact between the seekers of advice and help and the service providers. or The provided context does not contain information about the specific challenges that the service providers face in their contact with the seekers of advice and help. or The context does not provide information about the specific challenges that the service providers face in their contact with the seekers of advice and help. or The difficulties that the service providers face in their contact with the seekers of advice and help are not mentioned in the context. or The context does not mention the specific difficulties that the service providers face in their contact with the seekers of advice and help. or The provided context does not contain information about the specific challenges that the seekers of advice and help face in their contact with the service providers. or The context does not provide information about the specific challenges that the seekers of advice and help face in their contact with the service providers. or The difficulties that the seekers of advice and help face in their contact",
+    "expected": "Besonders im Kontakt mit den Rat- und Hilfesuchenden treten Schwierigkeiten in Gesprächs- und Beratungssituationen auf, da in diesen Situationen noch notwendige Kompetenzen bei den Mitarbeitenden fehlen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+        "score": 0.9901691675186157,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "6.4.2. Fazit Das Pilotprojekt „Werkstatt Pflegestützpunkt“ am Beispiel des Rahmenmo- dells (vgl. KDA 2009:40-46) dargestellt, hat in der bereits fortgeschrittenen Laufzeit des Projekts ein ausführliches Profil von Tätigkeiten der Pflegebera- tung/ Care Management erstellen können. Auch ist es KDA und den Akteuren gelungen, die auf Erfahrung basierten ausgearbeiteten Strukturen darzustellen und in diesen Strukturen vorhandene Schwachstellen zu benen- nen, damit dort kreative Verbesserungsvorschläge angesetzt werden können. Die Mitarbeiter des Pilotprojektes haben im Verlauf der Durchführung er- kannt, dass besonders im Kontakt mit den Rat- und Hilfesuchenden die Schwierigkeiten auftreten, also in Gesprächs- und Beratungssituationen noch nötige Kompetenzen fehlen. An diesem Punkt waren die Erfahrungen im EDe-Projekt sehr ähnlich. Die Beratungsleistungen eines Pflegeberaters im Care Management sind, wie im Rahmenplan selbst beschrieben steht „hochkomplex“, daher sollte dem Pflegeberater a"
+      },
+      {
+        "rank": 2,
+        "id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+        "score": 0.9881072640419006,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "6.5.1 Systemische Qualifikationen der PflegeberaterInnen sind ausbaufähig Der Ausgangspunkt an welchem wir uns Befinden ist, dass die Pflegefach- kraft die Weiterbildung ‚Systemische Beratung in der Pflege‘ als Qualifizierung zur PflegeberaterIn bereits besitzt und auf diese Weise die durch das Pilotprojekt herausgearbeiteten Schwachstellen der Kommunikati- on und im Kontakt mit den Rat- und Hilfesuchenden ausgleicht. Mit den so erworbenen Beratungskompetenzen sind die PflegeberaterInnen in den Son- dierungsgesprächen in die Lage versetzt lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten was die Rat- und Hilfesuchende an weiterführender Leistung benötigen. Werden spezielle Leistungen von Fach- leuten, wie Fachärzte, Therapeutinnen, Krankenkassen, Wohnberatungsstellen u.a.m. benötigt, ist es an den PflegeberaterInnen dies zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Ist es ebenfalls möglich dass die PflegeberaterIn dem Ra"
+      },
+      {
+        "rank": 3,
+        "id": "bd4cf985055e6307a92258722abbdb34ffa533d1d6a61fdce905b6989e93cde9",
+        "score": 0.944542646408081,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8439,
+          "_split_overlap": [
+            {
+              "doc_id": "5eb481bc77f7a9eea2b826d5299033971ef3a466bb4d628f1c38dd36169dce91",
+              "range": [
+                1124,
+                1452
+              ]
+            },
+            {
+              "doc_id": "748cd887ae379905c47a89dedc105b2a6198f8b4b814e00df3bdb174bb15049e",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "sondern nach dem subjektiven Bedarf des Kunden in diesem Fall dem Rat- und Hilfesuchenden. Auf diese Weise werden nicht nur Nerven und Arbeitskraft des Pflegebera- ters geschont, sondern vor allem erfährt der Rat- und Hilfebedürftige das Gefühl das ihm geholfen wurde und er wertgeschätzt wird. In Arbeitsberei- chen in welchen der Kunde bereits ‚König’ ist, fällt dieser systemische Grundgedanke kaum noch ins Gewicht, wie es auch in der Pflege sein sollte. Aber in komplexen Handlungsfeldern wie es der Pflegestützpunkt darstellt, ist es durchaus wichtig diese systemische Dienstleistungsphilosophie verin- nerlicht zu haben. Information als Bestandteil von Beratung In der Leistungsrubrik der Einzelinformation des Pilotprojektes ‚Werkstatt Pflegestützpunkt’, hat der Rat- und Hilfesuchende möglichst zum gleichen Pflegeberater Kontakt. Anhand der zuvor erarbeiteten Kontaktdaten, erhält der Kunde nun Informationen zu den Hilfs- und Unterstützungsangeboten inklusive Umfang und Preis der Leistung"
+      },
+      {
+        "rank": 4,
+        "id": "d30040bb6cbdd06c484267e261592912b257729c0a106374453b482b9bd9ef1d",
+        "score": 0.5856438279151917,
+        "meta": {
+          "file_path": "1001586_chapter_084.txt",
+          "source_id": "5134f1b377f44191938ba67612ea64aa34ed406e509d4f76c59028805d32c746",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ed967c9db20b3b758c0bbc829676c74affedb5d8bc24a4c13a3f026b8190fea0",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "5.4 Grundtechniken zur Visualisierung Karin Kress Neben den Gesprächsführungstechniken gehören Visualisierungen zum grundlegenden Handwerkszeug in der Beratung. Ratsuchende erhalten einen sichtbareren Zugang zu ihrem Beratungsanliegen als durch das reine Bera­ tungsgespräch. Visualisierungen wirken ähnlich wie verbale Spiegeltechni­ ken. Ratsuchende vergegenwärtigen sich ihre Situation, ihr Anliegen, ihre Lösungsoptionen je nachdem in welcher Phase die Visualisierung eingesetzt wird. Außerdem können die Visualisierungen je nach Größe der Abbildungen entweder direkt von den Ratsuchenden mitgenommen oder ggf. fotografiert werden. Auf diese Weise können sich die Ratsuchenden auch unabhängig von der Beratungssituation selbst mit ihren Überlegungen weiter beschäftigen oder sich verdeutlichen, zu welchen Erkenntnissen oder Entscheidungen sie mit der Beratung gelangt sind. Für Beraterinnen und Berater haben Visualisierungen den Vorteil, dass sie die Aussagen des oder der Ratsuchenden nicht nu"
+      },
+      {
+        "rank": 5,
+        "id": "4cf1d7adf591513e5fd0ad544bc9bb8de2b83e178d4e6b4a3eff44f5c13a38f7",
+        "score": 0.5155029892921448,
+        "meta": {
+          "file_path": "1001586_chapter_08510.txt",
+          "source_id": "32c61d2d22fa46d944638ab3a15a2c813c5e6c3e97126a83a30d40c5e2d45b14",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2249,
+          "_split_overlap": [
+            {
+              "doc_id": "c2bae62a61a7c5f980168ecc38b21ab246656780532f4970e111f2ad66eb1965",
+              "range": [
+                1134,
+                1482
+              ]
+            },
+            {
+              "doc_id": "27484d0168076c1d2752a08ff103a3902399b9b3d462aa581887698134deb4df",
+              "range": [
+                0,
+                321
+              ]
+            }
+          ]
+        },
+        "content": "bzw. die Ratsuchende berichtet bereits während des Bera­ Nachdem alle Themenbereiche vom Beratenden eingezeichnet wur­ den, empfiehlt es sich, das Lebensrad/den Lebensstern und einen Stift an den oder die Ratsuchenden weiterzureichen. Nun kann der bzw. die Ratsu­ chende über jeden Lebensbereich noch einmal kurz nachdenken und sich dann für einen Zufriedenheitswert anhand der Skala entscheiden. Dabei kann der bzw. die Ratsuchende laut erzählen, ist dazu aber nicht gezwun­ gen. Die Reihenfolge, mit welchem Thema er bzw. sie als erstes beginnt, ist dabei nicht entscheidend. 4. \u0007Abschluss und Transfer: Nachdem das Lebensrad/der Lebensstern vom Ratsuchenden mit den jeweiligen Werten gekennzeichnet wurde, kann der bzw. die Beratende die einzelnen Punkte miteinander verbinden, sodass die graphische Darstellung eines Rads oder Sterns entsteht (vgl. Bamber­ ger 2010: 111). Nun kann der bzw. die Beratende die ratsuchende Person zunächst fragen, was er oder sie beim Anblick des Lebensrads empfind"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1042.txt",
+    "question": "Warum wird die Fachweiterbildung zur ‚Systemischen Beratung in der Pflege‘ als Verbesserungsmöglichkeit empfohlen?",
+    "answer": "Die Fachweiterbildung zur ‚Systemischen Beratung in der Pflege‘ wird als Verbesserungsmöglichkeit empfohlen, weil sie die PflegeberaterInnen in die Lage versetzt, lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten, was die Rat- und Hilfesuchenden an weiterführender Leistung benötigen. Außerdem ermöglicht sie es den PflegeberaterInnen, spezielle Leistungen von Fachleuten zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Darüber hinaus kann sie es den PflegeberaterInnen ermöglichen, die Angehörigen von Pflegebedürftigen beratend zu unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt.",
+    "expected": "Die Fachweiterbildung zur ‚Systemischen Beratung in der Pflege‘ wird empfohlen, um die Schwachstellen im Betriebsmodell Pflegestützpunkt zu stärken, da die Beratungsleistungen im Care Management hochkomplex sind und Pflegeberater entsprechendes Werkzeug benötigen, um effektiv beraten zu können.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+        "score": 0.9975601434707642,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1200,
+          "_split_overlap": [
+            {
+              "doc_id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+              "range": [
+                1200,
+                1591
+              ]
+            },
+            {
+              "doc_id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "sollte es bedeuten, dass eine Pflegefachkraft mit entsprechender Fachweiterbildung selbst die Spezialberatung in ihrem Fachgebiet durchführen kann. Ist also, wovon wir ausgehen, in der Fachweiterbildung zum Pflegeberater das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, kann die Pflegeberate- rIn die Angehörigen von Pflegebedürftigen beratend Unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt. Dieses Projekt zeigt, dass es möglich ist durch entsprechende Beratung pfle- gende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Dazu wurde ein spezifisches Qualifizierungskonzept entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflege- fachkräfte kommend aus der Ambulanten Pflege wurden in den drei Hauptschwerpunkten des Konzeptes unterrichtet: - Bedarfseinschätzung und Hilfeplanung - Beratungsinterventionen und Schulung - Vermittlung und Koordination von"
+      },
+      {
+        "rank": 2,
+        "id": "9225a3efb7cc162b0f91c01274db2fcc1e6d72f69b06edccb86883ccfb0f445b",
+        "score": 0.9972904920578003,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "5.2.3. Zur Verortung von systemischer Beratung im und beim Lernen in den Pflegeausbildungen Ziel und Gegenstand der Lernprozesse in den Pflegeausbildungen ist die Entwicklung von Pflegekompetenzen, die die erfolgreiche Bewältigung rele- vanter Pflegebedarfe in Pflegesituationen gewährleisten. Hierzu sind Lernprozesse am schulischen und betrieblichen Lernort und wechselseitig aufeinander bezogen zu gestalten. Insgesamt steht hierbei der Lernort Betrieb und damit das Lernen am Arbeitsplatz im Vordergrund. Hier begegnet der Lernende in der Pflegeausbildung den Pflegebedürftigen in komplexen Pfle- gesituationen, die durch die Pflegebedürftigkeit und die damit verbundenen Pflegeanlässe konstituiert sind. Je nach Pflege- und Behandlungsbedarfen erfolgt die pflegebedarfsorientierte Betreuung und Versorgung in stationären, teilstationären oder ambulanten Einrichtungen. Praxisanleiter begleiten den Lernenden bei der Bewältigung vielfältiger Anforderungen und unterstützen ihn systematisch bei de"
+      },
+      {
+        "rank": 3,
+        "id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+        "score": 0.9971935153007507,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "6.5.1 Systemische Qualifikationen der PflegeberaterInnen sind ausbaufähig Der Ausgangspunkt an welchem wir uns Befinden ist, dass die Pflegefach- kraft die Weiterbildung ‚Systemische Beratung in der Pflege‘ als Qualifizierung zur PflegeberaterIn bereits besitzt und auf diese Weise die durch das Pilotprojekt herausgearbeiteten Schwachstellen der Kommunikati- on und im Kontakt mit den Rat- und Hilfesuchenden ausgleicht. Mit den so erworbenen Beratungskompetenzen sind die PflegeberaterInnen in den Son- dierungsgesprächen in die Lage versetzt lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten was die Rat- und Hilfesuchende an weiterführender Leistung benötigen. Werden spezielle Leistungen von Fach- leuten, wie Fachärzte, Therapeutinnen, Krankenkassen, Wohnberatungsstellen u.a.m. benötigt, ist es an den PflegeberaterInnen dies zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Ist es ebenfalls möglich dass die PflegeberaterIn dem Ra"
+      },
+      {
+        "rank": 4,
+        "id": "7092310d7516069311d5f01c9333e68397bf06b6aa306a99d02c5cd4686f6957",
+        "score": 0.9966201782226562,
+        "meta": {
+          "file_path": "9783866496811_chapter_091.txt",
+          "source_id": "aa1fb975f868467481bfe6cde4caf0bd042c90635b3201a8bde5d0c9120efc63",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4a7e51f2439bfcfccea1bdec1d5d7b10aec6b17f797172b6d41a3bbde7451c15",
+              "range": [
+                0,
+                453
+              ]
+            }
+          ]
+        },
+        "content": "5.1. Systemische Beratung und Pflege(-aus)bildung – eine Begegnung mit Folgen Der demographische Wandel und die damit verbundenen Anforderungen an soziale Dienstleistungen zeigen auf, dass die sozialen und kulturellen Fähig- keiten und Verantwortlichkeiten zukünftig von immer größerer Bedeutung sein werden. Die Beschleunigungen der Informationsverarbeitung und der damit verbundene verantwortliche Umgang erfordern neue Spielregeln und Anpassungsvorgänge im Miteinander. Das ‚In-der-Welt-zurecht-kommen‘ hängt schon gegenwärtig von der Lern-, Reflexions- und Dialogfähigkeit, einer anteilnehmenden und anteilgebenden Haltung und dem Umgehen kön- nen mit neuen, herausfordernden und komplexer werdenden Situationen ab. Insbesondere die neurowissenschaftlichen Erkenntnisse lassen uns aufmerk- sam auf die Fragen nach unserem freien Willen, unserer Autonomie und unserer Entwicklungs- und Wachstumspotentiale schauen. Auch die Handlungsfelder der beruflichen Pflege und der Pflegeausbildungen sind vo"
+      },
+      {
+        "rank": 5,
+        "id": "b83ce5f37fa12a4180ce44ae4da44d94b61a4aed9e3383608e8618e5e3d5cdb7",
+        "score": 0.9955940842628479,
+        "meta": {
+          "file_path": "9783866496811_chapter_04.txt",
+          "source_id": "5129a9b935cdd649a3cf808b875092ee0ebaf145661a3d283974b0f80924672c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1188,
+          "_split_overlap": [
+            {
+              "doc_id": "89e7efde080864f0b945f6e7971a15711ac16cf45c31f35b571ce034fa31fb9d",
+              "range": [
+                1188,
+                1549
+              ]
+            },
+            {
+              "doc_id": "e8cdb1767cdf69cb1aec3a1d1190ed66a8797e35206fd1e8fec9f76b377c41b2",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "Orientierung generell erscheint sowohl in der Beratung, wie auch im Pflegehandeln und in der Pflegeausbildung als brauchbare Synergie für die Erweiterung der fachlichen Kompetenzen in der Pflege selbst und in der Pflege- (aus)bildung. Dieses Fachbuch zielt deutlich auf die Weiterentwicklung der Curricula zum Teilbereich Beratung in der Pflegebildung. Es geht darum, die Schnittstellen der systemischen Beratung in pädagogischen Handlungsfeldern der Pflege- ausbildung deutlicher in Augenschein zu nehmen. Es zeichnet sich eine neue Herausforderung in der Pflegebildung ab: Wie können einerseits Wissen und Haltung als systemische Kernkompetenz einhergehen mit einem Konzept des systemischen Beratungshandelns anderseits. Beratung wurde in den Feldern der Pflege oft dargestellt als ‚Kontaktmachen‘ und ‚gute Gesprächsführung‘. Was aber zeigen beratungs-wissenschaftliche Neuentwicklungen generell an und welche Bedeutungen haben diese akade- misch - reflektierten Basics für die Praxis der Pflegebi"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1042.txt",
+    "question": "Welche Kritik wird an der bisherigen Pflegeversorgung geübt, laut der amtlichen Begründung des § 92c SGB XI?",
+    "answer": "Es wird kritisiert, dass es sich bei der Pflegeversicherung nur um ein Teilkasko-Prinzip handelt, also nur um eine Mindestsicherung und keine komplette Absicherung darstellt. \nI cannot find the answer in the provided context.",
+    "expected": "Die Kritik besteht darin, dass sich die bisherige Pflegeversorgung zu sehr auf körperliche Probleme oder einzelne Krankheitsphasen konzentriert hat, während psychische und soziale Belange sowie eine ganzheitliche, dauerhafte Gesamtversorgungsstruktur vernachlässigt wurden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2360eccd34433d18439d06d1bd3911056a550ff86cd982d5fbb7c82f26d8cdd6",
+        "score": 0.9903414249420166,
+        "meta": {
+          "file_path": "9783866496811_chapter_10.txt",
+          "source_id": "1c6d04cfbc34b687d96464b4848cf37ec824db1c393bbeb4ef55889a13e4eeef",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1173,
+          "_split_overlap": [
+            {
+              "doc_id": "bf6f43e7abaec872102ac0946fd2cd0e0f9192aae881b838152605813bf7538f",
+              "range": [
+                1173,
+                1550
+              ]
+            }
+          ]
+        },
+        "content": "Deutschland die Soziale Pflegever- sicherung (SGB XI) welche Pflegebedürftige gesetzlich absichert und ihnen gewisse finanzielle Leistungen zukommen lässt. Dennoch muss daran erin- nert werden, dass es sich bei der Pflegeversicherung nur um ein Teilkasko- Prinzip, also nur um eine Mindestsicherung handelt, also keine komplette Absicherung darstellt. Um diese Leistungen aber gerecht den bedürftigen Personen zukommen zu lassen, findet im §14, SGB XI der Begriff Pflegebedürftigkeit seine Definiti- on und im §15, SGB XI seine Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Durch diese Definition lässt sich recht exakt bestimmen wie die zukünftige Pflegebedürftigkeit in Deutschland aussehen kann."
+      },
+      {
+        "rank": 2,
+        "id": "72c929f6f71013ce8f91389d49861224085abebc2be10044cfc36bfbbce54c57",
+        "score": 0.8591518402099609,
+        "meta": {
+          "file_path": "9783866496811_chapter_0611.txt",
+          "source_id": "a5f42a1dfd8ddc4c6acd4b0e1a44ffb7b2e43efe09ce5c5ae59358d2f0a90874",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d0ccd254a7a63dbd04a52ead22371146638248873d84874e2e721e0efe5b87a1",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "2.1.1. Pflege-Personalbedarfsregelung (PPR) Dass Beratung als pflegerische Tätigkeit aufgefasst wird, zeigt sich auch an der 1993 in Kraft getretenen Pflege Bedarfsregelung. Dies war ein erarbeite- tes Tätigkeitsprofil für die klinische Pflege, welches zur Grundlage des Bedarfs von Pflegepersonal galt, der so genannten Pflege-Personalregelung (PPR). Im September 1990 wurde von der Bundesregierung eine Experten- gruppe aus Fachleuten (Pflegedienstleitungen, Mitarbeiter der Pflege- forschung, verbandsunabhängige Ärzte, Verwaltungsdirektoren) zusammen berufen und erhielten den Auftrag, die Grundlagen für ein neues Personalbe- darfsermittlungsverfahren zu erarbeiten. Orientiert hat sich die Experten- gruppe an dem Pflegemodell nach Juchli ‚Aktivitäten des Täglichen Lebens‘ und berücksichtigten den Zeitaufwand einer aktivierenden Pflege. Die pflegerischen Tätigkeiten wurden anhand bestehender Studien und Pra- xiserfahrungen in Minutenwerte festgelegt und in die zwei Pflegearten ‚Allgemeine "
+      },
+      {
+        "rank": 3,
+        "id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+        "score": 0.8433176279067993,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1065,
+          "_split_overlap": [
+            {
+              "doc_id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+              "range": [
+                1065,
+                1429
+              ]
+            }
+          ]
+        },
+        "content": "des Krankheitsgeschehens in all ihrer Vielfalt nahmen (vgl. Drerup 1990:9ff; Koch-Straube 2008:11 ff). Die- ser Einfluss bestand und besteht nicht nur in den grund- und behandlungs- pflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen einer Pflegekraft. Auch stellt sich die Frage danach, wie heute die Pflegekräfte zur Beratung stehen und wird sie als Aufgabe der Pflege gesehen?"
+      },
+      {
+        "rank": 4,
+        "id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+        "score": 0.7890806794166565,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3. Systemische Bezüge von Pflege und Beratung ### 3. Systemische Bezüge von Pflege und Beratung Seit der Implementierung des aktuellen Krankenpflegegesetzes ist eine stei- gende Zahl an Veröffentlichungen zum Thema ‚Beratung in der Pflege‘ zu beobachten. Verschiedene Autoren beschreiben Beratung als ein neues pfle- gerisches Handlungsfeld, welches dringend benötigt wird und durch ein sich kontinuierlich veränderndes Aufgabenfeld in der Pflege begründet ist (vgl. Koch-Straube 2002:87; Mertin 2005:2). Ein Blick in ältere Literatur, bzw. in die Pflegegeschichte macht deutlich, dass Krankheit von jeher nicht als ein rein naturgebundenes Phänomen be- trachtet wurde und die Ursachen von Krankheiten und deren Heilung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Le- benswandel und der Lebenssituation der Kranken in Verbindung gebracht wurden. Somit in den Ursachen der Krankheiten immer auch ein Wirkungs- Prinzip zu Grunde lag. Daher ist es auch nur nahe lieg"
+      },
+      {
+        "rank": 5,
+        "id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+        "score": 0.7786555290222168,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1099,
+          "_split_overlap": [
+            {
+              "doc_id": "f15941cfc6f5463755ed8691e53ef744fe943e52e08a31a4940034ba156a9e2d",
+              "range": [
+                1099,
+                1455
+              ]
+            },
+            {
+              "doc_id": "1d634e1994236fb6a81bdd4139e396792ea51d737590b678bda90e3b8737b381",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "fehlende Aspekte des neuen Berufsbildes der Pflege zu berücksichtigen und in der Weiterbildung zu integrieren. Zur Zeit der Entwicklung der Empfehlungen zur Qualifikation des Pflegebe- raters und der Pflegeberaterin, wurde in erster Linie auf die Bewältigung der kurz- und mittelfristigen Ziele der über 2 Millionen Pflegebedürftigen abge- zielt. Nun gilt es den Praxisbezug herzustellen, um auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errich- ten. Das Tätigkeitsprofil der Pflegeberatung (§ 7a SGB XI) ist sehr vielschichtig und besteht aus verschiedensten Aufgaben, z.B. - Informationsvermittlung, - Pflegerische Handlungsanleitung, - Rechtsberatung, - Case Management, - Individuelle Beratung. Hier gilt es keine Wertung vorzunehmen, aber um die Anforderungen eines Pflegeberaters gerecht zu werden und den Leistungsempfängern auch die ihnen rechtlich zustehende individuelle Beratung (SGB XI, § 7a Abs.1 Satz1) zukommen zu lassen, ist es unumgäng"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1042.txt",
+    "question": "Wie soll laut dem Text die zukünftige pflegerische Versorgung strukturiert sein, um den Anforderungen gerecht zu werden?",
+    "answer": "Die zukünftige pflegerische Versorgung soll laut dem Text eine ganzheitliche und auf Dauer ausgerichtete Gesamtversorgungsstruktur haben, die die Potenziale für Eigenverantwortung, Eigeninitiative und gegenseitige Hilfe stärkt. Dies wird auch durch die amtliche Begründung des § 92c SGB XI bestärkt, die betont, dass die pflegerische Versorgung künftig die psychischen und sozialen Belange der Pflegebedürftigen stärker berücksichtigen sollte. Die Pilotprojekte zeigten, dass diese Struktur möglich ist, aber es fehlte bislang an der Berücksichtigung psychischer und sozialer Belange. Daher soll die zukünftige pflegerische Versorgung eine Struktur haben, die alle Aspekte der Pflegebedürftigen berücksichtigt, nicht nur die körperlichen Probleme. Die Struktur soll auch die Potenziale für Eigenverantwortung, Eigeninitiative und gegenseitige Hilfe stärken, um die Pflegebedürftigen besser unterstützen zu können.",
+    "expected": "Die zukünftige pflegerische Versorgung soll eine ganzheitliche und auf Dauer ausgerichtete Gesamtversorgungsstruktur bieten, die psychische und soziale Belange einbezieht und die Potenziale für Eigenverantwortung, Eigeninitiative und gegenseitige Hilfe bei Pflegebedürftigen stärkt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+        "score": 0.9892615079879761,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1182,
+          "_split_overlap": [
+            {
+              "doc_id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+              "range": [
+                1182,
+                1586
+              ]
+            }
+          ]
+        },
+        "content": "Betriebsmodell Pflege- stützpunkt zu kräftigen. Dies wird auch durch die amtliche Begründung des § 92c SGB XI bestärkt: „Die Arbeitsgruppe des Runden Tisches Pflege haben Probleme der Gesundheits- und Sozialsysteme bei der zielgerichteten und angemessenen Unterstützung Pflegebedürftiger beschrieben. Diese Schwierigkeiten resultieren aus der bisher erfolgten Konzentration auf körperliche Probleme oder einzelne Episoden im Krankheitsverlauf bei Vernachlässigung psychischer und sozialer Belange sowie einer ganzheitlichen und auf Dauer ausgerichteten Gesamtversorgungsstruktur. Eine wesentliche Anforderung an die zukünftigen Strukturen in der pflegerischen Versorgung besteht somit darin, die Potenziale für Eigenverantwor- tung, Eigeninitiative und gegenseitige Hilfe zu stärken (…).“ (Schmidbauer 2008:151) Die ganzheitliche und auf Dauer ausgerichtete Gesamtversorgungsstruktur ist wie beschrieben im Pilotprojekt, aber wie sieht es mit den psychischen und sozialen Belangen der Pflegebedürftig"
+      },
+      {
+        "rank": 2,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.9803226590156555,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 3,
+        "id": "f162e6263b4ea2c7e867cb59f53f8f8f608d391bafde8fcdfad65f3b9fcaaa6f",
+        "score": 0.9776231646537781,
+        "meta": {
+          "file_path": "9783866496811_chapter_093.txt",
+          "source_id": "826d654414b5870a514b3ca850e10f6b57e45a6c67c324832e379dae664d3526",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3610,
+          "_split_overlap": [
+            {
+              "doc_id": "a5d4eeee24d99547f88fbd5a4039becb978f7fd8ec336bc142dc9c1b6c1cfff0",
+              "range": [
+                1164,
+                1541
+              ]
+            },
+            {
+              "doc_id": "b92a237a5fff5727cc15c55d1acb47812e529233b70e43d2752321602596a78a",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Lernen in den Pflegeausbildungen verankert werden soll, dann stehen zunächst strukturelle Momente in der Betrachtung. Der Lernende besucht diese verschiedenen Lernorte in den verschiedenen institutionellen Kontexten, in individuellen Abfolgen und Wegkreuzungen und nimmt wahr und beobachtet, erlebt und erfährt, denkt und handelt, denkt nach und vor, verhält sich und handelt, bewältigt situative Anforderungen und scheitert, freut sich und schämt sich, ist hungrig und satt, geht und bleibt für eine Zeit lang, etc. Aus dem oben beschriebenen Beratungsverständnis heraus, lassen sich viel- fältige Anlässe für systemische Beratungsprozesse im Lernprozess einzelner Personen, Gruppen bzw. Teams und auch der Organisation ableiten. In systemischer Beratung werden die angedachten, vorweggenommenen bzw. mitgedachten (heimlichen) Aufträge herausgearbeitet. In der Phase der Auf- tragsklärung werden sie gemeinsam mit dem Beratung-Suchenden professionell thematisiert. Der die Beratung aufsuchende Lerne"
+      },
+      {
+        "rank": 4,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9626177549362183,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 5,
+        "id": "7066c431df3d19cc7e3ddf38c77a2d43a0b83c5b33dc451251897e221bf70a56",
+        "score": 0.9538487195968628,
+        "meta": {
+          "file_path": "9783866496811_chapter_093.txt",
+          "source_id": "826d654414b5870a514b3ca850e10f6b57e45a6c67c324832e379dae664d3526",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9363,
+          "_split_overlap": [
+            {
+              "doc_id": "c6bfd2526414356fcbd6fa3573a766d65e10cdfc664829848104ba7c73920644",
+              "range": [
+                1206,
+                1612
+              ]
+            }
+          ]
+        },
+        "content": "2010:23) Es wird deutlich, dass aufgrund der zunehmenden Komplexität der Pflege- ausbildung eine systemische Beratung für die an der Ausbildung beteiligten Lernenden, Lehrer und Praxisanleiter zukünftig wichtig erscheint. Denn sie ermöglicht eine erweiterte Perspektive, die eine professionelle Distanzierung von den erheblichen beruflichen Belastungen erschafft. Sie hilft nicht in der Problemsichtigkeit unterzugehen, sondern den Blick auch auf die Ressourcen zu lenken. Hier gibt die Übersicht von ZWICKER-PELZER hilfreiche An- regungen. Sie hebt die Anschlussfähigkeit dieses Beratungsverständnisses für die Arbeitsfelder Pflege und Beratung, Pädagogik und Soziale Arbeit hervor. Auch hilft sie durch die Ressourcenorientierung die erhaltenswerten Anteile im System aufzuspüren und zu stärken. Damit können die vorhandenen Res- sourcen ,d.h. die Stärken zur Verminderung der Probleme oder Schwächen genutzt werden."
+      }
+    ]
+  }
+]

@@ -1,0 +1,711 @@
+[
+  {
+    "filename": "9783847412304_chapter_1212.txt",
+    "question": "Was versteht man unter Lernberatung und welche Hauptziele verfolgt sie?",
+    "answer": "Lernberatung ist eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Belehrungs- und Erfahrungspädagogik ebnen helfen sollen und verweist somit auf die zukünftigen Anforderungen an das Initiieren, Beraten, Gestalten von Lernprozessen. Lernberatung verfolgt folgende Hauptziele: • Biografisch werden biografische Aspekte berücksichtigt. • Inhaltlich werden inhaltliche Aspekte berücksichtigt. • Situativ werden situative Aspekte berücksichtigt. Lernberatung zielt darauf ab, Lernende als individualisierte Lernsubjekte zu verstehen und zu unterstützen, um ihnen bei der Bewältigung ihrer Lernproblematiken und der Entwicklung ihrer Kompetenzen zu helfen. Lernberatung ist eine systemische Beratungspraxis, die sich auf die Unterstützung von Lernenden in ihren Lernprozessen konzentriert und die Zusammenarbeit zwischen Lehrenden und Lernenden fördert. Lernberatung zielt darauf ab, die Kompetenzen der Lernenden zu erweitern, ihre Selbstwirksamkeit zu stärken und ihre Motivation zu fördern. Lernberatung kann in verschiedenen Kontexten eingesetzt werden, wie zum Beispiel in der beruflichen Bildung, in der Weiterbildung oder in der Hochschulbildung. Lernberatung kann von verschiedenen Personen durchgeführt werden, wie zum Beispiel von Lehrkräften, Beratern oder Lernbegleitern. Lernberatung kann in verschiedenen Formen durchgeführt werden, wie zum Beispiel in Einzelgesprächen, in Gruppen oder in Online-Formen. Lernberatung kann auch in verschiedenen Phasen des Lernprozesses eingesetzt werden, wie zum Beispiel bei der Planung, Durchführung oder Bewertung des Lernprozesses.",
+    "expected": "Lernberatung begleitet Lernprozesse durch Beratung und macht diese gleichzeitig zum Gegenstand der Beratung. Ihr Hauptziel ist es, Lernen zu ermöglichen und zu fördern, indem sie auf fremde kognitive Strukturen einwirkt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d7d4e9d8298a1b0eff28eb809ffa052d385a4e25b4ec2a1d953f1b2e1b2fe8d2",
+        "score": 0.8499815464019775,
+        "meta": {
+          "file_path": "9783866496811_chapter_0922.txt",
+          "source_id": "55c90cf48bd21ed2692b942ff059ce0d990a79b09bb0f1af63368b8d450d255d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2321,
+          "_split_overlap": [
+            {
+              "doc_id": "ee1a6c1847299a797073bdb5871a7e8fa059c3edb8a85bd13595b80c9e35db30",
+              "range": [
+                1200,
+                1586
+              ]
+            },
+            {
+              "doc_id": "88b0809844f266b4de80bcf464375dd8e879c6ce122193f434c2878c45d3171e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "sind und diese zudem noch mit der Verunsicherung der Lernenden umzugehen haben. Kann hier Lernberatung unterstützen? Wie kann Lernberatung in diesem Kontext neu verstanden werden? KOSSAK hat in seiner Studie ‚Lernen Beraten. Eine dekonstruktive Analyse des Diskurses zur Weiterbildung‘ Lernberatung als eine professionelle Prak- tik i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet (vgl. Kossak 2006). Lernberatung als eine spezifische Ausprägung systemischer Beratung in (berufs-)pädagogischen Kontexten wurde von KEMPER und KLEIN folgen- dermaßen definiert: Lernberatung ist „ (…) eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Be"
+      },
+      {
+        "rank": 2,
+        "id": "a5c4dcf340a7967d7f2ade262f145795964ddd34830238bda3eebf99c2a3d9de",
+        "score": 0.8045013546943665,
+        "meta": {
+          "file_path": "9783847412304_chapter_1013.txt",
+          "source_id": "31b1d7c68df6be93e4cc3c62286b75ac58bbec6429f89dd8b1294301c79bf9e5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f25d1703a195c76bdb78cce26ee22df852a2e3595986a9c1d559d9939aeb3c82",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "3. Übergangsberatung und Lernprozesse Das hier vorliegende Lernverständnis bezieht sich auf die subjektwissen- schaftliche Lerntheorie (Holzkamp 1995). Ausgangspunkt der Lernkonzep- tion sind die Problemstellungen der Subjekte. Wenn alltägliche Handlungs- routinen scheitern, kann dies subjektiv als Diskrepanz empfunden werden zwischen dem, was man kann, und dem, was man will. Wird antizipiert, dass diese erlebte Diskrepanz durch Lernen überwunden werden kann, wird aus der Handlungsproblematik eine Lernproblematik. Lernen stellt dann den dominanten Aspekt einer Handlung dar und ist damit eine spezifische Form von Handeln. Holzkamp bezeichnet dies als intentionales Lernen (vgl. ebd., S. 183). Beratung als „Lern(unterstützungs)praxis“ (Göhlich/König/Schwarzer 2007: 7) bedeutet unter subjektwissenschaftlicher Perspektive, dass die Be- ratungsteilnehmenden sich bewusst für eine Beratung entscheiden, weil sie in Handlungsproblematiken Diskrepanz erfahren haben. Mit der Teilnahme an dem Berat"
+      },
+      {
+        "rank": 3,
+        "id": "cec5ef63037e7053b058030da02f17d4ab9795388f6c4d081145b05ea86a21e0",
+        "score": 0.6896880865097046,
+        "meta": {
+          "file_path": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss_chapter_02.txt",
+          "source_id": "cb2c416baaec5735fea6355e590d9d406ab1616bd76e98c979195e69c31a65da",
+          "page_number": 1,
+          "split_id": 15,
+          "split_idx_start": 16697,
+          "_split_overlap": [
+            {
+              "doc_id": "7b0636fd0fd82432305238c7bb05081013698b6db3454111d69a21952a0d5f29",
+              "range": [
+                1095,
+                1474
+              ]
+            }
+          ]
+        },
+        "content": "Lerntagebuch, welches zudem als Datengrundlage für weitere Forschung von „Was willst DU lernen?!“ dienen könnte. Dadurch, dass die schriftliche Prüfung nicht benotet wird, entfällt auch weitgehend die Problematik der hier skizzierten Selbstbewer- tung und des Aushandlungsprozesses19. So können künftig mehr Zeit und Energie in die Planung, den individuellen (Lern-)Prozess, die Frage nach Lernbegleitung und vor allem in die eigene Beschäftigung mit der Frage „Was willst DU lernen?!“ fließen."
+      },
+      {
+        "rank": 4,
+        "id": "05d126c9a4fe6adc908e61b1f23f32d5f785dd34e38a2b6c196a7ab4aa9bd8cb",
+        "score": 0.6261225938796997,
+        "meta": {
+          "file_path": "9783847412304_chapter_066.txt",
+          "source_id": "b2d0a9f9304374564098b9f8a80b0fb420bf8a9311a3596146f968e84f3165fc",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4de7d33b4ad5215d36527c6153e8abe6d61c48c3e8988cffd84d185f561dfad1",
+              "range": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        "content": "Julia Franz / Stephanie Welser / Annette Scheunpflug Lernberatung im Diskurs der Erwachsenenbildung: Eine systematische Reflexion 1. Einleitung Die pädagogische Handlungsform der Beratung hat eine lange Tradition (vgl. im Überblick Maier-Gutheil 2016) und gewinnt in der Erwachsenen- und Weiterbildung vor dem Hintergrund gesellschaftlicher Individualisierungs- prozesse sowie durch die disziplinären Debatten um die Förderung selbstge- steuerten Lernens und einer „neuen Lernkultur“ zunehmend an Bedeutung. Gerade im Kontext der letztgenannten Diskurse spielen spezifische Formen von „Lernberatung“ eine zentrale Rolle. Dabei zeigt sich zunächst, dass der Begriff Lernberatung äußerst unter- schiedlich verwendet wird. So lassen sich zum einen enge Lernberatungs- verständnisse, bei denen das Beratungsgespräch selbst im Mittelpunkt steht, von weiten Verständnissen, bei denen Lernberatung als ermöglichungsdi- daktische pädagogische Haltung konzipiert wird, unterscheiden (vgl. Kolle- we 2009, S. 1"
+      },
+      {
+        "rank": 5,
+        "id": "457b17924853b07848ee22fa643b66304a3318ef11d3e5c6de3873821407bcfc",
+        "score": 0.5772957801818848,
+        "meta": {
+          "file_path": "9783847412304_chapter_0692.txt",
+          "source_id": "46b1bce310b6d5dbeeffeb148a50e6315ab494ae0adf0aed35639edc9a93bef7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1188,
+          "_split_overlap": [
+            {
+              "doc_id": "2fc311e99b97f5a190aba8193dacd858db67576a6d96ea0eac0e195d1eb00e2a",
+              "range": [
+                1188,
+                1607
+              ]
+            }
+          ]
+        },
+        "content": "sachlichen Struktur werden in dieser Konzeption biogra- fische, inhaltliche und situative Aspekte berücksichtigt. Konzeptuell wird davon ausgegangen, dass jeweils situativ bestimmt wird, welche Aspekte im Beratungsgespräch subjektiv bedeutsam und vor diesem Hintergrund konkret bearbeitet werden. • Sozial wird eine Rollenkonstruktion sichtbar, bei der Lehrende als verste- hende Rekonstruierende von Lernproblematiken auftreten, die Bildungs- prozesse begleiten und unterstützen. Diese Rolle wird im Wechselspiel zu der Rolle als Lehrende situativ eingesetzt. Lernende werden hier also ebenfalls als individualisierte Lernsubjekte verstanden. Zusätzlich liegt aber auch ein Verständnis von Lernenden als Fallgebenden vor. • Zeitlich erscheint die Lernberatung hier mit der Kurssituation verknüpft (vgl. ebd. S. 194). Dabei zeigen sich zwei unterschiedliche Möglichkeiten. Je nach Bedarf kann ein Reflexionsgespräch als Lernberatung in den Kurs integriert werden. In diesem Fall handelt es sich um ei"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1212.txt",
+    "question": "Welche Merkmale kennzeichnen Beratung im Kontext der Lernberatung laut Pätzold?",
+    "answer": "Die Merkmale, die laut Pätzold Beratung im Kontext der Lernberatung kennzeichnen, sind: zeitliche Befristung, Interaktion zwischen Rat gebenden und beratenden Akteurinnen und Akteuren und die Orientierung auf Lösungen in einem Sachbereich. Die Verantwortung für den Umgang mit Lösungen verbleibt aufseiten der Beratenen. Außerdem ist Beratung eine „Reflexionshilfe für reflexive Systeme“. (vgl. Pätzold 2004: 52, 108f)",
+    "expected": "Beratung ist zeitlich befristet, beinhaltet eine Interaktion zwischen Rat gebenden und beratenden Personen und ist lösungsorientiert innerhalb eines Sachbereichs. Die Verantwortung für den Umgang mit Lösungen bleibt jedoch bei den Beratenen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "82f37e380416df2d01c28cac517bb479d5262157568c63d816bedb90b41ed132",
+        "score": 0.9775911569595337,
+        "meta": {
+          "file_path": "9783847412304_chapter_1212.txt",
+          "source_id": "7f72ed28486a375a5f2192b161b78aabdf9031a6250251ea32c6c4b84dabc3de",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8133cfd9daf12abf0702daad3913ef07dfb306aa2d2f61595b666017cb07f4a8",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "Modelle Lernberatung\nLernberatung begleitet Lernprozesse mit den Mitteln der Beratung und macht diese auch zu deren Gegenstand (vgl. Pätzold 2004). Sie ist eine Einflussnahme „auf fremde kognitive Strukturen“ (Schäffter 2000: 51), die darauf abzielt, Lernen zu ermöglichen und zu fördern. Beratung verweist dabei auf Merkmale wie zeitliche Befristung, Interaktion zwischen Rat gebenden und beratenden Akteurinnen und Akteuren und die Orientierung auf Lösungen in einem Sachbereich, wobei die Verantwortung für den Umgang mit Lösungen aufseiten der Beratenen verbleibt (vgl. Pätzold 2004: 52, 108f). Beratung setzt damit voraus, dass das beratene System über Möglichkeiten verfügt, Lösungen und andere Handlungsoptionen zu bewerten, auszuwählen und umzusetzen und sich dabei selbst zu beobachten. Sie ist eine „Reflexionshilfe für reflexive Systeme“ (Buchinger 2010: 143). Diese Merkmale verweisen – ebenso wie der Begriff des organisationalen Lernens – auf die Frage, ob Organisationen als Lernende ("
+      },
+      {
+        "rank": 2,
+        "id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+        "score": 0.8742178678512573,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "cd2618d4785848ce538691cd9bdf9d2e0fab3d8e56fe71e70ad378074e305cd1",
+              "range": [
+                1205,
+                1614
+              ]
+            },
+            {
+              "doc_id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Formate der Beratung, die sich auf die Bewältigung der Anforderungen ergeben, im Le­ benslauf Entscheidungen für weitergehende zukünftige Bildungsprozesse zu treffen. Daher sind Lebenslauf- und Biographieorientierung in diesem Buch zentrale zu beachtende Prinzipien im Beratungsprozess. Das Beratungsverständnis in diesem Feld lässt sich beschreiben, wenn die theoretischen und empirisch evidenten Grundlagen benannt werden. Das Tätigkeitsfeld Bildungsberatung geht von der Annahme aus, dass Men­ schen ein Leben lang entwicklungsfähig und damit auch lernfähig sind, auch wenn immer wieder konstatiert und diskutiert wird, dass dies aufgrund der lebensweltlichen Bedingungen nur begrenzt möglich ist. Dieses humanisti­ sche Menschenbild findet weiterhin in der These Ausdruck, dass Menschen ihre Wirklichkeitskonstruktionen gestalten, auch wenn sie diese nicht allein zu verantworten haben. Ein Überblick von Anne Schlüter im ersten Teil des vorliegenden Buches zu den metatheoretischen Grundlagen pr"
+      },
+      {
+        "rank": 3,
+        "id": "7719627021cb9d3a8b3edc099b40bf91f3abbc49acf37e5d46b28d46a9fdf781",
+        "score": 0.8297384977340698,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2400,
+          "_split_overlap": [
+            {
+              "doc_id": "1d35cc1cf0c40bbecb9c81c629e06de7b5928ee2844a18714284a4e986ab0499",
+              "range": [
+                1223,
+                1641
+              ]
+            },
+            {
+              "doc_id": "3c8bb80d957354ab1951506a4f92ef935ae3d687c97fa06ceb0d90a068c93505",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "für den Beratungskontext angepasst. Kriterien professioneller Fallarbeit im Beratungskontext Subjektive Betroffenheit des pflegenden Angehörigen Das subjektive Erleben des Beratungsklienten ist der zentrale Gegenstand und Ausgangspunkt von Beratung. Im Projekt EDe war die subjektiv erlebte Belastung pflegender Angehöriger ein Schwerpunkt, der mit dem Assess- mentinstrument differenziert erfasst wurde. Es ging also nicht nur darum, die subjektive Betroffenheit in das beraterische Handeln einzubeziehen, sondern sie war auch Zielpunkt der beraterischen Intervention. Die subjektiv erlebte Betroffenheit der pflegenden Angehörigen führt häufig dazu, dass sie nicht selbst in der Lage sind, sich objektiv mit den pflegebezo- genen Problemen auseinanderzusetzen und sie zu lösen. Aus diesem Grund bedarf es der professionellen Beratung, die diese subjektive Betroffenheit einzubeziehen vermag. In Beratungssituationen besteht grundsätzlich auch die Möglichkeit der sub- jektiven Betroffenheit der Ber"
+      },
+      {
+        "rank": 4,
+        "id": "1ed90643816cfcf741b1c3523c3f7a5b13b0c157e6b4e38c4992e593cc3eed83",
+        "score": 0.7143173217773438,
+        "meta": {
+          "file_path": "9783866496811_chapter_0932.txt",
+          "source_id": "ec4ee1aa4cdf7efd3adbefd1abbc93b4dad40d96fa9bdedb1a3c9fbe7baf0840",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1056,
+          "_split_overlap": [
+            {
+              "doc_id": "0ed48b03d55ec83bc19a31cb6b37e7d08a2b61577b8d696e2448187072c22b97",
+              "range": [
+                1056,
+                1379
+              ]
+            },
+            {
+              "doc_id": "b69534f0e7fe6acd8968da393e38285977e93519343dba2d67c76676062c4431",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "scheint es so gar nicht zu geben, es geht nur um ein anderes oder besonderes Lernen. Das Paradigma vom ‚selbstorganisierten Lernen‘ kann somit in die Irre füh- ren, auch wenn es seit Mitte der 1990iger Jahre durch die konstruktivistisch- systemische Forschung unterstützt wird. (vgl. Kossack 2006) Damit muss auch kritisch auf die mit dem seit den 1980iger Jahren entwickelten Lernbe- ratungsansätzen Postulaten geschaut werden. Hierzu zählen - Selbststeuerung - Freiwilligkeit der Teilnahme an der Lernberatung - Transparenz der Beratungsbeziehung - Offene Kommunikation in Lernberatung - Schematisierung des Lernberatungsgesprächs - Status des pädagogischen Objekts der Lernberatung (vgl. Kossack 2006:195) Der Lernende in der Pflegeausbildung wird unterschiedliche betriebliche Lernorte kennen lernen. Er begegnet dort einmaligen und einzigartigen Pfle- gesituationen. Wie viel Freiwilligkeit kann erwartet werden, wenn er im Rahmen der Praxisbegleitung an einem Beratungsgespräch teilnimmt? Es ha"
+      },
+      {
+        "rank": 5,
+        "id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+        "score": 0.5937849879264832,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2407,
+          "_split_overlap": [
+            {
+              "doc_id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+              "range": [
+                1221,
+                1601
+              ]
+            },
+            {
+              "doc_id": "08751007181f9471b2a02169f8ff2b9cb6901633563aaf1d75afef86e9cecd38",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Postulat der Selbststeuerung - Die Freiwilligkeit der Teilnahme an Lernberatung - Die Transparenz der Beratungsbeziehung - Die offene Kommunikation in der Lernberatung - Die Schematisierung des Lernberatungsgesprächs - Der Status des pädagogischen Objekts in der Lernberatung“ (Kossak 2006:23ff) KOSSAK zeigt auf, dass in der Lernberatung als kommunikativer Situation das Subjekt präsent sein soll bzw. Präsenz erfahren soll. Dies zu erwirken wäre ein Grund für die Schematisierung bzw. Implementierung von Lernbe- ratung. Wenn diese in einem sozialen System wie dem Pflegeausbildungssystem gewollt ist, dann kann durch ihre Integration dem Lernenden diese Präsenz ermöglicht werden und damit Lernen als gewollter und integraler Bestandteil von Organisation erkannt werden. Damit wird (Lern-)Beratung nicht mehr nur als Reaktion auf den erlebten Mangel, die von außen erfahrenen Veränderungen nicht mehr alleine bewältigen zu kön- nen, sondern als sinnstiftende Ressource in sozialen Systemen wahrgen"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1212.txt",
+    "question": "Wie wird das Konzept der Organisation als lernfähiges System in der Lernberatung thematisiert und welche ethische Problematik kann sich daraus ergeben?",
+    "answer": "In der Lernberatung wird das Konzept der Organisation als lernfähiges System nicht explizit thematisiert. Stattdessen wird Organisationen als Adressatinnen von Beratung konzipiert, was die ethische Problematik aufwerfen kann, dass Entscheidungen, die auf Beratung beruhen, möglicherweise zu Unrecht der Organisation zugeschrieben werden. Dieses Problem wird jedoch entschärft, wenn man Organisationsberatung als Lernberatung von Organisationen fasst, da dies deutlich macht, dass Beratung Teil eines Lernprozesses ist und nicht unmittelbar zu Entscheidungen führt. \nI cannot find the answer in the provided context.",
+    "expected": "Organisationen können analytisch als reflexive, lernfähige Systeme betrachtet werden, die Beratung empfangen und daraus lernen. Eine ethische Problematik besteht darin, dass Entscheidungen, die in Organisationen getroffen werden, oft einzelnen Personen zugeschrieben werden sollten, nicht der Organisation insgesamt. Dies wird jedoch entschärft, wenn Organisationsberatung als Teil eines Lernprozesses verstanden wird, der nicht unmittelbar zu Entscheidungen führt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8133cfd9daf12abf0702daad3913ef07dfb306aa2d2f61595b666017cb07f4a8",
+        "score": 0.9957279562950134,
+        "meta": {
+          "file_path": "9783847412304_chapter_1212.txt",
+          "source_id": "7f72ed28486a375a5f2192b161b78aabdf9031a6250251ea32c6c4b84dabc3de",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1130,
+          "_split_overlap": [
+            {
+              "doc_id": "82f37e380416df2d01c28cac517bb479d5262157568c63d816bedb90b41ed132",
+              "range": [
+                1130,
+                1521
+              ]
+            },
+            {
+              "doc_id": "dc09b182ff71dd43cc4cb88af71ce906b703d585034628ed73837143fcf4bb18",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Thema. Dass es zumindest analytisch weiterführend sein kann, Organisationen als reflexive, lernfähige Systeme zu konzipieren, sollen die folgenden Darlegungen deutlich machen. Eine ethische Problematik kann sich daraus ergeben, dass das Verständnis von Organisationen als Adressatinnen von Beratung verschleiern kann, dass in den Organisationen einzelne Personen Rat geben und empfangen und darauf Entscheidungen gründen, die dann möglicherweise zu Unrecht der Organisation attribuiert werden. Dieses Problem wird allerdings zumindest entschärft, wenn man Organisationsberatung als Lernberatung von Organisationen fasst, weil damit deutlich wird, dass die Beratung nicht unmittelbar zu Entscheidungen führt, sondern idealerweise Teil eines Lernprozesses ist. Von einem solchen wird kaum die Rede sein können, wenn Beratung und Entscheidung im Wesentlichen „im stillen Kämmerlein“ unter wenigen ausgewählten Personen erfolgen – und dann wäre es auch im klassischen Verständnis nicht angemessen, von Or"
+      },
+      {
+        "rank": 2,
+        "id": "b20462d73d9cda5fff6d3f2b3a736091b9cf877a0c523f24b5253af5fcababec",
+        "score": 0.9956183433532715,
+        "meta": {
+          "file_path": "9783847412304_chapter_069.txt",
+          "source_id": "50634dfb3a578b548ee10a5f59757f3b7df3b36e420007c95fb69f6cdba6e2c5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a5a6be9ac0f394c578e8819391331b12eabe3e9db6fbc482c08fe14e7dbe7ed8",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "4. Ergebnisse: Sinnkonstruktionen in ­Lernberatungs­konzeptionen In der Darstellung der tentativen Analyseergebnisse wird zunächst das jewei- lige Lernberatungskonzept kurz skizziert, bevor die Ergebnisse der Analyse anhand der operationalisierten Sinndimensionen dargestellt werden. 4.1 Lernerberatung Das Konzept der „Lernerberatung“ wurde im Rahmen des vom Bundesmi- nisterium für Bildung und Forschung (BMBF) geförderten Modellprojekts „Lernerfolg und Lernerfolgskontrolle“ (LeKo; 2003–2007) entwickelt. Ler- nerberatung zielt hier als Angebot in Seminaren auf die „Sicherung und Op- timierung von Lernprozessen“ ab (Hohenstein 2007, S. 147). Dabei stützt sich dieses Konzept auf die Analyse und Diagnose von „Lernereigenschaf- ten“ und damit verbundenen Lernschwierigkeiten, für die ein Fragebogen zur Erfassung von biografischen „Lernertypen und Lernereigenschaften“ als Diagnoseinstrument eingesetzt wird (FELTE, vgl. Hohenstein 2007). Die Auswertung dieses Instruments wird dann als Ausgangsp"
+      },
+      {
+        "rank": 3,
+        "id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+        "score": 0.995154619216919,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2407,
+          "_split_overlap": [
+            {
+              "doc_id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+              "range": [
+                1221,
+                1601
+              ]
+            },
+            {
+              "doc_id": "08751007181f9471b2a02169f8ff2b9cb6901633563aaf1d75afef86e9cecd38",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Postulat der Selbststeuerung - Die Freiwilligkeit der Teilnahme an Lernberatung - Die Transparenz der Beratungsbeziehung - Die offene Kommunikation in der Lernberatung - Die Schematisierung des Lernberatungsgesprächs - Der Status des pädagogischen Objekts in der Lernberatung“ (Kossak 2006:23ff) KOSSAK zeigt auf, dass in der Lernberatung als kommunikativer Situation das Subjekt präsent sein soll bzw. Präsenz erfahren soll. Dies zu erwirken wäre ein Grund für die Schematisierung bzw. Implementierung von Lernbe- ratung. Wenn diese in einem sozialen System wie dem Pflegeausbildungssystem gewollt ist, dann kann durch ihre Integration dem Lernenden diese Präsenz ermöglicht werden und damit Lernen als gewollter und integraler Bestandteil von Organisation erkannt werden. Damit wird (Lern-)Beratung nicht mehr nur als Reaktion auf den erlebten Mangel, die von außen erfahrenen Veränderungen nicht mehr alleine bewältigen zu kön- nen, sondern als sinnstiftende Ressource in sozialen Systemen wahrgen"
+      },
+      {
+        "rank": 4,
+        "id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+        "score": 0.9929528832435608,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1186,
+          "_split_overlap": [
+            {
+              "doc_id": "81686c8ce1d781b11b774203bef68f8ad7f88b7987770c0aca2816825bf8bff7",
+              "range": [
+                1186,
+                1587
+              ]
+            },
+            {
+              "doc_id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Im Zusammenhang mit den Lernprozessen von Lernenden wurde die Lernbe- ratung bereits seit den 1970iger Jahren als notwendige Unterstützung angesehen. Lernberatung wird als sinnvolle und hilfreiche Intervention ver- standen, um die unzureichenden Qualifikationen und Kompetenzen der Schulbildung und der beruflichen Erstausbildung zu minimieren. Dies ent- spricht den Erfordernissen eines lebenslangen selbstgesteuerten Lernens, das primär bildungs- und gesellschaftspolitisch motiviert beschrieben und gefor- dert wird. Dieser spezifische Kontext der Lernberatung veränderte sich in den 1990iger Jahren durch die Einflüsse der konstruktivistisch-systemischen Perspektiven. (vgl. Kossak 2006:19ff) In den Beschreibungen zu den Entwicklungen zum Beratungsverständnis wurde deutlich, dass in den Beratungsbegriff sowohl die Traditionen der psychologischen Beratungskonzepte als auch die pädago- gischen Konzepte Einfluss genommen haben. KOSSAK konnte zeigen, dass für Konzepte der Lernberatung hauptsäch"
+      },
+      {
+        "rank": 5,
+        "id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+        "score": 0.9903357028961182,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2416,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                1187,
+                1616
+              ]
+            },
+            {
+              "doc_id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "organisationswissenschaftlicher Standardliteratur entliehen wird (vgl. hierzu Pätzold 2015: 29f.). Beratung wird also als pädagogische Aufgabenstellung auf Organisatio- nen bezogen und vielfältig ausgearbeitet. Lernen ist dabei ein wichtiger, aber keineswegs dominanter Bezugspunkt. Viel häufiger findet sich ein Verständ- nis von Organisationsberatung, bei dem diese auf Organisationsentwicklung abzielt (vgl. z. B. Schiersmann und Thiel 2014: 68). Organisationales Lernen wird dabei zwar mitgedacht, ist aber nicht in gleicher Weise profiliert, stellt es doch – im Gegensatz zu Beratung – keine Handlungsform dar, für deren Aus- übung ein professioneller Anspruch erhoben werden kann. Die im Folgenden zu entfaltende These setzt an diesem Punkt an, indem Organisationsbera- tung als Lernberatung von Organisationen konzipiert werden soll. Auf diese Weise soll das pädagogische Proprium eines disziplinären und professionel- len Beitrags zum Handlungsfeld Organisationsentwicklung herausgearbeitet w"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1212.txt",
+    "question": "Wie erklärt die systemische Beratung die Interaktion mit einer Organisation als Beratungsobjekt, und welche spezielle Technik wird dabei hervorgehoben?",
+    "answer": "Die systemische Beratung erklärt die Interaktion mit einer Organisation als Beratungsobjekt als einen Prozess, bei dem die Berater_innen mit verschiedenen Systemen und Ebenen interagieren, wie dem organisationalen und gesellschaftlichen Kontext. Dabei wird die Bedeutung von Kompetenzen im Umgang mit der Institution und der Gesellschaft betont. Die systemische Beratung betont die Notwendigkeit, den Kontext, den Rahmen von Beratung und die Lebenswelt von Klienten in Forschungsprozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. Die systemische Beratung verwendet keine spezielle Technik, sondern betont die Bedeutung von systemischem Denken und Handeln, wie etwa die Fähigkeit, vernetzt zu denken, Wechselbeziehungen und Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen. Die systemische Beratung ist kein fertiges Konzept, sondern ein Handlungsfeld, das durch die systemisch handelnde Person und den relevanten Kontexten konstituiert wird. Die systemische Beratung ist darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Die systemische Beratung betont die Bedeutung von Offenheit, Flexibilität und der Bereitschaft, sich selbst und das eigene Geworden-Sein zu verstehen. Die systemische Beratung ist ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient-Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gültigkeit zu reklamieren gedenkt. Die systemische Beratung ist darauf angelegt, die Komplexität des Beratungsgeschehens zu erfassen und die Kompetenzen der Reflexion auf unterschiedlichen Ebenen des Prozessgeschehens von Beratung zu betonen. Die systemische Beratung ist ein Handlungsfeld, das sich ständig weiterentwickelt und sich an die sich ändernden Kontexte anpasst. Die",
+    "expected": "Die systemische Beratung betrachtet Organisationen als Systeme, die Informationen eigenständig verarbeiten können. Die Interaktion soll nicht nur ein Informationsaustausch sein, sondern die Information soll in das System eingehen und darauf reagieren. Eine spezielle Technik, die dabei hervorgehoben wird, ist das \"zirkuläre Fragen\", das ursprünglich aus der Familientherapie stammt und nun auch in organisationalen Kontexten genutzt wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.9950283169746399,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 2,
+        "id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+        "score": 0.9935992956161499,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3432,
+          "_split_overlap": [
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                1247,
+                1632
+              ]
+            }
+          ]
+        },
+        "content": "(durch Unterstützung der Filetierung) nicht noch Vorschub leistet. Beratung hat u.a. auch eine gesellschaftliche Funktion (vgl. Seel, 2009:4) Die Metaperspektive von Beratung – als mikro- und makrosystemische – ist von nachhaltiger Bedeutung für die Professionalität von Beratung. Insofern ist Beratung ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient- Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gül- tigkeit zu reklamieren gedenkt. Als weitere systemische Kompetenzen von Beratung können Fähigkeiten des Beraters ausgemacht werden - vernetzt zu denken, und Wechselbeziehungen, Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen - die adäquate Vernetzung mit anderen Hilfesystemen - komplexe Auftragssituationen sind zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen: - Anlass, An"
+      },
+      {
+        "rank": 3,
+        "id": "d17efb85e3c93bd2fe5f2ec27773d4c7d72922c046e9d82ddc456f8d78cb8061",
+        "score": 0.9915346503257751,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8281,
+          "_split_overlap": [
+            {
+              "doc_id": "e57c4428c4a63fc1606304f08e1d330bec5fb30d01de2af80fc04c042d224e11",
+              "range": [
+                1104,
+                1504
+              ]
+            },
+            {
+              "doc_id": "24e1b2ad6da41f92c1364af214c9e72b2afac5f58a6bfa7d5a117c0b623cefd9",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "systematische Beobachtung. Es wird nicht aktiv an den Beratungsgesprä­ chen teilgenommen und es wird auch keine Integration in die untersuchte Gruppe angestrebt. Die Beobachtung ist insofern systematisch, als zuvor relevante Fragestellungen festgelegt und die Beobachtungen in einem Pro­ tokoll festgehalten werden. Das Beobachtungsprotokoll beschreibt, wie die Beratungsstelle erreicht werden kann, inwiefern sie an weitere Angebote räumlich angebunden und mit ihnen vernetzt ist. Weiterhin hält das Proto­ koll die Organisation in der Beratungsstelle (Anmeldung, Warteraum etc.) fest, nach Möglichkeit das Beratungssetting (räumliche Aufteilung und Ausstattung) sowie weitere Auffälligkeiten und Besonderheiten der Bera­ tungsstelle. In begrenztem Umfang sind damit auch Rückschlüsse darauf möglich, wie niedrigschwellig die Angebote gestaltet sind bzw. ob Zugangs­ barrieren bestehen. Da die Wahrnehmung und Beurteilung räumlicher Strukturen stark von subjektiven Vorerfahrungen geprägt sind, wurd"
+      },
+      {
+        "rank": 4,
+        "id": "4ab72bc83483b72c08b0ffbdbf4a992ae4fd91432d7a08e947c3851833469511",
+        "score": 0.9914129972457886,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 19362,
+          "_split_overlap": [
+            {
+              "doc_id": "e731ddd76a65c83d4490e2570d791dbca474c4e098b95b83db26ceb30c9e4ede",
+              "range": [
+                1044,
+                1432
+              ]
+            },
+            {
+              "doc_id": "143b4e8e96f4178783b3e8ce0eadc791961b6cf92e6f5c66aa0f401fa7ab0691",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsprozess noch auftrags- gemäß handeln. Dies gilt gleichermaßen für systemische Berater im Zusammenhang mit der Praxisbegleitung als eigenständigem Handlungsfeld in den Pflegeausbildungen. Je nach dem Anliegen der Beratung-suchenden Person wird der ein oder andere Aspekt stärker im Kontrakt fokussiert. Aller- dings kann es durch die Beteiligung von Praxisanleiter, Lehrendem und Lernenden durchaus auch sein, dass jeder seinen eigenen Aspekt in den Vor- dergrund stellen möchte. Systemische Beratung ist weder als fertige, unmittelbar wissenschaftsgeleite- te Anwendung systemtheoretischer Konzepte, noch als Anwendung von Techniken oder Methodenbausteinen zu verstehen. Systemische Beratung als professionelles Handlungsfeld wird wesentlich durch die systemisch handelnde Person und den relevanten Kontexten konsti- tuiert, die Konstruktion des relevanten Kontextes hier der ‚Pflegeausbildung‘ ist auf eine mögliche Integration hin zu prüfen. Dabei gibt es sowohl struk- turelle, personelle"
+      },
+      {
+        "rank": 5,
+        "id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+        "score": 0.9911924004554749,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1155,
+          "_split_overlap": [
+            {
+              "doc_id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+              "range": [
+                1155,
+                1534
+              ]
+            },
+            {
+              "doc_id": "68d9f8b21ee11ad0662f6dd327ee9d5c17dc6d3dba333963654f1a294107d67d",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "so scheint die neue Herausforderung darin zu liegen, den Kontext, den Rahmen von Beratung und die Lebenswelt von Klienten in Forschungs- prozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. Abb.5: Systemisches Kontextmodell der Beratung Die verschiedenen Ebenen der Betrachtung von Beratung in Theoriebildung und Forschung kommt folgendes Bild nahe. Beratung ist darin als ein Akt des Pendelns von Mikro-, Meso- und Makro-Ebene zu sehen und verlangt hohe fachliche Kompetenzen der Reflexion auf unterschiedlichen Ebenen des Prozessgeschehens von Beratung. Die reinen klientenbezogenen Theorien und Konzepte von Beratung verken- nen die Komplexität des Beratungsgeschehens. Das Umfeld, die lebensbegleitenden nächsten Menschen (Familie, Freunde, etc.) erscheinen Gesellschaftlicher Kontext Organisationaler Kontext Beratungs System Ratsuchenden-System Berater-System Lösung Klärung Beziehung z.B. Person (beruflich, Biographie, Einstellung, Erfahrungen) private"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1212.txt",
+    "question": "Warum ist es problematisch, wenn Beratung und Entscheidung in Organisationen nur im \"stillen Kämmerlein\" unter wenigen Personen stattfinden, und wie beeinflusst dies die Definition von Organisationsberatung?",
+    "answer": "Es ist problematisch, wenn Beratung und Entscheidung in Organisationen nur im \"stillen Kämmerlein\" unter wenigen Personen stattfinden, weil dies das Verständnis von Organisationen als Adressatinnen von Beratung verschleiern kann und möglicherweise zu Unrecht der Organisation Entscheidungen zugeschrieben werden. Dieses Problem wird entschärft, wenn man Organisationsberatung als Lernberatung von Organisationen fasst, da dies deutlich macht, dass die Beratung nicht unmittelbar zu Entscheidungen führt, sondern Teil eines Lernprozesses ist. Wenn Beratung und Entscheidung nur im \"stillen Kämmerlein\" stattfinden, ist es auch nicht angemessen, von Organisationsberatung zu sprechen. In diesem Fall ist es nicht klar, wie eine Interaktion stattfinden soll, wenn die eine Interaktionspartnerin eine Organisation ist. Die systemische Beratung bietet hierfür eine Lösung, indem sie fragt, wie ein Beratungssetting entwickelt werden kann, dass nicht Information zwischen Beratenden und Klienten/ Organisationen übertragen wird. Dies ermöglicht eine pädagogische Aufgabenstellung auf Organisationen bezogen und bietet vielfältige Ausarbeitungen. Lernen ist dabei ein wichtiger, aber nicht dominanter Bezugspunkt. \n        Die Antwort ist nicht explizit im Text, aber es kann aus dem Text abgeleitet werden.  I cannot find the answer in the provided context.",
+    "expected": "Wenn Beratung und Entscheidung nur unter wenigen ausgewählten Personen und ohne breitere Beteiligung stattfinden, kann kaum von einem Lernprozess gesprochen werden. In einem solchen Fall ist es auch nicht angemessen, von Organisationsberatung zu sprechen, da Beratung idealerweise Teil eines transparenten und lernförderlichen Prozesses sein sollte, der die Organisation als Ganzes einbezieht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8133cfd9daf12abf0702daad3913ef07dfb306aa2d2f61595b666017cb07f4a8",
+        "score": 0.9893303513526917,
+        "meta": {
+          "file_path": "9783847412304_chapter_1212.txt",
+          "source_id": "7f72ed28486a375a5f2192b161b78aabdf9031a6250251ea32c6c4b84dabc3de",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1130,
+          "_split_overlap": [
+            {
+              "doc_id": "82f37e380416df2d01c28cac517bb479d5262157568c63d816bedb90b41ed132",
+              "range": [
+                1130,
+                1521
+              ]
+            },
+            {
+              "doc_id": "dc09b182ff71dd43cc4cb88af71ce906b703d585034628ed73837143fcf4bb18",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Thema. Dass es zumindest analytisch weiterführend sein kann, Organisationen als reflexive, lernfähige Systeme zu konzipieren, sollen die folgenden Darlegungen deutlich machen. Eine ethische Problematik kann sich daraus ergeben, dass das Verständnis von Organisationen als Adressatinnen von Beratung verschleiern kann, dass in den Organisationen einzelne Personen Rat geben und empfangen und darauf Entscheidungen gründen, die dann möglicherweise zu Unrecht der Organisation attribuiert werden. Dieses Problem wird allerdings zumindest entschärft, wenn man Organisationsberatung als Lernberatung von Organisationen fasst, weil damit deutlich wird, dass die Beratung nicht unmittelbar zu Entscheidungen führt, sondern idealerweise Teil eines Lernprozesses ist. Von einem solchen wird kaum die Rede sein können, wenn Beratung und Entscheidung im Wesentlichen „im stillen Kämmerlein“ unter wenigen ausgewählten Personen erfolgen – und dann wäre es auch im klassischen Verständnis nicht angemessen, von Or"
+      },
+      {
+        "rank": 2,
+        "id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+        "score": 0.9343088865280151,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2416,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                1187,
+                1616
+              ]
+            },
+            {
+              "doc_id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "organisationswissenschaftlicher Standardliteratur entliehen wird (vgl. hierzu Pätzold 2015: 29f.). Beratung wird also als pädagogische Aufgabenstellung auf Organisatio- nen bezogen und vielfältig ausgearbeitet. Lernen ist dabei ein wichtiger, aber keineswegs dominanter Bezugspunkt. Viel häufiger findet sich ein Verständ- nis von Organisationsberatung, bei dem diese auf Organisationsentwicklung abzielt (vgl. z. B. Schiersmann und Thiel 2014: 68). Organisationales Lernen wird dabei zwar mitgedacht, ist aber nicht in gleicher Weise profiliert, stellt es doch – im Gegensatz zu Beratung – keine Handlungsform dar, für deren Aus- übung ein professioneller Anspruch erhoben werden kann. Die im Folgenden zu entfaltende These setzt an diesem Punkt an, indem Organisationsbera- tung als Lernberatung von Organisationen konzipiert werden soll. Auf diese Weise soll das pädagogische Proprium eines disziplinären und professionel- len Beitrags zum Handlungsfeld Organisationsentwicklung herausgearbeitet w"
+      },
+      {
+        "rank": 3,
+        "id": "4fac8b27abff34ec9b393300e17fef254b51a2a8a11f769e8f0f6c72fdf18f90",
+        "score": 0.914323091506958,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "VII.\tBeratung in organisationalen Kontexten: ­Lernen – Steuerung – Methoden Henning Pätzold Beratung im Kontext organisationalen Lernens Ausgangslage und Relevanz Organisationsberatung ist in den vergangenen Jahren verstärkt und aus verschiedensten Perspektiven als Gegenstand pädagogischer Forschung und Praxis wahrgenommen worden. Als pädagogisches Handlungsfeld wird sie beispielsweise in dem Handbuch von Gieseke und Nittel (2016) thematisiert, ebenso in verschiedenen Tagungsbänden der Kommission Organisationspädagogik der DGfE (insbesondere Göhlich, Weber, Seitter und Feld 2010) und zunehmend auch in Studiengangsbeschreibungen (z. B. in pädagogischen Studiengängen der Universitäten Heidelberg, Hildesheim, Koblenz-Landau und anderen). Die Rolle von Lernberatung in Organisationen wird u. a. in dem genannten Band von Göhlich thematisiert, daneben auch in früheren Untersuchungen zu Lernberatung in beruflichen Kontexten (vgl. z. B. Klein und Reutter 2005), auch wenn hier der Bezug zur Gesa"
+      },
+      {
+        "rank": 4,
+        "id": "767728412f7d469c67db261c7b4c014091e1be71ce738884547ac98252660c71",
+        "score": 0.9041036367416382,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9197,
+          "_split_overlap": [
+            {
+              "doc_id": "8238e17d9ee560da1393d0499dac17c91f1aaeffb88b569a513f1107ad4b0bdf",
+              "range": [
+                1161,
+                1533
+              ]
+            },
+            {
+              "doc_id": "c724fe872348d1082676b6efc8f00d2024814ba589f8d8b66813f2b691e064d4",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "wenn zumindest mehr Befunde über die Verläufe, Folgen und Nebenfolgen von Organisationsberatung vorlägen, wie es in anderen Bereichen pädagogischer Beratung der Fall ist (vgl. Gieseke und Stimm 2016; Kossack 2006). Bei allen vorliegenden Einschränkungen zeigen die bisherigen Überle- gungen und Erfahrungen aber auch ermutigende Hinweise, das Konzept der Lernberatung von Organisationen weiter zu verfolgen. So ermöglicht es eine Überwindung des „Rationalitätsbias“, der der Organisationsberatung struk- turell immer noch oft zu eigen ist. Zwar werden Organisationen längst nicht mehr als Kollektive rational handelnder Akteure verstanden, gleichzeitig folgt aber das Konzept der Organisationsberatung selbst einem sehr ratio- nalen Modell der Arbeitsteilung (vgl. Pätzold 2016: 621f.). Herausforderun- gen des organisationalen Lernens werden dadurch häufig einseitig bearbeitet (etwa durch die Empfehlung eines organisationalen Wissensmanagements), während Herausforderungen der Organisationskultur "
+      },
+      {
+        "rank": 5,
+        "id": "7368fe23c208858d90bdb9e9ca30e7051f41e19e111540aaa663371b21b15886",
+        "score": 0.8780739903450012,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 20451,
+          "_split_overlap": [
+            {
+              "doc_id": "39671329dd7da5e160d73a4843391f1023738414608eff5fc8832fa4446a1b7d",
+              "range": [
+                1190,
+                1602
+              ]
+            },
+            {
+              "doc_id": "9976e4190b0ec980017538e8cd7b7445221a7f82e975b9f9cf86def717e42cdf",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "zu agieren, und jene Berate- rin, die die fehlende organisationale Unterstützung in Form von kollegialen Beratungen oder Supervi- sionen erwähnte, will sich eigeninitiativ um einen kollegialen Austausch bemühen. Diese Befunde bestätigen, dass organisationale Rahmenbedingungen der Beratungsanbieter die Beratungsprozesse beeinflussen und diese Einfluss- nahmen von den Professionellen auch wahrgenom- men werden (siehe Stanik 2015). Die vorliegende Untersuchung der Fallreflexionen zeigt, dass unter den BildunsgberaterInnen ein Be- ratungsverständnis vorherrscht, welches Beratung als zielorientiertes Gespräch konzeptualisiert, das mit Hilfe situationsangemessen auszuwählender Beratungsansätze zu bewältigen ist. Auffällig ist, dass die BeraterInnen ihre Beratungen in den Refle- xionen insgesamt als erfolgreich einschätzen. Ein- zelne, weniger gelungene Aspekte der Beratungen werden aber auch zum Anlass genommen, dazu zu lernen, um das eigene professionelle Handeln weiterzuentwickeln. Organis"
+      }
+    ]
+  }
+]

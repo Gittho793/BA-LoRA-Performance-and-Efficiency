@@ -7,6 +7,8 @@ old/
 src/eval/output/**/*.txt
 *.log
 .env
-*.db
+*.db**
 src/eval/cache/
 src/eval/results/
+**samples**
+src/eval/depreciated/** */

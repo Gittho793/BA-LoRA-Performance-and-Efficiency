@@ -1,0 +1,683 @@
+[
+  {
+    "filename": "9783839444856_chapter_0521.txt",
+    "question": "Welche zentrale Forderung stellt Scherr an jede pädagogische Theorie bezüglich der theoretischen Begründung pädagogischer Praxis?",
+    "answer": "Die zentrale Forderung, die Scherr an jede pädagogische Theorie stellt, ist, dass sie eine theoretische Begründung pädagogischer Praxis benötigt. Er bezieht sich dabei auf die unterschiedlichen Erwartungen, die von verschiedenen Akteur_innen und Organisationen an pädagogische Handlungsformen wie Beratung gestellt werden. Er sieht den Anerkennungsbegriff als \"eine zentrale Dimension pädagogischer Theorie und Praxis\".",
+    "expected": "Scherr fordert, dass jede pädagogische Theorie eine eigenständige theoretische Begründung pädagogischer Praxis auf der Grundlage einer Klärung des konstitutiven Zusammenhangs von Sozialität und Subjektivität vorlegen muss.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+        "score": 0.9739780426025391,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1261,
+          "_split_overlap": [
+            {
+              "doc_id": "5c5b76efb29b0161949e6a81861c6e487f037a5aa6cc766db16527a128dc758a",
+              "range": [
+                1261,
+                1674
+              ]
+            },
+            {
+              "doc_id": "7f4128e13334cabdb7445aab3617ecee62ff350d6a11f44b3bebe014fdfcce55",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "Geltung gebracht und andererseits als ein moralisch-ethisches Prinzip pädagogischen Handelns und pädagogischer Praxen veranschlagt«. Anerkennungstheoretische Ansätze werden in der Pädagogik in den letz­ ten Jahren zunehmend zur theoretischen Neubegründung professionellen Handelns genutzt. Der Bedarf an einer Neubegründung ergibt sich nach Schäffter (vgl. 2009, S. 171f.) vor allem aufgrund der erfolgten Abkehr von einer geisteswissenschaftlichen Ausrichtung der Pädagogik und der damit verbundenen Forderung nach einem stärkeren Realitätsbezug. Damit wird rückblickend ein Verlust an spezifisch pädagogischer Professionalität wahr­ genommen. Scherr (2013, S. 8) sieht den Anerkennungsbegriff vor dem Hin­ tergrund der unterschiedlichen Erwartungen, welche von den verschiedenen Akteur_innen und Organisationen an pädagogische Handlungsformen wie Beratung gestellt werden, daher als »eine zentrale Dimension pädagogischer Theorie und Praxis«. Im Kontext dieser Arbeit wird der Begründungsbedarf pro"
+      },
+      {
+        "rank": 2,
+        "id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+        "score": 0.7769867777824402,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3566,
+          "_split_overlap": [
+            {
+              "doc_id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+              "range": [
+                1150,
+                1555
+              ]
+            }
+          ]
+        },
+        "content": "Konzeptionell-systematisch stellt er zunächst Beratung als eine pädagogische Handlungsform dar und nennt dann neben Individuen auch „soziale Grup- pen oder […] Organisationen“ (Schäffter 2000: 52) als mögliche Adressaten, womit er die Brücke schlägt zwischen dem Lernen und der Organisationsbe- ratung, welche er „als pädagogisch intendierte, zielgerichtete Einflussnahme auf organisationale (kollektive) Sinn-, Bedeutungs- und Handlungskontexte“ (ebd.: 54) definiert – die Ähnlichkeit zu möglichen Definitionen von Lehre ist dabei unübersehbar. Schäffters Argumentation macht plausibel, dass Beratung aus pädago- gischer Perspektive auf Organisationen bezogen werden kann und dann in einem engen Verhältnis zu Lernprozessen steht. Die Konzepte von Lernbera- tung wie von organisationalem Lernen sind seither allerdings weiter geschärft worden und so stellt sich die Frage, inwieweit sich hieraus auch neue Konse- quenzen für das beschriebene Verhältnis ergeben."
+      },
+      {
+        "rank": 3,
+        "id": "22123385cdd16f38d88426f4e7d94a55d756a53e9861f3d9ea46e94a296aa02a",
+        "score": 0.6689692139625549,
+        "meta": {
+          "file_path": "9783839444856_chapter_0723.txt",
+          "source_id": "9fe2379c21861edad14a5cf071ac8aa30c5f319b46f7de830329770f88a75a85",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2532,
+          "_split_overlap": [
+            {
+              "doc_id": "99f61a421b7b62d6af7c48b66c17bfdeeacc573395015c03f23a787977f57186",
+              "range": [
+                1266,
+                1709
+              ]
+            },
+            {
+              "doc_id": "df69ced5b1494c434b558e3b7c71443d9781d14efad3e28541f53747f68b7383",
+              "range": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        "content": "sucht, inwieweit Anerkennungsberatung als eine pädagogische Beratung eingeordnet wird. Dazu erfolgte die Rekonstruktion unterschiedlicher Positionen, die von der Ablehnung der Bezeichnung als pädagogische Be­ ratung bis zu der Auffassung reichen, dass pädagogische Qualifikationen für die Tätigkeit in der Anerkennungsberatung eine Voraussetzung bilden. Die unterschiedlichen Auslegungen eines pädagogischen Beratungsver­ ständnisses spiegeln den unzureichenden theoretischen Diskurs einer er­ ziehungswissenschaftlichen Perspektive auf Beratung und einer entspre­ chenden pädagogischen Fundierung wider. Auffällig ist dabei, dass sich die Distanzierung von einem pädagogischen Beratungsverständnis nicht auf den Gegensatz zwischen Fach- und Prozessberatung bezieht, sondern auf eine mögliche bevormundende Beratungshaltung im Sinne eines Er­ ziehungsauftrages und einer damit verbundenen Hilfsbedürftigkeit. Alle Interviewpartner_innen stellten unabhängig von dem Grad der Identifizie­ rung mit eine"
+      },
+      {
+        "rank": 4,
+        "id": "1808a58fb5cfef378354d3feb5af0c5518a6f5fbdc1c7a246741d958457db278",
+        "score": 0.5437683463096619,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 18,
+          "split_idx_start": 22326,
+          "_split_overlap": [
+            {
+              "doc_id": "2df40f3e57f55cff77561e11742b9cbfb0a1a58c6e07fcd99d9788764d4ef8bc",
+              "range": [
+                1190,
+                1619
+              ]
+            },
+            {
+              "doc_id": "68201be4acb848ab585d096c473f42277d0e0adbdf5641f276a773fd5c0d8c3b",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "beschreibt (ebd., S. 62). Sie entwickelt dazu Vorschläge im Bereich der Interkulturellen Pädagogik, der feministischen Pädagogik und der Integrationspädagogik auf Grund­ lage der Frage, wie intersubjektive Anerkennung durch Bildung gestaltet werden kann. Anerkennungserfahrungen im pädagogischen Kontext kön­ nen demnach zwischen einzelnen Personen, durch gleiche institutionelle Zugänge oder durch Anerkennung der Zugehörigkeit zu bestimmten kultu­ rellen Gemeinschaften ermöglicht werden. Gröning sieht in den Ausführungen von Honneth die Möglichkeit einer gesellschaftstheoretischen Fundierung des Anerkennungsbegriffs in der Beratungstheorie nach Carl Rogers: »Für die Pädagogik und die pädagogische Beratung bedeutet seine Theorie eine Weiterentwicklung und Fundierung dessen, was Müller und Mollen­ hauer in den 1960er Jahren zur Pädagogik und Beratung formuliert haben. Pädagogik und Beratung können genauso wie Therapie zur Mündigkeit und innerlichen Freiheit verhelfen und verwirklichen dami"
+      },
+      {
+        "rank": 5,
+        "id": "73dbccb40dfaae71d4f33bc1371c16c0f2a1e9be7dd719278783924355452a75",
+        "score": 0.46282142400741577,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b54467dc54261f69e29b3b9fe9277ef5ab17f4194eb3d475cd8f1bdcc21fbf9b",
+              "range": [
+                0,
+                489
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Forschungsinteresse Das Forschungsinteresse ergibt sich aus den aktuellen institutionellen Entwicklungen in der Anerkennungsberatung und aus beratungstheoreti­ schen Forschungsfragen. Beratung stellt eine Grundform pädagogischen Handelns dar (vgl. Giesecke 2010). Anerkennungsberatung kann damit als eine spezifische Form pädagogischer Praxis untersucht werden. Der Fokus dieser Arbeit liegt auf dem beruflichen Selbstverständnis und den profes­ sionellen Handlungsstrategien der Berater_innen in der Anerkennungsbe­ ratung. Die Rekonstruktion und Analyse erfolgen auf der Grundlage von Expert_inneninterviews mit den Berater_innen und Koordinator_innen der Beratungsstellen in Österreich. Den Schwerpunkt bilden damit zu­ nächst die Sichtweisen und Handlungsstrategien, die sich in der Anerken­ nungsberatung im Kontext dieser Anlaufstellen entwickelt haben. Darüber hinaus werden theoretische und empirische Bezüge zu einzelnen Anerken­ nungsberatungsstellen in Deutschland hergestellt. Diese E"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0521.txt",
+    "question": "Wie erklärt Stojanov den scheinbaren Widerspruch zwischen autonomer Subjektbildung und vorstrukturierten Lernprozessen in pädagogischen Institutionen?",
+    "answer": "Stojanov erklärt den scheinbaren Widerspruch, indem er die Selbstentwicklung und die Welterschließung als intersubjektiv vermittelte Vorgänge aufreibt, die auf Anerkennungsverhältnisse angewiesen sind. Durch Anerkennungsprozesse entstehen immer neue intersubjektiv vermittelte Selbstbeziehungsformen, die die Entwicklung des Individuums konstituieren. Gleichzeitig wird es dadurch dazu veranlasst, über die erreichten Formen der Spiegelung durch den anderen hinauszugehen und damit auch erweiterte bzw. neue Formen der Anerkennung einzufordern. Diese intersubjektiv vermittelten Vorgänge der Selbstentwicklung und der Welterschließung werden bei Stojanov als Bildungsprozesse interpretiert.",
+    "expected": "Stojanov löst den scheinbaren Widerspruch auf, indem er Selbstentwicklung und Welterschließung als intersubjektiv vermittelte Vorgänge versteht, die auf Anerkennungsverhältnisse angewiesen sind. Dabei entstehen durch Anerkennungsprozesse neue Selbstbeziehungsformen, die die individuelle Entwicklung konstituieren und gleichzeitig zur Forderung nach erweiterten Anerkennungsformen führen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c496c67a356832cb6cd1488c0549d0e6573a00f133709b493fe8b678128432e1",
+        "score": 0.9758601188659668,
+        "meta": {
+          "file_path": "9783839444856_chapter_0521.txt",
+          "source_id": "60744e91a4777f9b5118fa820fa7e3fce30df8efd8e6702d12066f0fbcd4c0c3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "fe443df7e4dba5e4dbaba28f28758bd6a7196e70851028d79b3eb67b3a7a7bb6",
+              "range": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        "content": "3.2.1 Subjektbildung in Anerkennungsverhältnissen Zur Vermeidung der Internalisierung außerpädagogischer Vorgaben stellt Scherr (ebd., S. 27f.) an jede pädagogische Theorie die Anforderung »einer eigenständigen theoretischen Begründung pädagogischer Praxis auf der Grundlage einer Klärung des konstitutiven Zusammenhangs von Sozialität und Subjektivität«. Anerkennungstheoretische Ansätze können zur Klärung dieses Zusammenhangs einen Beitrag leisten, indem sie die Herausbildung individueller Subjektivität mit intersubjektiven Prozessen in Verbindung setzen. Stojanov (vgl. 2006) stellt in seiner Studie dazu den bildungstheoreti­ schen Zusammenhang zwischen der Entwicklung individueller Subjekti­ vität und sozialen Anerkennungsformen her. Ausgangspunkt ist für ihn der scheinbare Widerspruch zwischen der autonomen Subjektbildung des Individuums und den vorstrukturierten Lernprozessen innerhalb pädago­ gischer Institutionen. Dieser Gegensatz wird aufgelöst, indem die Selbst­ entwicklung und d"
+      },
+      {
+        "rank": 2,
+        "id": "fde84a172a15152d91abe8cad0ad8c9549a586153b92ffe88ab1bd57fefb03ad",
+        "score": 0.07200908660888672,
+        "meta": {
+          "file_path": "9783839444856_chapter_0521.txt",
+          "source_id": "60744e91a4777f9b5118fa820fa7e3fce30df8efd8e6702d12066f0fbcd4c0c3",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2572,
+          "_split_overlap": [
+            {
+              "doc_id": "fe443df7e4dba5e4dbaba28f28758bd6a7196e70851028d79b3eb67b3a7a7bb6",
+              "range": [
+                1220,
+                1636
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. 2013) in dem Ansatz einer »Pädagogik der Anerkennung« aufgegriffen. Zu den zentralen pädagogischen Aufgaben gehört es demnach, den Individuen Erfahrungen der Anerkennung zugänglich zu machen, um Subjektivitätsentwicklung im Sinne von Selbstwahrnehmung, Selbstbewer­ tung und Selbstbewusstsein zu ermöglichen. Gesellschaftliche Strukturen und Prozesse stellen Bedingungen dar, welche die Möglichkeiten der Ent­ faltung individueller Subjektivität und den Zugang zu Chancen sozialer Anerkennung strukturieren. Pädagogisches Handeln muss damit auch Ge­ sellschaftsstrukturen berücksichtigen, welche mögliche Erfahrungen von Anerkennung eingrenzen können. Damit befindet sich Pädagogik in einer unauflöslichen Paradoxie zwischen der Reduktion von Anerkennung durch institutionelle oder organisatorische Festlegungen und der nicht darauf zu reduzierenden Intention, intersubjektive Anerkennungsverhältnisse und Subjektbildungsprozesse zu ermöglichen (vgl. ebd., S. 26ff.). Das hier for­ mulierte Spa"
+      },
+      {
+        "rank": 3,
+        "id": "b8439b8571df35428bc60b7435cd1a89eba355f23430b4ec6d5904b4fddb5db6",
+        "score": 0.06672597676515579,
+        "meta": {
+          "file_path": "9783839444856_chapter_07433.txt",
+          "source_id": "427799164061fe4f50d2365e6d2afc071f695bd23a9378383b595f8522ae025b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1260,
+          "_split_overlap": [
+            {
+              "doc_id": "7b5bf25c98eb825222af510bcc19e5e4bf330e83f47a562dcb9e74b4e2783734",
+              "range": [
+                1260,
+                1687
+              ]
+            }
+          ]
+        },
+        "content": "unterstützt werden, eigenständige Entscheidungen zu treffen und Hand­ lungsstrategien zu entwickeln. Die Herstellung von Transparenz ermöglicht damit auch den Zugang zu bestehenden Anerkennungsverhältnissen. Voraussetzung hierfür ist ein einheitliches und verlässliches System an strukturellen Rahmenbedingungen. Die Herstellung von Transparenz fin­ det daher nicht nur auf Beratungsebene statt, sondern auch auf struktureller Ebene. Durch die institutionenübergreifende Systematisierung und Gene­ ralisierung von Beratungsfällen wird fachspezifisches Expert_innenwissen für die Beratung generiert. Gleichzeitig wird diese fachliche Expertise auch genutzt, um auf struktureller Ebene auf die Handlungsbedingungen einzu­ wirken. Ähnlich wie im zweiten Handlungsmuster beschrieben, wird hier für die Klient_innen Partei ergriffen, deren Anliegen auch auf rechtlicher und gesellschaftlicher Ebene vertreten werden. Es handelt sich dabei jedoch nicht um einen alternativen, sondern um einen zusätzlichen "
+      },
+      {
+        "rank": 4,
+        "id": "0573521013cb9ec6a15ed801c01d43d70d487a038038d253f5bd90c260585edf",
+        "score": 0.06346257776021957,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9334,
+          "_split_overlap": [
+            {
+              "doc_id": "91a9db5d09afc0210b7cec6e4e834f615b9fb8a8de3a7f02b15786853c4e0524",
+              "range": [
+                1139,
+                1509
+              ]
+            },
+            {
+              "doc_id": "2421e901922c925bb3f27dc9af4def021599deb065ec8a7e435b3ead9a20dcc1",
+              "range": [
+                0,
+                378
+              ]
+            }
+          ]
+        },
+        "content": "Regeln für diversity­ gerechtes Handeln werden in den Gruppen formuliert und im Handeln ­erprobt. Hier werden unterschiedliche Methoden angewandt, die Empa- thie fördern und ethische Werte unterstützen, das Nudge-Prinzip wird wirksam, indem das ethisch als richtig Erkannte auch konkret umsetzbar wird. 4. „Negotiation“ als dritter Schritt bedeutet, dass das Aushandeln von diver- sitygerechten Regeln für das ganze Unternehmen beginnt. Die Regeln sol- len in offizielle Programme und Leitfäden der Unternehmen verbindlich aufgenommen werden. Sie werden deshalb an die Unternehmensleitung zur Genehmigung kommuniziert. 5. Im fünften Schritt, der „Implementation“, werden diese verbindlichen Re- geln mit der Unternehmensleitung verhandelt und als Artefakte zu neuen Regelungen mit der Unternehmensleitung verbindlich vereinbart und ver- öffentlicht, zum Beispiel diversitygerechte Bewerbungsleitfäden, diver- sitygerechte Unternehmensleitbilder und Home Pages, diversitygerechte Zielvereinbarungsleit"
+      },
+      {
+        "rank": 5,
+        "id": "927c9982923ffe0e5c3bfa787581aa24eb60126c1c63deea7319519e41453791",
+        "score": 0.06299591809511185,
+        "meta": {
+          "file_path": "9783839444856_chapter_07431.txt",
+          "source_id": "5629f198b0898d4079278091d23193bd08a18f7743b6f854be3f8ee9d207afe9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1162,
+          "_split_overlap": [
+            {
+              "doc_id": "f80c313a254e247bf06131a5e5c89223544a1b8130e968537bdaeb5f29e53028",
+              "range": [
+                1162,
+                1557
+              ]
+            },
+            {
+              "doc_id": "e6655ae2acbedac8059cf5d3637e5653ad7814d4e79d1847e7b1119daf235b83",
+              "range": [
+                0,
+                460
+              ]
+            }
+          ]
+        },
+        "content": "daher auch nicht als Erfolgskriterium herangezogen werden. Inwiefern die gesetzten Ziele erreicht wurden, wird stattdessen vor allem über die subjektive Wahrnehmung der Berater_innen und über ver­ schiedene Formen des strukturierten Feedbacks beurteilt. Durch die kon­ kret definierten Ziele sind hier vor allem die beschriebenen Spannungsfelder auf institutioneller Ebene relevant. Hindernisse auf gesellschaftlicher und rechtlicher Ebene sind strukturell bedingt, liegen daher außerhalb des durch die Zielsetzungen definierten Einflussbereichs der Beratung und werden damit von den Interviewpartner_innen auch als Grenzen der eigenen fach­ lichen Zuständigkeit und damit der Beratungssituation interpretiert. Voraussetzung hierfür ist eine ressourcenorientierte Perspektive in der Beratung und die Aufrechterhaltung einer anerkennenden und wertschät­ zenden Beratungshaltung unabhängig von einer etwaigen verweigerten An­ erkennung auf rechtlicher oder gesellschaftlicher Ebene. Vor dem Hinter­ gru"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0521.txt",
+    "question": "Inwiefern unterscheidet sich Stojanovs Verständnis von \"Welt\" in der Subjektkonstitution von dem nach Honneth?",
+    "answer": "Stojanovs Verständnis von \"Welt\" in der Subjektkonstitution umfasst den Erwerb von Kenntnissen, Werten, Fähigkeiten und Fertigkeiten zur erfolgreichen gesellschaftlichen Integration, während Honneths Weltanschauung nur als Existenz anderer Personen verstanden wird. Stojanovs Verständnis ist also umfassender und umfasst nicht nur soziale Aspekte, sondern auch kognitive und handlungsbasierte Aspekte. Dies wird durch die Tatsache unterstrichen, dass Stojanov die Dynamik der Weltbilder und der Weltbezüge als eine eigene Dimension der Subjektkonstitution erfasst, was bedeutet, dass er die Entwicklung der eigenen Perspektive auf die Welt in Relation zu den Sichtweisen relevanter anderer Personen berücksichtigt. In diesem Sinne kann Stojanovs Verständnis von \"Welt\" als eine Art von \"weltorientierter\" oder \"weltbezogener\" Subjektkonstitution bezeichnet werden, die sich von der eher sozialen und existenziellen Perspektive von Honneth unterscheidet. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI cannot find the answer in the provided context. \nI",
+    "expected": "Während Honneth Welt ausschließlich als Existenz anderer Personen versteht, erfasst Stojanov die Dynamik der Weltbilder und Weltbezüge als eine eigene Dimension der Subjektkonstitution, wodurch Welterschließung als Lernprozess in Auseinandersetzung mit der eigenen Perspektive und den Sichtweisen anderer verstanden wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "457b17924853b07848ee22fa643b66304a3318ef11d3e5c6de3873821407bcfc",
+        "score": 0.9812942743301392,
+        "meta": {
+          "file_path": "9783847412304_chapter_0692.txt",
+          "source_id": "46b1bce310b6d5dbeeffeb148a50e6315ab494ae0adf0aed35639edc9a93bef7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1188,
+          "_split_overlap": [
+            {
+              "doc_id": "2fc311e99b97f5a190aba8193dacd858db67576a6d96ea0eac0e195d1eb00e2a",
+              "range": [
+                1188,
+                1607
+              ]
+            }
+          ]
+        },
+        "content": "sachlichen Struktur werden in dieser Konzeption biogra- fische, inhaltliche und situative Aspekte berücksichtigt. Konzeptuell wird davon ausgegangen, dass jeweils situativ bestimmt wird, welche Aspekte im Beratungsgespräch subjektiv bedeutsam und vor diesem Hintergrund konkret bearbeitet werden. • Sozial wird eine Rollenkonstruktion sichtbar, bei der Lehrende als verste- hende Rekonstruierende von Lernproblematiken auftreten, die Bildungs- prozesse begleiten und unterstützen. Diese Rolle wird im Wechselspiel zu der Rolle als Lehrende situativ eingesetzt. Lernende werden hier also ebenfalls als individualisierte Lernsubjekte verstanden. Zusätzlich liegt aber auch ein Verständnis von Lernenden als Fallgebenden vor. • Zeitlich erscheint die Lernberatung hier mit der Kurssituation verknüpft (vgl. ebd. S. 194). Dabei zeigen sich zwei unterschiedliche Möglichkeiten. Je nach Bedarf kann ein Reflexionsgespräch als Lernberatung in den Kurs integriert werden. In diesem Fall handelt es sich um ei"
+      },
+      {
+        "rank": 2,
+        "id": "4c860337e230efc0c9a8b33db7fd081634512c03ba63d9a466c19233496e0d5a",
+        "score": 0.9562376141548157,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 10095,
+          "_split_overlap": [
+            {
+              "doc_id": "1f0212e32b43667bb2151d78a881a736f9a939fde9becebace6456767241f800",
+              "range": [
+                1204,
+                1596
+              ]
+            },
+            {
+              "doc_id": "62ea50308c7c01ab5818d85ce5fcac8c5db0d0f7361f21b96ff706af64072919",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "tierungssystem (vgl. ebd., S. 196ff.). Erweiterung um die Dimension der »kulturellen Anerkennung« In Anlehnung an Honneth zeichnet sich soziale Wertschätzung bei Stojanov (vgl. 2006) durch die Anerkennung der Fähigkeiten einer Person aus, wel­ che gesamtgesellschaftliche Relevanz aufweisen. Von besonderem Interesse ist hier seine Erweiterung der sozialen Wertschätzung um die Dimension der »kulturellen Anerkennung« (ebd., S. 164). Er bezieht sich hierzu kritisch auf den Ansatz einer »Pädagogik der Vielfalt« (vgl. Prengel 2006), wonach soziale Wertschätzung auf die Anerkennung unterschiedlicher kultureller Zugehörigkeiten bezogen wird. Stojanov hebt in Abgrenzung dazu hervor, dass nicht die Zugehörigkeit zu einer kulturellen Gemeinschaft entschei­ dend für soziale Wertschätzung ist, sondern die Artikulation und Reflexion dieser kulturellen Zugehörigkeit als wertvollen Beitrag für die Gesellschaft. Gegenstand der Anerkennung ist demnach nicht die Unterschiedlichkeit der Subjekte, sondern "
+      },
+      {
+        "rank": 3,
+        "id": "fe443df7e4dba5e4dbaba28f28758bd6a7196e70851028d79b3eb67b3a7a7bb6",
+        "score": 0.9196529388427734,
+        "meta": {
+          "file_path": "9783839444856_chapter_0521.txt",
+          "source_id": "60744e91a4777f9b5118fa820fa7e3fce30df8efd8e6702d12066f0fbcd4c0c3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1352,
+          "_split_overlap": [
+            {
+              "doc_id": "c496c67a356832cb6cd1488c0549d0e6573a00f133709b493fe8b678128432e1",
+              "range": [
+                1352,
+                1769
+              ]
+            },
+            {
+              "doc_id": "fde84a172a15152d91abe8cad0ad8c9549a586153b92ffe88ab1bd57fefb03ad",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "Formen der Spiegelung durch den anderen hinauszugehen und damit auch erweiterte bzw. neue Formen der Anerkennung einzufor­ dern. Diese intersubjektiv vermittelten Vorgänge der Selbstentwicklung und der Welterschließung werden bei Stojanov (vgl. ebd.) als Bildungsprozesse interpretiert. Die Selbstentwicklung bezieht sich auf die Konstituierung der Identität und Persönlichkeitseigenschaften des Individuums, der Be­ griff der Welterschließung umfasst den Erwerb von Kenntnissen, Werten, Fähigkeiten und Fertigkeiten zur erfolgreichen gesellschaftlichen Integra­ tion. Während in der Anerkennungstheorie nach Honneth (vgl. 2014) Welt ausschließlich als Existenz anderer Personen verstanden wird, erfolgt nach Stojanov die Erfassung der Dynamik der Weltbilder und der Weltbezüge als eine eigene Dimension der Subjektkonstitution. Anerkennungsprozesse er­ möglichen damit nicht nur die Selbstentwicklung des Individuums, sondern auch die Welterschließung im Sinne eines Lernprozesses in Auseinanderset­"
+      },
+      {
+        "rank": 4,
+        "id": "d8c376eeb9c2526dcb03f478281e220db77ae64d2ccb0187b3f251b60e726f55",
+        "score": 0.889343798160553,
+        "meta": {
+          "file_path": "9783847412304_chapter_062.txt",
+          "source_id": "ec7292c510e582880490e1c604918401b7991c294e63b04fd64f599b891f09b7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3683,
+          "_split_overlap": [
+            {
+              "doc_id": "baf58d4653395d52e1f98ee7f867bee6b7d23eeaf53764c531904da61bdab055",
+              "range": [
+                1126,
+                1487
+              ]
+            },
+            {
+              "doc_id": "4bc0ddc27b47ed1376b6342701a9894a4e9d96fcac24504ee6151d7339fc85bb",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "„[…] eine spezifi- sche Form der Weltbeziehung, in der Subjekt und Welt einander indifferent oder feindlich (repulsiv) und mithin innerlich unverbunden gegenüberstehen […]. Entfremdung definiert damit einen Zustand, in dem die ‚Weltanverwand- lung‘ misslingt, so dass die Welt stets kalt, starr, abweisend und nichtrespon- siv erscheint […]“ (Rosa 2016b: 316). Beschleunigungsprozesse sind (häufig) mit Eskalationstendenzen ver- bunden, so dass die Stellung des Subjekts stets essentiellen Veränderungen unterworfen ist – was wiederum eine fortwährende Störung des Resonanz- verhältnisses darstellt. Dieses dialektische Verhältnis von resonanten und ent- fremdeten Momenten ist jedoch erforderlich. Denn als gelungene Lebensform kann nur ein „dialektisches Wechselverhältnis zwischen Entfremdungs- und Resonanzmomenten der Weltbeziehung“ (Rosa 2016b: 298) angesehen werden. Wie kann demzufolge auf die skizzierten Entwicklungen reagiert werden? Und wie können förderliche Bedingungen für ein „gelunge"
+      },
+      {
+        "rank": 5,
+        "id": "197c84d890192a33883c2e01f5e576ad7ead0cfd303c3dc965b73d02fbbed851",
+        "score": 0.6694483160972595,
+        "meta": {
+          "file_path": "1001586_chapter_091.txt",
+          "source_id": "a8273a1ddb1643af5071b4632176285c2a7a594028ab130d6c75dcdcd50284a7",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8638,
+          "_split_overlap": [
+            {
+              "doc_id": "a2ee2e0563d209c0b9caba54008283964daec1843194bdc7eae68d80ac29a0f9",
+              "range": [
+                1103,
+                1510
+              ]
+            },
+            {
+              "doc_id": "e137606911ee09e8bcb86d5422dd8a9c189974db56d9d4fa4ed7f888ddf54624",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "Ausschöpfung der eigenen Ressourcen stellen genuine menschliche Überlebensprinzipien dar. Rogers unterscheidet die Tendenz zur Aktualisie­ rung und zur „Selbstaktualisierung“. Letztere wird als die speziell auf das „Selbst“ bezogene Erscheinungsform der Aktualisierungstendenz bezeichnet. (Rogers, 2009, zit. nach Biermann-Ratjen et al., 1981: 62) Es beinhaltet ein Streben nach Kongruenz im Denken, Fühlen und Handeln. Ein Aspekt, der für die (Weiter-)Bildungsberatung in besonderem Maße bedeutsam ist. Dem Selbst kommt dabei die Aufgabe eines Vermittlers zu, der es inneren und äußeren Erwartungen recht machen will; dabei sich schützen muss, wenn es sich in seiner Sicht auf die Welt angegriffen fühlt. In solchen Momenten ist die Selbstaktualisierung in ihrer Entwicklung beeinträchtigt. Biographische Muster Und gerade weil das Verhalten von Ratsuchenden in der Beratung durch die Beziehungsgestaltung gekennzeichnet ist, kann diese – zwischen den Me­ thoden – zum impliziten oder expliziten Ges"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0521.txt",
+    "question": "Wie können die anerkennungstheoretischen Perspektiven auf Bildungsprozesse bei der praktischen pädagogischen Arbeit angewandt werden?",
+    "answer": "In der praktischen pädagogischen Arbeit können die anerkennungstheoretischen Perspektiven auf Bildungsprozesse angewandt werden, um die Anerkennung von Qualifikationen und Kompetenzen zu unterstützen und die berufliche Integration von Personen mit im Ausland erworbenen Qualifikationen zu fördern. Dies kann durch die Entwicklung von Bildungsangeboten und Beratungsformaten erreicht werden, die es den Personen ermöglichen, ihre Kompetenzen und Erfahrungen zu erkennen und zu bewerten. Durch die anerkennungstheoretische Perspektive können die pädagogischen Berater_innen die Anerkennungsdimensionen der sozialen Wertschätzung und der emotionalen Anerkennung in die Beratungspraxis integrieren, um die Selbstachtung und die positive Selbstbeziehung der Klient_innen zu fördern. Zudem können die anerkennungstheoretischen Perspektiven helfen, die Spannungsfelder in der pädagogischen Beratung zu analysieren und die Anerkennungsformen zu nutzen, um die Beratungsbeziehung zu stärken. Durch die Anwendung der anerkennungstheoretischen Perspektiven können die pädagogischen Berater_innen eine wertschätzende Haltung einnehmen und die Bedeutung eines signifikanten anderen im Bereich der emotionalen Anerkennung anerkennen. Dies kann zu einem Perspektivenwechsel bei den Klient_innen führen und zu Selbstachtung und einer positiven Selbstbeziehung beitragen. Insgesamt können die anerkennungstheoretischen Perspektiven auf Bildungsprozesse die pädagogische Praxis bereichern und die berufliche Integration von Personen mit im Ausland erworbenen Qualifikationen unterstützen.",
+    "expected": "In der pädagogischen Praxis bedeutet dies, dass zentrale Aufgaben darin bestehen, Individuen Erfahrungen der Anerkennung zugänglich zu machen, um deren Subjektivitätsentwicklung zu fördern. Dies umfasst die Unterstützung von Selbstwahrnehmung, Selbstbewertung und Selbstbewusstsein als Teil der Bildung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5c5b76efb29b0161949e6a81861c6e487f037a5aa6cc766db16527a128dc758a",
+        "score": 0.9967323541641235,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Anerkennungstheoretische Perspektive Die Bezeichnung als »Anerkennungsberatung« bezieht sich auf die Zielset­ zung, den Anerkennungsprozess im Ausland erworbener Qualifikationen zu unterstützen (vgl. Bichl 2016a). Der in Österreich und Deutschland häufig verwendete Begriff der »Anlaufstellen« weist bereits darauf hin, dass der da­ mit verbundene Aufgabenbereich weiter gefasst wird. Anerkennung bezieht sich über die formale Anerkennung hinaus auf zusätzliche Dimensionen, die für eine erfolgreiche bildungsadäquate berufliche Integration relevant sind. Zur Beschreibung und Begründung dieser Aufgaben und Zielsetzungen von Beratung wird die zuvor erfolgte theoretische Einordnung als pädagogische Beratung im Bereich der Bildungs- und Berufsberatung um eine anerken­ nungstheoretische Perspektive erweitert. Pädagogisches Handeln soll damit unter den Bedingungen von Differenz und struktureller Ungleichheit näher konkretisiert werden. Balzer (2014, S. 585, Herv. i. Orig.) fasst die Bedeutung"
+      },
+      {
+        "rank": 2,
+        "id": "cecd8a4b8f2d5c561e49fcf423e048ebc67d2e932b27ba4fa24739e49eba0bbf",
+        "score": 0.9956854581832886,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 15,
+          "split_idx_start": 18650,
+          "_split_overlap": [
+            {
+              "doc_id": "bf5aec3bf1ee6efbaacc52ba851f2bf1fe0def37fa5fcfad2562247336db9ce5",
+              "range": [
+                1236,
+                1637
+              ]
+            },
+            {
+              "doc_id": "f769b7f3ce2d9bdda3c3dcedf611a8d4f2c7838a88fd96ccf51d892637bf7da2",
+              "range": [
+                0,
+                454
+              ]
+            }
+          ]
+        },
+        "content": "Perspektive kann die Anerkennung von Qualifikationen also auch im Hinblick auf die Anerken­ nungsdimension der sozialen Wertschätzung untersucht werden. Dabei stellt sich die Frage, wie Fähigkeiten, Kompetenzen und Kenntnisse, die in der Bildungs- und Berufsbiografie erworben wurden, tatsächlich auf dem österreichischen Arbeitsmarkt unabhängig von der formalen Anerkennung eingesetzt werden können. In den Interviews wird hier deutlich, dass mit der Dequalifizierung auch eine Abwertung der damit verbundenen Kompe­ tenzen einhergeht. Rechtliche Anerkennung wird bei Sprung daher in Be­ ziehung zu sozialer Wertschätzung gesetzt. Die Wechselwirkung zwischen diesen beiden Anerkennungsformen verdeutlicht sie am Beispiel der staatli­ chen Arbeitsvermittlung. Die fehlende rechtliche Anerkennung von im Aus­ land erworbenen Qualifikationen führt hier nicht nur zur Missachtung der beruflichen Qualifikation, sondern ebenso zu der fehlenden Anerkennung der damit verbundenen Berufserfahrungen und Komp"
+      },
+      {
+        "rank": 3,
+        "id": "68201be4acb848ab585d096c473f42277d0e0adbdf5641f276a773fd5c0d8c3b",
+        "score": 0.9927994012832642,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 19,
+          "split_idx_start": 23570,
+          "_split_overlap": [
+            {
+              "doc_id": "1808a58fb5cfef378354d3feb5af0c5518a6f5fbdc1c7a246741d958457db278",
+              "range": [
+                1244,
+                1628
+              ]
+            }
+          ]
+        },
+        "content": "die Anerkennungsebenen für die Praxis nutzbar gemacht werden. Die Anerkennungsformen ermöglichen demnach die Ana­ lyse der Spannungsfelder in der pädagogischen Beratung. Nach Gröning findet Beratung zumeist in der zweiten Sphäre der Anerkennung statt, in­ dem der_die Klient_in zu einem Perspektivenwechsel angeregt wird und dabei zu Selbstachtung und einer positiven Selbstbeziehung kommt. Zudem nehmen die wertschätzende Haltung und die damit verbundene Anerken­ nung einen bedeutenden Stellenwert für eine positive Beratungsbeziehung ein. Im Unterschied zu Honneth spricht Gröning damit dem_der Berater_in durchaus die Bedeutung eines_einer signifikanten anderen im Bereich der emotionalen Anerkennung zu (vgl. ebd., S. 177ff.)."
+      },
+      {
+        "rank": 4,
+        "id": "7f4128e13334cabdb7445aab3617ecee62ff350d6a11f44b3bebe014fdfcce55",
+        "score": 0.9918566942214966,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2558,
+          "_split_overlap": [
+            {
+              "doc_id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+              "range": [
+                1297,
+                1713
+              ]
+            }
+          ]
+        },
+        "content": "und auf mehreren Ebenen formuliert werden. Nachfolgend wird zunächst auf die Theorie der Anerkennung als eine eigenständige Begründung pädagogischen Handelns eingegangen und in Bezug auf die Bedeutung für die pädagogische Praxis konkretisiert. Durch die Diskussion unterschiedlicher anerkennungstheoretischer Ansätze im bildungstheoretischen Bereich wird anschließend die Grundlage für die Entwicklung eines eigenen anerkennungstheoretischen Rahmenmodells ge­ legt. Ziel ist es, die Relevanz anerkennungstheoretischer Ansätze für die Be­ gründung pädagogischen Handelns aufzuzeigen."
+      },
+      {
+        "rank": 5,
+        "id": "4ecac239027f06772cc9196b40b2ede22cc60b6b7da1dd1ad91e9753c83f7d0b",
+        "score": 0.99072265625,
+        "meta": {
+          "file_path": "9783839444856_chapter_074.txt",
+          "source_id": "d36940a7d6c8a9163902d7fb90da8b3925b48b081786036cd0a66a33217e8c74",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1499,
+          "_split_overlap": [
+            {
+              "doc_id": "6f0c6da8f2329db24d2729386e2f103651afeaba74816d6c1414b9c3c3b57e97",
+              "range": [
+                1499,
+                1994
+              ]
+            }
+          ]
+        },
+        "content": "in Auseinandersetzung mit den sozialstrukturellen Rahmenbedingungen entwickelt werden, um die formulierten Zielsetzungen zu erreichen (5.4.2). Aus einer anerkennungstheoretischen Perspektive ermöglichen und unter­ stützen diese Handlungsstrategien die Herstellung von Anerkennungs­ verhältnissen auf den unterschiedlichen Analyseebenen. Dabei lassen sich spezifische Zusammenhänge rekonstruieren, welche jeweils einen typischen Aushandlungsprozess zwischen dem beruflichen Selbstverständnis und den sozialstrukturellen Rahmenbedingungen beschreiben (5.4.3)."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0521.txt",
+    "question": "Warum ist die Integration von Anerkennungsverhältnissen in Bildungsprozesse für die persönliche und gesellschaftliche Entwicklung des Individuums wichtig?",
+    "answer": "Die Integration von Anerkennungsverhältnissen in Bildungsprozesse ist für die persönliche und gesellschaftliche Entwicklung des Individuums wichtig, da sie die Herstellung möglicher Anerkennungsverhältnisse infolge getroffener Entscheidungen fördert. Dies hat positive Auswirkungen auf die individuelle und soziale Integration, da die Anerkennung von im Ausland erworbenen Qualifikationen die Teilhabe an wichtigen gesellschaftlichen Teilbereichen wie dem Arbeitsmarkt und dem Bildungssystem ermöglicht. Darüber hinaus kann die Integration von Anerkennungsverhältnissen in Bildungsprozesse dazu beitragen, die Effektivität und Effizienz des Bildungssystems und Arbeitsmarktes zu erhöhen und die gesellschaftliche Teilhabe und soziale Integration zu fördern. \n        Die Unterstützung der bildungsadäquaten beruflichen Integration durch Anerkennungsberatung ist daher ein wichtiger Schritt auf dem Weg zur persönlichen und gesellschaftlichen Entwicklung des Individuums. Durch die Förderung der Anerkennung von im Ausland erworbenen Qualifikationen können Einzelpersonen ihre beruflichen Chancen verbessern und ihre Teilhabe an der Gesellschaft erleichtern. Die Integration von Anerkennungsverhältnissen in Bildungsprozesse kann daher als ein wichtiger Aspekt der Bildungs- und Berufsberatung angesehen werden, da sie die individuelle und soziale Integration fördert und die Effektivität und Effizienz des Bildungssystems und Arbeitsmarktes erhöht. \n        Die Unterstützung der bildungsadäquaten beruflichen Integration durch Anerkennungsberatung ist daher ein wichtiger Schritt auf dem Weg zur persönlichen und gesellschaftlichen Entwicklung des Individuums. Durch die Förderung der Anerkennung von im Ausland erworbenen Qualifikationen können Einzelpersonen ihre beruflichen Chancen verbessern und ihre Teilhabe an der Gesellschaft erleichtern. \n        Die Integration von Anerkennungsverhältnissen in Bildungsprozesse ist für die persönliche und gesellschaftliche Entwicklung des Ind",
+    "expected": "Die Integration von Anerkennungsverhältnissen ermöglicht die Herausbildung individueller Subjektivität durch intersubjektiv vermittelte Selbstbeziehungsformen, die Identität und Persönlichkeit prägen. Gleichzeitig fördert sie Welterschließung, also den Erwerb von Kenntnissen und Fähigkeiten zur gesellschaftlichen Integration. Dadurch wird das Individuum befähigt, sich selbst zu entwickeln und sich erfolgreich in sozialen Kontexten zu orientieren.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3e9ac28579fd1042285efdc1ac277626ede195ee547b1407b74bc15208b2b945",
+        "score": 0.9883063435554504,
+        "meta": {
+          "file_path": "9783839444856_chapter_03.txt",
+          "source_id": "8a904342507d0631e0de7878ab446054f419c52d03362b49b842d40001984068",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5983,
+          "_split_overlap": [
+            {
+              "doc_id": "0f2eae146de82c400ec40d3f4acff316e6892d2e1b9ce7b91f504888a3812c5c",
+              "range": [
+                1225,
+                1652
+              ]
+            }
+          ]
+        },
+        "content": "gar nicht oder unterhalb ihres Qualifikationsniveaus arbeiten. Neben den beruflichen und sozialrechtlichen Einschränkungen erfolgt durch verweigerte Anerkennung auch eine »Aberkennung« individueller Bildungs- und Berufsbiografien. Englmann und Müller (vgl. 2007) beschreiben hier eine »Lose-lose-Situa­ tion« (ebd., S. 18) für das Aufnahmeland und die betroffenen Menschen. Die bildungsadäquate Integration von Personen mit im Ausland erworbenen Qualifikationen stellt damit auf individueller und struktureller Ebene ein wichtiges Ziel dar. Die vorliegende Arbeit beschäftigt sich mit den hierfür notwendigen Prozessen und den Widersprüchen zwischen diesen beiden Ebenen."
+      },
+      {
+        "rank": 2,
+        "id": "15ffe2e59170b7796e9ffa9ac02c06d0dc20ab3ab52f6e1e894cc2864ffedccf",
+        "score": 0.983262300491333,
+        "meta": {
+          "file_path": "9783839444856_chapter_07213.txt",
+          "source_id": "dd5f3c266c99cf8991dcbed83f2002a4eba352bcaf4484ede529b7d0b4dc4f6b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9dbc03c48ef6390ad02e138ac4238c0c4c4231f02d91f8746d6a281d1b39e033",
+              "range": [
+                0,
+                425
+              ]
+            }
+          ]
+        },
+        "content": "5.2.1.3 Gesellschaftliche Ebene Anerkennungsberatung übernimmt wie beschrieben eine wichtige Funktion zur Unterstützung während des Anerkennungs- oder Bewertungsverfah­ rens (vgl. für Österreich auch § 5 Abs. 1 AuBG). Formale Anerkennung muss allerdings nicht zwangsläufig auch zu gesellschaftlicher Anerkennung der Qualifikation und damit beruflicher Integration führen. Aus dem empiri­ schen Material wird deutlich, dass die Unterstützung der bildungsadäqua­ ten beruflichen Integration daher einen hohen Stellenwert im Beratungs­ gespräch einnimmt. Der gesellschaftlichen Ebene werden nachfolgend alle Beratungsleistungen zugeordnet, welche die Herstellung positionaler An­ erkennung und damit auch die soziale und berufliche Integration fördern. Als erstes Aufgabengebiet lässt sich die Unterstützung der Klient_innen in Bezug auf Anerkennungsprozesse bei der bildungs- und arbeitsmarktbezo­ genen Integration ableiten. Obwohl sich hier Parallelen zum Aufgabengebiet der Bildungs- und Berufsberat"
+      },
+      {
+        "rank": 3,
+        "id": "9dbc03c48ef6390ad02e138ac4238c0c4c4231f02d91f8746d6a281d1b39e033",
+        "score": 0.9827909469604492,
+        "meta": {
+          "file_path": "9783839444856_chapter_07213.txt",
+          "source_id": "dd5f3c266c99cf8991dcbed83f2002a4eba352bcaf4484ede529b7d0b4dc4f6b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1238,
+          "_split_overlap": [
+            {
+              "doc_id": "15ffe2e59170b7796e9ffa9ac02c06d0dc20ab3ab52f6e1e894cc2864ffedccf",
+              "range": [
+                1238,
+                1663
+              ]
+            },
+            {
+              "doc_id": "f15f12336b598ea577611c4d384806c2e6ead9da990ecbffc1097886668201de",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "Es erfolgt dadurch eine in­ direkte Unterstützung von gesellschaftlichen Anerkennungsprozessen, die außerhalb des Beratungsbereichs liegen. Nach Schiersmann verfolgt Bil­ dungs- und Berufsberatung auf der bildungs- und arbeitsmarktpolitischen Ebene auch das Ziel, die Effektivität und Effizienz des Bildungssystems und Arbeitsmarktes zu erhöhen, und auf der gesellschaftspolitischen Ebene, die gesellschaftliche Teilhabe und soziale Integration zu fördern (vgl. Schiers­ mann 2011a, S. 749). Im Unterschied zur Ebene der Beratungsinteraktion liegt der Schwerpunkt bei der gesellschaftlichen Ebene daher zusätzlich auf integrativen Aufgaben und orientiert sich neben den Bedürfnissen der Klient_innen auch an einem normativen Gesellschaftsbild. Aus den Inter­ views wird zudem deutlich, dass sich die Unterstützungsleistungen der Anerkennungsberatung nicht nur direkt auf die betroffenen Personen als Klient_innen beziehen, sondern auch an weitere Akteur_innen wie Arbeit­ geber_innen bzw. die Öffentl"
+      },
+      {
+        "rank": 4,
+        "id": "5dba5b78cc80a01c0760ebfe01fb5b98df6a9e88fc394937702c797db3a4b0d7",
+        "score": 0.9700289964675903,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6190,
+          "_split_overlap": [
+            {
+              "doc_id": "45c8ddc331b9d43876d02831437d4c67237824dd8718c0e897849d3b7920c065",
+              "range": [
+                1241,
+                1652
+              ]
+            },
+            {
+              "doc_id": "a308a2bcc83768ee23ec468bc62750386af68074c085e9539b06e4d6623e823c",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "in Bezug auf die Staatsangehörigkeit, Zugangsregelungen zum Arbeitsmarkt und die formale Anerkennung von Qualifikationen deutlich. Die rechtliche Gleich­ behandlung im Sinne der moralischen Anerkennung wird in der Theorie der sozialen Desintegration als Voraussetzung für institutionelle Integration beschrieben. Mit der rechtlichen Anerkennung ist also auch die Partizipa­ tion an wichtigen gesellschaftlichen Teilbereichen wie dem Arbeitsmarkt und dem Bildungssystem verbunden (vgl. Anhut und Heitmeyer 2000). Im Bereich der Anerkennungsberatung umfasst die rechtliche Ebene vor al­ lem die Unterstützung der formal-juristischen Anerkennung im Sinne der Gleichstellung einer im Ausland erworbenen Qualifikation mit dem inländi­ schen Referenzberuf. Aufenthaltsrechtliche Fragen können in der Beratung ebenfalls relevant werden, gehören jedoch nicht zu den »Kernaufgaben« der Anerkennungsberatung (vgl. Bichl 2016a). Der Zugang zu den gesellschaft­ lichen Teilbereichen Bildungssystem und Arbeitsmar"
+      },
+      {
+        "rank": 5,
+        "id": "80dabd9dad3cd889d3baeea7aaaeb127408b04aac6e5e23b99426980d5745585",
+        "score": 0.9311047792434692,
+        "meta": {
+          "file_path": "9783839444856_chapter_07213.txt",
+          "source_id": "dd5f3c266c99cf8991dcbed83f2002a4eba352bcaf4484ede529b7d0b4dc4f6b",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8299,
+          "_split_overlap": [
+            {
+              "doc_id": "55e57a39abc04bfbd22d71fcf48192583d475aa6aafa9c7677167a6530a7a43b",
+              "range": [
+                1187,
+                1604
+              ]
+            },
+            {
+              "doc_id": "b7de2524717f1e83dd526070423400901adb86a60ca104a6ddde17e2c6913ea6",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "Das empirische Material zeigt auch, dass Anerkennungsberatung weitere Aufgaben übernimmt, die sich nicht direkt auf Personen mit im Ausland er­ worbenen Qualifikationen als Klient_innen beziehen. Eine bildungsadäqua­ te berufliche Integration wird zudem mit der Bereitschaft von Akteur_in­ nen auf wirtschaftlicher, politischer und gesellschaftliche Ebene verbunden, im Ausland erworbene Qualifikationen anzuerkennen und wertzuschätzen. »Wichtig ist dann, dass wir jetzt als Zielgruppe der Beratung nicht nur Mi­ grant_innen sehen, sondern auf der anderen Seite auch Arbeitgeber_innen und die politisch Verantwortlichen und auch drunter von denen die zustän­ digen Stellen.« (E/DE, Z. 357-360). Neben der direkten Kontaktaufnahme zu Arbeitgeber_innen wird in den Interviews daher die Netzwerk- und Öffentlichkeitsarbeit hervorgehoben, um eine gesellschaftliche Sensibilisierung für das Thema der Anerkennung im Ausland erworbener Qualifikationen zu erreichen. Eine besonders eindrucksvolle Form der Ö"
+      }
+    ]
+  }
+]

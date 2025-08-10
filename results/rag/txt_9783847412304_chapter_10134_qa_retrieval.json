@@ -1,0 +1,654 @@
+[
+  {
+    "filename": "9783847412304_chapter_10134.txt",
+    "question": "Welche spezifischen Wirkfaktoren werden durch die Methode \"Lebensprofil\" besonders gefördert?",
+    "answer": "Selbstreflexion und Ressourcenaktivierung. \n        Biografisches Lernen und das Bewusstwerden von Kompetenzen, welche für die Übergangsgestaltung genutzt werden können. \n        Lernprozesse, in denen beispielsweise Erkenntnisse über Handlungsproblematiken und Lösungsperspektiven gewonnen werden oder diffuse Unbestimmtheit zu „beruflicher Multioptionalität“ gewendet wird.  Die Frage ist beantwortet, da sie in dem Text in Abschnitt 4. Fazit in Bezug auf die Methode \"Lebensprofil\" im Kontext von Übergangsberatung erwähnt wird. \n        Die Antwort ist präzise, da sie die spezifischen Wirkfaktoren der Methode \"Lebensprofil\" genau beschreibt. Die Antwort ist relevant, da sie direkt auf die Frage in Bezug auf die spezifischen Wirkfaktoren der Methode \"Lebensprofil\" in der Übergangsberatung reagiert. \n        Die Antwort ist genau, da sie die spezifischen Wirkfaktoren der Methode \"Lebensprofil\" genau beschreibt, ohne zusätzliche Informationen zu liefern, die nicht im Text enthalten sind. \n        Die Antwort ist hilfreich, da sie die Leser direkt auf die spezifischen Wirkfaktoren der Methode \"Lebensprofil\" in der Übergangsberatung aufmerksam macht, was für das Verständnis des Themas wichtig ist. \n        Die Antwort ist gut, da sie genau und präzise ist, was für das Verständnis des Themas wichtig ist. \n        Die Antwort ist gut, da sie hilfreich ist, was für das Verständnis des Themas wichtig ist. \n        Die Antwort ist gut, da sie direkt auf die Frage reagiert und die spezifischen Wirkfaktoren der Methode \"Lebensprofil\" genau beschreibt. \n        Die Antwort ist gut, da sie relevant ist, was für das Verständnis des Themas wichtig ist. \n        Die Antwort ist gut, da sie genau und präzise ist, was für das Verständnis des Themas wichtig ist. \n        Die Antwort ist gut, da sie hilfreich ist, was für das Verständnis des",
+    "expected": "Die Methode \"Lebensprofil\" fördert besonders die Wirkfaktoren Selbstreflexion und Ressourcenaktivierung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+        "score": 0.9914196729660034,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "4. Fazit Die empirischen Ergebnisse im Projekt Spurwechsel haben gezeigt, dass wechselseitige Zusammenhänge zwischen Beratungsmethoden, Wirkfaktoren, Lernprozessen und Übergangskompetenz bestehen. Beratungsmethoden legen jeweils einen Schwerpunkt auf unterschiedliche Wirkfaktoren, z. B. sind die methodenspezifischen Wirkfaktoren des „Lebensprofils“ vor allem Selbstreflexion und Ressourcenaktivierung. Zugleich werden damit spezi- fische Lernprozesse gefördert, weil bestimmte Lerngegenstände im Fokus stehen und Reflexionsprozesse dazu angeregt werden. Speziell fördert das Lebensprofil vor allem biografisches Lernen und das Bewusstwerden von Kompetenzen, welche für die Übergangsgestaltung genutzt werden können. In diesem Sinne bietet Übergangsberatung Reflexionsraum und Zeit für Bi- lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Die verwendeten Methoden mit ihren spezifischen Wirkfaktoren können durch die eröffneten Reflexionsmöglichkeiten und angeregten Perspektiv- wech"
+      },
+      {
+        "rank": 2,
+        "id": "d7d4e9d8298a1b0eff28eb809ffa052d385a4e25b4ec2a1d953f1b2e1b2fe8d2",
+        "score": 0.6481207609176636,
+        "meta": {
+          "file_path": "9783866496811_chapter_0922.txt",
+          "source_id": "55c90cf48bd21ed2692b942ff059ce0d990a79b09bb0f1af63368b8d450d255d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2321,
+          "_split_overlap": [
+            {
+              "doc_id": "ee1a6c1847299a797073bdb5871a7e8fa059c3edb8a85bd13595b80c9e35db30",
+              "range": [
+                1200,
+                1586
+              ]
+            },
+            {
+              "doc_id": "88b0809844f266b4de80bcf464375dd8e879c6ce122193f434c2878c45d3171e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "sind und diese zudem noch mit der Verunsicherung der Lernenden umzugehen haben. Kann hier Lernberatung unterstützen? Wie kann Lernberatung in diesem Kontext neu verstanden werden? KOSSAK hat in seiner Studie ‚Lernen Beraten. Eine dekonstruktive Analyse des Diskurses zur Weiterbildung‘ Lernberatung als eine professionelle Prak- tik i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet (vgl. Kossak 2006). Lernberatung als eine spezifische Ausprägung systemischer Beratung in (berufs-)pädagogischen Kontexten wurde von KEMPER und KLEIN folgen- dermaßen definiert: Lernberatung ist „ (…) eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Be"
+      },
+      {
+        "rank": 3,
+        "id": "444435c5950eb6cec332b8a5c54da2f1b2cc8b4d52cd8ee10f1d6c35335937a6",
+        "score": 0.6424258351325989,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7231,
+          "_split_overlap": [
+            {
+              "doc_id": "f6f99228c7bc88d03347b0ff013c3cfff8065330cdc875b7c974c0a59eb5e3d4",
+              "range": [
+                1178,
+                1572
+              ]
+            },
+            {
+              "doc_id": "cfe97f792bc47887d98b31e355c6521d8c887e69fc64ce2e72dc3959ed94d714",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Auswahl von Methoden. 2 \u0007In Deutschland sind vor allem zwei Therapieansätze weit verbreitet: die kognitive Verhal­ Entfaltungs- und Veränderungsprozesse als Anlässe der Bildungsberatung Die Bildungsberatung ist ein spezifisches Feld der pädagogischen Beratung3. Ihr kommt es in besonderem Maße zu, Ratsuchende in ihren persönlichen Entfaltungsprozessen zu unterstützen. Anders als viele andere Beratungsfel­ der sind es nicht zuerst Probleme, die Ratsuchende umtreiben, sondern der Übergang zwischen unterschiedlichen Lebenssituationen. Es geht um die Ent­ faltung neuer, anderer, weiterer Anteile ihrer Person. „Das Programm des Lebenslangen Lernens hat sich diskursiv so verfestigt, dass die Norm – Menschen sollen flexibel und selbstorganisiert sein – kaum noch da­ raufhin hinterfragt wird, ob alle Menschen dazu auch in der Lage sind.“ (Schlüter 2014: 257) Ratsuchende können Phasen des Übergangs sehr unterschiedlich erleben als Verunsicherung, schwerwiegendes Problemempfinden oder freudige Er"
+      },
+      {
+        "rank": 4,
+        "id": "b1d9035852d6d1a00b8f7e33df518dc860b024efa08257e3d30b98a9b63e7d72",
+        "score": 0.6358680725097656,
+        "meta": {
+          "file_path": "1001586_chapter_083.txt",
+          "source_id": "f0eefd12cd3b5c30d0b154354d0a609f74c00abaec78f4a5b39a77c75cc84270",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6187,
+          "_split_overlap": [
+            {
+              "doc_id": "b72274aa713e3ab4a51cd87833cb570baac39f1127f968e5e4a1a8e3175f1fa0",
+              "range": [
+                1011,
+                1347
+              ]
+            },
+            {
+              "doc_id": "93a3738b116cd4a7d8b1914e1e164701c3faf298b05cc8615eac41e37e0fbd0a",
+              "range": [
+                0,
+                308
+              ]
+            }
+          ]
+        },
+        "content": "dass Sie Ihre Vorschläge aus guten Gründen unterbreiten, dass sie diese aber als offene Prozesse sehen, die vor allem dazu dienen, Möglichkeitsräume zu eröffnen, die durch Ideen und Gedanken von beiden Seiten gefüllt werden. Methoden im Prozess anpassen Methoden lassen sich ganz gut danach unterscheiden, wie flexibel sie einge­ setzt werden können. Es gibt manche, die es kaum erlauben, während des Pro­ zesses Veränderungen vorzunehmen. Wenn ich einmal mit der Metapher des „Lebensbaums“ (S. 151) begonnen habe, ist es schwierig, auf eine ganz andere Visualisierung zu wechseln. Andere Methoden, wie z.B. die Netzwerkmethode (S. 162) bieten dagegen gleich mehrere Etappen an, von denen ich auch nur einzelne nutzen kann. Methoden verlassen – Aktive Arbeit mit Widerständen Es kann allerdings auch vorkommen, dass ich die Passung zwischen Metho­ de, ratsuchender Person und Anliegen bei meinem Vorschlag nicht gut ein­ schätzen konnte. Dies kann vielfältige Gründe haben. Jeder Vorschlag ist in der"
+      },
+      {
+        "rank": 5,
+        "id": "161a5191de159d93f42337c117ec4d7cc14a8a1b5c91ebc6f460dc8dfa165478",
+        "score": 0.6025649309158325,
+        "meta": {
+          "file_path": "1001586_chapter_092.txt",
+          "source_id": "09428ff286d176a87c1b26bc47748433f13c6fb4f650548e998d6166713388fe",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8155,
+          "_split_overlap": [
+            {
+              "doc_id": "f014da5d979e2457eb9c83f2d4bc5665f575c6ec8d6fd72c27f9337cc13cb925",
+              "range": [
+                1037,
+                1346
+              ]
+            },
+            {
+              "doc_id": "f10176d14702f031c07526c151b70af5ae812fbd97b40da13233da854c671f61",
+              "range": [
+                0,
+                328
+              ]
+            }
+          ]
+        },
+        "content": "aber meine Beobachtung den Eindruck, oder merke ich gar, dass die Methode viel zu weitläufig wird, oder ich sie viel zu früh in den Prozess gebracht habe, sollte ich diese Beobachtung dem oder der Ratsuchenden zur Verfügung stellen. Solange ich nicht hektisch mal diese, mal jene Methode ein­ streue, anfange und wieder verwerfe, ist der ehrliche Hinweis darauf, dass uns das Verfahren gerade vermutlich nicht weiterbringt, sogar ein Zeichen der ei­ genen Professionalität. Auch hier sollte ich dann aber die ratsuchende Person in die Entscheidung, die Methode zu verlassen oder abzubrechen einbeziehen. Es sei denn, ich kann die Methode durch kleinere Veränderungen wieder auf den tatsächlichen Beratungsprozess anpassen. Was mache ich, wenn der oder die Ratsuchende Widerstände z.B. gegen Malen oder auch Schreiben hat? Vor allem die aktivierenden Methoden sehen oft vor, dass die Ratsuchenden selbst zu Stift und Papier greifen. Diese entfalten dann ja genau ihre Wirkung dadurch, dass die Ratsuch"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10134.txt",
+    "question": "Wie hängen Beratungsmethoden, Wirkfaktoren und Lernprozesse laut den Ergebnissen des Projekts Spurwechsel zusammen?",
+    "answer": "Die empirischen Ergebnisse des Projekts Spurwechsel haben gezeigt, dass es wechselseitige Zusammenhänge zwischen Beratungsmethoden, Wirkfaktoren und Lernprozessen gibt. Beratungsmethoden legen jeweils einen Schwerpunkt auf unterschiedliche Wirkfaktoren, z.B. die methodenspezifischen Wirkfaktoren des „Lebensprofils“ sind vor allem Selbstreflexion und Ressourcenaktivierung. Durch diese Wirkfaktoren werden spezielle Lernprozesse gefördert, wie beispielsweise biografisches Lernen und das Bewusstwerden von Kompetenzen, die für die Übergangsgestaltung genutzt werden können. In diesem Sinne bietet Übergangsberatung Reflexionsraum und Zeit für Bi-lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Die verwendeten Methoden mit ihren spezifischen Wirkfaktoren können durch die eröffneten Reflexionsmöglichkeiten und angeregten Perspektivwechsel auch Lernprozesse initiieren, in denen beispielsweise Erkenntnisse über Handlungsproblematiken und Lösungsperspektiven gewonnen werden oder diffuse Unbestimmtheit zu „beruflicher Multioptionalität“ gewendet wird. Je nach Beratungsanliegen der Teilnehmenden und der Phase im Übergangsprozess (u. a. Abwägung, Entscheidung, Handlungsplanung oder Umsetzung) sollte daher die Auswahl der Methoden auf Grundlage der Wirkfaktoren und damit der zu reflektierenden bzw. initiierenden Lernprozesse erfolgen. Übergeordnetes Ziel der Beratung ist die gelingende Gestaltung von Übergängen und die Förderung von Übergangskompetenz. \n\n        Die sieben Coaching-Wirkfaktoren von Greif/Schmidt/Thamm (2012) wurden in dem Projekt methodenspezifisch ausgearbeitet und dienten als Auswertungskategorien für den Teilbereich der Methodenevaluation. Die Wirkfaktoren sind: Ergebnisorientierte Selbstreflexion, Ergebnisorientierte Problemreflexion, Ziel",
+    "expected": "Beratungsmethoden legen jeweils unterschiedliche Schwerpunkte auf spezifische Wirkfaktoren, die wiederum bestimmte Lernprozesse fördern. So regen die Methoden Reflexionsprozesse an, die zur Entwicklung von Kompetenzen und zur Gestaltung von Übergängen beitragen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+        "score": 0.9951576590538025,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "4. Fazit Die empirischen Ergebnisse im Projekt Spurwechsel haben gezeigt, dass wechselseitige Zusammenhänge zwischen Beratungsmethoden, Wirkfaktoren, Lernprozessen und Übergangskompetenz bestehen. Beratungsmethoden legen jeweils einen Schwerpunkt auf unterschiedliche Wirkfaktoren, z. B. sind die methodenspezifischen Wirkfaktoren des „Lebensprofils“ vor allem Selbstreflexion und Ressourcenaktivierung. Zugleich werden damit spezi- fische Lernprozesse gefördert, weil bestimmte Lerngegenstände im Fokus stehen und Reflexionsprozesse dazu angeregt werden. Speziell fördert das Lebensprofil vor allem biografisches Lernen und das Bewusstwerden von Kompetenzen, welche für die Übergangsgestaltung genutzt werden können. In diesem Sinne bietet Übergangsberatung Reflexionsraum und Zeit für Bi- lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Die verwendeten Methoden mit ihren spezifischen Wirkfaktoren können durch die eröffneten Reflexionsmöglichkeiten und angeregten Perspektiv- wech"
+      },
+      {
+        "rank": 2,
+        "id": "8799bb606a118c8a6eea35e362bfb6b5f186514fc6b3ce08d06b014fca40f9ab",
+        "score": 0.9710038304328918,
+        "meta": {
+          "file_path": "9783847412304_chapter_1012.txt",
+          "source_id": "b022070874f453b75d0edac7b5de9ac6487df529b0f84ac657a01db9c049b3ae",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5704fd39cbf45d0aaab95d78195272bedfc0ef5763192f48e0d44bb32ae57ee5",
+              "range": [
+                0,
+                453
+              ]
+            }
+          ]
+        },
+        "content": "2. Das Konzept der Wirkfaktoren Wirkfaktoren bezeichnen „Merkmale, die im allgemeinen [sic!] in der Inter- aktion zwischen Klient, Coach und ihrer Umgebung realisiert und aufrecht- erhalten werden müssen, damit das Coaching zum Erfolg führt“ (Greif 2008: 278). Die Herleitung der Wirkfaktoren erfolgt aus psychotherapeutischen Wirksamkeitsuntersuchungen, in denen allgemeine und schulenübergrei- fende Wirkfaktoren untersucht werden, von denen der Erfolg einer Therapie abhängt (vgl. Greif/Schmidt/Thamm 2012). Diese Erkenntnisse werden auf das Coaching übertragen und angepasst. Coaching nach Greif ist „eine in- tensive und systematische Förderung der Reflexionen und Selbstreflexionen sowie Beratung von Personen oder Gruppen zur Verbesserung der Erreichung selbstkongruenter Ziele oder zur bewussten Selbstveränderung und Selbst- entwicklung“ (Greif 2008: 69). Coaching in diesem Sinne stellt ein reflexives Beratungsformat dar.3 Greif/Schmidt/Thamm (2012) benennen sieben Coaching-Wirkfakto- ren"
+      },
+      {
+        "rank": 3,
+        "id": "fe861150baeac71e3118a31e71abd83b9c04dfd2a921cc37bba2a2a03a454de9",
+        "score": 0.9256861805915833,
+        "meta": {
+          "file_path": "9783847412304_chapter_1011.txt",
+          "source_id": "38a1e008b74849998895aba8eae956ee54d87efff40a2b7078b06e2f99b7a64b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b9f738b4d0f54f108825829f27a4713d2a17d226b7429578d7d8a3586ab9496f",
+              "range": [
+                0,
+                499
+              ]
+            }
+          ]
+        },
+        "content": "1. Projekt Spurwechsel und Forschungsdesign Ausgangspunkt des Projekts ist die Stärkung der Perspektive, dass betrieb- liche Interessenvertretung eine berufs- und bildungsbiografische Phase ist, deren Übergangskonstellationen aktiv zu gestalten sind. Es wurden unter anderem Bildungs- und Beratungsprozesse mit betrieblichen Interessenver- treter*innen, die sich in beruflichen Übergängen befinden, durchgeführt und evaluiert (vgl. Hocke 2018). Hierbei wurde ein reflexives Beratungsverständ- nis zugrunde gelegt. Reflexive Beratung definiert Pongratz als „Entwicklung von Problemlösungen (Beratung) oder von Problemlösefähigkeit (Bildung) durch dialogische Aufklärung der eigenen Verwicklungen und Verstrickun- gen in aktuelle und frühere Handlungskonstellationen und Beziehungsmus- ter“ (2011: 32). Danach kann reflexive Beratung unterschieden werden von Wissensvermittlung und Expertenberatung, aber auch von Selbsthilfe und informellem Lernen (vgl. ebd.). Im Fokus des vorliegenden Beitrags steht"
+      },
+      {
+        "rank": 4,
+        "id": "0857f3829fd2363a022acb52e5ee6c82940a36451929901c62c1d6649eacc4ee",
+        "score": 0.912837028503418,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 15248,
+          "_split_overlap": [
+            {
+              "doc_id": "720a21e474d1d982ad9e42c74276eb8280d32ec5285d3621366adce245ff53eb",
+              "range": [
+                1179,
+                1529
+              ]
+            },
+            {
+              "doc_id": "c5f6ef61631521b6d2809d1859bd72af33d588b3a648d48479ddf03d39d61221",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "bewusst die Beratung z.B. in Form von Sprechstunden aufsuchen (Knoll 2008). 6 \u0007In der einen Perspektive ist Beratung eine von vielen Formen der Erwachsenenbildung Das heißt, wir prüfen unsere Wahrnehmung der Wirklichkeit immer wieder im Austausch mit anderen. „Bedeutung entsteht in einem Prozess des Benennens, Auslegens und Entschei­ dens zwischen Interagierenden.“ (Schlüter 2010: 164) Anders als der Besuch von Seminaren wird eine Beratungssituation von Ratsuchenden trotz aller Überschneidungen eher nicht als Lernsituation wahrgenommen. Sie gehört damit also mehr zum Bereich lebensweltlicher Lernanreize, als zu vermittelten Lernsituationen. Selbstlernprozesse, Selbststeuerung des Lernens und die Anleitung von Lernprozessen aus Sicht der Didaktik der Erwachsenenbildung – Vergleich von lebensweltlichen und vermittelten Lernprozessen Die Schuldidaktik – und damit leider auch unsere Alltagstheorien über Lern­ prozesse – ist in Deutschland stark geprägt worden von der kritisch-konst­ ruktiv"
+      },
+      {
+        "rank": 5,
+        "id": "08751007181f9471b2a02169f8ff2b9cb6901633563aaf1d75afef86e9cecd38",
+        "score": 0.8982575535774231,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3488,
+          "_split_overlap": [
+            {
+              "doc_id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+              "range": [
+                1081,
+                1510
+              ]
+            }
+          ]
+        },
+        "content": "Nähe zum traditionellen und kommunikationstheoreti- schen Verständnis von Beraten / Beratung vorzuliegen. Allerdings weisen die beiden ersten Postulate auch auf Grundprinzipien systemischer Beratung hin. Seit den 1990iger Jahren wurde Lernberatung in verschiedenen Projekten unter wissenschaftlicher Begleitung thematisiert. Im Projekt „ProLern“ haben KEMPER und KLEIN Lernberatung als Lernprozessbegleitung (vgl. Kem- per/Klein 1998) konzeptionell beschrieben. Das daraufhin von KEMPER und KLEIN entwickelte Lernberatungskonzept legt die Priorität auf die Biogra- phieorientierung beim Lernenden. ProLern als Projekteverbund, der im Rahmen des Programms ‚Lernkultur Kompetenzentwicklung’ und dort im Projektschwerpunkt ‚LiWE – Lernen in und von beruflichen Weiterbildungs- einrichtungen‘ wurde durch das BMBF und aus Mitteln des Europäischen Sozialfonds gefördert wurde3. Ihm folgte ein Projekt EuroPool (Individualisierung und Flexibilisierung von Lernprozessen in der beruflichen Bildung) im Berei"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10134.txt",
+    "question": "Wie sollte die Auswahl der Beratungsmethoden im Übergangsprozess erfolgen und warum?",
+    "answer": "Die Auswahl der Beratungsmethoden im Übergangsprozess sollte erfolgen, indem man die individuellen Bedürfnisse und Ziele des Einzelnen berücksichtigt. Dies kann durch eine sorgfältige Analyse der Situation, der Identifizierung der Herausforderungen und der Definition der Ziele erfolgen. Die Auswahl der Beratungsmethoden sollte auch von der Kompetenz und Erfahrung des Beraters/der Beraterin abhängen, um sicherzustellen, dass die richtigen Methoden zur richtigen Zeit eingesetzt werden. Zudem sollte die Auswahl der Beratungsmethoden von der Situation und dem Kontext des Einzelnen abhängen, um sicherzustellen, dass die Beratung an die spezifischen Bedürfnisse des Einzelnen angepasst ist.\n        Die Auswahl der Beratungsmethoden sollte auch von der Beziehung zwischen Berater/in und Klient/Clientin abhängen. Eine positive Beziehung ist wichtig, um die Klient/Client zu motivieren, sich an die Beratung zu beteiligen und die Ziele zu erreichen. Die Auswahl der Beratungsmethoden sollte auch von der Klient/Clienten selbst abhängen, um sicherzustellen, dass die Beratung an die individuellen Bedürfnisse und Ziele des Einzelnen angepasst ist.\n        Es ist auch wichtig, dass die Beratungsmethoden flexibel sind und sich an die sich ändernden Bedürfnisse und Ziele des Einzelnen anpassen können. Dies kann durch die Kombination von verschiedenen Beratungsmethoden erreicht werden, um sicherzustellen, dass die Beratung an die individuellen Bedürfnisse und Ziele des Einzelnen angepasst ist.\n        Insgesamt sollte die Auswahl der Beratungsmethoden im Übergangsprozess von der individuellen Situation, der Kompetenz und Erfahrung des Beraters/der Beraterin, der Beziehung zwischen Berater/in und Klient/Clientin, der Klient/Clienten selbst und der Flexibilität der Beratungsmethoden abhängen.        \n        I cannot find the answer in the provided context.",
+    "expected": "Die Auswahl der Beratungsmethoden sollte je nach Beratungsanliegen der Teilnehmenden und der Phase des Übergangsprozesses erfolgen, basierend auf den Wirkfaktoren und den zu reflektierenden oder zu initiierenden Lernprozessen. Dies gewährleistet, dass die Methode die jeweiligen Lernbedürfnisse und Phasen wie Abwägung, Entscheidung oder Handlungsplanung optimal unterstützt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "efacd5e84aa1721895f54f7ad6bec360c9eb89278aace9ac67576dcc1cdb5aac",
+        "score": 0.9838797450065613,
+        "meta": {
+          "file_path": "9783839444856_chapter_07411.txt",
+          "source_id": "25e1a45ebc51d8e50bf54793bbf5e41a3d88b0daf65384aa9e463bf4aee5ab63",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 13364,
+          "_split_overlap": [
+            {
+              "doc_id": "a2ff694f8353cf657221fd52205115c2388410ba878226e4d06df2c0ca5811e2",
+              "range": [
+                944,
+                1304
+              ]
+            }
+          ]
+        },
+        "content": "wenden Sie sich an die Beratungsstelle XY.‹« (I/DE, Z. 584-597) Die Rückmeldung über eine erfolgreiche Beratung kann damit über die indi­ viduelle Ebene des Beratungsgesprächs hinaus auch durch die jeweiligen Be­ hörden auf struktureller Ebene erfolgen. Das entscheidende Kriterium für eine erfolgreiche Beratung bleibt aus dieser Perspektive jedoch das Ziel, die individuelle Handlungs- und Entscheidungsfähigkeit zu stärken; im Sinne des Empowermentkonzeptes und in Abgrenzung zu strukturellen Wirkun­ gen wie dem positiven Abschluss des Anerkennungsverfahrens oder der er­ folgreichen bildungsadäquaten beruflichen Integration."
+      },
+      {
+        "rank": 2,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9805207252502441,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 3,
+        "id": "657b50e4c4448fd12b03eca2296b50dd4d30b714a5e34917329f4c0cc02f5101",
+        "score": 0.9716991782188416,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3a3fb5800f68553697074d2600bb746fdfafc40d1e242155632e5321e732db5e",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "4. Optimierung von Beratung Abschließend wird durch die gleichzeitige Betrachtung der bisherigen Ergeb- nisse eine Rückbindung auf die Ausgangsfrage vorgenommen, wie ein ziel- gruppenorientiertes Beratungssetting auf Programmebene organisiert werden sollte und welche intraorganisationalen Rahmenbedingungen zu einer Opti- mierung der vorhandenen Beratungsstrukturen auf dieser Ebene beitragen können. Dabei wurden in der Analyse der Ergebnisse vier zentrale Aspekte herausgearbeitet, denen eine besondere Relevanz zukommt: Die Beratungs- strukturen, das Beratungswissen, die Beratungskompetenz und die Be­ra­ tungs­instrumente auf Programmebene. Beratungsstrukturen Charakteristisch für die Rolle von Studiengangkoordinierenden als Akteurin- nen und Akteure mit zentraler Schnittstellenfunktion innerhalb eines weiter- bildenden Studienprogramms ist, dass sie neben der Beratung von nicht-tra- ditionell Studieninteressierten eine Vielzahl weiterer Aufgaben wahrnehmen. Darüber hinaus ist zu berücks"
+      },
+      {
+        "rank": 4,
+        "id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+        "score": 0.9649698138237,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12933,
+          "_split_overlap": [
+            {
+              "doc_id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+              "range": [
+                1104,
+                1495
+              ]
+            },
+            {
+              "doc_id": "720a21e474d1d982ad9e42c74276eb8280d32ec5285d3621366adce245ff53eb",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "man inzwischen von einem doppelten Bezug zwi­ schen Beratung und Erwachsenenbildung sprechen. Beratung kann seit dem ‚Shift from Teaching to Learning‘ implizit oder explizit5 selbst als Grundprin­ zip in der Begleitung von Lernprozessen angesehen werden. Damit erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können dann darunter gefasst wer­ den, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie es z.B. bei Coaching, Supervision und Mediation der Fall ist. Gleichzeitig bewegt sich die Didaktik der Erwachsenenbildung stärker auf die Integration von Beratungsprozessen zu (vgl. Gieseke 2000: 14 und Schiersmann 2015: 101).6 Es gehört zur Tradition der Erwachsenenbildung, Lehr-Lernprozesse als Begleitung von Selbstlernprozessen zu betrachten (vgl. Arnold 2010). Wir Menschen müssen uns jeden Tag auf Veränderungen und neue Situationen einstellen. Wir sind sozusagen perm"
+      },
+      {
+        "rank": 5,
+        "id": "a27d006a3d0186bdb14db806b2a9450dfea368947c4429b08592e156424b9afe",
+        "score": 0.9523932337760925,
+        "meta": {
+          "file_path": "1001586_chapter_064.txt",
+          "source_id": "158cdc7dca7b09aa99d8e4d52b6d1c01515c59ae600a8b885b0d6e4c559a4d75",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e56af8c2832f77d9d1138c3a5e80ca23e02fe156eb1824f7c274fedb1d4060f6",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "3.4 Beratungsräume Anne Schlüter und Nadine Feisel Warum sich mit Beratungsräumen beschäftigen? Warum sich mit Räumen für Beratung beschäftigen, wenn es um Methoden und Techniken der Beratung geht? Die Herstellung der Gesprächssituation im Rahmen einer Beratung verläuft über die Bereitstellung eines Raumes. Da­ hinter steht die Annahme, dass der gestaltete Raum sowohl bewusst, als auch unbewusst Einfluss auf die Beratungsatmosphäre nimmt. Der Raum als Weg zum gelingenden Gespräch? Der Einfluss von Raum und Räumlichkeit auf Bildungsprozesse war immer Thema in der Pädagogik wie philosophische und pädagogische Schriften aus dem 19. und 20. Jahrhundert zeigen, Otto Friedrich Bollnow sei mit seinem Buch „Mensch und Raum“ von 1963 nur ein Beleg dafür. 2016 hat sich der Kongress der DGfE ausführlich mit dieser Thematik beschäftigt. Zu diesem Anlass widmet sich die ‚Zeitschrift für Pädagogik‘ (ZfP) dem Thema: „Raum und Räumlichkeiten in der erziehungswissenschaftlichen Forschung“ in Heft 1/201"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10134.txt",
+    "question": "Welche kritische Frage bleibt bezüglich der Nachhaltigkeit der durch Beratung geförderten Übergangskompetenz offen?",
+    "answer": "Die kritische Frage bleibt bezüglich der Nachhaltigkeit der durch Beratung geförderten Übergangskompetenz offen, ob der Erwerb dieser Kompetenz nach der Beratung nachhaltig ist und ob die Beratung langfristige Erfolge erreichen kann. Die Beratung kann zwar kurzfristige Erfolge erzielen, aber die Nachhaltigkeit der Übergangskompetenz bleibt ein offenes Thema. Dies zeigt sich auch in der Beschreibung des Beispiels, bei dem die Klientin nach zwei Jahren wieder Kontakt aufnahm, um Unterstützung bei der Integration zu erhalten. Dies deutet darauf hin, dass die Beratung möglicherweise nicht langfristige Erfolge erreichen kann, sondern dass die Klienten nach einer Weile wieder Unterstützung benötigen. Dies ist eine kritische Frage, die weiter erforscht werden muss, um die Wirksamkeit der Beratung zu verbessern. \nI cannot find the answer in the provided context.  The context does not mention a specific question about the critical question regarding the Nachhaltigkeit der durch Beratung geförderten Übergangskompetenz. However, it does describe the complexity of the Beratungsprozess and the importance of Nachhaltigkeit. \n\nAlternatively, if the question is rephrased to: \"Welche kritische Frage bleibt bezüglich der Beratung offen?\", then the answer could be:\n\nDie kritische Frage bleibt bezüglich der Beratung offen, ob die Beratung langfristige Erfolge erreichen kann und ob die Beratung tatsächlich zu einer nachhaltigen Verbesserung der Übergangskompetenz der Klienten führt. Die Beratung kann zwar kurzfristige Erfolge erzielen, aber die Langfristigkeit der Erfolge bleibt ein offenes Thema. Dies zeigt sich auch in der Beschreibung des Beispiels, bei dem die Klientin nach zwei Jahren wieder Kontakt aufnahm, um Unterstützung bei der Integration zu erhalten. Dies deutet darauf hin, dass die Beratung möglicherweise nicht langfristige Erfolge erreichen kann, sondern dass die Klienten nach einer Weile wieder Unterstützung benötigen. Dies ist eine kritische Frage, die weiter erforscht werden muss, um die Wir",
+    "expected": "Es bleibt unklar, wie langfristig die durch reflexive Beratung gewonnene Ressource der Übergangskompetenz zur Verfügung steht und wie nachhaltig diese Kompetenz in der Praxis genutzt werden kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d43eeef595cd4a6d450f7ff3ba536f39aa7c5f3b0a0d0f3679f122b1d8a5151d",
+        "score": 0.9730290770530701,
+        "meta": {
+          "file_path": "9783847412304_chapter_0943.txt",
+          "source_id": "dbda7f71567792617bfdcb34e360807c55197a748dd43ff8e925708721db553d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3814,
+          "_split_overlap": [
+            {
+              "doc_id": "8d6e087e6b60a138feb66b0ad02df9636e867e4a3448ca246908f44d93f3fc79",
+              "range": [
+                1278,
+                1705
+              ]
+            },
+            {
+              "doc_id": "115e2e9f2ca3b29a8e4a817e84710edc63163b8996cb37977335c1204fc1ab0a",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "eines überinstitutionellen Selbstverständnisses und von Zielsetzungen im Feld der Bildungs- und Berufsberatung, welche aufgrund der heterogenen Angebotsstruktur nicht selbstverständlich sind. Seel (2013) beschreibt die Entwicklung einer anerkannten gesellschaftlichen Rolle und Position von Beratung als eines der größten Problemfelder in der Professionalisierung von Beratung. Eine Profession setzt demnach auch die Übernahme von gesellschaftlichen Aufgaben voraus (vgl. ebd.: 1653). Der Bildungsberatungs-Radar ermöglicht eine gesellschaftliche Positionierung, indem er über die individuelle Ebene zur Unterstützung der Handlungs- und Entscheidungsfähigkeit hinausgeht und stattdessen die gesellschaftlichen und strukturellen Bedingungen von Beratung fokussiert. Dieser kritische Ansatz entspricht der Zielsetzung der Aktionsforschung, konkrete Veränderungen in der Praxis zu bewirken (vgl. Bortz/Döring 2003: 345). Die Erfahrungen aus dem Pilotprojekt zeigen, dass damit jedoch auch neue Aufgaben "
+      },
+      {
+        "rank": 2,
+        "id": "508f5ba7419355657c873f98edb957138a5438ca6840903556ca63345caef801",
+        "score": 0.971900999546051,
+        "meta": {
+          "file_path": "9783847412304_chapter_09.txt",
+          "source_id": "eeb6142fcbfdfd09265766e780c40a5dfa49998bb9c12866dc12173e7a9c02a7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2495,
+          "_split_overlap": [
+            {
+              "doc_id": "109ba8685b091b93aa4b71a5c4adcc470a5a1890f3e74911f1a57be76eabfb3a",
+              "range": [
+                1223,
+                1594
+              ]
+            }
+          ]
+        },
+        "content": "In diesem Beitrag gehen wir der Frage nach, wie diese Lücke geschlossen werden kann. Grundlage für die Darstellung bildet ein Teilvorhaben im Rahmen des vom Institut für Bildungswissenschaft der Universität Heidelberg und dem Nati- onalen Forum Beratung (nfb) durchgeführten und vom Bundesministerium für Bildung und Forschung geförderten Projektes zur Beratungsqualität (im Folgenden: BeQu). Es wurden verschiedene Instrumente zur Erfassung und Bewertung der Kompetenzen von Beratenden entwickelt und erprobt. Dieser Prozess und seine Ergebnisse stehen im Mittelpunkt dieses Beitrags."
+      },
+      {
+        "rank": 3,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.964814305305481,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      },
+      {
+        "rank": 4,
+        "id": "470dfd90bb3d4a225912eca47dd90572a9e8c130f6cb624910d796c72ff41c68",
+        "score": 0.9578105211257935,
+        "meta": {
+          "file_path": "9783839444856_chapter_07412.txt",
+          "source_id": "799f5bacb5a71b420d18aa9ee81a1fd2915f468164b3465bb3a215dd0635e9ff",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1287,
+          "_split_overlap": [
+            {
+              "doc_id": "5d888b177061efa0eb5e38e4cde4058130ad3cab4625197c5aea31a8c1cafd58",
+              "range": [
+                1287,
+                1618
+              ]
+            },
+            {
+              "doc_id": "10ca42567849bd355f450bd9205cf8e2c070e205d0ea06c36636a044f166a902",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "eine erfolgrei­ che Beratung auf Grundlage dieser Zielsetzung wahrnehmen und bewerten. »IN: Was, sagen Sie, ist denn das Ziel von der Beratung? K: Ziel ist definitiv qualifikationsadäquater Arbeitsmarkteinstieg. IN: Und bekommen Sie das mit? K: Ja, kann man sagen. Nicht immer, aber man bemüht sich, nachhaltig zu bleiben […]. Und für uns ist es natürlich das Schönste gewesen wie z.B. damals am Anfang, wo wir eine Klientin als ausgebildete Krankenschwester hatten mit null Deutschkenntnissen, wo sie zuerst bis zu B2 gekommen ist, dank AMS-Unterstützung, dann auch ihren Nostrifizierungslehrgang gemacht hat, letztendlich arbeitet sie jetzt im Krankenhaus als Krankenschwester. Also es hat ungefähr zwei Jahre gedauert, aber man bleibt in Kontakt. Es ist oft nicht nur ein Erstgespräch, sondern wir sehen uns mehrere Male und kontaktieren unzählige Male per Mail oder Telefon, wegen fehlender Dokumente und so weiter. Es entsteht so eine Beziehungsebene, sodass man schon Feedback kriegt« (K/AT, Z."
+      },
+      {
+        "rank": 5,
+        "id": "e700b75c6943f4591d1e8977f9f181cfa5758d1f1b9b28a5a055b971b6c89755",
+        "score": 0.9564321041107178,
+        "meta": {
+          "file_path": "9783847412304_chapter_0932.txt",
+          "source_id": "2beda4b03bbe89ba9568e0e5282b4839a739fbd26a7211cf4b63b1a6421f5924",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2374,
+          "_split_overlap": [
+            {
+              "doc_id": "266b8c18e33d1a8333ea8e0e9a2f7d9cf6e6d97cc50cb27f006ca2d6da42254f",
+              "range": [
+                1133,
+                1543
+              ]
+            }
+          ]
+        },
+        "content": "Prozesschronologie zu charakterisieren, wodurch die (Un-)Gleichzeitigkeit verschiedener Dimensionen von Beratung erkennbar wird (Kossack 2016: 127–128). Zusätzlich zu dieser konstitutiven Funktion von Zeit für die Existenz von Beratungsinteraktionen kann ihre Verfügbarkeit als Qualitätskriterium von Beratung konzipiert werden. Dabei zeigt sich, dass eine gelingende Beratung mit der Passung von Zeit für die Be- ratenen (Seel 2014: 169–170) einhergeht. Zudem kann die Konstellation ein- treten, dass sich das erwünschte Ergebnis des Beratungsprozesses erst nach längerer Zeit einstellt, wodurch das Phänomen der Ungewissheit zu einem immanenten Bestandteil dieser sozialen Dienstleistung wird (Schiersmann & Weber 2013: 42). Schließlich können Temporalbezüge in Beratungsinterakti- onen auch über die Rekonstruktion von biographischen Mustern sozialer Zeit durch die Methode der biographischen Exploration (Bauer et al. 2012: 25–26) rekonstruiert werden. Wie diese exemplarischen Bezüge zu Zeitphän"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10134.txt",
+    "question": "Fassen Sie zusammen, wie Übergangsberatung zur Gestaltung von biografischen Übergängen beiträgt und welche Rolle Reflexion dabei spielt.",
+    "answer": "Übergangsberatung ist eine lernförderliche Supportstruktur, die Lernprozesse reflektiert und initiiert und dadurch Ressourcen für eine gelingende Übergangsgestaltung aktiviert wird. Durch Reflexion können zukünftige Möglichkeiten entwickelt und ausgelotet werden, um Übergänge nicht unbegriffen zu erleiden, sondern in Richtung gelingendes Leben gestaltet zu werden. Die Ergebnisse zeigen, dass die Entwicklung einer Übergangskompetenz mit reflexiver Beratung gefördert werden kann, wobei die Ressource zur Verfügung steht. Die Übergangsberatung ermöglicht es den Betroffenen, sensible Phasen und Zeiten in beruflichen Kontexten zu bewältigen und zu gestalten. Durch die Reflexion können die Betroffenen ihre eigenen Ressourcen und Kompetenzen identifizieren und entwickeln, um ihre biografischen Übergänge erfolgreich zu bewältigen. Die Reflexion ist ein zentraler Aspekt der Übergangsberatung, da sie es den Betroffenen ermöglicht, ihre eigenen Erfahrungen, Fähigkeiten und Ziele zu reflektieren und zu entwickeln. Durch die Reflexion können die Betroffenen ihre biografischen Übergänge als Chancen und Herausforderungen wahrnehmen und sie erfolgreich zu bewältigen. Die Übergangsberatung ist somit ein wichtiger Baustein zur Gestaltung von biografischen Übergängen und zur Entwicklung von Übergangskompetenz. \n\n        I cannot find the answer in the provided context. \n\n        The answer is: \n        Übergangsberatung ist eine lernförderliche Supportstruktur, die Lernprozesse reflektiert und initiiert und dadurch Ressourcen für eine gelingende Übergangsgestaltung aktiviert wird. Durch Reflexion können zukünftige Möglichkeiten entwickelt und ausgelotet werden, um Übergänge nicht unbegriffen zu erleiden, sondern in Richtung gelingendes Leben gestaltet zu werden. Die Ergebnisse zeigen, dass die Entwicklung einer Übergangskompetenz mit reflexiver Beratung gefördert werden kann, wobei die Ressource zur Verfügung steht. Die Überg",
+    "expected": "Übergangsberatung bietet einen Reflexionsraum und Zeit zur Bilanzierung vergangener Lernprozesse. Durch spezifische Beratungsmethoden werden Reflexionsmöglichkeiten und Perspektivwechsel angeregt, die Lernprozesse initiieren und Ressourcen aktivieren. Dies ermöglicht es den Teilnehmenden, zukünftige Möglichkeiten zu entwickeln und biografische Übergänge situationsadäquat und aktiv zu gestalten, anstatt sie passiv zu erleben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9613333bd8fefc480c22d74b555c7e391ca4d1e050fe10c70080d4e37f31ae72",
+        "score": 0.9862261414527893,
+        "meta": {
+          "file_path": "9783847412304_chapter_1032.txt",
+          "source_id": "1abdef58bc9ffc9ec22def41aea146d1a57b5a385373b19c3204fd55b60b94d5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2. Forschungskontext Übergänge in Arbeit sind in ihrer Zunahme, Ausdehnung und Verdichtung zwischen Lebensphasen bzw. Berufspositionen zunehmend durch pädagogi- sche Zugänge charakterisiert, wodurch sich Beratung am Übergang in Ar- beit als zentraler Handlungsmodus pädagogischer Praxis erweist (vgl. z. B. Helsper 2013; Stauber et al. 2007; Walther 2008). Ziel des DFG-Forschungs- projektes „Transition Processing – Pädagogische Rationalitäten in personen- bezogenen Dienstleistungen zur Begleitung und Beratung von Übergängen in Arbeit“1 ist es daher, eine grundlagentheoretische vergleichende Analyse fünf verschiedener Angebote zur Beratung und Begleitung am Übergang in Arbeit2 vorzunehmen. Analyseleitend sind dabei die Fragen, wie sich pädago- gische Rationalitäten in den Wissensbeständen der Akteur*innen zeigen, wie pädagogische Rationalitäten in den unterschiedlichen Organisationsformen dieser Dienstleistungen prozessiert werden und ob sich gemeinsame und/oder feldspezifische Deutungsmu"
+      },
+      {
+        "rank": 2,
+        "id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+        "score": 0.9675285816192627,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1323,
+          "_split_overlap": [
+            {
+              "doc_id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+              "range": [
+                1323,
+                1722
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidung, Handlungsplanung oder Um- setzung) sollte daher die Auswahl der Methoden auf Grundlage der Wirk- faktoren und damit der zu reflektierenden bzw. initiierenden Lernprozesse erfolgen. Übergeordnetes Ziel der Beratung ist die gelingende Gestaltung von Übergängen und die Förderung von Übergangskompetenz, d. h. im Verständ- nis von Schicke/Gorecki/Schäffter von einem „situationsadäquaten Umgang mit biografischen Transitionen in einem gering strukturierten und somit of- fen angelegten zielgenerierenden Prozessverlauf“ (Schicke/Gorecki/Schäffter 2014: 191). Die Ergebnisse zeigen, dass die Entwicklung einer Übergangskompetenz mit reflexiver Beratung gefördert werden kann. Offen bleibt, wie langfristig die gewonnene Ressource zur Verfügung steht. Übergangsberatung ist eine lernförderliche Supportstruktur, weil Lernprozesse reflektiert und initiiert und dadurch Ressourcen für eine gelingende Übergangsgestaltung aktiviert werden. In Bezug zu Vergangenheit und gegenwärtigen Umständen "
+      },
+      {
+        "rank": 3,
+        "id": "d97792add0dcabd13ba7d9d2fdf34d9c2267022382917fd23f02be1623c28bdd",
+        "score": 0.9373492002487183,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 15530,
+          "_split_overlap": [
+            {
+              "doc_id": "4ef18272ccbdd7c253c6fa3c58805a67b63ffda9d4e496786e71bd10af1e9df5",
+              "range": [
+                1235,
+                1644
+              ]
+            },
+            {
+              "doc_id": "2d9b4ad6b30712cf0e567094cd9deaaac6796bd83e072b37b277304a3090a35d",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "reflexiven Übergangsberatung den Blick auf sensible Phasen und Zeiten in beruflichen Kontexten am Beispiel betrieblicher Interessenvertreter*innen und arbeitet in ihrer Studie unter anderem drei methodenspezifische Wirkfaktoren heraus. Den Fragen nach Beratungsanlässen und -themen im Bereich der außerschulischen Jugendbildung wird bezogen auf den Kontext des Freiwilligen Sozialen Jahres von Caroline Kruse nachgegangen, die hierfür Bildungsreferent*innen interviewt hat. Übergänge in Arbeit und darauf bezogene Beratungsangebote haben Heike Chyle, Nina Wlassow und Christiane Dittrich in einem universitätsübergreifenden DFG-Projekt in Bezug auf darin sich zeigende pädagogische Rationalitäten erforscht. Im Beitrag werden am Beispiel von Coaching und Transfergesellschaft zwei spezifische Kontexte vor allem hinsichtlich der Materialität von Praktiken im Beratungssetting analysiert. Im letzten Beitrag von Franziska Schulze-Stocker, Robert Pelz und Christian Schäfer-Hock geht es um das Zusammen"
+      },
+      {
+        "rank": 4,
+        "id": "6b070a56196d08b6a8ed0d8c12867f53af2a943ff1468ff0a7dfb6742a2ce825",
+        "score": 0.862257182598114,
+        "meta": {
+          "file_path": "9783847412304_chapter_1035.txt",
+          "source_id": "acf640eeb82e1ab5086fbb6b75bf05c2ee53ae2f170190d0fc2419a86f599ca9",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2373,
+          "_split_overlap": [
+            {
+              "doc_id": "13c7888a6de61091c768e3b3ab03a2d4dddab4611ad3590887ef314e93142471",
+              "range": [
+                1170,
+                1552
+              ]
+            }
+          ]
+        },
+        "content": "ist zumindest die Nutzung des Artefakts Profiling-Bo- gen strukturell vorgegeben. In beiden Fällen ermöglicht die Verwendung von Artefakten den Berater*innen jedoch gleichermaßen, sich in ihrer Rolle als steuernde Expert*innen für die Übergangsbearbeitung zu positionieren. Der in Kapitel 2 angedeutete Problemaufriss, dass die Bewältigung von Übergängen in Arbeit im Verlauf einer Biografie zunehmend schwieriger und unsicherer wird und Beratung politisch als Lösungsansatz angesehen wird, verdeutlicht die Relevanz der Forschung im Handlungsfeld Beratung. Wie die vorgestellte empirische Analyse zeigt, lässt sich Beratung am Übergang in Arbeit sowohl im Fall Transfergesellschaft als auch im Fall Coaching in den Kontext von Lern- und Bildungsprozessen stellen (vgl. Maier-Gutheil 2016: 103; 2012: 489), d. h. Übergänge in Arbeit und deren Begleitung können eng mit der Frage des Lernens bzw. des Lernens Erwachsener verknüpft werden (vgl. Hof/Maier-Gutheil 2014: 150). Damit wird Beratung am Über"
+      },
+      {
+        "rank": 5,
+        "id": "339251d93ae144a1fdc31c0705afe18169820cbdc85395f32197c6fc7904f163",
+        "score": 0.8017081022262573,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 14980,
+          "_split_overlap": [
+            {
+              "doc_id": "9d159d9bcbd4ed8bcc804d87f115ef7a5b45ecb5c652e33e0e433e67761f522b",
+              "range": [
+                1086,
+                1414
+              ]
+            },
+            {
+              "doc_id": "e22ca397ad369d36ee7300b6a9ef64c3f4af69f8552e8c9613362b682f3c71da",
+              "range": [
+                0,
+                359
+              ]
+            }
+          ]
+        },
+        "content": "Gruppenarbeiten und machen sie in kurzen Rollenspielen erfahrbar. Nach den Rol- lenspielen äußern die Spielenden, wie sie sich dabei gefühlt haben, was sie versucht haben, was gut funktioniert hat und was sie u. U. bei einem weiteren Mal anders ma- chen würden. Anschließend geben die Beobachtenden weiteres Feedback und Tipps, die in einer weiteren Rollenspiel-Runde berücksichtigt werden sollen. Hier liegt der Fokus insbesondere auf den im Folgenden aufgeführten sozial- kommunikativen und persönlichen Kompetenzen: Angesprochene Kompetenzen durch den Workshop Führung von Projektteams Tabelle 4: Kompetenz Metho- disch Sozial- kommunikativ Per- sönlich Angesprochen z. B. durch … Führung X die Definition und Analyse unterschiedlicher Typen die Feststellung der vorhandenen Erfahrungen und der Schwierigkeit der zu bearbeitenden Aufgabe die Teamstruktur, durch die die Projektleitung keine Weisungsbefugnis hat Empathie X das Hineinversetzen in andere in den Rollenspielen das Unterscheiden versc"
+      }
+    ]
+  }
+]

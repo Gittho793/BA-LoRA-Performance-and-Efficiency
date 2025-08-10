@@ -1,0 +1,648 @@
+[
+  {
+    "filename": "9783847412304_chapter_0691.txt",
+    "question": "Was versteht man unter einer Selbstlernarchitektur im Kontext der Lernberatung nach Forneck?",
+    "answer": "Eine Selbstlernarchitektur basiert auf vorstrukturierten und miteinander vernetzten Materialien. Inhaltliche Lernmaterialien werden als Lerneinheiten mit metakognitiven Lernpraktiken zur Bearbeitung des Lerngegenstandes verknüpft. Die Lerneinheiten werden durch Verweise miteinander sowie mit expliziten Lernberatungsgesprächen verbunden, bei denen der Gegenstand und die metakognitiven Bearbeitungsstrategien thematisiert werden. In dieser Struktur entstehen individuelle Lernwege, die Lernende selbstgesteuert durchlaufen. Lernberatung wird hier als ein fester Bestandteil einer didaktisch strukturierten Lernumgebung verstanden.",
+    "expected": "Eine Selbstlernarchitektur basiert auf vorstrukturierten und miteinander vernetzten Lernmaterialien, die inhaltliche Lerneinheiten mit metakognitiven Lernpraktiken verknüpfen, sodass Lernende individuelle, selbstgesteuerte Lernwege durchlaufen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+        "score": 0.9872353672981262,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "4.2 Lernberatung im Kontext von Selbstlernarchitekturen Ein zweites Konzept von Lernberatung wurde im Rahmen einer Theorie selbstsorgenden Lernens entwickelt (vgl. Forneck 2005, 2006). In dieser Kon- zeption wird von einer Selbstlernarchitektur ausgegangen, die auf vorstruktu- rierten und miteinander vernetzten Materialien basiert. In der Strukturierung der Selbstlernarchitektur werden inhaltliche Lernmaterialien als Lerneinhei- ten mit metakognitiven Lernpraktiken zur Bearbeitung des Lerngegenstandes verknüpft. Die Lerneinheiten werden durch Verweise miteinander sowie mit expliziten Lernberatungsgesprächen verbunden, bei denen der Gegenstand und die metakognitiven Bearbeitungsstrategien thematisiert werden. Ent- sprechend entstehen in dieser Struktur individuelle Lernwege, die Lernende selbstgesteuert durchlaufen. Lernberatung wird hier verstanden als ein fester Bestandteil einer didaktisch strukturierten Lernumgebung, für die methodi- sche Hintergrundtexte als Hilfestellung für Berat"
+      },
+      {
+        "rank": 2,
+        "id": "d7d4e9d8298a1b0eff28eb809ffa052d385a4e25b4ec2a1d953f1b2e1b2fe8d2",
+        "score": 0.7614140510559082,
+        "meta": {
+          "file_path": "9783866496811_chapter_0922.txt",
+          "source_id": "55c90cf48bd21ed2692b942ff059ce0d990a79b09bb0f1af63368b8d450d255d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2321,
+          "_split_overlap": [
+            {
+              "doc_id": "ee1a6c1847299a797073bdb5871a7e8fa059c3edb8a85bd13595b80c9e35db30",
+              "range": [
+                1200,
+                1586
+              ]
+            },
+            {
+              "doc_id": "88b0809844f266b4de80bcf464375dd8e879c6ce122193f434c2878c45d3171e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "sind und diese zudem noch mit der Verunsicherung der Lernenden umzugehen haben. Kann hier Lernberatung unterstützen? Wie kann Lernberatung in diesem Kontext neu verstanden werden? KOSSAK hat in seiner Studie ‚Lernen Beraten. Eine dekonstruktive Analyse des Diskurses zur Weiterbildung‘ Lernberatung als eine professionelle Prak- tik i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet (vgl. Kossak 2006). Lernberatung als eine spezifische Ausprägung systemischer Beratung in (berufs-)pädagogischen Kontexten wurde von KEMPER und KLEIN folgen- dermaßen definiert: Lernberatung ist „ (…) eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Be"
+      },
+      {
+        "rank": 3,
+        "id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+        "score": 0.6490984559059143,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1326,
+          "_split_overlap": [
+            {
+              "doc_id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+              "range": [
+                1326,
+                1724
+              ]
+            }
+          ]
+        },
+        "content": "konzeptualisiert, die auf die Reflexion des aktuell thematischen Lernprozes- ses abzielt. • Als Themen der Lernberatung werden sachlich Inhalte und Lernstrategi- en konzeptionell in der Konstruktion einer thematischen Selbstlernumge- bung verknüpft und als Gegenstand von Beratung inkludiert. • Sozial werden Lehrende zunächst als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernum- gebung die Rolle der Lernberatung einnehmen. Die Interaktion erfolgt konzeptionell immer entlang eines thematischen Lernprozesses, für den Lernende unterschiedliche Strategien nutzen. Lernende werden hier als individualisierte Lernsubjekte konstruiert. • Zeitlich werden durch die Einbindung in eine Selbstlernumgebung jeweils bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert. In der zeitlichen Sinndimension handelt es sich damit um ein bestimmtes, integriertes Zeitkonzept von Lernberatung."
+      },
+      {
+        "rank": 4,
+        "id": "edb9a5df65d57433a8c8ba2c93c39cd7878f2d40e6c2da0586e3ce9f46383288",
+        "score": 0.6369614601135254,
+        "meta": {
+          "file_path": "9783866496811_chapter_091.txt",
+          "source_id": "aa1fb975f868467481bfe6cde4caf0bd042c90635b3201a8bde5d0c9120efc63",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3952,
+          "_split_overlap": [
+            {
+              "doc_id": "1797058e38c4a96c4a3e97661f3052f8d987c2d0cbbabf73d64f82c35a083cd2",
+              "range": [
+                1263,
+                1634
+              ]
+            }
+          ]
+        },
+        "content": "das ob und wann wir lernen von uns selbst, unserer Befindlichkeit, dem Kontext, der Lernumgebung, der Gruppe, den biographischen und beruflichen Verwen- dungssituationen abhängig ist. (vgl. Siebert 2003: 18). Wenn gleich GIESECKE als Erziehungswissenschaftler bereits 1987 ‚Bera- ten‘ als Grundform pädagogischen Handelns beschrieb, blieb lange Zeit offen, wo denn diese Handlungsform in oder neben den unterrichtlichen Prozessen platziert sein könnte. (vgl. Giesecke 2003:87). SIEBERTs reform- pädagogischem Bemühen und dem zielgerichteten Verfolgen der Idee des selbstgesteuerten Lernens verdanken wir die Fortsetzung der implementie- renden Idee von Beratung im unterrichtlichen Lernen, dem Lernen in schulischen Kontexten. Auch er beschreibt ein Stufenmodell des Lernens von Beratung, macht Kompetenzen und Verhaltensweisen aus, die es zu trainieren gilt und baut auf den systemisch- konstruktivistischen Grundlagen sein Kon- zept auf (vgl. Siebert 2009: 85ff). Für die Pflegeausbildungen als ein"
+      },
+      {
+        "rank": 5,
+        "id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+        "score": 0.5634669065475464,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2407,
+          "_split_overlap": [
+            {
+              "doc_id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+              "range": [
+                1221,
+                1601
+              ]
+            },
+            {
+              "doc_id": "08751007181f9471b2a02169f8ff2b9cb6901633563aaf1d75afef86e9cecd38",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Postulat der Selbststeuerung - Die Freiwilligkeit der Teilnahme an Lernberatung - Die Transparenz der Beratungsbeziehung - Die offene Kommunikation in der Lernberatung - Die Schematisierung des Lernberatungsgesprächs - Der Status des pädagogischen Objekts in der Lernberatung“ (Kossak 2006:23ff) KOSSAK zeigt auf, dass in der Lernberatung als kommunikativer Situation das Subjekt präsent sein soll bzw. Präsenz erfahren soll. Dies zu erwirken wäre ein Grund für die Schematisierung bzw. Implementierung von Lernbe- ratung. Wenn diese in einem sozialen System wie dem Pflegeausbildungssystem gewollt ist, dann kann durch ihre Integration dem Lernenden diese Präsenz ermöglicht werden und damit Lernen als gewollter und integraler Bestandteil von Organisation erkannt werden. Damit wird (Lern-)Beratung nicht mehr nur als Reaktion auf den erlebten Mangel, die von außen erfahrenen Veränderungen nicht mehr alleine bewältigen zu kön- nen, sondern als sinnstiftende Ressource in sozialen Systemen wahrgen"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0691.txt",
+    "question": "Wie sind Lernberatungsgespräche in die Selbstlernarchitektur integriert und welchen Zweck erfüllen sie?",
+    "answer": "Lernberatungsgespräche werden in der Selbstlernarchitektur durch Verweise miteinander und mit expliziten Lernberatungsgesprächen verbunden, bei denen der Gegenstand und die metakognitiven Bearbeitungsstrategien thematisiert werden. Ziel ist es, individuelle Lernwege zu ermöglichen, die Lernende selbstgesteuert durchlaufen können. Lernberatung wird hier als ein fester Bestandteil einer didaktisch strukturierten Lernumgebung konzeptualisiert, für die methodische Hintergrundtexte als Hilfestellung für Beratende bereitgestellt werden. Die Lernberatungsgespräche sollen die Reflexion des aktuell thematischen Lernprozesses unterstützen und die Lernenden dabei helfen, ihre Lernstrategien und -inhalte zu optimieren.",
+    "expected": "Lernberatungsgespräche sind explizite Verweise innerhalb der Selbstlernarchitektur, in denen sowohl der Lerngegenstand als auch metakognitive Bearbeitungsstrategien thematisiert werden; sie dienen der Reflexion des aktuellen Lernprozesses und unterstützen die Lernenden bei der selbstgesteuerten Bearbeitung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+        "score": 0.9972509741783142,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1326,
+          "_split_overlap": [
+            {
+              "doc_id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+              "range": [
+                1326,
+                1724
+              ]
+            }
+          ]
+        },
+        "content": "konzeptualisiert, die auf die Reflexion des aktuell thematischen Lernprozes- ses abzielt. • Als Themen der Lernberatung werden sachlich Inhalte und Lernstrategi- en konzeptionell in der Konstruktion einer thematischen Selbstlernumge- bung verknüpft und als Gegenstand von Beratung inkludiert. • Sozial werden Lehrende zunächst als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernum- gebung die Rolle der Lernberatung einnehmen. Die Interaktion erfolgt konzeptionell immer entlang eines thematischen Lernprozesses, für den Lernende unterschiedliche Strategien nutzen. Lernende werden hier als individualisierte Lernsubjekte konstruiert. • Zeitlich werden durch die Einbindung in eine Selbstlernumgebung jeweils bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert. In der zeitlichen Sinndimension handelt es sich damit um ein bestimmtes, integriertes Zeitkonzept von Lernberatung."
+      },
+      {
+        "rank": 2,
+        "id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+        "score": 0.9968582391738892,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "4.2 Lernberatung im Kontext von Selbstlernarchitekturen Ein zweites Konzept von Lernberatung wurde im Rahmen einer Theorie selbstsorgenden Lernens entwickelt (vgl. Forneck 2005, 2006). In dieser Kon- zeption wird von einer Selbstlernarchitektur ausgegangen, die auf vorstruktu- rierten und miteinander vernetzten Materialien basiert. In der Strukturierung der Selbstlernarchitektur werden inhaltliche Lernmaterialien als Lerneinhei- ten mit metakognitiven Lernpraktiken zur Bearbeitung des Lerngegenstandes verknüpft. Die Lerneinheiten werden durch Verweise miteinander sowie mit expliziten Lernberatungsgesprächen verbunden, bei denen der Gegenstand und die metakognitiven Bearbeitungsstrategien thematisiert werden. Ent- sprechend entstehen in dieser Struktur individuelle Lernwege, die Lernende selbstgesteuert durchlaufen. Lernberatung wird hier verstanden als ein fester Bestandteil einer didaktisch strukturierten Lernumgebung, für die methodi- sche Hintergrundtexte als Hilfestellung für Berat"
+      },
+      {
+        "rank": 3,
+        "id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+        "score": 0.9903439283370972,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2407,
+          "_split_overlap": [
+            {
+              "doc_id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+              "range": [
+                1221,
+                1601
+              ]
+            },
+            {
+              "doc_id": "08751007181f9471b2a02169f8ff2b9cb6901633563aaf1d75afef86e9cecd38",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Postulat der Selbststeuerung - Die Freiwilligkeit der Teilnahme an Lernberatung - Die Transparenz der Beratungsbeziehung - Die offene Kommunikation in der Lernberatung - Die Schematisierung des Lernberatungsgesprächs - Der Status des pädagogischen Objekts in der Lernberatung“ (Kossak 2006:23ff) KOSSAK zeigt auf, dass in der Lernberatung als kommunikativer Situation das Subjekt präsent sein soll bzw. Präsenz erfahren soll. Dies zu erwirken wäre ein Grund für die Schematisierung bzw. Implementierung von Lernbe- ratung. Wenn diese in einem sozialen System wie dem Pflegeausbildungssystem gewollt ist, dann kann durch ihre Integration dem Lernenden diese Präsenz ermöglicht werden und damit Lernen als gewollter und integraler Bestandteil von Organisation erkannt werden. Damit wird (Lern-)Beratung nicht mehr nur als Reaktion auf den erlebten Mangel, die von außen erfahrenen Veränderungen nicht mehr alleine bewältigen zu kön- nen, sondern als sinnstiftende Ressource in sozialen Systemen wahrgen"
+      },
+      {
+        "rank": 4,
+        "id": "93af921be6ac277adeed69312e8dfe14efb24aca4451c60a01f1c7b7b4507cb5",
+        "score": 0.9900698065757751,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 15281,
+          "_split_overlap": [
+            {
+              "doc_id": "2ed626e4d312676e1a95a307906bdc6adea75130ff55b3c9cbfcc8d6bf2002b6",
+              "range": [
+                1029,
+                1460
+              ]
+            },
+            {
+              "doc_id": "94f96bd1d298cb26b99b6197cedfd134691816d0568af796583817ff630e6063",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "lernunterstützender Interventionen in einer Pflegebildungseinrichtung dar. Schlussfolgerungen: Bei der Lernberatung im beschriebenen Sinn handelt es sich eher um eine domänenspezifische Beratung im Lernen der pflegeberuf- lichen Kompetenzen und der Schwerpunkt liegt eher auf der Entwicklung beruflicher Professionalität sowie der damit verbunden Identitätsbildung. Angebote der systemischen Beratung könnten in Form erweiternder, ergän- zender oder unterstützend-integrativer Angebote für Lernende, Pflegelehrer und Praxisanleiter angeboten werden. Lernberatung in systemischer Weise stellt eine Unterstützung im selbst gesteuerten Lernen dar und fokussiert den Lernenden mit seinen Ressourcen, dessen Selbstlernkompetenz oftmals defi- zitär beschrieben wird. Dies wird vielfach auf biographische Voraussetzungen zurückgeführt. Gespannt kann hier auf die Ergebnisse eines Projektes vom Bildungswerk der Sächsischen Wirtschaft e.V. gewartet werden, in dem die Generierung eines Bildungsangebotes zur "
+      },
+      {
+        "rank": 5,
+        "id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+        "score": 0.9893916845321655,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1186,
+          "_split_overlap": [
+            {
+              "doc_id": "81686c8ce1d781b11b774203bef68f8ad7f88b7987770c0aca2816825bf8bff7",
+              "range": [
+                1186,
+                1587
+              ]
+            },
+            {
+              "doc_id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Im Zusammenhang mit den Lernprozessen von Lernenden wurde die Lernbe- ratung bereits seit den 1970iger Jahren als notwendige Unterstützung angesehen. Lernberatung wird als sinnvolle und hilfreiche Intervention ver- standen, um die unzureichenden Qualifikationen und Kompetenzen der Schulbildung und der beruflichen Erstausbildung zu minimieren. Dies ent- spricht den Erfordernissen eines lebenslangen selbstgesteuerten Lernens, das primär bildungs- und gesellschaftspolitisch motiviert beschrieben und gefor- dert wird. Dieser spezifische Kontext der Lernberatung veränderte sich in den 1990iger Jahren durch die Einflüsse der konstruktivistisch-systemischen Perspektiven. (vgl. Kossak 2006:19ff) In den Beschreibungen zu den Entwicklungen zum Beratungsverständnis wurde deutlich, dass in den Beratungsbegriff sowohl die Traditionen der psychologischen Beratungskonzepte als auch die pädago- gischen Konzepte Einfluss genommen haben. KOSSAK konnte zeigen, dass für Konzepte der Lernberatung hauptsäch"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0691.txt",
+    "question": "In welcher Weise werden Lehrende im Konzept der Selbstlernarchitektur und Lernberatung konzeptionell betrachtet und welche Rolle nehmen sie ein?",
+    "answer": "In der Konzeption der Selbstlernarchitektur und Lernberatung werden Lehrende als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernumgebung die Rolle der Lernberatung einnehmen. Sie werden als verständende Rekonstruierende von Lernproblematiken auftreten, die Bildungsprozesse begleiten und unterstützen. In diesem Konzept wird auch ein Verständnis von Lernenden als Fallgebende vor. Lehrende nehmen also in diesem Konzept die Rolle eines Beraters ein, der die Lernenden bei der Reflexion des aktuell thematischen Lernprozesses unterstützt.  Sie sind nicht nur als Lehrende, sondern auch als Berater tätig und unterstützen die Lernenden bei der Bearbeitung des Lerngegenstandes.",
+    "expected": "Lehrende werden als didaktische Konstrukteure von Selbstlernumgebungen betrachtet, die in der Begleitung der Lernenden die Rolle der Lernberatung übernehmen und die Interaktion entlang eines thematischen Lernprozesses gestalten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+        "score": 0.9982600808143616,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1326,
+          "_split_overlap": [
+            {
+              "doc_id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+              "range": [
+                1326,
+                1724
+              ]
+            }
+          ]
+        },
+        "content": "konzeptualisiert, die auf die Reflexion des aktuell thematischen Lernprozes- ses abzielt. • Als Themen der Lernberatung werden sachlich Inhalte und Lernstrategi- en konzeptionell in der Konstruktion einer thematischen Selbstlernumge- bung verknüpft und als Gegenstand von Beratung inkludiert. • Sozial werden Lehrende zunächst als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernum- gebung die Rolle der Lernberatung einnehmen. Die Interaktion erfolgt konzeptionell immer entlang eines thematischen Lernprozesses, für den Lernende unterschiedliche Strategien nutzen. Lernende werden hier als individualisierte Lernsubjekte konstruiert. • Zeitlich werden durch die Einbindung in eine Selbstlernumgebung jeweils bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert. In der zeitlichen Sinndimension handelt es sich damit um ein bestimmtes, integriertes Zeitkonzept von Lernberatung."
+      },
+      {
+        "rank": 2,
+        "id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+        "score": 0.9970609545707703,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "4.2 Lernberatung im Kontext von Selbstlernarchitekturen Ein zweites Konzept von Lernberatung wurde im Rahmen einer Theorie selbstsorgenden Lernens entwickelt (vgl. Forneck 2005, 2006). In dieser Kon- zeption wird von einer Selbstlernarchitektur ausgegangen, die auf vorstruktu- rierten und miteinander vernetzten Materialien basiert. In der Strukturierung der Selbstlernarchitektur werden inhaltliche Lernmaterialien als Lerneinhei- ten mit metakognitiven Lernpraktiken zur Bearbeitung des Lerngegenstandes verknüpft. Die Lerneinheiten werden durch Verweise miteinander sowie mit expliziten Lernberatungsgesprächen verbunden, bei denen der Gegenstand und die metakognitiven Bearbeitungsstrategien thematisiert werden. Ent- sprechend entstehen in dieser Struktur individuelle Lernwege, die Lernende selbstgesteuert durchlaufen. Lernberatung wird hier verstanden als ein fester Bestandteil einer didaktisch strukturierten Lernumgebung, für die methodi- sche Hintergrundtexte als Hilfestellung für Berat"
+      },
+      {
+        "rank": 3,
+        "id": "457b17924853b07848ee22fa643b66304a3318ef11d3e5c6de3873821407bcfc",
+        "score": 0.9968653321266174,
+        "meta": {
+          "file_path": "9783847412304_chapter_0692.txt",
+          "source_id": "46b1bce310b6d5dbeeffeb148a50e6315ab494ae0adf0aed35639edc9a93bef7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1188,
+          "_split_overlap": [
+            {
+              "doc_id": "2fc311e99b97f5a190aba8193dacd858db67576a6d96ea0eac0e195d1eb00e2a",
+              "range": [
+                1188,
+                1607
+              ]
+            }
+          ]
+        },
+        "content": "sachlichen Struktur werden in dieser Konzeption biogra- fische, inhaltliche und situative Aspekte berücksichtigt. Konzeptuell wird davon ausgegangen, dass jeweils situativ bestimmt wird, welche Aspekte im Beratungsgespräch subjektiv bedeutsam und vor diesem Hintergrund konkret bearbeitet werden. • Sozial wird eine Rollenkonstruktion sichtbar, bei der Lehrende als verste- hende Rekonstruierende von Lernproblematiken auftreten, die Bildungs- prozesse begleiten und unterstützen. Diese Rolle wird im Wechselspiel zu der Rolle als Lehrende situativ eingesetzt. Lernende werden hier also ebenfalls als individualisierte Lernsubjekte verstanden. Zusätzlich liegt aber auch ein Verständnis von Lernenden als Fallgebenden vor. • Zeitlich erscheint die Lernberatung hier mit der Kurssituation verknüpft (vgl. ebd. S. 194). Dabei zeigen sich zwei unterschiedliche Möglichkeiten. Je nach Bedarf kann ein Reflexionsgespräch als Lernberatung in den Kurs integriert werden. In diesem Fall handelt es sich um ei"
+      },
+      {
+        "rank": 4,
+        "id": "2e396ce79dc9a6e5912ca69e769e318017769bbf82841a8b5d4566ee7633bb9c",
+        "score": 0.9952576756477356,
+        "meta": {
+          "file_path": "9783847412304_chapter_068.txt",
+          "source_id": "71a7ff55b2241898224133e8a5df9a6d962bc4d08007c77429b83fb8913fefeb",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2608,
+          "_split_overlap": [
+            {
+              "doc_id": "185c9f5629c35cb8661d03dad7984a6fafca84d33ffdb8e279c8e7a1bd6cbbb8",
+              "range": [
+                1270,
+                1676
+              ]
+            }
+          ]
+        },
+        "content": "werden im zweiten Schritt als theoriegeleitete, deduktive Suchstra- tegien für die explorative Untersuchung dreier verschiedener Lernberatungs- konzeptionen genutzt. Die untersuchten Konzepte wurden dabei nach zwei Kriterien ausgewählt. Zum einen sollte es sich um enge und explizite Lern- beratungskonzeptionen handeln, die das Beratungsgespräch selbst fokussie- ren. Zum zweiten sollten die Konzeptionen eine explizite Bezugnahme zu formalen Lehr-Lernsettings (z. B. Kurse, Seminare, Trainings) aufweisen, da darüber die Anschlussmöglichkeiten zwischen didaktischem und beratendem Handeln sichtbar gemacht werden können. Diesen Kriterien entsprechend wurden folgende Lernberatungskonzeptionen für die Analyse ausgewählt: (a) das Konzept der „Lernerberatung“ (vgl. Kaiser u. a. 2007a, 2007b), (b) das Konzept von Lernberatung im Kontext von Selbstlernarchitekturen (vgl. Forneck 2005, 2006; Forneck und Springer 2005) und (c) das Konzept der rekonstruktiven Lernberatung (vgl. Ludwig 2012)."
+      },
+      {
+        "rank": 5,
+        "id": "4de7d33b4ad5215d36527c6153e8abe6d61c48c3e8988cffd84d185f561dfad1",
+        "score": 0.9887285232543945,
+        "meta": {
+          "file_path": "9783847412304_chapter_066.txt",
+          "source_id": "b2d0a9f9304374564098b9f8a80b0fb420bf8a9311a3596146f968e84f3165fc",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1256,
+          "_split_overlap": [
+            {
+              "doc_id": "05d126c9a4fe6adc908e61b1f23f32d5f785dd34e38a2b6c196a7ab4aa9bd8cb",
+              "range": [
+                1256,
+                1692
+              ]
+            }
+          ]
+        },
+        "content": "konzeptionellen Überlegungen zur Lernberatung fort. So liegen unterschiedliche Konzepte zur Lernberatung vor, die bislang kaum systematisch vergleichend betrachtet wurden (vgl. zu ersten Systematisierungen Ludwig 2016). Vor diesem Hintergrund wird in diesem Beitrag mittels einer explorati- ven Analyse des Diskurses der Versuch unternommen, eine theoriegeleitete Systematisierung unterschiedlicher Konzeptionen von Lernberatung vorzu- nehmen. Dazu wird zunächst der aktuelle Forschungsstand zur Lernberatung skizziert. Anschließend wird eine systemtheoretisch orientierte Analyseper- spektive entwickelt, mit Hilfe derer Sinnzuschreibungen von Lernberatungs- konzeptionen untersucht werden können. Im Anschluss daran werden drei ausgewählte – enge und explizite – Lernberatungskonzeptionen analysiert und die Ergebnisse dieser Analyse im Lichte des Forschungsstands diskutiert, bevor abschließend Anschlussmöglichkeiten für weitere erwachsenenpäda- gogische Forschungen reflektiert werden."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0691.txt",
+    "question": "Analysieren Sie kritisch das Zeitkonzept der Lernberatung in einer Selbstlernarchitektur. Welche Implikationen hat die Integration bestimmter Zeitpunkte für Beratungsgespräche?",
+    "answer": "In einer Selbstlernarchitektur wird das Zeitkonzept der Lernberatung als ein bestimmtes, integriertes Zeitkonzept verstanden. Dies bedeutet, dass bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert werden, um den Lernprozess zu unterstützen. Dieser Ansatz impliziert, dass die Lernberatung nicht als ein separates Element, sondern als ein integrierter Teil des Lernprozesses verstanden wird. Durch die Integration von Zeitpunkten für Beratungsgespräche kann die Lernberatung besser auf die individuellen Bedürfnisse der Lernenden eingehegt werden und kann somit den Lernprozess unterstützen. Die Implikationen dieser Integration sind jedoch auch kritisch zu betrachten. Zum Beispiel könnte die Integration bestimmter Zeitpunkte für Beratungsgespräche zu einer Überforderung der Lernenden führen, wenn diese nicht in der Lage sind, sich auf die Beratung vorzubereiten oder sich auf die Zeitpunkte einzurichten. Des Weiteren könnte die Integration bestimmter Zeitpunkte für Beratungsgespräche auch zu einer unnötigen Zeitverzögerung führen, wenn die Lernenden nicht in der Lage sind, sich schnell genug auf die Beratung einzustellen. Insgesamt ist jedoch zu sagen, dass die Integration bestimmter Zeitpunkte für Beratungsgespräche in einer Selbstlernarchitektur ein wichtiger Ansatz ist, um den Lernprozess zu unterstützen und die individuellen Bedürfnisse der Lernenden zu berücksichtigen. Es ist jedoch wichtig, dass dieser Ansatz kritisch betrachtet und angepasst wird, um sicherzustellen, dass er nicht zu einer Überforderung oder einer unnötigen Zeitverzögerung führt.",
+    "expected": "Das integrierte Zeitkonzept verankert Beratungsgespräche zu bestimmten, konzeptionell festgelegten Zeitpunkten innerhalb des Lernprozesses, was die gezielte Reflexion und Unterstützung ermöglicht, jedoch die Flexibilität der Lernenden einschränken könnte, da Beratung nicht beliebig oder spontan stattfinden kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+        "score": 0.9696378111839294,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1326,
+          "_split_overlap": [
+            {
+              "doc_id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+              "range": [
+                1326,
+                1724
+              ]
+            }
+          ]
+        },
+        "content": "konzeptualisiert, die auf die Reflexion des aktuell thematischen Lernprozes- ses abzielt. • Als Themen der Lernberatung werden sachlich Inhalte und Lernstrategi- en konzeptionell in der Konstruktion einer thematischen Selbstlernumge- bung verknüpft und als Gegenstand von Beratung inkludiert. • Sozial werden Lehrende zunächst als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernum- gebung die Rolle der Lernberatung einnehmen. Die Interaktion erfolgt konzeptionell immer entlang eines thematischen Lernprozesses, für den Lernende unterschiedliche Strategien nutzen. Lernende werden hier als individualisierte Lernsubjekte konstruiert. • Zeitlich werden durch die Einbindung in eine Selbstlernumgebung jeweils bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert. In der zeitlichen Sinndimension handelt es sich damit um ein bestimmtes, integriertes Zeitkonzept von Lernberatung."
+      },
+      {
+        "rank": 2,
+        "id": "b20462d73d9cda5fff6d3f2b3a736091b9cf877a0c523f24b5253af5fcababec",
+        "score": 0.9004107117652893,
+        "meta": {
+          "file_path": "9783847412304_chapter_069.txt",
+          "source_id": "50634dfb3a578b548ee10a5f59757f3b7df3b36e420007c95fb69f6cdba6e2c5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a5a6be9ac0f394c578e8819391331b12eabe3e9db6fbc482c08fe14e7dbe7ed8",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "4. Ergebnisse: Sinnkonstruktionen in ­Lernberatungs­konzeptionen In der Darstellung der tentativen Analyseergebnisse wird zunächst das jewei- lige Lernberatungskonzept kurz skizziert, bevor die Ergebnisse der Analyse anhand der operationalisierten Sinndimensionen dargestellt werden. 4.1 Lernerberatung Das Konzept der „Lernerberatung“ wurde im Rahmen des vom Bundesmi- nisterium für Bildung und Forschung (BMBF) geförderten Modellprojekts „Lernerfolg und Lernerfolgskontrolle“ (LeKo; 2003–2007) entwickelt. Ler- nerberatung zielt hier als Angebot in Seminaren auf die „Sicherung und Op- timierung von Lernprozessen“ ab (Hohenstein 2007, S. 147). Dabei stützt sich dieses Konzept auf die Analyse und Diagnose von „Lernereigenschaf- ten“ und damit verbundenen Lernschwierigkeiten, für die ein Fragebogen zur Erfassung von biografischen „Lernertypen und Lernereigenschaften“ als Diagnoseinstrument eingesetzt wird (FELTE, vgl. Hohenstein 2007). Die Auswertung dieses Instruments wird dann als Ausgangsp"
+      },
+      {
+        "rank": 3,
+        "id": "dee64d6003a2f635671fca9de456b4769b07ceb3d5d10089600984e9a46aaadc",
+        "score": 0.878079891204834,
+        "meta": {
+          "file_path": "9783847412304_chapter_10131.txt",
+          "source_id": "be187d69d21c68226fc32f8af3b1377bc6e5ebd98f1401efb7d0c1c5f818d498",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2096,
+          "_split_overlap": [
+            {
+              "doc_id": "84299917ae2a6c8471fe6d3003a631e81d4856b23c3fbd90cd2d879aa429f361",
+              "range": [
+                1037,
+                1449
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsteilnehmerin lernte in dieser Beratung ihre vorhandenen Kompetenzen wieder wahrzunehmen und zu benennen. Ihre anfängliche Leidensgeschichte durch die aktuelle Belastungssituation konnte sie an- schließend als Lerngeschichte erzählen. Sie bettete die nebenberufliche Bildungstätigkeit in ihre Biografie ein und stellte einen Zusammenhang zu Gegenwart und Zukunft her. In der rückblickenden Reflexion von Biografie und Lernergebnissen wurden ihr Lernprozesse bewusst und dadurch neue Optionen eröffnet. Mittels der Methode Lebensprofil können die Selbstreflexion angeregt und biografische Lernprozesse unterstützt werden. Das Selbstkonzept kann dadurch neu interpretiert und es können Schlussfolgerungen für die Zukunft gezogen werden. Insofern befördert das Lebensprofil den Wirkfaktor „ergeb- nisorientierte Selbstreflexion“."
+      },
+      {
+        "rank": 4,
+        "id": "d7d4e9d8298a1b0eff28eb809ffa052d385a4e25b4ec2a1d953f1b2e1b2fe8d2",
+        "score": 0.8425353765487671,
+        "meta": {
+          "file_path": "9783866496811_chapter_0922.txt",
+          "source_id": "55c90cf48bd21ed2692b942ff059ce0d990a79b09bb0f1af63368b8d450d255d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2321,
+          "_split_overlap": [
+            {
+              "doc_id": "ee1a6c1847299a797073bdb5871a7e8fa059c3edb8a85bd13595b80c9e35db30",
+              "range": [
+                1200,
+                1586
+              ]
+            },
+            {
+              "doc_id": "88b0809844f266b4de80bcf464375dd8e879c6ce122193f434c2878c45d3171e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "sind und diese zudem noch mit der Verunsicherung der Lernenden umzugehen haben. Kann hier Lernberatung unterstützen? Wie kann Lernberatung in diesem Kontext neu verstanden werden? KOSSAK hat in seiner Studie ‚Lernen Beraten. Eine dekonstruktive Analyse des Diskurses zur Weiterbildung‘ Lernberatung als eine professionelle Prak- tik i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet (vgl. Kossak 2006). Lernberatung als eine spezifische Ausprägung systemischer Beratung in (berufs-)pädagogischen Kontexten wurde von KEMPER und KLEIN folgen- dermaßen definiert: Lernberatung ist „ (…) eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Be"
+      },
+      {
+        "rank": 5,
+        "id": "6b23998d7b346215e77bb78118320df823044588731b39089f5fa1cd13c90828",
+        "score": 0.8257036805152893,
+        "meta": {
+          "file_path": "9783866496811_chapter_0921.txt",
+          "source_id": "bbb28c9bf2a04ccd6eafc5779f7508d745a967a58fc137ebe27ef8291c0dad79",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1186,
+          "_split_overlap": [
+            {
+              "doc_id": "81686c8ce1d781b11b774203bef68f8ad7f88b7987770c0aca2816825bf8bff7",
+              "range": [
+                1186,
+                1587
+              ]
+            },
+            {
+              "doc_id": "3027af6ccabd29d498e0e81076e50049f4e37d53e8a6996bf09194ff0980d08f",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Im Zusammenhang mit den Lernprozessen von Lernenden wurde die Lernbe- ratung bereits seit den 1970iger Jahren als notwendige Unterstützung angesehen. Lernberatung wird als sinnvolle und hilfreiche Intervention ver- standen, um die unzureichenden Qualifikationen und Kompetenzen der Schulbildung und der beruflichen Erstausbildung zu minimieren. Dies ent- spricht den Erfordernissen eines lebenslangen selbstgesteuerten Lernens, das primär bildungs- und gesellschaftspolitisch motiviert beschrieben und gefor- dert wird. Dieser spezifische Kontext der Lernberatung veränderte sich in den 1990iger Jahren durch die Einflüsse der konstruktivistisch-systemischen Perspektiven. (vgl. Kossak 2006:19ff) In den Beschreibungen zu den Entwicklungen zum Beratungsverständnis wurde deutlich, dass in den Beratungsbegriff sowohl die Traditionen der psychologischen Beratungskonzepte als auch die pädago- gischen Konzepte Einfluss genommen haben. KOSSAK konnte zeigen, dass für Konzepte der Lernberatung hauptsäch"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0691.txt",
+    "question": "Fassen Sie zusammen, wie in der Selbstlernarchitektur sachliche Inhalte, soziale Rollen und zeitliche Aspekte miteinander verknüpft werden, um eine effektive Lernberatung zu gewährleisten.",
+    "answer": "Die Selbstlernarchitektur verknüpft sachliche Inhalte, soziale Rollen und zeitliche Aspekte in folgende Weise:\n\n         - Sachlich werden Inhalte und Lernstrategien konzeptionell in der Konstruktion einer thematischen Selbstlernumgebung verknüpft und als Gegenstand von Beratung inkludiert.\n         - Sozial werden Lehrende zunächst als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernumgebung die Rolle der Lernberatung einnehmen. Die Interaktion erfolgt konzeptionell immer entlang eines thematischen Lernprozesses, für den Lernende unterschiedliche Strategien nutzen.\n         - Zeitlich werden durch die Einbindung in eine Selbstlernumgebung jeweils bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert. In der zeitlichen Sinndimension handelt es sich damit um ein bestimmtes, integriertes Zeitkonzept von Lernberatung.\n\n         Die Selbstlernarchitektur versteht Lernende als individualisierte Lernsubjekte, die jeweils unterschiedliche Strategien nutzen, um einen thematischen Lernprozess zu meistern. Die Lehrenden nehmen dabei die Rolle der Lernberatung ein, indem sie die Selbstlernumgebung begleiten und unterstützen. Die zeitliche Dimension wird durch die Einbindung in die Selbstlernumgebung bestimmt, wobei bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert werden. Dadurch wird ein effektives Lernberatungsmodell geschaffen, das sachliche Inhalte, soziale Rollen und zeitliche Aspekte in Einklang bringt.",
+    "expected": "In der Selbstlernarchitektur werden sachliche Inhalte und Lernstrategien als thematische Grundlage der Lernberatung verknüpft; sozial übernehmen Lehrende als didaktische Konstrukteure die Rolle der beratenden Begleiter; zeitlich sind Beratungsgespräche zu festgelegten Zeitpunkten integriert. Diese Verknüpfung schafft eine didaktisch strukturierte Lernumgebung, in der Lernberatung als fester Bestandteil den selbstgesteuerten Lernprozess unterstützt und reflektiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "52dc3cbf533613c7a86e2ab19d6ddccbbbec2c6ffa8306a249bbcce023cc9352",
+        "score": 0.9478569626808167,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4877,
+          "_split_overlap": [
+            {
+              "doc_id": "45d60a37d18124f9b7bc28cbf87316eaa94ee8df3693dd0eaa5b3e152c103b29",
+              "range": [
+                1253,
+                1635
+              ]
+            }
+          ]
+        },
+        "content": "Aspekte Materialität – Raum, Körper, Artefakte –, Interaktion – Ad- ressierung, (Selbst-)Positionierung – und Wissen – implizites und explizites Wissen – zentral. Zusätzlich zur codierenden Gesamtauswertung wurde der Blick auf spezifische Feldausschnitte gelenkt und eine Detailanalyse durchge- führt, die sich methodisch auf die Fallanalyse nach Breidenstein et al. (2013) stützt. Zur Operationalisierung der zugrunde liegenden Fragestellung, wie Beratung hergestellt und gestaltet wird, dienen folgende Fragen: Welche Rol- len werden von wem wie ‚gespielt‘? Worin zeigen sich Rollenerwartungen, Verhaltensregeln und Rollenverpflichtungen? Wie wird Beratung durch Kör- per, Raum und Artefakte gestaltet?"
+      },
+      {
+        "rank": 2,
+        "id": "7fda2c84511dbb9c1e476f6cd532f9de02074885efa59c07ca7fe96d9cbf566e",
+        "score": 0.8952562808990479,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2309,
+          "_split_overlap": [
+            {
+              "doc_id": "446b824aeaf319cd6c91d5ef7fbf88caa2b2f5b028f2e2e56b4e4bac8cf3873e",
+              "range": [
+                1156,
+                1530
+              ]
+            },
+            {
+              "doc_id": "cff49f4ac071d66f1de727f0fc5b38bcc5f1da9e87b48b4445a696776aad53f2",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "und Gruppen Lerneffekte in Bezug auf Wissen und gleichstellungssensible Handlungsoptionen in Inter- aktionen (vgl. Macha et al. 2017). Die Akzeptanz der Lernmethoden und Inhalte betrug 80%, die wissen- schaftlichen Informationen waren manchmal jedoch zu abstrakt. Die oberen Führungskräfte und insbesondere die Unternehmensleitungen trugen den Wandel in Bezug auf die Ziele der Gleichstellung: Sie waren die Schlüssel- personen, die den Erfolg des Beratungsprozesses maßgeblich positiv beein- flussten, indem sie mit Autorität und Überzeugungskraft vorangingen. Sie ließen sich von der Argumentation überzeugen und lernten am meisten und am schnellsten über die Inhalte bis hin zu alternativen Regeln und Verhal- tensweisen. Ergebnisse auf der organisationalen Ebene der Unternehmen Die Lernkultur der Unternehmen wurde hinsichtlich Partizipation und Gleich- stellung nachhaltig verändert. Artefakte belegen die nachhaltige Veranke- rung, zum Beispiel in Bezug auf diversitysensible Unternehmensleitb"
+      },
+      {
+        "rank": 3,
+        "id": "dd67311a09fe0d8b29d88d513ce40e3c50db143b8405eeea62216a81ce40eedd",
+        "score": 0.7659585475921631,
+        "meta": {
+          "file_path": "9783847412304_chapter_0691.txt",
+          "source_id": "4f118abe409e62a679e7576e51de23d8c7da5218673c838c8c8431713271ebf3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1326,
+          "_split_overlap": [
+            {
+              "doc_id": "2744255588ab23e01f7a8dfecd9d74122d83c7f9c8d15b75c35f604dac722442",
+              "range": [
+                1326,
+                1724
+              ]
+            }
+          ]
+        },
+        "content": "konzeptualisiert, die auf die Reflexion des aktuell thematischen Lernprozes- ses abzielt. • Als Themen der Lernberatung werden sachlich Inhalte und Lernstrategi- en konzeptionell in der Konstruktion einer thematischen Selbstlernumge- bung verknüpft und als Gegenstand von Beratung inkludiert. • Sozial werden Lehrende zunächst als didaktische Konstrukteure von Selbstlernumgebungen gefasst, die in der Begleitung der Selbstlernum- gebung die Rolle der Lernberatung einnehmen. Die Interaktion erfolgt konzeptionell immer entlang eines thematischen Lernprozesses, für den Lernende unterschiedliche Strategien nutzen. Lernende werden hier als individualisierte Lernsubjekte konstruiert. • Zeitlich werden durch die Einbindung in eine Selbstlernumgebung jeweils bestimmte Zeitpunkte für Beratungsgespräche konzeptionell integriert. In der zeitlichen Sinndimension handelt es sich damit um ein bestimmtes, integriertes Zeitkonzept von Lernberatung."
+      },
+      {
+        "rank": 4,
+        "id": "645b925207fb161f597fbb1f20210d1fcf54b551cffd5a60c7c33f171ceb0b7e",
+        "score": 0.7639529705047607,
+        "meta": {
+          "file_path": "9783866496811_chapter_087.txt",
+          "source_id": "1283755d4b911d8299aaceff3de43714d08d0e6759c0da5d0d5232f9297ba19c",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 1887,
+          "_split_overlap": [
+            {
+              "doc_id": "f5b42e872b1abf089931f44b1e931ac467433287bff7dda65f40ab59f990e8fe",
+              "range": [
+                930,
+                1279
+              ]
+            }
+          ]
+        },
+        "content": "ist ein Grundmerkmal des Conditio humana. HEIDEGGER verwendet den Ausdruck im Sinne von Besorgen, Planen, Bekümmern, Berechnen, Voraussehen. Der Zeitbezug ist hier entscheidend. Sorgend kann nur ein Wesen sein, das einen offenen und unverfügbaren Zeithorizont vor sich sieht, in den es hineinleben muss. Wir sind sorgende und besorgende Wesen, weil wir den nach vorne offenen Zeithorizont ausdrücklich erfahren. Sorge ist nichts anderes als gelebte Zeitlichkeit. Sorgend umgetrieben von Zeit der Zeit begegnen wir handelnd der Welt, die aus der Per- spektive des Umgangs mit ihr vorhanden oder zuhanden sein kann. Dasein selbst aber ist weder etwas Vorhandenes noch etwas Zuhandenes, sondern Existenz. Existieren bedeutet, ein Selbstverhältnis zu haben; sich zu sich selbst und damit zu seinem Sein verhalten müssen.“ (Safranski, 2009:182) Sich im Alter und Krankheit, bzw. zunehmender Gebrechlichkeit zu sorgen umeinander ist eine tiefe Seinsqualität von Leben und Zusammenleben. Gestaltpsychologisc"
+      },
+      {
+        "rank": 5,
+        "id": "457b17924853b07848ee22fa643b66304a3318ef11d3e5c6de3873821407bcfc",
+        "score": 0.7500801086425781,
+        "meta": {
+          "file_path": "9783847412304_chapter_0692.txt",
+          "source_id": "46b1bce310b6d5dbeeffeb148a50e6315ab494ae0adf0aed35639edc9a93bef7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1188,
+          "_split_overlap": [
+            {
+              "doc_id": "2fc311e99b97f5a190aba8193dacd858db67576a6d96ea0eac0e195d1eb00e2a",
+              "range": [
+                1188,
+                1607
+              ]
+            }
+          ]
+        },
+        "content": "sachlichen Struktur werden in dieser Konzeption biogra- fische, inhaltliche und situative Aspekte berücksichtigt. Konzeptuell wird davon ausgegangen, dass jeweils situativ bestimmt wird, welche Aspekte im Beratungsgespräch subjektiv bedeutsam und vor diesem Hintergrund konkret bearbeitet werden. • Sozial wird eine Rollenkonstruktion sichtbar, bei der Lehrende als verste- hende Rekonstruierende von Lernproblematiken auftreten, die Bildungs- prozesse begleiten und unterstützen. Diese Rolle wird im Wechselspiel zu der Rolle als Lehrende situativ eingesetzt. Lernende werden hier also ebenfalls als individualisierte Lernsubjekte verstanden. Zusätzlich liegt aber auch ein Verständnis von Lernenden als Fallgebenden vor. • Zeitlich erscheint die Lernberatung hier mit der Kurssituation verknüpft (vgl. ebd. S. 194). Dabei zeigen sich zwei unterschiedliche Möglichkeiten. Je nach Bedarf kann ein Reflexionsgespräch als Lernberatung in den Kurs integriert werden. In diesem Fall handelt es sich um ei"
+      }
+    ]
+  }
+]

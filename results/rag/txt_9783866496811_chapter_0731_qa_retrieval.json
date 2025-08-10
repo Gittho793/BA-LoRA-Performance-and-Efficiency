@@ -1,0 +1,690 @@
+[
+  {
+    "filename": "9783866496811_chapter_0731.txt",
+    "question": "Wie definiert Meleis Pflegetheorie und welche Aufgaben erfüllt sie laut der Definition?",
+    "answer": "Meleis definiert Pflegetheorie als Konzeptualisierung einiger Aspekte der Pflegerealität, die mit dem Ziel zusammengestellt werden, um damit Phänomene zu beschreiben, Beziehungen zwischen Phänomenen zu erklären, Folgen vorherzusagen oder Pflegehandlungen vorzuschreiben. Pflegetheorien sind Sammelbecken, in denen Erkenntnisse von Pflegekonzeptionen aufbewahrt werden, wie Wohlbefinden, Heilung, Genesung, Mobilität, Erholung, Pflege, Befähigung, Erschöpfung und Familienpflege. Sie bieten einen Orientierungsrahmen in einer Profession, die einen ganzheitlichen Ansatz hat und bieten Einsichten für das Notwendige und Wünschenswerte. Pflegetheorien sind zudem Sammelbecken für Antworten auf wichtige Pflegephänomene, wie Bewusstseinsstand nach einem Schlaganfall, Genesungsprozess, Zurückweisung einer Rehabilitationsmaßnahme bei Myokardinfarktpatienten und wiederholte Krankenhauseinweisungen. Laut Meleis sind die Aufgaben von Pflegetheorien, Phänomene zu beschreiben, Beziehungen zwischen Phänomenen zu erklären, Folgen vorherzusagen oder Pflegehandlungen vorzuschreiben. Sie bieten einen Orientierungsrahmen in einer Profession, die einen ganzheitlichen Ansatz hat und bieten Einsichten für das Notwendige und Wünschenswerte. Pflegetheorien sind zudem Sammelbecken für Antworten auf wichtige Pflegephänomene.",
+    "expected": "Meleis definiert Pflegetheorie als die Konzeptualisierung einiger Aspekte der Pflegerealität, die zusammengestellt werden, um Phänomene zu beschreiben, Beziehungen zwischen Phänomenen zu erklären, Folgen vorherzusagen oder Pflegehandlungen vorzuschreiben. Pflegetheorien dienen als Sammelbecken für Erkenntnisse von Pflegekonzepten wie Wohlbefinden, Heilung, Genesung, Mobilität, Erholung, Pflege, Befähigung, Erschöpfung und Familienpflege sowie für Antworten auf wichtige Pflegephänomene.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b9ea34499a8662795fcfccabe46734893690a535cba734e801a246db2633080e",
+        "score": 0.9671516418457031,
+        "meta": {
+          "file_path": "9783866496811_chapter_0731.txt",
+          "source_id": "dba2d70d1d6eefe7fdf6d8a467bbda8e60fa29a8fd2cff38a935aa185081c313",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f305730d2873b9da7dcdd56d42f9387a596901b89d019a21ef87ddc2368e986e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "3.3.1. Pflegetheorien und ihr Bezug zum systemischen Denken Seit Mitte letzten Jahrhunderts bis heute wurden von verschiedenen Pflege- wissenschaftlerinnen mehrere Dutzend recht unterschiedliche Pflegetheorien entwickelt. Einige sind aufeinender aufbauend und in bestimmte Richtungen weiterentwickelt worden. Es würde eine eigenständige Arbeit erfordern um in dieser Fülle von Theorien auf jeden systemischen Denkansatz einzugehen, daher beschränken wir uns auf eine kurze Rahmung der Ansätze und erheben keinen Anspruch auf Vollständigkeit. Eine Definition von MELEIS um die Komplexität und die Aufgaben von Theorien zu veranschaulichen: „Pflegetheorie wird definiert als Konzeptualisierung einiger Aspekte der Pflegerealität, die mit dem Ziel zusammengestellt werden, um damit Phänomene zu beschreiben, Beziehun- gen zwischen Phänomenen zu erklären, Folgen vorherzusagen oder Pflegehandlungen vorzuschreiben. Pflegetheorien sind Sammelbecken, in denen Erkenntnisse von Pflegekon- zepten, wie Wohlbe"
+      },
+      {
+        "rank": 2,
+        "id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+        "score": 0.9187019467353821,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2276,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                1161,
+                1602
+              ]
+            },
+            {
+              "doc_id": "b75e2f30ba5af910b6db6adf6ba5d90541eeef5190abc27a082c222e9e106704",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "beteiligt ist, zu ergänzen. Zugleich ist dem Pflegebedürftigen eine Beratung darüber anzubieten, welche Pflegeleistungen für ihn in seiner persönlichen Situation in Betracht kommen. Ferner ist der Pflegebedürftige auf die Veröffentlichung der Ergebnisse von Qualitätsprüfungen hinzuweisen. Versicherte mit erheblichem allgemeinem Betreuungsbedarf sind in gleicher Weise, insbesondere über anerkannte niedrigschwellige Betreuungsangebote, zu unterrichten und zu beraten. SGB XI, §7 Abs.3 Das Pflege-Weiterentwicklungsgesetz versucht die rechtlich zustehende pflegerische Unterstützung und Betreuung für den Pflegebedürftigen unkom- plizierter zu gestalten. Sie steigert zudem den Wettbewerb der Pflegekassen. Der Gesetzgeber verpflichtet die Pflegekassen dazu, dem Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf die folgenden Informationen zukommen zu lassen: - Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen, - wo die nächstgelegenen Pflegestützp"
+      },
+      {
+        "rank": 3,
+        "id": "ee71426c438d77f65b1aac73409265a44e559757c6a37f908d3a5360a8578e44",
+        "score": 0.8574385046958923,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3508,
+          "_split_overlap": [
+            {
+              "doc_id": "6b34f685e86408d661c43812ca2accec6e7fd3ce74835856a69209d22df6ea38",
+              "range": [
+                1098,
+                1483
+              ]
+            },
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "dem Pflegeberater oder der Pflegeberaterin stellen. Der Antrag ist unverzüglich der zuständigen Pflege- oder Krankenkasse zu übermitteln, die den Leistungsbescheid unverzüglich dem Antragsteller und zeitgleich dem Pflegeberater oder der Pflegeberaterin zuleitet. (3) Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu bemessen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrge- nommen werden können. Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Perso- nal ein, insbesondere Pflegefachkräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen gibt der Spitzenver- band Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 20"
+      },
+      {
+        "rank": 4,
+        "id": "17a7fcce35ecd695dd5dad0c57ee30c2f5c4610270fbc64bab8edc0fdb0e3f2d",
+        "score": 0.8550970554351807,
+        "meta": {
+          "file_path": "9783866496811_chapter_104.txt",
+          "source_id": "b35718da3e850d1f88f1b426cf3beec748740b03135f1334fd6e47ac4ffd4e2a",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4347,
+          "_split_overlap": [
+            {
+              "doc_id": "c96848e2380d3c0eab510f58b28914d7d20fa6317b438f636367c55771b547fa",
+              "range": [
+                1109,
+                1433
+              ]
+            },
+            {
+              "doc_id": "7703884e4fa1e221e8b8ff2eac2a28833a14771f75bf0a616876a3ea8abbc9eb",
+              "range": [
+                0,
+                347
+              ]
+            }
+          ]
+        },
+        "content": "geht es darum die Defizite der Pflege und Betreuung zu erkennen und diese dann mit Einsicht der Betroffenen (§7a Abs.1 Satz 4) auszugleichen, um auf diese Weise die Unabhängigkeit und die häusliche Umgebung zu erhalten aber auch die Kompetenz der Versorgung zu steigern. Liegt die Problematik der ehrenamtlich Pflegenden im fehlenden Wissen – z.B. von pflegerischen Handlungen, kann der Pflegeberater einen Pflegekurs für die/ den Angehörigen nach § 45, SGB XI veranlassen. Liegt die Problematik allerdings in der Interaktion zwischen ehrenamtlich Pflegendem und zu pflegender Person kann dies ganz vielschichtige Gründe des Versorgungsdefizits bedeuten, welche es in Beratungsgesprächen heraus- zuarbeiten gilt. Die Pflege bzw. Versorgungsprobleme könnten z.B. sein, dass die Angehörigen oder der Ehepartner die Symptomverschlimmerung nicht erkennen bzw. wahrhaben möchte, aber bei dem Betroffenen das Selbstpflegedefizit immer stärker wird. Ein verstärktes Unterstützen wäre zwar z.B. von der Ehefr"
+      },
+      {
+        "rank": 5,
+        "id": "6879cfcbc626c00d65790e0cde760459f8b899a4e3b8ea01a6332ea50aab74cb",
+        "score": 0.8385724425315857,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5e2034b6f1ef1c79ad33a30156d0bbe53cec92607068961bc5210b540794e4f8",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "2.3.1. Die Pflegeberatung im Kontext des Pflege- Weiterentwicklungsgesetzes Mit dem § 7a des Pflege-Weiterentwicklungsgesetzes ist es dem Gesetzgeber ein Anliegen dem Tätigkeitsprofil und den Aufgaben eines Pflegeberaters eine angemessene Rahmung zu geben. Mit dem ersten Satz (§ 7a Abs.1 Satz 1) erhält die Pflegeberatung ihre Definition und bereits der Folgende macht deutlich welche fünf Hauptaufgaben die Pflegeberatung insbesondere verfol- gen soll: §7a Abs.1, 2 und 3 (1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem 1. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind (Pfle- geberatung). Aufgabe der Pflegeberatung ist es insbesondere, 1. den Hilfebedarf unter Berücksi"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0731.txt",
+    "question": "Welche wissenschaftlichen und philosophischen Einflüsse haben die Entwicklung der Pflegetheorien geprägt? Nenne mindestens drei.",
+    "answer": "Die Entwicklung der Pflegetheorien ist von verschiedenen wissenschaftlichen und philosophischen Einflüssen geprägt. Drei Beispiele sind:\n\n1.  **Gesundheits- und Pflegewissenschaft**: Die Pflegewissenschaft ist eine interdisziplinäre Wissenschaft, die sich mit den gesundheitlichen und pflegerischen Bedürfnissen von Menschen beschäftigt. Sie integriert Erkenntnisse aus verschiedenen Disziplinen wie Medizin, Sozialwissenschaften, Psychologie und Philosophie. Die Pflegewissenschaft liefert die wissenschaftliche Grundlage für die Entwicklung von Pflegetheorien.\n2.  **Existenzphilosophie**: Die Existenzphilosophie, insbesondere die Werke von Philosophen wie Martin Heidegger und Jean-Paul Sartre, haben die Entwicklung der Pflegetheorien beeinflusst. Diese Philosophen betonen die Bedeutung der Existenz und der Erfahrung des Einzelnen. Ihre Ideen über die menschliche Existenz, die Freiheit und die Verantwortung haben Einfluss auf die Entwicklung von Pflegetheorien gehabt, die sich mit den Bedürfnissen und Erfahrungen von Menschen beschäftigen.\n3.  **Systemtheorie**: Die Systemtheorie, insbesondere die Werke von Philosophen wie Niklas Luhmann und Ludwig von Bertalanffy, haben die Entwicklung der Pflegetheorien beeinflusst. Diese Theoretiker betonen die Bedeutung der Systeme und der Interaktionen zwischen Menschen und Umwelt. Ihre Ideen über die Struktur und den Funktionieren von Systemen haben Einfluss auf die Entwicklung von Pflegetheorien gehabt, die sich mit der Organisation und dem Funktionieren von Pflegesystemen beschäftigen.\n\nWeitere Einflüsse auf die Entwicklung der Pflegetheorien sind:\n\n*   **Pflegewissenschaftliche Theorien**: Die Pflegewissenschaftliche Theorien, wie die Theorie der Pflege als sozialer Prozess, die Theorie der Pflege als professioneller Prozess und die Theorie der Pflege als Wohlfahrtspolitik, haben die Entwicklung der Pflegetheorien geprägt.\n*   **Psychologische Theorien**: Die",
+    "expected": "Die Entwicklung der Pflegetheorien wurde von verschiedenen Wissenschaften und Philosophien beeinflusst, darunter Humanismus, Interaktionismus, Existenzphilosophie, Phänomenologie, die Hierarchie der Bedürfnisse, Entwicklungspsychologie sowie die Systemtheorie.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+        "score": 0.9842295050621033,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4370,
+          "_split_overlap": [
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                1094,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes- sionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratungshandeln. Menschen nicht nur als defekt oder begrenzt, sondern vorübergehend einge- schränkt in einer der vielen Dimensionen zu betrachten, dies ist als eine gemeinsame Eigenschaft von Pflege und Beratung auszumachen. Diese ge- meinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den Kinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxis"
+      },
+      {
+        "rank": 2,
+        "id": "1fb7f1dd027021ead5d9f40b5ef34ba69d911f2cd3d8e1e561534991e00244d0",
+        "score": 0.9740719199180603,
+        "meta": {
+          "file_path": "9783866496811_chapter_11.txt",
+          "source_id": "b583be53ea4b64d62e1f93c258612e112070cfbe7d3bc99c54a55777d65af387",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8544,
+          "_split_overlap": [
+            {
+              "doc_id": "08e445bb1c9799baea3a8f109a73ecde37b4d25bb2587b831e1476efe139fef2",
+              "range": [
+                1142,
+                1528
+              ]
+            }
+          ]
+        },
+        "content": "Rückblickend verfolgten wir als Autorinnen das dringende Anliegen, die Möglichkeiten und Grenzen von Beratung in den Handlungsfeldern von Pflege und Pflegeausbildung auszuloten. Wir wollen Impulse für weitere Entwicklung geben. Je tiefer wir in die Thematik eingedrungen sind, desto deutlicher erkannten wir, dass sowohl die Professionalisierungsbestrebungen im Feld Beratung, als auch im Feld der Pflege und Pflegebildung parallel zueinander verliefen und dennoch in Beziehung zueinander standen. Beide Prozesse sind noch nicht abgeschlossen und so stehen wir mit unseren Über- legungen sicher erst am Anfang eines längeren Weges. Wesentlich erscheint uns, Betroffene zu Beteiligten zu machen und miteinander die spezifischen Problemstellungen in der Pflege und Pflegebildung im Kontext sich verän- dernder gesellschaftlicher und wissenschaftlicher Rahmungen prozesshaft zu behandeln. Von Beginn an waren wir uns bewusst, dass es hierbei nicht um ein ‚entweder oder …‘, sondern vielmehr um ein ‚sowo"
+      },
+      {
+        "rank": 3,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.9477062821388245,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 4,
+        "id": "78412fe4bad96a869a492e0e461ae6c88a37a41e7a6e74e1e3a121e773d532f5",
+        "score": 0.9100818037986755,
+        "meta": {
+          "file_path": "9783866496811_chapter_0622.txt",
+          "source_id": "a4ab9102ce89447b2a9b8569063bdf11aba811d3990f721e5dee40bf87c10e5d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3519,
+          "_split_overlap": [
+            {
+              "doc_id": "296683268fdfd7dc690cc67ac7256d4457aa12cf782dbdea6aab3ce59f7c8dc6",
+              "range": [
+                1132,
+                1517
+              ]
+            },
+            {
+              "doc_id": "0d4497b031154d866b4d7ffbd7a2bf88bc128858e01897450fd0bd950500ab3a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "die Verän- derung der Pflege deutlich hervorgehoben. „I.1. Berücksichtigung neuer Anforderungen an die Ausbildung in den Pflegeberufen“ Es wird klar dargestellt, dass sich die Profession Pflege von traditionellen Orientierungen lösen muss und sich nicht nur auf medizinische Kuration in Krankenhäusern beschränken kann. Die Pflege braucht einen größeren per- spektivischen Blickwinkel für ihre Profession, die Wissensbasis dazu ist die Pflege- und Gesundheitswissenschaft. Aus diesem Wissen zeigt sich auch, dass die Pflegenden sehr viel mehr in ihren kommunikativen und empathi- schen Kompetenzen gestärkt und ausgebildet werden müssen. Gleichwohl einen entsprechend hohen Stellenwert soll auch die Förderung der Persön- lichkeitsentwicklung einnehmen, damit die Pflegenden auch in immer mehr Arbeitsfeldern kompetent arbeiten können. Nicht nur die Gesetzeslage hat sich geändert sondern auch die soziodemographische Zusammensetzung der Bevölkerung hat sich gewandelt, es ist eine Steigerung in der "
+      },
+      {
+        "rank": 5,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.8949456214904785,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0731.txt",
+    "question": "Wie wird Kommunikation in den meisten Pflegetheorien bewertet und warum besitzt sie laut dem Text keinen eigenen Stellenwert?",
+    "answer": "In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. In den meisten Pflegetheorien wird Kommunikation nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. In den meisten Pflegetheorien wird Kommunikation nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. \n        In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. \n        In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. \n        In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. \n        In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. \n        In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen Leistungen bewertet. Sie hat keinen eigenen Stellenwert, weil sie nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird. \n        In den meisten Pflegetheorien wird Kommunikation laut dem Text nicht zeitgleich mit anderen pflegerischen",
+    "expected": "Kommunikation mit dem Klienten wird in den meisten Pflegetheorien zwar als unabdingbare Voraussetzung für gute Ergebnisse anerkannt, besitzt aber keinen eigenen Stellenwert, weil sie lediglich als ein Mittel zum Zweck betrachtet wird und nicht als eigenständiger Kerninhalt. Zum Beispiel definiert Johnson das pflegetherapeutische Handeln als Hemmen, Einschränken, Ersetzen, Schützen, Stützen (unterstützen/erhalten), Belehren, Beraten und Verhaltensmodifikation, wobei Kommunikation nur ein Werkzeug ist.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+        "score": 0.9810532927513123,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1065,
+          "_split_overlap": [
+            {
+              "doc_id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+              "range": [
+                1065,
+                1429
+              ]
+            }
+          ]
+        },
+        "content": "des Krankheitsgeschehens in all ihrer Vielfalt nahmen (vgl. Drerup 1990:9ff; Koch-Straube 2008:11 ff). Die- ser Einfluss bestand und besteht nicht nur in den grund- und behandlungs- pflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen einer Pflegekraft. Auch stellt sich die Frage danach, wie heute die Pflegekräfte zur Beratung stehen und wird sie als Aufgabe der Pflege gesehen?"
+      },
+      {
+        "rank": 2,
+        "id": "d0ccd254a7a63dbd04a52ead22371146638248873d84874e2e721e0efe5b87a1",
+        "score": 0.9454852342605591,
+        "meta": {
+          "file_path": "9783866496811_chapter_0611.txt",
+          "source_id": "a5f42a1dfd8ddc4c6acd4b0e1a44ffb7b2e43efe09ce5c5ae59358d2f0a90874",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1257,
+          "_split_overlap": [
+            {
+              "doc_id": "72c929f6f71013ce8f91389d49861224085abebc2be10044cfc36bfbbce54c57",
+              "range": [
+                1257,
+                1622
+              ]
+            },
+            {
+              "doc_id": "95085a0f51a302bc33fd83162e5d2d35ce12fafe5ae09d056ebe096c5b2050ed",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "versehen, welche hier als ange- nommene Mittelwerte zu verstehen sind (vgl. Zerbe 1995). Das Tätigkeitsprofil der ‚Allgemeinen Pflege‘ bezog sich auf sechs verschie- dene Aktivitäten des täglichen Lebens, eine davon ist ‚Kommunikation‘. Von der Expertengruppe wurde vorgesehen dass Kommunikation nur dann zeit- lich eine Bewertung finden soll, wenn diese Tätigkeit nicht zeitgleich mit anderen pflegerischen Leistungen erbracht wird, somit wurde hier ein Raum für Kommunikation (Beratung) geschaffen. Je nach Intensitätsstufe sind insgesamt etwa 5 – 10 min pro Patient und Tag in folgenden Bereichen ein- geplant: - Entlastende und Orientierung gebende Patientengespräche - Begleiten des Patienten in der Phase des Sterbens - Gespräche mit Angehörigen einschließlich Beratung - Patientenbezogene Informationsgespräche einschließlich telefoni- scher Kontakt Des Weiteren findet auch die Ernährungsberatung an einer anderen Stelle Raum. Zusammenfassend lässt sich sagen, dass die Expertengruppe Kommuni"
+      },
+      {
+        "rank": 3,
+        "id": "78412fe4bad96a869a492e0e461ae6c88a37a41e7a6e74e1e3a121e773d532f5",
+        "score": 0.9248033165931702,
+        "meta": {
+          "file_path": "9783866496811_chapter_0622.txt",
+          "source_id": "a4ab9102ce89447b2a9b8569063bdf11aba811d3990f721e5dee40bf87c10e5d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3519,
+          "_split_overlap": [
+            {
+              "doc_id": "296683268fdfd7dc690cc67ac7256d4457aa12cf782dbdea6aab3ce59f7c8dc6",
+              "range": [
+                1132,
+                1517
+              ]
+            },
+            {
+              "doc_id": "0d4497b031154d866b4d7ffbd7a2bf88bc128858e01897450fd0bd950500ab3a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "die Verän- derung der Pflege deutlich hervorgehoben. „I.1. Berücksichtigung neuer Anforderungen an die Ausbildung in den Pflegeberufen“ Es wird klar dargestellt, dass sich die Profession Pflege von traditionellen Orientierungen lösen muss und sich nicht nur auf medizinische Kuration in Krankenhäusern beschränken kann. Die Pflege braucht einen größeren per- spektivischen Blickwinkel für ihre Profession, die Wissensbasis dazu ist die Pflege- und Gesundheitswissenschaft. Aus diesem Wissen zeigt sich auch, dass die Pflegenden sehr viel mehr in ihren kommunikativen und empathi- schen Kompetenzen gestärkt und ausgebildet werden müssen. Gleichwohl einen entsprechend hohen Stellenwert soll auch die Förderung der Persön- lichkeitsentwicklung einnehmen, damit die Pflegenden auch in immer mehr Arbeitsfeldern kompetent arbeiten können. Nicht nur die Gesetzeslage hat sich geändert sondern auch die soziodemographische Zusammensetzung der Bevölkerung hat sich gewandelt, es ist eine Steigerung in der "
+      },
+      {
+        "rank": 4,
+        "id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+        "score": 0.915883481502533,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5925,
+          "_split_overlap": [
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                1202,
+                1592
+              ]
+            },
+            {
+              "doc_id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+              "range": [
+                0,
+                335
+              ]
+            }
+          ]
+        },
+        "content": "Stelle sei auf die Studie des Deutschen Institut für angewandte Pflegeforschung e.V., Köln hingewiesen, die später noch erläutert wird. Sie zielt auf die zugehende Beratung für pflegende An- gehörige ab und wurde durch den GKV-Spitzenverband gefördert. Im Abs.3 wird den Pflegekassen vorgeschrieben entsprechend qualifiziertes Personal als Pflegeberater und Pflegeberaterinnen einzusetzen, um die persönliche Beratungen der Versicherten durchzuführen. Als qualifiziertes Per- sonal werden - Pflegefachkräfte - Sozialversicherungsfachangestellte - Sozialarbeiter anerkannt. Diesen drei Berufsgruppen werden durch den Gesetzgeber allerdings eine Einschränkung zuteil, indem diese die Tätigkeit des Pflegeberaters nur mit der ‚jeweils‘ erforderlichen Zusatzqualifikation ausüben dürfen. Dies bedeu- tet, dass die erforderlichen Zusatzqualifikationen den Berufsbildern individuell, bzw. den Fachkräften der einzelnen Berufsbilder individuell angepasst werden müssen. Gleich folgend wird festgelegt dass d"
+      },
+      {
+        "rank": 5,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.8742604851722717,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0731.txt",
+    "question": "Analysieren Sie den Stellenwert des systemischen Denkens in der Entwicklung der Pflegetheorien und erläutern Sie, warum der Beratungsauftrag noch keine konzeptuelle Verankerung in der Pflegeprofession hat.",
+    "answer": "Der Stellenwert des systemischen Denkens in der Entwicklung der Pflegetheorien ist erheblich, da es ein ganzheitlicher Ansatz zur Beschreibung und Erklärung von Phänomenen in der Pflege darstellt. Systemische Theorien berücksichtigen die Komplexität von Personen, Familien und Systemen und bieten einen Orientierungsrahmen in einer Profession, die einen ganzheitlichen Ansatz hat. Der systemische Denkansatz geht zurück bis zur Nightingale ins 19. Jahrhundert und hat sich in verschiedenen Pflegetheorien entwickelt.\n\n         Der Beratungsauftrag in der Pflege hat noch keine konzeptuelle Verankerung in der Pflegeprofession, da die Pflegeberatung ein relativ neuer Berufsstand ist und noch nicht vollständig integriert ist. Die Pflegeberatung ist ein vielschichtiges Tätigkeitsprofil, das aus verschiedenen Aufgaben besteht, wie Informationsvermittlung, Pflegerische Handlungsanleitung, Rechtsberatung, Case Management und individuelle Beratung. Um den Praxisbezug herzustellen und auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errichten, ist es notwendig, den Pflegeberatern und Pflegeberaterinnen Beratungsqualifikationen zu kommen zu lassen. Nur mit einem geeignetem Beratungskonzept und entsprechend entwickelten Kompetenzen wird es dem Pflegeberater und der Pflegeberaterin möglich sein, bei dem Ratsuchenden in Problemlagen und Krisensituationen Ressourcen zu aktivieren und gesundheitsfördernde, präventive, kurative oder auch rehabilitative Fähigkeiten auszulösen. \n         Die Pflegeberatung ist noch nicht vollständig in die Pflegeprofession integriert, da sie noch keine konzeptuelle Verankerung in der Pflege hat. Die Pflegeberatung ist ein relativ neuer Berufsstand und die Entwicklung der Pflegetheorien und die Beratungsaufgaben sind noch nicht vollständig miteinander verknüpft. Die Pflegeberatung ist noch nicht vollständig in die Pflegeprofession integriert,",
+    "expected": "Das systemische Denken hat seit einiger Zeit Einzug in Pflegetheorien gehalten und beeinflusst deren Entwicklung, was sich in den Arbeiten von Theoretikerinnen wie Johnson, Levine, Rogers, Roy, Neumann zeigt. Dennoch hat der Beratungsauftrag für die Pflege keine konzeptuelle Verankerung in der Profession gefunden, wahrscheinlich weil die Pflegepraxis traditionell stärker auf direkte Pflegehandlungen und weniger auf Beratung und systemische Betrachtung ausgerichtet ist, was eine ganzheitliche und komplexe Einbindung von Beratung in den Pflegealltag erschwert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b9ea34499a8662795fcfccabe46734893690a535cba734e801a246db2633080e",
+        "score": 0.9679023027420044,
+        "meta": {
+          "file_path": "9783866496811_chapter_0731.txt",
+          "source_id": "dba2d70d1d6eefe7fdf6d8a467bbda8e60fa29a8fd2cff38a935aa185081c313",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f305730d2873b9da7dcdd56d42f9387a596901b89d019a21ef87ddc2368e986e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "3.3.1. Pflegetheorien und ihr Bezug zum systemischen Denken Seit Mitte letzten Jahrhunderts bis heute wurden von verschiedenen Pflege- wissenschaftlerinnen mehrere Dutzend recht unterschiedliche Pflegetheorien entwickelt. Einige sind aufeinender aufbauend und in bestimmte Richtungen weiterentwickelt worden. Es würde eine eigenständige Arbeit erfordern um in dieser Fülle von Theorien auf jeden systemischen Denkansatz einzugehen, daher beschränken wir uns auf eine kurze Rahmung der Ansätze und erheben keinen Anspruch auf Vollständigkeit. Eine Definition von MELEIS um die Komplexität und die Aufgaben von Theorien zu veranschaulichen: „Pflegetheorie wird definiert als Konzeptualisierung einiger Aspekte der Pflegerealität, die mit dem Ziel zusammengestellt werden, um damit Phänomene zu beschreiben, Beziehun- gen zwischen Phänomenen zu erklären, Folgen vorherzusagen oder Pflegehandlungen vorzuschreiben. Pflegetheorien sind Sammelbecken, in denen Erkenntnisse von Pflegekon- zepten, wie Wohlbe"
+      },
+      {
+        "rank": 2,
+        "id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+        "score": 0.9508621692657471,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1200,
+          "_split_overlap": [
+            {
+              "doc_id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+              "range": [
+                1200,
+                1591
+              ]
+            },
+            {
+              "doc_id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "sollte es bedeuten, dass eine Pflegefachkraft mit entsprechender Fachweiterbildung selbst die Spezialberatung in ihrem Fachgebiet durchführen kann. Ist also, wovon wir ausgehen, in der Fachweiterbildung zum Pflegeberater das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, kann die Pflegeberate- rIn die Angehörigen von Pflegebedürftigen beratend Unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt. Dieses Projekt zeigt, dass es möglich ist durch entsprechende Beratung pfle- gende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Dazu wurde ein spezifisches Qualifizierungskonzept entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflege- fachkräfte kommend aus der Ambulanten Pflege wurden in den drei Hauptschwerpunkten des Konzeptes unterrichtet: - Bedarfseinschätzung und Hilfeplanung - Beratungsinterventionen und Schulung - Vermittlung und Koordination von"
+      },
+      {
+        "rank": 3,
+        "id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+        "score": 0.9029669165611267,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1099,
+          "_split_overlap": [
+            {
+              "doc_id": "f15941cfc6f5463755ed8691e53ef744fe943e52e08a31a4940034ba156a9e2d",
+              "range": [
+                1099,
+                1455
+              ]
+            },
+            {
+              "doc_id": "1d634e1994236fb6a81bdd4139e396792ea51d737590b678bda90e3b8737b381",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "fehlende Aspekte des neuen Berufsbildes der Pflege zu berücksichtigen und in der Weiterbildung zu integrieren. Zur Zeit der Entwicklung der Empfehlungen zur Qualifikation des Pflegebe- raters und der Pflegeberaterin, wurde in erster Linie auf die Bewältigung der kurz- und mittelfristigen Ziele der über 2 Millionen Pflegebedürftigen abge- zielt. Nun gilt es den Praxisbezug herzustellen, um auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errich- ten. Das Tätigkeitsprofil der Pflegeberatung (§ 7a SGB XI) ist sehr vielschichtig und besteht aus verschiedensten Aufgaben, z.B. - Informationsvermittlung, - Pflegerische Handlungsanleitung, - Rechtsberatung, - Case Management, - Individuelle Beratung. Hier gilt es keine Wertung vorzunehmen, aber um die Anforderungen eines Pflegeberaters gerecht zu werden und den Leistungsempfängern auch die ihnen rechtlich zustehende individuelle Beratung (SGB XI, § 7a Abs.1 Satz1) zukommen zu lassen, ist es unumgäng"
+      },
+      {
+        "rank": 4,
+        "id": "82979ee70a27318bab1b9017a83ab6c57678f2bc18694140aab98c5f6784422d",
+        "score": 0.8935508728027344,
+        "meta": {
+          "file_path": "9783866496811_chapter_102.txt",
+          "source_id": "1ec7c93f762ca444f6a581f666e34d2132dd40bbe24b464ec30931e4dd342f6b",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6819,
+          "_split_overlap": [
+            {
+              "doc_id": "e853f5436a2cecab04ff325b28a0a61642819e1b9cd8c91908d0541746cb9af4",
+              "range": [
+                1185,
+                1575
+              ]
+            }
+          ]
+        },
+        "content": "dazu ist natürlich, das die Pflegeberater und Pflegeberaterinnen die entspre- chende Weiterbildung erfahren haben und in den Grundzügen das systemische Beratungskonzept bzw. systemische Interventionen und die systemische Sichtweise verinnerlichen bzw. anwenden können, welches mit den ersten vier Modulen des Curriculum Entwurfs ‚Systemische Beratung in der Pflege‘ (vgl. Anhang 2) erlernt werden können. Da bereits einige Ressourcen zur systemischen Denkweise in der Profession Pflege als Grundlage vorhanden sind, liegt die Annahme nahe, dass viele Pflegefachkräfte nur einen gewissen Anstoß benötigen, um bereits intuitive systemische Fähigkeiten und Kompetenzen zu erkennen und bewusst anwen- den zu lernen."
+      },
+      {
+        "rank": 5,
+        "id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+        "score": 0.8903867602348328,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4370,
+          "_split_overlap": [
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                1094,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes- sionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratungshandeln. Menschen nicht nur als defekt oder begrenzt, sondern vorübergehend einge- schränkt in einer der vielen Dimensionen zu betrachten, dies ist als eine gemeinsame Eigenschaft von Pflege und Beratung auszumachen. Diese ge- meinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den Kinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxis"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0731.txt",
+    "question": "Entwickeln Sie ein Beispiel, wie eine Pflegetheorie mit systemischem Denken einen Pflegeprozess bei einem Schlaganfallpatienten unterstützen kann, insbesondere im Hinblick auf Familienpflege und Genesungsprozess.",
+    "answer": "Die Pflegetheorie von Koch-Straube (2002) kann mit systemischem Denken unterstützt werden, indem man die Familie als Ganzes und das System enger Bezugspersonen in den Blick nimmt. Ein Beispiel dafür ist die Beratung einer Familie, bei der ein Familienmitglied einen Schlaganfall erlitten hat. Die Pflegeberaterin könnte mit systemischem Denken die Beziehung zwischen dem pflegebedürftigen Familienmitglied und den anderen Familienmitgliedern analysieren und die Ressourcen der Familie identifizieren, die zur Unterstützung des pflegebedürftigen Familienmitglieds beitragen können.\n\n        Beispiel:\n        Ein 45-jähriger Mann erleidet einen Schlaganfall und muss in eine Klinik eingeliefert werden. Seine Ehefrau und zwei Kinder sind in ein Trauma geraten und müssen sich um den pflegebedürftigen Mann kümmern. Die Pflegeberaterin kommt in die Familie und beginnt, die Beziehungen zwischen den Familienmitgliedern zu analysieren. Sie stellt fest, dass die Ehefrau eine sehr enge Beziehung zu ihrem Mann hat und sich um ihn kümmern möchte, aber auch Angst hat, ihn zu verlieren. Die Kinder sind in ein Trauma geraten und haben Schwierigkeiten, mit der Situation umzugehen.\n\n        Die Pflegeberaterin verwendet systemisches Denken, um die Ressourcen der Familie zu identifizieren, die zur Unterstützung des pflegebedürftigen Mannes beitragen können. Sie stellt fest, dass die Ehefrau eine starke Fürsorgeinstinkt hat und sich um den Mann kümmern möchte, aber auch Angst hat, ihn zu verlieren. Die Kinder haben Schwierigkeiten, mit der Situation umzugehen, aber auch eine starke Verbundenheit mit ihrem Vater.\n\n        Die Pflegeberaterin entwickelt ein Konzept, um die Familie zu unterstützen. Sie beginnt, die Ehefrau zu beraten, wie sie ihre Angst um den Mann ausdrücken kann und wie sie ihre Fürsorgeinstinkte nutzen kann, um ihn zu unterstützen. Sie beginnt auch, die Kinder zu beraten, wie sie mit ihrer Trauer umgehen können und",
+    "expected": "Eine Pflegetheorie, die systemisches Denken integriert, betrachtet den Schlaganfallpatienten nicht isoliert, sondern als Teil eines Systems, insbesondere der Familie. Durch die Einbeziehung der Familienpflege kann die Theorie den Genesungsprozess fördern, indem sie die Interaktionen zwischen Patient und Familienmitgliedern berücksichtigt und so Unterstützung, Kommunikation und Pflegehandlungen anpasst. Beispielsweise könnte die Pflege darauf abzielen, die Familie in die Rehabilitation einzubinden, um das Wohlbefinden des Patienten zu steigern und wiederholte Krankenhauseinweisungen zu vermeiden, indem systemische Zusammenhänge und Ressourcen genutzt werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e853f5436a2cecab04ff325b28a0a61642819e1b9cd8c91908d0541746cb9af4",
+        "score": 0.9671552777290344,
+        "meta": {
+          "file_path": "9783866496811_chapter_102.txt",
+          "source_id": "1ec7c93f762ca444f6a581f666e34d2132dd40bbe24b464ec30931e4dd342f6b",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5634,
+          "_split_overlap": [
+            {
+              "doc_id": "5c4622ae8890b391d2bf2a8cfdcfd8497fc35fc4662ca406e7c65ff78116f065",
+              "range": [
+                1208,
+                1627
+              ]
+            },
+            {
+              "doc_id": "82979ee70a27318bab1b9017a83ab6c57678f2bc18694140aab98c5f6784422d",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "die eine individuelle psychosozial-pflegerische Beratung durchführen kann - Ergo eine Pflegefachkraft mit systemischer Beratungskompetenz könnte in der geschilderter Situation die entwickelnde/ wachstumsfördernde Beratungsrolle nach GELSO und FRETZ einnehmen. Auf diese Weise ist es durch die Pfle- geberatung möglich dem Schlaganfall Patienten, angepasst an dessen Geschwindigkeit behilflich zu sein seine vorhandenen Ressourcen nun auch im häuslichen Umfeld zu erkennen und diese dann gezielt einsetzen zu kön- nen. So kann einem Schlaganfall Patienten auch mit bleibender Behinderung wieder ermöglicht werden die größtmögliche Selbstständigkeit zu erlangen und somit auch die angestrebte Lebensqualität zu erreichen bzw. zu bewah- ren. Durch verschiedene Interventionen der systemischen Beratung ist es möglich, eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung aufzubau- en und so durch Pflegeberatung vielen chronisch Kranken und pflegebedürftigen Menschen diesen Prozess der Sel"
+      },
+      {
+        "rank": 2,
+        "id": "600e9c97da13effaa7939bbd23c0424e9a55a4308307c454a5f759fa96405151",
+        "score": 0.9561397433280945,
+        "meta": {
+          "file_path": "9783866496811_chapter_0731.txt",
+          "source_id": "dba2d70d1d6eefe7fdf6d8a467bbda8e60fa29a8fd2cff38a935aa185081c313",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2485,
+          "_split_overlap": [
+            {
+              "doc_id": "f305730d2873b9da7dcdd56d42f9387a596901b89d019a21ef87ddc2368e986e",
+              "range": [
+                1245,
+                1628
+              ]
+            }
+          ]
+        },
+        "content": "da es nur ein ‚Mittel zum Zweck‘ ist. So benennt z. B. Johnson das pflegetherapeu- tische Handeln wie folgt: „Hemmen, einschränken, ersetzen, schützen, stützen (unterstützen/erhalten, belehren, beraten und Verhaltensmodifikation)“ (Meleis 1999:317) Das systemische Denken hat bereits seit geraumer Zeit Einzug in Pflegetheo- rien erhalten, obwohl der Beratungsauftrag für die Pflege noch keine konzeptuelle Verankerung in der Profession gefunden hat. Die Pflegetheorien konnten noch keinen konkreten Orientierungsrahmen für pflegerische Bera- tung entwickeln."
+      },
+      {
+        "rank": 3,
+        "id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+        "score": 0.9524875283241272,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4370,
+          "_split_overlap": [
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                1094,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes- sionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratungshandeln. Menschen nicht nur als defekt oder begrenzt, sondern vorübergehend einge- schränkt in einer der vielen Dimensionen zu betrachten, dies ist als eine gemeinsame Eigenschaft von Pflege und Beratung auszumachen. Diese ge- meinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den Kinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxis"
+      },
+      {
+        "rank": 4,
+        "id": "1d634e1994236fb6a81bdd4139e396792ea51d737590b678bda90e3b8737b381",
+        "score": 0.8950244784355164,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2241,
+          "_split_overlap": [
+            {
+              "doc_id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+              "range": [
+                1142,
+                1533
+              ]
+            },
+            {
+              "doc_id": "53268f86b019b85e8be5713f1b549ad02b3703865e97b45bef2ab54762fd2340",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "und entsprechend entwickelten Kompe- tenzen wird es dem Pflegeberater und der Pflegeberaterin möglich sein, bei dem Ratsuchenden in Problemlagen und Krisensituationen Ressourcen zu aktivieren und gesundheitsfördernde, präventive, kurative oder auch rehabili- tative Fähigkeiten auszulösen (vgl. DGfB 9/2004:7ff; vgl. SGB XI, § 7a Abs.1 Satz 2). Auch existieren weitere Beratungsstellen, die in die Vernetzung der Pflegebe- ratung mit einspielen können. Am Beispiel der zehnjährigen Erfahrung der Unabhängigen Patientenberatung in Deutschland macht sich das insgesamt schwierige Gemengelage von Pflegeberatung ebenfalls deutlich. Mit der „Reform von Organisationsstrukturen und Prozessen der gesundheit- lichen Versorgung gewinnt das Leitbild des Patienten als mündiger, kompetenter und verantwortungsbewusster Partner des Arztes sowohl in der Gesundheitspolitik als auch bei Patientenvertretern seit Beginn der 1990er Jahre an Bedeutung. Patientenorientierung, die die prinzipielle Selbstbe- stimmthe"
+      },
+      {
+        "rank": 5,
+        "id": "e1f61ce8fb7060ada49f7728f29304404744c629194cc42503d77e1ca8907efb",
+        "score": 0.883098304271698,
+        "meta": {
+          "file_path": "9783866496811_chapter_0871.txt",
+          "source_id": "b0099914e7ce5a08104e5f776cf91bfeafc1bb958cc0e20034d85a8c43159847",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1084,
+          "_split_overlap": [
+            {
+              "doc_id": "e205102dbe22d011b8c256599306f23c9b3d0754ea8954bfc99dc31dfeba3fed",
+              "range": [
+                1084,
+                1428
+              ]
+            },
+            {
+              "doc_id": "9b55d8d6ef2884725218346c67ddbc3de4f66f135f934cb6a522634db2e419f6",
+              "range": [
+                0,
+                393
+              ]
+            }
+          ]
+        },
+        "content": "Personen fortwährend die Handlungen des Anderen und benutzten diese Informationen als Grundlage für das eigene Handeln. Eines ihrer Hauptanliegen ist es, dass sich ein Verständnis von Pflege durchsetzt, dass die Familie als Ganzes bzw. das System enger Be- zugspersonen in den Blick nimmt und sich nicht ausschließlich auf die pflegebedürftige Person konzentriert. Sie möchte die Hintergründe herausfinden, die Angehörige dazu bewegen, ihre Beziehung zu den Pflegebedürftigen aufrecht zu erhalten oder abzubre- chen. Zu diesem Zweck hat sie eine qualitative Studie durchgeführt und darin die pflegenden Angehörigen interviewt. Ihr Ziel war es: „Eine in die Tiefe dringende, reflexive Beschreibung der Erfahrung einer sorgenden pflegenden Angehörigen Beziehung zu erhalten“ (Biederbeck 2006:Vorwort). Ihre For- schungsarbeit erfasst die Sicht der pflegenden Angehörigen auf ihre Wirklichkeit. Forschungsergebnis ist, „(…) dass aus Sicht der Angehörigen, das Wesen der Interak- tion, zwischen pflegebed"
+      }
+    ]
+  }
+]

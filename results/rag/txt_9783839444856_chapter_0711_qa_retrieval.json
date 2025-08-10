@@ -1,0 +1,617 @@
+[
+  {
+    "filename": "9783839444856_chapter_0711.txt",
+    "question": "Welche Themen wurden zu Beginn der Interviews mit den Interviewpartner_innen erfragt?",
+    "answer": "Zu Beginn der Interviews wurden die individuellen Berufsbiografien gefragt. Die Formulierungen des Interviewleitfadens beziehen sich hier auf die aktuelle berufliche Position, den formalen Ausbildungsweg, Berufs­erfahrungen, den individuellen beruflichen Einstieg in die Anerkennungs­beratung und Teilnahmen an spezifischen Weiterbildungen.",
+    "expected": "Zu Beginn der Interviews wurden die individuellen Berufsbiografien erfragt, insbesondere die aktuelle berufliche Position, der formale Ausbildungsweg, Berufserfahrungen, der individuelle berufliche Einstieg in die Anerkennungsberatung sowie Teilnahmen an spezifischen Weiterbildungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ea5a254893726ddf9bfdf5619497cd28935f228965ba7b83a07c64b88fbba1f1",
+        "score": 0.9979210495948792,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1190,
+          "_split_overlap": [
+            {
+              "doc_id": "fec8cd9ab18ccf0a2d596927aa795b7a1ed79b2d0ba0ef725ed435c7b67aca12",
+              "range": [
+                1190,
+                1576
+              ]
+            },
+            {
+              "doc_id": "87f0a9a315ac7061789633dc987a5a6ab41eb70b618caf882211cd8533253121",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsstellen (vgl. ebd.). Der Kontakt zu den Interviewpartner_innen wurde persönlich oder über die Koordinator_innen hergestellt. Die Berater_innen wurden zu­ dem vorab per E-Mail über das Forschungsvorhaben und die Verwendung der Daten informiert und persönlich zu Beginn des Interviews nochmals auf den Interviewablauf und die Anonymisierung der Daten hingewiesen. Die Interviews erfolgten in der Regel als Einzelgespräche. In einem Fall fand auf Koordinationsebene ein Interview mit zwei Personen statt. Der Interview­ leitfaden basierte auf theoretischen Vorannahmen zu der Fragestellung so­ wie auf praxisnahen Fragen bezüglich der Beratungstätigkeit. Die Aufzeich­ nung des Gesprächs startete mit der ersten Frage des Interviewleitfadens und wurde mit einer offenen Frage beendet. Die Interviews dauerten jeweils zwischen ca. 45 Minuten und 1,5 Stunden. Für die Expert_inneninterviews wurde entlang des theoretischen Rah­ menkonzeptes ein Leitfaden entworfen, der jedoch nur als eine »flexi"
+      },
+      {
+        "rank": 2,
+        "id": "8b71434888c34edf08ac7a17cb331a93ea82e558a852e38d9006e633de241261",
+        "score": 0.9973657727241516,
+        "meta": {
+          "file_path": "9783839444856_chapter_0711.txt",
+          "source_id": "936fbd64201246b7cfdf71613df17f180f4f67925dbc86ebd629864c4d277826",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8749cb573fb1c474603ca9f5f37227b686286933b116523bc7ee631e6a615f5b",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "5.1.1 Informationen zu den Interviewpartner_innen In den Interviews wurde zu Beginn nach den individuellen Berufsbiogra­ fien gefragt. Die Formulierungen des Interviewleitfadens beziehen sich hier auf die aktuelle berufliche Position, den formalen Ausbildungsweg, Berufs­ erfahrungen, den individuellen beruflichen Einstieg in die Anerkennungs­ beratung und Teilnahmen an spezifischen Weiterbildungen. Entsprechend den formulierten Fragen wurden von den Interviewpartner_innen in den Darstellungen der Berufsbiografien unterschiedliche Schwerpunkte gesetzt und Auslassungen vorgenommen. Um die Antworten vergleichbar zu halten, wurden im Verlauf des Interviews gezielt zusätzliche Informationen nach­ gefragt. Die Ergebnisse werden zunächst übergreifend für alle Interview­ partner_innen dargestellt. Ausgewählte Zitate ergänzen die Beschreibun­ gen. Eine Gesamtübersicht der beruflichen Positionen, Qualifikationen und biografischen Erfahrungen mit der Anerkennung im Ausland erworbener Qualifikatio"
+      },
+      {
+        "rank": 3,
+        "id": "a570f530fadc2bb44ae4911a9df297f758e73bfe2bd78cacafc02d2009032bbe",
+        "score": 0.9969480633735657,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "41908f3e2145edc7b3e057183a507a45d9a7235e471feb5ffc2493edd630fe7c",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "5.1.2 Informationen zu den Beratungsstellen Zu Beginn der Interviews wurde neben den Qualifikationen und Erfah­ rungen der Interviewpartner_innen auch nach der Zusammensetzung des Teams in der jeweiligen Beratungsstelle und den Qualifikationen der Kol­ leg_innen gefragt. Wie auch die Interviewpartner_innen selbst haben alle Berater_innen in den Teams eine akademische Ausbildung. Am häufigsten sind in Deutschland und Österreich die Abschlüsse Sozialpädagogik, Soziale Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf­ ten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio­ nen im Team auch die Frage, welche formalen Qualifikationen für die Ein­ stellung als Berate"
+      },
+      {
+        "rank": 4,
+        "id": "878d4cc522fd10d07534322b01c024b538244969c68bd8f8c894e25aecb0978e",
+        "score": 0.994889497756958,
+        "meta": {
+          "file_path": "9783839444856_chapter_0632.txt",
+          "source_id": "be6af47ddfc749fb9dd0d3b1448fb664026baf5e4238d8ee69f0ea872ae22471",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9930,
+          "_split_overlap": [
+            {
+              "doc_id": "4957256f2cf91f2ec0ed6e9c4341913a7a6a3c941964a42d80fd2f5535d3a6bf",
+              "range": [
+                1256,
+                1637
+              ]
+            },
+            {
+              "doc_id": "f6ac1ed9ac22bb5480aa3b1ec84928d93287e9a1e72c8e30d3bdfb2f015284bc",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "Zusammenhänge zu konzentrieren. Der Fokus liegt hier also nicht auf den einzelnen Personen, sondern auf den Perspek­ tiven, Zielsetzungen und Handlungsstrategien, welche von den Interview­ partner_innen entwickelt werden. »Der Textvergleich mit der Absicht, das Repräsentative im ExpertInnen­ wissen zu entdecken und die Gewinnung von Aussagen darüber für andere kontrollierbar zu halten, ist ein voraussetzungsvolles Unternehmen. Denn zunächst ist jeder Interviewtext das Protokoll einer besonderen Interaktion und Kommunikation, unverwechselbar und einmalig in Inhalt und Form« (ebd., S. 451). Für die Nachvollziehbarkeit der Analyse werden die Kategorienbildung und die entwickelten Dimensionen bei der Darstellung der Ergebnisse mit Zita­ ten aus den Expert_inneninterviews hinterlegt. Da die Anonymisierung der Interviewpartner_innen aufgrund der begrenzten Zahl an Beratungsstellen und des damit verbundenen kleinen Kreises potentiell zu Befragender nur eingeschränkt gewährleistet werden konnt"
+      },
+      {
+        "rank": 5,
+        "id": "f6ac1ed9ac22bb5480aa3b1ec84928d93287e9a1e72c8e30d3bdfb2f015284bc",
+        "score": 0.9814700484275818,
+        "meta": {
+          "file_path": "9783839444856_chapter_0632.txt",
+          "source_id": "be6af47ddfc749fb9dd0d3b1448fb664026baf5e4238d8ee69f0ea872ae22471",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 11123,
+          "_split_overlap": [
+            {
+              "doc_id": "878d4cc522fd10d07534322b01c024b538244969c68bd8f8c894e25aecb0978e",
+              "range": [
+                1193,
+                1559
+              ]
+            },
+            {
+              "doc_id": "71e71a9f106a1af752dc65171476b7a215c7ecff7be323bd2755cf5068e7d3a4",
+              "range": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        "content": "im sprachlichen Ausdruck. Zudem kam es abhängig von den individuellen Rückmeldungen der Interviewpartner_innen zu einer Reduk­ tion der ausgewählten Textstellen, die als direkte Zitate verwendet wurden. Die Angabe der Quelle im Text ermöglicht eine Zuordnung der Interviews zu dem österreichischen oder deutschen Kontext, erlaubt jedoch keine Rück­ schlüsse auf das Geschlecht oder die jeweilige Beratungsstelle. Teilweise ent­ halten die Zitate jedoch dazu Hinweise, die in Abhängigkeit von den Rück­ meldungen der Interviewpartner_innen entfernt oder beibehalten wurden. Zur besseren Verständlichkeit und aus Gründen der Anonymisierung wur­ den die Zitate grammatisch korrigiert und hinsichtlich sprachlicher Auffäl­ ligkeiten geglättet. Die interviewten Personen verwendeten unterschiedli­ che Formen einer gendersensiblen Sprache, teilweise wurde zu Beginn oder Ende des Interviews darauf hingewiesen, dass sich die Formulierungen auf Frauen und Männer in gleicher Weise beziehen. Für die bessere"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0711.txt",
+    "question": "Wie wurden die Interviewpartner_innen hinsichtlich ihrer beruflichen Position für die Auswertung kategorisiert?",
+    "answer": "Die Interviewpartner_innen wurden nach ihrer beruflichen Position in die Koordinations- oder Beratungs­ebene aufgeteilt. Die Personen, die ausschließlich Aufgaben in der Koordination übernehmen, wurden der Koordinationsebene zugeordnet. Für Österreich trifft dies auf zwei und für Deutschland auf eine Person der insgesamt zwölf interviewten Personen zu. Die weiteren interviewten Personen übernehmen entweder neben der Beratung eine Leitungs- oder Koordinations­funktion oder zusätzliche Projektbereiche, die weder der Beratung noch der Koordination zurechenbar sind. \n        I cannot find the answer in the provided context. \n\n        Alternative Answer:\n         Die Interviewpartner_innen wurden nach ihrer beruflichen Position in die Koordinations- oder Beratungs­ebene aufgeteilt. Die Personen, die ausschließlich Aufgaben in der Koordination übernehmen, wurden der Koordinationsebene zugeordnet. Für Österreich trifft dies auf zwei und für Deutschland auf eine Person der insgesamt zwölf interviewten Personen zu. Die weiteren interviewten Personen übernehmen entweder neben der Beratung eine Leitungs- oder Koordinations­funktion oder zusätzliche Projektbereiche, die weder der Beratung noch der Koordination zurechenbar sind. \n\n        Alternative Answer:\n         Die Interviewpartner_innen wurden nach ihrer beruflichen Position in die Koordinations- oder Beratungs­ebene aufgeteilt. Die Personen, die ausschließlich Aufgaben in der Koordination übernehmen, wurden der Koordinationsebene zugeordnet. Für Österreich trifft dies auf zwei und für Deutschland auf eine Person der insgesamt zwölf interviewten Personen zu. Die weiteren interviewten Personen übernehmen entweder neben der Beratung eine Leitungs- oder Koordinations­funktion oder zusätzliche Projektbereiche, die weder der Beratung noch der Koordination zurechenbar sind. \n        I cannot find the answer in the provided context. \n\n        Alternative Answer:\n         Die Interviewpartner_innen wurden nach ihrer beruflichen Position in die Koordinations- oder Beratungs­ebene aufgeteilt. Die Personen, die ausschließlich Aufgaben in der Koordination übernehmen, wurden der Koordinationsebene zugeord",
+    "expected": "Die Interviewpartner_innen wurden in die Koordinations- oder Beratungsebene eingeteilt. Personen, die ausschließlich koordinierende Aufgaben ohne Beratung übernehmen, gehören zur Koordinationsebene. Berater_innen sind diejenigen, die ausschließlich beratend tätig sind. Personen mit Leitungs- oder Koordinationsfunktionen und zusätzlichen Projektaufgaben wurden entsprechend berücksichtigt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8b71434888c34edf08ac7a17cb331a93ea82e558a852e38d9006e633de241261",
+        "score": 0.9990960359573364,
+        "meta": {
+          "file_path": "9783839444856_chapter_0711.txt",
+          "source_id": "936fbd64201246b7cfdf71613df17f180f4f67925dbc86ebd629864c4d277826",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8749cb573fb1c474603ca9f5f37227b686286933b116523bc7ee631e6a615f5b",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "5.1.1 Informationen zu den Interviewpartner_innen In den Interviews wurde zu Beginn nach den individuellen Berufsbiogra­ fien gefragt. Die Formulierungen des Interviewleitfadens beziehen sich hier auf die aktuelle berufliche Position, den formalen Ausbildungsweg, Berufs­ erfahrungen, den individuellen beruflichen Einstieg in die Anerkennungs­ beratung und Teilnahmen an spezifischen Weiterbildungen. Entsprechend den formulierten Fragen wurden von den Interviewpartner_innen in den Darstellungen der Berufsbiografien unterschiedliche Schwerpunkte gesetzt und Auslassungen vorgenommen. Um die Antworten vergleichbar zu halten, wurden im Verlauf des Interviews gezielt zusätzliche Informationen nach­ gefragt. Die Ergebnisse werden zunächst übergreifend für alle Interview­ partner_innen dargestellt. Ausgewählte Zitate ergänzen die Beschreibun­ gen. Eine Gesamtübersicht der beruflichen Positionen, Qualifikationen und biografischen Erfahrungen mit der Anerkennung im Ausland erworbener Qualifikatio"
+      },
+      {
+        "rank": 2,
+        "id": "8749cb573fb1c474603ca9f5f37227b686286933b116523bc7ee631e6a615f5b",
+        "score": 0.9985873699188232,
+        "meta": {
+          "file_path": "9783839444856_chapter_0711.txt",
+          "source_id": "936fbd64201246b7cfdf71613df17f180f4f67925dbc86ebd629864c4d277826",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1283,
+          "_split_overlap": [
+            {
+              "doc_id": "8b71434888c34edf08ac7a17cb331a93ea82e558a852e38d9006e633de241261",
+              "range": [
+                1283,
+                1691
+              ]
+            }
+          ]
+        },
+        "content": "sehr begrenzter Einblick in ausgewählte Beratungsstellen in zwei Bundes­ ländern gegeben wird. Für die Darstellung werden die Interviewpartner_in­ nen nach ihrer beruflichen Position in die Koordinations- oder Beratungs­ ebene aufgeteilt. Der Koordinationsebene werden dabei nur die Personen zugeordnet, die keinerlei beratende, sondern ausschließlich Aufgaben in der Koordination übernehmen. Für Österreich trifft dies auf zwei und für Deutschland auf eine Person der insgesamt zwölf interviewten Personen zu. Jeweils ein_e Interviewpartner_in ist in Deutschland und Österreich aus­ schließlich als Berater_in tätig, die weiteren interviewten Personen über­ nehmen entweder neben der Beratung eine Leitungs- oder Koordinations­ funktion oder zusätzliche Projektbereiche, die weder der Beratung noch der Koordination zurechenbar sind (z.B. Zusammenarbeit mit Multiplikator_in­ nen)."
+      },
+      {
+        "rank": 3,
+        "id": "aa395bb17fb2b32bb85bf5db6f279ce6f3d5443e6044b551690a175154ff5269",
+        "score": 0.9965640902519226,
+        "meta": {
+          "file_path": "9783839444856_chapter_062.txt",
+          "source_id": "cb48d56204a65dfeac669f1daa68450d5f8c31a1807a992afa5cdb24caad6c92",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3683,
+          "_split_overlap": [
+            {
+              "doc_id": "d14baf8cdf5f5ca752f2c050115dc78c5c2bb20f908ab8e555b6a9446f7f8c32",
+              "range": [
+                1180,
+                1577
+              ]
+            }
+          ]
+        },
+        "content": "die Entwicklung von professionellen Handlungs­ mustern ausüben können, sie werden hier jedoch nicht zum Gegenstand des Forschungsinteresses gemacht. Die Definition der Interviewpartner_innen als Expert_innen bezieht sich im Unterschied zu externen Expert_innen im Sinne von Gutachter_in­ nen auf Personen, »die selbst Teil des Handlungsfeldes sind, das den For­ schungsgegenstand ausmacht« (ebd., S. 443). Damit ist die Beschreibung der Interviewpartner_innen als Expert_innen ein relationaler Status, der von dem jeweiligen Forschungsinteresse abhängig ist. In diesem Zusammen­ hang weisen die Autor_innen darauf hin, dass Expert_innen innerhalb von Organisationsstrukturen nicht zwangsläufig auf hierarchisch übergeord­ neten Positionen zu finden sein müssen, sondern das detaillierteste Wissen über organisationsinterne Strukturen, Abläufe und Umsetzungsprozesse vor allem auch bei den Personen zu finden ist, die für die Umsetzung und Durchführung verantwortlich sind (vgl. ebd., S. 443f.). In de"
+      },
+      {
+        "rank": 4,
+        "id": "ea5a254893726ddf9bfdf5619497cd28935f228965ba7b83a07c64b88fbba1f1",
+        "score": 0.9937283992767334,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1190,
+          "_split_overlap": [
+            {
+              "doc_id": "fec8cd9ab18ccf0a2d596927aa795b7a1ed79b2d0ba0ef725ed435c7b67aca12",
+              "range": [
+                1190,
+                1576
+              ]
+            },
+            {
+              "doc_id": "87f0a9a315ac7061789633dc987a5a6ab41eb70b618caf882211cd8533253121",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsstellen (vgl. ebd.). Der Kontakt zu den Interviewpartner_innen wurde persönlich oder über die Koordinator_innen hergestellt. Die Berater_innen wurden zu­ dem vorab per E-Mail über das Forschungsvorhaben und die Verwendung der Daten informiert und persönlich zu Beginn des Interviews nochmals auf den Interviewablauf und die Anonymisierung der Daten hingewiesen. Die Interviews erfolgten in der Regel als Einzelgespräche. In einem Fall fand auf Koordinationsebene ein Interview mit zwei Personen statt. Der Interview­ leitfaden basierte auf theoretischen Vorannahmen zu der Fragestellung so­ wie auf praxisnahen Fragen bezüglich der Beratungstätigkeit. Die Aufzeich­ nung des Gesprächs startete mit der ersten Frage des Interviewleitfadens und wurde mit einer offenen Frage beendet. Die Interviews dauerten jeweils zwischen ca. 45 Minuten und 1,5 Stunden. Für die Expert_inneninterviews wurde entlang des theoretischen Rah­ menkonzeptes ein Leitfaden entworfen, der jedoch nur als eine »flexi"
+      },
+      {
+        "rank": 5,
+        "id": "a570f530fadc2bb44ae4911a9df297f758e73bfe2bd78cacafc02d2009032bbe",
+        "score": 0.9930102229118347,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "41908f3e2145edc7b3e057183a507a45d9a7235e471feb5ffc2493edd630fe7c",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "5.1.2 Informationen zu den Beratungsstellen Zu Beginn der Interviews wurde neben den Qualifikationen und Erfah­ rungen der Interviewpartner_innen auch nach der Zusammensetzung des Teams in der jeweiligen Beratungsstelle und den Qualifikationen der Kol­ leg_innen gefragt. Wie auch die Interviewpartner_innen selbst haben alle Berater_innen in den Teams eine akademische Ausbildung. Am häufigsten sind in Deutschland und Österreich die Abschlüsse Sozialpädagogik, Soziale Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf­ ten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio­ nen im Team auch die Frage, welche formalen Qualifikationen für die Ein­ stellung als Berate"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0711.txt",
+    "question": "Warum ist bei der Interpretation der Interviewdaten zu berücksichtigen, dass in Österreich alle fünf Beratungsstellen an vier Standorten, in Deutschland jedoch nur ausgewählte Beratungsstellen in zwei Bundesländern einbezogen wurden?",
+    "answer": "Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum/zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikationen im Team auch die Frage, welche formalen Qualifikationen für die Einstellung als Berater_in in diesem Feld relevant sind. Aus den Interviews wird ersichtlich, dass sich die einzelnen Teams zwar interdisziplinär zusammen­ setzen, jedoch für die Einstellung durchaus Qualifikationen aus dem päda­ gogischen und sozialen Bereich von Bedeutung sind. Das bedeutet, dass die Auswahl der Beratungsstellen in Deutschland anhand der Vielzahl der Beratungsstellen und der unterschiedlichen rechtlichen Strukturen erfolgte, um eine umfassende Perspektive auf die Organisation zu erhalten. \n        Die Befragung von Berater_innen aus den drei Beratungsstellen sowie den koordinierenden Personen sollte ein Vergleich zwischen den unterschiedlichen Netzwerkstrukturen ermöglichen. Die vierte Beratungsstelle befindet sich außerhalb des Netzwerkes und wurde aufgrund der spezifischen rechtlichen Strukturen ausgewählt. Ziel dieser qualitativen Stichprobenziehung ist damit keine statistische Repräsentativität, sondern die Berücksichtigung der für die Fragestellung relevanten Heterogenität der untersuchten Beratungsstellen. Die Auswahl der Beratungsstellen in Deutschland war somit aufgrund der Vielzahl der Beratungsstellen und der unterschiedlichen rechtlichen Strukturen erfolgt. \n\n        Die Antwort auf die Frage, warum in Österreich alle fünf Beratungsstellen an vier Standorten einbezogen wurden, ist nicht im Text enthalten. \n\n        In Österreich erfolgte die konkrete Auswahl der Interviewpartner_innen in Bezug auf die vier AST-Standorte und die jeweilige berufliche Rolle als Pro­ jektleiter_in und/oder Berater_in. \n\n        In Deutschland wurde ein an dem Forschungsprozess orientiertes sukzessives Auswahlverfahren zum Einsatz, wobei aus der Analyse der ersten Interviews in Österreich Kriterien für die Auswahl weiterer zu Befragender entwickelt wurden. \n\n        Der Fokus lag zunächst auf einem Netzwerk, welches von Beginn an im engen Austausch mit",
+    "expected": "Weil die österreichischen Daten umfassender sind und alle fünf Beratungsstellen an vier Standorten abdecken, während in Deutschland nur ein sehr begrenzter Einblick in ausgewählte Beratungsstellen in zwei Bundesländern besteht, was die Vergleichbarkeit und Aussagekraft der Ergebnisse beeinflusst.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a570f530fadc2bb44ae4911a9df297f758e73bfe2bd78cacafc02d2009032bbe",
+        "score": 0.9721178412437439,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "41908f3e2145edc7b3e057183a507a45d9a7235e471feb5ffc2493edd630fe7c",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "5.1.2 Informationen zu den Beratungsstellen Zu Beginn der Interviews wurde neben den Qualifikationen und Erfah­ rungen der Interviewpartner_innen auch nach der Zusammensetzung des Teams in der jeweiligen Beratungsstelle und den Qualifikationen der Kol­ leg_innen gefragt. Wie auch die Interviewpartner_innen selbst haben alle Berater_innen in den Teams eine akademische Ausbildung. Am häufigsten sind in Deutschland und Österreich die Abschlüsse Sozialpädagogik, Soziale Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf­ ten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio­ nen im Team auch die Frage, welche formalen Qualifikationen für die Ein­ stellung als Berate"
+      },
+      {
+        "rank": 2,
+        "id": "b823765b6446d5d00266add25b66a38748b0f4eddf3ea34113ccaf00236b08ff",
+        "score": 0.9401127099990845,
+        "meta": {
+          "file_path": "9783839444856_chapter_042.txt",
+          "source_id": "65414aa1d80825662f85bd1a867cb5f903ff3216cd14a3f246e909eddd9d9eb1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6417,
+          "_split_overlap": [
+            {
+              "doc_id": "20a5ae85c6425259e0b294ecca69f40ac63f2d365d7b42e0087dbbc34ae35cab",
+              "range": [
+                1259,
+                1634
+              ]
+            }
+          ]
+        },
+        "content": "von den ASTen und in Deutschland vor allem durch die Beratungsstellen im Rahmen des IQ-Netzwerkes umgesetzt wird. Als Beratungsstellen in Österreich wurden systematisch die vier AST-Standorte Wien, Linz, Graz und Innsbruck ausgewählt. Weitere Interviews erfolgten mit den Koordinator_innen, um eine umfassende Perspektive auf die Orga­ nisation zu erhalten. Ergänzend wurden Interviews in drei Beratungsstellen in einem deutschen Bundesland durchgeführt, die von Beginn an in engem Austausch mit den österreichischen Beratungsstellen standen. Zusätzlich wurde eine weitere Beratungsstelle aus einem zweiten Bundesland mitein­ bezogen, da sich hier interessante Besonderheiten in Bezug auf die recht­ lichen Rahmenbedingungen zeigten. Für die Darstellung der Ergebnisse aus Deutschland ist damit zu bedenken, dass nur ein Einblick in die Anerken­ nungsberatung und kein umfassendes oder repräsentatives Bild gegeben werden kann."
+      },
+      {
+        "rank": 3,
+        "id": "fec8cd9ab18ccf0a2d596927aa795b7a1ed79b2d0ba0ef725ed435c7b67aca12",
+        "score": 0.9221469759941101,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ea5a254893726ddf9bfdf5619497cd28935f228965ba7b83a07c64b88fbba1f1",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "4.3.1 Durchführung der Datenerhebung In Österreich erfolgte die konkrete Auswahl der Interviewpartner_innen in Bezug auf die vier AST-Standorte und die jeweilige berufliche Rolle als Pro­ jektleiter_in und/oder Berater_in. Aufgrund der Vielzahl an Beratungsstel­ len kam für Deutschland ein an dem Forschungsprozess orientiertes suk­ zessives Auswahlverfahren zum Einsatz (vgl. Kelle und Kluge 2010, S. 109). Dazu wurden aus der Analyse der ersten Interviews in Österreich Kriterien für die Auswahl weiterer zu Befragender entwickelt. Der Fokus lag zunächst auf einem Netzwerk, welches von Beginn an im engen Austausch mit den Anerkennungsberatungsstellen in Österreich stand. Die Befragung von Be­ rater_innen aus den drei Beratungsstellen sowie den koordinierenden Per­ sonen sollte ein Vergleich zwischen den unterschiedlichen Netzwerkstruk­ turen ermöglichen. Die vierte Beratungsstelle befindet sich außerhalb des Netzwerkes und wurde aufgrund der spezifischen rechtlichen Strukturen ausgewählt."
+      },
+      {
+        "rank": 4,
+        "id": "f0eac85e6cf47e09e760bf2dd8f3011ad79faf66d645d4afd246acdd4f35afe0",
+        "score": 0.8832808136940002,
+        "meta": {
+          "file_path": "9783839444856_chapter_071.txt",
+          "source_id": "2ae70dfb8557bb79ff5337572c88a96ee4c95c8e617975a9a1cb7c40f2ed2272",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.1 Beschreibung der Interviewpartner_innen und der Beratungsstellen Der erste Teil des Interviewleitfadens zielte auf die Erhebung der berufsbio­ grafischen Daten der Interviewpartner_innen, der Qualifikationen im Team und der Ausgestaltung der Beratungsstellen ab. Neben der Erhebung der Qualifikationen und Kompetenzen der interviewten Expert_innen gewähr­ te dies auch einen Einblick in die Teamzusammensetzung und die Konzep­ tion des Beratungsangebotes. Die Informationen zu den Beratungsstellen wurden zudem durch systematische Beobachtungen während der Besuche ergänzt. Dabei ist zu berücksichtigen, dass durch die Interviews vor Ort nur Informationen zu der Berufsbiografie und der Beratungsstelle gewonnen werden konnten, die explizit nachgefragt bzw. durch die Interviewpartner_ innen eingebracht wurden oder durch Beobachtungen zum Zeitpunkt des Besuchs zugänglich waren. Die nachfolgende Beschreibung der Interview­ partner_innen wie auch der Beratungsstellen findet damit bereits aus de"
+      },
+      {
+        "rank": 5,
+        "id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+        "score": 0.8608336448669434,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 15,
+          "split_idx_start": 16710,
+          "_split_overlap": [
+            {
+              "doc_id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+              "range": [
+                1136,
+                1445
+              ]
+            },
+            {
+              "doc_id": "8dcaae882f8744ec458edc2b28e2d0f20c3c3da66bddf9a9e888d9d37a567e12",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "tausch, also es passiert wirklich Austausch österreichweit. Wir kooperieren, wir sind ständig im Kontakt, was gibt es in dem Bundesland neu, was gibt es in dem Bundesland, wo sind die Unterschiede. Ja dieser Austausch ist ganz, ganz wichtig. Weil ich denke, in der Beratung, was jetzt anders ist, jetzt nicht nur in der Beratung, sondern überhaupt, was nach außen geht, ist, dass das Selbstbewusstsein von den ganzen Klient_innen ganz ein anderes ist« (H/AT, Z. 109-118). Durch die koordinierte Zusammenarbeit zwischen den Beratungsstellen wird ein gemeinsamer Qualitätssicherungs- und Entwicklungsprozess ini­ tiiert. Die Interviewpartner_innen betonen immer wieder, wie wichtig die­ ser österreichweite Austausch für die Berater_innen ist, da dieser von dem Handlungsdruck in der konkreten Beratungssituation entlastet. Durch den überinstitutionellen Austausch kann sich zudem ein gemeinsames Selbst­ verständnis von Anerkennungsberatung entwickeln. Gleichzeitig wird in diesem Interviewausschnitt "
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0711.txt",
+    "question": "Wie wurde sichergestellt, dass die Antworten der Interviewpartner_innen trotz unterschiedlicher Schwerpunkte und Auslassungen vergleichbar sind?",
+    "answer": "Um die Antworten vergleichbar zu halten, wurden im Verlauf des Interviews gezielt zusätzliche Informationen nachgefragt. (Source: 5.1.1 Informationen zu den Interviewpartner_innen)",
+    "expected": "Im Verlauf des Interviews wurden gezielt zusätzliche Informationen nachgefragt, um die Antworten vergleichbar zu halten, da die Interviewpartner_innen in ihren Darstellungen unterschiedliche Schwerpunkte setzten und Auslassungen vornahmen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8b71434888c34edf08ac7a17cb331a93ea82e558a852e38d9006e633de241261",
+        "score": 0.99730384349823,
+        "meta": {
+          "file_path": "9783839444856_chapter_0711.txt",
+          "source_id": "936fbd64201246b7cfdf71613df17f180f4f67925dbc86ebd629864c4d277826",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8749cb573fb1c474603ca9f5f37227b686286933b116523bc7ee631e6a615f5b",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "5.1.1 Informationen zu den Interviewpartner_innen In den Interviews wurde zu Beginn nach den individuellen Berufsbiogra­ fien gefragt. Die Formulierungen des Interviewleitfadens beziehen sich hier auf die aktuelle berufliche Position, den formalen Ausbildungsweg, Berufs­ erfahrungen, den individuellen beruflichen Einstieg in die Anerkennungs­ beratung und Teilnahmen an spezifischen Weiterbildungen. Entsprechend den formulierten Fragen wurden von den Interviewpartner_innen in den Darstellungen der Berufsbiografien unterschiedliche Schwerpunkte gesetzt und Auslassungen vorgenommen. Um die Antworten vergleichbar zu halten, wurden im Verlauf des Interviews gezielt zusätzliche Informationen nach­ gefragt. Die Ergebnisse werden zunächst übergreifend für alle Interview­ partner_innen dargestellt. Ausgewählte Zitate ergänzen die Beschreibun­ gen. Eine Gesamtübersicht der beruflichen Positionen, Qualifikationen und biografischen Erfahrungen mit der Anerkennung im Ausland erworbener Qualifikatio"
+      },
+      {
+        "rank": 2,
+        "id": "ea5a254893726ddf9bfdf5619497cd28935f228965ba7b83a07c64b88fbba1f1",
+        "score": 0.9967085123062134,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1190,
+          "_split_overlap": [
+            {
+              "doc_id": "fec8cd9ab18ccf0a2d596927aa795b7a1ed79b2d0ba0ef725ed435c7b67aca12",
+              "range": [
+                1190,
+                1576
+              ]
+            },
+            {
+              "doc_id": "87f0a9a315ac7061789633dc987a5a6ab41eb70b618caf882211cd8533253121",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsstellen (vgl. ebd.). Der Kontakt zu den Interviewpartner_innen wurde persönlich oder über die Koordinator_innen hergestellt. Die Berater_innen wurden zu­ dem vorab per E-Mail über das Forschungsvorhaben und die Verwendung der Daten informiert und persönlich zu Beginn des Interviews nochmals auf den Interviewablauf und die Anonymisierung der Daten hingewiesen. Die Interviews erfolgten in der Regel als Einzelgespräche. In einem Fall fand auf Koordinationsebene ein Interview mit zwei Personen statt. Der Interview­ leitfaden basierte auf theoretischen Vorannahmen zu der Fragestellung so­ wie auf praxisnahen Fragen bezüglich der Beratungstätigkeit. Die Aufzeich­ nung des Gesprächs startete mit der ersten Frage des Interviewleitfadens und wurde mit einer offenen Frage beendet. Die Interviews dauerten jeweils zwischen ca. 45 Minuten und 1,5 Stunden. Für die Expert_inneninterviews wurde entlang des theoretischen Rah­ menkonzeptes ein Leitfaden entworfen, der jedoch nur als eine »flexi"
+      },
+      {
+        "rank": 3,
+        "id": "a570f530fadc2bb44ae4911a9df297f758e73bfe2bd78cacafc02d2009032bbe",
+        "score": 0.9951183795928955,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "41908f3e2145edc7b3e057183a507a45d9a7235e471feb5ffc2493edd630fe7c",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "5.1.2 Informationen zu den Beratungsstellen Zu Beginn der Interviews wurde neben den Qualifikationen und Erfah­ rungen der Interviewpartner_innen auch nach der Zusammensetzung des Teams in der jeweiligen Beratungsstelle und den Qualifikationen der Kol­ leg_innen gefragt. Wie auch die Interviewpartner_innen selbst haben alle Berater_innen in den Teams eine akademische Ausbildung. Am häufigsten sind in Deutschland und Österreich die Abschlüsse Sozialpädagogik, Soziale Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf­ ten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio­ nen im Team auch die Frage, welche formalen Qualifikationen für die Ein­ stellung als Berate"
+      },
+      {
+        "rank": 4,
+        "id": "4957256f2cf91f2ec0ed6e9c4341913a7a6a3c941964a42d80fd2f5535d3a6bf",
+        "score": 0.9907062649726868,
+        "meta": {
+          "file_path": "9783839444856_chapter_0632.txt",
+          "source_id": "be6af47ddfc749fb9dd0d3b1448fb664026baf5e4238d8ee69f0ea872ae22471",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8674,
+          "_split_overlap": [
+            {
+              "doc_id": "a9976c02bfab3ba52e7fb09aaeaa62991949e143ed7b5c674bf9939f690f9e6e",
+              "range": [
+                1316,
+                1749
+              ]
+            },
+            {
+              "doc_id": "878d4cc522fd10d07534322b01c024b538244969c68bd8f8c894e25aecb0978e",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "die Interviewpartner_innen gewohnt sind, ihr Tätigkeitsfeld zu beschreiben und zu präsentieren, sodass im Textma­ terial auf ausreichend metaphorische Verdichtungen zur Beschreibung der inhaltlichen Passagen zurückgegriffen werden kann. Gleichzeitig verfügen alle Interviewpartner_innen aufgrund ihrer Ausbildung über ein fundier­ tes sozialwissenschaftliches Theoriewissen, auf das durchgehend Bezug genommen wird. Dies wird in den Interviews besonders bei Begriffen wie z.B. »Fachberatung« oder »pädagogischer Beratung« deutlich. Dabei ist zu berücksichtigen, dass Fachbegriffe je nach disziplinärer Ausrichtung und Handlungszusammenhang auf unterschiedliche Weise eingesetzt werden können und in ihrer Verwendung nicht mit den hier dargestellten theoreti­ schen Vorannahmen übereinstimmen müssen. Anhand der gruppierten Kategorien und ihres thematischen Vergleichs zwischen den Interviews werden im nächsten Schritt übergreifende Di­ mensionen gebildet. Nach Meuser und Nagel (vgl. ebd., S. 458) i"
+      },
+      {
+        "rank": 5,
+        "id": "f0eac85e6cf47e09e760bf2dd8f3011ad79faf66d645d4afd246acdd4f35afe0",
+        "score": 0.9884372353553772,
+        "meta": {
+          "file_path": "9783839444856_chapter_071.txt",
+          "source_id": "2ae70dfb8557bb79ff5337572c88a96ee4c95c8e617975a9a1cb7c40f2ed2272",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.1 Beschreibung der Interviewpartner_innen und der Beratungsstellen Der erste Teil des Interviewleitfadens zielte auf die Erhebung der berufsbio­ grafischen Daten der Interviewpartner_innen, der Qualifikationen im Team und der Ausgestaltung der Beratungsstellen ab. Neben der Erhebung der Qualifikationen und Kompetenzen der interviewten Expert_innen gewähr­ te dies auch einen Einblick in die Teamzusammensetzung und die Konzep­ tion des Beratungsangebotes. Die Informationen zu den Beratungsstellen wurden zudem durch systematische Beobachtungen während der Besuche ergänzt. Dabei ist zu berücksichtigen, dass durch die Interviews vor Ort nur Informationen zu der Berufsbiografie und der Beratungsstelle gewonnen werden konnten, die explizit nachgefragt bzw. durch die Interviewpartner_ innen eingebracht wurden oder durch Beobachtungen zum Zeitpunkt des Besuchs zugänglich waren. Die nachfolgende Beschreibung der Interview­ partner_innen wie auch der Beratungsstellen findet damit bereits aus de"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0711.txt",
+    "question": "Welche zusätzlichen Aufgaben neben der Beratung können Interviewpartner_innen übernehmen, die weder der Beratung noch der Koordination zugeordnet werden?",
+    "answer": "Zusätzliche Aufgaben, die Interviewpartner_innen übernehmen können, die weder der Beratung noch der Koordination zugeordnet werden, sind unter anderem die Zusammenarbeit mit Multiplikator_innen und die Mitgestaltung und konzeptionelle Weiterentwicklung der Anerkennungsberatung. Außerdem können sie sich auf Leitungs- oder Projektbereiche konzentrieren, die weder der Beratung noch der Koordination zurechenbar sind. Beispielsweise können sie als Projektleiter oder in einer Leitungsposition tätig sein und gleichzeitig auch die Anerkennungsberatung durchführen. In einem Interview wird erwähnt, dass eine Person als Projektleiter die Anerkennungsberatung aufbauen und selber nie beraten hat, was darauf hinweist, dass die Anerkennungsberatung nicht die einzige Aufgabe ist, die Interviewpartner_innen übernehmen können. \n\nI cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I",
+    "expected": "Zusätzliche Aufgaben können Projektbereiche umfassen, wie zum Beispiel die Zusammenarbeit mit Multiplikator_innen, die weder der Beratung noch der Koordination zugeordnet sind.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "94594e2ba9e3c94b4bf06cfc16afa29add37ad20592c657d0405cb9e5021e711",
+        "score": 0.9945149421691895,
+        "meta": {
+          "file_path": "9783839444856_chapter_073.txt",
+          "source_id": "9c507f9ea9b0ce3e5557656d2c9a0eb3a228ba33b8717a3830c372eeb0530a63",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.3 Rahmenbedingungen Aus der bisherigen Analyse der Interviews zeigt sich für die Anerkennungs­ beratung ein breites Aufgabenfeld auf unterschiedlichen Ebenen. In Abhän­ gigkeit von dem beruflichen Selbstverständnis werden die Aufgabenfelder von den Interviewpartner_innen unterschiedlich gewichtet und ausgestal­ tet. Oftmals können die entsprechenden Aufgaben und Zielsetzungen in der Beratungspraxis jedoch nicht verfolgt werden, da der Handlungsraum durch institutionelle, gesellschaftliche oder rechtliche Rahmenbedingun­ gen eingeschränkt wird. Aus anerkennungstheoretischer Perspektive struk­ turieren diese Rahmenbedingungen den Zugang zu möglichen Anerken­ nungsverhältnissen. Beratung als pädagogische Handlungsform ist daher gefordert, diese Strukturen als Handlungsbedingungen zu reflektieren (vgl. Scherr 2013, S. 35). Dazu werden hier zunächst interviewübergreifend die Rahmenbedingungen rekonstruiert, welche die Beratungstätigkeit aus Sicht der Interviewpartner_innen prägen und beei"
+      },
+      {
+        "rank": 2,
+        "id": "8749cb573fb1c474603ca9f5f37227b686286933b116523bc7ee631e6a615f5b",
+        "score": 0.9927076697349548,
+        "meta": {
+          "file_path": "9783839444856_chapter_0711.txt",
+          "source_id": "936fbd64201246b7cfdf71613df17f180f4f67925dbc86ebd629864c4d277826",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1283,
+          "_split_overlap": [
+            {
+              "doc_id": "8b71434888c34edf08ac7a17cb331a93ea82e558a852e38d9006e633de241261",
+              "range": [
+                1283,
+                1691
+              ]
+            }
+          ]
+        },
+        "content": "sehr begrenzter Einblick in ausgewählte Beratungsstellen in zwei Bundes­ ländern gegeben wird. Für die Darstellung werden die Interviewpartner_in­ nen nach ihrer beruflichen Position in die Koordinations- oder Beratungs­ ebene aufgeteilt. Der Koordinationsebene werden dabei nur die Personen zugeordnet, die keinerlei beratende, sondern ausschließlich Aufgaben in der Koordination übernehmen. Für Österreich trifft dies auf zwei und für Deutschland auf eine Person der insgesamt zwölf interviewten Personen zu. Jeweils ein_e Interviewpartner_in ist in Deutschland und Österreich aus­ schließlich als Berater_in tätig, die weiteren interviewten Personen über­ nehmen entweder neben der Beratung eine Leitungs- oder Koordinations­ funktion oder zusätzliche Projektbereiche, die weder der Beratung noch der Koordination zurechenbar sind (z.B. Zusammenarbeit mit Multiplikator_in­ nen)."
+      },
+      {
+        "rank": 3,
+        "id": "2efad57586682a2d746f74d93c32787698e97c89135d08f72969bc3e75250596",
+        "score": 0.9924692511558533,
+        "meta": {
+          "file_path": "9783839444856_chapter_07112.txt",
+          "source_id": "f79d2c737d593dcb44b454943f22fdd5ec54aeda7d1e6d44044c13d5ca74c7cb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4233fc0e0e423b49cc96b5b30fa0317754a5d1e2c6c48c2d61776945eb20d336",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.1.2 Beratungsebene Insgesamt sind neun der zwölf Interviewpartner_innen selbst in der Be­ ratung tätig, davon übernehmen sechs Personen die Beratung neben einer fachlichen oder koordinierenden Leitungsposition innerhalb der Beratungs­ stelle. Dabei wird in mehreren Interviews hervorgehoben, wie wichtig es für die Personen ist, auch selbst in der Beratung tätig zu sein. »Es ist natürlich viel zu tun, aber man muss einfach auch Kontakt mit Klient_ innen pflegen, weil sonst wäre es für mich persönlich schwierig, das Ganze zu vertreten, zu koordinieren, zu verstehen. Glaub, das finde ich ganz, ganz wichtig und ich bin froh, dass ich auch die Beratung machen kann« (H/AT, Z. 97-100). Die Beratungspraxis und der Kontakt zu den Klient_innen werden hier als wichtige Erfahrungen beschrieben, um eine leitende Funktion innerhalb der Beratungsstelle und repräsentative Aufgaben nach außen wahrnehmen zu können. Diese Erfahrungen übernehmen jedoch auch eine wichtige Funk­ tion für die aktive Mitge"
+      },
+      {
+        "rank": 4,
+        "id": "a570f530fadc2bb44ae4911a9df297f758e73bfe2bd78cacafc02d2009032bbe",
+        "score": 0.9888449311256409,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "41908f3e2145edc7b3e057183a507a45d9a7235e471feb5ffc2493edd630fe7c",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "5.1.2 Informationen zu den Beratungsstellen Zu Beginn der Interviews wurde neben den Qualifikationen und Erfah­ rungen der Interviewpartner_innen auch nach der Zusammensetzung des Teams in der jeweiligen Beratungsstelle und den Qualifikationen der Kol­ leg_innen gefragt. Wie auch die Interviewpartner_innen selbst haben alle Berater_innen in den Teams eine akademische Ausbildung. Am häufigsten sind in Deutschland und Österreich die Abschlüsse Sozialpädagogik, Soziale Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf­ ten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio­ nen im Team auch die Frage, welche formalen Qualifikationen für die Ein­ stellung als Berate"
+      },
+      {
+        "rank": 5,
+        "id": "fec8cd9ab18ccf0a2d596927aa795b7a1ed79b2d0ba0ef725ed435c7b67aca12",
+        "score": 0.9821977019309998,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ea5a254893726ddf9bfdf5619497cd28935f228965ba7b83a07c64b88fbba1f1",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "4.3.1 Durchführung der Datenerhebung In Österreich erfolgte die konkrete Auswahl der Interviewpartner_innen in Bezug auf die vier AST-Standorte und die jeweilige berufliche Rolle als Pro­ jektleiter_in und/oder Berater_in. Aufgrund der Vielzahl an Beratungsstel­ len kam für Deutschland ein an dem Forschungsprozess orientiertes suk­ zessives Auswahlverfahren zum Einsatz (vgl. Kelle und Kluge 2010, S. 109). Dazu wurden aus der Analyse der ersten Interviews in Österreich Kriterien für die Auswahl weiterer zu Befragender entwickelt. Der Fokus lag zunächst auf einem Netzwerk, welches von Beginn an im engen Austausch mit den Anerkennungsberatungsstellen in Österreich stand. Die Befragung von Be­ rater_innen aus den drei Beratungsstellen sowie den koordinierenden Per­ sonen sollte ein Vergleich zwischen den unterschiedlichen Netzwerkstruk­ turen ermöglichen. Die vierte Beratungsstelle befindet sich außerhalb des Netzwerkes und wurde aufgrund der spezifischen rechtlichen Strukturen ausgewählt."
+      }
+    ]
+  }
+]

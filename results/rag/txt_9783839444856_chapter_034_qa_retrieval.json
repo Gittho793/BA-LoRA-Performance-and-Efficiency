@@ -1,0 +1,646 @@
+[
+  {
+    "filename": "9783839444856_chapter_034.txt",
+    "question": "Was ist das Hauptziel der qualitativen Studie zur Anerkennungsberatung in der vorliegenden Arbeit?",
+    "answer": "Die vorliegende Arbeit untersucht, welche Perspektiven die Interviewpartner_innen auf Anerkennungsberatung als eine sich neu institutionalisierende Beratung entwickeln und welche professionellen Handlungsstrategien beschrieben werden, um unter den gegebenen Rahmenbedingungen handlungsfähig im Sinne des beruflichen Selbstverständnisses zu bleiben.",
+    "expected": "Das Hauptziel der qualitativen Studie ist es, die Perspektiven der Interviewpartner_innen auf Anerkennungsberatung als sich neu institutionalisierende Beratung zu untersuchen und die professionellen Handlungsstrategien zu beschreiben, um unter den gegebenen Rahmenbedingungen handlungsfähig im Sinne des beruflichen Selbstverständnisses zu bleiben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "05b5de15bd3c9deec89ec62a3dbfa08d87ba7f749bdbd5cab52f9dcfdc5e3c72",
+        "score": 0.67160964012146,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 16161,
+          "_split_overlap": [
+            {
+              "doc_id": "9b5af2130d014a53cd8a6b8ec5eb024fb504a26b67427f749172e1e3c863da0e",
+              "range": [
+                1155,
+                1579
+              ]
+            },
+            {
+              "doc_id": "bf5aec3bf1ee6efbaacc52ba851f2bf1fe0def37fa5fcfad2562247336db9ce5",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "wie z.B. eines Studiums oder bestimmter sozialer Kompetenzen, verbunden sein und damit als Verweigerung emotio­ naler Anerkennung erfahren werden. Anerkennung und Diskriminierung Sprung (vgl. 2011) erweitert in ihrer Studie zur Weiterbildungsbeteiligung und Arbeitsmarkpartizipation von Migrant_innen den anerkennungstheo­ retischen Ansatz nach Honneth um Konzepte zur institutionellen Diskrimi­ nierung. Dadurch werden die Mechanismen verdeutlicht, die dazu führen, dass Personen mit Migrationsgeschichte in spezifischer Weise von Anerken­ nungsdefiziten betroffen sind. Die rechtliche Ungleichbehandlung wird in Bezug auf die Staatsangehörigkeit, die Zugangsregelungen zum Arbeits­ markt und die formale Anerkennung von Qualifikationen ausdifferenziert. Dabei weist Sprung in Anlehnung an Kaletta (vgl. 2008, S. 27f.) darauf hin, dass parallel zu der bei Honneth beschriebenen Erweiterung von Anerken­ nungsverhältnissen auch eine Einschränkung erfolgen kann. Als ein Bei­ spiel dafür werden gesetz"
+      },
+      {
+        "rank": 2,
+        "id": "ab3fa27625b1191da179067bcd324ee1e9a1d71ffd3635fec6e65b2411f22ba3",
+        "score": 0.5057069659233093,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 11119,
+          "_split_overlap": [
+            {
+              "doc_id": "1bcdfbd5d745b62276cb6b267e3ff49e7416b9af8183cb608df56d0fd0d0cc42",
+              "range": [
+                1329,
+                1737
+              ]
+            }
+          ]
+        },
+        "content": "der rechtlichen und der gesellschaftlichen Ebene mit den Anerkennungsformen der profes­ sionellen emotionalen, der formalen und der positionalen Anerkennung (vgl. Abb. 9). Diese drei Analyseebenen werden zueinander in Beziehung gesetzt und ermöglichen die systematische empirische Erfassung der Aufgabenfel­ der und Zielsetzungen von Anerkennungsberatung und bieten zudem ein theoretisches Rahmenkonzept zur Interpretation der erhobenen Daten. Abbildung 9: Anerkennungsdimensionen Quelle: eigene Darstellung Anerkennungsdimensionen Analyseebene Interaktions- ebene rechtliche Ebene gesellschaftliche Ebene Anerkennungsform professionelle Form emotionaler Anerkennung formale Anerkennung positionale Anerkennung Anerkennungsberatung kann auf der Interaktionsebene des Beratungs­ gesprächs emotionale Anerkennung direkt herstellen und damit den_die Klient_in darin unterstützen, auf gesellschaftlicher und rechtlicher Ebe­ ne Anerkennungsverhältnisse einzufordern. Für die empirische Analyse ist von be"
+      },
+      {
+        "rank": 3,
+        "id": "270e577e69e074f4d3967a48a885458558e3d0ec153574539d6272ae2fb5eafc",
+        "score": 0.38111817836761475,
+        "meta": {
+          "file_path": "9783839444856_chapter_034.txt",
+          "source_id": "9e9616a37140bcaf50787b1ce6d7979bb7764ee1fe51d589be1616ce01704fe1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c8ee8ca7ddb3fe7776f26bfdd83a129ef8f960175373ecbf16fc7ce28045e8d7",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "1.4 Aufbau der Arbeit Anerkennungsberatung findet innerhalb ausdifferenzierter rechtlicher und gesellschaftlicher Rahmenbedingungen statt. Aus der Perspektive der Bildungsforschung ist vor allem die Rekonstruktion der Zusammenhänge zwischen pädagogischem Handeln und strukturellen Bedingungen von In­ teresse, um dadurch Widersprüche und Spannungsfelder sichtbar machen zu können (vgl. Kalpaka 2009a, S. 35f). Voraussetzung für pädagogisches Handeln innerhalb der sozialstrukturellen Rahmenbedingungen ist ein berufliches Selbstverständnis, welches die Abgrenzung von externen An­ forderungen und Erwartungen ermöglicht. In der vorliegenden Arbeit wird in einer qualitativen Studie untersucht, welche Perspektiven die Interview­ partner_innen auf Anerkennungsberatung als eine sich neu institutionali­ sierende Beratung entwickeln und welche professionellen Handlungsstra­ tegien beschrieben werden, um unter den gegebenen Rahmenbedingungen handlungsfähig im Sinne des beruflichen Selbstverständnisse"
+      },
+      {
+        "rank": 4,
+        "id": "8b30795195b2507512fc2bcfd9c33b05f0fc122c1f6257ede0148db44adfa65b",
+        "score": 0.2395414113998413,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6586,
+          "_split_overlap": [
+            {
+              "doc_id": "06064bd1e2002e84077de00014df4f2abd31ce4853fa3fd66d7f434adfe52deb",
+              "range": [
+                1491,
+                1871
+              ]
+            },
+            {
+              "doc_id": "5d6172c2a102abcd27e2186f207a1915d6c1dfd8a2b6a65dd3c0e7769b3e694f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "dem Subjekt Gefühle besonderer Wertschätzung entgegen­ bringt. Mit Hilfe der Theorie der Objektbeziehung beschreibt Honneth das Anerkennungsverhältnis als eine Balance zwischen Selbständigkeit und Bin­ dung. Unabhängigkeit wird dabei nur in Verbindung mit dem Vertrauen in die Kontinuität der Beziehung ermöglicht. Anerkennung bezieht sich hier also auf den doppelten Vorgang der gleichzeitigen Freigabe und emotionalen Bindung. Entscheidend für die vorliegende Arbeit ist hierbei, dass die emo­ tionale Anerkennung nach Honneth sich damit nicht auf eine professionelle Beratungsbeziehung übertragen lässt, weil sie unter anderem auf eine kon­ tinuierliche Bindung angewiesen ist (vgl. ebd., S. 153ff.). Dem gleichen Mechanismus einer reziproken Anerkennung folgt die Anerkennungsdimension des Rechts. Demnach kann das Subjekt zu einem Verständnis von sich selbst als Träger_in von Rechten nur gelangen, wenn es umgekehrt Wissen über die Verpflichtungen gegenüber anderen Perso­ nen besitzt. Vorausse"
+      },
+      {
+        "rank": 5,
+        "id": "1bcdfbd5d745b62276cb6b267e3ff49e7416b9af8183cb608df56d0fd0d0cc42",
+        "score": 0.16988468170166016,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9790,
+          "_split_overlap": [
+            {
+              "doc_id": "815bbaac40ad54a6b846295b3b132d382faf9c6042237e1d72ca107a90437e33",
+              "range": [
+                1170,
+                1592
+              ]
+            },
+            {
+              "doc_id": "ab3fa27625b1191da179067bcd324ee1e9a1d71ffd3635fec6e65b2411f22ba3",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "positionieren. Eine Voraussetzung hierfür ist, wie bereits beschrieben, der gleichberechtigte Zugang zu gesellschaftlichen Teilsyste­ men wie dem Arbeitsmarkt und dem Bildungssystem. Anerkennungsberatung kann auch auf dieser Analyseebene keinen di­ rekten Einfluss auf die Herstellung von Anerkennungsverhältnissen nehmen. Eine Möglichkeit besteht jedoch darin, über die Bereitstellung und Vermitt­ lung von Informationen die Voraussetzungen für Bewerbungsprozesse auf dem Arbeitsmarkt zu verbessern und über mögliche (Weiter-)Bildungswege aufzuklären. In Anlehnung an Stojanov (vgl. 2006) ist hier auch die Unterstüt­ zung von Reflexionsprozessen zu berücksichtigen, um individuelle Kompe­ tenzen und Fähigkeiten verstärkt sichtbar machen zu können. Anerkennungs­ beratung kann darüber hinaus durch Öffentlichkeitsarbeit und spezifische Projekte zu einer erhöhten gesellschaftlichen Sensibilisierung für im Ausland erworbene Qualifikationen beitragen. Die dritte Analyseebene umfasst damit also die "
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_034.txt",
+    "question": "Welche methodischen Ansätze werden zur Datenerhebung und -analyse in der Arbeit verwendet?",
+    "answer": "Die Datenerhebung und -analyse erfolgt im Kontext einer qualitativ-interpretativen Forschungstradition anhand der qualitativen Inhaltsanalyse nach Mayring und einer vertiefenden interpretativ-rekonstruktiven Auswertung nach Meuser und Nagel. Zusätzlich wird die Grounded Theory zur Analyse der ethnografischen Studienteile verwendet. Für die Auswertung der Expert_inneninterviews werden praxistheoretische Leitfragen entwickelt, die die Analyse von Praktiken der Beratung ermöglichen. Die ethnografische Auswertung orientiert sich an der Grounded Theory und verwendet praxistheoretische Leitfragen, um die Analyse von Praktiken der Beratung zu ermöglichen. Die Datenerhebung umfasst Expert_inneninterviews, Beobachtungen und Dokumentenanalysen. Die Analyse der Daten erfolgt durch qualitative Inhaltsanalyse und interpretativ-rekonstruktive Auswertung. Zusätzlich wird die Grounded Theory zur Analyse der ethnografischen Studienteile verwendet. Die ethnografische Auswertung verwendet praxistheoretische Leitfragen, um die Analyse von Praktiken der Beratung zu ermöglichen. Die Datenerhebung und -analyse erfolgt im Kontext einer qualitativ-interpretativen Forschungstradition. Die Datenerhebung umfasst Expert_inneninterviews, Beobachtungen und Dokumentenanalysen. Die Analyse der Daten erfolgt durch qualitative Inhaltsanalyse und interpretativ-rekonstruktive Auswertung. Zusätzlich wird die Grounded Theory zur Analyse der ethnografischen Studienteile verwendet. Die ethnografische Auswertung verwendet praxistheoretische Leitfragen, um die Analyse von Praktiken der Beratung zu ermöglichen. Die Datenerhebung und -analyse erfolgt im Kontext einer qualitativ-interpretativen Forschungstradition. Die Datenerhebung umfasst Expert_inneninterviews, Beobachtungen und Dokumentenanalysen. Die Analyse der Daten erfolgt durch qualitative Inhaltsanalyse und interpretativ-rekonstruktive Auswertung. Zusätzlich wird die Grounded Theory zur Analyse der ethnografischen Studienteile verwendet. Die ethnografische",
+    "expected": "Zur Datenerhebung werden Expert_inneninterviews mit Berater_innen und Koordinator_innen der Anerkennungsberatung durchgeführt. Die Datenauswertung erfolgt mittels qualitativer Inhaltsanalyse nach Mayring (2015) in Kombination mit einer interpretativ-rekonstruktiven Auswertung nach Meuser und Nagel (1991) sowie Kelle und Kluge (2010).",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d4ac165bb9eadef844a4f5199212e547ab07aa4a57343dfc98b1bddf6ccde07f",
+        "score": 0.9925006031990051,
+        "meta": {
+          "file_path": "9783839444856_chapter_063.txt",
+          "source_id": "32555e66cfa5f529eee5d2cde31339712c55a933dc9421f13bad4ece780b9921",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "35a939befe0a71435bbaf14144b3aab642d5dd7e732f5bc3949b64e581173e87",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "4.3 Datenerhebung und -analyse Die im Kontext der qualitativen Forschungstradition geforderte Reflexivi­ tät im Forschungsprozess zeigt sich auch in der möglichst vollständigen und intersubjektiv überprüfbaren Dokumentation und Explikation der einzel­ nen Schritte der Datenerhebung und -auswertung (vgl. Lamnek 2010, S. 23). Die Expert_inneninterviews wurden mit sieben Berater_innen und Koordi­ nator_innen in den vier Beratungsstandorten und der Anlaufstellenkoordi­ nation in Österreich und ergänzend mit fünf Berater_innen und Koordina­ tor_innen aus ausgewählten Beratungsstellen in Deutschland durchgeführt. Als Datenquellen werden die transkribierten Interviews und in Ergänzung die während des Besuchs angefertigten Beobachtungsprotokolle sowie die von den Beratungsstellen zur Verfügung gestellten Dokumente verwendet. Die Datenerhebung erfolgte in dem Zeitraum von 2014 bis 2016 und beinhal­ tete den Besuch der jeweiligen Beratungsstelle vor Ort. Die Beratungsproto­ kolle wurden während "
+      },
+      {
+        "rank": 2,
+        "id": "d3f8c50627058b9f8748465cb2b5d4274c4bff0e3164845a02475dcc42d3674d",
+        "score": 0.9879053831100464,
+        "meta": {
+          "file_path": "9783839444856_chapter_06.txt",
+          "source_id": "7e46be86fa591d46c6996b7d074ef6483cfba925d32cbf64edbc05432c4f1cc6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4.\tMethodologische Einordnung und methodisches Vorgehen ### 4. Methodologische Einordnung und methodisches Vorgehen Die Datenerhebung und -analyse erfolgt im Kontext einer qualitativ-inter­ pretativen Forschungstradition anhand der qualitativen Inhaltsanalyse nach Mayring (vgl. 2015) und einer vertiefenden interpretativ-rekonstruktiven Auswertung nach dem von Meuser und Nagel (vgl. 1991) vorgeschlagenen Ab­ laufmodell zur Auswertung von offenen, leitfadenorientierten Interviews in Ergänzung mit dem Stufenmodell zur empirischen Typenbildung nach Kelle und Kluge (vgl. 2010). Dieses zweistufige Vorgehen wurde gewählt, da der Zugang über Expert_inneninterviews einerseits die Erhebung spezifischer Wissensbestände und Informationen über Anerkennungsberatung als rela­ tiv neuen Forschungsgegenstand und zudem die Erfassung der spezifischen Zielsetzungen, Begründungen und Perspektiven der Berater_innen und Koordinator_innen auf Anerkennungsberatung als ein neues Beratungs­ angebot ermöglich"
+      },
+      {
+        "rank": 3,
+        "id": "45d60a37d18124f9b7bc28cbf87316eaa94ee8df3693dd0eaa5b3e152c103b29",
+        "score": 0.9866210222244263,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3624,
+          "_split_overlap": [
+            {
+              "doc_id": "c972666e53ba44e96d0be72923bcd3119a013dc044f1eab70397b1380e30bc51",
+              "range": [
+                1233,
+                1621
+              ]
+            },
+            {
+              "doc_id": "52dc3cbf533613c7a86e2ab19d6ddccbbbec2c6ffa8306a249bbcce023cc9352",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "verwiesen (vgl. ebd.: 289 ff.). Zur Analyse der hier dargestellten theoretischen Referenzpunkte der In- szenierung von Rollen und der sozialen Praktiken orientiert sich die Auswer- tung des ethnografischen Studienteils von „Transition Processing“ methodolo- gisch an der Grounded Theory (vgl. Glaser/Strauss 2010). Für die Auswertung bilden Protokolle aus teilnehmenden Beobachtungen von feldtypischen Situ- ationen den Analysegegenstand. Entsprechend des Erkenntnisinteresses und der Datensorte wurden in Anlehnung an Charmaz’ Vorschlag zum gegen- standsangemessenen Umgang mit dem Kodierparadigma (2006) praxisthe- oretische Leitfragen entwickelt und zugrunde gelegt, welche die Analyse von Praktiken der Beratung ermöglichen. Die Besonderheit der Ethnografie, Nicht-Versprachlichtes zu versprachlichen, ermöglicht einen Einblick in un- ausgesprochene und unhinterfragte Routinen in der Beratungssituation (vgl. Breidenstein et al. 2013: 95) sowie die Analyse der interaktiven Herstellung organisat"
+      },
+      {
+        "rank": 4,
+        "id": "24e1b2ad6da41f92c1364af214c9e72b2afac5f58a6bfa7d5a117c0b623cefd9",
+        "score": 0.9822461605072021,
+        "meta": {
+          "file_path": "9783839444856_chapter_0631.txt",
+          "source_id": "c285d91157a51eb225cb656ee656b3ca96d36d8da27a1d885fc54f1210ec0220",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9491,
+          "_split_overlap": [
+            {
+              "doc_id": "d17efb85e3c93bd2fe5f2ec27773d4c7d72922c046e9d82ddc456f8d78cb8061",
+              "range": [
+                1210,
+                1604
+              ]
+            }
+          ]
+        },
+        "content": "für die Argu­ mentation genutzt werden. Zusätzlich wurde für die Datenauswertung auf unterschiedliche Mate­ rialien und Dokumente zurückgegriffen. Dabei handelt es sich um Material aus dem Bereich der Öffentlichkeitsarbeit, um Dokumentationen und rele­ vante Studien sowie um Veröffentlichungen der Einrichtungen oder Inter­ viewpartner_innen. Die Datenerhebung beschränkt sich hier jedoch auf die während des Interviews zur Verfügung gestellten Dokumente bzw. die zum Zeitpunkt der Interviewdurchführung auf der Homepage verfügbaren Unterlagen."
+      },
+      {
+        "rank": 5,
+        "id": "ebe8952494ba6dd1809f99a1bb07d020e665f4205e3c19e0dcd68de6fabdde33",
+        "score": 0.9587311744689941,
+        "meta": {
+          "file_path": "9783847412304_chapter_0942.txt",
+          "source_id": "ff83987ddc0bbc8f52e5840a07b0638982d85a26e45389ee5f265defa5ed0e38",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6cd00a981e3451e30d1726f513a00bd55edda60a9db8c19d95224be341cfaf9",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "2. Projektstruktur Die Idee für den Bildungsberatungs-Radar wurde 2014 im Netzwerk Bil- dungsberatung Oberösterreich1 entwickelt. Seit 2015 erfolgt die Umsetzung als ein Pilotprojekt mit wissenschaftlicher Begleitung. Methodisch wurde der Schwerpunkt auf ein partizipatives Forschungsdesign gelegt. Unter der Projektleitung der Arbeiterkammer Oberösterreich (gesetzliche Interessen- vertretung der ArbeitnehmerInnen) wird das Projekt gemeinsam von den Be- ratungseinrichtungen des Netzwerks2 und der wissenschaftlichen Begleitung3 durchgeführt. Mit der zyklischen Abfolge von Aktion und Reflexion orientiert sich die Projektstruktur an der Aktionsforschung (vgl. Lewin 1946; Unger 2014: 51ff.). Die erhobenen Daten werden in einer kollektiven Wissensbasis gesammelt und anschließend gemeinsam im Team aus BeraterInnen, Projekt- leiterInnen und wissenschaftlicher Begleitung ausgewertet und analysiert. Die Dokumentation der Ergebnisse erfolgt über schriftliche Fallanalysen, welche als Intervention i"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_034.txt",
+    "question": "Warum ist das berufliche Selbstverständnis für pädagogisches Handeln innerhalb sozialstruktureller Rahmenbedingungen wichtig?",
+    "answer": "Die Rekonstruktion der Zusammenhänge zwischen pädagogischem Handeln und strukturellen Bedingungen ist von Interesse, um Widersprüche und Spannungsfelder sichtbar machen zu können. Voraussetzung für pädagogisches Handeln innerhalb der sozialstrukturellen Rahmenbedingungen ist ein berufliches Selbstverständnis, das die Abgrenzung von externen Anforderungen und Erwartungen ermöglicht. Mit einem solchen Selbstverständnis können pädagogische Berater_innen handlungsfähig im Sinne des beruflichen Selbstverständnisses bleiben. Es ermöglicht ihnen, unter den gegebenen Rahmenbedingungen professionelle Handlungsstrategien zu beschreiben, um im Sinne des beruflichen Selbstverständnisses handlungsfähig zu bleiben.",
+    "expected": "Das berufliche Selbstverständnis ist wichtig, weil es die Abgrenzung von externen Anforderungen und Erwartungen ermöglicht und somit Voraussetzung ist, um innerhalb der sozialstrukturellen Rahmenbedingungen handlungsfähig zu bleiben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "270e577e69e074f4d3967a48a885458558e3d0ec153574539d6272ae2fb5eafc",
+        "score": 0.959339439868927,
+        "meta": {
+          "file_path": "9783839444856_chapter_034.txt",
+          "source_id": "9e9616a37140bcaf50787b1ce6d7979bb7764ee1fe51d589be1616ce01704fe1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c8ee8ca7ddb3fe7776f26bfdd83a129ef8f960175373ecbf16fc7ce28045e8d7",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "1.4 Aufbau der Arbeit Anerkennungsberatung findet innerhalb ausdifferenzierter rechtlicher und gesellschaftlicher Rahmenbedingungen statt. Aus der Perspektive der Bildungsforschung ist vor allem die Rekonstruktion der Zusammenhänge zwischen pädagogischem Handeln und strukturellen Bedingungen von In­ teresse, um dadurch Widersprüche und Spannungsfelder sichtbar machen zu können (vgl. Kalpaka 2009a, S. 35f). Voraussetzung für pädagogisches Handeln innerhalb der sozialstrukturellen Rahmenbedingungen ist ein berufliches Selbstverständnis, welches die Abgrenzung von externen An­ forderungen und Erwartungen ermöglicht. In der vorliegenden Arbeit wird in einer qualitativen Studie untersucht, welche Perspektiven die Interview­ partner_innen auf Anerkennungsberatung als eine sich neu institutionali­ sierende Beratung entwickeln und welche professionellen Handlungsstra­ tegien beschrieben werden, um unter den gegebenen Rahmenbedingungen handlungsfähig im Sinne des beruflichen Selbstverständnisse"
+      },
+      {
+        "rank": 2,
+        "id": "b747ddd941af43790c8a4384eb11ddee1c2341e89d39f6baf55454df9469e32c",
+        "score": 0.9539164900779724,
+        "meta": {
+          "file_path": "9783847412304_chapter_0933.txt",
+          "source_id": "60697265942ec5b81afddf6cfb506c095ec0c57b3b16663f94fa4fb5f16b2c04",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1264,
+          "_split_overlap": [
+            {
+              "doc_id": "980f08d6d7af9b93e51352bc3782feaef49a5f358090f2866b815972be391ad3",
+              "range": [
+                1264,
+                1672
+              ]
+            },
+            {
+              "doc_id": "4ad99ea0fe9f842a4d736b221af8698cb919e1689934c340c976345c3e578c6f",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "herangezogen. In der Primärstudie, die zwischen 2009 und 2011 stattfand, wurden die beruflichen Selbstbeschreibungen von pädagogisch Tätigen aus acht verschiedenen pädagogischen Arbeitsfeldern in Bayern und Hessen miteinander verglichen. Die Studienteilnehmenden aus dem Elementar- und Primarbereich, den Sekundarbereichen I und II, der beruflichen Bildung, dem tertiären Bereich sowie die Beschäftigten der Erwachsenenbildung und der außerschulischen Jugendbildung wurden zu unterschiedlichen Facetten ihres beruflichen Handelns befragt (Nittel & Schütz 2010: 50–51). Den analytischen Fokus bildeten dabei die individuellen Einstellungen und kollektiven Orientierungen der Studienteilnehmenden hinsichtlich Themen wie den Kooperationsaktivitäten und der arbeitsfeldspezifischen Verankerung des lebenslangen Lernens. Zu diesem Zweck wurden sowohl schriftliche Befragungen als auch Gruppendiskussionen durchgeführt. Im Rahmen dieser Studie wurde deutlich, dass die Kernaktivität des Beratens für die V"
+      },
+      {
+        "rank": 3,
+        "id": "5eadbe3ccf85f167ab86a6d8cf644d4b25ffb45bb9c43ca9bbeba9673dc7b266",
+        "score": 0.953074038028717,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d7d5db76a9db781c28607823a715d35ff693ace6b57be6f2fc8586ff07fc5174",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "5.2.2.2 Pädagogisches Beratungsverständnis Beratung wurde bereits aus einer erziehungswissenschaftlichen Perspektive als eine pädagogische Handlungsform und als ein elementarer Bestandteil des Tätigkeitsfelds in der Erwachsenenbildung beschrieben. Pädagogische Beratung wird demnach als ein ressourcenorientiertes Unterstützungsange­ bot definiert, welches auf die Stärkung der Handlungs- und Entscheidungs­ fähigkeit der Klient_innen ausgerichtet ist. Beratung in der Sozialen Arbeit bezieht sich darüber hinaus auf ein emanzipatives Beratungsverständnis im Kontext sozialer Gerechtigkeit. Aus beratungstheoretischer Perspektive bieten diese disziplinären Schwerpunktsetzungen im Beratungsverständnis damit auch praxisrelevante Kriterien, um pädagogische Beratungsangebote von reinen Informationsgesprächen oder therapeutischen Interventionen abzugrenzen. Es stellt sich jedoch die Frage, inwiefern dieses erziehungs­ wissenschaftlich geprägte Beratungsverständnis auch für die Beratungs­ praxis rel"
+      },
+      {
+        "rank": 4,
+        "id": "4dc1b55b0be8a1111699f6858f3551338dad294d4ac58ec3f962696c5c595f31",
+        "score": 0.9503399729728699,
+        "meta": {
+          "file_path": "9783839444856_chapter_0512.txt",
+          "source_id": "599c7475f34d1fbb18ad5518a30249aaa9a89e1ed3736b6f7e65506a45804434",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b92f2247c853b5c490fca80b9b50c5370538b4a60b93b401e875c64e653dd1ff",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "3.1.2 Pädagogische Beratung Beratung stellt nicht nur eine Grundform pädagogischen Handelns dar (vgl. Giesecke 2010), sondern hat sich darüber hinaus zu einem der bedeutends­ ten Bestandteile entwickelt. Beraten wird als eine Kernaufgabe des profes­ sionellen erwachsenenpädagogischen Handelns gesehen. Nittel (vgl. 2016, S. 21) nennt drei grundlegende Begründungszusammenhänge für eine er­ ziehungs- und bildungswissenschaftliche Zuordnung von Beratung. Auf der Interaktionsebene beschreibt er Beratung als eine pädagogische Handlungs­ form; auf der Mesoebene verortet er Beratung aus einer professionstheoreti­ schen Perspektive als einen Bestandteil pädagogischer Berufskultur; und auf der Makroebene ordnet er Beratung anhand der zunehmenden Diversifizie­ rung pädagogischer Beratungseinrichtungen gesamtgesellschaftlich ein. Obwohl Beratung also anscheinend zu einem Teilbereich des pädagogischen Selbstverständnisses geworden ist, existieren trotzdem nur Ansätze einer übergreifenden Beratungst"
+      },
+      {
+        "rank": 5,
+        "id": "76ce63476e78376f8d394db8a89210cf6d940499653889902541d9e29c001736",
+        "score": 0.9484120607376099,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2634,
+          "_split_overlap": [
+            {
+              "doc_id": "d7d5db76a9db781c28607823a715d35ff693ace6b57be6f2fc8586ff07fc5174",
+              "range": [
+                1264,
+                1700
+              ]
+            },
+            {
+              "doc_id": "317787a37c2d4a06d88f3f71a2afade3870889f4071239c403e47741d626a7c6",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "pädagogischen Beratung verbinden. Es stellt sich dabei auch die Frage, inwiefern die Antwort durch die jeweilige Bildungsbiografie der Berater_innen beeinflusst wird, insbesondere, da der Großteil selbst eine pädagogische Ausbildung besitzt. Die verschiedenen Positionierungen lassen sich auf ein unterschiedliches Verständnis von pädagogischer Bera­ tung und damit verbundenen Identifikations- oder Abgrenzungsstrategien zurückführen. Das Antwortspektrum reicht von klarer Ablehnung über ein­ geschränkte Zustimmung bis zu einer expliziten Identifikation mit einem pädagogischen Beratungsverständnis. Distanzierung von einem pädagogischen Beratungsverständnis In zwei Fällen distanzieren sich die Interviewpartner_innen von einem pä­ dagogischen Beratungsverständnis auf inhaltlicher Ebene und in Bezug auf die für die Anerkennungsberatung erforderliche Qualifikation. Die Be­ zeichnung als eine pädagogische Beratung wird hier eher in den erzieheri­ schen bzw. sanktionierenden Kontext des Bildungs"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_034.txt",
+    "question": "Wie trägt das anerkennungstheoretische Rahmenmodell zur Analyse der Anerkennungsberatung bei?",
+    "answer": "Das anerkennungstheoretische Rahmenmodell bietet die Möglichkeit, die Aufgabenbereiche von Anerkennungsberatung auf unterschiedlichen Ebenen zu rekonstruieren und damit den Blick über die eigentliche Beratungskommunikation hinaus auf den Umgang mit strukturellen Bedingungen von Beratung zu richten. Es ermöglicht die systematische empirische Erfassung der Aufgabenfelder und Zielsetzungen von Anerkennungsberatung und bietet ein theoretisches Rahmenkonzept zur Interpretation der erhobenen Daten. Durch die drei Analyseebenen - Interaktionsebene, rechtliche Ebene und gesellschaftliche Ebene - kann die Anerkennungsberatung auf verschiedene Formen der Anerkennung abgebildet werden, wie z.B. professionelle Form der emotionalen Anerkennung, formale Anerkennung und positionale Anerkennung. Dadurch kann die Anerkennungsberatung als ein komplexes Handlungsfeld betrachtet werden, das auf verschiedenen Ebenen wirkt und in Beziehung zu den gesellschaftlichen und rechtlichen Rahmenbedingungen steht. Das anerkennungstheoretische Rahmenmodell ermöglicht es, die Wirkungen der Anerkennungsberatung auf die Klient_innen und die gesellschaftlichen und rechtlichen Rahmenbedingungen zu analysieren und zu interpretieren.",
+    "expected": "Das anerkennungstheoretische Rahmenmodell ermöglicht eine strukturierte Analyse und Darstellung der Aufgabenbereiche und Rahmenbedingungen in der Anerkennungsberatung. Zudem bietet es eine theoretisch begründete Perspektive zur Interpretation der Argumentationen und Selbstbeschreibungen der Interviewpartner_innen und hilft, unterschiedliche Sichtweisen sowie Spannungsfelder in der Anerkennungsberatung zu rekonstruieren.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "85af4dc284861ea4c83490237948fd9212b9db8799840076c59e97907af96ae0",
+        "score": 0.9986775517463684,
+        "meta": {
+          "file_path": "9783839444856_chapter_0721.txt",
+          "source_id": "cea8d5329456b7ecf4a74bdf16b6cf3c3219c62ad936a1bc093260022598ff01",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.2.1 Aufgabenfelder der Anerkennungsberatung Das anerkennungstheoretische Rahmenmodell bietet die Möglichkeit, die Aufgabenbereiche von Anerkennungsberatung auf unterschiedlichen Ebe­ nen zu rekonstruieren und damit den Blick über die eigentliche Beratungs­ interaktion hinaus auf den Umgang mit strukturellen Bedingungen von Beratung zu richten. Aus der Beschreibung der drei Anerkennungsebenen können in einem ersten Schritt unterschiedliche Kategorien zur Analyse der Aufgabenfelder abgeleitet und durch das Interviewmaterial empirisch an­ gereichert werden. Anschließend wird das theoretisch begründete Katego­ riensystem durch induktiv gewonnene Kategorien aus dem Datenmaterial erweitert. Bei der Zuordnung zu den Analyseebenen ist zu berücksichtigen, dass es sich um ein theoretisches Modell handelt, welches Überschneidun­ gen und Querverbindungen zwischen den Ebenen nur begrenzt abbilden kann. Die nachfolgende Darstellung der Ergebnisse umfasst daher immer auch Hinweise auf relevante Ver"
+      },
+      {
+        "rank": 2,
+        "id": "1ec6f381d6e1062dc864e2a4e1506815fab7aa1bf4c05d6531a003f11a41949e",
+        "score": 0.9971054196357727,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "3.2.3 Anerkennungstheoretisches Rahmenmodell In Anlehnung an die hier dargestellten anerkennungs- und bildungstheore­ tischen Ansätze und in Kombination mit den zuvor beschriebenen Ebenen der Zielsetzungen von Bildungsberatung wird in der vorliegenden Arbeit zwischen drei Analyseebenen unterschieden, welche die Grundlage für die Auswertung der empirischen Daten bilden. Die Ebenen bezeichnen dabei drei unterschiedliche gesellschaftliche Sphären, in denen Anerkennungsver­ hältnisse hergestellt werden können und die entsprechend den Zielsetzungen der Bildungs- und Berufsberatung Relevanz für die Aufgaben der Anerken­ nungsberatung aufweisen. Die Interaktionsebene des Beratungsgesprächs selbst bildet die erste Analyseebene. Aufgrund der Bedeutung von formalen Anerkennungsverfahren für die Beratungspraxis wird der rechtliche Kon­ text als zweite Analyseebene beschrieben. Die dritte Ebene umfasst die ge­ sellschaftliche Anerkennung in Form von sozialer Wertschätzung der indi­ viduellen Fähig"
+      },
+      {
+        "rank": 3,
+        "id": "f7b86bffd8e238e4b2507faeb93397751a9c298f267291d7b89539a89cc1e6a0",
+        "score": 0.9873759746551514,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5998,
+          "_split_overlap": [
+            {
+              "doc_id": "76cb5237f7f2b41c4d2fc881c888c2136d8bf2175ebe78bfadd15f6f622f602d",
+              "range": [
+                1180,
+                1574
+              ]
+            },
+            {
+              "doc_id": "8df53bc322279a45709ae1442d03ebc47ebaf87fb921cab48e211f46a04ca103",
+              "range": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        "content": "Zentral wird in der vorliegenden Arbeit der Begriff der Anerkennung ver­ wendet. Anerkennung kann auf unterschiedlichen Ebenen erfolgen und in verschiedenen Formen für die beteiligten Gruppen sichtbar werden. Balzer stellt auf Grundlage ihrer umfassenden Analyse anerkennungstheoretischer Ansätze fest: »Dabei mündete die unternommene Spurensuche in ein analytisch justier­ tes Verständnis von Anerkennung als Adressierungsgeschehen und Moment jeglicher sozialer Handlungen und Praktiken. Mit diesem stellt sich aber ›An­ erkennung‹ nicht mehr nur als ›entgrenzt‹, sondern vielmehr – hinsichtlich des Handlungs- und Phänomencharakters von ›Anerkennung‹ – als ›unbe­ grenzt‹ dar« (Balzer 2014, S. 609). Aufgrund der weit gefassten Deutungen und unterschiedlichen sozialwis­ senschaftlichen Perspektiven auf den Anerkennungsbegriff beziehe ich mich in der vorliegenden Arbeit zunächst auf die Bedeutungen im Kontext der Anerkennung im Ausland erworbener Qualifikationen. Für die Analyse und Interpretat"
+      },
+      {
+        "rank": 4,
+        "id": "ab3fa27625b1191da179067bcd324ee1e9a1d71ffd3635fec6e65b2411f22ba3",
+        "score": 0.9824748635292053,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 11119,
+          "_split_overlap": [
+            {
+              "doc_id": "1bcdfbd5d745b62276cb6b267e3ff49e7416b9af8183cb608df56d0fd0d0cc42",
+              "range": [
+                1329,
+                1737
+              ]
+            }
+          ]
+        },
+        "content": "der rechtlichen und der gesellschaftlichen Ebene mit den Anerkennungsformen der profes­ sionellen emotionalen, der formalen und der positionalen Anerkennung (vgl. Abb. 9). Diese drei Analyseebenen werden zueinander in Beziehung gesetzt und ermöglichen die systematische empirische Erfassung der Aufgabenfel­ der und Zielsetzungen von Anerkennungsberatung und bieten zudem ein theoretisches Rahmenkonzept zur Interpretation der erhobenen Daten. Abbildung 9: Anerkennungsdimensionen Quelle: eigene Darstellung Anerkennungsdimensionen Analyseebene Interaktions- ebene rechtliche Ebene gesellschaftliche Ebene Anerkennungsform professionelle Form emotionaler Anerkennung formale Anerkennung positionale Anerkennung Anerkennungsberatung kann auf der Interaktionsebene des Beratungs­ gesprächs emotionale Anerkennung direkt herstellen und damit den_die Klient_in darin unterstützen, auf gesellschaftlicher und rechtlicher Ebe­ ne Anerkennungsverhältnisse einzufordern. Für die empirische Analyse ist von be"
+      },
+      {
+        "rank": 5,
+        "id": "7f4128e13334cabdb7445aab3617ecee62ff350d6a11f44b3bebe014fdfcce55",
+        "score": 0.9820669889450073,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2558,
+          "_split_overlap": [
+            {
+              "doc_id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+              "range": [
+                1297,
+                1713
+              ]
+            }
+          ]
+        },
+        "content": "und auf mehreren Ebenen formuliert werden. Nachfolgend wird zunächst auf die Theorie der Anerkennung als eine eigenständige Begründung pädagogischen Handelns eingegangen und in Bezug auf die Bedeutung für die pädagogische Praxis konkretisiert. Durch die Diskussion unterschiedlicher anerkennungstheoretischer Ansätze im bildungstheoretischen Bereich wird anschließend die Grundlage für die Entwicklung eines eigenen anerkennungstheoretischen Rahmenmodells ge­ legt. Ziel ist es, die Relevanz anerkennungstheoretischer Ansätze für die Be­ gründung pädagogischen Handelns aufzuzeigen."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_034.txt",
+    "question": "Welche Erkenntnisse können durch den Vergleich der Expert_inneninterviews in Bezug auf die Anerkennungsberatung gewonnen werden?",
+    "answer": "Durch den Vergleich der Expert_inneninterviews können unterschiedliche Sichtweisen auf Anerkennungsberatung sowie Ansatzpunkte für ein gemeinsames Selbstverständnis deutlich werden. Zudem können spezifische Spannungsfelder in der Anerkennungsberatung rekonstruiert werden, indem die Handlungsstrategien analysiert werden, die von den Interviewpartner_innen entwickelt und beschrieben werden. Abschließend können Sinnzusammenhänge zwischen den unterschiedlichen Dimensionen rekonstruiert werden, die auf spezifische Aushandlungsmuster in der Anerkennungsberatung verweisen. Dadurch können professionelle Handlungsstrategien analysiert werden, die von den Interviewpartner_innen entwickelt und beschrieben werden.",
+    "expected": "Durch den Vergleich der Expert_inneninterviews werden unterschiedliche Sichtweisen auf Anerkennungsberatung sowie Ansatzpunkte für ein gemeinsames berufliches Selbstverständnis deutlich. Außerdem lassen sich spezifische Spannungsfelder zwischen den professionellen Handlungsstrategien und den strukturellen Rahmenbedingungen rekonstruieren, die die Herausforderungen und Widersprüche in der Anerkennungsberatung sichtbar machen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.6316346526145935,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      },
+      {
+        "rank": 2,
+        "id": "e5c8f9dced770678db6db5e37aa314f040870b01f63c309c73985b5f21eaac72",
+        "score": 0.5868030786514282,
+        "meta": {
+          "file_path": "9783839444856_chapter_062.txt",
+          "source_id": "cb48d56204a65dfeac669f1daa68450d5f8c31a1807a992afa5cdb24caad6c92",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1178,
+          "_split_overlap": [
+            {
+              "doc_id": "de73c3e50a94a7b1ea847976de692c499e9d7b6c3917aacf2f41b1bdb80c1e54",
+              "range": [
+                1178,
+                1620
+              ]
+            },
+            {
+              "doc_id": "d14baf8cdf5f5ca752f2c050115dc78c5c2bb20f908ab8e555b6a9446f7f8c32",
+              "range": [
+                0,
+                385
+              ]
+            }
+          ]
+        },
+        "content": "über Expert_inneninterviews als eigenständiges Verfahren in Abgrenzung zu anderen Interviewformen wie z.B. biografischen Inter­ views wird von Meuser und Nagel (vgl. 1991, S. 444) mit dem Forschungs­ interesse an einem institutionell und organisatorisch eingegrenzten Handlungsfeld begründet, wodurch die Interviewpartner_innen als Reprä­ sentant_innen spezifischer Entscheidungsstrukturen gesehen werden. »Von Interesse sind ExpertInnen als FunktionsträgerInnen innerhalb eines organisatorischen oder institutionellen Kontextes. Die damit verknüpften Zuständigkeiten, Aufgaben, Tätigkeiten und die aus diesen gewonnenen exklusiven Erfahrungen und Wissensbestände sind die Gegenstände des ExpertInneninterviews […]. In ExpertInneninterviews fragen wir nicht nach individuellen Biographien, untersuchen wir keine Einzelfälle, sondern wir sprechen die ExpertInnen als Repräsentantlnnen einer Organisation oder Ins­ titution an, insofern sie die Problemlösungen und Entscheidungsstrukturen (re)präsentie"
+      },
+      {
+        "rank": 3,
+        "id": "c8ee8ca7ddb3fe7776f26bfdd83a129ef8f960175373ecbf16fc7ce28045e8d7",
+        "score": 0.5086337327957153,
+        "meta": {
+          "file_path": "9783839444856_chapter_034.txt",
+          "source_id": "9e9616a37140bcaf50787b1ce6d7979bb7764ee1fe51d589be1616ce01704fe1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1312,
+          "_split_overlap": [
+            {
+              "doc_id": "270e577e69e074f4d3967a48a885458558e3d0ec153574539d6272ae2fb5eafc",
+              "range": [
+                1312,
+                1763
+              ]
+            },
+            {
+              "doc_id": "f88e0716bfc332a5aebfe86c9eb2692b71c694553218563dc19b7c2e7a8a943d",
+              "range": [
+                0,
+                476
+              ]
+            }
+          ]
+        },
+        "content": "der Anerkennungsberatung. Um die Daten strukturiert zu erheben und auszuwerten, sind zunächst die theoretischen Zugänge zum Forschungsgegenstand der Anerkennungsberatung darzulegen. Aus der Perspektive der Professionalisierungsforschung und auf Grundlage von an­ erkennungs- und beratungstheoretischen Ansätzen wird ein theoretisches Rahmenmodell für die Auswertung der Expert_inneninterviews entwickelt. Die Datenerhebung und -analyse erfolgt anhand der qualitativen In­ haltsanalyse (vgl. Mayring 2015) in Kombination mit einer vertiefenden interpretativ-rekonstruktiven Auswertung (vgl. Meuser und Nagel 1991; Kel­ le und Kluge 2010). Die Gründe für den gewählten Zugang über Expert_in­ neninterviews und die zweistufige Auswertung werden im vierten Kapitel erläutert. Das anerkennungstheoretische Rahmenmodell wird genutzt, um die Aufgabenbereiche und Rahmenbedingungen in der Anerkennungsberatung strukturiert analysieren und darstellen zu können. Es ermöglicht zudem eine theoretisch begründete"
+      },
+      {
+        "rank": 4,
+        "id": "aa395bb17fb2b32bb85bf5db6f279ce6f3d5443e6044b551690a175154ff5269",
+        "score": 0.4210629463195801,
+        "meta": {
+          "file_path": "9783839444856_chapter_062.txt",
+          "source_id": "cb48d56204a65dfeac669f1daa68450d5f8c31a1807a992afa5cdb24caad6c92",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3683,
+          "_split_overlap": [
+            {
+              "doc_id": "d14baf8cdf5f5ca752f2c050115dc78c5c2bb20f908ab8e555b6a9446f7f8c32",
+              "range": [
+                1180,
+                1577
+              ]
+            }
+          ]
+        },
+        "content": "die Entwicklung von professionellen Handlungs­ mustern ausüben können, sie werden hier jedoch nicht zum Gegenstand des Forschungsinteresses gemacht. Die Definition der Interviewpartner_innen als Expert_innen bezieht sich im Unterschied zu externen Expert_innen im Sinne von Gutachter_in­ nen auf Personen, »die selbst Teil des Handlungsfeldes sind, das den For­ schungsgegenstand ausmacht« (ebd., S. 443). Damit ist die Beschreibung der Interviewpartner_innen als Expert_innen ein relationaler Status, der von dem jeweiligen Forschungsinteresse abhängig ist. In diesem Zusammen­ hang weisen die Autor_innen darauf hin, dass Expert_innen innerhalb von Organisationsstrukturen nicht zwangsläufig auf hierarchisch übergeord­ neten Positionen zu finden sein müssen, sondern das detaillierteste Wissen über organisationsinterne Strukturen, Abläufe und Umsetzungsprozesse vor allem auch bei den Personen zu finden ist, die für die Umsetzung und Durchführung verantwortlich sind (vgl. ebd., S. 443f.). In de"
+      },
+      {
+        "rank": 5,
+        "id": "cb7cbb53b1405c3c94f8ae4724353f64b6abd0f965c40dac232db1005eb836fa",
+        "score": 0.21066710352897644,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 13497,
+          "_split_overlap": [
+            {
+              "doc_id": "7b4263c69516f1cc2f9fe9b8442f987218b0ec07aeb5fb9cd27a63874c6ffbc9",
+              "range": [
+                1010,
+                1480
+              ]
+            }
+          ]
+        },
+        "content": "nicht machen« (I/DE, Z. 291-297). Die institutionelle Verortung von Anerkennungsberatung stellt eine wichti­ ge Rahmenbedingung für die Ausgestaltung des Beratungsauftrags und des beruflichen Selbstverständnisses der Berater_innen dar. Dabei werden trotz der unterschiedlichen institutionellen Träger bestimmte Prinzipien deut­ lich, welche institutionen- und länderübergreifend das Selbstverständnis von Anerkennungsberatung charakterisieren. Diese Aufgabengebiete und Prinzipien sind Gegenstand der nachfolgenden Analyse und Interpretation der Expert_inneninterviews. Die hier dargestellten individuellen Bildungs- und Berufsbiografien der Berater_innen wie auch die Beschreibung der Be­ ratungsstellen dienen als Grundlage für die Einordnung der Ergebnisse."
+      }
+    ]
+  }
+]

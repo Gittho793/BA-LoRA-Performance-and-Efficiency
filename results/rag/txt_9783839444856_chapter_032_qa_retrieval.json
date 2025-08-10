@@ -1,0 +1,725 @@
+[
+  {
+    "filename": "9783839444856_chapter_032.txt",
+    "question": "Welche zwei grundlegenden Vorannahmen bleiben in der Diskussion um die Zuwanderung qualifizierter Migrant_innen meist unhinterfragt?",
+    "answer": "In der Diskussion um die Zuwanderung qualifizierter Migrant_innen bleiben zwei grundlegenden Vorannahmen meist unhinterfragt: \n         1) Die Interessen der Migrant_innen werden als gegenüberstehend zu den Bedürfnissen der Aufnahmegesellschaft angesehen.\n         2) Das Kriterium der Qualifizierung wird als determinierender Faktor einer gelingenden Integration gewertet.",
+    "expected": "Erstens wird von einer dichotomischen Logik ausgegangen, nach der die Interessen der Migrant_innen den Bedürfnissen der Aufnahmegesellschaft gegenüberstehen. Zweitens wird zwischen den Kategorien »qualifiziert« und »unqualifiziert« unterschieden, wobei die Qualifizierung als entscheidender Faktor für eine gelingende Integration betrachtet wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e1ea91e34d31585ad720183ad745ffd2e587326fb89a078fb74dd030c4dd0258",
+        "score": 0.9885496497154236,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "1.2 Begriffe und Definitionen In der vorliegenden Arbeit werden einige zentrale Kategorisierungen vor­ genommen, deren Konstruktionscharakter für die Analyse und Darstellung der Ergebnisse durchgehend zu berücksichtigen ist. Eine zentrale Bedeu­ tung übernehmen die Begriffe und Konzepte von »Migration«, »Qualifizie­ rung« und »Anerkennung« und die davon abgeleiteten Kategorien. In Ver­ bindung mit der Klärung der Bedeutungsebenen für diese Arbeit werden dadurch auch grundlegende Voraussetzungen, Annahmen und Perspekti­ ven auf das Forschungsfeld verdeutlicht. 1.2.1 Die Konstruktion der Zielgruppe »qualifizierte_r Migrant_in« In der aktuellen Diskussion um die Zuwanderung qualifizierter Migrant_in­ nen bleiben zwei grundlegende Vorannahmen meist unhinterfragt. Es wird zunächst von einer »dichotomisierenden Logik« (Erel 2012, S. 109) ausge­ gangen, nach welcher die Interessen der Migrant_innen den Bedürfnissen der Aufnahmegesellschaft gegenüberstehen. Zugleich wird insbesondere im Migrat"
+      },
+      {
+        "rank": 2,
+        "id": "05b5de15bd3c9deec89ec62a3dbfa08d87ba7f749bdbd5cab52f9dcfdc5e3c72",
+        "score": 0.9243570566177368,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 16161,
+          "_split_overlap": [
+            {
+              "doc_id": "9b5af2130d014a53cd8a6b8ec5eb024fb504a26b67427f749172e1e3c863da0e",
+              "range": [
+                1155,
+                1579
+              ]
+            },
+            {
+              "doc_id": "bf5aec3bf1ee6efbaacc52ba851f2bf1fe0def37fa5fcfad2562247336db9ce5",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "wie z.B. eines Studiums oder bestimmter sozialer Kompetenzen, verbunden sein und damit als Verweigerung emotio­ naler Anerkennung erfahren werden. Anerkennung und Diskriminierung Sprung (vgl. 2011) erweitert in ihrer Studie zur Weiterbildungsbeteiligung und Arbeitsmarkpartizipation von Migrant_innen den anerkennungstheo­ retischen Ansatz nach Honneth um Konzepte zur institutionellen Diskrimi­ nierung. Dadurch werden die Mechanismen verdeutlicht, die dazu führen, dass Personen mit Migrationsgeschichte in spezifischer Weise von Anerken­ nungsdefiziten betroffen sind. Die rechtliche Ungleichbehandlung wird in Bezug auf die Staatsangehörigkeit, die Zugangsregelungen zum Arbeits­ markt und die formale Anerkennung von Qualifikationen ausdifferenziert. Dabei weist Sprung in Anlehnung an Kaletta (vgl. 2008, S. 27f.) darauf hin, dass parallel zu der bei Honneth beschriebenen Erweiterung von Anerken­ nungsverhältnissen auch eine Einschränkung erfolgen kann. Als ein Bei­ spiel dafür werden gesetz"
+      },
+      {
+        "rank": 3,
+        "id": "be3c17b418013e31f70d3afe432e24945349d1a9b73636d176d594172a1634a7",
+        "score": 0.8878333568572998,
+        "meta": {
+          "file_path": "9783839444856_chapter_03.txt",
+          "source_id": "8a904342507d0631e0de7878ab446054f419c52d03362b49b842d40001984068",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3577,
+          "_split_overlap": [
+            {
+              "doc_id": "caa496a08c0b0c0c6508b188c52619ee5ea205312f5e0b25ba4605914d3475fa",
+              "range": [
+                1266,
+                1637
+              ]
+            },
+            {
+              "doc_id": "0f2eae146de82c400ec40d3f4acff316e6892d2e1b9ce7b91f504888a3812c5c",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "in den Mittelpunkt der öffentlichen Wahrnehmung gestellt. In Deutschland und Österreich wird Migration dabei vor allem unter dem Gesichtspunkt der »Quantitäts- und Nutzenfrage« (Krüger-Potratz 2005, S. 20) diskutiert – eine Debatte, die zunächst in keinem Zusammen­ hang zu einem weltweiten Menschenrecht auf Asyl steht, jedoch oftmals in der öffentlichen Diskussion die Notwendigkeit von Migration aus der Pers­ pektive des Aufnahmelandes legitimiert. Als Gründe werden unter anderem das Altern der Bevölkerung, der sogenannte Fachkräftemangel und die un­ gesicherte Rentenfrage angeführt. Der Engpass an Fachkräften betrifft vor allem den Bereich des Gesundheits- und Sozialwesens. Die Zuwanderung und berufliche Integration von qualifizierten Fachkräften aus dem Ausland soll diese Lücke schließen. Als Vorteile werden zudem die sprachlichen und »interkulturellen« Kompetenzen von Menschen mit Migrationserfahrung genannt, welche Personen mit im Ausland erworbenen Qualifikationen oft­ mals unhint"
+      },
+      {
+        "rank": 4,
+        "id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+        "score": 0.8804081678390503,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2398,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                1166,
+                1604
+              ]
+            },
+            {
+              "doc_id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. Hamburger 2012, S. 17). In der vorliegenden Arbeit wird die Bezeichnung »Migrant_in­ nen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt ha­ ben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen oftmals nicht aufgrund d"
+      },
+      {
+        "rank": 5,
+        "id": "aa63318ab4c6657b82b4a787d502d3cf50b7555f366c7ae3e89d216933c561bd",
+        "score": 0.8411247134208679,
+        "meta": {
+          "file_path": "9783839444856_chapter_07112.txt",
+          "source_id": "f79d2c737d593dcb44b454943f22fdd5ec54aeda7d1e6d44044c13d5ca74c7cb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3356,
+          "_split_overlap": [
+            {
+              "doc_id": "44de4664df9a7f708ad5a6e48daf8c87dd37def921ef27161653e663ecf5c7c1",
+              "range": [
+                1139,
+                1589
+              ]
+            },
+            {
+              "doc_id": "d19600aa646e6ec0e551ca4ff873f619d38274a8aa0389783291236b4aab3f7e",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "in diesem System zu unterstützen. Bereits vor der Gründung einer speziellen Fachberatung waren unterschiedliche Bera­ tungsstellen mit dem Thema der Anerkennung von im Ausland erworbenen Qualifikationen aufgrund des Zuzugs von (hoch-)qualifizierten Migrant_in­ nen konfrontiert. Insbesondere Migrationsberatungsstellen haben dieses Aufgabenfeld als Querschnittsaufgabe mit übernommen. Die Interview­ partner_innen haben diese Erfahrungen überwiegend selbst in ihrer Bera­ tungstätigkeit gemacht. »[U]nd habe in den letzten Jahren immer mehr mit hoch qualifizierten und qualifizierten Migrant_innen zu tun gehabt, weil einfach der Zuzug aus dem Ausland sich verändert hat. Also die Migration hat sich verändert und so ist die allgemeine Rechts- und Sozialberatung, also die Inhalte haben sich än­ dern müssen und wir haben einfach mitwachsen müssen« (C/AT, Z. 14-18). Hier wird deutlich, dass auch in der Beratungspraxis veränderte Beratungs­ anliegen sichtbar geworden sind, deren Bearbeitung neues F"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_032.txt",
+    "question": "Wie definiert die Arbeit den Begriff »Migrant_innen« im Kontext der nationalstaatlichen Grenzen?",
+    "answer": "In der vorliegenden Arbeit wird die Bezeichnung »Migrant_innen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt haben.",
+    "expected": "Migrant_innen sind Personen, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt haben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+        "score": 0.9900033473968506,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2398,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                1166,
+                1604
+              ]
+            },
+            {
+              "doc_id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. Hamburger 2012, S. 17). In der vorliegenden Arbeit wird die Bezeichnung »Migrant_in­ nen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt ha­ ben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen oftmals nicht aufgrund d"
+      },
+      {
+        "rank": 2,
+        "id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+        "score": 0.9893773198127747,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "e1ea91e34d31585ad720183ad745ffd2e587326fb89a078fb74dd030c4dd0258",
+              "range": [
+                1232,
+                1612
+              ]
+            },
+            {
+              "doc_id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "eine Diskussion über die angemessenen Bezeichnungen für diese Kategorien im Vordergrund steht (u.a. durch Bezüge auf »Migrations­ hintergrund«, »Herkunftsland« oder »Erstsprache«), sind hier für die Refle­ xion vor allem die theoretische Begründung und die Folgen dieser Konstruk­ tionen interessant. In der Analyse ist durchgehend zu berücksichtigen, dass »ein bestimmter Umgang mit ›Anderen‹ sie erst zu diesen ›Anderen‹ macht« (Kalpaka 2011, S. 26). Der Begriff Migration bezieht sich nicht nur auf die grenzüberschreiten­ de Mobilität, wird jedoch besonders in Bezug auf die Nationalstaatsgrenzen thematisiert. Damit geht in der Alltagssprache eine Unterscheidung einher zwischen Migrant_innen, die als der »eigenen Nation« zugehörig wahrge­ nommen und Migrant_innen, die als »Ausländer_innen« kategorisiert wer­ den. Die Bezeichnung »Ausländer_innen« stellt zunächst einen politischen Rechtsbegriff in Bezug auf die Staatsangehörigkeit dar. Damit verbindet sich in der Alltagssprache jedoch oft "
+      },
+      {
+        "rank": 3,
+        "id": "815bbaac40ad54a6b846295b3b132d382faf9c6042237e1d72ca107a90437e33",
+        "score": 0.9840613007545471,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8620,
+          "_split_overlap": [
+            {
+              "doc_id": "a308a2bcc83768ee23ec468bc62750386af68074c085e9539b06e4d6623e823c",
+              "range": [
+                1198,
+                1583
+              ]
+            },
+            {
+              "doc_id": "1bcdfbd5d745b62276cb6b267e3ff49e7416b9af8183cb608df56d0fd0d0cc42",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "erleben. Bei Sprung (vgl. 2011) wird aus den geführten Inter­ views mit Migrant_innen, die im Herkunftsland bereits berufstätig waren, deutlich, dass bei fehlender formaler Anerkennung von im Ausland erwor­ benen Qualifikationen auch die Möglichkeiten reduziert werden, berufliche Erfahrungen und Kompetenzen gesellschaftlich sichtbar zu machen. Dies trifft ebenfalls auf Bereiche des Arbeitsmarktes zu, in denen eine formale Anerkennung nicht zwangsläufig notwendig oder möglich ist. Die dritte Analysedimension der gesellschaftlichen Ebene lässt sich also analytisch als eigener Bereich von der rechtlichen Ebene abtrennen. Honneth bezeichnet den zugehörigen Anerkennungsmodus als soziale Wertschätzung. Zur Ver­ meidung einer begrifflichen Überschneidung mit der »wertschätzenden Haltung« als Merkmal einer positiven Beratungsbeziehung wird hier auf den Begriff der positionalen Anerkennung nach der Theorie der sozialen Des­ integration (vgl. Helsper et al. 2005) zurückgegriffen. Damit wird zude"
+      },
+      {
+        "rank": 4,
+        "id": "e1ea91e34d31585ad720183ad745ffd2e587326fb89a078fb74dd030c4dd0258",
+        "score": 0.9806371927261353,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "1.2 Begriffe und Definitionen In der vorliegenden Arbeit werden einige zentrale Kategorisierungen vor­ genommen, deren Konstruktionscharakter für die Analyse und Darstellung der Ergebnisse durchgehend zu berücksichtigen ist. Eine zentrale Bedeu­ tung übernehmen die Begriffe und Konzepte von »Migration«, »Qualifizie­ rung« und »Anerkennung« und die davon abgeleiteten Kategorien. In Ver­ bindung mit der Klärung der Bedeutungsebenen für diese Arbeit werden dadurch auch grundlegende Voraussetzungen, Annahmen und Perspekti­ ven auf das Forschungsfeld verdeutlicht. 1.2.1 Die Konstruktion der Zielgruppe »qualifizierte_r Migrant_in« In der aktuellen Diskussion um die Zuwanderung qualifizierter Migrant_in­ nen bleiben zwei grundlegende Vorannahmen meist unhinterfragt. Es wird zunächst von einer »dichotomisierenden Logik« (Erel 2012, S. 109) ausge­ gangen, nach welcher die Interessen der Migrant_innen den Bedürfnissen der Aufnahmegesellschaft gegenüberstehen. Zugleich wird insbesondere im Migrat"
+      },
+      {
+        "rank": 5,
+        "id": "e31a852c8c47148895a2b96048e4142b09c85a19d3f6fe6689f9492d74546771",
+        "score": 0.9540941119194031,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3545,
+          "_split_overlap": [
+            {
+              "doc_id": "7f14c4bb5e50802696a6e9993cc33fe3de1f2615f30a3ea3d4d62417b64613df",
+              "range": [
+                1160,
+                1542
+              ]
+            },
+            {
+              "doc_id": "4456c05a4a8f7234d16fefc5d1f11844124b6c69b1ac6c3e31aa893815b29335",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "hat immer sehr wenig Migrant_innen mit Sozialarbeiter_innenausbildung gegeben und da haben wir gesagt, die ›Einheimischen‹ (lachen) müssen Sozialarbeiter_innen sein und bei den Mig­ rant_innen sind wir nicht allzu streng, also irgendeine Ausbildung im psycho­ sozialen Bereich oder schon Erfahrung« (L/AT, Z. 43-49). Die bereits dargestellte Bedeutung eines Abschlusses im sozialen Bereich relativiert sich in Bezug auf die sprachliche Kompetenz. Der Interviewaus­ schnitt beschreibt ein mehrstufiges Vorgehen für den Fall, dass diese beiden Anforderungen nicht erfüllt werden können. Bei Berater_innen ohne Migra­ tionserfahrung wird eine Qualifikation als Sozialarbeiter_in vorausgesetzt, während bei mehrsprachigen Berater_innen ein breiteres Feld an Qualifi­ kationen akzeptiert wird. Diese differenzierte Sichtweise verweist auf eine verbreitete Diskussion im Bereich der migrationsbezogenen Beratungsan­ gebote, wo der Stellenwert einer fachspezifischen Ausbildung oftmals gegen die sprachliche"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_032.txt",
+    "question": "Warum wird die Unterscheidung zwischen »Migrant_innen« und »Ausländer_innen« in der Alltagssprache problematisch?",
+    "answer": "Die Unterscheidung zwischen »Migrant_innen« und »Ausländer_innen« in der Alltagssprache ist problematisch, da sie oft mit einer verstärkten distanzierten Wahrnehmung einhergeht. Der Begriff »Ausländer_innen« stellt zunächst einen politischen Rechtsbegriff in Bezug auf die Staatsangehörigkeit dar, aber in der Alltagssprache wird er oft mit einer stärkeren Abgrenzung und Distanz verbunden. Dies führt dazu, dass Nichtstaatsangehörigen bestimmte Rechte verwehrt bleiben, was zu einer Privilegierung der eigenen Position führt. In der vorliegenden Arbeit wird die Bezeichnung »Migrant_innen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt haben, um diese Unterscheidung zu vermeiden. Die Kategorie »Migrant_in« wird in dieser Arbeit als analytische Ungleichheitsdimension verwendet, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. \n        (vgl. Hamburger 2012, S. 17). In der vorliegenden Arbeit wird die Bezeichnung »Migrant_in­ nen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt ha­ ben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen of",
+    "expected": "Die Bezeichnung »Ausländer_innen« ist ein politischer Rechtsbegriff in Bezug auf Staatsangehörigkeit, der in der Alltagssprache oft mit einer distanzierten Wahrnehmung verbunden ist, da Nichtstaatsangehörigen bestimmte Rechte verwehrt bleiben, was zu einer Privilegierung der eigenen Position führt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+        "score": 0.9889376163482666,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "e1ea91e34d31585ad720183ad745ffd2e587326fb89a078fb74dd030c4dd0258",
+              "range": [
+                1232,
+                1612
+              ]
+            },
+            {
+              "doc_id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "eine Diskussion über die angemessenen Bezeichnungen für diese Kategorien im Vordergrund steht (u.a. durch Bezüge auf »Migrations­ hintergrund«, »Herkunftsland« oder »Erstsprache«), sind hier für die Refle­ xion vor allem die theoretische Begründung und die Folgen dieser Konstruk­ tionen interessant. In der Analyse ist durchgehend zu berücksichtigen, dass »ein bestimmter Umgang mit ›Anderen‹ sie erst zu diesen ›Anderen‹ macht« (Kalpaka 2011, S. 26). Der Begriff Migration bezieht sich nicht nur auf die grenzüberschreiten­ de Mobilität, wird jedoch besonders in Bezug auf die Nationalstaatsgrenzen thematisiert. Damit geht in der Alltagssprache eine Unterscheidung einher zwischen Migrant_innen, die als der »eigenen Nation« zugehörig wahrge­ nommen und Migrant_innen, die als »Ausländer_innen« kategorisiert wer­ den. Die Bezeichnung »Ausländer_innen« stellt zunächst einen politischen Rechtsbegriff in Bezug auf die Staatsangehörigkeit dar. Damit verbindet sich in der Alltagssprache jedoch oft "
+      },
+      {
+        "rank": 2,
+        "id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+        "score": 0.9857881665229797,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2398,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                1166,
+                1604
+              ]
+            },
+            {
+              "doc_id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. Hamburger 2012, S. 17). In der vorliegenden Arbeit wird die Bezeichnung »Migrant_in­ nen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt ha­ ben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen oftmals nicht aufgrund d"
+      },
+      {
+        "rank": 3,
+        "id": "45d4ed4a347dd7e286af2b5a423db8201a1eb2d7b54467e866f11b86795472ff",
+        "score": 0.977553129196167,
+        "meta": {
+          "file_path": "9783839444856_chapter_0511.txt",
+          "source_id": "219e8e7cda9326ef044361f01b3aae055370d3d5afccbe525d17c093e815d0f6",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2602,
+          "_split_overlap": [
+            {
+              "doc_id": "1ad6ea893ac408eb4d070b9351b8325885eaeee7319b7526e812593921082eee",
+              "range": [
+                1251,
+                1712
+              ]
+            },
+            {
+              "doc_id": "240b6a34a0c82bbb452dd9ad204c2d4494fefb9f11a577d9c05ffcb609d2a56b",
+              "range": [
+                0,
+                449
+              ]
+            }
+          ]
+        },
+        "content": "Von den Wohlfahrtsver­ bänden wurden »Ausländersozialdienste« eingerichtet, die muttersprachli­ che Beratung für »Arbeitsmigrant_innen« unterschiedlicher Nationalitäten ermöglichten. Grundlage war ein nationalitätenspezifisches Konzept, wel­ ches eine Nähe zu der Zielgruppe und die Einbindung von Migrant_innen­ organisationen ermöglichte, sich jedoch zugleich auch durch mangelnde Ko­ operationsmöglichkeiten mit den Regelangeboten von diesen entfernte (vgl. Schirilla et al. 2016, S. 81ff.). Die stark zielgruppenorientierte Ansprache und die defizitorientierte Sichtweise führten in den 1980er Jahren schließlich zu einer zunehmen­ den Distanzierung von dem Ansatz der »Ausländerpädagogik«. Die Kritik an der entstandenen institutionellen Separierung und der inhaltlichen De­ fizitorientierung durch diese »Sonderleistungen« wurde in der Forderung nach »interkultureller Kompetenz« als Erweiterung des Kompetenzprofils der professionell Tätigen und der »interkulturellen Öffnung« zur institu­ tio"
+      },
+      {
+        "rank": 4,
+        "id": "aa63318ab4c6657b82b4a787d502d3cf50b7555f366c7ae3e89d216933c561bd",
+        "score": 0.9760648608207703,
+        "meta": {
+          "file_path": "9783839444856_chapter_07112.txt",
+          "source_id": "f79d2c737d593dcb44b454943f22fdd5ec54aeda7d1e6d44044c13d5ca74c7cb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3356,
+          "_split_overlap": [
+            {
+              "doc_id": "44de4664df9a7f708ad5a6e48daf8c87dd37def921ef27161653e663ecf5c7c1",
+              "range": [
+                1139,
+                1589
+              ]
+            },
+            {
+              "doc_id": "d19600aa646e6ec0e551ca4ff873f619d38274a8aa0389783291236b4aab3f7e",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "in diesem System zu unterstützen. Bereits vor der Gründung einer speziellen Fachberatung waren unterschiedliche Bera­ tungsstellen mit dem Thema der Anerkennung von im Ausland erworbenen Qualifikationen aufgrund des Zuzugs von (hoch-)qualifizierten Migrant_in­ nen konfrontiert. Insbesondere Migrationsberatungsstellen haben dieses Aufgabenfeld als Querschnittsaufgabe mit übernommen. Die Interview­ partner_innen haben diese Erfahrungen überwiegend selbst in ihrer Bera­ tungstätigkeit gemacht. »[U]nd habe in den letzten Jahren immer mehr mit hoch qualifizierten und qualifizierten Migrant_innen zu tun gehabt, weil einfach der Zuzug aus dem Ausland sich verändert hat. Also die Migration hat sich verändert und so ist die allgemeine Rechts- und Sozialberatung, also die Inhalte haben sich än­ dern müssen und wir haben einfach mitwachsen müssen« (C/AT, Z. 14-18). Hier wird deutlich, dass auch in der Beratungspraxis veränderte Beratungs­ anliegen sichtbar geworden sind, deren Bearbeitung neues F"
+      },
+      {
+        "rank": 5,
+        "id": "e31a852c8c47148895a2b96048e4142b09c85a19d3f6fe6689f9492d74546771",
+        "score": 0.9719052910804749,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3545,
+          "_split_overlap": [
+            {
+              "doc_id": "7f14c4bb5e50802696a6e9993cc33fe3de1f2615f30a3ea3d4d62417b64613df",
+              "range": [
+                1160,
+                1542
+              ]
+            },
+            {
+              "doc_id": "4456c05a4a8f7234d16fefc5d1f11844124b6c69b1ac6c3e31aa893815b29335",
+              "range": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        "content": "hat immer sehr wenig Migrant_innen mit Sozialarbeiter_innenausbildung gegeben und da haben wir gesagt, die ›Einheimischen‹ (lachen) müssen Sozialarbeiter_innen sein und bei den Mig­ rant_innen sind wir nicht allzu streng, also irgendeine Ausbildung im psycho­ sozialen Bereich oder schon Erfahrung« (L/AT, Z. 43-49). Die bereits dargestellte Bedeutung eines Abschlusses im sozialen Bereich relativiert sich in Bezug auf die sprachliche Kompetenz. Der Interviewaus­ schnitt beschreibt ein mehrstufiges Vorgehen für den Fall, dass diese beiden Anforderungen nicht erfüllt werden können. Bei Berater_innen ohne Migra­ tionserfahrung wird eine Qualifikation als Sozialarbeiter_in vorausgesetzt, während bei mehrsprachigen Berater_innen ein breiteres Feld an Qualifi­ kationen akzeptiert wird. Diese differenzierte Sichtweise verweist auf eine verbreitete Diskussion im Bereich der migrationsbezogenen Beratungsan­ gebote, wo der Stellenwert einer fachspezifischen Ausbildung oftmals gegen die sprachliche"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_032.txt",
+    "question": "Wie beeinflusst die Konstruktion des Begriffs »qualifizierte_r Migrant_in« die Wahrnehmung und Analyse der Zielgruppe in der Arbeit?",
+    "answer": "Die Konstruktion des Begriffs »qualifizierte_r Migrant_in« beeinflusst die Wahrnehmung und Analyse der Zielgruppe in der Arbeit, indem sie eine dichotomisierende Logik aufgreift, die Interessen der Migrant_innen den Bedürfnissen der Aufnahmegesellschaft gegenüberstellt. Außerdem wird die Differenzierung zwischen »qualifizierten« und »nichtqualifizierten« Migrant_innen als Zuteilung infolge fehlender oder nur teilweise erfolgter Anerkennung betrachtet, anstatt aufgrund der Analyse ungleicher gesellschaftlicher Ausgangsbedingungen. Dies führt dazu, dass die individuellen Erfahrungen eingewanderter Frauen, insbesondere derjenigen mit höheren Qualifikationen, kaum berücksichtigt werden und stattdessen der Eindruck vermittelt wird, dass qualifizierte Migrant_innen andere Bedingungen im Aufnahmeland vorfinden als Migrant_innen mit formal niedrigeren Qualifikationen. Die Konstruktion des Begriffs beeinflusst somit die Wahrnehmung und Analyse der Zielgruppe in der Arbeit und führt zu einer unvollständigen und ungenauen Darstellung der Situation von Migrant_innen.",
+    "expected": "Die Konstruktion des Begriffs erzeugt eine dichotomische Logik, die Migrant_innen als »Andere« konstruiert und zwischen qualifiziert und unqualifiziert differenziert. Dies beeinflusst die theoretische Begründung und hat Folgen für die Analyse, da der Umgang mit den »Anderen« sie erst zu diesen »Anderen« macht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e1ea91e34d31585ad720183ad745ffd2e587326fb89a078fb74dd030c4dd0258",
+        "score": 0.9876554608345032,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "1.2 Begriffe und Definitionen In der vorliegenden Arbeit werden einige zentrale Kategorisierungen vor­ genommen, deren Konstruktionscharakter für die Analyse und Darstellung der Ergebnisse durchgehend zu berücksichtigen ist. Eine zentrale Bedeu­ tung übernehmen die Begriffe und Konzepte von »Migration«, »Qualifizie­ rung« und »Anerkennung« und die davon abgeleiteten Kategorien. In Ver­ bindung mit der Klärung der Bedeutungsebenen für diese Arbeit werden dadurch auch grundlegende Voraussetzungen, Annahmen und Perspekti­ ven auf das Forschungsfeld verdeutlicht. 1.2.1 Die Konstruktion der Zielgruppe »qualifizierte_r Migrant_in« In der aktuellen Diskussion um die Zuwanderung qualifizierter Migrant_in­ nen bleiben zwei grundlegende Vorannahmen meist unhinterfragt. Es wird zunächst von einer »dichotomisierenden Logik« (Erel 2012, S. 109) ausge­ gangen, nach welcher die Interessen der Migrant_innen den Bedürfnissen der Aufnahmegesellschaft gegenüberstehen. Zugleich wird insbesondere im Migrat"
+      },
+      {
+        "rank": 2,
+        "id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+        "score": 0.9763884544372559,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3628,
+          "_split_overlap": [
+            {
+              "doc_id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+              "range": [
+                1230,
+                1658
+              ]
+            },
+            {
+              "doc_id": "76cb5237f7f2b41c4d2fc881c888c2136d8bf2175ebe78bfadd15f6f622f602d",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Einwanderungspolitik überhaupt erst geschaffen werden und wie die staatlichen Praktiken die An­ erkennung und Aberkennung von Kompetenzen und Qualifikationen (mit-) bestimmen. Die individuellen Erfahrungen eingewanderter Frauen werden nach Erel (vgl. ebd.) infolge dieser Differenzierung kaum berücksichtigt und stattdessen der Eindruck vermittelt, dass qualifizierte Migrantinnen ande­ re Bedingungen im Aufnahmeland vorfinden als Migrantinnen mit formal niedrigeren Qualifikationen. An dieser Stelle hebt die Autorin hervor, dass qualifizierte Migrantinnen nicht bereits durch ihre Qualifikation vor Diskri­ minierung geschützt sind (vgl. ebd., S. 126f.). Diese Erkenntnisse sind für die vorliegende Arbeit besonders von Bedeutung, da Anerkennungsberatung vor allem von höher qualifizierten Personen in Anspruch genommen wird (vgl. AST 2015). Ausgangspunkt der Beratung ist hier zunächst die im Aus­ land erworbene Qualifikation unabhängig von der rechtlichen Anerkennung. Die damit verbundenen sta"
+      },
+      {
+        "rank": 3,
+        "id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+        "score": 0.9756059050559998,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2398,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                1166,
+                1604
+              ]
+            },
+            {
+              "doc_id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. Hamburger 2012, S. 17). In der vorliegenden Arbeit wird die Bezeichnung »Migrant_in­ nen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt ha­ ben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen oftmals nicht aufgrund d"
+      },
+      {
+        "rank": 4,
+        "id": "ca3944b80250a091a43fdffc9cceaaf49dd3af9cde807681b9505aa515e35595",
+        "score": 0.9568689465522766,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 17239,
+          "_split_overlap": [
+            {
+              "doc_id": "0988207b483a761ee62c4635a2a783bbdad238528dfe457de7800db7678aaabe",
+              "range": [
+                1197,
+                1642
+              ]
+            }
+          ]
+        },
+        "content": "tungen der Interviewpartner_innen lassen sich dabei als unterschiedliche Erfahrungen verweigerter Anerkennung und aktiver Abwertung deuten. Die Anerkennungsverletzungen beziehen sich auf berufliche Qualifikationen und Kompetenzen ebenso wie auf zugeschriebene kollektive Zugehörigkeits­ merkmale oder äußern sich in Form einer allgemeinen Entpersonalisierung hinsichtlich des Migrant_innenstatus. Auch Neumann (vgl. 2010) unter­ sucht in seiner Studie »Nichtanerkennungs- und Missachtungserfahrungen von akademisch qualifizierten BildungsinländerInnen in Deutschland und Kanada« die Erfahrungen während der Migration. Besonders interessant ist hier sein Forschungsfokus auf Personen mit Migrationserfahrung, welche ihre formale Qualifikation jedoch im Aufnahmeland erworben haben und damit als »Bildungsinländer_innen« definiert werden. In dieser Konstella­ tion lassen sich Erfahrungen sozialer Anerkennung bzw. verweigerter An­ erkennung unabhängig von rechtlichen Anerkennungsfragen untersuchen."
+      },
+      {
+        "rank": 5,
+        "id": "aa63318ab4c6657b82b4a787d502d3cf50b7555f366c7ae3e89d216933c561bd",
+        "score": 0.9527871012687683,
+        "meta": {
+          "file_path": "9783839444856_chapter_07112.txt",
+          "source_id": "f79d2c737d593dcb44b454943f22fdd5ec54aeda7d1e6d44044c13d5ca74c7cb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3356,
+          "_split_overlap": [
+            {
+              "doc_id": "44de4664df9a7f708ad5a6e48daf8c87dd37def921ef27161653e663ecf5c7c1",
+              "range": [
+                1139,
+                1589
+              ]
+            },
+            {
+              "doc_id": "d19600aa646e6ec0e551ca4ff873f619d38274a8aa0389783291236b4aab3f7e",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "in diesem System zu unterstützen. Bereits vor der Gründung einer speziellen Fachberatung waren unterschiedliche Bera­ tungsstellen mit dem Thema der Anerkennung von im Ausland erworbenen Qualifikationen aufgrund des Zuzugs von (hoch-)qualifizierten Migrant_in­ nen konfrontiert. Insbesondere Migrationsberatungsstellen haben dieses Aufgabenfeld als Querschnittsaufgabe mit übernommen. Die Interview­ partner_innen haben diese Erfahrungen überwiegend selbst in ihrer Bera­ tungstätigkeit gemacht. »[U]nd habe in den letzten Jahren immer mehr mit hoch qualifizierten und qualifizierten Migrant_innen zu tun gehabt, weil einfach der Zuzug aus dem Ausland sich verändert hat. Also die Migration hat sich verändert und so ist die allgemeine Rechts- und Sozialberatung, also die Inhalte haben sich än­ dern müssen und wir haben einfach mitwachsen müssen« (C/AT, Z. 14-18). Hier wird deutlich, dass auch in der Beratungspraxis veränderte Beratungs­ anliegen sichtbar geworden sind, deren Bearbeitung neues F"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_032.txt",
+    "question": "Welche Auswirkungen haben unterschiedliche rechtliche Rahmenbedingungen und Diskriminierungsebenen auf Migrant_innen auf dem inländischen Arbeitsmarkt?",
+    "answer": "Die unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen haben Auswirkungen auf Migrant_innen auf dem inländischen Arbeitsmarkt, indem sie zu einer benachteiligten Lage führen. Die rechtliche Ungleichbehandlung wirkt sich auf die Zugangsregelungen zum Arbeitsmarkt und die formale Anerkennung von Qualifikationen aus. Außerdem kann die rechtliche Ungleichbehandlung zu einer Einschränkung der Rechte von Migrant_innen führen, wie in der österreichischen Migrationspolitik beispielhaft gezeigt. \n        In der vorliegenden Arbeit wird die Bezeichnung »Migrant_innen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt haben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. \n        Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen oftmals nicht aufgrund der Analyse ungleicher gesellschaft­ lichen Ausgangsbedingungen, sondern als Zuteilung infolge fehlender oder nur teilweise erfolgter Anerkennung stattfindet. Unberücksichtigt bleibt weiterhin, inwiefern diese Kategorien durch die Einwanderungspolitik überhaupt erst geschaffen werden und wie die staatlichen Praktiken die An­ erkennung und Aberkennung von Kompetenzen und Qualifikationen (mit-) bestimmen. Die individuellen Erfahrungen eingewanderter Frauen werden",
+    "expected": "Durch unterschiedliche rechtliche Rahmenbedingungen und Diskriminierungsebenen, insbesondere in Bezug darauf, in welchem Land eine Qualifikation erworben wurde, befinden sich Migrant_innen oft in einer benachteiligten Lage auf dem inländischen Arbeitsmarkt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ca3944b80250a091a43fdffc9cceaaf49dd3af9cde807681b9505aa515e35595",
+        "score": 0.9561552405357361,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 17239,
+          "_split_overlap": [
+            {
+              "doc_id": "0988207b483a761ee62c4635a2a783bbdad238528dfe457de7800db7678aaabe",
+              "range": [
+                1197,
+                1642
+              ]
+            }
+          ]
+        },
+        "content": "tungen der Interviewpartner_innen lassen sich dabei als unterschiedliche Erfahrungen verweigerter Anerkennung und aktiver Abwertung deuten. Die Anerkennungsverletzungen beziehen sich auf berufliche Qualifikationen und Kompetenzen ebenso wie auf zugeschriebene kollektive Zugehörigkeits­ merkmale oder äußern sich in Form einer allgemeinen Entpersonalisierung hinsichtlich des Migrant_innenstatus. Auch Neumann (vgl. 2010) unter­ sucht in seiner Studie »Nichtanerkennungs- und Missachtungserfahrungen von akademisch qualifizierten BildungsinländerInnen in Deutschland und Kanada« die Erfahrungen während der Migration. Besonders interessant ist hier sein Forschungsfokus auf Personen mit Migrationserfahrung, welche ihre formale Qualifikation jedoch im Aufnahmeland erworben haben und damit als »Bildungsinländer_innen« definiert werden. In dieser Konstella­ tion lassen sich Erfahrungen sozialer Anerkennung bzw. verweigerter An­ erkennung unabhängig von rechtlichen Anerkennungsfragen untersuchen."
+      },
+      {
+        "rank": 2,
+        "id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+        "score": 0.7984870672225952,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2398,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                1166,
+                1604
+              ]
+            },
+            {
+              "doc_id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "(vgl. Hamburger 2012, S. 17). In der vorliegenden Arbeit wird die Bezeichnung »Migrant_in­ nen« für Personen verwendet, die zwischen nationalstaatlichen Grenzen und damit unterschiedlichen rechtlichen Bezugssystemen gewechselt ha­ ben. Ausgangspunkt ist die benachteiligte Lage von Migrant_innen auf dem inländischen Arbeitsmarkt aufgrund dieser unterschiedlichen rechtlichen Rahmenbedingungen und Diskriminierungsebenen in Bezug auf das Land, in dem eine Qualifikation erworben wurde. Die Kategorie »Migrant_in« wird in dieser Arbeit damit auch als analytische Ungleichheitsdimension verwen­ det, die sich aus den strukturellen Bedingungen im Aufnahmeland ableitet. Kritisch ist in diesem Zusammenhang die Einteilung in Bezug auf den Grad der Qualifizierung zu sehen. Erel (vgl. 2012) stellt mit Fokus auf zu­ gewanderte Frauen fest, dass die Differenzierung nach »qualifizierten« und »nichtqualifizierten« Migrantinnen bzw. in »höher und niedrig qualifizierte« Migrantinnen oftmals nicht aufgrund d"
+      },
+      {
+        "rank": 3,
+        "id": "05b5de15bd3c9deec89ec62a3dbfa08d87ba7f749bdbd5cab52f9dcfdc5e3c72",
+        "score": 0.7919119000434875,
+        "meta": {
+          "file_path": "9783839444856_chapter_0522.txt",
+          "source_id": "0a30d4f10d8180d6243ce269d58818a412e225f6dde89eb1550ee7a4776bc642",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 16161,
+          "_split_overlap": [
+            {
+              "doc_id": "9b5af2130d014a53cd8a6b8ec5eb024fb504a26b67427f749172e1e3c863da0e",
+              "range": [
+                1155,
+                1579
+              ]
+            },
+            {
+              "doc_id": "bf5aec3bf1ee6efbaacc52ba851f2bf1fe0def37fa5fcfad2562247336db9ce5",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "wie z.B. eines Studiums oder bestimmter sozialer Kompetenzen, verbunden sein und damit als Verweigerung emotio­ naler Anerkennung erfahren werden. Anerkennung und Diskriminierung Sprung (vgl. 2011) erweitert in ihrer Studie zur Weiterbildungsbeteiligung und Arbeitsmarkpartizipation von Migrant_innen den anerkennungstheo­ retischen Ansatz nach Honneth um Konzepte zur institutionellen Diskrimi­ nierung. Dadurch werden die Mechanismen verdeutlicht, die dazu führen, dass Personen mit Migrationsgeschichte in spezifischer Weise von Anerken­ nungsdefiziten betroffen sind. Die rechtliche Ungleichbehandlung wird in Bezug auf die Staatsangehörigkeit, die Zugangsregelungen zum Arbeits­ markt und die formale Anerkennung von Qualifikationen ausdifferenziert. Dabei weist Sprung in Anlehnung an Kaletta (vgl. 2008, S. 27f.) darauf hin, dass parallel zu der bei Honneth beschriebenen Erweiterung von Anerken­ nungsverhältnissen auch eine Einschränkung erfolgen kann. Als ein Bei­ spiel dafür werden gesetz"
+      },
+      {
+        "rank": 4,
+        "id": "aa63318ab4c6657b82b4a787d502d3cf50b7555f366c7ae3e89d216933c561bd",
+        "score": 0.5133599042892456,
+        "meta": {
+          "file_path": "9783839444856_chapter_07112.txt",
+          "source_id": "f79d2c737d593dcb44b454943f22fdd5ec54aeda7d1e6d44044c13d5ca74c7cb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3356,
+          "_split_overlap": [
+            {
+              "doc_id": "44de4664df9a7f708ad5a6e48daf8c87dd37def921ef27161653e663ecf5c7c1",
+              "range": [
+                1139,
+                1589
+              ]
+            },
+            {
+              "doc_id": "d19600aa646e6ec0e551ca4ff873f619d38274a8aa0389783291236b4aab3f7e",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "in diesem System zu unterstützen. Bereits vor der Gründung einer speziellen Fachberatung waren unterschiedliche Bera­ tungsstellen mit dem Thema der Anerkennung von im Ausland erworbenen Qualifikationen aufgrund des Zuzugs von (hoch-)qualifizierten Migrant_in­ nen konfrontiert. Insbesondere Migrationsberatungsstellen haben dieses Aufgabenfeld als Querschnittsaufgabe mit übernommen. Die Interview­ partner_innen haben diese Erfahrungen überwiegend selbst in ihrer Bera­ tungstätigkeit gemacht. »[U]nd habe in den letzten Jahren immer mehr mit hoch qualifizierten und qualifizierten Migrant_innen zu tun gehabt, weil einfach der Zuzug aus dem Ausland sich verändert hat. Also die Migration hat sich verändert und so ist die allgemeine Rechts- und Sozialberatung, also die Inhalte haben sich än­ dern müssen und wir haben einfach mitwachsen müssen« (C/AT, Z. 14-18). Hier wird deutlich, dass auch in der Beratungspraxis veränderte Beratungs­ anliegen sichtbar geworden sind, deren Bearbeitung neues F"
+      },
+      {
+        "rank": 5,
+        "id": "e1ea91e34d31585ad720183ad745ffd2e587326fb89a078fb74dd030c4dd0258",
+        "score": 0.30254483222961426,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "28d3629f9eba498c84e86964780e31768bd78658eed4308d5c8b1c1b4ed518e8",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "1.2 Begriffe und Definitionen In der vorliegenden Arbeit werden einige zentrale Kategorisierungen vor­ genommen, deren Konstruktionscharakter für die Analyse und Darstellung der Ergebnisse durchgehend zu berücksichtigen ist. Eine zentrale Bedeu­ tung übernehmen die Begriffe und Konzepte von »Migration«, »Qualifizie­ rung« und »Anerkennung« und die davon abgeleiteten Kategorien. In Ver­ bindung mit der Klärung der Bedeutungsebenen für diese Arbeit werden dadurch auch grundlegende Voraussetzungen, Annahmen und Perspekti­ ven auf das Forschungsfeld verdeutlicht. 1.2.1 Die Konstruktion der Zielgruppe »qualifizierte_r Migrant_in« In der aktuellen Diskussion um die Zuwanderung qualifizierter Migrant_in­ nen bleiben zwei grundlegende Vorannahmen meist unhinterfragt. Es wird zunächst von einer »dichotomisierenden Logik« (Erel 2012, S. 109) ausge­ gangen, nach welcher die Interessen der Migrant_innen den Bedürfnissen der Aufnahmegesellschaft gegenüberstehen. Zugleich wird insbesondere im Migrat"
+      }
+    ]
+  }
+]

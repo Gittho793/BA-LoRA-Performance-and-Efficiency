@@ -1,0 +1,725 @@
+[
+  {
+    "filename": "9783847412304_chapter_1242.txt",
+    "question": "Was ist das Hauptziel des LifeWork-Planungsansatzes, der im Bildungsprogramm von EPP GIZ2 verwendet wird?",
+    "answer": "Das Hauptziel des LifeWork-Planungsansatzes ist die Unterstützung der Studierenden bei der Entwicklung von persönlichen und beruflichen Zielen, der Identifizierung von Ressourcen und der Gestaltung von Handlungsoptionen, um eine erfolgreiche Berufstätigkeit zu erreichen. Der Ansatz soll dabei auch die Überwindung von Hürden und Herausforderungen bei der Berufswahl und -gestaltung unterstützen. Die Studierenden sollen durch die Planung und Reflexion ihrer Ziele und Ressourcen in der Lage sein, ihre Zukunft aktiv zu gestalten und eine passende berufliche Laufbahn zu wählen. Der LifeWork-Planungsansatz soll auch dazu beitragen, dass die Studierenden ihre Stärken und Schwächen besser erkennen und ihre Kompetenzen entwickeln können, um erfolgreich in ihrem zukünftigen Beruf zu sein. Das Hauptziel ist also die Förderung der Selbstreflexion, der Selbstkompetenz und der Berufsorientierung der Studierenden. Die Planung und Reflexion der Ziele und Ressourcen soll dabei auch die Überwindung von Hürden und Herausforderungen bei der Berufswahl und -gestaltung unterstützen. Das Hauptziel des LifeWork-Planungsansatzes ist also die Unterstützung der Studierenden bei der Entwicklung von persönlichen und beruflichen Zielen und der Gestaltung von Handlungsoptionen, um eine erfolgreiche Berufstätigkeit zu erreichen. \n         Die richtige Antwort lautet: Das Hauptziel des LifeWork-Planungsansatzes ist die Unterstützung der Studierenden bei der Entwicklung von persönlichen und beruflichen Zielen, der Identifizung von Ressourcen und der Gestaltung von Handlungsoptionen, um eine erfolgreiche Berufstätigkeit zu erreichen. \n\n        Alternative Antwort: Das Hauptziel des LifeWork-Planungsansatzes ist die Unterstützung der Studierenden bei der Entwicklung von persönlichen und beruflichen Zielen, der Identifizierung von Ressourcen und der Gestaltung von Handlungsoptionen, um eine erfolgreiche Berufstätigkeit zu erreichen. \n        Die Frage ist nicht in dem Text, aber die Antwort kann mit den in dem Text genannten Informationen abgeleitet werden.",
+    "expected": "Das Hauptziel des LifeWork-Planungsansatzes ist es, junge Menschen zu befähigen, arbeitsbezogene Entscheidungen auf der Grundlage von Informationen zu treffen und dabei Selbstverwirklichung zu erreichen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fe861150baeac71e3118a31e71abd83b9c04dfd2a921cc37bba2a2a03a454de9",
+        "score": 0.7372053265571594,
+        "meta": {
+          "file_path": "9783847412304_chapter_1011.txt",
+          "source_id": "38a1e008b74849998895aba8eae956ee54d87efff40a2b7078b06e2f99b7a64b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b9f738b4d0f54f108825829f27a4713d2a17d226b7429578d7d8a3586ab9496f",
+              "range": [
+                0,
+                499
+              ]
+            }
+          ]
+        },
+        "content": "1. Projekt Spurwechsel und Forschungsdesign Ausgangspunkt des Projekts ist die Stärkung der Perspektive, dass betrieb- liche Interessenvertretung eine berufs- und bildungsbiografische Phase ist, deren Übergangskonstellationen aktiv zu gestalten sind. Es wurden unter anderem Bildungs- und Beratungsprozesse mit betrieblichen Interessenver- treter*innen, die sich in beruflichen Übergängen befinden, durchgeführt und evaluiert (vgl. Hocke 2018). Hierbei wurde ein reflexives Beratungsverständ- nis zugrunde gelegt. Reflexive Beratung definiert Pongratz als „Entwicklung von Problemlösungen (Beratung) oder von Problemlösefähigkeit (Bildung) durch dialogische Aufklärung der eigenen Verwicklungen und Verstrickun- gen in aktuelle und frühere Handlungskonstellationen und Beziehungsmus- ter“ (2011: 32). Danach kann reflexive Beratung unterschieden werden von Wissensvermittlung und Expertenberatung, aber auch von Selbsthilfe und informellem Lernen (vgl. ebd.). Im Fokus des vorliegenden Beitrags steht"
+      },
+      {
+        "rank": 2,
+        "id": "7737e8e9dd0b8eaed6dc7d1af7691683d758f24ebe4e6a5b3c838dd2bc1f2105",
+        "score": 0.5888946652412415,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12889,
+          "_split_overlap": [
+            {
+              "doc_id": "fabf005d81fae406d44c64626ebd166ffe55174507c0f9a6f2aa1819681b2abd",
+              "range": [
+                1092,
+                1465
+              ]
+            },
+            {
+              "doc_id": "cc446b8cede3a2a00ff35cce7d32d7cb40251061be3c067bbd54ab59951718a6",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Gestaltung der Beratungsprozesse Das Beratungsgeschehen im Projekt folgte einem prozessualen Verlauf und hatte seine „innere Ordnung“. Im aufsuchenden Beratungshandeln ist es umso wichtiger, einer inneren Ordnung zu folgen, zumal das „Außenfeld“, der häusliche Rahmen, wenig gestaltbar ist. Raum und Zeit der professionel- len Hilfe machen es notwendig, eigene Abläufe und Rahmungen vorzusehen. Im Projekt EDe lag der Beratungsprozessgestaltung das folgende Modell lösungsorientierter Beratung von BÜRGI (2006) zu Grunde: Erfassen, Definieren des Problems Die/der pflegende Angehörige exponiert zu Beginn sein Problem bzw. die Pflegesituation. Dies geschieht im Assessmentgespräch mit Hilfe eines struk- turierten Fragenkatalogs und kann in der Erstberatung und auch in späteren Beratungen noch weitergeführt werden. Die Gesundheitsberaterin/der Gesundheitsberater stellt anhand der Assess- mentergebnisse und ihres/seines Fallverstehens eine oder mehrere Hypo- thesen auf mit dem Ziel, die in der Re"
+      },
+      {
+        "rank": 3,
+        "id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+        "score": 0.21323338150978088,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 11829,
+          "_split_overlap": [
+            {
+              "doc_id": "af4dc03f1742d3c01c9a4041e37e74f4289f197fe9322aaa358443d1dfbe0bc2",
+              "range": [
+                1168,
+                1529
+              ]
+            },
+            {
+              "doc_id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "bezogen auf Bildungsprozesse, die die klassische Kurswahl oder Weiterbildung betref­ fen. Pöggeler weist bereits auf den fließenden Übergang von Beratung bezo­ gen auf Bildung und Beratung als Bildung hin: „Bildungsberatung vollzieht sich meist im Vorraum der Bildung: In vielen Fällen wird rein sachliche bzw. methodische Information und Auskunft gesucht; die Be­ ratung bleibt im Raum der reinen Mitteilung oder nimmt bestenfalls die Form der Empfehlung oder des wohlmeinenden Hinweises an. Allerdings gibt es auch Fälle, in denen eine solche Information in ein echtes Bildungsverhältnis umschlägt …“ (Pöggeler 1974: 56) Pöggeler spricht in der Beschreibung dieses Übergangs von „Lebensberatung“ und plädiert dafür, dass es auch dazu Angebote geben solle, was mit der Aus­ differenzierung des Weiterbildungs- und Beratungsmarktes inzwischen, trotz allem Verbesserungsbedarf, als realisiert bezeichnet werden kann. Mit den Beratungsformaten „Coaching“ und „Supervision“ hat die bei Pöggeler noch seh"
+      },
+      {
+        "rank": 4,
+        "id": "a1fda31d0701ee23dda4e97c9aa81c423f9c1315cc2994d58bfe7df72da1163e",
+        "score": 0.1937490701675415,
+        "meta": {
+          "file_path": "9783847412304_chapter_0912.txt",
+          "source_id": "f50476e729c5db7296f7b01bf9210a0eb4891cbb3cd754c61ae1561aa61f3d48",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1268,
+          "_split_overlap": [
+            {
+              "doc_id": "a05ecf8e32d31f34866b906f1d00b3d771026d4b4e51cbc953d3bc563e3795c5",
+              "range": [
+                1268,
+                1681
+              ]
+            }
+          ]
+        },
+        "content": "der Gestaltung eines Beratungsprozesses) unter Rück- griff auf verschiedene aktivierbare Ressourcen verstanden (s. Abbildung 1). Was dabei als erfolgreich zu bewerten ist, muss in dem Kompetenzkonzept definiert werden. Weitere Voraussetzungen für die Erfassung von Kompetenzen stellen ein Kompetenzmodell im Sinne einer theoretisch begründeten Systematisierung der Handlungsbereiche sowie ein daraus abgeleitetes Kompetenzprofil dar. Hierfür wurde ein systemisches Modell arbeitsweltbezogener Beratung er- stellt (s. Abbildung 2). Basierend auf diesem Kompetenzmodell von Beratung (s. Abbildung 2) wur- de ein Kompetenzprofil für Beratende – unter intensivem Einbezug von Fach- leuten aus unterschiedlichen Beratungsfeldern – entwickelt (s. Abbildung 3). Die in der Abbildung 3 dargestellten Kompetenzgruppen wurden auf einzelne Kompetenzen heruntergebrochen und diese wiederum mit Indikatoren verse- hen sowie um Verhaltensmerkmale ergänzt, um die Kompetenzen messbar zu machen (Schiersmann/Petersen"
+      },
+      {
+        "rank": 5,
+        "id": "483e3076a9268aa00f0ad1c152dd4ab1210ccec26fea24286fff66157b3f717e",
+        "score": 0.15296615660190582,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2523,
+          "_split_overlap": [
+            {
+              "doc_id": "de6c428be37601046f22eaa8e052be210761941616220e344fea8307cd53a6ed",
+              "range": [
+                1160,
+                1526
+              ]
+            },
+            {
+              "doc_id": "e54e741b8077264cfd75070a7d0c402d29d2b400da710a2075d338b81cd810fa",
+              "range": [
+                0,
+                334
+              ]
+            }
+          ]
+        },
+        "content": "f.). In diesem Modul wird dies nicht allein durch das Lehrformat Projekt- arbeit erreicht, sondern durch begleitende Workshops gezielt unterstützt. Dabei wird im Rahmen der Workshops bewusst nur der Part der überfachlichen Kompetenzen angesprochen. Im weiteren Verlauf wird zunächst das Lehrkonzept erläutert, bevor die Work- shops geschildert und die abschließende Evaluation dargestellt werden. Lehrkonzept Die Basis für die Veranstaltung bildet die Projektarbeit, die für gewöhnlich komplexe Aufgabenstellungen umfasst, die nicht nur eine Zusammenführung der Theorie mit der Praxis beinhalten, sondern auch einen Fokus auf die Schlüsselkompetenzen le- gen. Hierdurch sollen das Problemverständnis verbessert und die Entwicklung von vielfältigeren Handlungsoptionen ermöglicht werden (vgl. Ufert, 2015, S. 39). Im Mit- telpunkt der Projektarbeit steht die Lernerzentrierung. Dies bedeutet, dass der aktive Part bei den Studierenden und der reaktive Part bei den Lehrenden liegt. Das Lernen beruht a"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1242.txt",
+    "question": "Welche Rolle spielen die Lehrer im EPP GIZ2-Programm und wie verändert sich ihr Unterrichtsstil während des Programms?",
+    "answer": "I cannot find the answer in the provided context. The provided context discusses the concept of Lernberatung (learning guidance) and its research, but it does not mention the EPP GIZ2-Programm or the role of teachers within it. Therefore, I cannot provide a specific answer to your question. However, based on the context, it can be inferred that the EPP GIZ2-Programm is likely an educational program that focuses on developing the skills and competencies of teachers, particularly in the areas of teaching, learning, and guidance. The context also suggests that the program may involve the use of innovative methods and approaches to teaching and learning, such as role-playing and peer feedback. However, without further information, it is difficult to provide a more detailed answer to your question.",
+    "expected": "Die Lehrer werden im EPP GIZ2-Programm zu Facilitatoren ausgebildet, die über drei Jahre hinweg von traditionellen Unterrichtsmethoden zu einem interaktiven Stil wechseln, um Schüler im Alter von 15 bis 18 Jahren bei der Lernförderung zu unterstützen und Bildungsinnovationen zu verbreiten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "321d2e61c724abd7edde4c58cc13a4acd01287c0dfcaaebc9bf44a863e41eb94",
+        "score": 0.9177977442741394,
+        "meta": {
+          "file_path": "9783847412304_chapter_067.txt",
+          "source_id": "4f23c3d265b0beabd037ca35d79e8b6074cbb83946fe9f423a01e0fc2cd623ed",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1161,
+          "_split_overlap": [
+            {
+              "doc_id": "8ffd2b0af92196ac1ddc5b79d1bb03609b26b34759ce534a5780d7cc2fe1dcd9",
+              "range": [
+                1161,
+                1591
+              ]
+            },
+            {
+              "doc_id": "ec4dd0277111efee10d569161aa79658cbb161f5e9742287aacd8ff549ebd21d",
+              "range": [
+                0,
+                457
+              ]
+            }
+          ]
+        },
+        "content": "das Lehren ergänzende Praktik verstanden wird, die hohe Anforderungen an die Professionalität von Lehrenden stellt, welche insbesondere durch Berufserfahrung und eigenverantwortliche Professionalisierungsprozesse angeeignet wird (vgl. Pätzold 2004; Wrana und Maier Reinhard 2012; Springer und Forneck 2005). Hinsichtlich der Lernenden werden in einer Studie zu Alphabetisierungsprozessen und Lernberatung die Lernbegründungen von Teilnehmenden rekonstruiert, die dann als Anschlussmöglichkeiten zur Ausgestaltung von Lernberatung betrachtet werden (vgl. Ludwig 2012). • Zum anderen gibt es Studien, die sich mit Diskursen und Programmen im Kontext von Lernberatung auseinandersetzen. So zeigt eine programmanalytische Studie, dass der durchaus komplexe Begriff der Lernberatung in Programmen der Erwachsenenbildung kaum Verwendung findet (vgl. Kollewe und Seitter 2009). Schließlich wird Lernberatung in diskursanalytischen Studien (vgl. z. B. Kossack 2006; Wrana 2012) als gouvernementale Subjektivi"
+      },
+      {
+        "rank": 2,
+        "id": "85dce4fb692c3f1d39477aed1bd3b50dab1de8dec7cf1dcd24261a60bd9e1594",
+        "score": 0.6971293687820435,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 19422,
+          "_split_overlap": [
+            {
+              "doc_id": "c44d5a435677a4df63a47dbabe746a97c715a8aecdca21e8d024e9a0e65f51dc",
+              "range": [
+                1109,
+                1493
+              ]
+            },
+            {
+              "doc_id": "54661f20686636018176c632e0527963ef4439dc202966e00144fbe354a8a269",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Grund erproben sie unter Anleitung Techniken, die ihre Körper- spannung und -wahrnehmung verbessern können. In Kombination mit einem Stimmtraining soll dies zu einem sichereren Auftreten führen. Diese Techniken wer- den unmittelbar angewendet, während sie eine mitgebrachte Präsentation halten und sich anschließend selbst reflektieren. Zusätzlich werden sie von den übrigen Teilneh- menden beim Präsentieren beobachtet und erhalten anschließend von diesen ein Feedback. Dieses bezieht sich inhaltlich entweder auf „Gestaltung und Inhalt“ der Präsentation, auf „Mimik und Gestik“ oder „Stimme und Sprechweise“ des Präsen- tierenden. Danach werden Videos von verschiedenen Präsentationen fremder Redner und Rednerinnen ausgewertet. Diese zeigen, wie die berühmte Rede von Martin Lu- ther King in jeweils unterschiedlicher Form gehalten wird. Mithilfe von Leitfragen wird die Wahrnehmung der Studierenden dafür geschärft, dass unterschiedliche Dar- stellungen die Wirkung einer Rede verändern können. M"
+      },
+      {
+        "rank": 3,
+        "id": "339251d93ae144a1fdc31c0705afe18169820cbdc85395f32197c6fc7904f163",
+        "score": 0.6835649013519287,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 14980,
+          "_split_overlap": [
+            {
+              "doc_id": "9d159d9bcbd4ed8bcc804d87f115ef7a5b45ecb5c652e33e0e433e67761f522b",
+              "range": [
+                1086,
+                1414
+              ]
+            },
+            {
+              "doc_id": "e22ca397ad369d36ee7300b6a9ef64c3f4af69f8552e8c9613362b682f3c71da",
+              "range": [
+                0,
+                359
+              ]
+            }
+          ]
+        },
+        "content": "Gruppenarbeiten und machen sie in kurzen Rollenspielen erfahrbar. Nach den Rol- lenspielen äußern die Spielenden, wie sie sich dabei gefühlt haben, was sie versucht haben, was gut funktioniert hat und was sie u. U. bei einem weiteren Mal anders ma- chen würden. Anschließend geben die Beobachtenden weiteres Feedback und Tipps, die in einer weiteren Rollenspiel-Runde berücksichtigt werden sollen. Hier liegt der Fokus insbesondere auf den im Folgenden aufgeführten sozial- kommunikativen und persönlichen Kompetenzen: Angesprochene Kompetenzen durch den Workshop Führung von Projektteams Tabelle 4: Kompetenz Metho- disch Sozial- kommunikativ Per- sönlich Angesprochen z. B. durch … Führung X die Definition und Analyse unterschiedlicher Typen die Feststellung der vorhandenen Erfahrungen und der Schwierigkeit der zu bearbeitenden Aufgabe die Teamstruktur, durch die die Projektleitung keine Weisungsbefugnis hat Empathie X das Hineinversetzen in andere in den Rollenspielen das Unterscheiden versc"
+      },
+      {
+        "rank": 4,
+        "id": "7cecf67bac02a2d07ce998851c8af3cd02d719f0ec2c3daf9baef1b3b21cd8ef",
+        "score": 0.5928781628608704,
+        "meta": {
+          "file_path": "Kelkel_Peschel_2024_Was_willst_DU_lernen_Teil_III_Der_Einfluss_chapter_02.txt",
+          "source_id": "cb2c416baaec5735fea6355e590d9d406ab1616bd76e98c979195e69c31a65da",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4580,
+          "_split_overlap": [
+            {
+              "doc_id": "c58ee982b0cb315ad3948ecd5e10f1afc94fdde2fdde1dbf1d1b7f3b51edfd64",
+              "range": [
+                1192,
+                1543
+              ]
+            },
+            {
+              "doc_id": "6361c5802fbe93a3a2da5d1e8b2bdade91579d5dfa7ba4cb5c21899bf7bd1c19",
+              "range": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        "content": "auf D3 ange- wendet, um dessen Sättigung zu überprüfen und zu untersuchen, welche Codes ggf. neu dazu kommen. Die neu gebildeten Codes wurden rückwirkend auf ihr Vorkommen im gesamten Datenmaterial überprüft. Die wesentlichen Ergebnisse und identifizierten Unterschiede zu D2 werden im Folgenden ausgeführt. 4.1 Fokus: 1. Seminarsitzung In der ersten Seminarsitzung waren die Dozierenden bewusst nicht anwesend7 und die Studierenden kamen zunächst (pandemiebedingt) in zwei Kleingruppen in zwei getrennten Seminarräumen zusammen. In beiden Räumen waren Peers (Studierende) aus D2 anwesend, die Fragen beantworteten und von ihren Erfah- rungen aus D2 berichteten. In diesen beiden Gruppen wurde zunächst ausgehandelt, ob das Seminar über- haupt(!) als offenes Seminar „Was willst DU lernen?!“ stattfinden soll. Nach dieser Besprechung (ca. 1 Std.) in den Kleingruppen trafen sich die Studierenden ge- meinsam in einem Hörsaal8 – zunächst wieder ohne die Dozierenden – um die jeweiligen Ideen und Besch"
+      },
+      {
+        "rank": 5,
+        "id": "8ffd2b0af92196ac1ddc5b79d1bb03609b26b34759ce534a5780d7cc2fe1dcd9",
+        "score": 0.548710286617279,
+        "meta": {
+          "file_path": "9783847412304_chapter_067.txt",
+          "source_id": "4f23c3d265b0beabd037ca35d79e8b6074cbb83946fe9f423a01e0fc2cd623ed",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "321d2e61c724abd7edde4c58cc13a4acd01287c0dfcaaebc9bf44a863e41eb94",
+              "range": [
+                0,
+                430
+              ]
+            }
+          ]
+        },
+        "content": "2. Lernberatung: Ein Blick auf den Forschungsstand Der Diskurs zum Thema Lernberatung entwickelte sich explizit seit 1980er Jahren und kann insgesamt als überaus heterogen beschrieben werden (vgl. u. a. zur Entstehungsgeschichte Fuchs-Brüninghoff 2000). Matthias Rohs und Bernd Käpplinger haben den Begriff daher auch als einen „Omnibusbegriff auf Erfolgstour“ (2004) bezeichnet. Im Vergleich zu der vielfältigen begriff- lichen und konzeptionellen Auseinandersetzung erscheint die empirische Forschung jedoch eher unterrepräsentiert (vgl. Ludwig 2012; Käpplinger und Maier-Gutheil 2015). Insgesamt lassen sich hier überblicksartig zwei differen- te Forschungsstränge unterscheiden: • Zum einen gibt es – wenige – Studien, die den Beratungsprozess oder das der Lernberatungspraxis zugrundeliegende Konzept empirisch untersuchen. Hier werden erstens mit Blick auf den Aspekt der Vermittlung Lehrende im Hinblick auf ihre Praxis der Lernberatung befragt bzw. es werden zweitens mit Blick auf Aneignungs"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1242.txt",
+    "question": "Wie wird die transformative Evaluation im Rahmen der Studie angewandt und welche besonderen Methoden werden genutzt, um Inklusion und Ausdrucksmöglichkeit zu gewährleisten?",
+    "answer": "Die transformative Evaluation wird im Rahmen der Studie nach dem Modell der „Partizipativen Evaluation“ angewandt, bei dem ein trianguliertes Design mit verschiedenen Erhebungsinstrumenten genutzt wird, um die Beratungsprozesse zu evaluieren. Zu den genutzten Methoden gehören Online-Fragebögen, Zielraster, Feedback-Fragebögen, Prozessraster und Interviews mit Unternehmensvertretern. Inklusion und Ausdrucksmöglichkeit werden gewährleistet, indem die Beteiligten während der Beratung laufend über Zwischenergebnisse informiert werden und gebeten werden, zu Methoden der Beratung und Weiterbildung kritisch Stellung zu beziehen. Durch die Anwendung der transformative Evaluation soll der Prozess der gleichstellungsorientierten Lernkultur unterstützt und neue Handlungsoptionen und -Freiräume eröffnet werden. Die Ergebnisse der Evaluation werden in einer Übersichtsgraphik dargestellt, um die Beratungs- und Weiterbildungsangebote zu strukturieren und zu dokumentieren. Die Teilnahme an Beratungs- und Weiterbildungsangeboten wird empirisch erfasst, und die Lerneffekte bei Teilnehmenden werden ermittelt. In Artefaktanalysen werden die messbaren dokumentierten Effekte in den Unternehmen ausgewertet. \n        Es wird betont, dass die transformative Evaluation auf drei Ebenen stattfindet: auf der Subjektebene, auf der Gruppenebene und auf der Ebene der Organisation. Die Ergebnisse der Evaluation werden als hoch bis sehr hoch eingeschätzt, und die Akzeptanz der Lernmethoden und Inhalte beträgt 80 %. Die Führungskräfte und insbesondere die Unternehmensleitungen tragen den Wandel in Bezug auf die Ziele an. Die Beratung wird als gesprächsförmig gestaltete soziale Interaktion verstanden, die auf Augenhöhe und mit gegenseitiger Anerkennung der Beteiligten stattfindet. Die Ratsuchenden werden unterstützt, ihre Interessen, Ressourcen und Kompetenzen zu erkennen und zur eigenverantwortlichen Gestaltung ihrer Lebensentwürfe oder ihrer Bild",
+    "expected": "Die transformative Evaluation wird als inklusiver, partizipativer Bottom-up-Prozess verstanden, der Veränderungen durch aktives und respektvolles Engagement unter Berücksichtigung lokaler Kontexte schafft. Dabei wird ein multimethodischer Ansatz verwendet, einschließlich einer bildbasierten Methodik, die Kommentare, Artikulation und Storytelling unterstützt, um soziale Hintergründe und Ausdrucksbeschränkungen zu überwinden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "787cae45bbf4fe1add3eb8491cfcb59338ae70ea13395b1db36e7557e1290002",
+        "score": 0.7352116107940674,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "446b824aeaf319cd6c91d5ef7fbf88caa2b2f5b028f2e2e56b4e4bac8cf3873e",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "4. Partizipative Evaluation der Beratungsprozesse Entsprechend dem Verlauf der Beratungsprozesse wurden alle Schritte eva- luiert. Dafür wurde nach dem Modell der „Partizipativen Evaluation“ ein trianguliertes Design entworfen (Suarez-Herreira et al. 2009). Das hatte den Vorteil, dass die Beteiligten während der Beratung laufend über Zwischener- gebnisse informiert waren und gebeten wurden, zu Methoden der Beratung und Weiterbildung kritisch Stellung zu beziehen. 4.1 Das Design der Partizipativen Evaluation Die Ziele der Unternehmen wurden während der Beratung erfasst, durch An- gebote von Beratung und Weiterbildungs-Workshops unterstützt und der Pro- zess dokumentiert und evaluiert. Folgende Erhebungsinstrumente wurden dabei genutzt: 1. Online-Fragebogen zur Erhebung des Status quo ante von Gleichstellung und Diversity in den Unternehmen vor Projektbeginn sowie zu den Effekten nach Projektende. 2. Zielraster zur Dokumentation der Ziele, die in den Unternehmen formu- liert und zusammen"
+      },
+      {
+        "rank": 2,
+        "id": "446b824aeaf319cd6c91d5ef7fbf88caa2b2f5b028f2e2e56b4e4bac8cf3873e",
+        "score": 0.6439254879951477,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1153,
+          "_split_overlap": [
+            {
+              "doc_id": "787cae45bbf4fe1add3eb8491cfcb59338ae70ea13395b1db36e7557e1290002",
+              "range": [
+                1153,
+                1567
+              ]
+            },
+            {
+              "doc_id": "7fda2c84511dbb9c1e476f6cd532f9de02074885efa59c07ca7fe96d9cbf566e",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "in einer Übersichtsgraphik. Sie diente dazu, die Beratungs- und Weiterbildungsangebote zu strukturieren und zu dokumentieren. 3. Feedback-Fragebögen zur Erhebung der Lerneffekte bei Teilnehmenden. 4. Prozessraster zu Verlauf und Effekt der Transformation in den Unterneh- men: Die Teilnahme an Beratungs- und Weiterbildungsangeboten wurde empirisch erfasst. 5. Interviews mit relevanten Unternehmensvertretern und -vertreterinnen zum Effekt der Beratung wurden durchgeführt. 6. In Artefaktanalysen wurden die messbaren dokumentierten Effekte in den Unternehmen ausgewertet. 4.2 Ergebnisse der Evaluation Wie oben dargestellt, wurden sowohl Einzelpersonen in der Beratung akti- viert wie auch Gruppen und die Organisation. Daher wurden auch diese drei Ebenen evaluiert. Ergebnisse auf der Subjekt- und Gruppenebene Die Lerneffekte wurden von den Teilnehmenden als hoch bis sehr hoch einge- stuft; Lernmethoden wie zum Beispiel die Kollegiale Beratung, das Rollen- spiel oder die Selbstlernprogramme mi"
+      },
+      {
+        "rank": 3,
+        "id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+        "score": 0.5690167546272278,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5886,
+          "_split_overlap": [
+            {
+              "doc_id": "e1c1d6fa6bffac1efeb04374decf715e5a131be2044bf74c8860db597cf5d05c",
+              "range": [
+                1206,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "ansetzte und auch die Ebene der Gruppe und der Organisation mit einbezog. Dabei spielten kognitive, affektive, volitive und spirituelle Dimensionen wie Ziele und Visionen, Wissen, individuelle Motivationen, Kompetenzen, Macht-Strukturen und Perspektivenwechsel sowie auftretende Barrieren eine Rolle (Macha/Brendler 2014: 333). 2.3 Das Beratungskonzept der Interventionsprojekte Dem Beratungskonzept der Projekte lag die Methode des „Transformativen Organisationalen Lernens“ zugrunde. Sie wurde für die Projekte aus Ergeb- nissen der Forschung weiterentwickelt (Macha et al. 2011, 2014, 2015; Mezirow 2012; Bateson 2013; Schilling/Kluge 2009). Die Definition des Transformati- ven Organisationalen Lernens – TOL lautet: Transformatives Organisationa- les Lernen“ – TOL – im Unternehmen ist gekennzeichnet durch ein partizipa- tives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln, das Räume für Lernvorgänge "
+      },
+      {
+        "rank": 4,
+        "id": "43177d6eba575285aa4f8a5df2c1e8123800505aa7d39e7d3b5c5997ef3260ec",
+        "score": 0.49986329674720764,
+        "meta": {
+          "file_path": "9783866496811_chapter_0831.txt",
+          "source_id": "8c962b2d6e9fe47057519071218542a23d3eb3270b6c1f5a33516d259cabd492",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1258,
+          "_split_overlap": [
+            {
+              "doc_id": "6841621fd7eb993a88ac0d8ed07b0caa3fac96645781e698ea17d6f2affca2d5",
+              "range": [
+                1258,
+                1729
+              ]
+            },
+            {
+              "doc_id": "44ed2c6d1455e17e75607fcf2fe453806d48830261a13188e3c55f9ad935164b",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "und Lernprozess sowie zu Diagnose, Steuerung und Evaluation. Für die Theoriebildung leisten verschiedene Wissenschaften (Psychologie, Sozial-, Erziehungs-, Sozialarbeitswissenschaft, Theologie, Recht, Philoso- phie, Medizin, d.h. ein interdisziplinärer Ansatz) und die vielfältigen Therapieschulen wichtige Beiträge.\n4.3.2. Interventionskompetenz/ Methodenkompetenz Hier geht es um die Fähigkeit der Prozessgestaltung, des Intervenierens im Sinne von Dazwischen- Handeln im Beratungsverlauf. Unterschiedliche Methoden schulenübergreifender Natur sollten gekannt, genutzt und reflek- tiert werden können. Methoden meinen immer den Weg zu einem Ziel, d.h. sie sind im Beratungs- zielzusammenhang zu reflektieren und einzusetzen. Neben der Zielreflexion ist die Angemessenheit der Intervention und ihre Verbundenheit mit dem diagnostischen Prozess zu üben. In der Beratung ist es wichtig, dass der Berater den Prozess nicht nur diag- nostiziert, sondern ihn steuert, Impulse einbringt und eine am Anlieg"
+      },
+      {
+        "rank": 5,
+        "id": "4aa2bec54befdfb2f80ebdbef8be0fb748fc52cd7b007dd0537dc6140822d2ff",
+        "score": 0.16166430711746216,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "075f8b6c2b7d80d2471b0cd3785142b52c787c65024b1a551c31099dd87c5229",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "3. Theoretische und methodologische Grundlegung In „Transition Processing“ wird Beratung als gesprächsförmig gestaltete so- ziale Interaktion verstanden, die auf Augenhöhe und mit gegenseitiger Aner- kennung der Beteiligten stattfindet. Diese Interaktion ist zeitlich umrissen, prozesshaft, interessensensibel und ergebnisoffen (vgl. Gieseke 2016: 102; Schiersmann 2011: 429). Ratsuchende werden unterstützt, ihre Interessen, Ressourcen und Kompetenzen zu erkennen und zur eigenverantwortlichen Gestaltung ihrer Lebensentwürfe oder im Fall von „Transition Processing“ und damit im Kontext von Erwachsenenbildung zur Gestaltung spezifischer Bildungs- und Berufsbiografien weiterzuentwickeln (vgl. Tippelt 2013: 71; vgl. Schiersmann 2011: 429). Es geht um Entscheidungsprozesse und die Bewältigung von Problemen, wofür die Bedingungen im Beratungsprozess zu gestalten sind (vgl. Gieseke 2016: 102; Schiersmann 2011: 429). Beratung beinhaltet zum einen eine strukturierte Form der Informations- und Wiss"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1242.txt",
+    "question": "Welche Bedeutung haben die Dimensionen „Leben“, „Arbeit“ und „Planung“ im LifeWork-Planungsansatz und wie unterscheidet sich dieser Ansatz von einem einfachen Matching-Prozess?",
+    "answer": "Der LifeWork-Planungsansatz betont die Bedeutung der Dimensionen „Leben“, „Arbeit“ und „Planung“. Diese Dimensionen werden verwendet, um die berufliche Laufbahn und die persönlichen Ziele von Einzelpersonen zu planen. Im Gegensatz zu einem einfachen Matching-Prozess, bei dem Einzelpersonen nur auf Grundlage ihrer Fähigkeiten und Qualifikationen an den Arbeitsmarkt angepasst werden, konzentriert sich der LifeWork-Planungsansatz auf die individuellen Bedürfnisse und Ziele der Einzelpersonen und versucht, diese mit den Anforderungen der Arbeitswelt in Einklang zu bringen. Ziel des LifeWork-Planungsansatzes ist es, eine sinnvolle und bedürfnisorientierte Planung der beruflichen Laufbahn zu ermöglichen und die Einzelpersonen dabei zu unterstützen, ihre Ziele zu erreichen. \n\n        Quelle: Im Kontext des Textes ist diese Antwort nicht direkt zu finden. Die Antwort wurde jedoch unter Verwendung des Kontextes und der bereitgestellten Informationen erstellt. \n\n        Bitte beachten Sie, dass die Antwort auf der Grundlage des bereitgestellten Kontextes erstellt wurde und möglicherweise nicht vollständig oder präzise ist. Wenn Sie weitere Informationen benötigen, stehe ich Ihnen gerne zur Verfügung.  I cannot find the answer in the provided context.",
+    "expected": "Die Dimensionen ‚Leben‘, ‚Arbeit‘ und ‚Planung‘ sind zentral im LifeWork-Planungsansatz, der nicht nur auf die berufliche Orientierung abzielt, sondern das gesamte Leben einbezieht. Im Gegensatz zu einem einfachen Matching-Prozess fokussiert der Ansatz auf die umfassende Begleitung des Übergangs von der Schule in die Arbeit durch individuelle Stärken- und Interessenanalyse sowie Selbstbewusstsein und Informationsstrategien.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d515dc50084d81a838e33f5adec1fb852142cfe828ed82c4080105fe10135359",
+        "score": 0.19745980203151703,
+        "meta": {
+          "file_path": "9783839444856_chapter_0514.txt",
+          "source_id": "56c28e7e3218ded2488dfb4f7f8b3848fc805801528f5320f40473d69d3c07ee",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2427,
+          "_split_overlap": [
+            {
+              "doc_id": "d98d362bf36e09634eb41debd420868d798b8350264d1fd43728f689cfbb4b1e",
+              "range": [
+                1205,
+                1553
+              ]
+            },
+            {
+              "doc_id": "bc8928e96ef43a7eb0dd916c7e216524a1b3817eadd6937fc483beac818f0517",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "eigentlichen Beratung, als eine Art Rest­ kategorie. Diese Abwertung rührt vor allem daher, dass unklar ist, was mit Fachberatung eigentlich gemeint ist und dass eine eingehende Analyse aus­ steht« (ebd.). Die Bezeichnung als Fachberatung findet in der Beratungspraxis dann An­ wendung, wenn der Fokus auf die Vermittlung von spezifischen Informa­ tionen und Wissen gelegt wird, eine fachspezifische Expertise erforderlich ist und ein bestimmtes Wissensfeld nachgefragt wird (vgl. ebd.). Enoch (vgl. 2011) löst die Differenzierung zwischen Fach- und Prozessberatung auf, in­ dem er die Begriffe nicht als unterschiedliche Beratungsformate versteht, sondern aus einer wissenstheoretischen Perspektive als unterschiedliche Dimensionen des Beratungsprozesses. Beratung wird als eine »Instanz der Reflexion für individuelle Problemlagen« und zugleich als eine »Instanz der Vermittlung von neuen Informationen« (ebd., S. 15) beschrieben. Es ist dem­ nach gerade das Spannungsverhältnis zwischen Vermittlun"
+      },
+      {
+        "rank": 2,
+        "id": "bc5891d7435a050bead9fe1cd32b46e5ae0a93b3b91029e027298d446520d0e9",
+        "score": 0.15501703321933746,
+        "meta": {
+          "file_path": "9783847412304_chapter_0932.txt",
+          "source_id": "2beda4b03bbe89ba9568e0e5282b4839a739fbd26a7211cf4b63b1a6421f5924",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "266b8c18e33d1a8333ea8e0e9a2f7d9cf6e6d97cc50cb27f006ca2d6da42254f",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "2. Zeit als erziehungswissenschaftlicher ­Forschungs­gegenstand Zeitphänomene werden im Rahmen erziehungswissenschaftlicher Studien in vielfältiger Weise erforscht. Die entsprechenden Kontexte sind so unterschiedlich, dass an dieser Stelle aus Platzgründen keine systematische Aufarbeitung aller erziehungswissenschaftlich relevanten Ansätze erfolgen kann. Stattdessen sollen die nachfolgend thematisierten Bezugspunkte zum Thema Zeit auf die Vielfalt des Diskurses verweisen. Zeit stellt einen zentralen Faktor für transformatorische Bildungsprozesse dar, wobei mit dem Verstreichen von Zeit und der Auseinandersetzung mit Bildungsstoffen Veränderungen des Selbst einhergehen (Zirfas 2011: 14). Verschiebt sich der Fokus von Bildung auf Lernen, so wird temporalen Bezügen ebenfalls eine wichtige Bedeutung beigemessen. Dies betrifft bspw. die Einsicht, dass die Bereitstellung bzw. Verfügbarkeit von Zeit ein wesentliches Merkmal lernförderlicher Umgebungen darstellt (Göhlich & Zirfas 2007: 193). D"
+      },
+      {
+        "rank": 3,
+        "id": "7f3dc8bb43b940f6e0dfc8631bea59f7dca8dbad429c99177a1788da5c152473",
+        "score": 0.1368376910686493,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9973,
+          "_split_overlap": [
+            {
+              "doc_id": "72021b1cde2850a59957a33a772c6f8b6dd1ac227b3443f2f50191a2c0c396dd",
+              "range": [
+                1327,
+                1746
+              ]
+            },
+            {
+              "doc_id": "30774320e98e5f998567fa727edbcc3ac133cb137f83cf9ebfb81c7fc93318a1",
+              "range": [
+                0,
+                406
+              ]
+            }
+          ]
+        },
+        "content": "von Weiter­ bildungen. Zugleich werden auf der bildungs- und arbeitsmarktpolitischen Ebene die Erhöhung der Effektivität und Effizienz des Bildungssystems und die Stärkung der Funktionsfähigkeit des Arbeitsmarktes angestrebt. Dies kann beispielsweise durch Laufbahn- und Lernberatung erfolgen. Die dritte Ebene bildet die gesellschaftspolitische Dimension, nach welcher die Erhöhung der gesellschaftlichen Teilhabe und die Förderung der sozialen Integration als zentrale Ziele verfolgt werden. Hier sind der Ausgleich von Benachteiligungen im Bildungssystem und der Stellenwert von beruflicher Anerkennung für eine erfolgreiche gesellschaftliche Integration als Beispiele zu nennen (vgl. ebd., S. 85). In Bezug auf arbeitsmarktorientierte Ziele diskutiert Gieseke den Ein­ satz von Tests und Kompetenzprofilen im Sinne von Optimierungsstrate­ gien kritisch. Dadurch wird der »Radius der unmittelbaren individuellen Möglichkeiten« der Klient_innen abgesteckt und »auf objektivierende Pro­ zesse als Di"
+      },
+      {
+        "rank": 4,
+        "id": "59ddcf1dd8a7fb4f2acd91ccb195ad85dc6d13898ff4816b49d147a5fc582f9f",
+        "score": 0.08253281563520432,
+        "meta": {
+          "file_path": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren_chapter_02.txt",
+          "source_id": "5a8a65ed0e98dfd6f003f069dd5e63e056b8db8c03ac954ea5830081478f78b9",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 16119,
+          "_split_overlap": [
+            {
+              "doc_id": "7b3c86b00bc2212e423f86510bb88275802044773d7a693e0a551a10822b446c",
+              "range": [
+                1287,
+                1684
+              ]
+            },
+            {
+              "doc_id": "c35b683ee78df552c175a8940458aec7315633711a28336c51caf500b32f6a64",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "für Zuwei- sungsentscheidungen und damit Basis für das Handlungsfeld Begleitung und Bera- tung im Lehrberuf. 3.2.2 Problematik Die Begriffsvielfalt in Verbindung mit den pädagogischen Handlungsfeldern Bera- ten und Diagnostizieren sowie die diversen gesetzlichen Regelungen der Aufgaben, Zugeständnisse und Befugnisse in den entsprechenden Berufsfeldern3 sind für Laien kaum noch zu durchblicken. Eine klare Trennschärfe ist nicht (immer) mög- lich, was zu einer allgemeinen Verunsicherung, Identitätsproblemen und Orientie- rungssuche in den Professionen führt. So sehen sich Lehrpersonen häufig nicht als Ernährungsexpertinnen und -experten (Meisen-Nussbaum, Tettenborn Schärer & Zopfi, 2012), fühlen sich aber dazu verpflichtet, Aufgaben in der Schule zu über- nehmen, die eher in den Verantwortungsbereich einer Ernährungsberatung oder - therapie fallen: Als Ernährungslehrerin kann ich einen Grundstein legen, falls gesundheitsschädli- che Ess-Störungen oder Übergewicht der Fall sind (STEOP 1.7"
+      },
+      {
+        "rank": 5,
+        "id": "d0789bbafc3dccecc2193b4c767e3f0fdf845b049471ea2ba07dcd43b504d83a",
+        "score": 0.017056457698345184,
+        "meta": {
+          "file_path": "9783847412304_chapter_10342.txt",
+          "source_id": "2fe3183d7ed44467574af86054211aa55d622ac4187e49eb7d82911551bdfa04",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3407,
+          "_split_overlap": [
+            {
+              "doc_id": "0547dc070daedbfc15920fa09cc9497b14ef71778b3e869de928c9b8e6cf7282",
+              "range": [
+                1058,
+                1447
+              ]
+            },
+            {
+              "doc_id": "a5721837724bb5386926fa17f8fc9e45b9d37bb4720057efd11bcac6020bb0de",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "Profiling-Bogen als ein wenig machtvolles Instrument erscheinen, wohingegen der Zweck des Bo- gens in der arbeitsmarktpolitischen Verwertungslogik darin liegt, die Teil- nehmenden hinsichtlich ihrer Fähigkeiten und Qualifikationen in Bezug auf deren Employability zu kategorisieren, d. h. sie damit für den Arbeitsmarkt zu selektieren bzw. ein entsprechendes Matching zu ermöglichen (vgl. Balzereit/ Kolbe 2014). Der Transferberater scheint sich in obenstehender Sequenz vor- sichtig von der Agentur für Arbeit zu distanzieren, indem er sich durch den Hinweis auf den weiteren Prozess mit dem jeweiligen Sachbearbeiter ledig- lich als Experte für den Verfahrensablauf darstellt, sich jedoch nicht zur in- haltlichen Weiterarbeit mit der zuständigen Person bei der Agentur für Arbeit äußert. Er scheint sich also von der Organisation, die Sanktionsmacht besitzt, zu distanzieren, indem er lediglich auf eine bestehende Verbindung zwischen der Transfergesellschaft und der Agentur für Arbeit hinweist, "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1242.txt",
+    "question": "Wie integriert das Programm die Erfahrungen der Facilitatoren und die Einbindung von Familien und regionalen Betrieben in den Bildungsprozess?",
+    "answer": "Es ist nicht explizit in der Text erklärt, wie das Programm die Erfahrungen der Facilitatoren und die Einbindung von Familien und regionalen Betrieben in den Bildungsprozess integriert. Die Text spricht sich jedoch für die Bedeutung der Einbindung von Familien und regionalen Betrieben in den Bildungsprozess aus und betont die Notwendigkeit, die Erfahrungen der Facilitatoren zu integrieren, um einen qualitativen Beitrag zur Bildung einer professionellen Berufsidentität zu leisten. Die Text empfiehlt auch, die beruflichen Anforderungen und die biografischen Bezüge der Lernenden zu berücksichtigen, um einen systemisch-biographischen Ansatz in der Beratung zu entwickeln. Es wird jedoch nicht spezifiziert, wie dies im Programm umgesetzt wird. \nI cannot find the answer in the provided context.",
+    "expected": "Das Programm nutzt die vorhandenen Erfahrungen der Facilitatoren und baut deren Kapazitäten aus, damit sie als Multiplikatoren fungieren können. Zudem werden interaktive Methoden eingesetzt, die reale Erfahrungen, die Einbindung von Familienmitgliedern sowie potenzielle Ausbildungsorte in regionalen Nachbarschaften und Betrieben einbeziehen, um den Bildungsprozess praxisnah und umfassend zu gestalten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1a37d368229177a3f6eafec71a3464d08b25849f65385d9e1912a65a8dbd591a",
+        "score": 0.7572119235992432,
+        "meta": {
+          "file_path": "9783866496811_chapter_11.txt",
+          "source_id": "b583be53ea4b64d62e1f93c258612e112070cfbe7d3bc99c54a55777d65af387",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6116,
+          "_split_overlap": [
+            {
+              "doc_id": "75e5b118ae671101dbe263619cbb3cbb175782f60bd5e6af12bce50fb9f696aa",
+              "range": [
+                1242,
+                1704
+              ]
+            },
+            {
+              "doc_id": "08e445bb1c9799baea3a8f109a73ecde37b4d25bb2587b831e1476efe139fef2",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "und Weiterbildungsmaßnahmen. So sind Zu- satzmodule systemischer Beratung auf Hochschulebene zur Erweiterung pflegeberuflicher Kompetenzen notwendig und sinnvoll. (vgl. DGfB Presse- mitteilung 10.11.2009) Systemische Beratungskompetenzen könnten so innerhalb beruflicher und akademischer Erstausbildung angebahnt werden. Es bleibt darüber hinaus abzuwarten, wie sich die eigene Professionalisierung der Beratungslandschaft weiter entwickeln wird. Dieser Prozess wird sich ebenfalls auf die Integrationsmöglichkeiten oder deren Hindernisse in die Kontexte der Pflege und Pflegebildung auswirken. Die Professionalisie- rungsprozesse von familienorientierter und arbeitsorientierter Beratung sollten über die Fachgesellschaften weiter vorangetrieben werden, um so eine beratungswissenschaftliche Perspektive anbieten zu können. Die Mindeststandards der DGSF und die DGfB sind Ausdruck der Professio- nalisierungsprozesse von Beratung und bieten Orientierungen zur Konstruktion von Fort- und Weiterbildun"
+      },
+      {
+        "rank": 2,
+        "id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+        "score": 0.7548031806945801,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3628,
+          "_split_overlap": [
+            {
+              "doc_id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+              "range": [
+                1230,
+                1658
+              ]
+            },
+            {
+              "doc_id": "76cb5237f7f2b41c4d2fc881c888c2136d8bf2175ebe78bfadd15f6f622f602d",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Einwanderungspolitik überhaupt erst geschaffen werden und wie die staatlichen Praktiken die An­ erkennung und Aberkennung von Kompetenzen und Qualifikationen (mit-) bestimmen. Die individuellen Erfahrungen eingewanderter Frauen werden nach Erel (vgl. ebd.) infolge dieser Differenzierung kaum berücksichtigt und stattdessen der Eindruck vermittelt, dass qualifizierte Migrantinnen ande­ re Bedingungen im Aufnahmeland vorfinden als Migrantinnen mit formal niedrigeren Qualifikationen. An dieser Stelle hebt die Autorin hervor, dass qualifizierte Migrantinnen nicht bereits durch ihre Qualifikation vor Diskri­ minierung geschützt sind (vgl. ebd., S. 126f.). Diese Erkenntnisse sind für die vorliegende Arbeit besonders von Bedeutung, da Anerkennungsberatung vor allem von höher qualifizierten Personen in Anspruch genommen wird (vgl. AST 2015). Ausgangspunkt der Beratung ist hier zunächst die im Aus­ land erworbene Qualifikation unabhängig von der rechtlichen Anerkennung. Die damit verbundenen sta"
+      },
+      {
+        "rank": 3,
+        "id": "dfcd6a0546db8606ccf865b17e4061114c68be34bd1564c5fd02d53c5c5f7d22",
+        "score": 0.7519153952598572,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10850,
+          "_split_overlap": [
+            {
+              "doc_id": "d4eb98c7c609bf2fb6c2db225e9a77d17bcde9d7ce5e34cc0c602b8b2ae3623e",
+              "range": [
+                1122,
+                1614
+              ]
+            },
+            {
+              "doc_id": "19cc1874d670262789f6cbe3dadaa5d10516cb605a20608bd9dc67283cd8200a",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "bewertet? • Inwiefern werden die organisationalen Bera- tungskontexte in die Reflexionen einbezogen? Die analysierten Fallreflexionen Um diese Fragen empirisch zu beantworten, wurden zwölf schriftliche Falldokumentationen/Fallrefle- xionen von BildungsberaterInnen im Rahmen von Förderberatungen, Weiterbildungsberatungen, Berufsberatungen, Beratungen zur beruflichen Entwicklung und Studienberatungen aus unter- schiedlichen institutionellen Kontexten analysiert.2 Diese Reflexionen sind im Zusammenhang mit der deutschlandweit vom Verbund Regionaler Qualifi- zierungszentren seit dem Jahr 2008 angebotenen Fortbildung „Bildungsberatung und Kompetenzent- wicklung“ angefertigt worden. Die Qualifizierung umfasst insgesamt 120 Unterrichtseinheiten, in deren Rahmen ein eigener Beratungsfall dargestellt und reflektiert werden soll. Diese schriftlichen Beratungsdokumentationen als Beobachtungen II. Ordnung der BeraterInnen er- lauben es uns als Forschenden, diese im Sinne einer Beobachtung III. Ord"
+      },
+      {
+        "rank": 4,
+        "id": "6404d6b48d62d07a8f16f7618923a2f8112edff4931de8ecb37b477b39457f18",
+        "score": 0.385689377784729,
+        "meta": {
+          "file_path": "9783866496811_chapter_1031.txt",
+          "source_id": "4855342959c52aacf31c7ebcf45c2ec46f0bb0abe28847fd3845ff41e329b66b",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3576,
+          "_split_overlap": [
+            {
+              "doc_id": "c1cc64635b568c94a090fe005cc65f662f526c2035cf85f81b52ae6f4b737097",
+              "range": [
+                1216,
+                1607
+              ]
+            },
+            {
+              "doc_id": "ea78220b082de22159dca44bbaadb9b073ea5ddb747c3febadbc048ff1f38b54",
+              "range": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        "content": "Umgang mit Hilfsmitteln - Beratungen zur Inanspruchnahme von zeitlichen Freiräumen: Dies schloss insbesondere die Überwindung von Vorbehalten und Barrie- ren ein. - Vermittlung und Inanspruchnahme von entsprechenden Angeboten: Dazu gehörten vor allem die stundenweise Betreuung durch freiwil- lige geschulte Helferinnen und Helfer oder auch durch zugelassene Pflegedienste, die Betreuung in Einrichtungen der Tagespflege, die Teilnahme an Betreuungsgruppen und Cafés sowie ergänzende fa- miliäre/nachbarschaftliche Hilfen. Ergebnisse Durch verschiedene Evaluationsverfahren7 konnte die angestrebte Entlastung der teilnehmenden Familien in vielen Fällen nachgewiesen werden. Die zugehende und proaktive Strategie der Beratung und die bedarfsorientierte und mitunter kontinuierliche Begleitung der Familien haben es ermöglicht, dass instabile und belastete Lebens- und Pflegesituationen in den Familien aufgedeckt werden konnten. So konnte vielfach die häusliche Versorgung der Menschen mit Demenz verb"
+      },
+      {
+        "rank": 5,
+        "id": "a26fc1bdfbfe4fe91a758eb12f5f116eb763fa6142a328732788dbc0e2d43150",
+        "score": 0.2926609516143799,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3689,
+          "_split_overlap": [
+            {
+              "doc_id": "6b24f4c865ce5baa8fb055578c4f9e2ed3bddad79e8b0bbf63e45a790c3b3b9d",
+              "range": [
+                1233,
+                1694
+              ]
+            },
+            {
+              "doc_id": "ab5f5b028ebb79df18fc5de9d8e6a53eea46c9451d4a1a94454766bbe5363cc2",
+              "range": [
+                0,
+                452
+              ]
+            }
+          ]
+        },
+        "content": "regionale Bildungsbera- tungsstellen analog dem Konzept der Bildungs- und Weiterbildungsberatung der Landeshauptstadt München5 zu verankern. Abb.12: Bezüge der systemischen Beratung bzw. Bildungsberatungsstellen Aus den unterschiedlichen Perspektiven ergeben sich vielfältige Strukturen und Situationen, für den einzelnen Lernenden, die Lernteams, die Kollegien in Kliniken, Pflege- und Altenheimen, ambulanten Pflegediensten und Pfle- gebildungseinrichtungen. Aus Sicht des Lernenden, der diese Kontexte von Ausbildung und Beratung durchlebt, könnte in einem persönlichen Portfolio dieser Weg durch die Pflegeausbildung dargestellt und ins Gespräch gebracht werden. Die allermeisten erfahrenen Situationen werden aber gar nicht aus der Perspektive des Lernens wahrgenommen und damit nicht in Pflegeerfah- rung und Pflegekompetenzentwicklungsprozesse integriert. Hier wäre ein wesentlicher qualitativer Beitrag systemischer Beratung zu sehen. Sie verknüpft zudem auch die eigene Biografie des Lernend"
+      }
+    ]
+  }
+]

@@ -1,6 +1,9 @@
 import os
-from src.util.args import (MODEL_NAME, DATA_PATH, RANK, ALPHA,
-                           OUTPUT_DIR, MAX_SEQ_LENGTH, TARGET_MODULES)
+from src.util.args import (MODEL_NAME, 
+                           PDF_DATA_PATH as DATA_PATH, 
+                           PDF_OUTPUT_DIR as OUTPUT_DIR, 
+                           MAX_SEQ_LENGTH, TARGET_MODULES,
+                           RANK, ALPHA,)
 import torch
 from unsloth import FastLanguageModel
 from transformers.training_args import TrainingArguments

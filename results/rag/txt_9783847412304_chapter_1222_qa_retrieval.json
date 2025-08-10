@@ -1,0 +1,695 @@
+[
+  {
+    "filename": "9783847412304_chapter_1222.txt",
+    "question": "Welche beiden Steuerungsinstanzen werden beim beschriebenen Beratungsprozess in Unternehmen genannt?",
+    "answer": "Das Projektteam und das Change Team. Das Projektteam besteht aus den drei Projektleiterinnen, während das Change Team aus der Unternehmensleitung, Personalverantwortlichen, Personalrat, Vertretern der beteiligten Abteilungen sowie der Frauenbeauftragten besteht.",
+    "expected": "Die beiden Steuerungsinstanzen sind zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, und zum anderen das Change Team des Unternehmens, das aus relevanten Gruppen wie der Unternehmensleitung, Personalverantwortlichen, Personalrat, Vertretern der beteiligten Abteilungen sowie der Frauenbeauftragten besteht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.9770514369010925,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      },
+      {
+        "rank": 2,
+        "id": "b6ef5b0eb03019f985cdf71cd0f00881d576d06ea9d6d55b80f391c0b4f89836",
+        "score": 0.9482959508895874,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 13403,
+          "_split_overlap": [
+            {
+              "doc_id": "19cc1874d670262789f6cbe3dadaa5d10516cb605a20608bd9dc67283cd8200a",
+              "range": [
+                1235,
+                1673
+              ]
+            },
+            {
+              "doc_id": "f820a62e6cdae7ec18bbf25d5b0d13ea495cb6c4b1e5388752ef197cc80c7c55",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "nisse: lösungsorientierte Gespräche unter Einsatz angemessener Beratungsansätze Neben der Darstellung der Beratungsverläufe und der Begründung der gewählten Interventionen nehmen Aussagen über die Beratungsverständnisse einen zentralen Stellenwert ein. Hierbei lassen sich Reflexionen über die Ziele der Beratungen und über notwendige Beratungskompetenzen unterscheiden. Übergreifend wird als Zielsetzung benannt, dass die KlientInnen in den Beratungen selbst Lösungen entwickeln sollten und dass Bildungsberatung mehr sei als die Weitergabe von Informationen. Hierfür sei die Vereinbarung von Zielen notwendig, die vor dem Hintergrund der gegebenen Rahmenbedingun- gen auch erreichbar sind. In einer Reflexion wird in diesem Zusammenhang darauf hingewiesen, an dem/der KlientIn orientierte Ziele finden zu wollen: „Das ist mir wichtig: [...] Ziele vereinbaren, die einer- seits eine Herausforderung sind, andererseits nicht überfordern“ (Fallreflexion 10, Z. 155-160). In zwei Fällen werden „klare B"
+      },
+      {
+        "rank": 3,
+        "id": "f0dffa0bc0f9d7804f1cce40bad6dfc7726024983d940960a72b9502225602df",
+        "score": 0.9421038031578064,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 9089,
+          "_split_overlap": [
+            {
+              "doc_id": "df2a5fb76eec2d3e66905212d50d1a13342c21951168f6f379ef98cb12be727e",
+              "range": [
+                1343,
+                1771
+              ]
+            },
+            {
+              "doc_id": "516918759524de123d77ec523773783c737167245ba0263c2635cdccc1343207",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsfelder aus, wie zum Beispiel in der Hochschulberatung, wo neben der klassischen Studienberatung durch den Bologna-Prozess und „heterogene(re)n“ Studierenden solche Felder wie Übergangs- und Laufbahnberatung, Lernberatung und Mentoring oder Organisationsberatung im Zuge von Akkreditierungs- und Qualitäts- entwicklungsprozessen hinzutreten. Mit Blick auf die politischen Ebenen ist Beratung insbesondere im Kontext der Politik Lebenslangen Lernens bedeutsam. Aus europäischer wie auch länderspezifischer Perspektive sind Fragen der Wirkung von Beratung sowie diesbezüglich geeignete Forschungsdesigns (Input-, Prozess-, Out- put-, Outcome-Dimensionen) virulent. Im Zusammenhang mit (bildungs-) politischen Steuerungsmechanismen kommen die Folgen in den Blick, die sich etwa auf der Ebene der Organisation auswirken können (Stichworte: Orientierung an wirtschaftlichen Effizienzkriterien und unklare Finanzie- rungsmodelle). Das Spannungsfeld zwischen Individualisierung und Öko- nomisierung "
+      },
+      {
+        "rank": 4,
+        "id": "e8df5f28907ed5f6845200ede3cd03160a0543aed48e8a68def50291dc2058ec",
+        "score": 0.9304360747337341,
+        "meta": {
+          "file_path": "9783847412304_chapter_08122.txt",
+          "source_id": "6f80720635c375bbacf0880617004bb71717525bd4930a8e531006ca065a3f40",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2.2 Beratungsstrukturen Am Beispiel einer dezentral organisierten Verankerung weiterbildender Stu- dienangebote innerhalb einzelner Fachbereiche lassen sich hochschulweit drei Organisationseinheiten herausstellen, die wesentlich mit Beratungsanliegen nicht-traditionell Studieninteressierter im Feld der wissenschaftlichen Wei- terbildung konfrontiert sind.6 Auf Hochschulebene werden entsprechende Beratungsanliegen an die zentralen Studienberatungen adressiert. An Fach- bereichen, an denen weiterbildende Studienprogramme organisational ver- ankert sind, werden die Fachstudienberatungen mit den Beratungsbedarfen konfrontiert. Und auf der Ebene der weiterbildenden Studienprogramme sind die Studiengangkoordinierenden die zentralen Ansprechpersonen. Bei einer gleichzeitigen Betrachtung der Beratenden auf den drei Or- ganisationsebenen können vier wesentliche ebenenspezifische Merkmale (Beratungsstruktur, Beratungstätigkeit, Beratungsinhalt und Implementie- rungsgrad) differenziert werden. Ta"
+      },
+      {
+        "rank": 5,
+        "id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+        "score": 0.914114773273468,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Beratungstheoretische Perspektive Zur Analyse der empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg­ liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor­ mellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf­ gabe oder als formales eigenständiges Beratungsangebot beschrieben wer­ den (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An­ gebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting kann es s"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1222.txt",
+    "question": "Wie wird das Ziel der Interventionen hinsichtlich Gleichstellung und Diversity in den Unternehmen umgesetzt?",
+    "answer": "Die Interventionen zielen darauf ab, die Umsetzung von Diversity und Gleichstellung in den Unternehmen zu verbessern. Dazu werden verschiedene Schritte durchgeführt, darunter Sensibilisierung, Perspektivwechsel, Entwicklung neuer Regeln für diversitygerechtes Handeln, Aushandeln von Regeln für das ganze Unternehmen und Implementation dieser Regeln durch die Unternehmensleitung. Diese Schritte werden in einem festen Strukturrahmen durchgeführt, der von den Projektteilnehmern gemeinsam mit professionellen Trainern entwickelt und durchgeführt wird. Ziel ist es, die Unternehmen dazu zu bringen, diversitygerechte Regeln und Praktiken in ihre Unternehmensleitbilder, Zielvereinbarungsleitfäden und Home Pages aufzunehmen und diese zu veröffentlichen. Durch diese Maßnahmen soll die Gleichstellung und Diversity in den Unternehmen verbessert werden. \n\nI cannot find the answer in the provided context.",
+    "expected": "Das Ziel wird umgesetzt durch Beratung zum Thema Gleichstellung und Diversity, praktische Übungen zur Erfahrung mit Ungleichheit und Vielfalt, theoretische Reflexion von Vorurteilen und Verhaltensmustern, Erproben alternativer Verhaltensweisen sowie die Änderung des Verhaltens auf der Interaktionsebene und die Definition neuer Regeln für diversitygerechtes Verhalten auf der Systemebene.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f85aec72f640cb9ac1549d24f13f25a3806fba5a49f9fbe32a16f0ca4a0e0577",
+        "score": 0.9979162812232971,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 17996,
+          "_split_overlap": [
+            {
+              "doc_id": "2d9b4ad6b30712cf0e567094cd9deaaac6796bd83e072b37b277304a3090a35d",
+              "range": [
+                1254,
+                1645
+              ]
+            },
+            {
+              "doc_id": "98a4e9c09559073fdb24057ab368fa2ec52450f2f972fa0f265f9cbcd487b7ae",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "zielen- den Beratungskonzept auseinander. Am Beispiel zweier Interventionsprojekte mit dem Ziel, die Umsetzung von Diversity und Gleichstellung zu verbessern, werden Ergebnisse zum Beratungsverlauf wie auch der begleitenden Evalua- tion der Lerneffekte bei den beteiligten Gruppen vorgestellt. Kira Nierobisch widmet sich Prozessen der Fremd- und Selbststeuerung im Kontext Hoch- schule und analysiert aus einer gouvernementalitätssensiblen Perspektive ein universitätsspezifisches Projekt zur Institutionalisierung und Professionali- sierung der Studien(fach)beratung vor dem Hintergrund des Konzepts einer rekonstruktiven pädagogischen Beratung. Der Beitrag von Shahinaz Khalil erforscht ebenfalls aus einer foucaultschen Perspektive die Einflussfaktoren eines konkreten ägyptischen Bildungs- bzw. Karriereberatungsprogramms für Jugendliche (career guidance) hinsichtlich von dessen Wirkungen auf die Jugendlichen selbst, deren Eltern, Lehrende und die Programmakteure. Im Fokus stehen die Transfor"
+      },
+      {
+        "rank": 2,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.993334174156189,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      },
+      {
+        "rank": 3,
+        "id": "91a9db5d09afc0210b7cec6e4e834f615b9fb8a8de3a7f02b15786853c4e0524",
+        "score": 0.9915887713432312,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8195,
+          "_split_overlap": [
+            {
+              "doc_id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+              "range": [
+                1091,
+                1491
+              ]
+            },
+            {
+              "doc_id": "0573521013cb9ec6a15ed801c01d43d70d487a038038d253f5bd90c260585edf",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Weiterbildungsgruppen, indem sie unter Anleitung selbst alternative Regeln für diversitygerechtes Handeln entwickelten und Programme zu Diversity und Gleichstellung für ihre Unternehmen erarbeiteten. Um diesen hohen An- spruch an Beratung und Lernen umzusetzen, bestand der Beratungsprozess jeweils aus identischen Elementen bzw. Schritten, die aufeinander aufbauten (vgl. Macha et al. 2017: 81–87): 1. Im ersten Schritt wird „Awareness“ angestrebt, das ist die Sensibilisierung für Ungleichheitsprozesse in der alltäglichen Interaktion von Mitarbeitenden und Führungskräften zu der Frage: „Wie stellen wir aktiv Ungleichheit her?“ Die Prozesse des doing gender und doing difference werden dabei zunächst anhand theoretischer Modelle reflektiert und im konkreten Tun, zum Beispiel in Rollenspielen, erfahrbar. 2. Im zweiten Schritt wird „Deconstruction“ zum Thema, das ist der Pers- pektivenwechsel vom doing gender und doing difference zum diversity­ gerechten Handeln unter der Fragestellung: „Wie "
+      },
+      {
+        "rank": 4,
+        "id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+        "score": 0.9895679354667664,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1214,
+          "_split_overlap": [
+            {
+              "doc_id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+              "range": [
+                1214,
+                1578
+              ]
+            },
+            {
+              "doc_id": "18d3cd6a6ce71b8a12c9ec15c584e4901e9bcc0d2c41c05bd1616431c0fcb56e",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "die Änderung des Verhaltens auf der Interaktions- ebene und die Definition neuer Regeln für diversitygerechtes Verhalten im Unternehmen auf der Systemebene (Macha 2016; Bohnet 2017). Damit einher ging die Vermittlung eines adäquaten Führungskonzepts, dem Modell der „transformativen Führung“ (Macha et al. 2017: 161–164), das in Zukunft die erarbeiteten Regeln zu verstetigen gestattet. 2.1 Die Struktur der empirischen Interventionsprojekte Zur Umsetzung der Ziele wurde eine feste Struktur in den beiden Projekten entwickelt: Es wurden von 2011 bis 2014 zwei empirische Interventionspro- jekte durchgeführt (finanziert durch den Europäischen Sozialfonds, die Uni- versität Augsburg und das Berufsbildungszentrum – BBZ, Augsburg) mit begleitender empirischer Evaluation der Weiterbildung und Beratung: die empirischen Forschungsprojekte „Future is Female – FIF“ und „Die Zukunft im Unternehmen gestalten – ZUG“. Dabei arbeiteten insgesamt 40 kleine und mittlere Unternehmen aus Bayern mit. Die Inter"
+      },
+      {
+        "rank": 5,
+        "id": "0573521013cb9ec6a15ed801c01d43d70d487a038038d253f5bd90c260585edf",
+        "score": 0.9889128804206848,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9334,
+          "_split_overlap": [
+            {
+              "doc_id": "91a9db5d09afc0210b7cec6e4e834f615b9fb8a8de3a7f02b15786853c4e0524",
+              "range": [
+                1139,
+                1509
+              ]
+            },
+            {
+              "doc_id": "2421e901922c925bb3f27dc9af4def021599deb065ec8a7e435b3ead9a20dcc1",
+              "range": [
+                0,
+                378
+              ]
+            }
+          ]
+        },
+        "content": "Regeln für diversity­ gerechtes Handeln werden in den Gruppen formuliert und im Handeln ­erprobt. Hier werden unterschiedliche Methoden angewandt, die Empa- thie fördern und ethische Werte unterstützen, das Nudge-Prinzip wird wirksam, indem das ethisch als richtig Erkannte auch konkret umsetzbar wird. 4. „Negotiation“ als dritter Schritt bedeutet, dass das Aushandeln von diver- sitygerechten Regeln für das ganze Unternehmen beginnt. Die Regeln sol- len in offizielle Programme und Leitfäden der Unternehmen verbindlich aufgenommen werden. Sie werden deshalb an die Unternehmensleitung zur Genehmigung kommuniziert. 5. Im fünften Schritt, der „Implementation“, werden diese verbindlichen Re- geln mit der Unternehmensleitung verhandelt und als Artefakte zu neuen Regelungen mit der Unternehmensleitung verbindlich vereinbart und ver- öffentlicht, zum Beispiel diversitygerechte Bewerbungsleitfäden, diver- sitygerechte Unternehmensleitbilder und Home Pages, diversitygerechte Zielvereinbarungsleit"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1222.txt",
+    "question": "Welche Rolle spielt das Modell der transformativen Führung im Rahmen der Beratungsprojekte?",
+    "answer": "Das Modell der transformativen Führung wird im Rahmen der Beratungsprojekte aufgrund der Anwendung des Transformativen Organisationalen Lernens entwickelt, im Feld angepasst, erprobt und empirisch evaluiert. Es folgt unmittelbar aus der Anwendung des Transformativen Organisationalen Lernens, der Methode der Beratung. Die Beratung fand jeweils auf drei Ebenen statt: Auf der Subjektebene wurden die jeweils Einzelnen zum partizipativen Lernen mit dem Ziel der Ermächtigung für die Beteiligung an dem Entwicklungsprozess beraten. Auf der Gruppenebene ermöglichte die Unterstützung des Lernens in den Gruppen – zum Beispiel in der „Kollegialen Beratung“ – einen Perspektivwechsel. Das Ziel der Projekte war, die Umsetzung von Diversity und Gleichstellung in den 40 Unternehmen zu verbessern und das Modell der transformativen Führung zu vermitteln.",
+    "expected": "Das Modell der transformativen Führung vermittelt ein adäquates Führungskonzept, das dazu dient, die erarbeiteten Regeln für diversitygerechtes Verhalten nachhaltig im Unternehmen zu verankern und somit die Veränderung auf systemischer Ebene zu verstetigen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+        "score": 0.9454590082168579,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5886,
+          "_split_overlap": [
+            {
+              "doc_id": "e1c1d6fa6bffac1efeb04374decf715e5a131be2044bf74c8860db597cf5d05c",
+              "range": [
+                1206,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "ansetzte und auch die Ebene der Gruppe und der Organisation mit einbezog. Dabei spielten kognitive, affektive, volitive und spirituelle Dimensionen wie Ziele und Visionen, Wissen, individuelle Motivationen, Kompetenzen, Macht-Strukturen und Perspektivenwechsel sowie auftretende Barrieren eine Rolle (Macha/Brendler 2014: 333). 2.3 Das Beratungskonzept der Interventionsprojekte Dem Beratungskonzept der Projekte lag die Methode des „Transformativen Organisationalen Lernens“ zugrunde. Sie wurde für die Projekte aus Ergeb- nissen der Forschung weiterentwickelt (Macha et al. 2011, 2014, 2015; Mezirow 2012; Bateson 2013; Schilling/Kluge 2009). Die Definition des Transformati- ven Organisationalen Lernens – TOL lautet: Transformatives Organisationa- les Lernen“ – TOL – im Unternehmen ist gekennzeichnet durch ein partizipa- tives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln, das Räume für Lernvorgänge "
+      },
+      {
+        "rank": 2,
+        "id": "18d3cd6a6ce71b8a12c9ec15c584e4901e9bcc0d2c41c05bd1616431c0fcb56e",
+        "score": 0.8463351130485535,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2339,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                1125,
+                1507
+              ]
+            },
+            {
+              "doc_id": "a56f76431f5e096936cf588841e8e1a41d48029224c09b5394bdeab67ca300da",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "2015; 2016 a,b; 2017). Es wurde eine Organisationsberatung zum Thema Gender und Diversity durchgeführt. Das organisationale Lernen bei der Organisationsentwicklung bzw. beim Change Management wurde durch professionelle Trainer beglei- tet (Macha/Brendler/Römer 2017). Ziel der Projekte war, die Umsetzung von Diversity und Gleichstellung in den 40 Unternehmen zu verbessern und das Modell der transformativen Führung zu vermitteln. Letzteres folgt unmit- telbar aus der Anwendung des Transformativen Organisationalen Lernens, der Methode der Beratung. Sie wurde aufgrund des Forschungsstandes entwi- ckelt, im Feld angepasst, erprobt und empirisch evaluiert (Macha et al. 2017; Mezirow 2012; Taylor/Cranton 2012; Lawrence/Maws/Dyck/Kleysen 2005; Schilling/Kluge 2009). Bei der Beratungsarbeit in den Unternehmen wurden keine Einzelziele zur Implementierung der Gender- und Diversity-Strategie vorgegeben, diese wurden vielmehr von den Unternehmen selbst nach Maßgabe ihres Bedarfs bestimmt. Von den U"
+      },
+      {
+        "rank": 3,
+        "id": "787cae45bbf4fe1add3eb8491cfcb59338ae70ea13395b1db36e7557e1290002",
+        "score": 0.8305906057357788,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "446b824aeaf319cd6c91d5ef7fbf88caa2b2f5b028f2e2e56b4e4bac8cf3873e",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "4. Partizipative Evaluation der Beratungsprozesse Entsprechend dem Verlauf der Beratungsprozesse wurden alle Schritte eva- luiert. Dafür wurde nach dem Modell der „Partizipativen Evaluation“ ein trianguliertes Design entworfen (Suarez-Herreira et al. 2009). Das hatte den Vorteil, dass die Beteiligten während der Beratung laufend über Zwischener- gebnisse informiert waren und gebeten wurden, zu Methoden der Beratung und Weiterbildung kritisch Stellung zu beziehen. 4.1 Das Design der Partizipativen Evaluation Die Ziele der Unternehmen wurden während der Beratung erfasst, durch An- gebote von Beratung und Weiterbildungs-Workshops unterstützt und der Pro- zess dokumentiert und evaluiert. Folgende Erhebungsinstrumente wurden dabei genutzt: 1. Online-Fragebogen zur Erhebung des Status quo ante von Gleichstellung und Diversity in den Unternehmen vor Projektbeginn sowie zu den Effekten nach Projektende. 2. Zielraster zur Dokumentation der Ziele, die in den Unternehmen formu- liert und zusammen"
+      },
+      {
+        "rank": 4,
+        "id": "cd2618d4785848ce538691cd9bdf9d2e0fab3d8e56fe71e70ad378074e305cd1",
+        "score": 0.8108555674552917,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1133,
+          "_split_overlap": [
+            {
+              "doc_id": "1b06b74d86ddfff888b2cdbfe9b3bf333cb13b2223595e5a7e66f7181163d7be",
+              "range": [
+                1133,
+                1520
+              ]
+            },
+            {
+              "doc_id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsfertig­ keiten in Bildung und Beruf und zwar aus multikultureller Perspektive. Im Vordergrund stehen Modelle für die Beratung, u.a. das Modell des Microcoun­ seling sowie das Modell des Problemmanagements, der Lösungsorientierten Beratung und des integrativen Modells in der beruflichen Einzelberatung. Es enthält viele Übungen, die die Beratungskompetenz trainieren soll. Wel­ che Methoden und Techniken in der Bildungsberatung bekannt, praktikabel, nützlich sind, erfahren wir in den verschiedenen existierenden Publikationen allerdings nicht. Bildungsberatung bezieht sich auf die Unterstützung von Individuen im Feld von Bildung, Beruf und Beschäftigung. Das Ziel von Beratungsgesprächen ist Orientierungen für (Weiter-)Bildungswege zu geben, um damit persönli­ che und berufliche Entwicklungen unterschiedlicher Art zu ermöglichen bzw. Kompetenzentwicklung zu befördern, auch entsprechende Schritte im Rah­ men von Übergangsprozessen von einer Lebensphase in die nächste zu be­ gleiten."
+      },
+      {
+        "rank": 5,
+        "id": "d93bc48816cb42916ecc8b39a54d215181e32b30a4547cc6d051769db99de60c",
+        "score": 0.7711350917816162,
+        "meta": {
+          "file_path": "9783866496811_chapter_103.txt",
+          "source_id": "24956cf5e88c5c3632b63bb7e67ae6f8d33349dbde3bc5c591c35f4bc5d69f39",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "6.3. Zugehende Beratung pflegender Angehöriger Herausforderung für die Pflege Ursula Laag, Deutsches Institut für angewandte Pflegeforschung e. V., Köln Zugehende Beratung als zentrale Hilfe für pflegende Angehörige demenzer- kankter Menschen stand im Mittelpunkt der Interventionen im Modellprojekt ‚Entlastungsprogramm bei Demenz – EDe‘. Ein systemisch- lösungsorientierter Beratungsansatz war dabei ein Bestandteil im Gesamt- konzept der Beratung. Im folgenden Kapitel werden zunächst das Projekt und seine wichtigsten Ergebnisse vorgestellt. Im Anschluss erfolgt eine Schilde- rung der umfassenden Anforderungen zugehender Beratung, wie sie sich im Modellprojekt dargestellt haben. Dabei wird jeweils die Sicht der Beraterin- nen und Berater in die Betrachtung einbezogen. Vor welchem Hintergrund kann eine Professionalitätsentwicklung in der zugehenden Gesundheits- und Pflegeberatung stattfinden? Auf diese Frage, sowie auf die Frage der Umsetzung gibt das Modellprojekt eine mögliche Antwort, "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1222.txt",
+    "question": "Warum ist es aus Sicht der Beratung wichtig, relevante Statusvertreter und das komplexe Unternehmensumfeld einzubeziehen?",
+    "answer": "Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Das Change Team, bestehend aus Unternehmensleitung, Personalverantwortlichen, Personalrat, Vertretern der beteiligten Abteilungen sowie der Frauenbeauftragten, ist eine wichtige Steuerungsinstanz beim Beratungsprozess. Durch die Einbeziehung relevanter Statusvertreter und des komplexen Unternehmensumfelds kann die Beratung wirksamer und effektiver sein. Es ist wichtig, die Interessen und Bedürfnisse aller Beteiligten zu berücksichtigen, um eine erfolgreiche Umsetzung der Ziele zu gewährleisten. Durch die Einbeziehung des Change Teams kann die Beratung auch auf die Unternehmenskultur und die Organisationsstruktur eingehen und entsprechende Anpassungen vornehmen. Somit kann die Beratung auch langfristige und nachhaltige Wirkungen erzielen.",
+    "expected": "Weil Unternehmen komplexe Strukturen haben, muss Beratung alle relevanten Statusvertreter einbeziehen, um Akzeptanz und Wirksamkeit der Interventionen zu sichern. Nur durch Einbindung von Gruppen wie Unternehmensleitung, Personalrat und Frauenbeauftragten können Veränderungen in der Organisationskultur und im Verhalten nachhaltig umgesetzt werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.9921254515647888,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      },
+      {
+        "rank": 2,
+        "id": "7c0e852ea304127c8a636303485deac39ed07e468f4e213cdfd7bd568771792f",
+        "score": 0.9758995175361633,
+        "meta": {
+          "file_path": "9783839444856_chapter_07411.txt",
+          "source_id": "25e1a45ebc51d8e50bf54793bbf5e41a3d88b0daf65384aa9e463bf4aee5ab63",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8278,
+          "_split_overlap": [
+            {
+              "doc_id": "d1c4d571f9547049b786b0efc210233ccdb2aaf0dd42ec9c8ed845977593df22",
+              "range": [
+                1009,
+                1410
+              ]
+            },
+            {
+              "doc_id": "df761fd18f527ba656d6fb272e324b5501d11cd4dc2d6d80f684139ec28107ff",
+              "range": [
+                0,
+                304
+              ]
+            }
+          ]
+        },
+        "content": "Beratung als zeitlich begrenzter Intervention und den längerfristigen Wirkungen auf gesellschaftlicher und rechtlicher Ebene. Relevante Informationen, die in der Beratung übermittelt werden, müssen nicht zwangsläufig eine positive Perspektive auf den Verlauf des Anerkennungsprozesses oder die berufliche Integration eröffnen. Es wird auch hier der Zugang der Klient_innen zu diesen Informationen und die damit verbundene Entscheidungs- und Handlungsfähigkeit in den Mittel­ punkt der Erfolgsdefinition gestellt. In ähnlicher Weise findet in einem wei­ teren Interview auch die Abgrenzung von dem extern definierten Kriterium der formalen Anerkennung statt. »Also das Ziel der Beratung ist z. B. nicht eine Anerkennung, also dass die Per­ son auf jeden Fall mit einer Anerkennung rausgeht, das können wir gar nicht leisten, das kriegen wir auch oft gar nicht mehr mit, ob die Personen das be­ kommen haben. Sondern das Ziel ist tatsächlich, dass die Person, wenn sie aus der Beratung rausgeht, sagt: "
+      },
+      {
+        "rank": 3,
+        "id": "50e0a7c4dcba06e559320dfb3124a178112133095a9ccd4a9e6c771e1304f004",
+        "score": 0.9140346646308899,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4880,
+          "_split_overlap": [
+            {
+              "doc_id": "317787a37c2d4a06d88f3f71a2afade3870889f4071239c403e47741d626a7c6",
+              "range": [
+                982,
+                1325
+              ]
+            },
+            {
+              "doc_id": "69d12b4b9156e5228e3c3bf0dcbe3bc8ad8e562f288423fb4b87d0e5559453ba",
+              "range": [
+                0,
+                327
+              ]
+            }
+          ]
+        },
+        "content": "Das ist wirkliche eine Beratung, die unser gan­ zes Wissen, was wir uns angeeignet haben, weitergibt an die Personen, da­ mit die halt wissen, wie sie wirklich weitermachen können« (F/DE, Z. 443-475). Ein pädagogisches Beratungsverständnis wird in diesem Interviewaus­ schnitt zunächst mit dem Angebot assoziiert, zu den relevanten Stellen zu begleiten, also mit einem grenzübergreifenden Bereich der Beratung. Gleichzeitig wird damit eine defizitorientierte Beratungshaltung verbunden. Stattdessen hebt die interviewte Person den ressourcenorientierten Bera­ tungsansatz in der Anerkennungsberatung hervor, welcher auf die Stärkung der Eigenständigkeit der Klient_innen ausgerichtet ist. Damit wird auch eine pädagogische Ausbildung nicht als notwendige Qualifikation voraus­ gesetzt, sondern stattdessen eine spezifische Haltung in den Vordergrund gestellt. Der Fokus liegt demnach auf der angemessenen Informations- und Wissensvermittlung. Die eigene Rolle wird vor allem über den »Wissensvor­ spr"
+      },
+      {
+        "rank": 4,
+        "id": "f0dffa0bc0f9d7804f1cce40bad6dfc7726024983d940960a72b9502225602df",
+        "score": 0.901401162147522,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 9089,
+          "_split_overlap": [
+            {
+              "doc_id": "df2a5fb76eec2d3e66905212d50d1a13342c21951168f6f379ef98cb12be727e",
+              "range": [
+                1343,
+                1771
+              ]
+            },
+            {
+              "doc_id": "516918759524de123d77ec523773783c737167245ba0263c2635cdccc1343207",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsfelder aus, wie zum Beispiel in der Hochschulberatung, wo neben der klassischen Studienberatung durch den Bologna-Prozess und „heterogene(re)n“ Studierenden solche Felder wie Übergangs- und Laufbahnberatung, Lernberatung und Mentoring oder Organisationsberatung im Zuge von Akkreditierungs- und Qualitäts- entwicklungsprozessen hinzutreten. Mit Blick auf die politischen Ebenen ist Beratung insbesondere im Kontext der Politik Lebenslangen Lernens bedeutsam. Aus europäischer wie auch länderspezifischer Perspektive sind Fragen der Wirkung von Beratung sowie diesbezüglich geeignete Forschungsdesigns (Input-, Prozess-, Out- put-, Outcome-Dimensionen) virulent. Im Zusammenhang mit (bildungs-) politischen Steuerungsmechanismen kommen die Folgen in den Blick, die sich etwa auf der Ebene der Organisation auswirken können (Stichworte: Orientierung an wirtschaftlichen Effizienzkriterien und unklare Finanzie- rungsmodelle). Das Spannungsfeld zwischen Individualisierung und Öko- nomisierung "
+      },
+      {
+        "rank": 5,
+        "id": "aaa0ce0df540fbb4ac0bb832bb3f0f610caf5730cb535376a5e6f7786d227054",
+        "score": 0.8839055895805359,
+        "meta": {
+          "file_path": "9783839444856_chapter_07411.txt",
+          "source_id": "25e1a45ebc51d8e50bf54793bbf5e41a3d88b0daf65384aa9e463bf4aee5ab63",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6158,
+          "_split_overlap": [
+            {
+              "doc_id": "84a87b0ae3ef1352183a7905707f2860275942b17631384127190c508e4502f1",
+              "range": [
+                1058,
+                1506
+              ]
+            },
+            {
+              "doc_id": "d1c4d571f9547049b786b0efc210233ccdb2aaf0dd42ec9c8ed845977593df22",
+              "range": [
+                0,
+                295
+              ]
+            }
+          ]
+        },
+        "content": "Beratung über die Herstellung von Transparenz für die Klient_innen definiert. Das Ziel der Anerkennungsbe­ ratung wird in diesem Interviewausschnitt primär in der Vermittlung zwi­ schen den individuellen Handlungsmöglichkeiten und den arbeitsmarkt­ politisch und strukturell begründeten Handlungsbedingungen gesehen. Obwohl die Zielsetzung einer bildungsadäquaten beruflichen Integration explizit abgelehnt wird, bleibt eine arbeitsmarktpolitische Perspektive da­ mit für den Beratungsprozess relevant. Die Bedeutung der Abgrenzung von dem strukturellen Kriterium einer bildungsadäquaten beruflichen Integra­ tion wird in dem folgenden Interviewausschnitt nochmals besonders deut­ lich. »Für mich ist …, ist natürlich schwierig. Wir haben eh schon mal, glaube, drü­ ber reflektiert oder diskutiert, was versteht man unter Erfolg. Und für mich ist einfach Erfolg, wenn ich es geschafft habe, dem Klienten also wirklich die ganze Information zu geben, und dass er das auch verstanden hat. Weil: Oft ist"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1222.txt",
+    "question": "Wie sind die empirischen Interventionsprojekte von 2011 bis 2014 strukturiert und welche Methoden wurden angewandt, um organisationales Lernen zu fördern?",
+    "answer": "Die empirischen Interventionsprojekte von 2011 bis 2014 wurden von der Universität Augsburg und dem Berufsbildungszentrum (BBZ) Augsburg finanziert. Sie umfassten zwei Projekte: \"Future is Female – FIF\" und \"Die Zukunft im Unternehmen gestalten – ZUG\". Insgesamt arbeiteten 40 kleine und mittlere Unternehmen aus Bayern mit. Die Intervention erfolgte entlang der feministischen Ziele der Gender- und Diversity-Strategie. Eine Organisationsberatung zum Thema Gender und Diversity wurde durchgeführt, und professionelle Trainer unterstützten das organisationale Lernen bei der Organisationsentwicklung bzw. beim Change Management. Die Methode des \"Transformativen Organisationalen Lernens\" (TOL) wurde angewandt, das sich durch ein partizipatives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln auszeichnet. Die Beratung fand auf drei Ebenen statt: auf der Subjektebene, der Gruppenebene und der Organisations- bzw. Systemebene. Ziel war die Verbesserung der Umsetzung von Diversity und Gleichstellung in den Unternehmen und die Änderung des Verhaltens auf der Interaktions- und Systemebene. \n        Die Methoden des TOL umfassten die Schaffung von Räumen für Lernvorgänge der Stakeholder, die Anregung und Unterstützung von Lernprozessen und die Eröffnung neuer Handlungsoptionen und -Freiräume. Die Beratung wurde verzahnt mit der Weiterbildung, und die Ergebnisse wurden durch eine begleitende Evaluation überprüft. Die Evaluation zeigte, dass die Interventionen erfolgreich waren und die Unternehmen ihre Ziele erreichten. Die Methoden des TOL wurden als wirksam angesehen, um organisationales Lernen zu fördern und die Umsetzung von Diversity und Gleichstellung in den Unternehmen zu verbessern. \n        Die Ergebnisse der Projekte wurden in verschiedenen Publikationen präsentiert, darunter in den Büchern \"Transformatives Organisationales Lernen\" (Macha et al. 2017) und \"Die Zukunft im Unternehmen gestalten\" (Macha/Brendler/Rö",
+    "expected": "Die Struktur besteht aus zwei geförderten Interventionsprojekten (FIF und ZUG) mit 40 kleinen und mittleren Unternehmen in Bayern. Es wurde eine Organisationsberatung zu Gender und Diversity durchgeführt, begleitet von professionellen Trainern, die das organisationale Lernen und Change Management unterstützen. Dabei kam die Methode des Transformativen Organisationalen Lernens zum Einsatz, um die Umsetzung von Gleichstellung und Diversity zu verbessern und das Modell der transformativen Führung zu vermitteln.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+        "score": 0.8958876132965088,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1214,
+          "_split_overlap": [
+            {
+              "doc_id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+              "range": [
+                1214,
+                1578
+              ]
+            },
+            {
+              "doc_id": "18d3cd6a6ce71b8a12c9ec15c584e4901e9bcc0d2c41c05bd1616431c0fcb56e",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "die Änderung des Verhaltens auf der Interaktions- ebene und die Definition neuer Regeln für diversitygerechtes Verhalten im Unternehmen auf der Systemebene (Macha 2016; Bohnet 2017). Damit einher ging die Vermittlung eines adäquaten Führungskonzepts, dem Modell der „transformativen Führung“ (Macha et al. 2017: 161–164), das in Zukunft die erarbeiteten Regeln zu verstetigen gestattet. 2.1 Die Struktur der empirischen Interventionsprojekte Zur Umsetzung der Ziele wurde eine feste Struktur in den beiden Projekten entwickelt: Es wurden von 2011 bis 2014 zwei empirische Interventionspro- jekte durchgeführt (finanziert durch den Europäischen Sozialfonds, die Uni- versität Augsburg und das Berufsbildungszentrum – BBZ, Augsburg) mit begleitender empirischer Evaluation der Weiterbildung und Beratung: die empirischen Forschungsprojekte „Future is Female – FIF“ und „Die Zukunft im Unternehmen gestalten – ZUG“. Dabei arbeiteten insgesamt 40 kleine und mittlere Unternehmen aus Bayern mit. Die Inter"
+      },
+      {
+        "rank": 2,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.8374144434928894,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 3,
+        "id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+        "score": 0.8307345509529114,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5886,
+          "_split_overlap": [
+            {
+              "doc_id": "e1c1d6fa6bffac1efeb04374decf715e5a131be2044bf74c8860db597cf5d05c",
+              "range": [
+                1206,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "ansetzte und auch die Ebene der Gruppe und der Organisation mit einbezog. Dabei spielten kognitive, affektive, volitive und spirituelle Dimensionen wie Ziele und Visionen, Wissen, individuelle Motivationen, Kompetenzen, Macht-Strukturen und Perspektivenwechsel sowie auftretende Barrieren eine Rolle (Macha/Brendler 2014: 333). 2.3 Das Beratungskonzept der Interventionsprojekte Dem Beratungskonzept der Projekte lag die Methode des „Transformativen Organisationalen Lernens“ zugrunde. Sie wurde für die Projekte aus Ergeb- nissen der Forschung weiterentwickelt (Macha et al. 2011, 2014, 2015; Mezirow 2012; Bateson 2013; Schilling/Kluge 2009). Die Definition des Transformati- ven Organisationalen Lernens – TOL lautet: Transformatives Organisationa- les Lernen“ – TOL – im Unternehmen ist gekennzeichnet durch ein partizipa- tives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln, das Räume für Lernvorgänge "
+      },
+      {
+        "rank": 4,
+        "id": "f85aec72f640cb9ac1549d24f13f25a3806fba5a49f9fbe32a16f0ca4a0e0577",
+        "score": 0.7126672267913818,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 17996,
+          "_split_overlap": [
+            {
+              "doc_id": "2d9b4ad6b30712cf0e567094cd9deaaac6796bd83e072b37b277304a3090a35d",
+              "range": [
+                1254,
+                1645
+              ]
+            },
+            {
+              "doc_id": "98a4e9c09559073fdb24057ab368fa2ec52450f2f972fa0f265f9cbcd487b7ae",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "zielen- den Beratungskonzept auseinander. Am Beispiel zweier Interventionsprojekte mit dem Ziel, die Umsetzung von Diversity und Gleichstellung zu verbessern, werden Ergebnisse zum Beratungsverlauf wie auch der begleitenden Evalua- tion der Lerneffekte bei den beteiligten Gruppen vorgestellt. Kira Nierobisch widmet sich Prozessen der Fremd- und Selbststeuerung im Kontext Hoch- schule und analysiert aus einer gouvernementalitätssensiblen Perspektive ein universitätsspezifisches Projekt zur Institutionalisierung und Professionali- sierung der Studien(fach)beratung vor dem Hintergrund des Konzepts einer rekonstruktiven pädagogischen Beratung. Der Beitrag von Shahinaz Khalil erforscht ebenfalls aus einer foucaultschen Perspektive die Einflussfaktoren eines konkreten ägyptischen Bildungs- bzw. Karriereberatungsprogramms für Jugendliche (career guidance) hinsichtlich von dessen Wirkungen auf die Jugendlichen selbst, deren Eltern, Lehrende und die Programmakteure. Im Fokus stehen die Transfor"
+      },
+      {
+        "rank": 5,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.649615466594696,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      }
+    ]
+  }
+]

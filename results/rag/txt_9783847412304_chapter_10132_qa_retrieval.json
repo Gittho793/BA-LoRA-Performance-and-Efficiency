@@ -1,0 +1,690 @@
+[
+  {
+    "filename": "9783847412304_chapter_10132.txt",
+    "question": "Welche Sorgen hat der freigestellte Betriebsratsvorsitzende bezüglich seiner beruflichen Zukunft?",
+    "answer": "Er hat Zweifel, ob er bis zum Renteneintritt wiedergewählt wird und eine unvorbereitete Abwahl macht ihm Sorge. Er sieht momentan keine machbaren beruflichen Alternativen. Er möchte berufliche Alternativen zur Betriebsratsfunktion entwickeln und vorbereiten sowie Weiterbildungsmöglichkeiten klären. Mögliche zukünftige Übergänge sollen antizipiert und bearbeitet werden.",
+    "expected": "Er hat Sorge vor einer unvorbereiteten Abwahl bei der nächsten Betriebsratswahl und sieht momentan keine machbaren beruflichen Alternativen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "272473393bd7d5726aa7c0ab9c0237fcf69c834d6ed1ac516c2372481de34497",
+        "score": 0.9748320579528809,
+        "meta": {
+          "file_path": "9783847412304_chapter_10132.txt",
+          "source_id": "7281b957899ffccfdfcaf250b1005ea1ae7039e6a6f650bab66e820eeab2680e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "11e74a492743bac8d9f20804419aead6d47ddca098fa2bc8773e3a6a9580b41b",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Wirkfaktor: Ressourcenaktivierung Den zweiten Fall stellt ein seit fünf Jahren freigestellter Betriebsratsvorsitzender (39 Jahre, männlich). Trotz des Stresses, den die Funktion des Vorsitzes mit sich bringt, hat er viel Freude an der Arbeit und möchte diese weiterhin ausüben. Er hat jedoch Zweifel, ob er bis zum Renteneintritt wiedergewählt wird (alle vier Jahre erfolgt die Betriebsratswahl). Eine unvorbereitete Abwahl macht ihm Sorge, aber er sieht momentan keine machbaren beruflichen Alternativen. Vor der Freistellung hatte er nach einer Berufsausbildung in der Produktion gearbeitet. Eine Rückkehr an seinen früheren Arbeitsplatz kann er sich nicht vorstellen. In der Beratung möchte er berufliche Alternativen zur Betriebsratsfunktion entwickeln und vorbereiten sowie Weiterbildungsmöglichkeiten klären. Mögliche zukünftige Übergänge sollen antizipiert und bearbeitet werden. Um das Spannungsfeld von Vergangenheit und Zukunft gegenwärtig reflektierbar zu machen, wurde im Beratungspro"
+      },
+      {
+        "rank": 2,
+        "id": "b96bef691dffd4daf136d3b85b5fa21f8a2dfce7822c660e669b8e704a1bdef8",
+        "score": 0.9580256938934326,
+        "meta": {
+          "file_path": "9783847412304_chapter_10131.txt",
+          "source_id": "be187d69d21c68226fc32f8af3b1377bc6e5ebd98f1401efb7d0c1c5f818d498",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "84299917ae2a6c8471fe6d3003a631e81d4856b23c3fbd90cd2d879aa429f361",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Wirkfaktor: ergebnisorientierte Selbstreflexion Der erste Fall betrifft ein freigestelltes Betriebsratsmitglied (49 Jahre, weib- lich). Sie ist seit 11 Jahren im Betriebsrat eines Großbetriebs und seit 3 Jahren freigestellt. Nebenberuflich ist sie bei der Gewerkschaft als Teamerin tätig. Mit der Arbeitsweise im Betriebsrat ist sie seit einiger Zeit unzufrieden, die Zusammenarbeit belastet sie und sie stellt rückwirkend in Frage, ob dies über- haupt der richtige berufliche Weg für sie war. Nach längeren Überlegungen hat sie sich entschieden aus dem Betriebsrat auszusteigen. Dieser Entschluss stand zu Beginn der Beratung fest, sie wusste aber noch nicht, wie sie den Übergang gestalten und wohin sie beruflich gehen will. Es gab bereits einige mögliche Vorstellungen, allerdings war sie dabei sehr unsicher, vor allem in Bezug auf ihre vorhandenen Kompetenzen. Als Auftakt der Beratung wurde daher mit der Methode „Lebensprofil“ (Zukunftszentrum Tirol 2009: 35ff.) gearbeitet. Hierbei erfol"
+      },
+      {
+        "rank": 3,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.9566789865493774,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      },
+      {
+        "rank": 4,
+        "id": "15810ef9646f282c8fc29283c25457c1bdc26cee604a91db13be2cb1ea5cc98a",
+        "score": 0.8017624020576477,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7656,
+          "_split_overlap": [
+            {
+              "doc_id": "88e29e2d5b2751111eacdf3a30bd9f4d6d20b02e06447c4bcf7129b1bd7e955b",
+              "range": [
+                1020,
+                1439
+              ]
+            },
+            {
+              "doc_id": "7b33b43dc2b4d4dfb393b4707ca108dbf8098b0d52b051adea0e2e86eab62a09",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "einer defizitorientierten Beratung das beruf­ liche Selbstverständnis einer Beratung deutlich, welches sich auf die Res­ sourcen der Personen bezieht und deren Leistungen auch in Bezug auf den gesellschaftlichen und arbeitsmarktpolitischen Beitrag hervorhebt. Der An­ spruch einer ressourcenorientierten Anerkennungsberatung, welcher nicht nur auf individueller, sondern auch auf gesellschaftlicher Ebene verortet ist, wird jedoch durch die fehlende Absicherung und Anerkennung einge­ schränkt. Hinsichtlich der personellen Ressourcen und der Ausstattung der Be­ ratungsstellen nimmt in den Interviews das Angebot einer mehrsprachigen Beratung einen hohen Stellenwert ein. In der Beschreibung der Aufgaben­ gebiete wird der Sprache als zentralem Medium im Beratungsprozess eine große Bedeutung für den Aufbau der Beratungsbeziehung zugeschrieben. Die Interviewpartner_innen stellen ihre eigene Erfahrung mit der Anerken­ nung im Ausland erworbener Qualifikationen als eine zusätzliche Ressour­ ce dar"
+      },
+      {
+        "rank": 5,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.5979061126708984,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10132.txt",
+    "question": "Wie wurde im Beratungsprozess die Reflexion über die Vergangenheit und Zukunft des Teilnehmers gestaltet?",
+    "answer": "Die Reflexion wurde durch leitfadengestützte fokussierte Interviews gestaltet, bei denen die Teilnehmer aufgefordert wurden, ihre Assoziationen herauszufiltern, die eine bildungsgeschichtliche Prägung aufdecken könnten und gezielt nachzufragen, sowie zur Reflexion anregen. Dabei sollte der Begriff „Bildung“ vorsichtig und gefühlvoll angesprochen werden, um Abwehrreaktionen und inneren Widerständen zu vermeiden. Die Reflexion sollte auf die unterschiedlichen Ebenen wie Vergangenheitsbezug, Emotionalität und Einmaligkeit der Erinnerungen eingehen. \n        Im Interview sollten die Teilnehmer aufgefordert werden, über ihre Vergangenheit und Zukunft nachzudenken und ihre Gedanken und Gefühle zu teilen. Hierbei sollte der Berater/ die Beraterin eine neutrale und unterstützende Haltung einnehmen und den Teilnehmer/ die Teilnehmerin nicht unter Druck setzen. \n        Die Reflexion sollte auch auf die Zukunft ausgerichtet sein und den Teilnehmer/ die Teilnehmerin auffordern, über seine/ ihre Ziele und Pläne nachzudenken und wie diese erreicht werden können. \n        Die Reflexion sollte auch die Rolle des Beraters/ der Beraterin einbeziehen und die Frage aufwerfen, wie der Berater/ die Beraterin den Teilnehmer/ die Teilnehmerin unterstützen kann, um seine/ ihre Ziele zu erreichen. \n        Die Reflexion sollte abschließend auch auf die Integration der Erkenntnisse in den Alltag und die Eröffnung neuer Perspektiven für den weiteren Lebensweg eingehen. \n        Die Reflexion sollte auch die Möglichkeiten von (Weiter-) Bildungsoptionen aufzeigen, um den Teilnehmer/ die Teilnehmerin zu motivieren, sich weiterzubilden und seine/ ihre Ziele zu erreichen. \n        Die Reflexion sollte abschließend auch die Frage aufwerfen, wie der Berater/ die Beraterin den Teilnehmer/ die Teilnehmerin in der Zukunft unterstützen kann, um seine/ ihre Ziele zu erreichen. \n        Die Reflexion sollte abschließend auch auf die Ergebnisse der Reflexion eingehen und die Erkenntnisse zusammenfassen,",
+    "expected": "Zunächst wurde der Blick mit dem Lebensprofil in die Vergangenheit gelenkt, danach erfolgte eine verkürzte Kompetenzbilanzierung, bei der vorhandene Fertigkeiten analysiert, bewertet und mögliche zukünftige Wege entwickelt wurden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fe861150baeac71e3118a31e71abd83b9c04dfd2a921cc37bba2a2a03a454de9",
+        "score": 0.9974822402000427,
+        "meta": {
+          "file_path": "9783847412304_chapter_1011.txt",
+          "source_id": "38a1e008b74849998895aba8eae956ee54d87efff40a2b7078b06e2f99b7a64b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b9f738b4d0f54f108825829f27a4713d2a17d226b7429578d7d8a3586ab9496f",
+              "range": [
+                0,
+                499
+              ]
+            }
+          ]
+        },
+        "content": "1. Projekt Spurwechsel und Forschungsdesign Ausgangspunkt des Projekts ist die Stärkung der Perspektive, dass betrieb- liche Interessenvertretung eine berufs- und bildungsbiografische Phase ist, deren Übergangskonstellationen aktiv zu gestalten sind. Es wurden unter anderem Bildungs- und Beratungsprozesse mit betrieblichen Interessenver- treter*innen, die sich in beruflichen Übergängen befinden, durchgeführt und evaluiert (vgl. Hocke 2018). Hierbei wurde ein reflexives Beratungsverständ- nis zugrunde gelegt. Reflexive Beratung definiert Pongratz als „Entwicklung von Problemlösungen (Beratung) oder von Problemlösefähigkeit (Bildung) durch dialogische Aufklärung der eigenen Verwicklungen und Verstrickun- gen in aktuelle und frühere Handlungskonstellationen und Beziehungsmus- ter“ (2011: 32). Danach kann reflexive Beratung unterschieden werden von Wissensvermittlung und Expertenberatung, aber auch von Selbsthilfe und informellem Lernen (vgl. ebd.). Im Fokus des vorliegenden Beitrags steht"
+      },
+      {
+        "rank": 2,
+        "id": "de0cba158e3b9ae7364c63054facb948021dbaebe4e9349d471335b02441c9c1",
+        "score": 0.9957692623138428,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1194,
+          "_split_overlap": [
+            {
+              "doc_id": "58e1f6a688e13aec6df8458ac0516ec351f8ab9698e17faa4b733c0619cc5ce2",
+              "range": [
+                1194,
+                1598
+              ]
+            },
+            {
+              "doc_id": "cbb4864453b8e2882090a0dd0ed2f1951011922b4deb63f47879175f12b1d0fb",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "von Beratungskompetenz erreicht werden. Reflexion meint dabei das Überdenken von Erfahrungen, Ereignissen und Handlungen im Nachhinein (retrospektive Reflexion) sowie das Bedenken von zukünftigen Handlungen und ihren Folgen (prospektive Reflexion) (s. Abbildung 4) auf der Grundlage von bestehenden Normen, Werten, Wissens- und Erfahrungsbeständen (vgl. Gillen 2009, S. 108f.). Reflexion als Bewusstheit über die eigenen Kompetenzen und das eigene Tun wird als Kernelement von Professionalität aufgefasst (vgl. Combe/Kolbe 2008, S. 859). Der herausgehobene Stellenwert von Reflexion begründet sich wie folgt: Wir gehen davon aus, dass professionell Beratende nicht nur kompetent handeln sollten, sondern auch ein professionelles Gespür sowie eine erhöhte kognitive Wahrnehmungsschärfe für die Qualität des eigenen Handelns benötigen (Dörr 2014, S. 18). Die Beratenden sollten in der Lage sein professionelles Handeln auf Basis von (Selbst-)Beobachtungen und dem eigenen theoretischen Wissen differenz"
+      },
+      {
+        "rank": 3,
+        "id": "125e6c97c3e40eabd3f9c9a2ea0da26c595624bec2878b50efdfcfaa27e0d8cd",
+        "score": 0.9939245581626892,
+        "meta": {
+          "file_path": "1001586_chapter_0856.txt",
+          "source_id": "1c3c1f3afbfb2d082ee7742e6b66201c5e3be3754cb92560c3b502cfc8df1c32",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3328,
+          "_split_overlap": [
+            {
+              "doc_id": "1e336aec61cf96f082ca24be2f88f950f4a1bad01d8873968b037b43459ccabf",
+              "range": [
+                1070,
+                1453
+              ]
+            },
+            {
+              "doc_id": "af993999e96dd1b8a044594cf282475fb4c84782e22058875e6200beb7486ef9",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "Sie die Assoziationen herausfiltern, die eine bildungsgeschichtliche Prägung aufdecken könnten und gezielt nach­ zufragen, sowie zur Reflexion anregen. Auch hier sollten Sie darauf achten, dass der Begriff „Bildung“ möglicherweise sehr negativ behaftet ist und zu Abwehrreaktionen und inneren Widerständen führen kann, die den Bera­ tungs- und Reflexionsprozess behindern können. Um dies zu umgehen, ist eine gefühlvolle und vorsichtige Annäherung an das Thema gefragt. Dabei sollten Sie auf die unterschiedlichen Ebenen wie Vergangenheitsbezug, Emotionalität und Einmaligkeit der Erinnerungen eingehen. 4. \u0007Abschluss und Transfer: Zur Integration der Erkenntnisse in den Alltag und zur Eröffnung neuer Perspektiven für den weiteren Lebensweg kann zu möglichen (Weiter-) Bildungsoptionen übergeleitet werden. Kommentar zum Einsatz Zielgruppe: Die Zielgruppe umfasst hauptsächlich Menschen mit Bildungs­ blockaden, die mindestens ihre Pflichtschulzeit absolviert haben und neue Perspektiven suchen. An"
+      },
+      {
+        "rank": 4,
+        "id": "446b824aeaf319cd6c91d5ef7fbf88caa2b2f5b028f2e2e56b4e4bac8cf3873e",
+        "score": 0.9929683804512024,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1153,
+          "_split_overlap": [
+            {
+              "doc_id": "787cae45bbf4fe1add3eb8491cfcb59338ae70ea13395b1db36e7557e1290002",
+              "range": [
+                1153,
+                1567
+              ]
+            },
+            {
+              "doc_id": "7fda2c84511dbb9c1e476f6cd532f9de02074885efa59c07ca7fe96d9cbf566e",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "in einer Übersichtsgraphik. Sie diente dazu, die Beratungs- und Weiterbildungsangebote zu strukturieren und zu dokumentieren. 3. Feedback-Fragebögen zur Erhebung der Lerneffekte bei Teilnehmenden. 4. Prozessraster zu Verlauf und Effekt der Transformation in den Unterneh- men: Die Teilnahme an Beratungs- und Weiterbildungsangeboten wurde empirisch erfasst. 5. Interviews mit relevanten Unternehmensvertretern und -vertreterinnen zum Effekt der Beratung wurden durchgeführt. 6. In Artefaktanalysen wurden die messbaren dokumentierten Effekte in den Unternehmen ausgewertet. 4.2 Ergebnisse der Evaluation Wie oben dargestellt, wurden sowohl Einzelpersonen in der Beratung akti- viert wie auch Gruppen und die Organisation. Daher wurden auch diese drei Ebenen evaluiert. Ergebnisse auf der Subjekt- und Gruppenebene Die Lerneffekte wurden von den Teilnehmenden als hoch bis sehr hoch einge- stuft; Lernmethoden wie zum Beispiel die Kollegiale Beratung, das Rollen- spiel oder die Selbstlernprogramme mi"
+      },
+      {
+        "rank": 5,
+        "id": "b6ef5b0eb03019f985cdf71cd0f00881d576d06ea9d6d55b80f391c0b4f89836",
+        "score": 0.9902898669242859,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 13403,
+          "_split_overlap": [
+            {
+              "doc_id": "19cc1874d670262789f6cbe3dadaa5d10516cb605a20608bd9dc67283cd8200a",
+              "range": [
+                1235,
+                1673
+              ]
+            },
+            {
+              "doc_id": "f820a62e6cdae7ec18bbf25d5b0d13ea495cb6c4b1e5388752ef197cc80c7c55",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "nisse: lösungsorientierte Gespräche unter Einsatz angemessener Beratungsansätze Neben der Darstellung der Beratungsverläufe und der Begründung der gewählten Interventionen nehmen Aussagen über die Beratungsverständnisse einen zentralen Stellenwert ein. Hierbei lassen sich Reflexionen über die Ziele der Beratungen und über notwendige Beratungskompetenzen unterscheiden. Übergreifend wird als Zielsetzung benannt, dass die KlientInnen in den Beratungen selbst Lösungen entwickeln sollten und dass Bildungsberatung mehr sei als die Weitergabe von Informationen. Hierfür sei die Vereinbarung von Zielen notwendig, die vor dem Hintergrund der gegebenen Rahmenbedingun- gen auch erreichbar sind. In einer Reflexion wird in diesem Zusammenhang darauf hingewiesen, an dem/der KlientIn orientierte Ziele finden zu wollen: „Das ist mir wichtig: [...] Ziele vereinbaren, die einer- seits eine Herausforderung sind, andererseits nicht überfordern“ (Fallreflexion 10, Z. 155-160). In zwei Fällen werden „klare B"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10132.txt",
+    "question": "Inwiefern half die Fertigkeitenanalyse dem Teilnehmer, seine beruflichen Perspektiven neu zu bewerten?",
+    "answer": "In der Analyse werden die Fertigkeitenanalyse der Teilnehmer in Beziehung zu den beruflichen Perspektiven gesetzt, um die Möglichkeiten der Neuorientierung der beruflichen Perspektiven zu rekonstruieren. Die Teilnehmer sehen in der Fertigkeitenanalyse eine Möglichkeit, sich selbst und ihre Fähigkeiten besser zu verstehen und ihre beruflichen Ziele neu zu bewerten. Die Analyse zeigt, dass die Fertigkeitenanalyse ein wichtiger Schritt zur Neuorientierung der beruflichen Perspektiven ist, da sie den Teilnehmern hilft, ihre Stärken und Schwächen zu erkennen und ihre beruflichen Ziele realistischer zu bewerten. Die Teilnehmer können ihre beruflichen Perspektiven neu bewerten und sich auf neue Weise für ihre Zukunft entscheiden. Die Fertigkeitenanalyse hilft den Teilnehmern, ihre beruflichen Perspektiven zu überdenken und sich für neue berufliche Möglichkeiten zu öffnen. Die Analyse zeigt, dass die Fertigkeitenanalyse ein wichtiger Teil der beruflichen Entwicklung ist, da sie den Teilnehmern hilft, ihre beruflichen Ziele zu erreichen und ihre beruflichen Perspektiven zu verbessern. Die Fertigkeitenanalyse hilft den Teilnehmern, ihre beruflichen Perspektiven zu bewerten und sich auf neue Weise für ihre Zukunft zu entscheiden. Die Analyse zeigt, dass die Fertigkeitenanalyse ein wichtiger Schritt zur Neuorientierung der beruflichen Perspektiven ist, da sie den Teilnehmern hilft, ihre Stärken und Schwächen zu erkennen und ihre beruflichen Ziele realistischer zu bewerten. Die Fertigkeitenanalyse hilft den Teilnehmern, ihre beruflichen Perspektiven zu überdenken und sich für neue berufliche Möglichkeiten zu öffnen. Die Analyse zeigt, dass die Fertigkeitenanalyse ein wichtiger Teil der beruflichen Entwicklung ist, da sie den Teilnehmern hilft, ihre beruflichen Ziele zu erreichen und ihre beruflichen Perspektiven zu verbessern. Die Fertigkeitenanalyse hilft den Teilnehmern, ihre beruflichen Perspektiven zu bewerten und sich auf neue Weise für ihre Zukunft zu entscheiden. Die",
+    "expected": "Die Fertigkeitenanalyse zeigte ihm, dass er über viele Fähigkeiten verfügt, die er auch anderen vermitteln kann. Dadurch erkannte er, dass er sich massiv weiterentwickelt hat, was ihm mehr Selbstvertrauen gab und ihn dazu brachte, auch ein Studium als erreichbares Ziel zu sehen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4ecac239027f06772cc9196b40b2ede22cc60b6b7da1dd1ad91e9753c83f7d0b",
+        "score": 0.5374239683151245,
+        "meta": {
+          "file_path": "9783839444856_chapter_074.txt",
+          "source_id": "d36940a7d6c8a9163902d7fb90da8b3925b48b081786036cd0a66a33217e8c74",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1499,
+          "_split_overlap": [
+            {
+              "doc_id": "6f0c6da8f2329db24d2729386e2f103651afeaba74816d6c1414b9c3c3b57e97",
+              "range": [
+                1499,
+                1994
+              ]
+            }
+          ]
+        },
+        "content": "in Auseinandersetzung mit den sozialstrukturellen Rahmenbedingungen entwickelt werden, um die formulierten Zielsetzungen zu erreichen (5.4.2). Aus einer anerkennungstheoretischen Perspektive ermöglichen und unter­ stützen diese Handlungsstrategien die Herstellung von Anerkennungs­ verhältnissen auf den unterschiedlichen Analyseebenen. Dabei lassen sich spezifische Zusammenhänge rekonstruieren, welche jeweils einen typischen Aushandlungsprozess zwischen dem beruflichen Selbstverständnis und den sozialstrukturellen Rahmenbedingungen beschreiben (5.4.3)."
+      },
+      {
+        "rank": 2,
+        "id": "e1184f22ea904645e37ef54058cb2edc943e2bba0b207a6d874b87ee8ce0eaae",
+        "score": 0.33647507429122925,
+        "meta": {
+          "file_path": "9783847412304_chapter_06.txt",
+          "source_id": "fea79bceed1fa1b544695a00185e7c0814af644405a8954a462934d3f81b4bec",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1224,
+          "_split_overlap": [
+            {
+              "doc_id": "914ce54abeac91099bc60635cecd8adbddda15df385c99df38400214c55aae1e",
+              "range": [
+                1224,
+                1644
+              ]
+            }
+          ]
+        },
+        "content": "gekennzeichnet durch eine Zu- nahme von Informationen und „informational overload“, verstärkte Unkalku- lierbarkeit auf den Arbeitsmärkten sowie eine „steigende Unsicherheit in den (berufs-)biographischen Perspektiven“ (Arbeitsstab Forum Bildung 2001). Im Rahmen des Beitrags wird unter resonanztheoretischer Perspektive zum einen die Frage aufgeworfen, inwiefern sich Auswirkungen und Folgen der Beschleunigung auf die Beratung identifizieren lassen. Zum anderen soll beleuchtet werden, ob Beratung eine instrumentalisierte Anpassung an den alternativlosen Mainstream erzeugt oder vielmehr eine Individualisierung verstärkt und die Optimierung, Beschleunigung und Flexibilität bis zur kri- tiklosen Selbstausbeutung steigert. Vor dem Hintergrund zunehmender Ökonomisierungstendenzen wird kri- tisch hinterfragt, inwieweit Beratung als Katalysator des sozialen Wandels angesichts einer zunehmenden Beschleunigungs- und Wettbewerbslogik an- gesehen werden kann. Der Beitrag schließt mit einer kritisch"
+      },
+      {
+        "rank": 3,
+        "id": "d7835ff49b13ad05e5555bc224a32ce76e6c608a7d55ecbe4282ae7d1a02c967",
+        "score": 0.29105931520462036,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "5. Ergebnisse des Beratungs- und Betreuungsbedarfs Stellenvertretend für die Gruppe der potentiellen Teilnehmenden wird im Folgenden die Bedarfserhebung der Fachkräfte herangezogen. Diese wurde gezielt für die Region Oberpfalz ausgewertet (N=224). Dabei waren 86,0% männliche (m) und 14,0% weibliche (w) Personen vertreten. 81,1% davon wa- ren zum Zeitpunkt der Erhebung zwischen 20 und 29 Jahre und 9,6% hatten Familienpflichten. In einem sozialversicherungspflichtigen Beschäftigungs- verhältnis (VZ und unbefristet) befanden sich 87,9% und 83,5% befanden sich zum Zeitpunkt der Erhebung in einer Aufstiegsfortbildung7 (beispielsweise Meister/in oder Techniker/in) bzw. hatten diese bereits absolviert. Interesse an Weiterbildung hatten 80,6% aller befragten Frauen sowie 74,9% der Män- ner. Fast 60% der Befragten war bekannt, dass sie Weiterbildungsangebote an Hochschulen besuchen können. Die drei meistgenannten Gründe gegen eine Weiterbildung bei Frauen waren zeitliche Gründe (Arbeit), finanz"
+      },
+      {
+        "rank": 4,
+        "id": "c1b7762c8f0b256ad3997faded4cf3ca3e92a4006ae5b52f74a9aa846cfa0a35",
+        "score": 0.19316381216049194,
+        "meta": {
+          "file_path": "9783847412304_chapter_1233.txt",
+          "source_id": "133684ae556f34910b6e398f1c621441695377d4809366c9daa4cb79f91542a9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1295,
+          "_split_overlap": [
+            {
+              "doc_id": "7ff68026d666c315ab31fed6628dbaba632699da5effd587a0fdcbd41eb9d3ba",
+              "range": [
+                1295,
+                1719
+              ]
+            }
+          ]
+        },
+        "content": "(jeweils drei volle Tage), zwei Reflexionstreffen (Supervision) sowie weiterführenden Fachmodulen.2 Bis Ende 2016 wurden 126 Teilnehmende weiterqualifiziert (vgl. Weymann 2018, S. 261). Neben den Basismodulen werden unterschiedliche Fortbildungsmodule angeboten, die den Bedürfnissen der Teilnehmenden gemäß kontinuierlich ergänzt werden: Anhand von Tätigkeitsanalysen der Teilnehmenden zeigt sich nicht nur das hohe Maß an Beratung, das formell und informell den Arbeitsalltag der Teil- nehmer/innen prägt, sondern es werden auch individuelle und strukturelle Widersprüchlichkeiten zwischen Beratungsverständnis, Beratungsauftrag und methodischem Vorgehen thematisiert. Umso mehr betonen die Teilneh- menden nicht nur die Relevanz des Austauschs mit den Kolleginnen und Kol- legen, sondern auch die Notwendigkeit, ihr beraterisches Handeln individuell und gemeinsam zu reflektieren. Dazu gehört ebenso die gemeinsame Aus- einandersetzung mit den sozialen und hochschulpolitischen Bedingungen, die Ei"
+      },
+      {
+        "rank": 5,
+        "id": "07488078d6dd311ceadad023ad3b14387da068393084a86b13795e8e35a33652",
+        "score": 0.14602260291576385,
+        "meta": {
+          "file_path": "9783839444856_chapter_07.txt",
+          "source_id": "053f4034ab094a609834729c052d2e74d932c966584fbc59e9a39dae8d53d43e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "70b9a373d759b915be3e7637360b9608583da8276c3041f908651e8b7a28407b",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "### 5.\tErgebnisse ### 5. Ergebnisse Ziel ist es, aus dem empirischen Material die professionellen Handlungs­ strategien zu rekonstruieren, welche die Berater_innen innerhalb der Span­ nungsfelder von beruflichem Selbstverständnis und sozialstrukturellen Rahmenbedingungen entwickeln. Für die Datenanalyse und -interpretation wird die Forschungsfrage in drei Teilschritte gegliedert. Zuerst wird unter­ sucht, welches berufliche Selbstverständnis die Interviewpartner_innen mit Anerkennungsberatung verbinden. Dazu werden die Aufgabenfelder ermittelt, welche in den Interviews beschrieben werden, sowie die damit verbundenen Perspektiven der Berater_innen und Koordinator_innen auf Anerkennungsberatung als eine sich neu entwickelnde Beratungsleistung. Der zweite Teil stellt die Rahmenbedingungen dar, die von den Interview­ partner_innen als ermöglichende oder eingrenzende Handlungsbedingun­ gen diskutiert werden. Für die Fragestellung sind dabei vor allem die sich herausbildenden Spannungsfelder"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10132.txt",
+    "question": "Welche Bedeutung hat die Nutzung des ProfilPass-Bewertungsrasters im Kontext der Beratung für die Selbstwirksamkeit des Teilnehmers?",
+    "answer": "Der Einsatz des ProfilPass-Bewertungsrasters im Kontext der Beratung ermöglicht es dem Teilnehmer, seine eigenen Fähigkeiten und Kompetenzen zu erfassen und zu bewerten. Dies führt zu einer gesteigerten Selbstwirksamkeit, da der Teilnehmer sich sicherer in seinen Fähigkeiten und Kompetenzen fühlt. Die Nutzung des Bewertungsrasters ermöglicht es dem Teilnehmer, seine eigenen Ressourcen zu erkennen und zu nutzen, was zu einer positiven Wende der Unsicherheit in Bezug auf berufliche Perspektiven führt. Die Kompetenzbilanzierung ermöglicht die Reflexion, Bewusstwerdung und Beschreibung eigener Kompetenzen, wodurch Unsicherheit zu Multioptionität gewendet werden kann. Die Selbstwirksamkeit des Teilnehmers kann gestärkt werden, sodass letztlich neben anderen beruflichen Optionen selbst ein Studienabschluss in einen erreichbaren Horizont rückte.  Die Nutzung des ProfilPass-Bewertungsrasters ermöglicht es dem Teilnehmer, seine eigenen Fähigkeiten und Kompetenzen zu erfassen und zu bewerten, was zu einer gesteigerten Selbstwirksamkeit führt. Dies ist eine wichtige Ressource in biografischen Übergängen.  Die Nutzung des Bewertungsrasters ermöglicht es dem Teilnehmer, seine eigenen Ressourcen zu erkennen und zu nutzen, was zu einer positiven Wende der Unsicherheit in Bezug auf berufliche Perspektiven führt.  Die Kompetenzbilanzierung ermöglicht die Reflexion, Bewusstwerdung und Beschreibung eigener Kompetenzen, wodurch Unsicherheit zu Multioptionität gewendet werden kann.  Die Selbstwirksamkeit des Teilnehmers kann gestärkt werden, sodass letztlich neben anderen beruflichen Optionen selbst ein Studienabschluss in einen erreichbaren Horizont rückte.  Die Nutzung des ProfilPass-Bewertungsrasters ermöglicht es dem Teilnehmer, seine eigenen Fähigkeiten und Kompetenzen zu erfassen und zu bewerten, was zu einer gesteigerten Selbstwirksamkeit führt.  Die Nutzung des Bewertungsrasters ermöglicht es dem Teilnehmer, seine eigenen Ressourcen",
+    "expected": "Das Bewertungsraster ermöglichte dem Teilnehmer, seine Kompetenzen systematisch einzuordnen und zu reflektieren, was seine Sicherheit in den eigenen Fähigkeiten stärkte und somit seine Selbstwirksamkeit erhöhte. Dadurch wurden neue berufliche Optionen realistischer und motivierender für ihn.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6bdf7885ee0759e745d72635d27fc7e85bb1bd49e90e100990b3818ae137e4db",
+        "score": 0.9235124588012695,
+        "meta": {
+          "file_path": "9783847412304_chapter_10132.txt",
+          "source_id": "7281b957899ffccfdfcaf250b1005ea1ae7039e6a6f650bab66e820eeab2680e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2139,
+          "_split_overlap": [
+            {
+              "doc_id": "11e74a492743bac8d9f20804419aead6d47ddca098fa2bc8773e3a6a9580b41b",
+              "range": [
+                985,
+                1281
+              ]
+            }
+          ]
+        },
+        "content": "Und wenn man das erstmal auf Papier sieht, was man alles schon gemacht hat und wie weit man sich entwickelt hat, dann nimmt man auch gern einen Schwung mit und sagt: ja, ich traue mir noch ein Studium zu.“ Der Beratungsteilnehmer reflektierte in dieser Beratung die bereits stattgefun- denen zum Teil inzidentellen Lernprozesse und lernte die eigenen Fähigkei- ten mittels des Bewertungsrasters des Profilpasses (vgl. Neß/Bretschneider/ Seidel 2007: 394) einzuordnen. Dadurch gewann er Sicherheit in den eigenen Kompetenzen und seine Selbstwirksamkeit konnte gestärkt werden, sodass letztlich neben anderen beruflichen Optionen selbst ein Studienabschluss in einen erreichbaren Horizont rückte. Der Teilnehmer konnte in der Beratung seine Unsicherheit zu beruflichen Perspektiven positiv wenden und eine be- wusste „Multioptionalität“ entwickeln, welche eine relevante Ressource in biografischen Übergängen darstellt (vgl. Schicke/Gorecki/Schäffter 2014). Die Kompetenzbilanzierung ermöglicht die Ref"
+      },
+      {
+        "rank": 2,
+        "id": "e9612e95a2699a8b6b338717145faf545226182d77bdfbe44bbcfcc006b9b448",
+        "score": 0.8418559432029724,
+        "meta": {
+          "file_path": "9783847412304_chapter_1232.txt",
+          "source_id": "ec906973877be4dd0b7fd4ce2892a7738516755bd171558ee46710ca53a83205",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c676d375b2b38600c45b05152ef97f6b2d51dabb5d4647d2ea726e9111f6d9b1",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung Für Stefanie Duttweiler ist die Selbstbestimmung das zentrale Moment in der Beratung, welche mit der Frage der Selbstkonstituierung des Subjekts in Ver- bindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjekti- vierung, die sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt (vgl. dies. 2007, S. 262). Be- ratung ist dabei ein Knotenpunkt im Netz aus Selbst- und Fremdführungs- formen, erstens auf der Ebene der Beratung als institutioneller Einrichtung, zweitens als Interaktions- und Kommunikationsform, aber drittens auch in der Rolle der Berater/innen. In den drei Ebenen spiegeln sich die Interde- pendenzen aus Fremd- und Selbstführungen; Führende werden zu Geführ- ten und vice versa. Dies gilt gerade für die professionelle Beziehung Berater/ in–Ratsuchende/r. Damit wird die Frage der Selbstbestimmung erneut zum Ausgangspunkt, denn „Selb"
+      },
+      {
+        "rank": 3,
+        "id": "4fcdc86a037e39df82e855b660f4b37ea94870c0e5575a6bea1600cd6c3596d4",
+        "score": 0.6619183421134949,
+        "meta": {
+          "file_path": "9783839444856_chapter_042.txt",
+          "source_id": "65414aa1d80825662f85bd1a867cb5f903ff3216cd14a3f246e909eddd9d9eb1",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2448,
+          "_split_overlap": [
+            {
+              "doc_id": "ff277900abc476c09b717a123c811ca07da8e8911f5db7437bfd0a571286065b",
+              "range": [
+                1213,
+                1673
+              ]
+            },
+            {
+              "doc_id": "2545e54026f05259238d860fa99ce6066cec1aee27d610ecfc50f041d6614634",
+              "range": [
+                0,
+                449
+              ]
+            }
+          ]
+        },
+        "content": "professionellen Handlungsstrategien entwickeln Berater_innen in der Anerkennungsberatung, um innerhalb der Spannungsfelder von be­ ruflichem Selbstverständnis und sozialstrukturellen Rahmenbedingungen handlungsfähig zu bleiben? Die Forschungsfrage wird in der weiteren Arbeit in drei Teilfragen ge­ gliedert: 1. Welche Perspektiven auf Anerkennungsberatung und ihre Aufgabenfel­ der werden durch die Koordinator_innen und Berater_innen formuliert (berufliches Selbstverständnis)? 2. Welche sozialstrukturellen Rahmenbedingungen nehmen die Akteur_ innen wahr und wie beurteilen sie diese in Bezug auf ihr berufliches Selbstverständnis (Handlungsbedingungen)? 3. Welche Zielsetzungen und Handlungsweisen werden in Auseinander­ setzung mit restriktiven Rahmenbedingungen entwickelt, um innerhalb der identifizierten Spannungsfelder handlungsfähig zu bleiben (profes­ sionelle Handlungsstrategien)? Zur Beantwortung der Forschungsfrage werden die Perspektiven der Ak­ teur_innen auf ihr Beratungshandeln "
+      },
+      {
+        "rank": 4,
+        "id": "0ddfcf99875c993d18c6c6bc744488e03afaeb038cf2ff4a9bd7a981193afb0e",
+        "score": 0.5259659886360168,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7600,
+          "_split_overlap": [
+            {
+              "doc_id": "50f197ec6fc9413dfc50f015e182b7e736885adf9456bb426ab7d962d1ed2641",
+              "range": [
+                1293,
+                1739
+              ]
+            },
+            {
+              "doc_id": "67681d3cef2354525f6f473b187bc6f36595947475dcc58c2d0a46cea908860d",
+              "range": [
+                0,
+                385
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsprozess nach und dokumentieren diese Überlegungen. Die Reflexion auf der Ebene der Handlungsüberprüfung, insbesondere durch Transparentmachung von Begründungen für das eigene Handeln, soll Aussagen über die Beratungskompetenzen erlauben. Die „nachträgliche Begründungsverpflichtung“ (Oevermann 1996, S. 77f.) der professionellen Praxis nach dem Handlungsvollzug wird hier als wesentliches Merkmal des professionellen Handelns verstanden und im Instrument genutzt. Ein weiteres Instrument, das insbesondere die Erfassung der Performanz in den Mittelpunkt rückt, stellt die Beobachtung von vollständigen simulierten oder echten Beratungssituationen dar, die aber nicht zwingend selbst durch- geführt wurden. Hier können Beratungsgespräche durch den Einsatz von Si- mulationsklientel (z. B. in einem Rollenspiel) oder videographierten realen Beratungssituationen anhand eines Beobachtungsbogens dokumentiert und beurteilt werden. Bei dem Beobachtungsbogen handelt es sich, wie bei den vorigen I"
+      },
+      {
+        "rank": 5,
+        "id": "f7c25d58603252676b3a72caf480a32f5eb3380517f93c8bf99eb3b8e123c33d",
+        "score": 0.4394533336162567,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3594,
+          "_split_overlap": [
+            {
+              "doc_id": "b16ab80d592f865438d39047267a7be2f5d53553ecbd51493014ab6f8b122945",
+              "range": [
+                1242,
+                1710
+              ]
+            },
+            {
+              "doc_id": "03313f8fe6d83dec6e4cef5d8627bc0f7133f772f9098cceccb90bc4e484f74d",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Selbstbeurteilungsskalen, berufliche Fä- higkeiten erheben, Karriereberatung, Fähigkeitentests, Begleitung von Praktika etc. 3. Gruppenberatung umfasst u. a.: Rückmeldung für die Teilnehmer, Ver- einbarung von Konfliktlösestrategien, Evaluation von Zielen, Einsatz von Führungstechniken, Etablierung von Gruppenregeln etc. 4. Im Rahmen der 4. Kategorie Familienberatung fanden sich: Krisenbera- tung, Suchtberatung, Jugendberatung, Konfliktlösestrategien, Familien im Wandel beraten, Scheidungsberatung, Beratung in sexuellen Proble- men etc. 5. Als andere professionelle Tätigkeit der Beratungspsychologen bezeich- nen die Autoren: Verbindungen zu anderen Diensten herstellen, Beratungsprogramme entwickeln und evaluieren, Fallkonferenzen abhal- ten, Supervision, die Entwicklung ethischer Standards etc. Als Voraussetzung einer professionellen Beratungstätigkeit werden sowohl Wissen und Fähigkeiten von professionellen Beratern einerseits wie anderer- seits spezifische Haltungen und Persönlichkei"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10132.txt",
+    "question": "Wie lässt sich der Beratungsprozess als Beispiel für die Aktivierung von Ressourcen im beruflichen Kontext zusammenfassen und welche Ergebnisse wurden dadurch erzielt?",
+    "answer": "Die Aktivierung von Ressourcen im Beratungsprozess kann als ein Beispiel für die Verwendung von Lebensbäumen (Tree of Life) dargestellt werden. Dieser Ansatz ermöglicht es den Ratsuchenden, ihre Ressourcen und Potenziale zu visualisieren und Ziele zu formulieren. Durch die Erstellung des Lebensbaumes werden die Ratsuchenden aktiv in den Beratungsprozess eingebunden, was sich positiv auf den weiteren Verlauf auswirken kann. Die Methode kann sowohl am Anfang als auch am Ende der Beratung eingesetzt werden, um Fortschritte und Erfolge nachvollziehen zu können. Die Ergebnisse dieser Methode sind unter anderem ein bewussteres Bewusstsein über die eigenen Ressourcen und Fähigkeiten, eine verbesserte Selbstreflektion und Selbstprüfung, sowie eine Stärkung von Hoffnung und Zuversicht. Dieser Ansatz kann sich besonders gut einsetzen, um das bisherige Leben zu reflektieren, neue Ressourcen und Potenziale zu visualisieren und Ziele zu formulieren. \n\nDie Frage bezieht sich auf den Kontext der Beratung und der Aktivierung von Ressourcen. Die Antwort gibt einen Überblick über den Lebensbaum-Ansatz und seine Ergebnisse im beruflichen Kontext. \n\nDie Antwort ist nicht ausdrücklich in den bereitgestellten Texten enthalten, aber sie kann anhand der bereitgestellten Informationen abgeleitet werden. Die bereitgestellten Texte beziehen sich auf die Beratung, die Aktivierung von Ressourcen und die Verwendung von Lebensbäumen im beruflichen Kontext. Die Antwort ist eine logische Konsequenz aus diesen Informationen. \n\nDie Antwort ist in sich konsistent und ergänzt die bereitgestellten Informationen. Sie gibt einen umfassenden Überblick über den Lebensbaum-Ansatz und seine Ergebnisse im beruflichen Kontext. \n\nDie Antwort ist auch für das Thema der Beratung und der Aktivierung von Ressourcen relevant und kann als Beispiel für die Verwendung von Lebensbäumen dargestellt werden. \n\nEs ist jedoch zu beachten, dass die Antwort nicht ausdrücklich in den bereitgestellten Text",
+    "expected": "Der Beratungsprozess aktivierte die vorhandenen Ressourcen des Teilnehmers durch eine systematische Rückschau auf seine Lebensgeschichte und eine detaillierte Kompetenzbilanzierung. Dies führte zu einem gesteigerten Bewusstsein seiner Fähigkeiten, einer Stärkung der Selbstwirksamkeit und der Entwicklung konkreter beruflicher Alternativen, einschließlich der Möglichkeit eines Studienabschlusses.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "3b9fc25664ffe2ee8491aa87147d2ecc940c698aae2e01b7a1ebd594c066fdac",
+        "score": 0.9957460761070251,
+        "meta": {
+          "file_path": "1001586_chapter_0857.txt",
+          "source_id": "20c5e4528b4aa39e6bfcc7e09bba48bbc39908727391556af7e2c39ba6c7824b",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4167,
+          "_split_overlap": [
+            {
+              "doc_id": "c04645d636b201eae8634096978f7cd9f99593cc83ea5ae87ed050eba5d888a6",
+              "range": [
+                1067,
+                1447
+              ]
+            },
+            {
+              "doc_id": "4db69bbdaa2b2c3c8acc861951c982c9e920a8e7f1d4194f875ebb62d7383bb5",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "offen gegenüberstehen. Anliegen: Die Methode lässt sich besonders gut einsetzen, um das bisherige Leben zu reflektieren, neue Ressourcen und Potenziale zu visualisieren und Ziele zu formulieren. Dies lässt sich sowohl auf den gesamten Lebensbereich ausdehnen, aber auch auf Themen der Bildungsberatung fokussieren. Phase im Beratungsgespräch: Diese Methode eignet sich besonders, um zu Beginn des Beratungsprozesses den eigenen Standpunkt zu verorten und ein Bewusstsein über die eigenen Ressourcen und Fähigkeiten zu schaffen. Durch das Erstellen des Lebensbaumes sind die Ratsuchenden bereits aktiv in den Beratungsprozess eingebunden, was sich positiv auf den weiteren Beratungs­ verlauf auswirken kann. Die Methode kann aber auch zu Beginn und zum Ende einer Beratung eingesetzt werden. So entstehen zwei Lebensbäume, an denen besonders gut die Fortschritte und Erfolge des Beratungsprozesses nachvollzogen werden können. Beratungsbeispiel Beraterin [B]: Genau, einfach mal den Lebensbaum vorstel"
+      },
+      {
+        "rank": 2,
+        "id": "844727704acc68e89750ddcf15839e72d3dfe9c8af8aef49574ecae4fd24a438",
+        "score": 0.9886621832847595,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5145,
+          "_split_overlap": [
+            {
+              "doc_id": "2aeabd3654cdce11f23978bb6c472de964eef8e323b6dc9b7f7392ab91bc3bad",
+              "range": [
+                1268,
+                1689
+              ]
+            },
+            {
+              "doc_id": "91b2fcbe6146b590096e95c36f3380d304ae9bc8cf67aee720871bbffacfc062",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "Organisationale und institutionelle Strukturen von Beratung ändern sich sehr rasch. Beispiele sind neue Aufgaben im Kinderschutz, das Hinzukommen medial vermittelter Beratung im Sinne von Blended Counseling und so weiter. Diese Heterogenisierung der Beratungslandschaft geht zusätzlich mit einer Zunahme von Beratungsangeboten einher. In der Folge können aktuelle Professionalisierungswünsche hinsichtlich Beratung nicht mehr auf den überlieferten Strukturkern einer im wesentlichen gesetzten Beratungsinfrastruktur aufsetzen. Beratung als Handlungsform ist angesichts dieser Heterogenisierung aus ihren Strukturen freigesetzt, ähnlich wie das Unterrichten, das sich angesichts rasch ausdifferenzierender Schulformen- und konzepte zunehmend auch wieder aus seiner eigentlichen pädagogischen Praxis heraus und nicht (nur) entlang der Institution Schule legitimieren muss. Zweitens bedeutet Bologna, dass Professionalisierungsprozesse schon früher zielgerichtet beginnen als im bisherigen berufsbiograp"
+      },
+      {
+        "rank": 3,
+        "id": "15810ef9646f282c8fc29283c25457c1bdc26cee604a91db13be2cb1ea5cc98a",
+        "score": 0.9822723865509033,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7656,
+          "_split_overlap": [
+            {
+              "doc_id": "88e29e2d5b2751111eacdf3a30bd9f4d6d20b02e06447c4bcf7129b1bd7e955b",
+              "range": [
+                1020,
+                1439
+              ]
+            },
+            {
+              "doc_id": "7b33b43dc2b4d4dfb393b4707ca108dbf8098b0d52b051adea0e2e86eab62a09",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "einer defizitorientierten Beratung das beruf­ liche Selbstverständnis einer Beratung deutlich, welches sich auf die Res­ sourcen der Personen bezieht und deren Leistungen auch in Bezug auf den gesellschaftlichen und arbeitsmarktpolitischen Beitrag hervorhebt. Der An­ spruch einer ressourcenorientierten Anerkennungsberatung, welcher nicht nur auf individueller, sondern auch auf gesellschaftlicher Ebene verortet ist, wird jedoch durch die fehlende Absicherung und Anerkennung einge­ schränkt. Hinsichtlich der personellen Ressourcen und der Ausstattung der Be­ ratungsstellen nimmt in den Interviews das Angebot einer mehrsprachigen Beratung einen hohen Stellenwert ein. In der Beschreibung der Aufgaben­ gebiete wird der Sprache als zentralem Medium im Beratungsprozess eine große Bedeutung für den Aufbau der Beratungsbeziehung zugeschrieben. Die Interviewpartner_innen stellen ihre eigene Erfahrung mit der Anerken­ nung im Ausland erworbener Qualifikationen als eine zusätzliche Ressour­ ce dar"
+      },
+      {
+        "rank": 4,
+        "id": "25740511dc20eba1ad75211f7187e96de1826fb7f892b4c9245a2f02d77bc318",
+        "score": 0.9816951751708984,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1180,
+          "_split_overlap": [
+            {
+              "doc_id": "1f0ac65da12248518cef2bfb09cb0e25551f4b60f26d2247c20694a536671f96",
+              "range": [
+                1180,
+                1560
+              ]
+            },
+            {
+              "doc_id": "b16ab80d592f865438d39047267a7be2f5d53553ecbd51493014ab6f8b122945",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "bewegen sich die verschiedenen Disziplinen auf ein eigen- ständiges Profil der Theoriebildung und Praxisformatierung hin. Als Sektoren der Praxisentwicklung geht es um: 1. Beratung alter Menschen/ Beratung im Alter 2. Beratung von/ für Frauen/ Männern – Geschlecht 3. Multikulturelle/ interkulturelle Beratung 4. Aids-Beratung 5. Öko-Beratung 6. Beratung und Gesundheit/ Wellness Diese Felder ergänzten die etablierten bildungs-berufsbezogenen und psycho- sozial-gesundheitlichen Bereiche (Nestmann 1994:165). Die Abgrenzung von Beratung und Therapie, von Beratung und Bildung und die Suche nach einer eigenen Identität prägt derzeit das Feld der Beratung. So halten 80% der befragten Beratungspraktikerinnen bei einer Untersuchung die BeraterIn für optimal hilfreich, der/die: - Klienten hilft, Gedanken und Gefühle zu klären, - Selbstreflektion und Selbstprüfung anregt, - Hoffnung und Zuversicht stärkt, - auf aktuelle Sorgen und Ereignisse fokussiert, - Generelle Unterstützung anbietet und Ermut"
+      },
+      {
+        "rank": 5,
+        "id": "f92ab10d4ad705281e9ab8279b5f592d16d16edbc2882eb04e7ca1052e8e6ea4",
+        "score": 0.9816210865974426,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2425,
+          "_split_overlap": [
+            {
+              "doc_id": "b8deb9bc1dfb9987119ba30859b7245a65c5a6855c3e1f5c2061728eb248b9ca",
+              "range": [
+                1270,
+                1700
+              ]
+            },
+            {
+              "doc_id": "cd34bb418f9dfdb999336624dc254d9841795dea44fca00e116f41550d18b5ed",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "Beratung ist keine Geschichte der Durchset­ zung des hermeneutischen Verstehens in der Pädagogik und der Überwindung autoritärer Strukturen. Vielmehr hat sie sich äußerst polarisiert entwickelt. De­ mokratischen Bewegungen und ihren Angeboten standen Beratungsverständ­ nisse mit deutlichem Ordnungscharakter, mit ideologischem Hintergrund und ausgeprägten Professionalisierungsinteressen insbesondere von Ärzten und spä­ ter von der aufsteigenden Profession Psychologie gegenüber.“ (Gröning 2011: 21) Bis ein Beratungsangebot institutionalisiert wird, bedarf es gesellschaftli­ cher Interessen, in einer bestimmten Weise auf Individuen, die die Beratung aufsuchen (sollen), einzuwirken, da die Institutionalisierung immer mit der Verwendung gesellschaftlicher Ressourcen, in diesem Fall kommunaler Fi­ nanzmittel verbunden ist. „Bleibt man in der ärztlichen und psychologischen Tradition von Beratung, so wird derjenige oder diejenige beraten, die nicht nur einen inneren Leidensdruck, sondern auch "
+      }
+    ]
+  }
+]

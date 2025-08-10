@@ -1,0 +1,717 @@
+[
+  {
+    "filename": "9783866496811_chapter_081.txt",
+    "question": "Welche Entwicklung hat die Deutsche Gesellschaft für Beratung (DGfB) seit ihrer Gründung im Jahr 2004 maßgeblich vorangetrieben?",
+    "answer": "Die Deutsche Gesellschaft für Beratung (DGfB) hat seit ihrer Gründung im Jahr 2004 die Entwicklung gemeinsamer Standards für Beratung vorangetrieben. Dabei wurden gemeinsame Standards für Beratung diskutiert und festgelegt. Zudem wurde die wissenschaftliche Fundierung von Beratung vorangetrieben und die Theoriegrundlagen von Beratung vertieft. Die DGfB hat auch die Professionalisierung von Beratung gefördert, indem sie sich mit den Mitgliedsverbänden zusammengeschlossen hat, um gemeinsame Ziele und Standards zu erreichen. Die DGfB hat auch die Gründung der Vereinigung der Hochschullehrer zur Förderung von Beratung und Counselling (VHBC) gefördert, die Masterprogramme in Counseling anbietet und die akademische Qualifikation von Beratern fördert. Insgesamt hat die DGfB seit ihrer Gründung im Jahr 2004 die Entwicklung von Beratung als Profession vorangetrieben und die Professionalisierung von Beratung gefördert. \n        I cannot find the answer in the provided context.",
+    "expected": "Seit ihrer Gründung 2004 hat die DGfB gemeinsame Standards für Beratung diskutiert und festgelegt sowie die wissenschaftliche Fundierung und Theoriegrundlagen von Beratung vertieft.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+        "score": 0.9983254075050354,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4989,
+          "_split_overlap": [
+            {
+              "doc_id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+              "range": [
+                1219,
+                1610
+              ]
+            },
+            {
+              "doc_id": "9773318ba0f94cbb80c7056bcb32bb18f89c2eb28789979a61dd416f5e0463f9",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "sind keineswegs einheitlich. Zu der neuen Entwicklung der Professionalisierung von Beratung gehört die Gründung der Deutschen Gesellschaft für Beratung (2004) als wichtiger Meilenstein. Die Arbeitsgruppe ‚Standards‘ der DGfB hat eine Synopse der Beraterquali- fikationen in der Aus- und Weiterbildung ihrer Mitgliedsverbände erstellt und im November 2007 veröffentlicht. Diese Tatsache kann als Beitrag des Professionalisierungsbemühens aller Mitgliedsverbände gedeutet werden. Ebenfalls ist es kein Zufall, dass sich die Hochschullehrer und Hochschulleh- rerinnen zeitgleich mit der Gründung der DGfB im VHBC zusammengeschlossen haben. In der VHBC (Vereinigung der Hochschullehrer zur Förderung von Beratung und Counselling) haben sich Professorinnen und Professoren zwecks ihrem Akademisierungsinteresse zusammengefunden; sie bieten in ihren Hochschu- len Masterprogramme in Counseling mit verschiedenen Akzenten an. Der Kreis erweitert sich um die, die im Rahmen des Bologna-Prozesses (Interna- ti"
+      },
+      {
+        "rank": 2,
+        "id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+        "score": 0.9951480031013489,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+              "range": [
+                0,
+                466
+              ]
+            }
+          ]
+        },
+        "content": "4.1. Beratungswissenschaft und ihre Profilentwicklung Die Experten von Beratung und Beratungstheorieentwicklung in der BRD beziehen deutlicher Stellung, schließen sich den internationalen Bewegungen in der Akademisierung von Beratung an und entwickeln das Markenzeichen von Beratung weiter. Über viele Jahrzehnte fand das Lernen von Beratung hierzulande fast einzig in den Korridoren der Weiterbildungsinstitute aner- kannter Fachverbände statt. Beratung zeichnete sich aus in einer hohen fachlichen Kompetenz, die wissenschaftliche und forschende Orientierung schien zweitrangig. Mit dem Zusammenschluss von 30 Fachverbänden 2004 zur Deutschen Ge- sellschaft für Beratung (DGfB) wurden gemeinsame Standards für Beratung diskutiert und festgelegt (vgl. www.dachverband-beratung.de). Auf verschiedenen Fachtagungen der DGfB und ihrer Mitgliedsverbände wurden und werden die Theoriegrundlagen von Beratung vertieft und die wissenschaftliche Fundierung vorangetrieben. In der Theoriebildung von Beratung"
+      },
+      {
+        "rank": 3,
+        "id": "3efc3e9aad03e762bf494714a25dee4a9ade17ce0707905798c19ec9e868cf20",
+        "score": 0.9929163455963135,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7479,
+          "_split_overlap": [
+            {
+              "doc_id": "94712b697e5472f1e4fba687e7128619814980d4953a2a5020f9b9a1d506ab96",
+              "range": [
+                1285,
+                1710
+              ]
+            },
+            {
+              "doc_id": "0e64858164cc7de689aef10f5784da2e30e1023ece43f87fbb3d66668ad9c86f",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Seel (2014, S. 30) reflektiert diese Entwicklung kritisch, indem er Beratung als auf dem Weg zu einer »Individualisierungsagentur der Selbstoptimierung« bezeichnet. Es stellt sich hier die Frage, wie Bera­ tung die individuelle Entscheidungs- und Handlungsfähigkeit unterstützen und gleichzeitig einer möglichen Individualisierung von sozialstrukturel­ len Rahmenbedingungen entgegenwirken kann. Für Schrödter (2014, S. 811) folgt daraus notwendigerweise ein »dezidierter gesellschaftlicher Werte­ bezug und Auftrag« der Beratung. Dieser wirkt sich über die Elemente der Professionalität, Institution und des Gesellschaftsbezugs auf die Beratungs­ praxis aus und bildet die widersprüchliche Basis für eine spezifische Sinn­ welt, welche gleichzeitig die relevanten Orientierungen für das professionel­ le Handeln bietet (vgl. ebd.). Voraussetzung hierfür ist ein entsprechendes Selbstverständnis in der Beratung, welches eine Abgrenzung von externen Erwartungen und Anfor­ derungen ermöglicht. Die He"
+      },
+      {
+        "rank": 4,
+        "id": "d43eeef595cd4a6d450f7ff3ba536f39aa7c5f3b0a0d0f3679f122b1d8a5151d",
+        "score": 0.9879598617553711,
+        "meta": {
+          "file_path": "9783847412304_chapter_0943.txt",
+          "source_id": "dbda7f71567792617bfdcb34e360807c55197a748dd43ff8e925708721db553d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3814,
+          "_split_overlap": [
+            {
+              "doc_id": "8d6e087e6b60a138feb66b0ad02df9636e867e4a3448ca246908f44d93f3fc79",
+              "range": [
+                1278,
+                1705
+              ]
+            },
+            {
+              "doc_id": "115e2e9f2ca3b29a8e4a817e84710edc63163b8996cb37977335c1204fc1ab0a",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "eines überinstitutionellen Selbstverständnisses und von Zielsetzungen im Feld der Bildungs- und Berufsberatung, welche aufgrund der heterogenen Angebotsstruktur nicht selbstverständlich sind. Seel (2013) beschreibt die Entwicklung einer anerkannten gesellschaftlichen Rolle und Position von Beratung als eines der größten Problemfelder in der Professionalisierung von Beratung. Eine Profession setzt demnach auch die Übernahme von gesellschaftlichen Aufgaben voraus (vgl. ebd.: 1653). Der Bildungsberatungs-Radar ermöglicht eine gesellschaftliche Positionierung, indem er über die individuelle Ebene zur Unterstützung der Handlungs- und Entscheidungsfähigkeit hinausgeht und stattdessen die gesellschaftlichen und strukturellen Bedingungen von Beratung fokussiert. Dieser kritische Ansatz entspricht der Zielsetzung der Aktionsforschung, konkrete Veränderungen in der Praxis zu bewirken (vgl. Bortz/Döring 2003: 345). Die Erfahrungen aus dem Pilotprojekt zeigen, dass damit jedoch auch neue Aufgaben "
+      },
+      {
+        "rank": 5,
+        "id": "be57cd67724e0f18c276451c44e5879f9fdc6776e7e558763581b0077252ad2c",
+        "score": 0.9873397350311279,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1231,
+          "_split_overlap": [
+            {
+              "doc_id": "99d169c9ff6dec198b5662cb107ea2b1f7bb04fef648cce8e5c9f4ae985d4073",
+              "range": [
+                1231,
+                1669
+              ]
+            },
+            {
+              "doc_id": "75a045a93887d624418c9c93502d889168c7ef1e5e847c43c0d5ac6624711517",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "allem auf die Professionalisierung im Feld der Beratung lenken (vgl. Käpplinger/Maier-Gutheil 2015). Entsprechende Versuche, die Wissenschaft der Beratung weiterzuentwickeln, haben nicht nur die Einrichtung entsprechender Studiengänge zur Folge, sondern befördern insbesondere Fragen nach der Qualität von Beratung (vgl. Schiersmann/Weber 2013), den Möglichkeiten und Bedingungen, Beratungskompetenzen zu entwickeln (vgl. Weinhardt 2015; Weinhardt 2018) sowie den Wirkfaktoren im Kontext von Beratungsinteraktionen (vgl. Schiersmann/Maier-Gutheil/Weber 2016). Diese Entwicklungen stehen im paradigmatischen Kontext des Lebenslangen Lernens wodurch Beratung in modernen Gesellschaften in unterschiedlicher Weise bedeutsam wird. Seitens gesellschaftspolitischer Akteure wird Beratung einerseits als Steuerungsinstrument eingesetzt, etwa im Zusammenhang mit neoliberalen Entwicklungen (z.B. wenn Beratung ein verpflichtendes Element bei der Vergabe öffentlicher Fördergelder darstellt). Andererseits gib"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_081.txt",
+    "question": "Wie unterscheidet sich die historische Entwicklung der Beratung in Deutschland von der akademischen Entwicklung des Counselings in England und Amerika?",
+    "answer": "Die historische Entwicklung der Beratung in Deutschland war durch eine starke Verbindung zu therapeutischen Konzepten geprägt, während das Counseling in England und Amerika sich stärker auf die akademische Ausbildung konzentrierte. In Deutschland wurde Beratung zunächst als \"kleine Therapie\" in die therapeutische Palette einbezogen, während in England und Amerika das Counseling als eigenständige akademische Disziplin entwickelt wurde. Die Gründung der Deutschen Gesellschaft für Beratung (DGfB) im Jahr 2004 markiert einen wichtigen Meilenstein in der Professionalisierung von Beratung in Deutschland. Im Gegensatz dazu entwickelte sich das Counseling in England und Amerika bereits in den 1950er und 1960er Jahren zu einer eigenständigen akademischen Disziplin. Die Entwicklung des Counselings in England und Amerika wurde durch die Gründung von Institutionen wie der British Association for Counselling and Psychotherapy (BACP) und der American Counseling Association (ACA) vorangetrieben. In Deutschland hingegen wurde die Beratung zunächst von therapeutischen Fachverbänden wie der Deutschen Gesellschaft für Psychologie (DGPs) und der Deutschen Gesellschaft für Psychiatrie, Psychotherapie und Nervenheilkunde (DGPPN) geprägt. Erst in den 2000er Jahren begann die Beratung in Deutschland sich als eigenständige akademische Disziplin zu etablieren. Die DGfB hat sich als wichtige Institution für die Professionalisierung von Beratung in Deutschland etabliert und setzt sich für die Entwicklung von Standards in der Aus- und Weiterbildung von Beratern ein. Insgesamt zeigt sich, dass die historische Entwicklung der Beratung in Deutschland von der akademischen Entwicklung des Counselings in England und Amerika abwich. Während das Counseling in England und Amerika als eigenständige akademische Disziplin entwickelt wurde, war die Beratung in Deutschland zunächst stark von therapeutischen Konzepten geprägt. Erst in den 2000er Jahren begann die Beratung in Deutschland sich als eigenständige akademische Disziplin zu etablieren. \n        I cannot find the answer in the provided context.",
+    "expected": "In Deutschland fand das Lernen von Beratung lange Zeit hauptsächlich in Weiterbildungsinstituten von Fachverbänden statt, mit Fokus auf fachlicher Kompetenz, während in England und Amerika das Counseling vorwiegend an Hochschulen mit akademischem Abschluss etabliert wurde.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+        "score": 0.9811099767684937,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4989,
+          "_split_overlap": [
+            {
+              "doc_id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+              "range": [
+                1219,
+                1610
+              ]
+            },
+            {
+              "doc_id": "9773318ba0f94cbb80c7056bcb32bb18f89c2eb28789979a61dd416f5e0463f9",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "sind keineswegs einheitlich. Zu der neuen Entwicklung der Professionalisierung von Beratung gehört die Gründung der Deutschen Gesellschaft für Beratung (2004) als wichtiger Meilenstein. Die Arbeitsgruppe ‚Standards‘ der DGfB hat eine Synopse der Beraterquali- fikationen in der Aus- und Weiterbildung ihrer Mitgliedsverbände erstellt und im November 2007 veröffentlicht. Diese Tatsache kann als Beitrag des Professionalisierungsbemühens aller Mitgliedsverbände gedeutet werden. Ebenfalls ist es kein Zufall, dass sich die Hochschullehrer und Hochschulleh- rerinnen zeitgleich mit der Gründung der DGfB im VHBC zusammengeschlossen haben. In der VHBC (Vereinigung der Hochschullehrer zur Förderung von Beratung und Counselling) haben sich Professorinnen und Professoren zwecks ihrem Akademisierungsinteresse zusammengefunden; sie bieten in ihren Hochschu- len Masterprogramme in Counseling mit verschiedenen Akzenten an. Der Kreis erweitert sich um die, die im Rahmen des Bologna-Prozesses (Interna- ti"
+      },
+      {
+        "rank": 2,
+        "id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+        "score": 0.974274754524231,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1215,
+          "_split_overlap": [
+            {
+              "doc_id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+              "range": [
+                1215,
+                1681
+              ]
+            },
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Amerika formierte sich in den vergangenen Jahrzehnten vorwiegend an den Hochschulen und in deren unterschiedlichsten Studien- gängen das Counseling mit akademischem Abschluss.Hierzulande zeigten sich die psychosozialen Beratungsanbieter eher den therapieabgeleiteten Konzepten verbunden. Verschiedene Therapiefachver- bände platzierten Beratung als ‚kleine Therapie‘ in ihrer Angebotspalette, mittlerweile kommen Mediation, Coaching, Organisationsberatung etc. hin- zu. Viele psychosoziale, pflegerische und pädagogische Berufe schälen den hohen Anteil von Beratung deutlicher aus ihrer Tätigkeit heraus. Die Teil- kompetenz ‚Beratung‘ wird deutlicher markiert und hervorgehoben. Mit den AG-Beratungswesen – dem Vorläufer der 2004 gegründeten Deut- schen Gesellschaft für Beratung (DGfB) - werden eigene neue Profilbildungen von Beratung möglich (www.dachverband-beratung.de). Die DGfB hat sich eine psychosoziale Plattform hinsichtlich ihrer Beratungs- verständnisses gegeben. Diese benennt als Fach"
+      },
+      {
+        "rank": 3,
+        "id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+        "score": 0.974007248878479,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3770,
+          "_split_overlap": [
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                1285,
+                1704
+              ]
+            },
+            {
+              "doc_id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "Zielvereinbarungen voraus. Beratung grenzt sich von anderen professionellen Interventionsformen ab. Beispiele sind: Die Informationsvermittlung in der Medizin, das Case Management in der Sozialen Arbeit oder handlungsanleitende Beratung bei der Gewährung von materiellen Leistungen in der Sozialhilfe, die Rechtsberatung und Psycho- therapie (heilkundliche Behandlungen entsprechend PsychThG und HPG). Abhängig von den zu bewältigenden Anforderungen, Problemlagen und Krisensituationen, in denen sich die Ratsuchenden befinden, kann Beratung Ressourcen aktivieren, gesund- heitsfördernd, präventiv, kurativ oder rehabilitativ sein“ (DGfB 9/2004:7 ff). In der BRD wurde 2004 die ‚DGfB – Deutsche Gesellschaft für Beratung, German Association for Counseling‘ gegründet. In ihr ringen mehr als 30 Fachverbände um ein gemeinsames Beratungsverständnis, um Standards der Weiterbildung in Beratung und um das psychosoziale Profil von Beratung. Viele therapieschulenbezogene Anbieter von Weiterbildung in Ber"
+      },
+      {
+        "rank": 4,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.9732421636581421,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 5,
+        "id": "f92ab10d4ad705281e9ab8279b5f592d16d16edbc2882eb04e7ca1052e8e6ea4",
+        "score": 0.9563344120979309,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2425,
+          "_split_overlap": [
+            {
+              "doc_id": "b8deb9bc1dfb9987119ba30859b7245a65c5a6855c3e1f5c2061728eb248b9ca",
+              "range": [
+                1270,
+                1700
+              ]
+            },
+            {
+              "doc_id": "cd34bb418f9dfdb999336624dc254d9841795dea44fca00e116f41550d18b5ed",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "Beratung ist keine Geschichte der Durchset­ zung des hermeneutischen Verstehens in der Pädagogik und der Überwindung autoritärer Strukturen. Vielmehr hat sie sich äußerst polarisiert entwickelt. De­ mokratischen Bewegungen und ihren Angeboten standen Beratungsverständ­ nisse mit deutlichem Ordnungscharakter, mit ideologischem Hintergrund und ausgeprägten Professionalisierungsinteressen insbesondere von Ärzten und spä­ ter von der aufsteigenden Profession Psychologie gegenüber.“ (Gröning 2011: 21) Bis ein Beratungsangebot institutionalisiert wird, bedarf es gesellschaftli­ cher Interessen, in einer bestimmten Weise auf Individuen, die die Beratung aufsuchen (sollen), einzuwirken, da die Institutionalisierung immer mit der Verwendung gesellschaftlicher Ressourcen, in diesem Fall kommunaler Fi­ nanzmittel verbunden ist. „Bleibt man in der ärztlichen und psychologischen Tradition von Beratung, so wird derjenige oder diejenige beraten, die nicht nur einen inneren Leidensdruck, sondern auch "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_081.txt",
+    "question": "Welche Rolle spielt das psychosoziale Beratungsverständnis der DGfB in Bezug auf die Bandbreite der Beratungsfelder und deren gesellschaftliche Bezüge?",
+    "answer": "Die Deutsche Gesellschaft für Beratung (DGfB) hat sich ein psychosoziales Beratungsverständnis gegeben, das sich auf eine therapiebegleitete Grundlage bezieht und sich mit unterschiedlichen Entwicklungsaufbauten und multifaktoriell bestimmten Problem- und Konfliktsituationen in verschiedenen Bereichen wie Erziehung und Bildung, Sozial- und Gemeinwesen, Arbeit und Beruf, Wohnen und Freizeit, Gesundheit und Wohlbefinden, Ökologie und Technik, Pflege und Rehabilitation, Ökonomie und Politik sowie des Rechts beschäftigt. Dieses Verständnis betont die Bedeutung der Aktivierung von Ressourcen, der Gesundheitsförderung, der Prävention, der Kurativa und der Rehabilitation. Die DGfB hat auch eine Synopse der Beraterqualifikationen in der Aus- und Weiterbildung ihrer Mitgliedsverbände erstellt, um Standards für die Professionalisierung von Beratung zu etablieren. Die DGfB betont die Bedeutung der Beratung in verschiedenen Berufsgruppen wie der Sozialen Arbeit, der Pädagogik und der Pflege und sieht die Beratung als eine wichtige Kompetenz für die Bewältigung von Problemen und Konflikten in verschiedenen Lebensbereichen an. Die DGfB betont auch die Bedeutung der Weiterbildung und Fortbildung von Beratern, um ihre Kompetenzen zu erweitern und zu vertiefen. Die DGfB hat sich als Plattform für die Entwicklung von Beratungsstandards und -qualifikationen etabliert und arbeitet an der Etablierung von Standards für die Beratung in verschiedenen Bereichen. Die DGfB betont die Bedeutung der Beratung in der Gesellschaft und sieht sie als eine wichtige Ressource für die Bewältigung von Problemen und Konflikten an. Die DGfB hat auch eine starke Ausrichtung auf die Beratung in verschiedenen Berufsgruppen wie der Sozialen Arbeit, der Pädagogik und der Pflege und sieht die Beratung als eine wichtige Kompetenz für die Bewältigung von Problemen und Konflikten in verschiedenen Lebensbereichen an. Die DGfB betont auch die Bedeut",
+    "expected": "Das psychosoziale Beratungsverständnis der DGfB sieht Beratung als Tätigkeit, die sich auf Personen, Gruppen und Organisationen bezieht und auf therapiebegleitender Grundlage unterschiedliche Entwicklungs- und Problemkonstellationen in Bereichen wie Bildung, Sozialwesen, Arbeit, Gesundheit, Ökologie, Pflege, Ökonomie und Recht bearbeitet, wie sie in Sozialgesetzen formuliert sind.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+        "score": 0.9573618173599243,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3770,
+          "_split_overlap": [
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                1285,
+                1704
+              ]
+            },
+            {
+              "doc_id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "Zielvereinbarungen voraus. Beratung grenzt sich von anderen professionellen Interventionsformen ab. Beispiele sind: Die Informationsvermittlung in der Medizin, das Case Management in der Sozialen Arbeit oder handlungsanleitende Beratung bei der Gewährung von materiellen Leistungen in der Sozialhilfe, die Rechtsberatung und Psycho- therapie (heilkundliche Behandlungen entsprechend PsychThG und HPG). Abhängig von den zu bewältigenden Anforderungen, Problemlagen und Krisensituationen, in denen sich die Ratsuchenden befinden, kann Beratung Ressourcen aktivieren, gesund- heitsfördernd, präventiv, kurativ oder rehabilitativ sein“ (DGfB 9/2004:7 ff). In der BRD wurde 2004 die ‚DGfB – Deutsche Gesellschaft für Beratung, German Association for Counseling‘ gegründet. In ihr ringen mehr als 30 Fachverbände um ein gemeinsames Beratungsverständnis, um Standards der Weiterbildung in Beratung und um das psychosoziale Profil von Beratung. Viele therapieschulenbezogene Anbieter von Weiterbildung in Ber"
+      },
+      {
+        "rank": 2,
+        "id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+        "score": 0.9432480931282043,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1215,
+          "_split_overlap": [
+            {
+              "doc_id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+              "range": [
+                1215,
+                1681
+              ]
+            },
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Amerika formierte sich in den vergangenen Jahrzehnten vorwiegend an den Hochschulen und in deren unterschiedlichsten Studien- gängen das Counseling mit akademischem Abschluss.Hierzulande zeigten sich die psychosozialen Beratungsanbieter eher den therapieabgeleiteten Konzepten verbunden. Verschiedene Therapiefachver- bände platzierten Beratung als ‚kleine Therapie‘ in ihrer Angebotspalette, mittlerweile kommen Mediation, Coaching, Organisationsberatung etc. hin- zu. Viele psychosoziale, pflegerische und pädagogische Berufe schälen den hohen Anteil von Beratung deutlicher aus ihrer Tätigkeit heraus. Die Teil- kompetenz ‚Beratung‘ wird deutlicher markiert und hervorgehoben. Mit den AG-Beratungswesen – dem Vorläufer der 2004 gegründeten Deut- schen Gesellschaft für Beratung (DGfB) - werden eigene neue Profilbildungen von Beratung möglich (www.dachverband-beratung.de). Die DGfB hat sich eine psychosoziale Plattform hinsichtlich ihrer Beratungs- verständnisses gegeben. Diese benennt als Fach"
+      },
+      {
+        "rank": 3,
+        "id": "ec131a5cc26b5ec6306b8788f81096b1cec076c0438cea9a37d5d4147bd3bc61",
+        "score": 0.942616879940033,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8309,
+          "_split_overlap": [
+            {
+              "doc_id": "3a326282a00e4f45589edb2ce7ba312a3d6263091f419fa41b690d7a0b8b1d4f",
+              "range": [
+                1135,
+                1496
+              ]
+            },
+            {
+              "doc_id": "b3d056f33b1c933090245450913d5955b8ad24f0e3023a043326523b6dee2f58",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "3. Die kurative/heilende Rolle – die in größter Nähe zur klinisch - psycho- therapeutischen Funktion liegt, richtet sich auf die Unterstützung von Individuen und Gruppen Probleme zu bewältigen, Störungen welcher Art auch immer zu beseitigen, Schädigungen und Verletzungen zu kurieren und Defizite zu kompensieren. Als vereinheitlichende Merkmale und Themen als Charakteristika für die Entwicklung von Beratung sehen sie fünf verschiedene Aufgaben: 1. Beratung fokussiert die Stärken, Potentiale und Ressourcen von Perso- nen und sozialen Umwelten und orientiert sich auf positive Anteile psychischer Gesundheit der Klientinnen, unabhängig von Ausmaß und von der Intensität der anliegenden Problemstellungen und Störungen. Bereits Donald E. SUPER, einer der Klassiker der Beratungstheorie, be- tont 1955 den Vorrang der Gesundheitsperspektive vor der Pathologie. Auch schwerstgestörte Personen verfügen über Restressourcen und Kräf- te sowie Coping-Potentiale, an denen es anzuknüpfen gilt. Beratungsp"
+      },
+      {
+        "rank": 4,
+        "id": "066702f4a4d59f8e8000396128470f897652a9c2b1b61c42d613c0c6f1e937c7",
+        "score": 0.9103686213493347,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1268,
+          "_split_overlap": [
+            {
+              "doc_id": "04c6a3ae970ae25bc25e4917b6f6085b388c478cb224b223d3009e450356d800",
+              "range": [
+                1268,
+                1759
+              ]
+            },
+            {
+              "doc_id": "9bc201a3a1e808ce769c4f874ef1c3585e2dabae87ee5c3285494b130180e301",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Form psychosozialer Beratung auch einen Sonderfall unter den pädaggischen Handlungsformen. Ihre Professionalisierungsgeschichte basiert in wesentlichen Teilen auf aufwendigen, aus der Psychotherapie entliehenen methodischen Konzepten, die für die Verwendung in wohlfahrtsstaatlichen Angeboten kompexitätsanreichernd weiterentwickelt und pädagogisiert wurden (Weinhardt 2016b). Dies war für die Form von Professionalisierungsprozessen psychosozialer Beratungsfachkräfte nicht folgenlos, denn das Resultat ist eine spezifische Form zweiphasiger Professionalisierung als Notwendigkeit, solche komplexen Handlungskompetenzen zu erwerben, wobei sich in der Regel das von der Expertiseforschung bekannte 10-Jahres-Fenster auch strukturell abgebildet hat: Nach einem in der Regel umfangreichen Diplomstudium schloss sich eine erste Phase der Berufstätigkeit an, nach der die eigentliche Spezialisierung und Professionalisierung hinsichtlich Beratung erst beginnt, nämlich eine zeitaufwendige mehrjährige Wei"
+      },
+      {
+        "rank": 5,
+        "id": "0dd600c8aec893c4149a9564000b696d069fe88729b04052da24a7ebd01700a2",
+        "score": 0.8030332922935486,
+        "meta": {
+          "file_path": "9783847412304_chapter_0921.txt",
+          "source_id": "f90174bb7d7b7e8a8ac1b35aa825231c52929db20414875a75b32f781ba09501",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1291,
+          "_split_overlap": [
+            {
+              "doc_id": "40fe9ff0e265049602a127eb87a128c080a8ee655d8b37fdd5fe60f7708f3d82",
+              "range": [
+                1291,
+                1760
+              ]
+            },
+            {
+              "doc_id": "5a75b06383ceb343e2385d92aab26b1b6a5d158344a9ead2bc146a80cd66b9b1",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "ausgeprägte Reflexions-, Orientierungs- und Entscheidungsfähigkeiten verlangt. Beispiele einer so verstandenen psychosozialen Beratung im Rahmen wohlfahrtsstaatlicher Daseinsvorsorge sind die allgemeine Jugend-, Familien- und Lebensberatung, aber auch die Sucht- oder Schwangerschaftskonfliktberatung oder Beratung im Kontext von Inklusion. Wesentliche Kernelemente von Beratung sind hier das reflexive Bilanzieren, das antizipierte oder realisierte Probehandeln sowie die Erlangung kognitiver und emotionaler Stabilität (Nestmann und Sickendiek 2011). Eine solche Form psychosozialer Beratung erfordert auf Seiten der sozialpädagogischen Fachkräfte eine spezifische Beratungskompetenz (Bauer und Weinhardt; Weinhardt 2015), deren Erwerb im Zuge der Einführung der gestuften und auf unmittelbare Berufsbefähigung hin formierten Bologna-Studiengänge neu hinterfragt werden kann. Dem vorliegenden Beitrag liegt hier die These zugrunde, dass ein gelingender Kompetenzerwerb bereits im Studium, das im Fa"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_081.txt",
+    "question": "Inwiefern haben sich in Deutschland psychosoziale und andere berufliche Felder hinsichtlich der Beratungskompetenz verändert und ausgeprägt?",
+    "answer": "Die psychosozialen und pädagogischen Berufe haben sich in Deutschland hinsichtlich der Beratungskompetenz verändert und ausgeprägt, indem sie Beratung als Teil ihrer Tätigkeit hervorgehoben haben und eigene Beratungsverständnisse und Standards entwickelt haben. Viele Therapiefachverbände haben Beratung als \"kleine Therapie\" in ihrer Angebotspalette platziert und haben eigene Beratungstheorien entwickelt, wie die klientenzentrierte oder systemische Beratung. Die Deutsche Gesellschaft für Beratung (DGfB) hat sich als Plattform für die Beratungskompetenz etabliert und hat Standards für die Beratungsausbildung entwickelt. Die psychosozialen Beratungsanbieter haben sich von den therapieabgeleiteten Konzepten abgekoppelt und haben eigene Beratungsansätze entwickelt, wie die personenzentrierte Beratung. Die Bildungs- und Berufsberatung haben sich auf die personenzentrierte Beratung als häufigsten Ansatz orientiert, aber auch andere Beratungsansätze wie die klientenzentrierte oder systemische Beratung werden eingesetzt. Die Beratungskompetenz wird in den psychosozialen und pädagogischen Berufen als wichtige Kompetenz angesehen und wird in den Aus- und Weiterbildungskonzepten betont. Die Beratung wird als eigenständige Profession anerkannt und wird in den verschiedenen Berufen und Fachverbänden unterschiedlich ausgeprägt. Die Beratungskompetenz wird auch als wichtiger Aspekt der Professionalisierung der psychosozialen und pädagogischen Berufe angesehen.",
+    "expected": "Viele psychosoziale, pflegerische und pädagogische Berufe haben den hohen Anteil an Beratung in ihren Tätigkeiten klarer herausgearbeitet und die Beratung als Teilkompetenz deutlicher markiert und hervorgehoben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+        "score": 0.9653617143630981,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3770,
+          "_split_overlap": [
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                1285,
+                1704
+              ]
+            },
+            {
+              "doc_id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "Zielvereinbarungen voraus. Beratung grenzt sich von anderen professionellen Interventionsformen ab. Beispiele sind: Die Informationsvermittlung in der Medizin, das Case Management in der Sozialen Arbeit oder handlungsanleitende Beratung bei der Gewährung von materiellen Leistungen in der Sozialhilfe, die Rechtsberatung und Psycho- therapie (heilkundliche Behandlungen entsprechend PsychThG und HPG). Abhängig von den zu bewältigenden Anforderungen, Problemlagen und Krisensituationen, in denen sich die Ratsuchenden befinden, kann Beratung Ressourcen aktivieren, gesund- heitsfördernd, präventiv, kurativ oder rehabilitativ sein“ (DGfB 9/2004:7 ff). In der BRD wurde 2004 die ‚DGfB – Deutsche Gesellschaft für Beratung, German Association for Counseling‘ gegründet. In ihr ringen mehr als 30 Fachverbände um ein gemeinsames Beratungsverständnis, um Standards der Weiterbildung in Beratung und um das psychosoziale Profil von Beratung. Viele therapieschulenbezogene Anbieter von Weiterbildung in Ber"
+      },
+      {
+        "rank": 2,
+        "id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+        "score": 0.9369015693664551,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1215,
+          "_split_overlap": [
+            {
+              "doc_id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+              "range": [
+                1215,
+                1681
+              ]
+            },
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Amerika formierte sich in den vergangenen Jahrzehnten vorwiegend an den Hochschulen und in deren unterschiedlichsten Studien- gängen das Counseling mit akademischem Abschluss.Hierzulande zeigten sich die psychosozialen Beratungsanbieter eher den therapieabgeleiteten Konzepten verbunden. Verschiedene Therapiefachver- bände platzierten Beratung als ‚kleine Therapie‘ in ihrer Angebotspalette, mittlerweile kommen Mediation, Coaching, Organisationsberatung etc. hin- zu. Viele psychosoziale, pflegerische und pädagogische Berufe schälen den hohen Anteil von Beratung deutlicher aus ihrer Tätigkeit heraus. Die Teil- kompetenz ‚Beratung‘ wird deutlicher markiert und hervorgehoben. Mit den AG-Beratungswesen – dem Vorläufer der 2004 gegründeten Deut- schen Gesellschaft für Beratung (DGfB) - werden eigene neue Profilbildungen von Beratung möglich (www.dachverband-beratung.de). Die DGfB hat sich eine psychosoziale Plattform hinsichtlich ihrer Beratungs- verständnisses gegeben. Diese benennt als Fach"
+      },
+      {
+        "rank": 3,
+        "id": "066702f4a4d59f8e8000396128470f897652a9c2b1b61c42d613c0c6f1e937c7",
+        "score": 0.8596007227897644,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1268,
+          "_split_overlap": [
+            {
+              "doc_id": "04c6a3ae970ae25bc25e4917b6f6085b388c478cb224b223d3009e450356d800",
+              "range": [
+                1268,
+                1759
+              ]
+            },
+            {
+              "doc_id": "9bc201a3a1e808ce769c4f874ef1c3585e2dabae87ee5c3285494b130180e301",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Form psychosozialer Beratung auch einen Sonderfall unter den pädaggischen Handlungsformen. Ihre Professionalisierungsgeschichte basiert in wesentlichen Teilen auf aufwendigen, aus der Psychotherapie entliehenen methodischen Konzepten, die für die Verwendung in wohlfahrtsstaatlichen Angeboten kompexitätsanreichernd weiterentwickelt und pädagogisiert wurden (Weinhardt 2016b). Dies war für die Form von Professionalisierungsprozessen psychosozialer Beratungsfachkräfte nicht folgenlos, denn das Resultat ist eine spezifische Form zweiphasiger Professionalisierung als Notwendigkeit, solche komplexen Handlungskompetenzen zu erwerben, wobei sich in der Regel das von der Expertiseforschung bekannte 10-Jahres-Fenster auch strukturell abgebildet hat: Nach einem in der Regel umfangreichen Diplomstudium schloss sich eine erste Phase der Berufstätigkeit an, nach der die eigentliche Spezialisierung und Professionalisierung hinsichtlich Beratung erst beginnt, nämlich eine zeitaufwendige mehrjährige Wei"
+      },
+      {
+        "rank": 4,
+        "id": "d0c170a085f253b9f5bb2bbe434c9c433a1bb09b422d2d309bd116a47def3edc",
+        "score": 0.8587496876716614,
+        "meta": {
+          "file_path": "9783839444856_chapter_0512.txt",
+          "source_id": "599c7475f34d1fbb18ad5518a30249aaa9a89e1ed3736b6f7e65506a45804434",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6170,
+          "_split_overlap": [
+            {
+              "doc_id": "7519b92179be04b37d6eb6e9b596fc2b165dae32e212d6688e71eab916d54f10",
+              "range": [
+                1277,
+                1651
+              ]
+            },
+            {
+              "doc_id": "80e233e473eeac7d40359780ab81124128fae72aa3fb4df8892bf8f88feefa5b",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "Studie zu den in der Bildungs- und Berufsberatung verwen­ deten Beratungsansätzen in Deutschland fest, dass die Berater_innen sich nach eigener Einschätzung am häufigsten an dem personenzentrierten An­ satz orientieren. Der vielfache Rückgriff kann zwar sicherlich auch in Zu­ sammenhang mit dessen großen Bekanntheitsgrad im pädagogischen Be­ reich gesehen werden, dennoch ist die damit verbundene Beratungshaltung zu einem charakteristischen Merkmal eines pädagogischen Beratungsver­ ständnisses geworden. Gleichzeitig findet durch diese Orientierung an Rogers jedoch auch eine Übernahme von psychologisch geprägten Beratungsansätzen statt. Diese ermöglichen für die Berater_innen eine Form der »Handlungssicherheit« durch den Einsatz methodisch begründeter Interventionstechniken und zu­ dem anerkannter und spezialisierter Beratungsausbildungen. Auch wenn diese Ansätze und Techniken sicherlich einen wertvollen Beitrag zur Bera­ tungsqualität leisten, zeigt sich die fehlende Gegenstandsadäquath"
+      },
+      {
+        "rank": 5,
+        "id": "989458708aeebbd22caf89a6a02a1761f057130fcf50f79134bb4e087d9e120e",
+        "score": 0.8397772312164307,
+        "meta": {
+          "file_path": "9783847412304_chapter_1025.txt",
+          "source_id": "70aa7966e3d775f04bd6de49c8126877cc448ecb0e98e869e17ac985c7317d40",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "bf3d9bc93b525ea9e4b637c5dadd37d874942ff6ca1393db88e3a66ffd5e29be",
+              "range": [
+                0,
+                355
+              ]
+            }
+          ]
+        },
+        "content": "5. Diskussion und Ausblick\nAuf Grundlage der drei exemplarischen Interviews konnten zwei Themenbereiche identifiziert werden, die mit dem Thema Beratung im FSJ in Zusammenhang stehen. (a) Alle drei Interviewten treffen Aussagen zu „psychischen und psychosozialen Problemlagen“, wobei der beschriebene Umgang mit diesen variiert. Inwieweit Freiwillige mit psychischen und/oder psychosozialen Problemlagen von den pädagogisch Tätigen selbst beraten werden sollten oder nicht wird unterschiedlich eingeschätzt. Über diese differierende Beurteilung hinaus kann an dieser Stelle festhalten werden, dass die drei Interviewten grundlegend ein sehr ähnliches Phänomen im FSJ wahrnehmen. Bildungsreferent*innen werden nach den hier analysierten Aussagen vor die beraterische Herausforderung gestellt, mit Teilnehmenden umgehen zu müssen, die in der einen oder anderen Form psychosoziale und/oder psychische Belastungen mitbringen. Auch die Entscheidung für einen Ausschluss bzw. für eine Weiterverweisung dies"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_081.txt",
+    "question": "Welche Bedeutung hatte der Zusammenschluss von 30 Fachverbänden zur DGfB für die Profilbildung und Wissenschaftlichkeit der Beratungswissenschaft in Deutschland?",
+    "answer": "Der Zusammenschluss von 30 Fachverbänden zur DGfB hatte eine erhebliche Bedeutung für die Profilbildung und Wissenschaftlichkeit der Beratungswissenschaft in Deutschland. Er führte zu gemeinsamen Standards für Beratung, die Diskussion und Festlegung dieser Standards und die Vertiefung der Theoriegrundlagen von Beratung. Dieser Zusammenschluss ermöglichte die wissenschaftliche Fundierung von Beratung und trug dazu bei, dass Beratung als eigenständige Wissenschaft anerkannt wird. Er ermöglichte auch die Entwicklung von Beratung als Profession und die Anerkennung von Beratung als eigenständige Disziplin in Deutschland.",
+    "expected": "Der Zusammenschluss ermöglichte die Entwicklung gemeinsamer Standards, förderte die Vertiefung von Theoriegrundlagen und die wissenschaftliche Fundierung der Beratung und schuf eine Plattform für neue Profilbildungen im Bereich Beratung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+        "score": 0.8238580226898193,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4989,
+          "_split_overlap": [
+            {
+              "doc_id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+              "range": [
+                1219,
+                1610
+              ]
+            },
+            {
+              "doc_id": "9773318ba0f94cbb80c7056bcb32bb18f89c2eb28789979a61dd416f5e0463f9",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "sind keineswegs einheitlich. Zu der neuen Entwicklung der Professionalisierung von Beratung gehört die Gründung der Deutschen Gesellschaft für Beratung (2004) als wichtiger Meilenstein. Die Arbeitsgruppe ‚Standards‘ der DGfB hat eine Synopse der Beraterquali- fikationen in der Aus- und Weiterbildung ihrer Mitgliedsverbände erstellt und im November 2007 veröffentlicht. Diese Tatsache kann als Beitrag des Professionalisierungsbemühens aller Mitgliedsverbände gedeutet werden. Ebenfalls ist es kein Zufall, dass sich die Hochschullehrer und Hochschulleh- rerinnen zeitgleich mit der Gründung der DGfB im VHBC zusammengeschlossen haben. In der VHBC (Vereinigung der Hochschullehrer zur Förderung von Beratung und Counselling) haben sich Professorinnen und Professoren zwecks ihrem Akademisierungsinteresse zusammengefunden; sie bieten in ihren Hochschu- len Masterprogramme in Counseling mit verschiedenen Akzenten an. Der Kreis erweitert sich um die, die im Rahmen des Bologna-Prozesses (Interna- ti"
+      },
+      {
+        "rank": 2,
+        "id": "3d2318fa8f84c4d43542e5ab732322ed328f4ca68867e319b97add25374c2a6b",
+        "score": 0.7895422577857971,
+        "meta": {
+          "file_path": "1001586_chapter_064.txt",
+          "source_id": "158cdc7dca7b09aa99d8e4d52b6d1c01515c59ae600a8b885b0d6e4c559a4d75",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6702,
+          "_split_overlap": [
+            {
+              "doc_id": "6a391b406ec0a59dab2860a204d845a85551e04b371f35b08c475f39202f7325",
+              "range": [
+                1182,
+                1556
+              ]
+            },
+            {
+              "doc_id": "84ffec9ed52acb607344c2bdb975a6f582288d9b565f7793b0cdf608047f8fa1",
+              "range": [
+                0,
+                327
+              ]
+            }
+          ]
+        },
+        "content": "pädagogische Konzepte Bezug genommen haben. Ihnen gemein ist zudem die bereits genannte institutionelle Einbindung, die nach Ruth Großmaß u.a. (2007: 489f.). Auswirkungen auf die Akzeptanz und die Zuschreibung der Professionalität der Beratung hat. Das Bild der Volkshochschule, welche als eine „von den meisten Menschen nicht nur als die zentrale Weiterbildungseinrichtung wahrgenommen, sondern auch als solche genutzt wird“ (Bastian u.a. 2004: 5), wirkt dementsprechend auf die Beratung und die Wahrnehmung des Beratungsraumes zurück. „Bei einer soliden Ein­ richtung mit Niveau wird eine professionelle Beratungssituation erwartet und antizipiert“, so Horst Bockelmann. Die Bedeutung der Raumorganisation muss einerseits der Erwartungshaltung genügen, andererseits wird die Zuschrei­ bung der Professionalität der Beratung nicht allein anhand des ersten Eindru­ ckes des Beratungsraumes generiert. Einige der in der oben aufgeführten Sammlung von Aspekten, welche bei der Gestaltung von Beratungsr"
+      },
+      {
+        "rank": 3,
+        "id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+        "score": 0.5625421404838562,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+              "range": [
+                0,
+                466
+              ]
+            }
+          ]
+        },
+        "content": "4.1. Beratungswissenschaft und ihre Profilentwicklung Die Experten von Beratung und Beratungstheorieentwicklung in der BRD beziehen deutlicher Stellung, schließen sich den internationalen Bewegungen in der Akademisierung von Beratung an und entwickeln das Markenzeichen von Beratung weiter. Über viele Jahrzehnte fand das Lernen von Beratung hierzulande fast einzig in den Korridoren der Weiterbildungsinstitute aner- kannter Fachverbände statt. Beratung zeichnete sich aus in einer hohen fachlichen Kompetenz, die wissenschaftliche und forschende Orientierung schien zweitrangig. Mit dem Zusammenschluss von 30 Fachverbänden 2004 zur Deutschen Ge- sellschaft für Beratung (DGfB) wurden gemeinsame Standards für Beratung diskutiert und festgelegt (vgl. www.dachverband-beratung.de). Auf verschiedenen Fachtagungen der DGfB und ihrer Mitgliedsverbände wurden und werden die Theoriegrundlagen von Beratung vertieft und die wissenschaftliche Fundierung vorangetrieben. In der Theoriebildung von Beratung"
+      },
+      {
+        "rank": 4,
+        "id": "286104332fe5b4acdfb9042eae8dc1c88627b13bb198dffc3a36549920358286",
+        "score": 0.49694696068763733,
+        "meta": {
+          "file_path": "9783847412304_chapter_0915.txt",
+          "source_id": "a6c047f38e3ded24b49d3833c0fa0c225a5021e4ee3c240c2568321e2cea7446",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "0e282b310befee8d7bb0030acdb9ffcac5843a53795b6c885ce483a014c969e4",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "5. Fazit und Desiderate Mit dem Vorliegen des Kompetenzprofils für Beratende sowie des Verfah- rens zur Kompetenzerfassung und -beurteilung ist ein wichtiger Schritt in Richtung Stärkung der Professionalität von Beratenden im Feld Bildung, Be- ruf und Beschäftigung getan. Gleichwohl bedarf es weiterer Schritte, um das Verfahren zur Kompetenzerfassung und -beurteilung inhaltlich weiterzuent- wickeln und wissenschaftlich sowie für den Praxiseinsatz im Beratungsfeld Bildung, Beruf und Beschäftigung abzusichern. Anknüpfend an theoretische Überlegungen und praktische Erfahrungen aus den bisherigen Forschungen sollte aus unserer Sicht der Schwerpunkt der Weiterentwicklung des Verfah- rens zur Kompetenzerfassung und -beurteilung im Rahmen weiterer For- schungen vorwiegend auf den folgenden Aspekten liegen: • Entwicklung von zusätzlichen videographierten und schriftlichen Vignetten zur Kompetenzerfassung, die beratungsfeldspezifisch sind (z. B. für Berufs-, Weiterbildungs-, Laufbahnberatung), "
+      },
+      {
+        "rank": 5,
+        "id": "81978cd345a05b5a394eb49480256208050cc8b1c9ec4b4214e8a40001f9e75d",
+        "score": 0.39007121324539185,
+        "meta": {
+          "file_path": "9783839444856_chapter_0733.txt",
+          "source_id": "49b24248a218c8d45f82d86f56205210f88a633f70569e0099f3aebc522a0c69",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 14315,
+          "_split_overlap": [
+            {
+              "doc_id": "4227e9f4b72bbd998080f9c1acb4bcafa685c7304345622c58bb8a40fa837b8a",
+              "range": [
+                1136,
+                1512
+              ]
+            }
+          ]
+        },
+        "content": "gesellschaft­ lichen Wahrnehmung übereinstimmt. Die verstärkte Auseinandersetzung mit den Anforderungen der beruflichen Integration führt jedoch auch zu einer Veränderung in dem gesellschaftlichen Stellenwert und der Positio­ nierung der Beratungsstellen. »[D]as spricht sich natürlich rum in Unternehmen, dass es da top Leute gibt, die man da rauskriegt, und das ist, glaube ich, für das Bild unglaublich wich­ tig, weil wir damit irgendwie aus bestimmten Formen der Beratung, unter anderem jetzt eben der Anerkennungsberatung, aus diesem Sozialaspekt rausfallen und auf einmal irgendwie eigentlich in den Wirtschaftsbereich reingehen« (E/DE, Z. 722-727). Von den Interviewpartner_innen wird auf gesellschaftlicher Ebene einer­ seits die fehlende soziale Wertschätzung von formalen Anerkennungen thematisiert und zudem die teilweise geringe Bereitschaft von Arbeitgeber_ innen, im Ausland erworbene Qualifikationen auch anzuerkennen, wenn keine formale Anerkennung vorgesehen und möglich ist. Die ge"
+      }
+    ]
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "filename": "9783866496811_chapter_0912.txt",
+    "question": "Welche Arten von Pflegeeinrichtungen sind in die praktische Ausbildung in der Pflege eingebunden?",
+    "answer": "Die praktische Ausbildung in der Pflege umfasst stationäre und ambulante Pflegeeinrichtungen, wie zum Beispiel Kliniken, Pflegeheime und ambulante Pflegedienste.",
+    "expected": "In die praktische Ausbildung in der Pflege sind stationäre, teilstationäre und ambulante Pflegeeinrichtungen eingebunden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0f8f3ce8b91b629ef1cc5c04660c20c09f02fb102c80a8b1f65bc426e5168c78",
+        "score": 0.9930023550987244,
+        "meta": {
+          "file_path": "9783866496811_chapter_052.txt",
+          "source_id": "3d10137bee2ebbb955cd3b5bb4ee369c5e5ed363b6e31fa58b012813a6f84eeb",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1163,
+          "_split_overlap": [
+            {
+              "doc_id": "f65fd5ef529138af2ae78b9387d27844b5eda1a5b8a03b0450b5119d5ecac8e0",
+              "range": [
+                1163,
+                1575
+              ]
+            }
+          ]
+        },
+        "content": "Felder fokussiert: 1. Die Handlungspraxis der Pflegefachkraft in der praktischen Pflege 2. Die Ausbildungen in der Pflege (Krankenpflege, Altenpflege, Kin- derkrankenpflege, Hebammen) 3. Die Weiterbildung/,das Studium aller Pflegeberufe Jedes Feld hat eigene Besonderheiten, Gesetze und institutionelle Rahmun- gen. Aus diesem Grunde sind im Folgenden umfangreichere Darlegungen der gesetzlichen Bedingungen von Beratung unabdingbar."
+      },
+      {
+        "rank": 2,
+        "id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+        "score": 0.992642343044281,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2276,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                1161,
+                1602
+              ]
+            },
+            {
+              "doc_id": "b75e2f30ba5af910b6db6adf6ba5d90541eeef5190abc27a082c222e9e106704",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "beteiligt ist, zu ergänzen. Zugleich ist dem Pflegebedürftigen eine Beratung darüber anzubieten, welche Pflegeleistungen für ihn in seiner persönlichen Situation in Betracht kommen. Ferner ist der Pflegebedürftige auf die Veröffentlichung der Ergebnisse von Qualitätsprüfungen hinzuweisen. Versicherte mit erheblichem allgemeinem Betreuungsbedarf sind in gleicher Weise, insbesondere über anerkannte niedrigschwellige Betreuungsangebote, zu unterrichten und zu beraten. SGB XI, §7 Abs.3 Das Pflege-Weiterentwicklungsgesetz versucht die rechtlich zustehende pflegerische Unterstützung und Betreuung für den Pflegebedürftigen unkom- plizierter zu gestalten. Sie steigert zudem den Wettbewerb der Pflegekassen. Der Gesetzgeber verpflichtet die Pflegekassen dazu, dem Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf die folgenden Informationen zukommen zu lassen: - Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen, - wo die nächstgelegenen Pflegestützp"
+      },
+      {
+        "rank": 3,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.9763500094413757,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      },
+      {
+        "rank": 4,
+        "id": "a97d95a9202503b822bccfed42d9d0e660701297855b8a3dbaaa9f3b410706c4",
+        "score": 0.9761911630630493,
+        "meta": {
+          "file_path": "9783866496811_chapter_0932.txt",
+          "source_id": "ec4ee1aa4cdf7efd3adbefd1abbc93b4dad40d96fa9bdedb1a3c9fbe7baf0840",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3316,
+          "_split_overlap": [
+            {
+              "doc_id": "b69534f0e7fe6acd8968da393e38285977e93519343dba2d67c76676062c4431",
+              "range": [
+                1121,
+                1495
+              ]
+            },
+            {
+              "doc_id": "a175f94b8fe5a4f165f980238eed33f37f4b6cf171704f1023d854b98f8925ff",
+              "range": [
+                0,
+                331
+              ]
+            }
+          ]
+        },
+        "content": "16 Monaten befindet er sich in der Ausbildung. Er hat stationäre und ambulante Pflegeeinrichtungen (Klinik, Pflegeheim, ambulante Pflegedienste) besucht und etwa die Hälfte der theoretischen und praktischen Unterrichtsstunden gehört. Seit zwei Wochen ist er auf der geriatrischen Station einer Klinik eingesetzt. Am Ende des Einsatzes findet eine Art praktische Überprüfung mit Einschätzung seiner vorhandenen Pflegekompetenzen statt. Davor hat er einen gehörigen Respekt, denn er kommt so gar nicht mit den dementiell veränderten Pflegebedürftigen und ihren Angehörigen zurecht. Er fragt die für ihn zuständige Pflegelehrerin, ob sie mal in der Praxis vorbei kommen könnte. Er erhofft sich, dass in diesem Gespräch geklärt wird, wie er es schaffen kann, weitere Fortschritte im Lernprozess zu erwirken. Die Praxi- sanleiterin erwartet Tipps, wie sie den Lernprozess besser gestalten kann und die Lehrerin denkt an die bisherigen Erfahrungen und Rückmeldungen zum Lernprozess von Max. Sie erinnert si"
+      },
+      {
+        "rank": 5,
+        "id": "ee71426c438d77f65b1aac73409265a44e559757c6a37f908d3a5360a8578e44",
+        "score": 0.9717419147491455,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3508,
+          "_split_overlap": [
+            {
+              "doc_id": "6b34f685e86408d661c43812ca2accec6e7fd3ce74835856a69209d22df6ea38",
+              "range": [
+                1098,
+                1483
+              ]
+            },
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "dem Pflegeberater oder der Pflegeberaterin stellen. Der Antrag ist unverzüglich der zuständigen Pflege- oder Krankenkasse zu übermitteln, die den Leistungsbescheid unverzüglich dem Antragsteller und zeitgleich dem Pflegeberater oder der Pflegeberaterin zuleitet. (3) Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu bemessen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrge- nommen werden können. Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Perso- nal ein, insbesondere Pflegefachkräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen gibt der Spitzenver- band Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 20"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0912.txt",
+    "question": "Wie wird die praktische Pflegeausbildung hinsichtlich der Ausbildungsstandards überprüft?",
+    "answer": "Die praktische Pflegeausbildung wird hinsichtlich der Ausbildungsstandards überprüft, indem die Lernenden im klinischen Kontext Hilfen angeboten werden, wie sie hilfreiches Wissen mit dem pflegeberuflichen Handeln verbinden können. Lehrer und Praxisanleiter haben einen Lernort, den sogenannten ‚dritten Lernort‘, gestaltet, und die Lernenden dabei unterstützt, die erkannte Schwierigkeit besser zu bewältigen. Dies geschieht unter anderem durch die Gestaltung von Lernarrangements, die auf die spezifischen Anforderungen der beruflichen Bildung und der Pflegeausbildung abgestimmt sind. Die Autoren ziehen dabei auf die Forschungsergebnisse von Benner (1995, 2000), Nolda (1996), Sikora (2003), Wittneben (2003), Bauer et al. (2004), Seres-Hottinger/Holenstein (2004), Wöll (2004) und Kaiser (2005) zurück. Zentral ist dabei der Lernende selbst, der die Erlebnisse und Erfahrungen durchlebt und Ressourcen und Schwierigkeiten bewusst wahrnimmt. Die Lernenden sollen in der Lage sein, ihre Handlungskompetenzen zu entwickeln, um berufsrelevante Situationen mit ihren spezifischen Anforderungen besser zu bewältigen. Die Ausbildung in der Pflege soll stärker mit der Praxis vernetzt werden und Professionalisierungsstrategien frühzeitig eingeleitet werden. Hierzu wurden verschiedene Modelle in Pflegeinrichtungen erprobt, wie z.B. im Modellprojekt „Wissenstransfer in der Pflege“. Die Ausbildungsstandards werden auch durch die Beratung und Unterstützung von Lehrern und Praxisanleitern überprüft, die den Lernenden dabei helfen, ihre Schwierigkeiten besser zu bewältigen und hilfreiches Wissen mit dem pflegeberuflichen Handeln zu verbinden. Die Beratung und Unterstützung erfolgen im klinischen Kontext und sollen den Lernenden helfen, ihre Handlungskompetenzen zu entwickeln und ihre berufsrelevante Situationen besser zu",
+    "expected": "Die praktische Pflegeausbildung findet in Pflegeeinrichtungen statt, die im Rahmen eines staatlichen Anerkennungsverfahrens hinsichtlich der ausbildungsrelevanten Standards überprüft werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "0f8f3ce8b91b629ef1cc5c04660c20c09f02fb102c80a8b1f65bc426e5168c78",
+        "score": 0.9845490455627441,
+        "meta": {
+          "file_path": "9783866496811_chapter_052.txt",
+          "source_id": "3d10137bee2ebbb955cd3b5bb4ee369c5e5ed363b6e31fa58b012813a6f84eeb",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1163,
+          "_split_overlap": [
+            {
+              "doc_id": "f65fd5ef529138af2ae78b9387d27844b5eda1a5b8a03b0450b5119d5ecac8e0",
+              "range": [
+                1163,
+                1575
+              ]
+            }
+          ]
+        },
+        "content": "Felder fokussiert: 1. Die Handlungspraxis der Pflegefachkraft in der praktischen Pflege 2. Die Ausbildungen in der Pflege (Krankenpflege, Altenpflege, Kin- derkrankenpflege, Hebammen) 3. Die Weiterbildung/,das Studium aller Pflegeberufe Jedes Feld hat eigene Besonderheiten, Gesetze und institutionelle Rahmun- gen. Aus diesem Grunde sind im Folgenden umfangreichere Darlegungen der gesetzlichen Bedingungen von Beratung unabdingbar."
+      },
+      {
+        "rank": 2,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.9611446261405945,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 3,
+        "id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+        "score": 0.9475517868995667,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1208,
+          "_split_overlap": [
+            {
+              "doc_id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+              "range": [
+                1208,
+                1585
+              ]
+            },
+            {
+              "doc_id": "c48d618d3fbe4f2d22e404f5ae19eb03ee63ffc5e679c68d7720f5732ee00469",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "(Veit 2004:129). Bei der Gestaltung der Lernprozesse wurde hervor gehoben, dass “die Ausbil- dung in der Pflege (...) stärker mit der Praxis zu vernetzen und Professionali- sierungsstrategien frühzeitig einzuleiten“ sind (Görres 1997. In: Roes 2004:141). Hierzu wurden verschiedene Modelle in Pflegeinrichtungen u.a. im Modell- projekt ‚Wissenstransfer in der Pflege‘ erprobt. (vgl. Roes 2004) Ausgehend von erlebten Schwierigkeiten im Pflegehandeln wurden den Lernenden im klinischen Kontext Hilfen angeboten, wie sie hilfreiches Wissen mit dem pflegeberuflichen Handeln verbinden konnten. Lehrer und Praxisanleiter haben einen Lernort, den sogenannten ‚dritten Lernort‘ gestaltet, und die Lernenden dabei unterstützt, die erkannte Schwierigkeit besser zu bewälti- gen. Zum Lerntransfer im Bereich der beruflichen Bildung, speziell der Pflege- ausbildung, sind bereits verschiedene Ansätze bekannt. Angeknüpft wird dabei an der zur Bewältigung berufsrelevanter Situationen mit ihren je spezi- fische"
+      },
+      {
+        "rank": 4,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9258050918579102,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 5,
+        "id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+        "score": 0.9238941669464111,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5925,
+          "_split_overlap": [
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                1202,
+                1592
+              ]
+            },
+            {
+              "doc_id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+              "range": [
+                0,
+                335
+              ]
+            }
+          ]
+        },
+        "content": "Stelle sei auf die Studie des Deutschen Institut für angewandte Pflegeforschung e.V., Köln hingewiesen, die später noch erläutert wird. Sie zielt auf die zugehende Beratung für pflegende An- gehörige ab und wurde durch den GKV-Spitzenverband gefördert. Im Abs.3 wird den Pflegekassen vorgeschrieben entsprechend qualifiziertes Personal als Pflegeberater und Pflegeberaterinnen einzusetzen, um die persönliche Beratungen der Versicherten durchzuführen. Als qualifiziertes Per- sonal werden - Pflegefachkräfte - Sozialversicherungsfachangestellte - Sozialarbeiter anerkannt. Diesen drei Berufsgruppen werden durch den Gesetzgeber allerdings eine Einschränkung zuteil, indem diese die Tätigkeit des Pflegeberaters nur mit der ‚jeweils‘ erforderlichen Zusatzqualifikation ausüben dürfen. Dies bedeu- tet, dass die erforderlichen Zusatzqualifikationen den Berufsbildern individuell, bzw. den Fachkräften der einzelnen Berufsbilder individuell angepasst werden müssen. Gleich folgend wird festgelegt dass d"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0912.txt",
+    "question": "Welche Verantwortung tragen die leitenden Pflegekräfte in den Pflegeeinrichtungen im Kontext der Pflegeausbildung?",
+    "answer": "Die leitenden Pflegekräfte in den Pflegeeinrichtungen haben die Verantwortung, die Ausbildung der Gesundheits- und Krankenpfleger auf die zentralen Forderungen der Zukunft auszurichten, also auf eine Qualitätssicherung der Pflege sowie eine Förderung der Persönlichkeitsentwicklung der Pflegenden. Sie müssen auch die kommunikativen und empathischen Kompetenzen der Pflegenden stärken und ausbilden, um sie in immer mehr Arbeitsfeldern kompetent arbeiten zu lassen. Zudem müssen sie die Ausbildung an die veränderten Strukturen des Gesundheits- und Sozialwesens anpassen und die Pflegenden auf die Versorgung und Betreuung von multi-morbiden oder chronisch Erkrankten vorbereiten. Die leitenden Pflegekräfte haben auch die Verantwortung, die Pflegekassen zu unterstützen, indem sie die Beratung und Anleitung von Angehörigen und ehrenamtlich Pflegenden fördern und die Pflegekurse für Angehörige und ehrenamtlich Pflegende organisieren. Letztendlich müssen sie auch die Qualifikationsanforderungen für Pflegeberater und Pflegeberaterinnen erfüllen und sicherstellen, dass die Pflegeberatung zeitnah und umfassend wahrgenommen wird. Die leitenden Pflegekräfte müssen auch die Verantwortung übernehmen, die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unentgeltlich zu machen. Sie müssen auch die Pflegekassen unterstützen, indem sie die Leistungs- und Preisvergleichsliste zeitnah fortgeschrieben und die Pflegebedürftigen über die Veröffentlichung der Ergebnisse von Qualitätsprüfungen informieren. Die leitenden Pflegekräfte haben auch die Verantwortung, die Anzahl von Pflegeberatern und Pflegeberaterinnen zu bemessen, um sicherzustellen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrgenommen werden können. Sie müssen auch die Qualifikationsanforderungen nach Satz 2 erfüllen und sicherstellen, dass die Qualifikationsanforder",
+    "expected": "Die leitenden Pflegekräfte tragen die Verantwortung, die praktische Ausbildung im Sinne der Pflegeausbildungsgesetze zu gestalten, indem sie sicherstellen, dass die im Unterricht erworbenen Kenntnisse und Fertigkeiten in der praktischen Arbeit vertieft und angewendet werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2360eccd34433d18439d06d1bd3911056a550ff86cd982d5fbb7c82f26d8cdd6",
+        "score": 0.9930271506309509,
+        "meta": {
+          "file_path": "9783866496811_chapter_10.txt",
+          "source_id": "1c6d04cfbc34b687d96464b4848cf37ec824db1c393bbeb4ef55889a13e4eeef",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1173,
+          "_split_overlap": [
+            {
+              "doc_id": "bf6f43e7abaec872102ac0946fd2cd0e0f9192aae881b838152605813bf7538f",
+              "range": [
+                1173,
+                1550
+              ]
+            }
+          ]
+        },
+        "content": "Deutschland die Soziale Pflegever- sicherung (SGB XI) welche Pflegebedürftige gesetzlich absichert und ihnen gewisse finanzielle Leistungen zukommen lässt. Dennoch muss daran erin- nert werden, dass es sich bei der Pflegeversicherung nur um ein Teilkasko- Prinzip, also nur um eine Mindestsicherung handelt, also keine komplette Absicherung darstellt. Um diese Leistungen aber gerecht den bedürftigen Personen zukommen zu lassen, findet im §14, SGB XI der Begriff Pflegebedürftigkeit seine Definiti- on und im §15, SGB XI seine Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Durch diese Definition lässt sich recht exakt bestimmen wie die zukünftige Pflegebedürftigkeit in Deutschland aussehen kann."
+      },
+      {
+        "rank": 2,
+        "id": "78412fe4bad96a869a492e0e461ae6c88a37a41e7a6e74e1e3a121e773d532f5",
+        "score": 0.9789767265319824,
+        "meta": {
+          "file_path": "9783866496811_chapter_0622.txt",
+          "source_id": "a4ab9102ce89447b2a9b8569063bdf11aba811d3990f721e5dee40bf87c10e5d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3519,
+          "_split_overlap": [
+            {
+              "doc_id": "296683268fdfd7dc690cc67ac7256d4457aa12cf782dbdea6aab3ce59f7c8dc6",
+              "range": [
+                1132,
+                1517
+              ]
+            },
+            {
+              "doc_id": "0d4497b031154d866b4d7ffbd7a2bf88bc128858e01897450fd0bd950500ab3a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "die Verän- derung der Pflege deutlich hervorgehoben. „I.1. Berücksichtigung neuer Anforderungen an die Ausbildung in den Pflegeberufen“ Es wird klar dargestellt, dass sich die Profession Pflege von traditionellen Orientierungen lösen muss und sich nicht nur auf medizinische Kuration in Krankenhäusern beschränken kann. Die Pflege braucht einen größeren per- spektivischen Blickwinkel für ihre Profession, die Wissensbasis dazu ist die Pflege- und Gesundheitswissenschaft. Aus diesem Wissen zeigt sich auch, dass die Pflegenden sehr viel mehr in ihren kommunikativen und empathi- schen Kompetenzen gestärkt und ausgebildet werden müssen. Gleichwohl einen entsprechend hohen Stellenwert soll auch die Förderung der Persön- lichkeitsentwicklung einnehmen, damit die Pflegenden auch in immer mehr Arbeitsfeldern kompetent arbeiten können. Nicht nur die Gesetzeslage hat sich geändert sondern auch die soziodemographische Zusammensetzung der Bevölkerung hat sich gewandelt, es ist eine Steigerung in der "
+      },
+      {
+        "rank": 3,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.976287841796875,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 4,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.9730194807052612,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      },
+      {
+        "rank": 5,
+        "id": "ee71426c438d77f65b1aac73409265a44e559757c6a37f908d3a5360a8578e44",
+        "score": 0.9393821358680725,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3508,
+          "_split_overlap": [
+            {
+              "doc_id": "6b34f685e86408d661c43812ca2accec6e7fd3ce74835856a69209d22df6ea38",
+              "range": [
+                1098,
+                1483
+              ]
+            },
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "dem Pflegeberater oder der Pflegeberaterin stellen. Der Antrag ist unverzüglich der zuständigen Pflege- oder Krankenkasse zu übermitteln, die den Leistungsbescheid unverzüglich dem Antragsteller und zeitgleich dem Pflegeberater oder der Pflegeberaterin zuleitet. (3) Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu bemessen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrge- nommen werden können. Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Perso- nal ein, insbesondere Pflegefachkräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen gibt der Spitzenver- band Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 20"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0912.txt",
+    "question": "Warum ist die Integration des Pflegebedürftigen und seiner Angehörigen in den Pflegeprozess ohne Beratungskompetenzen der Pflegefachkräfte nicht realisierbar?",
+    "answer": "Die Integration des Pflegebedürftigen und seiner Angehörigen in den Pflegeprozess ohne Beratungskompetenzen der Pflegefachkräfte ist nicht realisierbar, weil sie die geforderte und erwartete Integration ohne Beratungskompetenzen der Pflegefachkräfte nicht einzulösen ist. Dies liegt daran, dass die medizintherapeutisch-pflegerische Zielsetzung aufgrund der Rahmungen aus SGB V und SGB XI und den daraus erwachsenden Behandlungs- bzw. Versorgungsverträgen dem beraterischen Handeln der Pflegefachkräfte Grenzen setzt. Auch wenn sie einen Beratungsbedarf erkennen, der diesen Kontext sprengt, fehlt es dann in der Regel an Ressourcen und auch an spezifischen Beratungskompetenzen dieses Anliegen weiter zu verfolgen.",
+    "expected": "Weil die Beratungskompetenzen notwendig sind, um die Bedürfnisse und Anliegen des Pflegebedürftigen und seiner Angehörigen angemessen einzubeziehen und in den Pflegeprozess zu integrieren; ohne diese Kompetenzen kann die geforderte und erwartete Integration nicht umgesetzt werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.9823939800262451,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      },
+      {
+        "rank": 2,
+        "id": "887d03daa8256c681a8d7a6e2f0e27d6c2c0f4e1cf559af1d44c8c6fadb68207",
+        "score": 0.9774698615074158,
+        "meta": {
+          "file_path": "9783866496811_chapter_0912.txt",
+          "source_id": "2657a4327bb62362b1aebe87c33202f353ee95bf2a80551de9e6a25dc79a3e27",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1269,
+          "_split_overlap": [
+            {
+              "doc_id": "8ddd485bc59483cf18a558ba7e0a98649be4447e5a97026ff84b5736d818fcd6",
+              "range": [
+                1269,
+                1682
+              ]
+            },
+            {
+              "doc_id": "372103b9259e457a5e1fbd4bffa523e89acb86d020839456b1e6273114e42935",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "beruflichen Tätigkeit anzuwenden. Dieser Anwendungsbezug findet sich ebenfalls in den Anforderungsprofilen zu den staatlichen Prüfungen am Ende der Pflegeaus- bildung. (vgl. KrPflGAPrV 2003, AltPflGAPrV 2003) Die im Rahmen der Pflegeausbildungen zu erwerbenden Handlungskompe- tenzen sind in den gesetzlichen Grundlagen beschrieben und in dem schulinternen Curriculum differenziert aufgeführt. Die geforderte und erwar- tete Integration des Pflegebedürftigen und seiner Angehörigen in den Pflegeprozess ist ohne Beratungskompetenzen der Pflegefachkräfte nicht einzulösen. Diese gilt es im Kontext der Themenbereiche/ Lernfelder grund- zulegen und in den Anleitungs- und Pflegeprozessen durch die Praxisanleiter weiter zu entwickeln. Die medizintherapeutisch-pflegerische Zielsetzung aufgrund der Rahmungen aus SGB V und SGB XI und den daraus erwach- senden Behandlungs- bzw. Versorgungsverträgen setzt hier dem beraterischen Handeln der Pflegefachkräfte Grenzen. Auch wenn sie einen Beratungsbedarf e"
+      },
+      {
+        "rank": 3,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.9721418619155884,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 4,
+        "id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+        "score": 0.9710902571678162,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1099,
+          "_split_overlap": [
+            {
+              "doc_id": "f15941cfc6f5463755ed8691e53ef744fe943e52e08a31a4940034ba156a9e2d",
+              "range": [
+                1099,
+                1455
+              ]
+            },
+            {
+              "doc_id": "1d634e1994236fb6a81bdd4139e396792ea51d737590b678bda90e3b8737b381",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "fehlende Aspekte des neuen Berufsbildes der Pflege zu berücksichtigen und in der Weiterbildung zu integrieren. Zur Zeit der Entwicklung der Empfehlungen zur Qualifikation des Pflegebe- raters und der Pflegeberaterin, wurde in erster Linie auf die Bewältigung der kurz- und mittelfristigen Ziele der über 2 Millionen Pflegebedürftigen abge- zielt. Nun gilt es den Praxisbezug herzustellen, um auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errich- ten. Das Tätigkeitsprofil der Pflegeberatung (§ 7a SGB XI) ist sehr vielschichtig und besteht aus verschiedensten Aufgaben, z.B. - Informationsvermittlung, - Pflegerische Handlungsanleitung, - Rechtsberatung, - Case Management, - Individuelle Beratung. Hier gilt es keine Wertung vorzunehmen, aber um die Anforderungen eines Pflegeberaters gerecht zu werden und den Leistungsempfängern auch die ihnen rechtlich zustehende individuelle Beratung (SGB XI, § 7a Abs.1 Satz1) zukommen zu lassen, ist es unumgäng"
+      },
+      {
+        "rank": 5,
+        "id": "1317f4d497c2b09f9e96e8e688a20fea2580e45e98fb4a8cb3b8f01de242448e",
+        "score": 0.9709116816520691,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                0,
+                490
+              ]
+            }
+          ]
+        },
+        "content": "6.4.1. Empfehlungen des Pilotprojektes ‚Werkstatt Pflegestützpunkt‘ Durch das Pflege-Weiterentwicklungsgesetz sollen keine Doppelstrukturen entstehen. Dafür aber eine Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren. Diese Vernetzungsaufgabe gehört zur Kernkompetenz der Pflegestützpunkte, welche flächendeckend in Deutschland (in 14 Bundesländern) etabliert wer- den sollen (vgl. KDA 2009:14ff). Auf diese Art ergänzt das Konzept der Pflegestützpunkte die Pflegeberatung auf essentielle Weise, denn durch die Verwurzelung der Pflegeberater ist die benötigte Unterstützung wohnortnah und gut erreichbar. Gleichwohl auch eine veränderte Bedarfsregelung eines Pflegebedürftigen mit direkter Unterstützung und örtlicher Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person erfolgen kann. Gesetzlich sind di"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0912.txt",
+    "question": "Wie beeinflussen die gesetzlichen Rahmenbedingungen aus SGB V und SGB XI die Beratungstätigkeit der Pflegefachkräfte?",
+    "answer": "Die gesetzlichen Rahmenbedingungen aus SGB V und SGB XI definieren die Pflegebedürftigkeit und ihre Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Sie legen auch die Qualifikationsanforderungen für Pflegeberater und Pflegeberaterinnen fest, die in § 7a Abs.3 Satz 2 SGB XI aufgeführt sind. Darüber hinaus regeln sie die Beratungstätigkeit der Pflegefachkräfte, insbesondere im §7 SGB XI, der die Pflegekassen verpflichtet, ihre Versicherten eigenverantwortlich eine neutrale Präventionsberatung anzubieten, um sie in einer gesunden und der Pflegebedürftigkeit vorbeugenden Lebensführung zu unterstützen. Im §37 SGB XI werden die Pflegekassen verpflichtet, die Beratungstätigkeit der Pflegefachkräfte zu unterstützen und Empfehlungen zur Qualitätssicherung der Beratungsbesuche zu erstellen. Die gesetzlichen Rahmenbedingungen beeinflussen somit die Beratungstätigkeit der Pflegefachkräfte, indem sie die Qualifikationsanforderungen, die Beratungsaufgaben und die Qualitätssicherung regeln. Dies bedeutet, dass die Pflegefachkräfte ihre Beratungstätigkeit auf der Grundlage der gesetzlichen Rahmenbedingungen ausüben und die erforderlichen Qualifikationen und Beratungsaufgaben erfüllen müssen. \n         I can infer the answer based on the provided context. \n         Die gesetzlichen Rahmenbedingungen aus SGB V und SGB XI definieren die Pflegebedürftigkeit und ihre Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Sie legen auch die Qualifikationsanforderungen für Pflegeberater und Pflegeberaterinnen fest, die in § 7a Abs.3 Satz 2 SGB XI aufgeführt sind. Darüber hinaus regeln sie die Beratungstätigkeit der Pflegefachkräfte, insbesondere im §7 SGB XI, der die Pflegekassen verpflichtet,",
+    "expected": "Die gesetzlichen Rahmenbedingungen aus SGB V und SGB XI sowie die daraus erwachsenden Behandlungs- und Versorgungsverträge setzen dem beraterischen Handeln der Pflegefachkräfte Grenzen, da sie nur innerhalb dieses Rahmens beraten dürfen; erkennen sie Beratungsbedarf, der diesen Kontext überschreitet, fehlen ihnen meist die Ressourcen und spezifischen Beratungskompetenzen, um diese Anliegen weiterzuverfolgen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2360eccd34433d18439d06d1bd3911056a550ff86cd982d5fbb7c82f26d8cdd6",
+        "score": 0.9768316149711609,
+        "meta": {
+          "file_path": "9783866496811_chapter_10.txt",
+          "source_id": "1c6d04cfbc34b687d96464b4848cf37ec824db1c393bbeb4ef55889a13e4eeef",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1173,
+          "_split_overlap": [
+            {
+              "doc_id": "bf6f43e7abaec872102ac0946fd2cd0e0f9192aae881b838152605813bf7538f",
+              "range": [
+                1173,
+                1550
+              ]
+            }
+          ]
+        },
+        "content": "Deutschland die Soziale Pflegever- sicherung (SGB XI) welche Pflegebedürftige gesetzlich absichert und ihnen gewisse finanzielle Leistungen zukommen lässt. Dennoch muss daran erin- nert werden, dass es sich bei der Pflegeversicherung nur um ein Teilkasko- Prinzip, also nur um eine Mindestsicherung handelt, also keine komplette Absicherung darstellt. Um diese Leistungen aber gerecht den bedürftigen Personen zukommen zu lassen, findet im §14, SGB XI der Begriff Pflegebedürftigkeit seine Definiti- on und im §15, SGB XI seine Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Durch diese Definition lässt sich recht exakt bestimmen wie die zukünftige Pflegebedürftigkeit in Deutschland aussehen kann."
+      },
+      {
+        "rank": 2,
+        "id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+        "score": 0.9075384140014648,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7151,
+          "_split_overlap": [
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                1226,
+                1561
+              ]
+            }
+          ]
+        },
+        "content": "und Qualifikation der Pflegeberater und Pflegeberaterinnen zwar in Auftrag gibt, aber die Empfehlungen eben auch nur diesen Charakter haben. Die Qualifikationsanforderungen, die zum 30. Juni 2011 erfüllt sein ‚müs- sen‘, finden wir in § 7a Abs.3 Satz 2 SGB XI: „Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Personal ein, insbesondere Pflegefach- kräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pfle- geberatern und Pflegeberaterinnen gibt der Spitzenverband Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 2011 erfüllt sein.“ (§ 7a Abs.3 Satz 2-5 SGB XI) Dies macht deutlich, dass vom Gesetzgeber keine Richtlinien über Anzahl und Qualifikationen des Pflegeberaters vorgesehen sind, sondern es bei Emp-"
+      },
+      {
+        "rank": 3,
+        "id": "0f8f3ce8b91b629ef1cc5c04660c20c09f02fb102c80a8b1f65bc426e5168c78",
+        "score": 0.7805216312408447,
+        "meta": {
+          "file_path": "9783866496811_chapter_052.txt",
+          "source_id": "3d10137bee2ebbb955cd3b5bb4ee369c5e5ed363b6e31fa58b012813a6f84eeb",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1163,
+          "_split_overlap": [
+            {
+              "doc_id": "f65fd5ef529138af2ae78b9387d27844b5eda1a5b8a03b0450b5119d5ecac8e0",
+              "range": [
+                1163,
+                1575
+              ]
+            }
+          ]
+        },
+        "content": "Felder fokussiert: 1. Die Handlungspraxis der Pflegefachkraft in der praktischen Pflege 2. Die Ausbildungen in der Pflege (Krankenpflege, Altenpflege, Kin- derkrankenpflege, Hebammen) 3. Die Weiterbildung/,das Studium aller Pflegeberufe Jedes Feld hat eigene Besonderheiten, Gesetze und institutionelle Rahmun- gen. Aus diesem Grunde sind im Folgenden umfangreichere Darlegungen der gesetzlichen Bedingungen von Beratung unabdingbar."
+      },
+      {
+        "rank": 4,
+        "id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+        "score": 0.6347857117652893,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4533,
+          "_split_overlap": [
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                1103,
+                1473
+              ]
+            },
+            {
+              "doc_id": "df481b8000bf02f9500e3095edae6adfb3315b67c2a19c0b48a998473a5271c4",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "die Pflege in ihrer Weiterentwicklung sein konnte. Denn 1995 wurde mit dem SGB XI auch der §7 implementiert, in welchem die Pflegekassen unter Zugzwang gerieten ihren Versicherten eigenverantwortlich eine neutrale Präventionsbe- ratung zukommen zu lassen, um sie so in einer gesunden und der Pflegebedürftigkeit vorbeugenden Lebensführung zu unterstützen. §7 Aufklärung und Beratung (1) Die Pflegekassen haben die Eigenverantwortung der Versicherten durch Aufklärung und Beratung über eine gesunde, der Pflegebedürftigkeit vorbeugende Lebensführung zu unterstützen und auf die Teilnahme an gesundheitsfördernden Maßnahmen hinzuwirken. (2) Die Pflegekassen haben die Versicherten und ihre Angehörigen und Lebenspartner in den mit der Pflegebedürftigkeit zusammenhängenden Fragen, insbesondere über die Leistungen der Pflegekassen sowie über die Leistungen und Hilfen anderer Träger, zu unterrichten und zu beraten. Mit Einwilligung des Versicherten haben der behandelnde Arzt, das Krankenhaus, die Reh"
+      },
+      {
+        "rank": 5,
+        "id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+        "score": 0.3989056646823883,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2253,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                1075,
+                1446
+              ]
+            },
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "4. In diesen Fällen kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen werden muss. (SGB XI, §37, Abs.3) Mit dem ersten Satz des Absatzes 3 setzte das Pflegeversicherungsgesetz den Grundstein, dass hiermit der Pflegefachkraft in pflegerelevanten Fragen eine eigenständige Beratungskompetenz zugestanden wurde und ein Beratungs- auftrag zur Pflegeberatung formuliert wurde. Die Notwendigkeit zur Beratung bestand darin, die Qualität der häuslichen Pflege zu sichern, dies stieß auch bei den Leistungsträgern auf eine breite Zustimmung: (5) Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenver- sicherung e. V. beschließen gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen Empfehlungen zur Qualitäts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,655 @@
+[
+  {
+    "filename": "9783866496811_chapter_0713.txt",
+    "question": "Welche Unterschiede bestehen laut den Studien von KNELANGE und SCHIERON zwischen psychiatrischer und somatischer Pflege bezüglich des Beratungsauftrags?",
+    "answer": "Laut den Studien von KNELANGE und SCHIERON wird in der psychiatrischen Pflege der Beratungsauftrag als offizieller Arbeitsbestandteil gesehen, während er in der somatischen Pflege eher als persönlicher Arbeitsauftrag betrachtet wird. Zudem wird in der somatischen Pflege die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, die bedingt wird durch Sympathie und Antipathie zum Ratsuchenden. In der psychiatrischen Pflege hingegen wird die Beratung als ein integraler Teil der Arbeit angesehen und viele Pflegekräfte fühlen sich durch ihre Ausbildung und Erfahrung qualifiziert, um Beratung zu leisten. Die Studien zeigen jedoch auch, dass beide Gruppen von Pflegekräften sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen. In der somatischen Pflege wird die Qualifikation in 'Gespräche führen' durch Lebens- und Berufserfahrung angesehen, während in der psychiatrischen Pflege ein hohes Maß an professioneller Selbstreflexion als wichtig erachtet wird. Die Studien deuten darauf hin, dass die Beratung in der somatischen Pflege oft durch persönliche Sympathie oder Antipathie beeinflusst wird, während in der psychiatrischen Pflege ein professionelleres und strukturierteres Vorgehen angestrebt wird. \nI cannot find the answer in the provided context.",
+    "expected": "In der psychiatrischen Pflege werden Beratungstätigkeiten als offizieller Teil der Arbeit angesehen, während in der somatischen Pflege Beratung eher als persönlicher und zusätzlicher Arbeitsauftrag betrachtet wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9935573935508728,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 2,
+        "id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+        "score": 0.9878446459770203,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1182,
+          "_split_overlap": [
+            {
+              "doc_id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+              "range": [
+                1182,
+                1585
+              ]
+            }
+          ]
+        },
+        "content": "Teil der psychiatrischen Pflege- kräfte so gesehen. Allerdings beschreiben auch viele der Befragten Überforderungsmomente, welche im Zusammenhang von Beratungsanfragen, den äußeren Umständen, wie z.B. der Zeitdruck und der eigenen emotionalen Verfassung stehen. KNELANGE und SCHIERON vermuten, dass noch weitere Aspekte zur Überlastung der Pflegekräfte in Beratungssituationen führen und benennen, dass neben theoretischem Wissen und praktische kommunikative Kompeten- zen auch ein hohes Maß an professioneller Selbstreflexion zu Beratungsgesprächen gehört (vgl. Knelange 2000). In den Studien ist zu erkennen, dass diese Kompetenz der Selbstreflexion bei vielen Befragten nur sehr gering ausgeprägt ist. Dieses Defizit ist auch durch die Form der Krankenpflegeausbildung des Jahres 2000 zu erkennen, denn erst mit dem aktuellen Krankenpflegegesetz vom Januar 2004 wird auf die Entwicklung von Kompetenzen (fachliche, personale, soziale, methodische) Wert gelegt und so eine Persönlichkeitsent- wickl"
+      },
+      {
+        "rank": 3,
+        "id": "452f8d885722638fdbe025381a31d76dcd51d06fbfc5c228c4c8a6d8bdcd39f6",
+        "score": 0.9799782633781433,
+        "meta": {
+          "file_path": "9783866496811_chapter_071.txt",
+          "source_id": "1a0524cccb3f1b6b57745c56cb22ce494da66b7b828cb6beac3410ad53418a6e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1146,
+          "_split_overlap": [
+            {
+              "doc_id": "693ad45a4a57968461ffe0682d2f49772bd9795b16fa332a2dcabe4da6370ed7",
+              "range": [
+                1146,
+                1513
+              ]
+            },
+            {
+              "doc_id": "f7578b7d61f508238a9ab88c0896cc0a9aa8f8a59e51c5c61cc8abde2a055b26",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "Folgenden werden beide Studien kurz beschrieben und jeweils die Ergeb- nisse dargestellt. 3.1.1. Qualitative Studie in der psychiatrischen Krankenpflege Die wichtigste Frage dieser Studie bestand darin, „ob das Führen von Gesprächen und im besonderen die Beratung ein Aufgabenbereich der psychiatrischen Pflege sei“ (…). Ein weiteres Interesse lag darin zu erfahren, „ob sich Pflegekräfte in der Psychiatrie durch ihre Ausbildung für diese Bereiche befähigt und qualifiziert fühlen.“ (…) Als besondere Auswahlkriterien der Befragten war verlangt, dass diese min- destens seit zwei Jahre auf einer psychiatrischen stationären Abteilung tätig sind, welches an ein Allgemeinkrankenhaus angeschlossen ist. Ein Teil der Befragten sollte über eine psychiatrische Zusatzausbildung verfügen. In dieser Studie wurden 11 Interviews durchgeführt, alle Befragten hatten eine abgeschlossene dreijährige Krankenpflegeausbildung, 6 davon besaßen die psychiatrische Fachweiterbildung, die Berufserfahrungen nach dem "
+      },
+      {
+        "rank": 4,
+        "id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+        "score": 0.873553454875946,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1215,
+          "_split_overlap": [
+            {
+              "doc_id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+              "range": [
+                1215,
+                1681
+              ]
+            },
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Amerika formierte sich in den vergangenen Jahrzehnten vorwiegend an den Hochschulen und in deren unterschiedlichsten Studien- gängen das Counseling mit akademischem Abschluss.Hierzulande zeigten sich die psychosozialen Beratungsanbieter eher den therapieabgeleiteten Konzepten verbunden. Verschiedene Therapiefachver- bände platzierten Beratung als ‚kleine Therapie‘ in ihrer Angebotspalette, mittlerweile kommen Mediation, Coaching, Organisationsberatung etc. hin- zu. Viele psychosoziale, pflegerische und pädagogische Berufe schälen den hohen Anteil von Beratung deutlicher aus ihrer Tätigkeit heraus. Die Teil- kompetenz ‚Beratung‘ wird deutlicher markiert und hervorgehoben. Mit den AG-Beratungswesen – dem Vorläufer der 2004 gegründeten Deut- schen Gesellschaft für Beratung (DGfB) - werden eigene neue Profilbildungen von Beratung möglich (www.dachverband-beratung.de). Die DGfB hat sich eine psychosoziale Plattform hinsichtlich ihrer Beratungs- verständnisses gegeben. Diese benennt als Fach"
+      },
+      {
+        "rank": 5,
+        "id": "f7578b7d61f508238a9ab88c0896cc0a9aa8f8a59e51c5c61cc8abde2a055b26",
+        "score": 0.17610733211040497,
+        "meta": {
+          "file_path": "9783866496811_chapter_071.txt",
+          "source_id": "1a0524cccb3f1b6b57745c56cb22ce494da66b7b828cb6beac3410ad53418a6e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2317,
+          "_split_overlap": [
+            {
+              "doc_id": "452f8d885722638fdbe025381a31d76dcd51d06fbfc5c228c4c8a6d8bdcd39f6",
+              "range": [
+                1171,
+                1538
+              ]
+            },
+            {
+              "doc_id": "82261038b47667b3254a51c219be50982947418d7933916a298e31528d11799a",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "zu führen bereits im Jahre 2000 Aufgabenbereich der psychiatrischen Pflege war und in ge- ringem Maß auch in der dreijährigen Krankenpflegeausbildung integriert wurde. Zugleich findet Beratung in der Personalverordnung keine Er- wähnung und taucht auch in der Literatur nur selten auf. In der psychiatri- schen Fachweiterbildung in Nordrhein-Westfalen ist allerdings die Patientenberatung mit einem hohen Stellenwert integriert. Die Studie ergab im Wesentlichen: - Alle Befragten waren der Meinung dass Beratung ein Aufgabenbe- reich der psychiatrischen Pflege sei. Eine Pflegekraft bemerkte, dass die Zeit in der sie sich mit einem Patienten und seinen Problemen auseinandersetzt keine Pflege sei. Eine weitere gibt an, dass die Grenze zwischen pflegerischer Beratung und Psychotherapie un- scharf sind. - Fast alle Pflegekräfte verstanden unter Beratung zu informieren, aufzuklären, Tipps und konkrete Hilfestellung zu geben oder Ratschläge zu erteilen. Eine Befragte mit Zusatzausbildung verstand "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0713.txt",
+    "question": "Wie bewerten Pflegekräfte mit psychiatrischer Fachweiterbildung ihre Qualifikation für Beratungsgespräche im Vergleich zu Pflegekräften mit pflegerischer Grundausbildung?",
+    "answer": "Pflegekräfte mit psychiatrischer Fachweiterbildung fühlten sich sich theoretisch für Beratung qualifiziert und erkannten Gesprächsbedarf, während Pflegekräfte mit pflegerischer Grundausbildung sich nicht durch ihre Ausbildung in der Beratung befähigt sahen.",
+    "expected": "Pflegekräfte mit psychiatrischer Fachweiterbildung fühlen sich zumindest theoretisch für Beratung qualifiziert und erkennen Gesprächsbedarf, während Pflegekräfte mit pflegerischer Grundausbildung sich durch diese nicht befähigt sehen, Beratung durchzuführen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9966790676116943,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 2,
+        "id": "452f8d885722638fdbe025381a31d76dcd51d06fbfc5c228c4c8a6d8bdcd39f6",
+        "score": 0.9885267019271851,
+        "meta": {
+          "file_path": "9783866496811_chapter_071.txt",
+          "source_id": "1a0524cccb3f1b6b57745c56cb22ce494da66b7b828cb6beac3410ad53418a6e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1146,
+          "_split_overlap": [
+            {
+              "doc_id": "693ad45a4a57968461ffe0682d2f49772bd9795b16fa332a2dcabe4da6370ed7",
+              "range": [
+                1146,
+                1513
+              ]
+            },
+            {
+              "doc_id": "f7578b7d61f508238a9ab88c0896cc0a9aa8f8a59e51c5c61cc8abde2a055b26",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "Folgenden werden beide Studien kurz beschrieben und jeweils die Ergeb- nisse dargestellt. 3.1.1. Qualitative Studie in der psychiatrischen Krankenpflege Die wichtigste Frage dieser Studie bestand darin, „ob das Führen von Gesprächen und im besonderen die Beratung ein Aufgabenbereich der psychiatrischen Pflege sei“ (…). Ein weiteres Interesse lag darin zu erfahren, „ob sich Pflegekräfte in der Psychiatrie durch ihre Ausbildung für diese Bereiche befähigt und qualifiziert fühlen.“ (…) Als besondere Auswahlkriterien der Befragten war verlangt, dass diese min- destens seit zwei Jahre auf einer psychiatrischen stationären Abteilung tätig sind, welches an ein Allgemeinkrankenhaus angeschlossen ist. Ein Teil der Befragten sollte über eine psychiatrische Zusatzausbildung verfügen. In dieser Studie wurden 11 Interviews durchgeführt, alle Befragten hatten eine abgeschlossene dreijährige Krankenpflegeausbildung, 6 davon besaßen die psychiatrische Fachweiterbildung, die Berufserfahrungen nach dem "
+      },
+      {
+        "rank": 3,
+        "id": "0a76b5e6e7e132c1ca546903687c4cfbb0b985c9e500e16d4e1386a6cf8f503d",
+        "score": 0.9799944162368774,
+        "meta": {
+          "file_path": "9783866496811_chapter_0621.txt",
+          "source_id": "4f980fa2fd94761ca0729078c5ad8abb119f5a352952a73de71f28f8adb2b8e3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1179,
+          "_split_overlap": [
+            {
+              "doc_id": "59ddb40e13bd956ee4dee0348191b47cdf1683e26dc63d0a2650af94ef17004b",
+              "range": [
+                1179,
+                1594
+              ]
+            },
+            {
+              "doc_id": "b8205733c70a1f198e62aadcbf20f1d4249bf456ef00c232e070b3db6a3da71e",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "Fähigkeiten im Rahmen ge- riatrischer und gerontopsychiatrischer Rehabilitationskonzepte, 4. die Mitwirkung an qualitätssichernden Maßnahmen in der Pflege, der Betreu- ung und der Behandlung, 5. die Gesundheitsvorsorge einschließlich der Ernährungsberatung, 6. die umfassende Begleitung Sterbender, 7. die Anleitung, Beratung und Unterstützung von Pflegekräften, die nicht Pflege- fachkräfte sind, 8. die Betreuung und Beratung alter Menschen in ihren persönlichen und sozialen Angelegenheiten, 9. die Hilfe zur Erhaltung und Aktivierung der eigenständigen Lebensführung ein- schließlich der Förderung sozialer Kontakte und 10. die Anregung und Begleitung von Familien- und Nachbarschaftshilfe und die Beratung pflegender Angehöriger. Darüber hinaus soll die Ausbildung dazu befähigen, mit anderen in der Altenpflege tätigen Personen zusammenzuarbeiten und diejenigen Verwaltungsarbeiten zu erledigen, die in unmittelbarem Zusammenhang mit den Aufgaben in der Altenpflege stehen. (2) Soweit in Modell"
+      },
+      {
+        "rank": 4,
+        "id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+        "score": 0.9763498902320862,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1182,
+          "_split_overlap": [
+            {
+              "doc_id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+              "range": [
+                1182,
+                1585
+              ]
+            }
+          ]
+        },
+        "content": "Teil der psychiatrischen Pflege- kräfte so gesehen. Allerdings beschreiben auch viele der Befragten Überforderungsmomente, welche im Zusammenhang von Beratungsanfragen, den äußeren Umständen, wie z.B. der Zeitdruck und der eigenen emotionalen Verfassung stehen. KNELANGE und SCHIERON vermuten, dass noch weitere Aspekte zur Überlastung der Pflegekräfte in Beratungssituationen führen und benennen, dass neben theoretischem Wissen und praktische kommunikative Kompeten- zen auch ein hohes Maß an professioneller Selbstreflexion zu Beratungsgesprächen gehört (vgl. Knelange 2000). In den Studien ist zu erkennen, dass diese Kompetenz der Selbstreflexion bei vielen Befragten nur sehr gering ausgeprägt ist. Dieses Defizit ist auch durch die Form der Krankenpflegeausbildung des Jahres 2000 zu erkennen, denn erst mit dem aktuellen Krankenpflegegesetz vom Januar 2004 wird auf die Entwicklung von Kompetenzen (fachliche, personale, soziale, methodische) Wert gelegt und so eine Persönlichkeitsent- wickl"
+      },
+      {
+        "rank": 5,
+        "id": "f7578b7d61f508238a9ab88c0896cc0a9aa8f8a59e51c5c61cc8abde2a055b26",
+        "score": 0.965589165687561,
+        "meta": {
+          "file_path": "9783866496811_chapter_071.txt",
+          "source_id": "1a0524cccb3f1b6b57745c56cb22ce494da66b7b828cb6beac3410ad53418a6e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2317,
+          "_split_overlap": [
+            {
+              "doc_id": "452f8d885722638fdbe025381a31d76dcd51d06fbfc5c228c4c8a6d8bdcd39f6",
+              "range": [
+                1171,
+                1538
+              ]
+            },
+            {
+              "doc_id": "82261038b47667b3254a51c219be50982947418d7933916a298e31528d11799a",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "zu führen bereits im Jahre 2000 Aufgabenbereich der psychiatrischen Pflege war und in ge- ringem Maß auch in der dreijährigen Krankenpflegeausbildung integriert wurde. Zugleich findet Beratung in der Personalverordnung keine Er- wähnung und taucht auch in der Literatur nur selten auf. In der psychiatri- schen Fachweiterbildung in Nordrhein-Westfalen ist allerdings die Patientenberatung mit einem hohen Stellenwert integriert. Die Studie ergab im Wesentlichen: - Alle Befragten waren der Meinung dass Beratung ein Aufgabenbe- reich der psychiatrischen Pflege sei. Eine Pflegekraft bemerkte, dass die Zeit in der sie sich mit einem Patienten und seinen Problemen auseinandersetzt keine Pflege sei. Eine weitere gibt an, dass die Grenze zwischen pflegerischer Beratung und Psychotherapie un- scharf sind. - Fast alle Pflegekräfte verstanden unter Beratung zu informieren, aufzuklären, Tipps und konkrete Hilfestellung zu geben oder Ratschläge zu erteilen. Eine Befragte mit Zusatzausbildung verstand "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0713.txt",
+    "question": "Welche Faktoren führen laut den Studien zu Überforderungsmomenten bei Pflegekräften in Beratungssituationen?",
+    "answer": "Neben theoretischem Wissen und praktische kommunikative Kompetenzen gehört auch ein hohes Maß an professioneller Selbstreflexion zu Beratungsgesprächen. \n         Die Kompetenz der Selbstreflexion bei vielen Befragten ist nur sehr gering ausgeprägt. \n         Das Defizit ist auch durch die Form der Krankenpflegeausbildung des Jahres 2000 zu erkennen. \n         Erst mit dem aktuellen Krankenpflegegesetz vom Januar 2004 wird auf die Entwicklung von Kompetenzen (fachliche, personale, soziale, methodische) Wert gelegt und so eine Persönlichkeitsentwicklung gefördert. \n         Auf diese Weise kann auch eine kritische Auseinandersetzung mit der eigenen Person und dem beruflichen Handeln erfolgen. \n         Die Zeitdruck und die eigene emotionale Verfassung stehen ebenfalls im Zusammenhang mit Überforderungsmomenten. \n         Weitere Aspekte zur Überlastung der Pflegekräfte in Beratungssituationen sind noch nicht klar benannt. \n        Die Faktoren, die laut den Studien zu Überforderungsmomenten bei Pflegekräften in Beratungssituationen führen, sind also ein hohes Maß an professioneller Selbstreflexion, Zeitdruck, eigene emotionale Verfassung und möglicherweise noch weitere Aspekte. \n        Es ist jedoch zu beachten, dass die Studien nicht alle diese Faktoren explizit benennen, sondern vielmehr auf das Defizit an professioneller Selbstreflexion hinweisen. \n        Es ist auch zu beachten, dass die Studien nicht alle die gleichen Ergebnisse liefern, sondern unterschiedliche Aspekte der Beratung in der Pflege untersuchen. \n        Die Studien von Knelange und Schieron liefern jedoch beide ein Bild von Pflegekräften, die sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, aber die Beratung als wichtigen Aufgabenbereich der Pflege anerkennen. \n        Die Studien zeigen auch, dass die Pflegekräfte sich in der Beratung überfordert fühlen, wenn sie nicht über die erforderlichen Kompet",
+    "expected": "Überforderungsmomente entstehen durch Beratungsanfragen, äußere Umstände wie Zeitdruck und die eigene emotionale Verfassung. Weitere Aspekte wie fehlende kommunikative Kompetenzen und mangelnde professionelle Selbstreflexion tragen ebenfalls zur Überlastung bei.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.994985818862915,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 2,
+        "id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+        "score": 0.9934820532798767,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1182,
+          "_split_overlap": [
+            {
+              "doc_id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+              "range": [
+                1182,
+                1585
+              ]
+            }
+          ]
+        },
+        "content": "Teil der psychiatrischen Pflege- kräfte so gesehen. Allerdings beschreiben auch viele der Befragten Überforderungsmomente, welche im Zusammenhang von Beratungsanfragen, den äußeren Umständen, wie z.B. der Zeitdruck und der eigenen emotionalen Verfassung stehen. KNELANGE und SCHIERON vermuten, dass noch weitere Aspekte zur Überlastung der Pflegekräfte in Beratungssituationen führen und benennen, dass neben theoretischem Wissen und praktische kommunikative Kompeten- zen auch ein hohes Maß an professioneller Selbstreflexion zu Beratungsgesprächen gehört (vgl. Knelange 2000). In den Studien ist zu erkennen, dass diese Kompetenz der Selbstreflexion bei vielen Befragten nur sehr gering ausgeprägt ist. Dieses Defizit ist auch durch die Form der Krankenpflegeausbildung des Jahres 2000 zu erkennen, denn erst mit dem aktuellen Krankenpflegegesetz vom Januar 2004 wird auf die Entwicklung von Kompetenzen (fachliche, personale, soziale, methodische) Wert gelegt und so eine Persönlichkeitsent- wickl"
+      },
+      {
+        "rank": 3,
+        "id": "452f8d885722638fdbe025381a31d76dcd51d06fbfc5c228c4c8a6d8bdcd39f6",
+        "score": 0.909700334072113,
+        "meta": {
+          "file_path": "9783866496811_chapter_071.txt",
+          "source_id": "1a0524cccb3f1b6b57745c56cb22ce494da66b7b828cb6beac3410ad53418a6e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1146,
+          "_split_overlap": [
+            {
+              "doc_id": "693ad45a4a57968461ffe0682d2f49772bd9795b16fa332a2dcabe4da6370ed7",
+              "range": [
+                1146,
+                1513
+              ]
+            },
+            {
+              "doc_id": "f7578b7d61f508238a9ab88c0896cc0a9aa8f8a59e51c5c61cc8abde2a055b26",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "Folgenden werden beide Studien kurz beschrieben und jeweils die Ergeb- nisse dargestellt. 3.1.1. Qualitative Studie in der psychiatrischen Krankenpflege Die wichtigste Frage dieser Studie bestand darin, „ob das Führen von Gesprächen und im besonderen die Beratung ein Aufgabenbereich der psychiatrischen Pflege sei“ (…). Ein weiteres Interesse lag darin zu erfahren, „ob sich Pflegekräfte in der Psychiatrie durch ihre Ausbildung für diese Bereiche befähigt und qualifiziert fühlen.“ (…) Als besondere Auswahlkriterien der Befragten war verlangt, dass diese min- destens seit zwei Jahre auf einer psychiatrischen stationären Abteilung tätig sind, welches an ein Allgemeinkrankenhaus angeschlossen ist. Ein Teil der Befragten sollte über eine psychiatrische Zusatzausbildung verfügen. In dieser Studie wurden 11 Interviews durchgeführt, alle Befragten hatten eine abgeschlossene dreijährige Krankenpflegeausbildung, 6 davon besaßen die psychiatrische Fachweiterbildung, die Berufserfahrungen nach dem "
+      },
+      {
+        "rank": 4,
+        "id": "c731ed08118957acedb25dc840b8eb2187a488303f5d1a65ef0614c895cc0525",
+        "score": 0.7936162352561951,
+        "meta": {
+          "file_path": "9783866496811_chapter_0712.txt",
+          "source_id": "acc9045b3fac6a2ab0db7f599c025f4a7eabfc9fe8a828b0c66069e13b95fa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a5697fea1f514c14301a6a3f93b1835631117dba7b08e16ab6c81d4830f8f6ff",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "3.1.2. Qualitative Studie in der somatischen Krankenpflege Ausgehend von der These, dass Beratung ein zentraler Aufgabenbereich der Pflege ist, sind in dieser Studie die zentralen Fragen: „Wird Beratung als Arbeits- auftrag gesehen?“ und „Fühlen sich die Pflegekräfte einer solchen Aufgabe gewachsen?“ Besondere Auswahlkriterien der Befragten bestanden neben den oben ge- nannten in keiner weiteren Zusatzqualifikation und einer aktuellen Berufstätigkeit ausschließlich auf allgemeinen Pflegestationen. Es wurden 12 Interviews durchgeführt, davon hatten alle Befragten eine abgeschlossene dreijährige Krankenpflegeausbildung und waren im Lebensalter von 22 bis 41 Jahren. Die Berufserfahrung lag zwischen 1½ und 17 Jahren. An dieser Studie nahmen Pflegekräfte aus sechs verschiedenen Bereichen Teil: Pneumologie, HNO, Allgemein-Chirurgie, Innere Station, Gynäkolo- gie/Geburtshilfe und Neurologie (vgl. Knelange 2000). Martin SCHIERON gliedert die Interviewergebnisse seiner Studie in 9 Kate- gorien "
+      },
+      {
+        "rank": 5,
+        "id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+        "score": 0.5663188099861145,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7151,
+          "_split_overlap": [
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                1226,
+                1561
+              ]
+            }
+          ]
+        },
+        "content": "und Qualifikation der Pflegeberater und Pflegeberaterinnen zwar in Auftrag gibt, aber die Empfehlungen eben auch nur diesen Charakter haben. Die Qualifikationsanforderungen, die zum 30. Juni 2011 erfüllt sein ‚müs- sen‘, finden wir in § 7a Abs.3 Satz 2 SGB XI: „Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Personal ein, insbesondere Pflegefach- kräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pfle- geberatern und Pflegeberaterinnen gibt der Spitzenverband Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 2011 erfüllt sein.“ (§ 7a Abs.3 Satz 2-5 SGB XI) Dies macht deutlich, dass vom Gesetzgeber keine Richtlinien über Anzahl und Qualifikationen des Pflegeberaters vorgesehen sind, sondern es bei Emp-"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0713.txt",
+    "question": "Warum wird die Kompetenz der professionellen Selbstreflexion in Beratungsgesprächen als besonders wichtig angesehen, und wie ist diese Kompetenz bei den Befragten ausgeprägt?",
+    "answer": "Die professionelle Selbstreflexion in Beratungsgesprächen wird als besonders wichtig angesehen, weil sie es den Beratern ermöglicht, ihre eigenen Bezüge und ihre Personwirksamkeit zu reflektieren. Dies ist wichtig, um die beratungstheoretische Fundierung und die beratungsdiagnostischen und -interventionellen Kenntnisse in ihrem Miteinander und ihrer Bezogenheit zu entwickeln. Die Befragten haben in ihrer Fallreflexion gezeigt, dass sie ihre Beratungen als erfolgreich einschätzen, aber auch einigen, weniger gelungenen Aspekte nachgehen, um das eigene professionelle Handeln weiterzuentwickeln. Organisationale Rahmenbedingungen werden vor allem dort reflektiert, wo sie als einschränkend empfunden werden. Die Befragten nutzen ihre Fallreflexionen als Beobachtungen II. Ordnung für eine selbstreflexive Auseinandersetzung und Lernanlässe. Aufgrund der persönlichen Involviertheit der BeraterInnen können jedoch nur relativ schwer eigene „blinde Flecken“ identifiziert werden. \nI cannot find the answer in the provided context.",
+    "expected": "Professionelle Selbstreflexion ist wichtig, weil neben theoretischem Wissen und kommunikativen Fähigkeiten auch die kritische Auseinandersetzung mit dem eigenen beruflichen Handeln zur Qualität von Beratungsgesprächen beiträgt. Bei vielen Befragten ist diese Kompetenz jedoch nur sehr gering ausgeprägt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9646183848381042,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 2,
+        "id": "7719627021cb9d3a8b3edc099b40bf91f3abbc49acf37e5d46b28d46a9fdf781",
+        "score": 0.9545273780822754,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2400,
+          "_split_overlap": [
+            {
+              "doc_id": "1d35cc1cf0c40bbecb9c81c629e06de7b5928ee2844a18714284a4e986ab0499",
+              "range": [
+                1223,
+                1641
+              ]
+            },
+            {
+              "doc_id": "3c8bb80d957354ab1951506a4f92ef935ae3d687c97fa06ceb0d90a068c93505",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "für den Beratungskontext angepasst. Kriterien professioneller Fallarbeit im Beratungskontext Subjektive Betroffenheit des pflegenden Angehörigen Das subjektive Erleben des Beratungsklienten ist der zentrale Gegenstand und Ausgangspunkt von Beratung. Im Projekt EDe war die subjektiv erlebte Belastung pflegender Angehöriger ein Schwerpunkt, der mit dem Assess- mentinstrument differenziert erfasst wurde. Es ging also nicht nur darum, die subjektive Betroffenheit in das beraterische Handeln einzubeziehen, sondern sie war auch Zielpunkt der beraterischen Intervention. Die subjektiv erlebte Betroffenheit der pflegenden Angehörigen führt häufig dazu, dass sie nicht selbst in der Lage sind, sich objektiv mit den pflegebezo- genen Problemen auseinanderzusetzen und sie zu lösen. Aus diesem Grund bedarf es der professionellen Beratung, die diese subjektive Betroffenheit einzubeziehen vermag. In Beratungssituationen besteht grundsätzlich auch die Möglichkeit der sub- jektiven Betroffenheit der Ber"
+      },
+      {
+        "rank": 3,
+        "id": "86d52ba0ebe60bc2619d9b367741ccfd123b6ea71be47ec524cb0580f89e9e37",
+        "score": 0.9180665016174316,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                0,
+                461
+              ]
+            }
+          ]
+        },
+        "content": "3.3.1 Professionelles Beratungshandeln Für die berufliche Tätigkeit als Bildungs- und Berufsberater_in gibt es in Ös­ terreich und Deutschland keine einheitlich geregelte Ausbildung und damit weisen die tätigen Berater_innen unterschiedliche Qualifikationen auf (vgl. Sauer-Schiffer 2004, S. 14). Die Professionalisierung von Beratung stellt ein entsprechend wichtiges und umfangreiches Forschungsfeld dar. Maier-Gut­ heil (vgl. 2013) unterscheidet in ihrer Darstellung der Professionalisierungs­ forschung im Beratungskontext zwischen zwei Zugängen. Einerseits wird professionelles Handeln kompetenztheoretisch untersucht, um ausdifferen­ zierte Kompetenzkataloge zu entwickeln. Kritisch wird hier die Verbindung zur performativen Ebene der konkreten Handlungen hinterfragt. Den zwei­ ten Zugang bilden die Aushandlungsprozesse innerhalb der bedingenden Faktoren und die daraus entstehenden Paradoxien und Spannungsverhält­ nisse (vgl. ebd., S. 179ff.). Nachfolgend wird auf ausgewählte Schwerpunkte"
+      },
+      {
+        "rank": 4,
+        "id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+        "score": 0.9142991900444031,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "4.6. Beratung als Handlungskompetenz Es gilt diese besondere Form professioneller sozialer Hilfe als reflexive Be- gegnung beobachten, steuern, analysieren und theoriegeleitet erklären zu können. WELTER-ENDERLIN und HILDENBRAND setzen die Kompeten- zen in vier Achsen zum zentralen ‚Fallverstehen in der Begegnung‘. Beratung als Fallverstehen in der Begegnung Handwerkskoffer: Interventionen, systemische Diagnostik und Prozesssteuerung Beratungsprofis in eigenen Bezügen: Das eigene Selbst, Beraterpersönlichkeit Feldtheoretische Modelle: Pflegewissenschaften, Gerontowissenschaften, Beratungswissenschaften Menschen in schwierigen Lebenslagen: (hier: Pflege und Beratung) Abb.10: Beratungskompetenzen in ihrer Vielfalt (frei nach Bruno Hildenbrand, Rosema- rie Welter-Enderlin1997) Unabhängig vom Format der Beratung kann für das Feld der Pflege und der Betreuung Markantes aus dem Wechselspiel aller Achsen abgeleitet werden. Und: die eine Achse beherrschen oder vielleicht noch eine zweite oder d"
+      },
+      {
+        "rank": 5,
+        "id": "7368fe23c208858d90bdb9e9ca30e7051f41e19e111540aaa663371b21b15886",
+        "score": 0.9044958353042603,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 20451,
+          "_split_overlap": [
+            {
+              "doc_id": "39671329dd7da5e160d73a4843391f1023738414608eff5fc8832fa4446a1b7d",
+              "range": [
+                1190,
+                1602
+              ]
+            },
+            {
+              "doc_id": "9976e4190b0ec980017538e8cd7b7445221a7f82e975b9f9cf86def717e42cdf",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "zu agieren, und jene Berate- rin, die die fehlende organisationale Unterstützung in Form von kollegialen Beratungen oder Supervi- sionen erwähnte, will sich eigeninitiativ um einen kollegialen Austausch bemühen. Diese Befunde bestätigen, dass organisationale Rahmenbedingungen der Beratungsanbieter die Beratungsprozesse beeinflussen und diese Einfluss- nahmen von den Professionellen auch wahrgenom- men werden (siehe Stanik 2015). Die vorliegende Untersuchung der Fallreflexionen zeigt, dass unter den BildunsgberaterInnen ein Be- ratungsverständnis vorherrscht, welches Beratung als zielorientiertes Gespräch konzeptualisiert, das mit Hilfe situationsangemessen auszuwählender Beratungsansätze zu bewältigen ist. Auffällig ist, dass die BeraterInnen ihre Beratungen in den Refle- xionen insgesamt als erfolgreich einschätzen. Ein- zelne, weniger gelungene Aspekte der Beratungen werden aber auch zum Anlass genommen, dazu zu lernen, um das eigene professionelle Handeln weiterzuentwickeln. Organis"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0713.txt",
+    "question": "Wie trägt das Krankenpflegegesetz von 2004 zur Verbesserung der Beratungskompetenzen von Pflegekräften bei?",
+    "answer": "Die Antwort auf die Frage kann nicht aus dem bereitgestellten Text abgeleitet werden. Der Text beschreibt zwar die Bedeutung von Beratung in der Pflege und die Kompetenzen von Pflegekräften, aber er gibt keine Informationen darüber, wie das Krankenpflegegesetz von 2004 die Beratungskompetenzen von Pflegekräften verbessert hat. Der Text erwähnt das Gesetz nur im Zusammenhang mit der Einführung des Begriffs \"Beratung\" in das Ausbildungsziel der Gesundheits- und Krankenpflegerinnen und nicht im Zusammenhang mit der Verbesserung der Beratungskompetenzen. Daher ist die Antwort: \"Ich kann diese Frage nicht beantworten, da die notwendigen Informationen im bereitgestellten Text nicht enthalten sind.\" (I cannot find the answer in the provided context.) \n\nHowever, based on the provided context, we can say that the new Krankenpfleggesetz of 2004 made Beratung a part of the Ausbildungsziel (§3 Abs.2) of Gesundheits- und Krankenpflegerinnen, which means that Beratung is now a required part of their education and training. This might imply that the new law aims to improve the Beratungskompetenzen of Pflegekräfte, but this is not explicitly stated in the text. \n\nA more precise answer would be: \"Das Krankenpflegegesetz von 2004 hat den Begriff 'Beratung' in das Ausbildungsziel der Gesundheits- und Krankenpflegerinnen aufgenommen, was darauf schließen lässt, dass die Beratungskompetenzen von Pflegekräften verbessert werden sollen.\" (The Krankenpflegegesetz of 2004 has included the concept of 'Beratung' in the Ausbildungsziel of Gesundheits- und Krankenpflegerinnen, which suggests that the Beratungskompetenzen of Pflegekräfte are intended to be improved.) \n\nHowever, please note that this answer is still based on inference and not directly supported by the text.",
+    "expected": "Das Krankenpflegegesetz von 2004 legt Wert auf die Entwicklung fachlicher, personaler, sozialer und methodischer Kompetenzen und fördert dadurch die Persönlichkeitsentwicklung. Dies ermöglicht eine kritische Auseinandersetzung mit der eigenen Person und dem beruflichen Handeln, was die Beratungskompetenz verbessert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4aa705b692cdd78af675a9957f2bb6a22aa4e0305d226337a220a5b8deeaafca",
+        "score": 0.9986572265625,
+        "meta": {
+          "file_path": "9783866496811_chapter_0622.txt",
+          "source_id": "a4ab9102ce89447b2a9b8569063bdf11aba811d3990f721e5dee40bf87c10e5d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "59be38d2fd5b8a97a0b5100599c6a9aec55efb29d8bb12c92424a633e2075a89",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "2.2.2. Normative Rahmung der Krankenpflege Etwa zeitgleich mit dem Altenpflegegesetz wurde das neue bzw. aktuelle Krankenpfleggesetz entworfen und trat am 1.1.2004 in Kraft. In diesem Ge- setz über die Berufe in der Krankenpflege (KrPflG) erhielt die Beratung als Begriff Einzug und wurde auch gleich zu einem Ausbildungsziel (§3 Abs.2) der Gesundheits- und Krankenpflegerinnen. § 3 Ausbildungsziel (1) Die Ausbildung für Personen nach § 1 Abs. 1 Nr. 1 und 2 soll entsprechend dem allgemein anerkannten Stand pflegewissenschaftlicher, medizinischer und weiterer be- zugswissenschaftlicher Erkenntnisse fachliche, personale, soziale und methodische Kompetenzen zur verantwortlichen Mitwirkung insbesondere bei der Heilung, Erkennung und Verhütung von Krankheiten vermitteln. Die Pflege im Sinne von Satz 1 ist dabei unter Einbeziehung präventiver, rehabilitativer und palliativer Maßnahmen auf die Wie- dererlangung, Verbesserung, Erhaltung und Förderung der physischen und psychischen Gesundheit der "
+      },
+      {
+        "rank": 2,
+        "id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+        "score": 0.9816635847091675,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3. Systemische Bezüge von Pflege und Beratung ### 3. Systemische Bezüge von Pflege und Beratung Seit der Implementierung des aktuellen Krankenpflegegesetzes ist eine stei- gende Zahl an Veröffentlichungen zum Thema ‚Beratung in der Pflege‘ zu beobachten. Verschiedene Autoren beschreiben Beratung als ein neues pfle- gerisches Handlungsfeld, welches dringend benötigt wird und durch ein sich kontinuierlich veränderndes Aufgabenfeld in der Pflege begründet ist (vgl. Koch-Straube 2002:87; Mertin 2005:2). Ein Blick in ältere Literatur, bzw. in die Pflegegeschichte macht deutlich, dass Krankheit von jeher nicht als ein rein naturgebundenes Phänomen be- trachtet wurde und die Ursachen von Krankheiten und deren Heilung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Le- benswandel und der Lebenssituation der Kranken in Verbindung gebracht wurden. Somit in den Ursachen der Krankheiten immer auch ein Wirkungs- Prinzip zu Grunde lag. Daher ist es auch nur nahe lieg"
+      },
+      {
+        "rank": 3,
+        "id": "c731ed08118957acedb25dc840b8eb2187a488303f5d1a65ef0614c895cc0525",
+        "score": 0.9483129978179932,
+        "meta": {
+          "file_path": "9783866496811_chapter_0712.txt",
+          "source_id": "acc9045b3fac6a2ab0db7f599c025f4a7eabfc9fe8a828b0c66069e13b95fa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a5697fea1f514c14301a6a3f93b1835631117dba7b08e16ab6c81d4830f8f6ff",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "3.1.2. Qualitative Studie in der somatischen Krankenpflege Ausgehend von der These, dass Beratung ein zentraler Aufgabenbereich der Pflege ist, sind in dieser Studie die zentralen Fragen: „Wird Beratung als Arbeits- auftrag gesehen?“ und „Fühlen sich die Pflegekräfte einer solchen Aufgabe gewachsen?“ Besondere Auswahlkriterien der Befragten bestanden neben den oben ge- nannten in keiner weiteren Zusatzqualifikation und einer aktuellen Berufstätigkeit ausschließlich auf allgemeinen Pflegestationen. Es wurden 12 Interviews durchgeführt, davon hatten alle Befragten eine abgeschlossene dreijährige Krankenpflegeausbildung und waren im Lebensalter von 22 bis 41 Jahren. Die Berufserfahrung lag zwischen 1½ und 17 Jahren. An dieser Studie nahmen Pflegekräfte aus sechs verschiedenen Bereichen Teil: Pneumologie, HNO, Allgemein-Chirurgie, Innere Station, Gynäkolo- gie/Geburtshilfe und Neurologie (vgl. Knelange 2000). Martin SCHIERON gliedert die Interviewergebnisse seiner Studie in 9 Kate- gorien "
+      },
+      {
+        "rank": 4,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9466137290000916,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 5,
+        "id": "f65fd5ef529138af2ae78b9387d27844b5eda1a5b8a03b0450b5119d5ecac8e0",
+        "score": 0.9213564991950989,
+        "meta": {
+          "file_path": "9783866496811_chapter_052.txt",
+          "source_id": "3d10137bee2ebbb955cd3b5bb4ee369c5e5ed363b6e31fa58b012813a6f84eeb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "0f8f3ce8b91b629ef1cc5c04660c20c09f02fb102c80a8b1f65bc426e5168c78",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "1.2. Beratung in Pflege, Pflegebildung und Betreuung Für den Kontext der Pflege bleibt noch viel Schnittstellenarbeit offen, die Profilbildung hat erst begonnen. An späterer Stelle wird auf das Welter-Enderlin-Modell der Fallverstehenden Beratung näher eingegangen. Theorien als das Wissen um Kenntnis und Erfahrung der eigenen Selbst- wirksamkeit, Methodenwissen/ Handwerkskoffer und Feldverstehen/ Praxiskompetenz, diese vier Parts bilden das integrale Ganze von Beratungs- kompetenz. Wir vertiefen in diesem Fachbuch die feldspezifischen Besonderheiten, weil nur so ein neues Verständnis geweckt und die kollegiale Weiterentwicklung der Dienstleistungsmarke Beratung in Gesundheit, Krankheit und Alter z.B. möglich sein wird. Zwei Linien finden wir in der Theoriebildung: die der Pflegeberatung und die psychosoziale Beratung erweitert um Gesundheit und Krankheit. Sowohl ‚Beratung in Pflege, Betreuung und Pflegebildung als auch pflege- relevante Kontexte und Beratung‘: beides sind Konstruktione"
+      }
+    ]
+  }
+]

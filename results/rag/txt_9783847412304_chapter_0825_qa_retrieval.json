@@ -1,0 +1,616 @@
+[
+  {
+    "filename": "9783847412304_chapter_0825.txt",
+    "question": "Wie viele Personen nahmen an der quantitativen Teilstudie zur wissenschaftlichen Weiterbildung an deutschen Hochschulen teil?",
+    "answer": "Die Frage ist nicht in dem bereitgestellten Textteil beantwortet. Es wird erwähnt, dass eine quantitative Befragung im Rahmen des Propädeutikums an der OTH Amberg-Weiden sowie eine Befragung mit Weiterbildungsteilnehmenden am Zentrum für Weiterbildung und Wissensmanagement in Regensburg (ZWW) durchgeführt wurden, aber die Teilnehmerzahl wird nicht genannt. Es wird jedoch erwähnt, dass 168 Personen ein Weiterbildungsinteresse geäußert haben. Es ist jedoch nicht klar, ob dies Teilnehmer der quantitativen Teilstudie sind oder ob dies eine andere Teilnehmergruppe ist. Daher kann die genaue Teilnehmerzahl der quantitativen Teilstudie nicht bestimmt werden.  Ich kann die genaue Teilnehmerzahl der quantitativen Teilstudie nicht bestimmen, da diese nicht im bereitgestellten Textteil genannt wird. Es wird erwähnt, dass eine quantitative Befragung im Rahmen des Propädeutikums an der OTH Amberg-Weiden sowie eine Befragung mit Weiterbildungsteilnehmenden am Zentrum für Weiterbildung und Wissensmanagement in Regensburg (ZWW) durchgeführt wurden, aber die Teilnehmerzahl wird nicht genannt. Es wird jedoch erwähnt, dass 168 Personen ein Weiterbildungsinteresse geäußert haben. Es ist jedoch nicht klar, ob dies Teilnehmer der quantitativen Teilstudie sind oder ob dies eine andere Teilnehmergruppe ist. Daher kann die genaue Teilnehmerzahl der quantitativen Teilstudie nicht bestimmt werden. I cannot find the answer in the provided context.        Die Frage ist nicht in dem bereitgestellten Textteil beantwortet. Es wird erwähnt, dass eine quantitative Befragung im Rahmen des Propädeutikums an der OTH Amberg-Weiden sowie eine Befragung mit Weiterbildungsteilnehmenden am Zentrum für Weiterbildung und Wissensmanagement in Regensburg (ZWW) durchgeführt wurden, aber die Teilnehmerzahl wird nicht genannt. Es wird jedoch erwähnt, dass 168 Personen ein Weiterbildungsinteresse geäußert haben. Es ist jedoch nicht klar, ob dies Teilnehmer der quant",
+    "expected": "276 Personen nahmen an der quantitativen Teilstudie teil.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "bd7cade93937f43cb365125bfc9099a1f8fc7f114ffa9f81ec4fdff4c6e53b4f",
+        "score": 0.9478193521499634,
+        "meta": {
+          "file_path": "9783847412304_chapter_0834.txt",
+          "source_id": "68cac61703f3717203c7ff7d636b0b6782c27974390bfba59ac89e960afbd339",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1303,
+          "_split_overlap": [
+            {
+              "doc_id": "545af86e0f4abf0ab756895fd15e55d1678109040c7f4a6a5690171760797c21",
+              "range": [
+                1303,
+                1702
+              ]
+            }
+          ]
+        },
+        "content": "herangezogen3. Ziel der Befragung aus Sicht von Beratung und Betreuung war, das Interesse, den Informationsstand, den Informationsweg, Barrieren und Bedarfe für die Weiterbildungsteilnahme zu identifzieren. Die Gruppe der „Teilnehmer/innen von Weiterbildungsangebo- ten“4 umfasst Personen, die bereits an einer Weiterbildung an einer Hochschu- le teilgenommen haben oder zum Zeitpunkt der Befragung an einer solchen teilnehmen. Ihre Daten wurden in Form einer quantitativen Befragung im Rahmen des Propädeutikums5 an der OTH Amberg-Weiden sowie in Form ei- ner Befragung mit Weiterbildungsteilnehmenden am Zentrum für Weiterbil- dung und Wissensmanagement in Regensburg (ZWW) erhoben. Ziel der Be- fragungen war aus Sicht von Beratung und Betreuung, die Informationswege der Teilnehmenden, ihre Kenntnisse über bestehende Angebote der Beratung und Unterstützung und deren Bewertung, sowie weitere Bedarfe für eine er- folgreiche Teilnahme an einer Weiterbildung an einer Hochschule zu ermit- teln. De"
+      },
+      {
+        "rank": 2,
+        "id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+        "score": 0.9309056997299194,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1147,
+          "_split_overlap": [
+            {
+              "doc_id": "d7835ff49b13ad05e5555bc224a32ce76e6c608a7d55ecbe4282ae7d1a02c967",
+              "range": [
+                1147,
+                1545
+              ]
+            },
+            {
+              "doc_id": "0f2bedf6d6caf4a2b864f3ab8dcf77a9061562c7d81ba27c62cee84f44f541de",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Anforderungen. 80,6% der Frauen sowie 74,9% der Männer äußersten Interesse an Weiterbil- dung an Hochschulen. In einem zweiten Schritt erfolgte die Analyse von Personen, die ein Wei- terbildungsinteresse geäußert haben (N=168). Insbesondere für Frauen sind folgende Aspekte bei einer Weiterbildung wichtig: ‚sich persönlich weiter- entwickeln‘, ‚berufliche/fachliche Kenntnisse erwerben‘ und ‚neue innerbe- triebliche Tätigkeitfelder übernehmen‘. Bei Männern verhält es sich ähnlich, auch sie wollen sich ‚persönlich weiterentwickeln‘ und ‚berufliche/fachliche Kenntnisse erwerben‘ und mehr Geld verdienen. 86,7% der befragten Män- ner und 92,0% der befragten Frauen würden unterschiedliche Beratungs- und Unterstützungsangebote an Hochschulen in Anspruch nehmen. Von diesen (N=148) finden 88,5% die persönliche Beratung am hilfreichsten, danach folgen Beratungen per E-Mail (53,4%) und Online-Informationsmaterialien (51,4%). Keine geschlechterspezifischen Unterschiede zeigen sich bei Beratungsthem"
+      },
+      {
+        "rank": 3,
+        "id": "820164d093c0639f774255b48551d14b67f9a485c84cd2e42d1f1bd50d0bcb6d",
+        "score": 0.8616111278533936,
+        "meta": {
+          "file_path": "9783847412304_chapter_0836.txt",
+          "source_id": "3bad86e2170ee60d601dc5529d76ffcfd56b25cb3d50c243ba8cafc3de76f9f1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "0ab0ae7018a863483568ba1ecb81cd141dcbca3fae9f35457b0506969ed7d90e",
+              "range": [
+                0,
+                458
+              ]
+            }
+          ]
+        },
+        "content": "6. Umsetzung Auf Grundlage der gewonnenen Erkenntnisse aus Literatur und eigenen Erhe- bungen wurden zielgruppenspezifische und bedarfsgerechte Beratungs- und Betreuungsangebote (weiter-)entwickelt. Die Angebotsentwicklung orientiert sich dabei an dem Konzept des Student-Life-Circle (siehe Abbildung 2). „raising aspiration“ Das Weiterbildungsinteresse muss geweckt und die Öffnung der Hochschulen bekannter gemacht werden. Wie die Ergebnisse der Bedarfserhebung zeigen, weiß ein Großteil der Befragten nicht, dass Hochschulen Weiterbildungen anbieten. Potentielle Teilnehmenden gaben an, v. a. das Internet zur Informationsgewinnung zu nutzen, daher wurden insbesondere webbasierte Beratungsangebote entwickelt. „better preparation“ In dieser Phase steht vor allem die Beratungs- und Informationsbereitstellung im Fokus. Hierbei erfolgt meist die erste persönliche Kontaktaufnahme seitens der (potentiellen) Teilnehmenden. Beratungsformen wie E-Mail, Informationsveranstaltungen sowie persönliche u"
+      },
+      {
+        "rank": 4,
+        "id": "31184bdb3eef4babbd4bacd9c23861e76a8d7353700311198b4c9312b07b58ed",
+        "score": 0.8512676954269409,
+        "meta": {
+          "file_path": "9783847412304_chapter_0823.txt",
+          "source_id": "fa3375167728877dda54cc82a15d00495dc967d659849c222d209ba4f7244298",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1290,
+          "_split_overlap": [
+            {
+              "doc_id": "14344c53827b59e4905988133412da189dee3e9a6f995dcbf5ecaab3924ac57b",
+              "range": [
+                1290,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "ist. Sowohl die Positionierung der wissenschaftlichen Weiterbildung in der Hochschule als auch das Verhältnis zwischen Hochschule und außerhochschulischen Akteur_innen werde in Arenen ausgehandelt (vgl. ebd., S. 97). Anrechnungsberatung, die sich an eine erst noch zu erreichende Zielgruppe richtet, steht in diesem Kontext. Ratgebende sind Akteur_innen an der Grenze der sozialen Welt, die sich transitiv an ratsuchende beruflich Qualifizierte richten (vgl. Maier-Gutheil 2016, S. 18 f.). Letztere befinden sich als Studieninteressierte (noch) außerhalb der sozialen Welt oder als Studienanfänger_innen im Übergang in diese. Innerhalb der Hochschule ist wissenschaftliche Weiterbildung durch ihre besondere Nähe zum Beruflichen (vgl. Jütte 2016) grenznah positioniert. Ausdruck findet dies etwa in der Vereinbarung der KMK, an beruflichen Erfahrungen der Teilnehmer_innen anzuknüpfen (vgl. KMK 2001, S. 3), beispielsweise durch verbesserte Möglichkeiten der Anerkennung und Anrechnung von außerhochs"
+      },
+      {
+        "rank": 5,
+        "id": "0cb83e70e137429eb3f132e540ed162a9d07620c3c8bd8bf8c5470d9f88aa855",
+        "score": 0.7542457580566406,
+        "meta": {
+          "file_path": "9783847412304_chapter_10342.txt",
+          "source_id": "2fe3183d7ed44467574af86054211aa55d622ac4187e49eb7d82911551bdfa04",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5667,
+          "_split_overlap": [
+            {
+              "doc_id": "a5721837724bb5386926fa17f8fc9e45b9d37bb4720057efd11bcac6020bb0de",
+              "range": [
+                1151,
+                1569
+              ]
+            }
+          ]
+        },
+        "content": "den Zweck, die Beratungssituation einer Transfergesellschaft zu strukturieren, indem zunächst in der Großgruppe damit gearbeitet und dann eine individuelle Beratung angeschlossen wird. Die Profiling-Bögen bieten also einen Anlass, mit den Teilnehmenden den Übergang zu thematisieren und werden dazu methodisch vielfältig eingesetzt. Deutlich werden dadurch die Bemühungen der Transfergesellschaft, die Profiling-Bögen zum persön- lichen Vorteil der Teilnehmenden zu gestalten und der verbindlichen Durch- führung des Profilings einen individuellen Nutzen der Transfergesellschaft in Form von Kurzprofilen abzugewinnen."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0825.txt",
+    "question": "Welcher Prozentsatz der Befragten gab an, in weiterbildenden Studiengängen Möglichkeiten der Anrechnung zu bieten?",
+    "answer": "72,5% der Befragten gaben an, in weiterbildenden Studiengängen Möglichkeiten der Anrechnung zu bieten. 200 Befragte (72,5%) gaben an, im weiterbildenden Studien- gang Möglichkeiten der Anrechnung zu bieten. In Bezug auf Anrechnungsberatung wurden zwei Aspekte deutlich: Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungs- fragen (95%). Wenige geben an, die Beratung zu planen (2%). Ebenso wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsberatung (2%) und ein kleiner Rest gibt keine Antwort (1%). Der von den Befragten geschätzte Umfang der Beratung stellt sich vielfältiger dar. Es gibt einen hohen statistischen Zusammenhang zwischen der Matrikelgröße und der Einschätzung des Beratungsumfangs: Je kleiner die Matrikel, desto eher wird von einem hohen Beratungsumfang ausgegangen. Es ist also anhand der quantitativen Beschreibungen zunächst festzuhalten, dass eine große Zahl der Befragten zustimmt, Anrechnungsberatung zu bieten, es werden aber Unter- schiede im geschätzten Umfang der Beratung deutlich.        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .        .",
+    "expected": "72,5 % der Befragten gaben an, in weiterbildenden Studiengängen Möglichkeiten der Anrechnung zu bieten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ed204f3cd33786d73fdd7b937cc7c6c77f14b0a4e1183d61c0f5d862f251d29a",
+        "score": 0.8421739935874939,
+        "meta": {
+          "file_path": "9783847412304_chapter_0822.txt",
+          "source_id": "2001d274480f5235a07c05e0d30ddd2c368c226dd9a6a059ac37160bce6b6959",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3528,
+          "_split_overlap": [
+            {
+              "doc_id": "daa126d225e4cb136220850c54507ed35b8970a27e4161fa95f37738eca17ec0",
+              "range": [
+                1085,
+                1447
+              ]
+            }
+          ]
+        },
+        "content": "wenn Studierende immatrikuliert seien. Der Zugang zum weiterbildenden Studium (vgl. Faulstich et al. 2007, S. 140) sowie die Anerkennung von außerhochschulischen Vorleistungen wer- den als Nadelöhr identifiziert (vgl. Dörner 2016, S. 15). Ziel von Beratung müsse es in diesem Zusammenhang sein, so Nico Sturm und Noell Marie Bopf (2017), Fragen und Unklarheiten bei der Anrechnung zu bearbeiten, in- dem nicht-traditionell Studierenden die Studien- sowie Auswahlentscheidung durch das Aufzeigen von Anrechnungsmöglichkeiten erleichtert werde (vgl. ebd., S. 26)."
+      },
+      {
+        "rank": 2,
+        "id": "352e333fc4d188b95904d3dbcbcc98c01107567557e26f7e815ad219f4719b1a",
+        "score": 0.5104454755783081,
+        "meta": {
+          "file_path": "9783847412304_chapter_0825.txt",
+          "source_id": "91383cb025508de2dc48f3d35f6d53708a3c06cec7a39a7bac7a00741eaca6b5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Beratungsangebote: Verbreitung und Umfang In der quantitativen Teilstudie nahmen 276 Personen, die nach eigenen Anga- ben in der wissenschaftlichen Weiterbildung an einer deutschen Hochschule für Anrechnungsfragen zuständig sind, an einer onlinebasierten Fragebogen- untersuchung teil. Erhoben wurden Daten der Befragten, der durch sie re- präsentierten Studiengänge sowie zur Anrechnung von außerhochschulischen Vorleistungen. 200 Befragte (72,5%) gaben an, im weiterbildenden Studien- gang Möglichkeiten der Anrechnung zu bieten. In Bezug auf Anrechnungsbe- ratung wurden zwei Aspekte deutlich: Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungs- fragen (95%). Wenige geben an, die Beratung zu planen (2%). Ebenso wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsbe- ratung (2%) und ein kleiner Rest gibt keine Antwort (1%). Der von den Be- fragten geschätzte Umfang der Beratung stellt sich vielfältiger dar. Es gibt"
+      },
+      {
+        "rank": 3,
+        "id": "71d88306982ef337c55eaf27afa21abac564b42c45d66266b48cd7967fc3f7e7",
+        "score": 0.4077805280685425,
+        "meta": {
+          "file_path": "9783847412304_chapter_082623.txt",
+          "source_id": "b6ce52d54795a3f0517594c0697cab0a05b6c78e2cf60368ce893e7e8530a073",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2320,
+          "_split_overlap": [
+            {
+              "doc_id": "3d3efe6923ca4360b10c454e0dcfb3a15f862f53332fccbfa72c4a20294bd3b3",
+              "range": [
+                1026,
+                1412
+              ]
+            }
+          ]
+        },
+        "content": "bei einer Studiengangskoordinatorin exemplarisch deutlich wird: „Ich berate auch zu dem Einstieg ins Berufsleben. Also dann nach dem Studium also […] nach der Akademisierung Einstieg ins Berufsleben aber auch [möglicher anschließender, C. D.] Masterstudiengänge.“ Anrechnungsberatung bezieht sich in diesem Handlungsmuster also sowohl auf gezielte und geprüfte Übergänge in das Studium als auch aus dem Studi- um heraus."
+      },
+      {
+        "rank": 4,
+        "id": "cfc0a5268bb1df6fe43a6c68f93f270e0953b20a1631985b52aad0ebc6b4abf8",
+        "score": 0.1370454579591751,
+        "meta": {
+          "file_path": "9783847412304_chapter_082623.txt",
+          "source_id": "b6ce52d54795a3f0517594c0697cab0a05b6c78e2cf60368ce893e7e8530a073",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3d3efe6923ca4360b10c454e0dcfb3a15f862f53332fccbfa72c4a20294bd3b3",
+              "range": [
+                0,
+                343
+              ]
+            }
+          ]
+        },
+        "content": "Handlungsmuster „Gezielt genutzte Öffnung“ Im dritten Handlungsmuster, „Gezielt genutzte Öffnung“, wird die Debatte um die Öffnung der Hochschulen als Chance gesehen, ein innovatives Studienangebot zu etablieren oder zur Professionalisierung eines Berufsfeldes beizutragen. Angebote der wissenschaftlichen Weiterbildung stehen hier vor der Aufgabe, sich innerhalb der Hochschule zu etablieren. Gleichzeitig werden klassische Zugangsmöglichkeiten hinterfragt: Berufspraktiker_innen ohne ersten Hochschulabschluss oder ohne Hochschulzugangsberechtigung soll aufgrund einer besonderen berufspraktischen Eignung der Zugang zum Studium ermöglicht werden. Anrechnung wird hier als Instrument genutzt, um Zulassungsvoraussetzungen zu erfüllen. Anrechnung auf die Studieninhalte wird hingegen abgelehnt, da die beruflichen Erfahrungen didaktisch in das Studienprogramm eingebettet werden sollen. Anrechnung und Anrech- nungsberatung sind auf den Zugang zum Studienangebot und insbesondere die Ermöglichung de"
+      },
+      {
+        "rank": 5,
+        "id": "10ca42567849bd355f450bd9205cf8e2c070e205d0ea06c36636a044f166a902",
+        "score": 0.067101389169693,
+        "meta": {
+          "file_path": "9783839444856_chapter_07412.txt",
+          "source_id": "799f5bacb5a71b420d18aa9ee81a1fd2915f468164b3465bb3a215dd0635e9ff",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2298,
+          "_split_overlap": [
+            {
+              "doc_id": "470dfd90bb3d4a225912eca47dd90572a9e8c130f6cb624910d796c72ff41c68",
+              "range": [
+                1011,
+                1400
+              ]
+            },
+            {
+              "doc_id": "08b798847152c279fba3d8631c3c7be8f16eac18db404444d531968a7514455f",
+              "range": [
+                0,
+                301
+              ]
+            }
+          ]
+        },
+        "content": "Die interviewte Person beschreibt ein Beispiel zu Beginn der Anerkennungs­ beratung, bei dem die Rückmeldung der ersten Erfolgserlebnisse einen be­ sonderen Stellenwert eingenommen hat. Der Prozess der bildungsadäqua­ ten Integration wurde vom Erwerb der notwendigen Sprachkenntnisse über die formale Anerkennung der im Ausland erworbenen Qualifikation bis zur beruflichen Integration von der Anerkennungsberatung begleitet. Dass die beratene Person über ihren weiteren beruflichen Verlauf informiert hat, wird hier auf die positiv erlebte Beratungsbeziehung zurückgeführt, die aufgrund der mehrfachen persönlichen und schriftlichen Beratungskon­ takte sowie der praktischen Unterstützung im Verfahren entstanden ist. Im Unterschied zu den förderpolitischen Vorgaben wird in den Interviews diese Zielsetzung jedoch nicht aus einer arbeitsmarktpolitischen Perspektive ab­ geleitet, sondern aufgrund der Beratungsanliegen der Klient_innen formu­ liert. »IN: Was, sagen Sie, ist Ihr Ziel von der Beratun"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0825.txt",
+    "question": "Welche zwei Hauptaspekte zur Anrechnungsberatung wurden in der Studie deutlich?",
+    "answer": "Die beiden Aspekte, die in der Studie deutlich wurden, sind: 1) Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungsfragen (95%). 2) Wenige geben an, die Beratung zu planen (2%). Ebenso wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsberatung (2%) und ein kleiner Rest gibt keine Antwort (1%). Der von den Befragten geschätzte Umfang der Beratung stellt sich vielfältiger dar. Es gibt einen hohen statistischen Zusammenhang zwischen der Matrikelgröße und der Einschätzung des Beratungsumfangs: Je kleiner die Matrikel, desto eher wird von einem hohen Beratungsumfang ausgegangen. Es ist also anhand der quantitativen Beschreibungen zunächst festzuhalten, dass eine große Zahl der Befragten zustimmt, Anrechnungsberatung zu bieten, es werden aber Unterschiede im geschätzten Umfang der Beratung deutlich.",
+    "expected": "Erstens bietet der überwiegende Teil der Befragten (95 %) Möglichkeiten der Beratung bei Anrechnungsfragen. Zweitens planen nur wenige Befragte (2 %) die Beratung, und ebenso wenige (2 %) bieten trotz Anrechnungsmöglichkeiten keine Beratung an.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "318cf89f56dc2457c4da6cb50f9534fe77569bce1bde8ee7c0490dbb47c93411",
+        "score": 0.9565833210945129,
+        "meta": {
+          "file_path": "9783847412304_chapter_0821.txt",
+          "source_id": "851e6db8351e868a25265090e85416abd84aaaa1ca7d30febaa2cf083f5f5e0d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Christoph Damm Anrechnungsberatung als Möglichkeit der ­ Öffnung von Hochschulen? Struktur und Praxis der ­Anrechnungsberatung in der ­wissenschaft­lichen ­Weiterbildung Im Beitrag wird der Frage nachgegangen, wie sich Anrechnungsberatung in Bezug auf die Öffnung von Hochschulen darstellt. Hergeleitet wird zunächst (1) Öffnung der Hochschulen für beruflich Qualifizierte sowie die Relevanz von Anrechnungsberatung. Anschließend wird (2) Anrechnungsberatung als Interaktionszusammenhang an den Grenzen der sozialen Welt wissenschaft- liche Weiterbildung konstruiert. Dem folgen (3) Ausführungen zu einer bun- desweiten Studie, die im Hinblick auf anrechnungsbezogene Interaktionszu- sammenhänge zwischen Ratsuchenden und –gebenden vorgestellt wird. Der Beitrag schließt (4) mit dem Fazit, dass Anrechnungsberatung dann zur Öff- nung der Hochschulen beiträgt, wenn dies im Interesse des Studienangebots bzw. der Hochschule ist."
+      },
+      {
+        "rank": 2,
+        "id": "131623e9188a360888f1aea2079bd819c4bf47c2eb4f0a1d6707f3e743b98f71",
+        "score": 0.8479523062705994,
+        "meta": {
+          "file_path": "9783847412304_chapter_0832.txt",
+          "source_id": "299daae5dc72f9345ecba36207a1aeeb216abd13c770f7bba6b5f8aa239420c0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2551,
+          "_split_overlap": [
+            {
+              "doc_id": "f97fdd41b48b7854fa51ea340bbefb3149c77cd5b2b1fe32e4293ced9fcb1d20",
+              "range": [
+                1270,
+                1674
+              ]
+            }
+          ]
+        },
+        "content": "Qualifizierte ein besonders hohes Interesse an der entsprechenden Fachthematik aufweisen und somit auch eine große Bereitschaft zur Anstrengung besteht. Nach Otto und Schwaniger (2013) sind die Beweggründe berufliche Qualifizierter für ein Studium vor allem die persönliche Weiterentwicklung, die Erweiterung von Fachwissen und die berufliche Weiterentwicklung. Banscherus und Pickert (2013) behandelten das Thema Unterstützungsangebote für neue Zielgruppen der Hochschulen und zeigen unter anderem einige Hürden auf. Die Zielgruppe der Studierenden ohne schulische Studienberechtigung weist einen hohen Bedarf an Informationen und Beratung hinsichtlich Studienanforderungen, Studienfinanzierung, Vereinbarkeit von Studium mit beruflichen und/oder familiären Anforderungen, Zulassungs- und Zugangsbedingungen und Anrechnung von beruflichen Kompetenzen auf. Bei Fernweiterbildungen zeigte sich, dass v. a. telefonische oder E-Mail-Beratungen genutzt wurden (Fogolin 2010). „Fast zwei Drittel der Befra"
+      },
+      {
+        "rank": 3,
+        "id": "cb7cbb53b1405c3c94f8ae4724353f64b6abd0f965c40dac232db1005eb836fa",
+        "score": 0.804454505443573,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 13497,
+          "_split_overlap": [
+            {
+              "doc_id": "7b4263c69516f1cc2f9fe9b8442f987218b0ec07aeb5fb9cd27a63874c6ffbc9",
+              "range": [
+                1010,
+                1480
+              ]
+            }
+          ]
+        },
+        "content": "nicht machen« (I/DE, Z. 291-297). Die institutionelle Verortung von Anerkennungsberatung stellt eine wichti­ ge Rahmenbedingung für die Ausgestaltung des Beratungsauftrags und des beruflichen Selbstverständnisses der Berater_innen dar. Dabei werden trotz der unterschiedlichen institutionellen Träger bestimmte Prinzipien deut­ lich, welche institutionen- und länderübergreifend das Selbstverständnis von Anerkennungsberatung charakterisieren. Diese Aufgabengebiete und Prinzipien sind Gegenstand der nachfolgenden Analyse und Interpretation der Expert_inneninterviews. Die hier dargestellten individuellen Bildungs- und Berufsbiografien der Berater_innen wie auch die Beschreibung der Be­ ratungsstellen dienen als Grundlage für die Einordnung der Ergebnisse."
+      },
+      {
+        "rank": 4,
+        "id": "352e333fc4d188b95904d3dbcbcc98c01107567557e26f7e815ad219f4719b1a",
+        "score": 0.7770467400550842,
+        "meta": {
+          "file_path": "9783847412304_chapter_0825.txt",
+          "source_id": "91383cb025508de2dc48f3d35f6d53708a3c06cec7a39a7bac7a00741eaca6b5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Beratungsangebote: Verbreitung und Umfang In der quantitativen Teilstudie nahmen 276 Personen, die nach eigenen Anga- ben in der wissenschaftlichen Weiterbildung an einer deutschen Hochschule für Anrechnungsfragen zuständig sind, an einer onlinebasierten Fragebogen- untersuchung teil. Erhoben wurden Daten der Befragten, der durch sie re- präsentierten Studiengänge sowie zur Anrechnung von außerhochschulischen Vorleistungen. 200 Befragte (72,5%) gaben an, im weiterbildenden Studien- gang Möglichkeiten der Anrechnung zu bieten. In Bezug auf Anrechnungsbe- ratung wurden zwei Aspekte deutlich: Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungs- fragen (95%). Wenige geben an, die Beratung zu planen (2%). Ebenso wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsbe- ratung (2%) und ein kleiner Rest gibt keine Antwort (1%). Der von den Be- fragten geschätzte Umfang der Beratung stellt sich vielfältiger dar. Es gibt"
+      },
+      {
+        "rank": 5,
+        "id": "1011b5b6b9116d2d1095c4cfae728bcd826c889f4904349d8a0d80ac341a1141",
+        "score": 0.731761634349823,
+        "meta": {
+          "file_path": "9783847412304_chapter_0822.txt",
+          "source_id": "2001d274480f5235a07c05e0d30ddd2c368c226dd9a6a059ac37160bce6b6959",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1237,
+          "_split_overlap": [
+            {
+              "doc_id": "14dca5980b523ae3766baf981063c4317c7f895253b90ec6f58f22694f9f302b",
+              "range": [
+                1237,
+                1650
+              ]
+            },
+            {
+              "doc_id": "daa126d225e4cb136220850c54507ed35b8970a27e4161fa95f37738eca17ec0",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "andere Studierende bei der Zulassung zum Studium nutzen (vgl. ebd., S. 301, 304). Anzunehmen sind Herausforderungen sowohl bei der Aufnahme als auch bei der Bewältigung eines weiterbildenden Studiums, also neben Beruf und familiären Verpflichtungen. Anrechnung von außerhochschulischen, etwa be- ruflichen Vorleistungen (z. B. Kenntnisse, Fähigkeiten, Qualifikationen), soll diese Herausforderungen abmildern und damit mehr beruflich Qualifizierten den Zugang zum weiterbildenden Studium eröffnen. In allen Studiengängen, die seit 2015 akkreditiert oder reakkreditiert wurden, solle geprüft werden, inwiefern Möglichkeiten der Anrechnung von Vorleistungen vorgehalten wer- den (vgl. Akkreditierungsrat 2014). Vor dem Studium erworbene Fähigkeiten und Fertigkeiten sollen bei Gleichwertigkeit verwendet werden können, um ein wiederholtes Studieren von bereits Bekanntem zu vermeiden sowie eine Reduzierung von Studieninhalten und/oder -kosten zu ermöglichen (Milde- rung zeitlicher Herausforderungen u"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0825.txt",
+    "question": "Wie hängt die Matrikelgröße mit dem geschätzten Umfang der Anrechnungsberatung zusammen und was bedeutet das für kleinere Matrikel?",
+    "answer": "Es gibt keine Informationen im Text, die die Beziehung zwischen der Matrikelgröße und dem geschätzten Umfang der Anrechnungsberatung erklären. Der Text befasst sich mit der Beratung von Studierenden, insbesondere der Anerkennungsberatung, und beschreibt die Herausforderungen und Probleme, die dabei auftreten können. Es wird erwähnt, dass die Anrechnung von Bildungsnachweisen auf das Studium oft schwierig ist und dass die Berater versuchen, diese Herausforderungen zu umgehen, indem sie die Anrechnung nicht direkt ansprechen, sondern stattdessen auf die Beratung nach der Immatrikulation konzentrieren. Es wird jedoch nicht spezifiziert, wie sich die Matrikelgröße auf den Umfang der Anrechnungsberatung auswirkt oder wie kleinere Matrikeln im Vergleich zu größeren Matrikeln wahrgenommen werden. Daher kann keine direkte Antwort auf diese Frage gegeben werden. I cannot find the answer in the provided context.",
+    "expected": "Es besteht ein hoher statistischer Zusammenhang: Je kleiner die Matrikelgröße, desto eher wird von einem hohen Beratungsumfang ausgegangen. Das bedeutet, dass kleinere Matrikel tendenziell einen umfangreicheren Beratungsservice bei Anrechnungsfragen bieten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9e40715daee1f9c35a723c9b4e25b419b3a6ef7aa753a53852b6694df1542e98",
+        "score": 0.890070378780365,
+        "meta": {
+          "file_path": "1001586_chapter_082.txt",
+          "source_id": "ec6f37a770ce22867e40159aa4ccf77afc5964620850740d03c129a8e34c5805",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1067,
+          "_split_overlap": [
+            {
+              "doc_id": "23cb3a3e0d8d1611cdc40c7d56120c75961e2d46bac342df230c9e95216bcbd0",
+              "range": [
+                1067,
+                1422
+              ]
+            },
+            {
+              "doc_id": "1be33f0d8e8fce093604a1b3e0b41f1a0271440aa0f404765b8dd926dda74d58",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "meinen Räumlichkeiten umsetzen? Ziele und Funktionen reflektieren Neben diesen inhaltlichen Zielen gibt es auch zahlreiche Prozessfunktio­ nen, die ich beachten kann. Methoden wie die Netzwerkmethode (S. 162) sind z.B. auch dafür geeignet, von einem zum nächsten Schritt überzuleiten. Die Reflexion von Zielen und Funktionen ist nicht nur für die Auswahl der Methoden wichtig. Erst wenn ich mir bewusstmache, was ich mit der ent­ sprechenden Methode generell erreichen möchte, setze ich diese Ziele auch in der Beratung um. Von den bewussten Zielen und Funktionen hängen auch die Anleitung der Methoden und die Auswahl der wirkungsvollen Interventionen innerhalb der Beratung ab. Die eigene Zielgruppe ernst nehmen Der Zielgruppenbegriff ist ambivalent. Mit „Zielgruppe“ ist ein Personenkreis gemeint, an den sich das Beratungsangebot insbesondere richtet. An die För­ derung bestimmter Zielgruppen sind häufig kommunale Gelder gebunden. Um das Beratungsangebot auf eine Zielgruppe zuschneiden zu kön"
+      },
+      {
+        "rank": 2,
+        "id": "0225eeab98dc98adb409b8948847463d56f1cf1b22cf228176660a8cb937085e",
+        "score": 0.875742495059967,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12352,
+          "_split_overlap": [
+            {
+              "doc_id": "6ad5a2473296e280888da0e68d1b45bb8bcdf6dc4c37eb7895cb373016665209",
+              "range": [
+                1225,
+                1611
+              ]
+            },
+            {
+              "doc_id": "51b5ea4c3b0764279ab2a8daa35a6a64da10e505016873dee0d681f2ec11de63",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "in diesen Beschreibungen findet dabei eine explizite parteiliche Zuordnung zur beratenen Person statt. Diese parteiliche Beratungshaltung wird im Weiteren in dem Verständ­ nis der Zielgruppe deutlich. Anerkennungsberatung führt durch die Spe­ zialisierung nicht nur zu einer Einschränkung der zu beratenden Personen, sondern kann im Vergleich mit anderen förderpolitischen Vorgaben für Be­ ratungsangebote auch zu einer Erweiterung der Zielgruppe führen. »[B]ei den ASTen hat man jetzt alle. Also auch wenn sie ein Diplom vom Jahre Schnee haben, machen wir eine erste Einschätzung. Das ist neu, das finde ich gut. Weil: Es gibt einfach oft auch Leute, die haben ein Studium irgendwo ge­ macht und sind gekommen und haben irgendeinen Job gemacht, nur damit sie Geld verdienen. Und die sagen dann nach zehn, fünfzehn oder 20 Jahren: ›So jetzt reicht’s, dass ich als Küchenhelfer gearbeitet habe, jetzt möchte ich nochmal was Gscheid’s machen‹, oder das AMS schickt sie, weil sie jetzt gera­ de arbeitsl"
+      },
+      {
+        "rank": 3,
+        "id": "c66d42e598b555eb816eb85bfb7e2bede8ac6efc9d0f3c27ae7facf191282d7c",
+        "score": 0.8416661620140076,
+        "meta": {
+          "file_path": "9783847412304_chapter_08261.txt",
+          "source_id": "f0a5ee7936824d7aa25416018c17649602fd2ec9c75db716b8c60cd1f1cca0f9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1113,
+          "_split_overlap": [
+            {
+              "doc_id": "9bfdbbc4420e1debdf566c50178a8cff21ef5c946e6c59ad90b19965e9592d0c",
+              "range": [
+                1113,
+                1472
+              ]
+            }
+          ]
+        },
+        "content": "Anrechnung klein gehalten werden sollen, wird möglichst vermieden, Informationen zur Anrechnung zu geben und dazu zu beraten. Exemplarisch steht dafür die Aussage einer Stu- diengangskoordinatorin: „die Unwissenheit [der Studierenden ist, C. D.] das, was uns natürlich auch davor schützt, dass wir uns damit beschäftigen müssen“.8 Möglich wird dies durch die klare Trennung von Anrechnung beim Zugang und Beratung nach Immatrikulation. Eine Anrechnung auf Inhalte ist nicht möglich, letztlich um zu vermeiden, dass offizielle Anträge gestellt werden: „meist läuft das auf=ner informellen Ebene ab […] wir müssen das dann im Rahmen der Beratung schon vereinen und sagen: ‚nein, das geht nich-‘“. Beratungszusammenhänge werden in diesem Handlungsmuster deutlich, be- ziehen sich allerdings nicht auf Anrechnung."
+      },
+      {
+        "rank": 4,
+        "id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+        "score": 0.8249486088752747,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 14487,
+          "_split_overlap": [
+            {
+              "doc_id": "51b5ea4c3b0764279ab2a8daa35a6a64da10e505016873dee0d681f2ec11de63",
+              "range": [
+                1146,
+                1481
+              ]
+            },
+            {
+              "doc_id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "angemeldet. Das heißt, dass viele Arbeitgeber_innen profitiert haben, was eigentlich Unrecht ist […]. Genau, man sagt auch, man hat die 20 Jahre wirklich gearbeitet, und dann wird festgestellt eigentlich, der war nur als ungelernter Arbeitnehmer angemeldet oder eingestuft sozusagen, und er zeigt mir sein Diplom als Maurer, was er eh schon seit 30 Jahren absolviert hat und eigentlich auch gearbeitet hat, und das ist dann ja oft auch erlebt als Schock. Wie? Das kann nicht sein, weil das hat ja natürlich Einfluss dann auf Pension, Berufsschutz etc.« (H/AT, Z. 609-619) In diesem Interviewausschnitt wird die Anstellung von ausgebildeten Fach­ kräften unterhalb ihrer Qualifikation als eine strukturelle Benachteiligung dieser Gruppe beschrieben, welche in der Vergangenheit vor allem für Arbeit­ geber_innen Vorteile gebracht hat. Deutlich wird hier auch die persönliche Betroffenheit der beratenden Person, welche aufgrund der arbeitsmarkt­ rechtlichen Kenntnisse den vollen Umfang dieser Benacht"
+      },
+      {
+        "rank": 5,
+        "id": "1e632c3a739ce443b6517716d3874a2a35cf9a87069c020226bb7e1737efa2eb",
+        "score": 0.7463813424110413,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4714,
+          "_split_overlap": [
+            {
+              "doc_id": "adfcc717f0b76b60595526fe8403a11e164afd9ed66978f75728b8944afbbca8",
+              "range": [
+                1083,
+                1404
+              ]
+            },
+            {
+              "doc_id": "398d8c7e3e4ae97b2c227e4627562520b8d154512ffc30cb6a2f4cc0e2b50873",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "was schon, finde ich, ganz wichtig ist, ist, dass das Thema Anerken­ nungsberatung wirklich als eigene Beratung, als Fachberatung, stattfindet. Also das nebenbei …, da wird man dem Thema einfach nicht gerecht, das ist zu komplex. Man kann dann auch die Informationen vielleicht nicht so alle sammeln und weitergeben, wie nötig wäre. Ist es, finde ich, ein ganz wich­ tiger Punkt, dass man das nicht als Zusatzthema sieht in der Migrationsbe­ ratung oder in irgendeiner anderen Weiterbildungsberatung. Das merken wir auch immer wieder, dass verschiedene Stellen aufschreiben, dass sie An­ erkennungsberatung machen, aber sobald ’s halt ein bisschen tiefer reingeht, schicken sie die Person dann doch zu uns. Und ist einfach auch wichtig, dass es eine eigene Fachberatung gibt für diesen Bereich« (G/DE, Z. 674-683). In den hier angeführten Interviewausschnitten liegt der Schwerpunkt der Beschreibungen von Anerkennungsberatung auf dem spezialisierten Zu­ gang als Fachberatung. Diese Selbstbeschreibu"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0825.txt",
+    "question": "Welche Schlussfolgerung lässt sich aus den quantitativen Daten hinsichtlich der Verbreitung und des Umfangs der Anrechnungsberatung ziehen?",
+    "answer": "Eine große Zahl der Befragten zustimmt, Anrechnungsberatung zu bieten, es werden aber Unterschiede im geschätzten Umfang der Beratung deutlich. Der von den Befragten geschätzte Umfang der Beratung stellt sich vielfältiger dar. Es gibt einen hohen statistischen Zusammenhang zwischen der Matrikelgröße und der Einschätzung des Beratungsumfangs: Je kleiner die Matrikel, desto eher wird von einem hohen Beratungsumfang ausgegangen. Ebenso deutlich werden Unterschiede im geschätzten Umfang der Beratung. Wenige Befragte geben an, die Beratung zu planen (2%), und ein kleiner Rest gibt keine Antwort (1%). Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungsfragen (95%). Wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsberatung (2%). \n        Es ist also anhand der quantitativen Beschreibungen zunächst festzuhalten, dass eine große Zahl der Befragten zustimmt, Anrechnungsberatung zu bieten, es werden aber Unterschiede im geschätzten Umfang der Beratung deutlich. 72,5% der Befragten geben an, im weiterbildenden Studienlauf Möglichkeiten der Anrechnung zu bieten. In Bezug auf Anrechnungsberatung wurden zwei Aspekte deutlich: Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungsfragen (95%). Wenige Befragte geben an, die Beratung zu planen (2%). Ebenso wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsberatung (2%). 200 Befragte (72,5%) gaben an, im weiterbildenden Studienlauf Möglichkeiten der Anrechnung zu bieten. \n        Der Umfang der Beratung stellt sich vielfältiger dar. Es gibt einen hohen statistischen Zusammenhang zwischen der Matrikelgröße und der Einschätzung des Beratungsumfangs: Je kleiner die Matrikel,",
+    "expected": "Die Daten zeigen, dass eine große Zahl der Befragten Anrechnungsberatung anbietet, jedoch gibt es deutliche Unterschiede im geschätzten Umfang der Beratung, die unter anderem mit der Größe der Matrikel zusammenhängen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d4ac165bb9eadef844a4f5199212e547ab07aa4a57343dfc98b1bddf6ccde07f",
+        "score": 0.9146656394004822,
+        "meta": {
+          "file_path": "9783839444856_chapter_063.txt",
+          "source_id": "32555e66cfa5f529eee5d2cde31339712c55a933dc9421f13bad4ece780b9921",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "35a939befe0a71435bbaf14144b3aab642d5dd7e732f5bc3949b64e581173e87",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "4.3 Datenerhebung und -analyse Die im Kontext der qualitativen Forschungstradition geforderte Reflexivi­ tät im Forschungsprozess zeigt sich auch in der möglichst vollständigen und intersubjektiv überprüfbaren Dokumentation und Explikation der einzel­ nen Schritte der Datenerhebung und -auswertung (vgl. Lamnek 2010, S. 23). Die Expert_inneninterviews wurden mit sieben Berater_innen und Koordi­ nator_innen in den vier Beratungsstandorten und der Anlaufstellenkoordi­ nation in Österreich und ergänzend mit fünf Berater_innen und Koordina­ tor_innen aus ausgewählten Beratungsstellen in Deutschland durchgeführt. Als Datenquellen werden die transkribierten Interviews und in Ergänzung die während des Besuchs angefertigten Beobachtungsprotokolle sowie die von den Beratungsstellen zur Verfügung gestellten Dokumente verwendet. Die Datenerhebung erfolgte in dem Zeitraum von 2014 bis 2016 und beinhal­ tete den Besuch der jeweiligen Beratungsstelle vor Ort. Die Beratungsproto­ kolle wurden während "
+      },
+      {
+        "rank": 2,
+        "id": "352e333fc4d188b95904d3dbcbcc98c01107567557e26f7e815ad219f4719b1a",
+        "score": 0.8113692402839661,
+        "meta": {
+          "file_path": "9783847412304_chapter_0825.txt",
+          "source_id": "91383cb025508de2dc48f3d35f6d53708a3c06cec7a39a7bac7a00741eaca6b5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Beratungsangebote: Verbreitung und Umfang In der quantitativen Teilstudie nahmen 276 Personen, die nach eigenen Anga- ben in der wissenschaftlichen Weiterbildung an einer deutschen Hochschule für Anrechnungsfragen zuständig sind, an einer onlinebasierten Fragebogen- untersuchung teil. Erhoben wurden Daten der Befragten, der durch sie re- präsentierten Studiengänge sowie zur Anrechnung von außerhochschulischen Vorleistungen. 200 Befragte (72,5%) gaben an, im weiterbildenden Studien- gang Möglichkeiten der Anrechnung zu bieten. In Bezug auf Anrechnungsbe- ratung wurden zwei Aspekte deutlich: Der überwiegende Teil der Befragten bietet nach eigenen Angaben Möglichkeiten der Beratung bei Anrechnungs- fragen (95%). Wenige geben an, die Beratung zu planen (2%). Ebenso wenige der Befragten mit Anrechnungsmöglichkeiten bieten keine Anrechnungsbe- ratung (2%) und ein kleiner Rest gibt keine Antwort (1%). Der von den Be- fragten geschätzte Umfang der Beratung stellt sich vielfältiger dar. Es gibt"
+      },
+      {
+        "rank": 3,
+        "id": "c8ee8ca7ddb3fe7776f26bfdd83a129ef8f960175373ecbf16fc7ce28045e8d7",
+        "score": 0.7906056046485901,
+        "meta": {
+          "file_path": "9783839444856_chapter_034.txt",
+          "source_id": "9e9616a37140bcaf50787b1ce6d7979bb7764ee1fe51d589be1616ce01704fe1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1312,
+          "_split_overlap": [
+            {
+              "doc_id": "270e577e69e074f4d3967a48a885458558e3d0ec153574539d6272ae2fb5eafc",
+              "range": [
+                1312,
+                1763
+              ]
+            },
+            {
+              "doc_id": "f88e0716bfc332a5aebfe86c9eb2692b71c694553218563dc19b7c2e7a8a943d",
+              "range": [
+                0,
+                476
+              ]
+            }
+          ]
+        },
+        "content": "der Anerkennungsberatung. Um die Daten strukturiert zu erheben und auszuwerten, sind zunächst die theoretischen Zugänge zum Forschungsgegenstand der Anerkennungsberatung darzulegen. Aus der Perspektive der Professionalisierungsforschung und auf Grundlage von an­ erkennungs- und beratungstheoretischen Ansätzen wird ein theoretisches Rahmenmodell für die Auswertung der Expert_inneninterviews entwickelt. Die Datenerhebung und -analyse erfolgt anhand der qualitativen In­ haltsanalyse (vgl. Mayring 2015) in Kombination mit einer vertiefenden interpretativ-rekonstruktiven Auswertung (vgl. Meuser und Nagel 1991; Kel­ le und Kluge 2010). Die Gründe für den gewählten Zugang über Expert_in­ neninterviews und die zweistufige Auswertung werden im vierten Kapitel erläutert. Das anerkennungstheoretische Rahmenmodell wird genutzt, um die Aufgabenbereiche und Rahmenbedingungen in der Anerkennungsberatung strukturiert analysieren und darstellen zu können. Es ermöglicht zudem eine theoretisch begründete"
+      },
+      {
+        "rank": 4,
+        "id": "cdda1fb6db64ffc91a406898d032e44f3c012102a6b2868f93a5ca042b623fa9",
+        "score": 0.6989238858222961,
+        "meta": {
+          "file_path": "9783839444856_chapter_0632.txt",
+          "source_id": "be6af47ddfc749fb9dd0d3b1448fb664026baf5e4238d8ee69f0ea872ae22471",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e2146e0e1776a2806295bb673757217a43b4fbea6e0b0e70d3ab4d4f155dd2e3",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "4.3.2 Ablauf der Datenanalyse Die Analyse der empirischen Daten erfolgte systematisch nach dem Ab­ laufmodell der inhaltlich strukturierenden qualitativen Inhaltsanalyse (vgl. Mayring 2015) in Kombination mit interpretativen Verfahren (vgl. Kelle und Kluge 2010; Meuser und Nagel 1991) und wurde durch das Computerpro­ gramm MAXQDA unterstützt (vgl. Kuckartz 2012). Die Prinzipien der qua­ litativen Inhaltsanalyse bildeten den Ausgangspunkt, um das umfangreiche Datenmaterial der Expert_inneninterviews regelgeleitet zu analysieren und zu strukturieren. Dazu wurde ein Kategoriensystem entwickelt, welches als Grundlage für die Analyse der Aufgabenfelder und Rahmenbedingungen von Anerkennungsberatung diente (vgl. Mayring 2015; Kuckartz 2012). So konnte das Expert_innenwissen der Interviewpartner_innen über die Inhalte und Bedingungen von Anerkennungsberatung analysiert und durch die Infor­ mationen aus den Beobachtungsprotokollen und Dokumentationen ergänzt werden. Für die Rekonstruktion des "
+      },
+      {
+        "rank": 5,
+        "id": "07488078d6dd311ceadad023ad3b14387da068393084a86b13795e8e35a33652",
+        "score": 0.4755246043205261,
+        "meta": {
+          "file_path": "9783839444856_chapter_07.txt",
+          "source_id": "053f4034ab094a609834729c052d2e74d932c966584fbc59e9a39dae8d53d43e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "70b9a373d759b915be3e7637360b9608583da8276c3041f908651e8b7a28407b",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "### 5.\tErgebnisse ### 5. Ergebnisse Ziel ist es, aus dem empirischen Material die professionellen Handlungs­ strategien zu rekonstruieren, welche die Berater_innen innerhalb der Span­ nungsfelder von beruflichem Selbstverständnis und sozialstrukturellen Rahmenbedingungen entwickeln. Für die Datenanalyse und -interpretation wird die Forschungsfrage in drei Teilschritte gegliedert. Zuerst wird unter­ sucht, welches berufliche Selbstverständnis die Interviewpartner_innen mit Anerkennungsberatung verbinden. Dazu werden die Aufgabenfelder ermittelt, welche in den Interviews beschrieben werden, sowie die damit verbundenen Perspektiven der Berater_innen und Koordinator_innen auf Anerkennungsberatung als eine sich neu entwickelnde Beratungsleistung. Der zweite Teil stellt die Rahmenbedingungen dar, die von den Interview­ partner_innen als ermöglichende oder eingrenzende Handlungsbedingun­ gen diskutiert werden. Für die Fragestellung sind dabei vor allem die sich herausbildenden Spannungsfelder"
+      }
+    ]
+  }
+]

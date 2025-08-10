@@ -1,0 +1,654 @@
+[
+  {
+    "filename": "9783866496811_chapter_1031.txt",
+    "question": "Welche Hauptbelastungen erleben pflegende Angehörige von Menschen mit Demenz laut dem Text?",
+    "answer": "Die Hauptbelastungen, die pflegende Angehörige von Menschen mit Demenz erleben, sind laut dem Text zum Teil erhebliche Belastungen und Einschränkungen. Insbesondere sind psychische Stresssymptome und Depressivität auf die Verhaltensänderungen der demenzerkrankten Menschen zurückzuführen. Viele pflegende Angehörige stellen ihre eigenen Bedürfnisse weit zurück und sehen die dauernde Zuständigkeit und Fürsorge als dominanter und sehr belastender Aspekt an. Hilfen werden von pflegenden Angehörigen oft erst dann nachgefragt, wenn sie psychisch und physisch stark mitgenommen und zum Teil irreversibel gesundheitlich beeinträchtigt sind.",
+    "expected": "Pflegende Angehörige erleben insbesondere psychische Stresssymptome und Depressivität, die vor allem auf die Verhaltensänderungen der demenzerkrankten Menschen zurückzuführen sind. Zudem empfinden sie die dauernde Zuständigkeit und Fürsorge als dominanten und sehr belastenden Aspekt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9d96cac05306a195d0d7a8351d16e16598e6e1cf1dfd6985714ca3fabe8857f8",
+        "score": 0.97511225938797,
+        "meta": {
+          "file_path": "9783866496811_chapter_1031.txt",
+          "source_id": "4855342959c52aacf31c7ebcf45c2ec46f0bb0abe28847fd3845ff41e329b66b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2488a34eecdd0e8a25643c2b91ed54d5620de9fb952a13dd154c2dfb01f45777",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "6.3.1. Das Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ Die Betreuung von Menschen mit Demenz ist mit zum Teil erheblichen Be- lastungen und Einschränkungen für die pflegenden Angehörigen verbunden. Psychische Stresssymptome und Depressivität pflegender Angehöriger sind insbesondere auf die Verhaltensänderungen der demenzerkrankten Menschen zurückzuführen (vgl. Pinquart 2005). Viele pflegende Angehörige stellen in Sorge um die an Demenz erkrankten Pflegebedürftigen die eigenen Bedürf- nisse weit zurück. Dabei werden dauernde Zuständigkeit und Fürsorge von ihnen als dominanter und sehr belastender Aspekt angesehen (vgl. Schaeffer 2001). Hilfen werden jedoch von pflegenden Angehörigen oftmals erst dann nachgefragt, wenn sie „nicht mehr können“, das heißt, wenn sie durch die Pfle- gesituation psychisch und physisch stark mitgenommen und zum Teil irreversibel gesundheitlich beeinträchtigt sind (vgl. Gräßel 2002). Zahlreiche zeitliche, räumliche, familiäre oder ganz persönliche Barr"
+      },
+      {
+        "rank": 2,
+        "id": "f9b7a4cc8c991905064a439a12f9fb060f833a33f5b8304ed6e4268e77cba55a",
+        "score": 0.9571287035942078,
+        "meta": {
+          "file_path": "9783866496811_chapter_102.txt",
+          "source_id": "1ec7c93f762ca444f6a581f666e34d2132dd40bbe24b464ec30931e4dd342f6b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1030,
+          "_split_overlap": [
+            {
+              "doc_id": "7375116c6c807ae1d24f48b2dc27cbcde7ef8f993dc50160a4b42c9026b6ae77",
+              "range": [
+                1030,
+                1408
+              ]
+            },
+            {
+              "doc_id": "3662f7b4a50fe48d5b408361fa648dd47afc54cf51ef907d3db2b3bdf49ba613",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "1990). Daher wird in vielen Theorien als wichtiges Ziel die Erlangung der Unabhän- gigkeit des Kranken beschrieben welches durch einen Interaktionsprozess gefördert werden kann. In solch einer Interaktion, zwischen Pflegekraft und Betroffenem besprechen zwei Menschen eine Situation verbal oder non- verbal bzw. formell oder informell miteinander. Basierend auf dem vorhandenen Wissen wird eine Zielvereinbarung getrof- fen, welche auf die Ziele, Bedürfnisse und Erwartungen des Betroffenen ausgerichtet sind damit eine weitestgehend bzw. bestmögliche Unabhängig- keit wieder erreicht werden kann. Um das vereinbarte Ziel zu erreichen sind beide Personen gehalten mitzuwirken. In der Fachsprache der Pflege ist dies die Aktivierende Pflege, mit anderen Worten ‚die Hilfe zur Selbsthilfe’. Durch diese Art der Pflege werden ganz gezielt die gesunden Anteile eines Menschen gefördert, damit dieser wenn möglich seine Erkrankung überwinden aber zumindest ausgleichen kann. Das Ziel der Aktivierenden Pfl"
+      },
+      {
+        "rank": 3,
+        "id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+        "score": 0.9532565474510193,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7151,
+          "_split_overlap": [
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                1226,
+                1561
+              ]
+            }
+          ]
+        },
+        "content": "und Qualifikation der Pflegeberater und Pflegeberaterinnen zwar in Auftrag gibt, aber die Empfehlungen eben auch nur diesen Charakter haben. Die Qualifikationsanforderungen, die zum 30. Juni 2011 erfüllt sein ‚müs- sen‘, finden wir in § 7a Abs.3 Satz 2 SGB XI: „Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Personal ein, insbesondere Pflegefach- kräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pfle- geberatern und Pflegeberaterinnen gibt der Spitzenverband Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 2011 erfüllt sein.“ (§ 7a Abs.3 Satz 2-5 SGB XI) Dies macht deutlich, dass vom Gesetzgeber keine Richtlinien über Anzahl und Qualifikationen des Pflegeberaters vorgesehen sind, sondern es bei Emp-"
+      },
+      {
+        "rank": 4,
+        "id": "6879cfcbc626c00d65790e0cde760459f8b899a4e3b8ea01a6332ea50aab74cb",
+        "score": 0.9273520708084106,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5e2034b6f1ef1c79ad33a30156d0bbe53cec92607068961bc5210b540794e4f8",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "2.3.1. Die Pflegeberatung im Kontext des Pflege- Weiterentwicklungsgesetzes Mit dem § 7a des Pflege-Weiterentwicklungsgesetzes ist es dem Gesetzgeber ein Anliegen dem Tätigkeitsprofil und den Aufgaben eines Pflegeberaters eine angemessene Rahmung zu geben. Mit dem ersten Satz (§ 7a Abs.1 Satz 1) erhält die Pflegeberatung ihre Definition und bereits der Folgende macht deutlich welche fünf Hauptaufgaben die Pflegeberatung insbesondere verfol- gen soll: §7a Abs.1, 2 und 3 (1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem 1. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind (Pfle- geberatung). Aufgabe der Pflegeberatung ist es insbesondere, 1. den Hilfebedarf unter Berücksi"
+      },
+      {
+        "rank": 5,
+        "id": "72c929f6f71013ce8f91389d49861224085abebc2be10044cfc36bfbbce54c57",
+        "score": 0.920888364315033,
+        "meta": {
+          "file_path": "9783866496811_chapter_0611.txt",
+          "source_id": "a5f42a1dfd8ddc4c6acd4b0e1a44ffb7b2e43efe09ce5c5ae59358d2f0a90874",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d0ccd254a7a63dbd04a52ead22371146638248873d84874e2e721e0efe5b87a1",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "2.1.1. Pflege-Personalbedarfsregelung (PPR) Dass Beratung als pflegerische Tätigkeit aufgefasst wird, zeigt sich auch an der 1993 in Kraft getretenen Pflege Bedarfsregelung. Dies war ein erarbeite- tes Tätigkeitsprofil für die klinische Pflege, welches zur Grundlage des Bedarfs von Pflegepersonal galt, der so genannten Pflege-Personalregelung (PPR). Im September 1990 wurde von der Bundesregierung eine Experten- gruppe aus Fachleuten (Pflegedienstleitungen, Mitarbeiter der Pflege- forschung, verbandsunabhängige Ärzte, Verwaltungsdirektoren) zusammen berufen und erhielten den Auftrag, die Grundlagen für ein neues Personalbe- darfsermittlungsverfahren zu erarbeiten. Orientiert hat sich die Experten- gruppe an dem Pflegemodell nach Juchli ‚Aktivitäten des Täglichen Lebens‘ und berücksichtigten den Zeitaufwand einer aktivierenden Pflege. Die pflegerischen Tätigkeiten wurden anhand bestehender Studien und Pra- xiserfahrungen in Minutenwerte festgelegt und in die zwei Pflegearten ‚Allgemeine "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1031.txt",
+    "question": "Wie ist das Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ konzipiert und welches Ziel verfolgt es?",
+    "answer": "Das Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ ist ein Gesamtkonzept der Belastungsprävention mit einem proaktiv zugehenden ausgerichteten Interventionsansatz. Das Hauptziel war, zu einer spürbaren und nachhaltigen Entlastung der Pflegepersonen zu kommen. Es zielt darauf ab, pflegende Angehörige und Familien demenzerkrankter Menschen zu unterstützen. Das Projekt wurde von Mai 2006 bis April 2009 im Raum Münster-Lübbecke durchgeführt. Ein systemisch-lösungsorientierter Beratungsansatz war ein Bestandteil im Gesamtkonzept der Beratung. Das Projekt zeigt, dass es möglich ist, durch entsprechende Beratung pflegende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Ein spezifisches Qualifizierungskonzept wurde entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflegefachkräfte wurden in den drei Hauptschwerpunkten des Konzepts unterrichtet: Bedarfseinschätzung und Hilfeplanung, Beratungsinterventionen und Schulung sowie Vermittlung und Koordination von Hilfen. Das Projekt wurde ausschließlich mit der Zugehenden Beratung durchgeführt, also in der häuslichen Umgebung der zu betreuenden Person. \n\nI cannot find the answer in the provided context. \n\nHowever, based on the provided text, the answer to the question is: Das Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ ist ein Gesamtkonzept der Belastungsprävention mit einem proaktiv zugehenden ausgerichteten Interventionsansatz. Das Hauptziel war, zu einer spürbaren und nachhaltigen Entlastung der Pflegepersonen zu kommen. Es zielt darauf ab, pflegende Angehörige und Familien demenzerkrankter Menschen zu unterstützen. \n\nPlease note that this answer is based on the provided text and may not be the complete or final answer.",
+    "expected": "Das Modellprojekt ist ein Gesamtkonzept der Belastungsprävention mit einem proaktiv ausgerichteten Interventionsansatz. Es zielt darauf ab, eine spürbare und nachhaltige Entlastung der Pflegepersonen zu erreichen sowie die häusliche Lebens- und Pflegesituation zu stabilisieren. Dabei soll die Stärkung der Angehörigenpflege durch verbesserte Inanspruchnahme von Pflegeversicherungsleistungen und eine zielgerichtete Bündelung von Beratungs-, Schulungsleistungen und zeitlichen Freiräumen erfolgen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9d96cac05306a195d0d7a8351d16e16598e6e1cf1dfd6985714ca3fabe8857f8",
+        "score": 0.9986542463302612,
+        "meta": {
+          "file_path": "9783866496811_chapter_1031.txt",
+          "source_id": "4855342959c52aacf31c7ebcf45c2ec46f0bb0abe28847fd3845ff41e329b66b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2488a34eecdd0e8a25643c2b91ed54d5620de9fb952a13dd154c2dfb01f45777",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "6.3.1. Das Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ Die Betreuung von Menschen mit Demenz ist mit zum Teil erheblichen Be- lastungen und Einschränkungen für die pflegenden Angehörigen verbunden. Psychische Stresssymptome und Depressivität pflegender Angehöriger sind insbesondere auf die Verhaltensänderungen der demenzerkrankten Menschen zurückzuführen (vgl. Pinquart 2005). Viele pflegende Angehörige stellen in Sorge um die an Demenz erkrankten Pflegebedürftigen die eigenen Bedürf- nisse weit zurück. Dabei werden dauernde Zuständigkeit und Fürsorge von ihnen als dominanter und sehr belastender Aspekt angesehen (vgl. Schaeffer 2001). Hilfen werden jedoch von pflegenden Angehörigen oftmals erst dann nachgefragt, wenn sie „nicht mehr können“, das heißt, wenn sie durch die Pfle- gesituation psychisch und physisch stark mitgenommen und zum Teil irreversibel gesundheitlich beeinträchtigt sind (vgl. Gräßel 2002). Zahlreiche zeitliche, räumliche, familiäre oder ganz persönliche Barr"
+      },
+      {
+        "rank": 2,
+        "id": "d93bc48816cb42916ecc8b39a54d215181e32b30a4547cc6d051769db99de60c",
+        "score": 0.9909372925758362,
+        "meta": {
+          "file_path": "9783866496811_chapter_103.txt",
+          "source_id": "24956cf5e88c5c3632b63bb7e67ae6f8d33349dbde3bc5c591c35f4bc5d69f39",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "6.3. Zugehende Beratung pflegender Angehöriger Herausforderung für die Pflege Ursula Laag, Deutsches Institut für angewandte Pflegeforschung e. V., Köln Zugehende Beratung als zentrale Hilfe für pflegende Angehörige demenzer- kankter Menschen stand im Mittelpunkt der Interventionen im Modellprojekt ‚Entlastungsprogramm bei Demenz – EDe‘. Ein systemisch- lösungsorientierter Beratungsansatz war dabei ein Bestandteil im Gesamt- konzept der Beratung. Im folgenden Kapitel werden zunächst das Projekt und seine wichtigsten Ergebnisse vorgestellt. Im Anschluss erfolgt eine Schilde- rung der umfassenden Anforderungen zugehender Beratung, wie sie sich im Modellprojekt dargestellt haben. Dabei wird jeweils die Sicht der Beraterin- nen und Berater in die Betrachtung einbezogen. Vor welchem Hintergrund kann eine Professionalitätsentwicklung in der zugehenden Gesundheits- und Pflegeberatung stattfinden? Auf diese Frage, sowie auf die Frage der Umsetzung gibt das Modellprojekt eine mögliche Antwort, "
+      },
+      {
+        "rank": 3,
+        "id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+        "score": 0.9884487986564636,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1200,
+          "_split_overlap": [
+            {
+              "doc_id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+              "range": [
+                1200,
+                1591
+              ]
+            },
+            {
+              "doc_id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "sollte es bedeuten, dass eine Pflegefachkraft mit entsprechender Fachweiterbildung selbst die Spezialberatung in ihrem Fachgebiet durchführen kann. Ist also, wovon wir ausgehen, in der Fachweiterbildung zum Pflegeberater das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, kann die Pflegeberate- rIn die Angehörigen von Pflegebedürftigen beratend Unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt. Dieses Projekt zeigt, dass es möglich ist durch entsprechende Beratung pfle- gende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Dazu wurde ein spezifisches Qualifizierungskonzept entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflege- fachkräfte kommend aus der Ambulanten Pflege wurden in den drei Hauptschwerpunkten des Konzeptes unterrichtet: - Bedarfseinschätzung und Hilfeplanung - Beratungsinterventionen und Schulung - Vermittlung und Koordination von"
+      },
+      {
+        "rank": 4,
+        "id": "d2fef77eeb2d1db7948a60c70cb887d881870bd58874f48662c20f629fc0154c",
+        "score": 0.889665424823761,
+        "meta": {
+          "file_path": "9783847412304_chapter_051.txt",
+          "source_id": "85d86b2a01cff3f880031dc1e51acd81bd1841573fe425f85ee7be5597017509",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "88e1aae4122498629d98f25949447681ee6ef7c186242c33d83721fcdefbe4a6",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "1. Prometheus – oder: über die Fortschritte der ­Beratungsforschung Dieses Modell ist von einer systemtheoretischen Perspektive auf Bildungsbera- tung informiert, wurde aber bislang nicht dafür genutzt, den Forschungsstand darzustellen. Mehrebenenmodelle haben in der Weiterbildungsforschung an Bedeutung gewonnen (Schrader 2011), wenngleich dies nicht gänzlich neu ist (vgl. Kowalski 1998, S. 9), was man so in der neueren Literatur ausweisen könnte, wenn man sich selbst in einer erwachsenenpädagogischen Traditions- linie begreifen würde. Wichtig ist bezogen auf Mehrebenenmodelle u. a. die Frage nach dem Zu- sammenhang der Ebenen: Inwiefern kann Politik Praxis steuern oder werden Steuerungsversuche von einer autonomen Praxis abgewiesen? Dies als ein Beispiel, bei dem die Zusammenhänge der Ebenen interessieren. Im „Gesellschaftlichen Kontext“ des Modells könnten Arbeitstitel ange- siedelt werden wie: • „Zur Kontextualisierung des Beratungsdiskurses der Erwachsenenbil- dung“ • „Bildungsbarr"
+      },
+      {
+        "rank": 5,
+        "id": "58e1f6a688e13aec6df8458ac0516ec351f8ab9698e17faa4b733c0619cc5ce2",
+        "score": 0.8125081658363342,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de0cba158e3b9ae7364c63054facb948021dbaebe4e9349d471335b02441c9c1",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "3. Konstruktionsprinzipien der entwickelten Instrumente zur Kompetenzerfassung Aufbauend auf dem skizzierten Kompetenzmodell und dem daraus abgeleiteten Kompetenzprofil wurde im Rahmen des Projektes BeQu eine multimethodale Vorgehensweise zur empirischen Erfassung der Kompetenzen entwickelt, die mehrere Instrumente zur Kompetenzerfassung beinhaltet. Im Folgenden werden zunächst die theoretischen Annahmen beschrieben, die hinter dem Modell stehen. Anschließend werden diese Instrumente vorgestellt. Ausgehend von den Überlegungen zum Kompetenzbegriff besteht die Anforderung an Instrumente zur Erfassung von Kompetenz, sowohl die Ressourcen, insbesondere Wissen, als auch die Performanz, also das kompetente beraterische Handeln zu erfassen. Die Verbindung von Wissen und Handeln bleibt dabei in der Regel implizit und muss für die Erfassung durch Reflexion expliziert werden. Daraus ergibt sich für die Erarbeitung von Instrumenten die Anforderung, die drei Aspekte Ressourcen, Handeln und die Re"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1031.txt",
+    "question": "Welche Herausforderungen verhindern laut dem Text, dass pflegende Angehörige frühzeitig Unterstützung in Anspruch nehmen?",
+    "answer": "Die Herausforderungen, die verhindern, dass pflegende Angehörige frühzeitig Unterstützung in Anspruch nehmen, sind laut dem Text die fehlenden Ressourcen und spezifischen Beratungskompetenzen der Pflegefachkräfte. Sie erkennen zwar einen Beratungsbedarf an, können diesen jedoch aufgrund der medizintherapeutisch-pflegerischen Zielsetzungen und den daraus erwachsenden Behandlungs- bzw. Versorgungsverträgen nicht weiter verfolgen.",
+    "expected": "Zahlreiche zeitliche, räumliche, familiäre oder persönliche Barrieren hindern die Pflegepersonen daran, sich Unterstützung zu holen oder Leistungen der Pflegeversicherung nachzufragen. Häufig werden Hilfen erst nachgefragt, wenn die Angehörigen psychisch und physisch stark belastet oder gesundheitlich beeinträchtigt sind.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.8982575535774231,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      },
+      {
+        "rank": 2,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.8628116846084595,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 3,
+        "id": "887d03daa8256c681a8d7a6e2f0e27d6c2c0f4e1cf559af1d44c8c6fadb68207",
+        "score": 0.8557696342468262,
+        "meta": {
+          "file_path": "9783866496811_chapter_0912.txt",
+          "source_id": "2657a4327bb62362b1aebe87c33202f353ee95bf2a80551de9e6a25dc79a3e27",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1269,
+          "_split_overlap": [
+            {
+              "doc_id": "8ddd485bc59483cf18a558ba7e0a98649be4447e5a97026ff84b5736d818fcd6",
+              "range": [
+                1269,
+                1682
+              ]
+            },
+            {
+              "doc_id": "372103b9259e457a5e1fbd4bffa523e89acb86d020839456b1e6273114e42935",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "beruflichen Tätigkeit anzuwenden. Dieser Anwendungsbezug findet sich ebenfalls in den Anforderungsprofilen zu den staatlichen Prüfungen am Ende der Pflegeaus- bildung. (vgl. KrPflGAPrV 2003, AltPflGAPrV 2003) Die im Rahmen der Pflegeausbildungen zu erwerbenden Handlungskompe- tenzen sind in den gesetzlichen Grundlagen beschrieben und in dem schulinternen Curriculum differenziert aufgeführt. Die geforderte und erwar- tete Integration des Pflegebedürftigen und seiner Angehörigen in den Pflegeprozess ist ohne Beratungskompetenzen der Pflegefachkräfte nicht einzulösen. Diese gilt es im Kontext der Themenbereiche/ Lernfelder grund- zulegen und in den Anleitungs- und Pflegeprozessen durch die Praxisanleiter weiter zu entwickeln. Die medizintherapeutisch-pflegerische Zielsetzung aufgrund der Rahmungen aus SGB V und SGB XI und den daraus erwach- senden Behandlungs- bzw. Versorgungsverträgen setzt hier dem beraterischen Handeln der Pflegefachkräfte Grenzen. Auch wenn sie einen Beratungsbedarf e"
+      },
+      {
+        "rank": 4,
+        "id": "6879cfcbc626c00d65790e0cde760459f8b899a4e3b8ea01a6332ea50aab74cb",
+        "score": 0.7654545307159424,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5e2034b6f1ef1c79ad33a30156d0bbe53cec92607068961bc5210b540794e4f8",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "2.3.1. Die Pflegeberatung im Kontext des Pflege- Weiterentwicklungsgesetzes Mit dem § 7a des Pflege-Weiterentwicklungsgesetzes ist es dem Gesetzgeber ein Anliegen dem Tätigkeitsprofil und den Aufgaben eines Pflegeberaters eine angemessene Rahmung zu geben. Mit dem ersten Satz (§ 7a Abs.1 Satz 1) erhält die Pflegeberatung ihre Definition und bereits der Folgende macht deutlich welche fünf Hauptaufgaben die Pflegeberatung insbesondere verfol- gen soll: §7a Abs.1, 2 und 3 (1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem 1. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind (Pfle- geberatung). Aufgabe der Pflegeberatung ist es insbesondere, 1. den Hilfebedarf unter Berücksi"
+      },
+      {
+        "rank": 5,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.7396336793899536,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1031.txt",
+    "question": "Warum ist der proaktive Ansatz der Gesundheitsberaterinnen und -berater im Projekt Ede besonders wichtig für die Unterstützung pflegender Angehöriger?",
+    "answer": "Der proaktive Ansatz der Gesundheitsberaterinnen und -berater ist im Projekt Ede besonders wichtig für die Unterstützung pflegender Angehöriger, da er es ihnen ermöglicht, die Belastungen der Angehörigen und den Beratungsbedarf frühzeitig zu erkennen und individuelle Unterstützungsprogramme zu entwickeln, die auf die spezifischen Bedürfnisse der Familien zugeschnitten sind. Durch den proaktiven Ansatz können die Gesundheitsberaterinnen und -berater die Familien unterstützen, bevor sie den Bedarf angemeldet haben, und können so die Inanspruchnahme von Hilfen und Unterstützung fördern. Dies ist besonders wichtig, da die häusliche Pflege von Menschen mit Demenz ein komplexes und belastendes Thema ist, das die Gesundheit und das Wohlbefinden der pflegenden Angehörigen erheblich beeinträchtigen kann. Der proaktive Ansatz ermöglicht es den Gesundheitsberaterinnen und -beratern, die Familien auf ihre spezifischen Bedürfnisse und Herausforderungen einzugehen und ihnen individuelle Hilfen und Unterstützung anzubieten, um die Belastungen der Angehörigen zu reduzieren und die Qualität der Pflege zu verbessern.",
+    "expected": "Der proaktive Ansatz ist wichtig, weil die Beraterinnen und Berater die Familien bereits vor Einforderung eines Unterstützungsbedarfs aufsuchen. Dadurch können sie frühzeitig intervenieren, die Angehörigen entlasten und die Situation stabilisieren, bevor es zu irreversiblen gesundheitlichen Beeinträchtigungen kommt. Dies überwindet die Barrieren, die pflegende Angehörige sonst davon abhalten, Hilfe zu suchen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f88e3fa74fd57f01489872f2799810999c7f63e47fefb2380ff952f5b172eedb",
+        "score": 0.9915688633918762,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "1d35cc1cf0c40bbecb9c81c629e06de7b5928ee2844a18714284a4e986ab0499",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "6.3.3. Professionelle Berater fallen nicht vom Himmel Die Gesundheitsberaterinnen und –berater hatten zu Beginn des Projekts keine oder nur geringe Beratungserfahrungen. Als Pflegefachkräfte waren sie in ambulanten Pflegediensten tätig. Einige von ihnen waren mit der Durch- führung von Beratungsbesuchen nach § 37 Abs. 3 SGB XI betraut. Ihre bisherige berufliche Realität stellte das praktische Handeln in einer Pflegesi- tuation, meist unter Zeitdruck, in den Vordergrund. Beratungshandeln erfordert jedoch, den Klienten aus einer Außenperspektive Handlungsanstöße im Hinblick auf eine Veränderung zu geben, anstatt in der Situation selbst praktisch zu handeln. Die Anforderung, Professionalität in diesem neuen, bisher wenig vertrauten Handlungsfeld zu erreichen, war hoch. Als Grundlage wurde im Projekt ein spezifisches Qualifizierungskonzept entwickelt, um die Pflegefachkräfte für ihre Aufgabe „Gesundheits- und Pflegeberatung in Familien, in denen demenzerkrankte Menschen leben“, zu qualifiz"
+      },
+      {
+        "rank": 2,
+        "id": "a443f5f99615f4d58153e78f897e2ffefb92821137cdcb6dee7f4b5eef8b7bec",
+        "score": 0.9332030415534973,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 21,
+          "split_idx_start": 24904,
+          "_split_overlap": [
+            {
+              "doc_id": "0ecd8375f40ed85039b48209bee5b24d6549317ee69e6d10c1f17358e4253df6",
+              "range": [
+                1232,
+                1620
+              ]
+            }
+          ]
+        },
+        "content": "Alltags der Familien steht – die Pflege und Betreuung des demenzerkrankten Menschen. Letztendlich hat die fachliche und mentale Begleitung der Gesundheitsberate- rinnen und -berater in Fallkonferenzen und Supervisionen dazu beigetragen, dass sie über die Projektzeit hinweg der Aufgabe, in komplexen häuslichen Pflegesituationen individuell passend zu agieren, gewachsen waren. Neben der zu Beginn genannten zentralen Empfehlung der ‚Programmleis- tung Demenz‘ ergibt sich aus den beschriebenen Erkenntnissen eine weitere wesentliche Empfehlung für die Weiterentwicklung der Pflegeversicherung: Die ‚Förderung der Professionalität von zielgruppenorientiert eingesetzten Beraterinnen und Beratern‘. Die grundlegenden Konzepte konnten erst durch die Professionalität der Beraterinnen und Berater ihre volle Wirkung entfalten. Die hohe Individualität der Fallzusammenhänge in den Familien erfor- dert es, der Qualifizierung und Begleitung der Beraterinnen und Berater eine zentrale Bedeutung beizumessen"
+      },
+      {
+        "rank": 3,
+        "id": "c1cc64635b568c94a090fe005cc65f662f526c2035cf85f81b52ae6f4b737097",
+        "score": 0.9198254942893982,
+        "meta": {
+          "file_path": "9783866496811_chapter_1031.txt",
+          "source_id": "4855342959c52aacf31c7ebcf45c2ec46f0bb0abe28847fd3845ff41e329b66b",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2360,
+          "_split_overlap": [
+            {
+              "doc_id": "2488a34eecdd0e8a25643c2b91ed54d5620de9fb952a13dd154c2dfb01f45777",
+              "range": [
+                1175,
+                1558
+              ]
+            },
+            {
+              "doc_id": "6404d6b48d62d07a8f16f7618923a2f8112edff4931de8ecb37b477b39457f18",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "standen neun Gesundheitsberaterinnen und - berater, speziell qualifizierte Pflegefachkräfte, die diese Familien über 18 Monate in deren häuslicher Umgebung beraten, geschult und begleitet haben. Insgesamt haben sie 1431 Hausbesuche durchgeführt. Die Gesundheitsberate- rinnen und -berater sind dabei auf die Familien zugegangen noch bevor diese den Bedarf angemeldet haben und haben auch während des Projekts bedarfs- orientiert immer wieder die Initiative ergriffen. Die Belastungen der Angehörigen und der Beratungsbedarf wurden dabei mit einem umfassenden strukturierten EDV-gestützten Assessmentinstrument erfasst: Berliner Inven- tar zur Angehörigenbelastung bei Demenz, Minden – BIZA-D-M (Zank 2006). Auf dieser Grundlage wurden mit den Familien individuelle Unter- stützungsprogramme entwickelt, in denen die Hausbesuche die zentrale Intervention darstellten. Die individuellen Unterstützungsprogramme beinhalteten bedarfsentspre- chend: - Informationen über die Erkrankung, Leistungen der Pfl"
+      },
+      {
+        "rank": 4,
+        "id": "0c9646c3a642c7255142a002e6a34309757ae60edec8461ef6d589eada5142b1",
+        "score": 0.8859912753105164,
+        "meta": {
+          "file_path": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren_chapter_02.txt",
+          "source_id": "5a8a65ed0e98dfd6f003f069dd5e63e056b8db8c03ac954ea5830081478f78b9",
+          "page_number": 1,
+          "split_id": 19,
+          "split_idx_start": 23503,
+          "_split_overlap": [
+            {
+              "doc_id": "f8c9509862cb016bad296f9c19c4c7493b111c5811c61482d0f35e7a0b2e6500",
+              "range": [
+                1230,
+                1611
+              ]
+            },
+            {
+              "doc_id": "5b3b77f24c8f76cf35ddf51dae2073bf86173b34a054cb3f7926064c6556fa29",
+              "range": [
+                0,
+                489
+              ]
+            }
+          ]
+        },
+        "content": "2001, S. 64). Anmerkungen 1 Laut Weltgesundheitsorganisation ist bereits jedes dritte Kind in Europa überge- wichtig oder adipös (World Health Organisation, 2013). In Österreich sind ca. 25% der Achtjährigen betroffen (Bundesministerium für Gesundheit und Frauen, 2017). Diese Daten bestärken die Gesundheitswissenschaften bei der Suche nach effizien- ten Maßnahmen zur Prävention von ernährungsmitbedingten Erkrankungen. Prä- ventionsmaßnahmen im schulischen Umfeld werden als besonders wichtig angese- hen (ebd.). 2 Die Studierendenaussagen zu ihrer zukünftigen beruflichen Tätigkeit als Lehrper- son (= STEOP-Zitate) wurden im Zuge der Lehrveranstaltung Einführung Studien- bereich Ernährung einschl. Fachdidaktik (Lehramt Sekundarstufe Allgemeinbil- dung, Unterrichtsfach Ernährung und Haushalt/Haushaltsökonomie und Ernährung, Wintersemester 2017/18, Pädagogische Hochschule Salzburg) schrift- lich festgehalten. 3 Ein Spezifikum von Profession sind Machtkämpfe innerhalb (Professionist vs. Adre"
+      },
+      {
+        "rank": 5,
+        "id": "0ecd8375f40ed85039b48209bee5b24d6549317ee69e6d10c1f17358e4253df6",
+        "score": 0.8817623257637024,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 20,
+          "split_idx_start": 23672,
+          "_split_overlap": [
+            {
+              "doc_id": "57a5ab0448cd2878500c3e47ee28061fd7fa455c7d3488a92dbe49bfaaf44b01",
+              "range": [
+                1198,
+                1620
+              ]
+            },
+            {
+              "doc_id": "a443f5f99615f4d58153e78f897e2ffefb92821137cdcb6dee7f4b5eef8b7bec",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "zur gemeinsamen Bearbeitung der erkannten Probleme führte, um die Selbstständigkeit im Familiensystem zu erhalten oder wieder herzustellen. Durch den großen Anteil an Schulung und Anleitung zu demenzspezifischen Pflegeproblemen und deren Verbindung zu systemisch-lösungsorientiertem Beratungshandeln hatte die pflegefachliche Expertise der Gesundheitsberate- rinnen und –berater eine zentrale Bedeutung. Diese galt es, in einer prozessorientierten Diagnostik und den passenden Interventionen geeignet zu platzieren. Das Projekt hat außerdem gezeigt, dass ein gewisser Grad an emotionaler Verbundenheit zwischen den Gesundheitsberaterinnen und -beratern und den Familien grundlegend ist für eine wirksame Pflegeunterstützung. Erst eine vertrauensvolle Beziehung ermöglicht einen ausreichenden Einblick in die Komplexität der häuslichen Lebens- und Pflegesituation, so dass individuell passende Hilfen gefunden und individuelle Barrieren der Inanspruchnahme bearbeitet werden konnten. In den Fallkonfer"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1031.txt",
+    "question": "Wie lässt sich aus dem Projekt Ede ableiten, welche Bedeutung eine enge wissenschaftliche Begleitung für die Weiterentwicklung von Pflegeversicherungsleistungen hat?",
+    "answer": "Eine enge wissenschaftliche Begleitung ist für die Weiterentwicklung von Pflegeversicherungsleistungen von zentraler Bedeutung. Dies lässt sich aus dem Projekt Ede ablen, das gezeigt hat, dass eine intensive wissenschaftliche Begleitung zu einer Verbesserung der Qualität der Pflegeversicherungsleistungen geführt hat. Durch die Begleitung konnten die Experten des Projekts ihre Kompetenzen stärken und ihre Fähigkeiten in der Pflegepraxis verbessern. Dies hat dazu geführt, dass sie in komplexen häuslichen Pflegesituationen individuell passend agieren konnten. Die Ergebnisse des Projekts zeigen, dass eine enge wissenschaftliche Begleitung eine wichtige Voraussetzung für die Weiterentwicklung von Pflegeversicherungsleistungen ist, um eine hochwertige und individuelle Pflege sicherzustellen. Die wissenschaftliche Begleitung soll die Entwicklung von Strategien und Konzepten unterstützen, die zur Verbesserung der Qualität der Pflegeversicherungsleistungen beitragen. Dies kann durch die Analyse von Daten, die Evaluation von Projekten und die Identifizierung von best practices erreicht werden. Durch die enge wissenschaftliche Begleitung können die Experten des Projekts ihre Kompetenzen stärken und ihre Fähigkeiten in der Pflegepraxis verbessern. Dies hat dazu geführt, dass sie in komplexen häuslichen Pflegesituationen individuell passend agieren konnten. Die Ergebnisse des Projekts zeigen, dass eine enge wissenschaftliche Begleitung eine wichtige Voraussetzung für die Weiterentwicklung von Pflegeversicherungsleistungen ist, um eine hochwertige und individuelle Pflege sicherzustellen. Die wissenschaftliche Begleitung soll die Entwicklung von Strategien und Konzepten unterstützen, die zur Verbesserung der Qualität der Pflegeversicherungsleistungen beitragen. Dies kann durch die Analyse von Daten, die Evaluation von Projekten und die Identifizierung von best practices erreicht werden. Durch die enge wissenschaftliche Begleitung können die Experten des Projekts ihre Kompetenzen stärken und ihre Fähigkeiten in der Pflegepraxis verbessern. Dies hat dazu geführt, dass sie in komplexen häus",
+    "expected": "Das Projekt Ede zeigt, dass eine enge wissenschaftliche Begleitung durch das Deutsche Institut für angewandte Pflegeforschung e. V. (dip) dazu beiträgt, die Wirksamkeit der Interventionen zu evaluieren und evidenzbasierte Erkenntnisse für die Weiterentwicklung der Pflegeversicherung zu gewinnen. Dies ermöglicht die Optimierung von Unterstützungsangeboten und fördert eine nachhaltige Entlastung pflegender Angehöriger durch gezielte Maßnahmen und bessere Nutzung von Leistungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.34307920932769775,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 2,
+        "id": "1fb7f1dd027021ead5d9f40b5ef34ba69d911f2cd3d8e1e561534991e00244d0",
+        "score": 0.20216962695121765,
+        "meta": {
+          "file_path": "9783866496811_chapter_11.txt",
+          "source_id": "b583be53ea4b64d62e1f93c258612e112070cfbe7d3bc99c54a55777d65af387",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8544,
+          "_split_overlap": [
+            {
+              "doc_id": "08e445bb1c9799baea3a8f109a73ecde37b4d25bb2587b831e1476efe139fef2",
+              "range": [
+                1142,
+                1528
+              ]
+            }
+          ]
+        },
+        "content": "Rückblickend verfolgten wir als Autorinnen das dringende Anliegen, die Möglichkeiten und Grenzen von Beratung in den Handlungsfeldern von Pflege und Pflegeausbildung auszuloten. Wir wollen Impulse für weitere Entwicklung geben. Je tiefer wir in die Thematik eingedrungen sind, desto deutlicher erkannten wir, dass sowohl die Professionalisierungsbestrebungen im Feld Beratung, als auch im Feld der Pflege und Pflegebildung parallel zueinander verliefen und dennoch in Beziehung zueinander standen. Beide Prozesse sind noch nicht abgeschlossen und so stehen wir mit unseren Über- legungen sicher erst am Anfang eines längeren Weges. Wesentlich erscheint uns, Betroffene zu Beteiligten zu machen und miteinander die spezifischen Problemstellungen in der Pflege und Pflegebildung im Kontext sich verän- dernder gesellschaftlicher und wissenschaftlicher Rahmungen prozesshaft zu behandeln. Von Beginn an waren wir uns bewusst, dass es hierbei nicht um ein ‚entweder oder …‘, sondern vielmehr um ein ‚sowo"
+      },
+      {
+        "rank": 3,
+        "id": "a443f5f99615f4d58153e78f897e2ffefb92821137cdcb6dee7f4b5eef8b7bec",
+        "score": 0.15962664783000946,
+        "meta": {
+          "file_path": "9783866496811_chapter_1033.txt",
+          "source_id": "95665b564efb2b86c2b44d3f64c9a8592917499be73e1c2904803389b6645514",
+          "page_number": 1,
+          "split_id": 21,
+          "split_idx_start": 24904,
+          "_split_overlap": [
+            {
+              "doc_id": "0ecd8375f40ed85039b48209bee5b24d6549317ee69e6d10c1f17358e4253df6",
+              "range": [
+                1232,
+                1620
+              ]
+            }
+          ]
+        },
+        "content": "Alltags der Familien steht – die Pflege und Betreuung des demenzerkrankten Menschen. Letztendlich hat die fachliche und mentale Begleitung der Gesundheitsberate- rinnen und -berater in Fallkonferenzen und Supervisionen dazu beigetragen, dass sie über die Projektzeit hinweg der Aufgabe, in komplexen häuslichen Pflegesituationen individuell passend zu agieren, gewachsen waren. Neben der zu Beginn genannten zentralen Empfehlung der ‚Programmleis- tung Demenz‘ ergibt sich aus den beschriebenen Erkenntnissen eine weitere wesentliche Empfehlung für die Weiterentwicklung der Pflegeversicherung: Die ‚Förderung der Professionalität von zielgruppenorientiert eingesetzten Beraterinnen und Beratern‘. Die grundlegenden Konzepte konnten erst durch die Professionalität der Beraterinnen und Berater ihre volle Wirkung entfalten. Die hohe Individualität der Fallzusammenhänge in den Familien erfor- dert es, der Qualifizierung und Begleitung der Beraterinnen und Berater eine zentrale Bedeutung beizumessen"
+      },
+      {
+        "rank": 4,
+        "id": "aa9f8eb38f8e48d4cbc6f331ecb69babb6fceaf9033ec81d3a9982e8c4de874b",
+        "score": 0.12092915922403336,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5869,
+          "_split_overlap": [
+            {
+              "doc_id": "aeb8afd73babb7ebf7e53f4ee1e17500373cb106c74a0d9afb0dbde2975a9f63",
+              "range": [
+                1201,
+                1584
+              ]
+            },
+            {
+              "doc_id": "378914d716e77f5b5f128d464800e60b56a92bb3c1fea9984067e5b1a8f29038",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Kompe- tenzentwicklung im situierten Lernen beschäftigt. Seine Beiträge bieten Impulse für eine Lernkultur, die sich mit dem ganzheitlichen Verständnis vom Lernen beschäftigt und insbesondere die Förderung sozialer Kompeten- zen im Arbeitsprozess und in Praxisgemeinschaften hervorhebt. Dabei greift er auf Konzepte von BENNER und DREYFUS & DREYFUS zur Kompe- tenzentwicklung zurück und bezieht sich ebenfalls auf ein Modell der multiplen Intelligenz. (vgl. Rauner 2002, 2003, 2004) Wie kann nun eine Pflegeeinrichtung im Kontext der Pflegeausbildungen diese Anforderungen tatsächlich in den konkreten und alltäglichen Pflegesi- tuationen berücksichtigen? Auch den Praxisanleitern, die am betrieblichen Lernort kontinuierlich präsent sind, kommt die besondere Aufgabe zu, den Lernenden die Expertise in der Pflegepraxis, in der Bewältigung der an sie gestellten Anforderungen in Pflegesituationen zu vermitteln. Anregungen für die Gestaltung solcher pflegepraktisch ausgerichteter Lernarrangements fi"
+      },
+      {
+        "rank": 5,
+        "id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+        "score": 0.07683093100786209,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1099,
+          "_split_overlap": [
+            {
+              "doc_id": "f15941cfc6f5463755ed8691e53ef744fe943e52e08a31a4940034ba156a9e2d",
+              "range": [
+                1099,
+                1455
+              ]
+            },
+            {
+              "doc_id": "1d634e1994236fb6a81bdd4139e396792ea51d737590b678bda90e3b8737b381",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "fehlende Aspekte des neuen Berufsbildes der Pflege zu berücksichtigen und in der Weiterbildung zu integrieren. Zur Zeit der Entwicklung der Empfehlungen zur Qualifikation des Pflegebe- raters und der Pflegeberaterin, wurde in erster Linie auf die Bewältigung der kurz- und mittelfristigen Ziele der über 2 Millionen Pflegebedürftigen abge- zielt. Nun gilt es den Praxisbezug herzustellen, um auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errich- ten. Das Tätigkeitsprofil der Pflegeberatung (§ 7a SGB XI) ist sehr vielschichtig und besteht aus verschiedensten Aufgaben, z.B. - Informationsvermittlung, - Pflegerische Handlungsanleitung, - Rechtsberatung, - Case Management, - Individuelle Beratung. Hier gilt es keine Wertung vorzunehmen, aber um die Anforderungen eines Pflegeberaters gerecht zu werden und den Leistungsempfängern auch die ihnen rechtlich zustehende individuelle Beratung (SGB XI, § 7a Abs.1 Satz1) zukommen zu lassen, ist es unumgäng"
+      }
+    ]
+  }
+]

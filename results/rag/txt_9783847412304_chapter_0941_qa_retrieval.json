@@ -1,0 +1,682 @@
+[
+  {
+    "filename": "9783847412304_chapter_0941.txt",
+    "question": "Welche Hauptfunktion hat Beratung laut dem Text im Hinblick auf individuelle Perspektiven und gesellschaftliche Verhältnisse?",
+    "answer": "Die Beratung hat die Funktion, individuelle Entscheidungs- und Handlungsfähigkeit zu unterstützen und gleichzeitig gesellschaftliche Strukturen zu hinterfragen und zu verändern. Laut dem Text ist es jedoch noch nicht gelungen, eine systematische Möglichkeit zu finden, um auf überindividueller Ebene aus dem Verständnis einer gesellschaftlich anerkannten Position zu intervenieren. Die Beratung hat daher eine doppelte Funktion: Sie unterstützt die individuellen Entscheidungen und Handlungen der Klienten, aber sie kann auch dazu beitragen, gesellschaftliche Strukturen zu hinterfragen und zu verändern. Die Beratung hat somit eine wichtige Rolle bei der Gestaltung individueller und gesellschaftlicher Verhältnisse.",
+    "expected": "Beratung eröffnet individuelle Perspektiven und gibt zugleich Aufschluss über gesellschaftliche Verhältnisse, indem sie die selbständige Entscheidungsfähigkeit unterstützt und auf neue Optionen sowie die Erweiterung von Autonomiespielräumen abzielt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.935563862323761,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 2,
+        "id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+        "score": 0.9287428855895996,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "cd2618d4785848ce538691cd9bdf9d2e0fab3d8e56fe71e70ad378074e305cd1",
+              "range": [
+                1205,
+                1614
+              ]
+            },
+            {
+              "doc_id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Formate der Beratung, die sich auf die Bewältigung der Anforderungen ergeben, im Le­ benslauf Entscheidungen für weitergehende zukünftige Bildungsprozesse zu treffen. Daher sind Lebenslauf- und Biographieorientierung in diesem Buch zentrale zu beachtende Prinzipien im Beratungsprozess. Das Beratungsverständnis in diesem Feld lässt sich beschreiben, wenn die theoretischen und empirisch evidenten Grundlagen benannt werden. Das Tätigkeitsfeld Bildungsberatung geht von der Annahme aus, dass Men­ schen ein Leben lang entwicklungsfähig und damit auch lernfähig sind, auch wenn immer wieder konstatiert und diskutiert wird, dass dies aufgrund der lebensweltlichen Bedingungen nur begrenzt möglich ist. Dieses humanisti­ sche Menschenbild findet weiterhin in der These Ausdruck, dass Menschen ihre Wirklichkeitskonstruktionen gestalten, auch wenn sie diese nicht allein zu verantworten haben. Ein Überblick von Anne Schlüter im ersten Teil des vorliegenden Buches zu den metatheoretischen Grundlagen pr"
+      },
+      {
+        "rank": 3,
+        "id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+        "score": 0.8009081482887268,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Beratungstheoretische Perspektive Zur Analyse der empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg­ liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor­ mellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf­ gabe oder als formales eigenständiges Beratungsangebot beschrieben wer­ den (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An­ gebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting kann es s"
+      },
+      {
+        "rank": 4,
+        "id": "3efc3e9aad03e762bf494714a25dee4a9ade17ce0707905798c19ec9e868cf20",
+        "score": 0.737806499004364,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7479,
+          "_split_overlap": [
+            {
+              "doc_id": "94712b697e5472f1e4fba687e7128619814980d4953a2a5020f9b9a1d506ab96",
+              "range": [
+                1285,
+                1710
+              ]
+            },
+            {
+              "doc_id": "0e64858164cc7de689aef10f5784da2e30e1023ece43f87fbb3d66668ad9c86f",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Seel (2014, S. 30) reflektiert diese Entwicklung kritisch, indem er Beratung als auf dem Weg zu einer »Individualisierungsagentur der Selbstoptimierung« bezeichnet. Es stellt sich hier die Frage, wie Bera­ tung die individuelle Entscheidungs- und Handlungsfähigkeit unterstützen und gleichzeitig einer möglichen Individualisierung von sozialstrukturel­ len Rahmenbedingungen entgegenwirken kann. Für Schrödter (2014, S. 811) folgt daraus notwendigerweise ein »dezidierter gesellschaftlicher Werte­ bezug und Auftrag« der Beratung. Dieser wirkt sich über die Elemente der Professionalität, Institution und des Gesellschaftsbezugs auf die Beratungs­ praxis aus und bildet die widersprüchliche Basis für eine spezifische Sinn­ welt, welche gleichzeitig die relevanten Orientierungen für das professionel­ le Handeln bietet (vgl. ebd.). Voraussetzung hierfür ist ein entsprechendes Selbstverständnis in der Beratung, welches eine Abgrenzung von externen Erwartungen und Anfor­ derungen ermöglicht. Die He"
+      },
+      {
+        "rank": 5,
+        "id": "21dc89f0eb9d435ef9a036411d4478a2b63647e141141cfe5c92c524d697e53e",
+        "score": 0.7117185592651367,
+        "meta": {
+          "file_path": "9783847412304_chapter_0941.txt",
+          "source_id": "796da8b9ba77100598a82dd6cac5796c33d1be38d4cdd9995074df2a6dc8b30b",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3910,
+          "_split_overlap": [
+            {
+              "doc_id": "38a6b8fa3f772c0a2c0f819cb9b644ce4cdc8b6df7792bc6ddf0b1f93315d1e4",
+              "range": [
+                1319,
+                1763
+              ]
+            },
+            {
+              "doc_id": "7018f0f8b53f213df3759a36db184fe2a09e9bf80e6c1fc8b0e4881f0ff1044b",
+              "range": [
+                0,
+                451
+              ]
+            }
+          ]
+        },
+        "content": "im Ausland erworbenen Qualifikationen, die mit restriktiven und oftmals einschränkenden rechtlichen Rahmenbedingungen konfrontiert sind, erfolgt vielfach eine aktive Auseinandersetzung mit den rechtlichen Rahmenbedingungen und deren Weiterentwicklung (vgl. Schmidtke 2017). Während in diesen Ansätzen ein gesellschaftlicher Auftrag zum professionellen Selbstverständnis gehört, liegt der Schwerpunkt in der Bildungs- und Berufsberatung auf der individuellen Wirkungsebene von Beratung. Aus erwachsenenpädagogischer Perspektive stehen die Prinzipien der „Hilfe zur Selbsthilfe“ und der Respekt vor der individuellen Entscheidungsfähigkeit der KlientInnen im Sinne eines nicht-direktiven Vorgehens (vgl. Rogers 2007) im Mittelpunkt der Beratung. Entsprechend beschäftigt sich auch die Beratungsforschung primär mit dem Beratungskontext auf individueller Ebene, während die gesellschaftlichen Strukturen weiterhin „ein randständiges Forschungsfeld“ (Enoch 2011: 82) bleiben. Aus professionstheoretischer"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0941.txt",
+    "question": "Warum können individuelle Entscheidungen im Bildungsbereich laut dem Text manchmal nicht umgesetzt werden? Nennen Sie zwei strukturelle Hindernisse.",
+    "answer": "Die individuellen Entscheidungen im Bildungsbereich können laut dem Text manchmal nicht umgesetzt werden, weil es strukturelle Hindernisse gibt. Zwei strukturelle Hindernisse sind:\n\n1.  Die fehlende gesellschaftliche Wertschätzung für ausländische Qualifikationen.\n2.  Die Diskriminierung am Arbeitsmarkt, die dazu führt, dass Menschen mit ausländischen Qualifikationen unterhalb ihres Ausbildungsniveaus beschäftigt und entlohnt werden.",
+    "expected": "Individuelle Entscheidungen können nicht umgesetzt werden, weil es strukturelle Hindernisse gibt, wie zum Beispiel fehlende Weiterbildungsangebote und rechtliche Einschränkungen, die je nach Wohnort oder Förderbedingungen variieren können.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d14baf8cdf5f5ca752f2c050115dc78c5c2bb20f908ab8e555b6a9446f7f8c32",
+        "score": 0.7739356756210327,
+        "meta": {
+          "file_path": "9783839444856_chapter_062.txt",
+          "source_id": "cb48d56204a65dfeac669f1daa68450d5f8c31a1807a992afa5cdb24caad6c92",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2503,
+          "_split_overlap": [
+            {
+              "doc_id": "e5c8f9dced770678db6db5e37aa314f040870b01f63c309c73985b5f21eaac72",
+              "range": [
+                1325,
+                1710
+              ]
+            },
+            {
+              "doc_id": "aa395bb17fb2b32bb85bf5db6f279ce6f3d5443e6044b551690a175154ff5269",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "sind ihre Handlungen immer auch durch äußere Strukturen bedingt und geprägt. Individuelle Erfahrungen und subjektive Einstellungen stellen nur einen möglichen Einflussfaktor in dem Gesamtkontext dar. Es sind die dadurch entstehenden Widersprüche und Spannungsfelder, welche für die Untersuchung von professionellem Handeln von Interesse sind. Im Unter­ schied zu den Darstellungen bei Meuser und Nagel (vgl. ebd.) werden in der vorliegenden Arbeit die biografischen Strukturen jedoch nicht vollständig ausgeklammert. Da es sich bei Anerkennungsberatung um ein relativ neu­ es Beratungsfeld handelt, in dem sich die professionellen Strukturen und Handlungsweisen erst herausbilden und verfestigen, kann den handelnden Akteur_innen als Personen mit individuellen Berufserfahrungen, Qualifika­ tionen und persönlichen Motivationen eine größere Bedeutung zugeschrie­ ben werden. Der Schwerpunkt wird hier allerdings auf die Bildungs- und Berufsbiografie als einen Ausschnitt des individuellen Lebenszusam"
+      },
+      {
+        "rank": 2,
+        "id": "5fa64ad63aeffeb185004334df79c16c18d57af2989e7342a7eb24b749a39d38",
+        "score": 0.20996630191802979,
+        "meta": {
+          "file_path": "9783839444856_chapter_031.txt",
+          "source_id": "9eafd55225ed62adcefb21b957709f15ea5268ad4422b8ea72660e4a8e02c0f7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2307,
+          "_split_overlap": [
+            {
+              "doc_id": "6d548ba4b77ba6d30766f68c5c16b0f5ea71232cd71a626cc1e267f2f91dd3d5",
+              "range": [
+                1170,
+                1569
+              ]
+            },
+            {
+              "doc_id": "3e4f10cef503824be66de87817d0fb70f618046028004364a1c1881d5cf2733b",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "Infolge der zunehmenden Auseinandersetzung mit den Rahmenbedingun­ gen werden jedoch nicht nur systembedingte Schwierigkeiten diskutiert, sondern auch die fehlende gesellschaftliche Wertschätzung thematisiert (vgl. Müller und Ayan 2013, S. 4f.). Die Anerkennung von im Ausland erwor­ benen Qualifikationen bezieht sich damit nicht nur auf rechtliche Vorausset­ zungen, sondern auch auf die sozialen Bedingungen von beruflicher Integ­ ration. Gesellschaftliche Wertschätzung bleibt in diesem Bereich allerdings meistens an institutionalisierte Formen der Anerkennung wie formale An­ erkennungsverfahren gebunden (vgl. Biffl et al. 2016, S. 47). »Darüber hinaus stehen Menschen mit einer ausländischen Ausbildung vor dem Problem, dass potenzielle Arbeitgeber ihre Abschlüsse mit Skepsis be­ trachten, da sie weder das notwendige Wissen über Bildungssysteme ande­ rer Staaten haben noch deren ›Wert‹ einschätzen können […]. Es ist jedoch auch die bewusste und unbewusste Diskriminierung am Arbeitsmarkt "
+      },
+      {
+        "rank": 3,
+        "id": "4073278188469c3379ec8d971589371106cb181dba1e19f5b793d2414351d34f",
+        "score": 0.17641523480415344,
+        "meta": {
+          "file_path": "9783839444856_chapter_054.txt",
+          "source_id": "12620f7620ee8f9451e6af7391fce206dd224f35c79e1dbb0b26ecda4c6cc0da",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "3.4 Zwischenfazit I: Theoretische Perspektiven auf Anerkennungsberatung Anerkennungsberatung wird als eine spezialisierte Fachberatung dem Be­ reich der Bildungs- und Berufsberatung zugeordnet. Bildungs- und Berufs­ beratung stellt ein sehr ausdifferenziertes Beratungsfeld dar, welches durch unterschiedliche Systematisierungsvorschläge hinsichtlich des Beratungs­ anliegens, der Adressat_innen oder des relevanten gesellschaftlichen Kon­ texts strukturiert werden kann. Durch die Einordnung von Anerkennungs­ beratung als eine Form pädagogischer Praxis werden unterschiedliche Zielsetzungen auf individueller, arbeitsmarkt- bzw. bildungspolitischer und gesellschaftlicher Ebene deutlich. Die damit verbundenen und teilweise wi­ dersprüchlichen Anforderungen und Erwartungen bilden das Handlungs­ feld der Anerkennungsberatung. Aufgrund des Widerspruchs zwischen pä­ dagogischem Beratungsverständnis und den eher restriktiv ausgerichteten migrationspolitischen Rahmenbedingungen werden diese Spannun"
+      },
+      {
+        "rank": 4,
+        "id": "b8439b8571df35428bc60b7435cd1a89eba355f23430b4ec6d5904b4fddb5db6",
+        "score": 0.08888167142868042,
+        "meta": {
+          "file_path": "9783839444856_chapter_07433.txt",
+          "source_id": "427799164061fe4f50d2365e6d2afc071f695bd23a9378383b595f8522ae025b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1260,
+          "_split_overlap": [
+            {
+              "doc_id": "7b5bf25c98eb825222af510bcc19e5e4bf330e83f47a562dcb9e74b4e2783734",
+              "range": [
+                1260,
+                1687
+              ]
+            }
+          ]
+        },
+        "content": "unterstützt werden, eigenständige Entscheidungen zu treffen und Hand­ lungsstrategien zu entwickeln. Die Herstellung von Transparenz ermöglicht damit auch den Zugang zu bestehenden Anerkennungsverhältnissen. Voraussetzung hierfür ist ein einheitliches und verlässliches System an strukturellen Rahmenbedingungen. Die Herstellung von Transparenz fin­ det daher nicht nur auf Beratungsebene statt, sondern auch auf struktureller Ebene. Durch die institutionenübergreifende Systematisierung und Gene­ ralisierung von Beratungsfällen wird fachspezifisches Expert_innenwissen für die Beratung generiert. Gleichzeitig wird diese fachliche Expertise auch genutzt, um auf struktureller Ebene auf die Handlungsbedingungen einzu­ wirken. Ähnlich wie im zweiten Handlungsmuster beschrieben, wird hier für die Klient_innen Partei ergriffen, deren Anliegen auch auf rechtlicher und gesellschaftlicher Ebene vertreten werden. Es handelt sich dabei jedoch nicht um einen alternativen, sondern um einen zusätzlichen "
+      },
+      {
+        "rank": 5,
+        "id": "fd7f2b84b84c4dbe10dfb577d2aa3c9758e0b93f997c6cde9c02a6c914abccdd",
+        "score": 0.06271236389875412,
+        "meta": {
+          "file_path": "9783847412304_chapter_0838.txt",
+          "source_id": "d4f950e8ad5b74ba86316640b4b27bdbea510411fc0c8e588e109901a2728622",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1202,
+          "_split_overlap": [
+            {
+              "doc_id": "7de27fdf8f2d3b1ae98b509a89ca359683ec21a69c4190f5165b87ef214e542a",
+              "range": [
+                1202,
+                1600
+              ]
+            }
+          ]
+        },
+        "content": "verfolgen. • Brückenkurse konzipieren und langfristig etablieren: Diese Kurse kön- nen sowohl fachliche Kompetenzen (z. B. Mathematikkenntnisse) als auch studienrelevante Kompetenzen vermitteln. • Als ein Bestandteil von Beratung sollten verschiedene Informationsmedi- en und -wege miteinbezogen und ausgebaut werden, v. a. die Onlinekanäle sind in der Einstiegsphase sehr hilfreich. Zugleich kann auf diesem Weg der Bekanntheitsgrad der „Öffnung der Hochschulen“ erhöht werden. Offen bleibt folgende Frage: Wie kann sichergestellt werden, dass nicht-traditionell Studierende in die bestehenden Strukturen integriert werden?"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0941.txt",
+    "question": "Wie wird die Rolle von BeraterInnen im Bildungs- und Berufsberatungsfeld aufgrund sozialstruktureller Rahmenbedingungen oft wahrgenommen, und welche historische Bewegung beeinflusste die Entwicklung feministischer Beratung?",
+    "answer": "Die Rolle von BeraterInnen im Bildungs- und Berufsberatungsfeld wird oft mit einem Gefühl der „Ohnmacht“ verbunden, da die sozialstrukturellen Rahmenbedingungen zunächst als unveränderlich erlebt werden. Die eigene Rolle wird dadurch auf das „Überbringen schlechter Nachrichten“ reduziert. Die Entwicklung feministischer Beratung wurde von der Frauenbewegung beeinflusst, die sich gesellschaftlich und politisch für Bildungs- und Berufsrechte für Frauen einsetzte. Diese Bewegung beeinflusste die Praxis und Theoriebildung pädagogischer Beratung durch ihren aufklärenden und emanzipativen Anspruch und legte den Grundstein für eine kritische Auseinandersetzung mit den gesellschaftlichen Verhältnissen und individuellen Lebensbedingungen. In der Entwicklung feministischer Beratung wurde besonders deutlich, wie aus der Beratungspraxis gewonnenes Wissen als Grundlage für die Formulierung von gesellschaftlichen Reformbedarfen genutzt wird.",
+    "expected": "Die Rolle von BeraterInnen wird oft als mit einem Gefühl der „Ohnmacht“ verbunden wahrgenommen, da die sozialstrukturellen Rahmenbedingungen zunächst als unveränderlich erlebt werden, was die Rolle auf das Überbringen schlechter Nachrichten reduziert. Die Frauenbewegung beeinflusste historisch die Entwicklung feministischer Beratung und setzte sich politisch für Bildungs- und Berufsrechte von Frauen ein.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+        "score": 0.9900510907173157,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1227,
+          "_split_overlap": [
+            {
+              "doc_id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+              "range": [
+                1227,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidungs- und Übergangsberatung resultieren kann, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Methodenbeschreibungen spielen für das Erlernen von Beratungskompe­ tenz eine wichtige Rolle. Sie haben den Vorteil, dass sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Auch wenn es sich immer um abstra­ hierte Beratungsprozesse handelt, transportieren sie Ideen für ein Vorgehen, das erfahrene Beraterinnen und Berater entwickelt haben. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho­ den und Techniken wert zu legen, um deutlich zu machen, dass die Metho­ denkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi­ nierbare Bausteine weniger äußere Vora"
+      },
+      {
+        "rank": 2,
+        "id": "19b6339a4f966cb20d1a74ec4a165d70f14635e18952a0405cdb36a4a541ef3d",
+        "score": 0.9857628345489502,
+        "meta": {
+          "file_path": "9783847412304_chapter_0941.txt",
+          "source_id": "796da8b9ba77100598a82dd6cac5796c33d1be38d4cdd9995074df2a6dc8b30b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1347,
+          "_split_overlap": [
+            {
+              "doc_id": "6d493b0e43a2773f28d1698877df264e3a39e0223d1e2dfea21c7e84c720491a",
+              "range": [
+                1347,
+                1766
+              ]
+            },
+            {
+              "doc_id": "38a6b8fa3f772c0a2c0f819cb9b644ce4cdc8b6df7792bc6ddf0b1f93315d1e4",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "beispielsweise bestimmte Förderbedingungen nicht zutreffen oder in Abhängigkeit vom Wohnort unterschiedliche rechtliche Voraussetzungen für eine Weiterbildung gelten. Für die BeraterInnen im Feld der Bildungs- und Berufsberatung ist diese Situation vielfach mit einem Gefühl der „Ohnmacht“ verbunden, da die sozialstrukturellen Rahmenbedingungen zunächst als unveränderlich erlebt werden. Die eigene Rolle wird dadurch auf das „Überbringen schlechter Nachrichten“ reduziert. Dem stehen Beratungsansätze gegenüber, zu deren Selbstverständnis auch die Auseinandersetzung mit gesellschaftlichen Rahmenbedingungen und deren Veränderung gehört. Dies zeigte sich bereits in den Anfängen der Bildungs- und Berufsberatung in der Entwicklung feministischer Beratung. Auf institutioneller Ebene stand die Gründung der ersten Berufsberatungsstellen in Deutschland und Österreich in Verbindung zur Frauenbewegung, die sich gesellschaftlich und politisch für Bildungs- und Berufsrechte für Frauen einsetzte (Gröni"
+      },
+      {
+        "rank": 3,
+        "id": "7368fe23c208858d90bdb9e9ca30e7051f41e19e111540aaa663371b21b15886",
+        "score": 0.9499112963676453,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 20451,
+          "_split_overlap": [
+            {
+              "doc_id": "39671329dd7da5e160d73a4843391f1023738414608eff5fc8832fa4446a1b7d",
+              "range": [
+                1190,
+                1602
+              ]
+            },
+            {
+              "doc_id": "9976e4190b0ec980017538e8cd7b7445221a7f82e975b9f9cf86def717e42cdf",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "zu agieren, und jene Berate- rin, die die fehlende organisationale Unterstützung in Form von kollegialen Beratungen oder Supervi- sionen erwähnte, will sich eigeninitiativ um einen kollegialen Austausch bemühen. Diese Befunde bestätigen, dass organisationale Rahmenbedingungen der Beratungsanbieter die Beratungsprozesse beeinflussen und diese Einfluss- nahmen von den Professionellen auch wahrgenom- men werden (siehe Stanik 2015). Die vorliegende Untersuchung der Fallreflexionen zeigt, dass unter den BildunsgberaterInnen ein Be- ratungsverständnis vorherrscht, welches Beratung als zielorientiertes Gespräch konzeptualisiert, das mit Hilfe situationsangemessen auszuwählender Beratungsansätze zu bewältigen ist. Auffällig ist, dass die BeraterInnen ihre Beratungen in den Refle- xionen insgesamt als erfolgreich einschätzen. Ein- zelne, weniger gelungene Aspekte der Beratungen werden aber auch zum Anlass genommen, dazu zu lernen, um das eigene professionelle Handeln weiterzuentwickeln. Organis"
+      },
+      {
+        "rank": 4,
+        "id": "38a6b8fa3f772c0a2c0f819cb9b644ce4cdc8b6df7792bc6ddf0b1f93315d1e4",
+        "score": 0.9371849894523621,
+        "meta": {
+          "file_path": "9783847412304_chapter_0941.txt",
+          "source_id": "796da8b9ba77100598a82dd6cac5796c33d1be38d4cdd9995074df2a6dc8b30b",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2591,
+          "_split_overlap": [
+            {
+              "doc_id": "19b6339a4f966cb20d1a74ec4a165d70f14635e18952a0405cdb36a4a541ef3d",
+              "range": [
+                1244,
+                1707
+              ]
+            },
+            {
+              "doc_id": "21dc89f0eb9d435ef9a036411d4478a2b63647e141141cfe5c92c524d697e53e",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "den ersten Beratungsstellen für Frauen die „ethischen Grundlagen von Parteilichkeit und Solidarität jenseits des Therapiemodells“ (ebd.: 140) und sieht in diesen die gemeinsame gesellschaftskritische Fundierung pädagogischer und feministischer Beratung. Damit findet ein Perspektivenwechsel von einem defizitorientierten Beratungszugang zu einer kritischen Auseinandersetzung mit den gesellschaftlichen Verhältnissen und individuellen Lebensbedingungen statt. In ihrer Rekonstruktion der Entwicklungslinien feministischer Beratung wird besonders deutlich, wie aus der Beratungspraxis gewonnenes Wissen als Grundlage für die Formulierung von gesellschaftlichen Reformbedarfen genutzt wird. In der Nachbardisziplin, der Sozialen Arbeit, wird im Ansatz der lebensweltorientierten sozialen Arbeit ebenfalls die Aufgabe, sich in die soziale und politische Diskussion zur Veränderung der gesellschaftlichen Bedingungen einzumischen, explizit formuliert. Das Prinzip der Einmischung wird verstanden „als par"
+      },
+      {
+        "rank": 5,
+        "id": "ad30cb7c484ad2dd904d250960dcea768cbe26ee64ca8dca2ebf98d398980f79",
+        "score": 0.9225082397460938,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7752,
+          "_split_overlap": [
+            {
+              "doc_id": "6b9893e7df5aef25cf53eb4f5bc18fef8c7877467a2981bd76b2652523301d57",
+              "range": [
+                1129,
+                1519
+              ]
+            }
+          ]
+        },
+        "content": "wieder ihrer Wege. Diese Dimension der menschlichen Begegnung ist vor dem Hintergrund meiner persönlichen Beratungspraxis auch für die Beraterin und den Berater jedes Mal wieder eine besondere persönliche und berührende Erfahrung. Damit schließt die Prozessverantwortung der Beraterin und des Beraters aus professioneller und erfahrener Sicht mit einem Nachschwingen, einer Nachbetrachtung und Nachbereitung der Beratung, um sich reflektiert in gu­ ter, klarer und professioneller Distanz wieder einpendeln zu können, bereit für neue Beratungsherausforderungen. Abb. 3: Phasen im Beratungsgespräch und ihre Funktionen (eigene Darstellung)"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0941.txt",
+    "question": "Inwiefern unterscheidet sich der emanzipative Beratungsansatz von der traditionellen Beratung laut dem Text?",
+    "answer": "Der emanzipative Beratungsansatz unterscheidet sich von der traditionellen Beratung laut dem Text dadurch, dass er kritische Aufklärung sein kann und neue Fragen formuliert, während traditionelle Beratung eher dazu dient, Antworten zu geben. Laut Klaus Mollenhauer kann Beratung die Möglichkeiten zur Förderung der Mündigkeit im Erziehungsprozess der Ratsuchenden bieten, indem sie kritische Aufklärung sein kann und einen rationalen Verhaltenswechsel ermöglicht. Im Gegensatz dazu behauptet Erich Ribolits, dass Beratung ein Instrument der (scheinbaren) Selbstbestimmung sei, bei dem die Beraterinnen und Berater ihre Kund/innen auf sanfte – non-direktive – Art das Gift der Entmündigung einträufeln. Dies eröffnet ein Spannungsfeld zwischen Emanzipation und Entmündigung, Mündigkeit und Anpassung. Der emanzipative Beratungsansatz zielt darauf ab, die Mündigkeit der Ratsuchenden zu fördern, während traditionelle Beratung eher dazu dient, sie zu entmündigen. \n        I cannot find the answer in the provided context. \n        Die Antwort auf die Frage kann nicht aus dem bereitgestellten Text abgeleitet werden. \n\n        Alternative Antwort:\n        Laut dem Text unterscheidet sich der emanzipative Beratungsansatz von der traditionellen Beratung dadurch, dass er kritische Aufklärung sein kann und neue Fragen formuliert, während traditionelle Beratung eher dazu dient, Antworten zu geben. Der emanzipative Beratungsansatz zielt darauf ab, die Mündigkeit der Ratsuchenden zu fördern, während traditionelle Beratung eher dazu dient, sie zu entmündigen. \n        Die Antwort auf die Frage kann nicht aus dem bereitgestellten Text abgeleitet werden. \n        I cannot find the answer in the provided context. \n        Die Antwort auf die Frage kann nicht aus dem bereitgestellten Text abgeleitet werden.  Die Antwort lautet:  Der emanzipative Beratungsansatz unterscheidet sich von der traditionellen Beratung dadurch, dass er kritische Aufklärung sein kann und neue Fragen formuliert, während traditionelle Beratung eher",
+    "expected": "Der emanzipative Beratungsansatz umfasst neben der individuellen Unterstützung auch die Auseinandersetzung mit gesellschaftlichen Rahmenbedingungen und deren Veränderung, während traditionelle Beratung sich oft auf individuelle Problemlösung beschränkt. Zudem basieren feministische Beratungsansätze auf ethischen Grundlagen von Parteilichkeit und Solidarität jenseits des Therapiemodells.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.9914342164993286,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 2,
+        "id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+        "score": 0.9852572083473206,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2561,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                1222,
+                1666
+              ]
+            }
+          ]
+        },
+        "content": "sich bei den von den Studiengangkoor- dinierenden dargestellten Anliegen eher um Informationsweitergabe als um Beratung handelt. Abbildung 3 zeigt die von nicht-traditionell Studieninteressierten an Stu- diengangkoordinierende adressierten Beratungsbedarfe auf Programmebene absteigend gewichtet nach ihrer Häufigkeit und ergänzt durch exemplarische Beratungsanliegen. In einem nächsten Schritt erfolgt nun die Fokussierung der identifizierten hochschulischen Beratungsstrukturen auf die besonderen Spezifika innerhalb der Programmebene."
+      },
+      {
+        "rank": 3,
+        "id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+        "score": 0.9584813714027405,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Beratungstheoretische Perspektive Zur Analyse der empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg­ liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor­ mellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf­ gabe oder als formales eigenständiges Beratungsangebot beschrieben wer­ den (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An­ gebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting kann es s"
+      },
+      {
+        "rank": 4,
+        "id": "95a73b71d1376d819757798e83a59e719b34aa5b1536fb6e9d5e7a919a40e670",
+        "score": 0.9268755912780762,
+        "meta": {
+          "file_path": "9783847412304_chapter_1231.txt",
+          "source_id": "92bf5d4fd182676eebfa915fea59bf56e0e5b7d93b82dc9e0ed373880028ca78",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "df041f6a2c380e9945786edfdc70c7961f694338ee95c15d288c51a5b7bcd2e8",
+              "range": [
+                0,
+                355
+              ]
+            }
+          ]
+        },
+        "content": "Kira Nierobisch Beratung im Kontext Hochschule Eigen- und Steuerungslogiken zwischen ­Emanzipation und Entmündigung? 1965 konstatiert Klaus Mollenhauer, Vertreter einer kritischen Erziehungs- wissenschaft, dass Beratung die Möglichkeiten zur Förderung der Mündig- keit im Erziehungsprozess der Ratsuchenden biete: „Die entscheidende Funktion der Beratung endlich liegt darin, dass sie kritische Aufklä- rung sein kann. Das Gespräch schafft Distanz, es ermöglicht, das Besprochene objekti- vierend zu betrachten, es ermöglicht ein rationales Verhalten zu sich selbst und zu den Bedingungen der eigenen Existenz. In der Beratung werden nicht nur Antworten gegeben, sondern zugleich neue Fragen formuliert; die rationale Erhellung eines Problems wird so weit wie möglich versucht, um eine Entscheidung vorzubereiten, die von Vorurteilen und Verfestigungen frei nach dem Abwägen der vernünftig entscheidbaren Fragen getroffen werden kann.“ (Mollenhauer 1965, S. 32) Im Kontrast hierzu behauptet indes der"
+      },
+      {
+        "rank": 5,
+        "id": "7f88cce9cd2ecc859c9cdadb3adf40eefaffb5e8807a5ad31cb198d9908498d0",
+        "score": 0.916394054889679,
+        "meta": {
+          "file_path": "9783847412304_chapter_0935.txt",
+          "source_id": "98f593ae3da1c68040234c9ddea2fa5decdf657f8e68b5695a2c77b3810aaec4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e0e7e8405e12e45cd8c5f72f5ee8ead6b5b0f2db3ebac9356986f919d8f93534",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "5. Zeitbezüge von Beratungsanlässen Der in der Studie verwendete Zugang zum Thema Zeit eröffnet zudem die Möglichkeit, Beratungsanlässe unter dem Aspekt der subjektiven Handlungsmotivation und der damit verbundenen zeitlichen Verortung im Horizont des Lebenslaufs zu analysieren. Dementsprechend lassen sich sowohl Temporalbezüge von Beratungsanliegen identifizieren, die sich auf die biographische Vergangenheit beziehen, als auch Zeitkontexte rekonstruieren, die auf die biographische Zukunft verweisen. Anhand des Datenmaterials der Primärstudie lassen sich diese beiden Optionen weiter präzisieren und damit die zweite Fragestellung nach den konkreten Beratungsanlässen und den damit verbundenen Zeitbezügen bearbeiten. Im Elementarbereich werden ausschließlich Beratungsanliegen der Erziehungsberechtigten thematisiert, die jedoch direkt an die biographische Entwicklung der pädagogisch Anderen gekoppelt sind. Die dabei identifizierten Anliegen umfassen einerseits den korrekten Umgang mit erwa"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0941.txt",
+    "question": "Welche Bedeutung hatten die ersten Berufsberatungsstellen in Deutschland und Österreich im Zusammenhang mit gesellschaftlicher Kritik und der Frauenbewegung?",
+    "answer": "Die erste Berufsberatungsstelle in Deutschland wurde 1966 in Berlin gegründet. In Österreich waren die ersten Berufsberatungsstellen in den 1960er Jahren entstanden. Diese Entwicklung wurde von der gesellschaftlichen Kritik und der Frauenbewegung beeinflusst, die eine stärkere Berücksichtigung der individuellen Bedürfnisse und Interessen von Frauen und anderen marginalisierten Gruppen forderten. Die Berufsberatungsstellen sollten helfen, dass Menschen besser über ihre Karriereplanung und -entscheidungen informiert sind, um sich besser in der Gesellschaft zu positionieren. Die Berufsberatungsstellen wurden auch als eine Möglichkeit gesehen, die Ungleichheiten in der Gesellschaft anzugehen und die Chancen für Frauen und andere marginalisierte Gruppen zu verbessern. Die Berufsberatungsstellen sollten nicht nur beratend, sondern auch aktiv und unterstützend tätig sein, um Menschen dabei zu helfen, ihre Ziele zu erreichen. Die ersten Berufsberatungsstellen in Deutschland und Österreich waren also nicht nur eine Reaktion auf die gesellschaftliche Kritik und die Frauenbewegung, sondern auch eine Antwort auf die Notwendigkeit, die Berufs- und Karriereplanung besser zu organisieren und die Chancen für alle Menschen zu verbessern. \n\n        I cannot find the answer in the provided context.",
+    "expected": "Die ersten Berufsberatungsstellen in Deutschland und Österreich standen in Verbindung mit der Frauenbewegung, die sich für Bildungs- und Berufsrechte von Frauen einsetzte. Diese Beratungsstellen hatten eine gesellschaftskritische und emanzipative Fundierung, die ethische Grundlagen von Parteilichkeit und Solidarität betonten und damit die pädagogische und feministische Beratung prägten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b823765b6446d5d00266add25b66a38748b0f4eddf3ea34113ccaf00236b08ff",
+        "score": 0.9960818886756897,
+        "meta": {
+          "file_path": "9783839444856_chapter_042.txt",
+          "source_id": "65414aa1d80825662f85bd1a867cb5f903ff3216cd14a3f246e909eddd9d9eb1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6417,
+          "_split_overlap": [
+            {
+              "doc_id": "20a5ae85c6425259e0b294ecca69f40ac63f2d365d7b42e0087dbbc34ae35cab",
+              "range": [
+                1259,
+                1634
+              ]
+            }
+          ]
+        },
+        "content": "von den ASTen und in Deutschland vor allem durch die Beratungsstellen im Rahmen des IQ-Netzwerkes umgesetzt wird. Als Beratungsstellen in Österreich wurden systematisch die vier AST-Standorte Wien, Linz, Graz und Innsbruck ausgewählt. Weitere Interviews erfolgten mit den Koordinator_innen, um eine umfassende Perspektive auf die Orga­ nisation zu erhalten. Ergänzend wurden Interviews in drei Beratungsstellen in einem deutschen Bundesland durchgeführt, die von Beginn an in engem Austausch mit den österreichischen Beratungsstellen standen. Zusätzlich wurde eine weitere Beratungsstelle aus einem zweiten Bundesland mitein­ bezogen, da sich hier interessante Besonderheiten in Bezug auf die recht­ lichen Rahmenbedingungen zeigten. Für die Darstellung der Ergebnisse aus Deutschland ist damit zu bedenken, dass nur ein Einblick in die Anerken­ nungsberatung und kein umfassendes oder repräsentatives Bild gegeben werden kann."
+      },
+      {
+        "rank": 2,
+        "id": "30774320e98e5f998567fa727edbcc3ac133cb137f83cf9ebfb81c7fc93318a1",
+        "score": 0.9947420358657837,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 11238,
+          "_split_overlap": [
+            {
+              "doc_id": "7f3dc8bb43b940f6e0dfc8631bea59f7dca8dbad429c99177a1788da5c152473",
+              "range": [
+                1265,
+                1671
+              ]
+            },
+            {
+              "doc_id": "855f2f800f8c4cc35170b35c780988543d5074ed66b04c4791181bcc1b42fef3",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "auf institutionali­ sierte Bildungs- und Berufsberatung an Bedeutung, welche insbesondere im »pädagogisch organisierten System des lebenslangen Lernens eine stra­ tegisch wichtige Rolle« (Nittel 2016, S. 27) übernimmt. Ziel ist die Förde­ rung des lebensbegleitenden Lernens vor dem Hintergrund bewusster und eigenverantwortlicher Bildungs- und Berufsentscheidungen (vgl. Schröder und Schlögl 2014, S. 9). Beratung ist daher danach einzuordnen, »wie ihre Möglichkeiten sind, eine Wirksamkeit hinsichtlich subjektiv gewollter Ent­ scheidungen zu erzeugen« (Gieseke 2016a, S. 104). Käpplinger (2010, S. 32) thematisiert den Nutzen von Bildungsberatung zusammenfassend auf unterschiedlichen Ebenen: »Sie kann nützlich in Hinblick auf Beschäftigungschancen oder Einkommen sein, aber sich genauso auch dahingehend nützlich zeigen, dass Klienten nach einer Beratung in ihrem Selbstbewusstsein oder in ihrer Entschei­ dungsfähigkeit gestärkt sind«. Vor diesem Hintergrund empfiehlt er ein weit gefasstes Ver"
+      },
+      {
+        "rank": 3,
+        "id": "c80b7f1575ac18bf8a302ad198a7f7137dad971ded3d2c3393bd6c30446592f5",
+        "score": 0.9903457760810852,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2558,
+          "_split_overlap": [
+            {
+              "doc_id": "b54467dc54261f69e29b3b9fe9277ef5ab17f4194eb3d475cd8f1bdcc21fbf9b",
+              "range": [
+                1257,
+                1644
+              ]
+            },
+            {
+              "doc_id": "03fc09f7a0ec3b0e283ac89f5b83fe7ae8463418592f45f3a166c5c75e34e3bd",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "Anlaufstellen und weitere Maßnahmen zur Anerkennung und Bewertung von im Ausland erworbenen Qualifikationen« des ehemaligen Bundesministeriums für Arbeit, Sozia­ les und Konsumentenschutz (BMASK, seit 2018 BMASGK; vgl. Bichl 2016a). Die darin beschriebenen Aufgaben beziehen sich neben der mehrsprachi­ gen Beratung und Begleitung im Anerkennungsverfahren auch auf die Ko­ operation mit relevanten Institutionen und Organisationen sowie auf die Übernahme einer Filterfunktion gegenüber den rechtlich zuständigen An­ erkennungsstellen, welche die formalen Anerkennungsverfahren durchfüh­ ren (vgl. BMASK 2012). Die Anlaufstellen sind in bestehende Migrant_innenvereine integriert, die bereits über langjährige Erfahrung in der Beratung von Personen mit Migrationserfahrung verfügen und entsprechende Netzwerke aufweisen (vgl. Tomić 2015). Unterstützt werden die Beratungsstellen durch ein Back­ office in Wien, welches die Anerkennungsberatung österreichweit koordi­ niert. Als Aufgaben dieser Koordin"
+      },
+      {
+        "rank": 4,
+        "id": "1e7dda937564d036fc2d37eee7441e8af093d6e2c53b910d669c3b226cb45865",
+        "score": 0.9704468846321106,
+        "meta": {
+          "file_path": "9783839444856_chapter_08.txt",
+          "source_id": "77bfd832556bb91746ddd0857cc0f846b917e8717f1c258cd9732daf345a2d05",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7724,
+          "_split_overlap": [
+            {
+              "doc_id": "8887ec4c619886d242c583d1d44780adac606667c155b15c337ecd1ab2aae0bd",
+              "range": [
+                1329,
+                1754
+              ]
+            },
+            {
+              "doc_id": "26c5c85daf02fec77282751efd6695574702da0c52f8f570e8f50c5fc95e42eb",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "werden pädagogische, sozialarbeiterische, soziologische und politik­ wissenschaftliche Perspektiven zusammengeführt, die sich auch in unter­ schiedlichen Zugängen und Handlungsweisen in der Beratung bemerkbar machen. Durch die sich neu entwickelnde Beratungsform gibt es zunächst wenige spezielle Fortbildungen für den Bereich der Anerkennungsberatung. Gerade deshalb gewinnen der fachliche Austausch und die Vernetzung zwi­ schen den Berater_innen an Bedeutung, wodurch erst ein gemeinsames berufliches Selbstverständnis entwickelt und eine Positionierung als eine pädagogisch begründete Fachberatung erfolgen kann. Obwohl in Österreich im Bereich der Bildungs- und Berufsberatung die institutionellen Strukturen regional gewachsen sind, zeichnet sich die An­ erkennungsberatung durch relativ einheitliche Strukturen und Konzepte aus. Die Anlaufstellen sind zwar autonomen Vereinen zugeordnet, doch wurden von Anfang an gemeinsame Aufgabenbereiche und Qualitätsstan­ dards definiert. Die österreichw"
+      },
+      {
+        "rank": 5,
+        "id": "512d5a377e9eed0480c91478ff0c757f0ac6accefa5b4bc859e0a4439b83bec4",
+        "score": 0.9463793635368347,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9215,
+          "_split_overlap": [
+            {
+              "doc_id": "75e86134a7e1c8767d140dc5d9886ee59dede8c09010796d02c24086de2a1ea3",
+              "range": [
+                1115,
+                1510
+              ]
+            },
+            {
+              "doc_id": "af351bfb482696c1f6b1c8464819db6bbef6644a5e21dff54bc6407988e06e95",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "entwickeln« (K/AT, Z. 602-604). In Österreich werden spezifische Weiterbildungen für diesen Bereich über die Koordinierungsstelle organisiert. So fanden während des Aufbaus der Beratungsstellen Vor-Ort-Besuche in den Bundesländern statt, um die Er­ fahrungen der Beratungsstelle in Wien an die Kolleg_innen weiterzugeben. In den Interviews in Deutschland wird ebenfalls von einem institutionen­ übergreifenden Weiterbildungsangebot für Berater_innen berichtet, wel­ ches parallel zum Aufbau der Anerkennungsberatung entwickelt wurde. Diese Strukturen werden auch genutzt, um Weiterbildungen für weitere Akteur_innen anzubieten, die indirekt mit dem Thema der Anerkennung im Ausland erworbener Qualifikationen befasst sind. Zudem wird dem fachli­ chen Austausch zwischen den Berater_innen eine wichtige Rolle zugeschrie­ ben. Dabei findet neben den Fallbesprechungen auch eine Reflexion der Zu­ sammenarbeit mit unterschiedlichen Stellen und Behörden statt. »Dementsprechend ist es da wichtig, dass es"
+      }
+    ]
+  }
+]

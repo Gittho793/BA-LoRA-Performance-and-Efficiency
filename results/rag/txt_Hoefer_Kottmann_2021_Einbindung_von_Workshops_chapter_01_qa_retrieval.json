@@ -1,0 +1,667 @@
+[
+  {
+    "filename": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+    "question": "In welchem Studiengang und Semester wird das beschriebene Praxisseminar zur angewandten BWL angeboten?",
+    "answer": "I cannot find the information about the specific Studiengang and Semester in which the described Praxisseminar zur angewandten BWL is offered in the provided context. The context discusses various topics related to academic advising, but it does not mention a specific Praxisseminar zur angewandten BWL. It does mention a Praxisseminar zur angewandten BWL in a different context, but the information about the Studiengang and Semester is not provided.",
+    "expected": "Das Praxisseminar zur angewandten BWL wird im dritten Semester des Masterstudiengangs Management mittelständischer Unternehmen angeboten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4fd566117ce582cdb76b601be345ad1bfbbbf4c4c0d83c5357ef7c248ea0bc62",
+        "score": 0.9718477725982666,
+        "meta": {
+          "file_path": "9783847412304_chapter_0813.txt",
+          "source_id": "85ee9449fa3f1fa917a6df0a78fa50dfaed1fcd287ca0d5ab1e98b3b6c2b396a",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "3. Programmebene: Beratung durch ­Studiengang­koordinierende Studiengangkoordinierende übernehmen die dezentral organisierte Bera- tung quasi direkt vor Ort und sind als „One-Stop-Office“ (Hanft 2014: 115) Haupt-Ansprechpersonen über den gesamten Student-Life-Cycle hinweg. Sie übernehmen eine Vielzahl von Aufgaben und sind die zentrale Schnittstelle in dem jeweiligen weiterbildenden Studienprogramm (vgl. Gronert/Rundna- gel 2018: 201). Eine Aufgabe innerhalb dieses umfangreichen Tätigkeitsfel- Tab. 1: Charakteristika der auf verschiedenen Ebenen angesiedelten Organisationseinhei- ten (Quelle: Sturm/Bopf 2017) des besteht in der Beratung von nicht-traditionell Studieninteressierten. Da Studiengangkoordinierende aufgrund ihrer dezentralen Verortung direkt im weiterbildenden Studienprogramm angesiedelt sind, ist anzunehmen, dass sie als Expertinnen und Experten sowohl mit organisationalem als auch mit programm- und fachspezifischem Wissen besonders bedeutsame Beratende für die Anliegen vo"
+      },
+      {
+        "rank": 2,
+        "id": "d97792add0dcabd13ba7d9d2fdf34d9c2267022382917fd23f02be1623c28bdd",
+        "score": 0.9585040807723999,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 15530,
+          "_split_overlap": [
+            {
+              "doc_id": "4ef18272ccbdd7c253c6fa3c58805a67b63ffda9d4e496786e71bd10af1e9df5",
+              "range": [
+                1235,
+                1644
+              ]
+            },
+            {
+              "doc_id": "2d9b4ad6b30712cf0e567094cd9deaaac6796bd83e072b37b277304a3090a35d",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "reflexiven Übergangsberatung den Blick auf sensible Phasen und Zeiten in beruflichen Kontexten am Beispiel betrieblicher Interessenvertreter*innen und arbeitet in ihrer Studie unter anderem drei methodenspezifische Wirkfaktoren heraus. Den Fragen nach Beratungsanlässen und -themen im Bereich der außerschulischen Jugendbildung wird bezogen auf den Kontext des Freiwilligen Sozialen Jahres von Caroline Kruse nachgegangen, die hierfür Bildungsreferent*innen interviewt hat. Übergänge in Arbeit und darauf bezogene Beratungsangebote haben Heike Chyle, Nina Wlassow und Christiane Dittrich in einem universitätsübergreifenden DFG-Projekt in Bezug auf darin sich zeigende pädagogische Rationalitäten erforscht. Im Beitrag werden am Beispiel von Coaching und Transfergesellschaft zwei spezifische Kontexte vor allem hinsichtlich der Materialität von Praktiken im Beratungssetting analysiert. Im letzten Beitrag von Franziska Schulze-Stocker, Robert Pelz und Christian Schäfer-Hock geht es um das Zusammen"
+      },
+      {
+        "rank": 3,
+        "id": "3032c56ae24799bec7f555d8e026e2bc6dfc06517a9cc839b9372437088ff3e5",
+        "score": 0.9436776041984558,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2374,
+          "_split_overlap": [
+            {
+              "doc_id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+              "range": [
+                1264,
+                1662
+              ]
+            }
+          ]
+        },
+        "content": "zu Wechsel-, Unterbrechungs- oder Abbruchgedanken (mit Fokus auf den Studiengang), Eingangsvoraussetzungen, Studier- und Lernverhalten sowie Kontextbedingungen Studierende von 11 Studiengängen3 (rund 10% der TU-Studierenden) wurden angeschrieben, von denen rund 13% an der Befragung teilnahmen (n = 463)4. Zum annähernd gleichen Anteil haben Frauen wie Männer die gestellten Fragen beantwortet. Im Mittel waren die Befragten 22 Jahre alt und studierten im 4. (Bachelor) bzw. 6. (Diplom) Fachsemester (Details: Schul- ze-Stocker et al. 2017; Pelz/Schulze-Stocker 2018). 5.2.2 Interviewstudie Als Folgebefragung wurden qualitative Interviews im Sommersemester 2017 mit 17 (von 72 angeschriebenen) Personen durchgeführt, die in der Auftakt- befragung Abbruchgedanken formulierten. Das Ziel der Interviews lag in der Erforschung der Gründe für Probleme im Studium sowie der Strategien des Umgangs mit diesen Problemen und Schwierigkeiten bzw. unsicheren Ent- scheidungssituationen (auch: Meinefeld 2007; "
+      },
+      {
+        "rank": 4,
+        "id": "0ab0ae7018a863483568ba1ecb81cd141dcbca3fae9f35457b0506969ed7d90e",
+        "score": 0.9153710603713989,
+        "meta": {
+          "file_path": "9783847412304_chapter_0836.txt",
+          "source_id": "3bad86e2170ee60d601dc5529d76ffcfd56b25cb3d50c243ba8cafc3de76f9f1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1297,
+          "_split_overlap": [
+            {
+              "doc_id": "820164d093c0639f774255b48551d14b67f9a485c84cd2e42d1f1bd50d0bcb6d",
+              "range": [
+                1297,
+                1755
+              ]
+            }
+          ]
+        },
+        "content": "formationen die wichtigste Rolle. Deshalb wurde eine Informationsbroschüre mit Informationen zur Hochschule, hilfreichen Anlaufstellen und Angeboten wie Weiterbildung mit Kind sowie allgemeinen Campusinformationen er- stellt. Diese Broschüre wurde den Kursteilnehmenden am ersten Weiterbil- dungstag gegeben. „moving through“ Beratungsthemen wie finanzielle Fördermöglichkeiten, Zeitmanagement so- wie berufliche Perspektiven und Karriereplanung waren stark nachgefragt. Daher wurde v. a. für die Teilnehmenden des „BeVorStudiums“ ein Vortrag zu Finanzierungsthemen in der Weiterbildung sowie im zukünftigen Studium zusammen mit dem Studien- und Career Service der OTH Amberg-Weiden organisiert. „student success“ Um einen erfolgreichen Kursverlauf sowie einen erfolgreichen Übergang ins Studium zu gewährleisten, wurde das Modul „Studienkompetenz“ entwi- ckelt, welches bereits vor Studienbeginn studienrelevante Inhalte wie Lern- strategien usw. vermittelt."
+      },
+      {
+        "rank": 5,
+        "id": "14b8bc2f2a67167ad5ed3ca9ef1b76fef1e5e672c63d02fca9b0de799587c171",
+        "score": 0.8968740105628967,
+        "meta": {
+          "file_path": "9783847412304_chapter_08263.txt",
+          "source_id": "bb4fb234e2a6d4534f3369ce1a0486b3d4e4f0d8e17192877f674e3112d965a1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Schluss Beratung zu Anrechnungsfragen, die als übergangsrelevant in der wissen- schaftlichen Weiterbildung anzunehmen ist, wird nach eigenen Angaben von einem Großteil der Befragten angeboten. Analysen von Handlungspraktiken zeigen allerdings im Hinblick auf die Öffnung von Hochschulen für beruflich Qualifizierte deutliche qualitative Unterschiede. Zunächst ist insgesamt festzuhalten, dass eine Kongruenz zwischen den Öffnungs- und Schließungstendenzen und der Beratung zu Anrechnungsfragen empirisch beobachtet werden kann. Dort, wo bestehende Grenzen erhalten bleiben sollen, wird Beratung in Bezug auf Student_innen geschildert, die bereits immatrikuliert sind. Sollen Zulassungsmöglichkeiten erweitert werden, wird zudem grenznah über Anrechnungsfragen informiert oder beraten. Die eingangs formulierte Problematik der negativen Beeinflussung von Weiterbildungsberatung durch angebots- bzw. trägereigene Interessen ist angesichts der empirischen Ergebnisse anzunehmen. Als Antwort auf die Frag"
+      }
+    ]
+  },
+  {
+    "filename": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+    "question": "Welche Art von Arbeit erstellen die Studierenden im Rahmen des 12-Credits-Moduls, und welches Ziel verfolgt diese Arbeit?",
+    "answer": "Die Studierenden erstellen ein Fallstudie eines real existierenden Unternehmens, das für den Transfer in die Praxis relevant ist. Ziel der Arbeit ist es, die Komplexität eines real existierenden Unternehmens auf ein Komplexitätsniveau zu reduzieren, das von den Studierenden beherrscht werden kann. Ziel ist es auch, dass die Studierenden das Geschäftsmodell des Unternehmens weiterentwickeln können. \n\nI cannot find the answer in the provided context.",
+    "expected": "Die Studierenden erstellen eine Entscheidungsvorlage, beispielsweise in Form eines Businessplans, die die Weiterentwicklung des Geschäftsmodells eines fiktiven Unternehmens aufzeigen soll.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "28d1eb6de83c64700d2ad9ee15210092b2af2ee505ae49b72ae0cc71e5782e17",
+        "score": 0.8385852575302124,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2427,
+          "_split_overlap": [
+            {
+              "doc_id": "2ac58ea6e417402b9a0a37f2ac126badb7de73c3b06245c553932a461b9fa9d1",
+              "range": [
+                1189,
+                1549
+              ]
+            },
+            {
+              "doc_id": "1c8a906dfd7dd8a149aa21b3a318ea82e1d4af2873f9e294f35ce28a9689fa28",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "im Beratungsprozess 2. Formulie- rung des Kontrakts und Aufbau einer Ar- beitsbezieh- ung 2.1 Welche Arbeits- ergebnisse werden angestrebt Fragt nach bis ein verständliches und klares Arbeitsziel beschrieben ist Bietet u.U. weitere Perspektiven zur Zielfindung an Klärt seinen Ver- änderungswunsch unter Berücksich- tigung der Kon- texte und reflek- tiert, in wie weit das Arbeitsziel realistisch, not- wendig und erreichbar ist 2.2 Wer soll was Klärt, wer bezogen auf Möchte erfahren, wie tun? das Arbeitsziel in en Beratungsprozess integriert werden kann/soll/muss, wel- che Aktivitäten durchzuführen sind und welche Art von Unterstützung seitens der Führungseben erwartet werden kann Klärt, wer das Klien- tensystem ist (Person, Gruppe, Organisation) viel Zeit, Energie und Verpflichtung der Berater in den Bera- tungsprozess investiert 2.3 Zeitperspektive und Verantwort- lichkeit Macht ein Vertrags- /Vereinbarungsangebo t Schlägt Auswertungs- verfahren vor (Zwischenzeitlich oder am Ende) Verei"
+      },
+      {
+        "rank": 2,
+        "id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+        "score": 0.6621294617652893,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 14487,
+          "_split_overlap": [
+            {
+              "doc_id": "51b5ea4c3b0764279ab2a8daa35a6a64da10e505016873dee0d681f2ec11de63",
+              "range": [
+                1146,
+                1481
+              ]
+            },
+            {
+              "doc_id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "angemeldet. Das heißt, dass viele Arbeitgeber_innen profitiert haben, was eigentlich Unrecht ist […]. Genau, man sagt auch, man hat die 20 Jahre wirklich gearbeitet, und dann wird festgestellt eigentlich, der war nur als ungelernter Arbeitnehmer angemeldet oder eingestuft sozusagen, und er zeigt mir sein Diplom als Maurer, was er eh schon seit 30 Jahren absolviert hat und eigentlich auch gearbeitet hat, und das ist dann ja oft auch erlebt als Schock. Wie? Das kann nicht sein, weil das hat ja natürlich Einfluss dann auf Pension, Berufsschutz etc.« (H/AT, Z. 609-619) In diesem Interviewausschnitt wird die Anstellung von ausgebildeten Fach­ kräften unterhalb ihrer Qualifikation als eine strukturelle Benachteiligung dieser Gruppe beschrieben, welche in der Vergangenheit vor allem für Arbeit­ geber_innen Vorteile gebracht hat. Deutlich wird hier auch die persönliche Betroffenheit der beratenden Person, welche aufgrund der arbeitsmarkt­ rechtlichen Kenntnisse den vollen Umfang dieser Benacht"
+      },
+      {
+        "rank": 3,
+        "id": "9b7e477e94815cbedea7c0fc78293b405165787c75afb63c02633b4206aeed7e",
+        "score": 0.5206403136253357,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4729,
+          "_split_overlap": [
+            {
+              "doc_id": "e54e741b8077264cfd75070a7d0c402d29d2b400da710a2075d338b81cd810fa",
+              "range": [
+                1090,
+                1472
+              ]
+            },
+            {
+              "doc_id": "35b548fbe3308e119916022d0f50635a2931051195152a168ced487913a91244",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "zusammengestellten Teams erfordert dabei soziale Kompetenzen der einzelnen Teammitglieder (vgl. Jokiel, 2013, S. 10). Die Unternehmensdarstellung kann als eine Art Fallstudie angesehen werden, die für den Transfer in die Praxis relevant ist. Die tatsächliche Komplexität, die ein real existierendes Unternehmen aufweist, wird hierbei auf ein Komplexitätsniveau redu- ziert, das von den Studierenden beherrscht werden kann (vgl. Ruf, 2006, S. 137). Absichtlich eingearbeitete Unschärfen bieten den Studierenden genügend Freiheiten, um das Geschäftsmodell des Unternehmens weiterzuentwickeln. Einen weiteren Blickwinkel auf das Geschäftsmodell des Unternehmens bietet der Aspekt „Bildung für eine nachhaltige Entwicklung“, den die Studierenden im Rahmen ihrer Projektarbeit eigenständig in ihre Aktivitäten eingebunden haben (vgl. Deutsche UNESCO-Kommission e. V., 2011, S. 27). Dies dient nicht nur dazu, das ei- gene Handeln zu hinterfragen, sondern auch verstärkt bereit zu sein, nachhaltigkeits- ge"
+      },
+      {
+        "rank": 4,
+        "id": "13c7888a6de61091c768e3b3ab03a2d4dddab4611ad3590887ef314e93142471",
+        "score": 0.46230998635292053,
+        "meta": {
+          "file_path": "9783847412304_chapter_1035.txt",
+          "source_id": "acf640eeb82e1ab5086fbb6b75bf05c2ee53ae2f170190d0fc2419a86f599ca9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1203,
+          "_split_overlap": [
+            {
+              "doc_id": "32b82f862e45a6ac210abca698197c786d16fc595466ab0489056df8cb9e07d6",
+              "range": [
+                1203,
+                1566
+              ]
+            },
+            {
+              "doc_id": "6b070a56196d08b6a8ed0d8c12867f53af2a943ff1468ff0a7dfb6742a2ce825",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "anderen aber auch der Agentur für Arbeit und potentiellen neuen Arbeitgebern in Form von Kurzprofilen vorhandene berufliche Fähigkeiten der Arbeitnehmer*innen sichtbar gemacht. Im Coaching wird die Artefaktnutzung dem Coachee angeboten, er hat die Wahl, diese im Beratungssetting und darüber hinaus für eine Reflexion der eigenen Fähigkeiten zu nutzen. In beiden Fällen geht es dabei um eine Kompetenzbilanzierung der zu Beratenden, die allerdings in divergenter Weise verwertet wird: In der Transfergesellschaft werden die ermittelten Kompeten- zen an übergeordnete und sonstige relevante Institutionen weitergeleitet. Im Coaching dagegen liegt die Verantwortung für die weitere Verwendung allein beim Coachee. Es zeigt sich hier ein relevanter Unterschied: innerhalb der Transfergesellschaft erzielte Ergebnisse müssen für Dritte verwertbar sein, dagegen sind Coaching-Inhalte ausschließlich für die eigenverantwortliche Nutzung durch den Coachee vorgesehen, es gibt keine strukturellen Vorgaben. I"
+      },
+      {
+        "rank": 5,
+        "id": "6385a832aaa6407a32dc09470399486aa83a1282ed2264b92ea7586c7211a704",
+        "score": 0.2265518605709076,
+        "meta": {
+          "file_path": "9783847412304_chapter_0923.txt",
+          "source_id": "116745f40d292a8fe8178b2878eeb684d6a523260a3f5cc07ec0920549d4a89e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "48bfcb0fc6bf59cfdd72c7e52e256c08a2b3e2cef04a22fc5d3deedee22e3ed1",
+              "range": [
+                0,
+                470
+              ]
+            }
+          ]
+        },
+        "content": "Empirische Daten zum Beratungskompetenzerwerb an der Hochschule Im Folgenden werden Ergebnisse eigener Studien referiert (Weinhardt 2013, 2014a, 2014b), in denen ein spezifisches Verfahren zur Erfassung von Beratungskompetenz im Rahmen von Videostudien unter einer auf Performanz orientierten Perspektive vorgeschlagen wird. Dieses Verfahren erscheint sowohl für die Grundlagenforschung als auch für die unmittelbare Einbindung in innovative Lehrformate reizvoll und gab den Ausschlag, vermehrt über die Idee subjektorientierter Professionalisierung nachzudenken. Aus den Ergebnissen dieser Studien lassen sich durch statistische Aggregation allgemeine Entwicklungsgesetze hinsichtlich des zeitlichen Verlaufs des Kompetenzerwerbs an der Hochschule abbilden (Weinhardt und Bauer 2016), Effekte von Lernangeboten feststellen (Weinhardt 2016a) sowie die Struktur von Beratungskompetenz in frühen Expertisestadien aufklären (Weinhardt und Kelava 2016). Aufgrund der Anlage als Videostudien besteht in ei"
+      }
+    ]
+  },
+  {
+    "filename": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+    "question": "Wie definiert sich die berufliche Handlungskompetenz im Kontext des Moduls und welche Kompetenzbereiche umfasst sie?",
+    "answer": "Die berufliche Handlungskompetenz wird im Kontext des Moduls als die Fähigkeit definiert, sich selbstorganisiert und flexibel in verschiedenen Situationen zu verhalten. Sie umfasst die Fähigkeiten, kreative Denkprozesse, instrumentelle Arbeitstätigkeiten, kommunikative Fähigkeiten und reflexive Handlungen zu entwickeln und anzuwenden. Diese Kompetenzbereiche sind im Kompetenzmodell des Moduls aufgeführt und werden in verschiedenen Instrumenten zur Kompetenzerfassung erfassbar gemacht. \n         Die berufliche Handlungskompetenz wird im Kontext des Moduls als die Fähigkeit definiert, sich selbstorganisiert und flexibel in verschiedenen Situationen zu verhalten. Sie umfasst die Fähigkeiten, kreative Denkprozesse, instrumentelle Arbeitstätigkeiten, kommunikative Fähigkeiten und reflexive Handlungen zu entwickeln und anzuwenden. Diese Kompetenzbereiche sind im Kompetenzmodell des Moduls aufgeführt und werden in verschiedenen Instrumenten zur Kompetenzerfassung erfassbar gemacht. \n         Die berufliche Handlungskompetenz wird im Kontext des Moduls als die Fähigkeit definiert, sich selbstorganisiert und flexibel in verschiedenen Situationen zu verhalten. Sie umfasst die Fähigkeiten, kreative Denkprozesse, instrumentelle Arbeitstätigkeiten, kommunikative Fähigkeiten und reflexive Handlungen zu entwickeln und anzuwenden. Diese Kompetenzbereiche sind im Kompetenzmodell des Moduls aufgeführt und werden in verschiedenen Instrumenten zur Kompetenzerfassung erfassbar gemacht. \n         Die berufliche Handlungskompetenz wird im Kontext des Moduls als die Fähigkeit definiert, sich selbstorganisiert und flexibel in verschiedenen Situationen zu verhalten. Sie umfasst die Fähigkeiten, kreative Denkprozesse, instrumentelle Arbeitstätigkeiten, kommunikative Fähigkeiten und reflexive Handlungen zu entwickeln und anzuwenden. Diese Kompetenzbereiche sind im Kompetenzmodell des Moduls aufgeführt und werden in verschiedenen Instrumenten zur Kompetenzerfassung erfassbar",
+    "expected": "Berufliche Handlungskompetenz umfasst methodische, sozial-kommunikative, persönliche und fachliche Kompetenzen und führt zur Fähigkeit, Situationen selbstständig zu bewältigen und fachgerechte Lösungen für Probleme und Aufgaben zu erarbeiten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "67681d3cef2354525f6f473b187bc6f36595947475dcc58c2d0a46cea908860d",
+        "score": 0.9913315773010254,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8845,
+          "_split_overlap": [
+            {
+              "doc_id": "0ddfcf99875c993d18c6c6bc744488e03afaeb038cf2ff4a9bd7a981193afb0e",
+              "range": [
+                1245,
+                1630
+              ]
+            },
+            {
+              "doc_id": "394ef47d5f01b49f843b5bcccc9a48bd49fd75e780a48e7a1c652a02006db9f2",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "in der Situation in wechselseitiger Be- ziehung mit den eigenen Deutungen, Handlungsgewohnheiten, Erfahrungen usw. (Schön 1983, S. 67). Welche Handlung in der Situation realisiert wird, entscheidet sich durch „eine reflexive Beziehung auf die in der Situation erleb- te Herausforderung“ (Joas 1996, S. 236). Die Auswertung der drei letztgenannten Instrumente folgt ähnlichen Prinzipen und vergleichbaren Instrumenten. Grundlage ist jeweils das Kom- petenzprofil für Beratende, das in einem Auswertungsbogen abgebildet ist. Dieser umfasst sieben Teilkompetenzen zur Gestaltung von Beratungspro- zessen, die jeweils durch Kompetenzindikatoren und Verhaltensmerkmale operationalisiert sind. Diese Auswertungshilfe kann dazu beitragen, die Be- urteilungsbreite sowie den Spielraum für subjektive Beurteilung zu reduzie- ren. Die Bewertung sollte dennoch von erfahrenen und geschulten Personen vorgenommen werden. Die Herausforderung besteht darin, die dargestellten Beobachtungen, Bewertungen und Reflexi"
+      },
+      {
+        "rank": 2,
+        "id": "1e006cf8366e54d16fd4e46203f60d52ace01d1c174a4bc6c5715f18bd9079a6",
+        "score": 0.9760748744010925,
+        "meta": {
+          "file_path": "9783866496811_chapter_082.txt",
+          "source_id": "020114a26ee7bb8ae15ecd2283be825234056b3c2b03e1a5dd8a66488b2a3749",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "33470b9326703c79cba10ec98e432e15f1eb268316da384f2a0faca00a20d2fa",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "4.2. Beratungskompetenzen Über Schlüsselkompetenzen und Kernkompetenzen Schlüsselkompetenzen sind berufsübergreifende, d.h. überfachliche Qualifikationen, die zu selbstor- ganisiertem Handeln befähigen und damit die spezifische Handlungskompetenz steigern sollen. Schlüsselqualifikationen sind auf der höchsten bzw. abstraktesten Ebene anzusiedeln und bezeichnen kompetenztheoretisch „die allgemeine Fähigkeit, konkrete Handlungen (Tun, Sprechen, Denken) jeweils situationsgerecht zu generieren (erzeugen) bzw. zu aktualisieren“ (Reetz, 1990 In: Schewior-Popp, 1998:17). Schlüsselkompetenzen sind damit übergreifende Fähigkeitsprofile, die für das Arbeitsfeld (hier Beratung) und für die Teilhabe am gesellschaftlichen Leben quasi zwingend erforderlich sind. Sie ermöglichen den professionellen Umgang mit fachlichem Wissen, indem sie sich aus einem breiten Spektrum übergreifender Fähigkeiten, Einstellun- gen, Strategien und Wissenselemente zusammensetzen. Schlüsselkompetenzen können in verschiede"
+      },
+      {
+        "rank": 3,
+        "id": "18e96a1f5c6e2d2e9dd32f3f874c1d6bbac03a9e013df4223d94b50bb8df6290",
+        "score": 0.973381519317627,
+        "meta": {
+          "file_path": "9783839444856_chapter_07424.txt",
+          "source_id": "94deff8d3a809562d86ce29185b163f6f439fc80493ffc9571ca71f93ab79ed6",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 9711,
+          "_split_overlap": [
+            {
+              "doc_id": "76e44ba974212d611b8024882f030fdb79c715fd156d90e28f3e2d31121474e2",
+              "range": [
+                955,
+                1420
+              ]
+            },
+            {
+              "doc_id": "535b22781e509fe805161d9f7dbc2738761b70512cc4b7886680800d4feb0cb3",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "nicht als genuine Beratungsaufgabe beschrieben, sondern als ein Handlungsfeld, welches Anerkennungsberatung aufgrund struktureller Defizite übernimmt, jedoch gleichzeitig auch auszeichnet. Während die bisher dargestellten Handlungsstrategien auf die Unterstüt­ zung der Eigentätigkeit und Eigenverantwortung der Klient_innen abzielen, bezieht sich die vierte Handlungsstrategie auf die kritische Auseinanderset­ zung mit den strukturellen Rahmenbedingungen, welche Anerkennungs­ verhältnisse ermöglichen, aber auch verhindern können. In der Anerken­ nungsberatung konkretisiert sich diese Handlungsstrategie vor allem auf gesellschaftlicher und rechtlicher Ebene. Durch die Ausweitung der Be­ ratung auf die Arbeitgeber_innen und die Öffentlichkeit wird Einfluss auf die Bedingungen gesellschaftlicher Anerkennungsverhältnisse genommen. Aufgrund der spezifischen Expertise im Bereich Anerkennung leisten die Beratungsstellen in beiden Ländern zudem fachliche Unterstützung und Beratung auf politische"
+      },
+      {
+        "rank": 4,
+        "id": "f03a9ae2c982c2205f194f808f0a084a31c60844f9bd79e24d08c33b304974ce",
+        "score": 0.973168671131134,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de6c428be37601046f22eaa8e052be210761941616220e344fea8307cd53a6ed",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "### Einbindung von Workshops zur Stärkung der beruflichen Handlungskompetenzen und Persönlichkeitsentwicklung im Rahmen von Projektarbeiten ### Einbindung von Workshops zur Stärkung der beruflichen Handlungskompetenzen und Persönlichkeitsentwicklung im Rahmen von Projektarbeiten Henny Höfer, Elke Kottmann Schlagworte: Berufsbildung, Handlungskompetenzen, Persönlichkeitsentwicklung, Projektstudium Einleitung Dynamische gesellschaftliche Entwicklungen erfordern gut ausgebildete Fachkräfte, die über berufliche Handlungskompetenzen verfügen und gereifte Persönlichkeiten sind (vgl. Zumbach, 2016, S. 20 f.). Sie sollten mit unsicheren, komplexen und ggf. konfliktträchtigen Situationen souverän umgehen können. Die hierzu erforderliche Persönlichkeitsentwicklung soll während des Studiums unterstützt werden. Dieser Entwicklungsauftrag wird in der Veranstaltung Praxisseminar zur angewandten BWL wahrgenommen, die eine Weiterentwicklung des bisherigen Bachelormoduls Praxis- seminar zur BWL darstel"
+      },
+      {
+        "rank": 5,
+        "id": "58e1f6a688e13aec6df8458ac0516ec351f8ab9698e17faa4b733c0619cc5ce2",
+        "score": 0.9683913588523865,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de0cba158e3b9ae7364c63054facb948021dbaebe4e9349d471335b02441c9c1",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "3. Konstruktionsprinzipien der entwickelten Instrumente zur Kompetenzerfassung Aufbauend auf dem skizzierten Kompetenzmodell und dem daraus abgeleiteten Kompetenzprofil wurde im Rahmen des Projektes BeQu eine multimethodale Vorgehensweise zur empirischen Erfassung der Kompetenzen entwickelt, die mehrere Instrumente zur Kompetenzerfassung beinhaltet. Im Folgenden werden zunächst die theoretischen Annahmen beschrieben, die hinter dem Modell stehen. Anschließend werden diese Instrumente vorgestellt. Ausgehend von den Überlegungen zum Kompetenzbegriff besteht die Anforderung an Instrumente zur Erfassung von Kompetenz, sowohl die Ressourcen, insbesondere Wissen, als auch die Performanz, also das kompetente beraterische Handeln zu erfassen. Die Verbindung von Wissen und Handeln bleibt dabei in der Regel implizit und muss für die Erfassung durch Reflexion expliziert werden. Daraus ergibt sich für die Erarbeitung von Instrumenten die Anforderung, die drei Aspekte Ressourcen, Handeln und die Re"
+      }
+    ]
+  },
+  {
+    "filename": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+    "question": "Warum wird in dem Modul neben der Projektarbeit auch der Einbezug von Workshops als wichtig erachtet?",
+    "answer": "Neben der Projektarbeit wird in dem Modul der Einbezug von Workshops als wichtig erachtet, weil durch die Workshops die überfachlichen Kompetenzen der Studierenden gezielt unterstützt werden können. Dies geschieht im Rahmen der Workshops, in denen bewusst nur der Part der überfachlichen Kompetenzen angesprochen wird. Durch den Einbezug von Workshops soll das Problemverständnis der Studierenden verbessert und die Entwicklung von vielfältigeren Handlungsoptionen ermöglicht werden. Außerdem soll durch die Workshops die Lernerzentrierung unterstützt werden, indem die Studierenden aktiv an der Gestaltung des Lernprozesses teilnehmen können und die Lehrenden in einer beratenden Rolle auftreten. Dadurch soll das Lernen zu einem konstruktiven, situativen und sozialen Prozess werden, bei dem das bereits vorhandene Wissen der Studierenden einbezogen wird.",
+    "expected": "Die Workshops unterstützen gezielt die Stärkung der überfachlichen Kompetenzen, insbesondere der Persönlichkeitsentwicklung, und ergänzen so die Projektarbeit, um die berufliche Handlungskompetenz umfassend zu fördern.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "483e3076a9268aa00f0ad1c152dd4ab1210ccec26fea24286fff66157b3f717e",
+        "score": 0.9943419694900513,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2523,
+          "_split_overlap": [
+            {
+              "doc_id": "de6c428be37601046f22eaa8e052be210761941616220e344fea8307cd53a6ed",
+              "range": [
+                1160,
+                1526
+              ]
+            },
+            {
+              "doc_id": "e54e741b8077264cfd75070a7d0c402d29d2b400da710a2075d338b81cd810fa",
+              "range": [
+                0,
+                334
+              ]
+            }
+          ]
+        },
+        "content": "f.). In diesem Modul wird dies nicht allein durch das Lehrformat Projekt- arbeit erreicht, sondern durch begleitende Workshops gezielt unterstützt. Dabei wird im Rahmen der Workshops bewusst nur der Part der überfachlichen Kompetenzen angesprochen. Im weiteren Verlauf wird zunächst das Lehrkonzept erläutert, bevor die Work- shops geschildert und die abschließende Evaluation dargestellt werden. Lehrkonzept Die Basis für die Veranstaltung bildet die Projektarbeit, die für gewöhnlich komplexe Aufgabenstellungen umfasst, die nicht nur eine Zusammenführung der Theorie mit der Praxis beinhalten, sondern auch einen Fokus auf die Schlüsselkompetenzen le- gen. Hierdurch sollen das Problemverständnis verbessert und die Entwicklung von vielfältigeren Handlungsoptionen ermöglicht werden (vgl. Ufert, 2015, S. 39). Im Mit- telpunkt der Projektarbeit steht die Lernerzentrierung. Dies bedeutet, dass der aktive Part bei den Studierenden und der reaktive Part bei den Lehrenden liegt. Das Lernen beruht a"
+      },
+      {
+        "rank": 2,
+        "id": "35b548fbe3308e119916022d0f50635a2931051195152a168ced487913a91244",
+        "score": 0.9443163871765137,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5875,
+          "_split_overlap": [
+            {
+              "doc_id": "9b7e477e94815cbedea7c0fc78293b405165787c75afb63c02633b4206aeed7e",
+              "range": [
+                1146,
+                1543
+              ]
+            },
+            {
+              "doc_id": "26662a436ab93605fd63244b8e76698c4c595ae2890556d33b41745946f80f8b",
+              "range": [
+                0,
+                344
+              ]
+            }
+          ]
+        },
+        "content": "Teil im Team Teaching durchge- führt werden, sind maßgebend auf das subjektive gedankliche Entwickeln, Handeln und vor allem Erleben/Erfahren der Studierenden ausgerichtet. Der Ansatz des Team Teaching bedeutet, dass die Modulverantwortlichen mit externen Experten zusam- menarbeiten und gemeinsam inhaltlich abgestimmte Workshops anbieten. In den hier angebotenen Workshops wird der theoretische Input möglichst knapp gehalten und überwiegend über eigenes Herleiten von z. B. Definitionen („Was ist Konfliktma- nagement?“ o. Ä.) gemeinsam entwickelt. Aktivierende Aufgaben, wie z. B. die Ent- wicklung einer Persona beim Design Thinking oder Rollenspiele zum Thema Füh- rung oder Mediation, erfordern eine intensive Begleitung und Betreuung, wie sie durch das Team Teaching möglich sind (vgl. Michelsen & Rieckmann, 2014, S. 11). Workshops Die Workshops werden zeitlich so platziert, dass sie möglichst dann stattfinden, wenn die Projekte eine Phase erreicht haben, in denen der Inhalt des Workshops"
+      },
+      {
+        "rank": 3,
+        "id": "f03a9ae2c982c2205f194f808f0a084a31c60844f9bd79e24d08c33b304974ce",
+        "score": 0.9200558066368103,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de6c428be37601046f22eaa8e052be210761941616220e344fea8307cd53a6ed",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "### Einbindung von Workshops zur Stärkung der beruflichen Handlungskompetenzen und Persönlichkeitsentwicklung im Rahmen von Projektarbeiten ### Einbindung von Workshops zur Stärkung der beruflichen Handlungskompetenzen und Persönlichkeitsentwicklung im Rahmen von Projektarbeiten Henny Höfer, Elke Kottmann Schlagworte: Berufsbildung, Handlungskompetenzen, Persönlichkeitsentwicklung, Projektstudium Einleitung Dynamische gesellschaftliche Entwicklungen erfordern gut ausgebildete Fachkräfte, die über berufliche Handlungskompetenzen verfügen und gereifte Persönlichkeiten sind (vgl. Zumbach, 2016, S. 20 f.). Sie sollten mit unsicheren, komplexen und ggf. konfliktträchtigen Situationen souverän umgehen können. Die hierzu erforderliche Persönlichkeitsentwicklung soll während des Studiums unterstützt werden. Dieser Entwicklungsauftrag wird in der Veranstaltung Praxisseminar zur angewandten BWL wahrgenommen, die eine Weiterentwicklung des bisherigen Bachelormoduls Praxis- seminar zur BWL darstel"
+      },
+      {
+        "rank": 4,
+        "id": "9bc201a3a1e808ce769c4f874ef1c3585e2dabae87ee5c3285494b130180e301",
+        "score": 0.8890780806541443,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2603,
+          "_split_overlap": [
+            {
+              "doc_id": "066702f4a4d59f8e8000396128470f897652a9c2b1b61c42d613c0c6f1e937c7",
+              "range": [
+                1335,
+                1710
+              ]
+            },
+            {
+              "doc_id": "2aeabd3654cdce11f23978bb6c472de964eef8e323b6dc9b7f7392ab91bc3bad",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Curricula weisen folgerichtig neben expliziten Wissensvermittlungsformen vor allem auch implizite Formen des Lehrens und Lernens auf, die sich mit dem gemeinsamen Tätigsein in einer Community of Practice (Lave und Wenger 1991; Wenger 1998), beispielsweise in Peergruppen- oder Supervisionsgruppen, sowie dem Lernen im Modus der Cognitive Apprenticeship (Collins et al. 1987) beschreiben lassen. Ein solches Gesamtarrangement von Professionalsierungsteilprozessen ist aber hoch voraussetzungsvoll: Gefordert wird die Einbettung der Weiterbildung in eine Arbeitsstelle mit Beratungselementen, der Zugriff auf Fälle, die Herstellung der unterschiedlichen Sozialformen mit zugehörigen lehrenden BeraterInnen etc. Eine solche Form der Beratungsprofessionalisierung vollzog sich vor Bologna ganz überwiegend berufsbiographisch spät und hatte sehr implizite Formen, die sich entlang der Strukturen der Beratungslandschaft ausrichteten. So erscheint Professionalisierung vorwiegend als weitgehend unbewusste "
+      },
+      {
+        "rank": 5,
+        "id": "8067b4b705c702495fa86351720ded98051a794408b403f99713acf3ca90676d",
+        "score": 0.8718137145042419,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8228,
+          "_split_overlap": [
+            {
+              "doc_id": "26662a436ab93605fd63244b8e76698c4c595ae2890556d33b41745946f80f8b",
+              "range": [
+                1264,
+                1633
+              ]
+            },
+            {
+              "doc_id": "baf7af4a1fb8fd06ec6d806604ce5c40819023923291cf2400887c5a83a5112d",
+              "range": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        "content": "Workshops gestärkt und weiterentwickelt werden bzw. an welchen Stellen die Studierenden für bestimmte Themen sensibilisiert werden können. Dazu werden auch die Inhalte der einzelnen Workshops kurz skizziert. Abbildung 1: einem ersten Schritt wird das Problem als sogenannte Design Challenge näher be- trachtet: „Wie können wir mit unseren Kompetenzen und betrieblichen Ressourcen die Be- dürfnisse von Konsumentinnen und Konsumenten befriedigen, die an nachhaltiger und gesunder Ernährung interessiert sind?“ Wesentlich ist, dass sich die Studierenden mög- lichst gut in Kundinnen bzw. Kunden und andere potenzielle Stakeholder hineinver- setzen und deren Perspektive einnehmen lernen. Hierfür wird die Persona-Methode eingesetzt. Am ersten Tag des Workshops werden mögliche Bedürfnisse und Hinder- nisse in Bezug auf nachhaltige Ernährung ermittelt, geclustert und anschließend in Bedürfnis-Hindernis-Paaren zugeordnet. Die Fokusfrage lautet „Wie können wir es der Persona ermöglichen, das Bedürfnis"
+      }
+    ]
+  },
+  {
+    "filename": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+    "question": "Wie wird im Beispielunternehmen „Froothies GmbH“ die Berücksichtigung nachhaltigen Wirtschaftens in der Projektarbeit umgesetzt und warum ist dies relevant?",
+    "answer": "Ich kann keine Antwort auf die Frage finden, da es in der bereitgestellten Textstelle keine Informationen über das Beispielunternehmen „Froothies GmbH“ gibt. Der Text beschreibt ein Projekt zur Beratung und Professionalisierung von Beratung, aber es gibt keine Informationen über ein Unternehmen mit diesem Namen. Möglicherweise handelt es sich um ein fiktives Unternehmen oder ein Beispiel, das nicht in der Textstelle erwähnt wird. Wenn Sie weitere Informationen oder Kontext benötigen, stehe ich Ihnen gerne zur Verfügung. Ich kann Ihnen jedoch keine Antwort auf Ihre Frage geben, da die Informationen nicht in der bereitgestellten Textstelle enthalten sind. \n\nI cannot find the answer in the provided context.",
+    "expected": "Die Studierenden analysieren die Froothies GmbH hinsichtlich ihrer Stärken und Schwächen und entwickeln Vorschläge zur Neuausrichtung des Unternehmens, die Anforderungen an nachhaltiges Wirtschaften berücksichtigen, um aktuelle Marktgegebenheiten und gesellschaftliche Erwartungen zu erfüllen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f72105c963200eac8fe287014f9beb72fc8ac5f4e79fd509c79bcc215e2c27ff",
+        "score": 0.6564319729804993,
+        "meta": {
+          "file_path": "9783847412304_chapter_1048.txt",
+          "source_id": "0cf15bdeab9f2129e11e7332ddd430241e805b2eaeddcc0e40d5f96c7d3549d4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "abaca7f7418e8dd209171f2148028bc56fcd859ba7708e259d3d6b6a7da7ad8b",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "8. Fazit & Ausblick Im Namen des Programms „Partnerschaft · Studienerfolg · TU Dresden“ spiegelt sich Beratung als „fachkundige Partnerschaft auf Zeit“ (Hoff/Zwi- cker-Pelzer 2015: 16) wider, die durch Identifizierung und wissenschaftliche Begleitung ergänzt wird. Im Zuge der Professionalisierung von Beratung bieten Frühwarnsysteme wichtige Unterstützungsleistungen für die Beratung an, wenn es darum geht, Studierende mit Problemlagen zu erreichen. Dies geschieht jedoch nicht im Sinne einer ‚Klientifizierung‘ oder als ‚Erfüllungs- gehilfen‘ im Rahmen von Ökonomisierungstendenzen, wie etwa von Wilhelm (2017) befürchtet, sondern auf freiwilliger Basis und mit der Akzeptanz, dass individuelle Bildungswege auch abseits des ‚objektiven‘ Studienerfolgs mög- lich und nötig sind. Da die Erprobung des Programms erst 2020 endet, sind die Antworten auf die gestellten Fragen nach Problemen der Studierenden und deren Umgang vorläufig und weiter offen für Experimente mit der Praxis (Schüßler 2016). G"
+      },
+      {
+        "rank": 2,
+        "id": "483e3076a9268aa00f0ad1c152dd4ab1210ccec26fea24286fff66157b3f717e",
+        "score": 0.46481895446777344,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2523,
+          "_split_overlap": [
+            {
+              "doc_id": "de6c428be37601046f22eaa8e052be210761941616220e344fea8307cd53a6ed",
+              "range": [
+                1160,
+                1526
+              ]
+            },
+            {
+              "doc_id": "e54e741b8077264cfd75070a7d0c402d29d2b400da710a2075d338b81cd810fa",
+              "range": [
+                0,
+                334
+              ]
+            }
+          ]
+        },
+        "content": "f.). In diesem Modul wird dies nicht allein durch das Lehrformat Projekt- arbeit erreicht, sondern durch begleitende Workshops gezielt unterstützt. Dabei wird im Rahmen der Workshops bewusst nur der Part der überfachlichen Kompetenzen angesprochen. Im weiteren Verlauf wird zunächst das Lehrkonzept erläutert, bevor die Work- shops geschildert und die abschließende Evaluation dargestellt werden. Lehrkonzept Die Basis für die Veranstaltung bildet die Projektarbeit, die für gewöhnlich komplexe Aufgabenstellungen umfasst, die nicht nur eine Zusammenführung der Theorie mit der Praxis beinhalten, sondern auch einen Fokus auf die Schlüsselkompetenzen le- gen. Hierdurch sollen das Problemverständnis verbessert und die Entwicklung von vielfältigeren Handlungsoptionen ermöglicht werden (vgl. Ufert, 2015, S. 39). Im Mit- telpunkt der Projektarbeit steht die Lernerzentrierung. Dies bedeutet, dass der aktive Part bei den Studierenden und der reaktive Part bei den Lehrenden liegt. Das Lernen beruht a"
+      },
+      {
+        "rank": 3,
+        "id": "5c57945dcc2050a5b754a6930c1f074a9333bdea5ff8932b83e10b1cce94b49a",
+        "score": 0.4234026372432709,
+        "meta": {
+          "file_path": "9783847412304_chapter_052.txt",
+          "source_id": "4939f4ebab9dba73fce5662fa8bfa45de69e0494e472f954c54fd54615248c7c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1082,
+          "_split_overlap": [
+            {
+              "doc_id": "618cee3f0cc207866657556dab9dc80f3d80e108a7cdc7739668f97a0592fa07",
+              "range": [
+                1082,
+                1458
+              ]
+            },
+            {
+              "doc_id": "89b49149c92639cc99b1b701890fb73fe1140fa9da863da30eef1dbc7e13be06",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Eher die Sicht auf den Schultern von Riesen stehend zu suchen, sollte ein Ziel sein, um erneut eine andere alte Metapher zu bemühen (Käpplinger 2017). Diese Diskontinuität hat strukturelle Gründe. Die Weiterbildungsforschung ist zumeist projektförmig angelegt, weshalb wir Drittmittelbewirtschafter versucht sind, „Projektprofessoren“ zu sein, die vor allem nach den neuesten bildungspolitischen Moden und dazu passenden Förderungen Ausschau halten. Das im Rahmen der Hamburger Tagung „Das Politische in der Erwachsenenbildung“ vom März 2017 erwähnte Zitat von Faulstich, „Die Leute denken zu wenig, die machen nur noch Projekte“, muss auch strukturell diskutiert werden und nicht allein als Schelte einzelner Individuen. Häufig werden Aufträge im Kontext von Evaluationsforschung erteilt und der „Projektprofessor“ ist ein Teilergebnis der Förderlandschaft. Die Zahl der Lehrstühle entspricht nicht der Bedeutung der EB/WB, wenngleich es Stolz machen kann, was in diesem großen Feld von uns doch rel"
+      },
+      {
+        "rank": 4,
+        "id": "9f23bff7389aa51dee4c9bd4c13306ffd9d84986748cf76b2f0da76e9d430cd0",
+        "score": 0.36621010303497314,
+        "meta": {
+          "file_path": "9783847412304_chapter_0943.txt",
+          "source_id": "dbda7f71567792617bfdcb34e360807c55197a748dd43ff8e925708721db553d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d4fdc42ce3c62cfcb3f307f9f8e58c55214a66418321cbfa2e07e8f4c78756cc",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "3. Aufgaben- und Rollenklärung professioneller Beratung Während der Umsetzung des Pilotprojektes hat sich auch außerhalb des Landesnetzwerkes im Feld der Bildungs- und Berufsberatung ein großes Interesse an dem Projekt gezeigt. Die Regelungen und Grenzen im Bildungs- und Fördersystem und die einrichtungsübergreifende Reflexion der gesellschaftlichen Rolle und Position von Bildungsberatung sind demnach Themen, welche die BeraterInnen in ihrer alltäglichen Beratungsarbeit beschäftigen. Im Mittelpunkt steht dabei das Bedürfnis, der „Ohnmacht“ individueller Beratung entgegenzuwirken, indem das in der Beratung generierte Wissen wirksam auf struktureller Ebene weitergegeben und damit die eigene Handlungsfähigkeit und die der KlientInnen erweitert wird. Aus beratungstheoretischer Perspektive greift das Pilotprojekt durch die Verständigung über einen gemeinsamen Beratungsbegriff und die Formulierung eines klaren Selbstverständnisses bzw. einer transparenten Rolle und Aufgabe in der Gesellschaf"
+      },
+      {
+        "rank": 5,
+        "id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+        "score": 0.30078575015068054,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Lernen: Organisationales Lernen Hinsichtlich des Begriffs „lernende Organisation“ ist die oben angesprochene Diskussion deutlich intensiver geführt worden. So kritisiert Faulstich, dass mit dem Begriff unterstellt werde, „dass Kriterien der Subjekthaftigkeit sich auch auf Gruppen- und Organisationszusammenhänge anwenden lassen“ (Faulstich 2013: 195). Noch deutlich bissiger spricht Miller davon, hier werde lediglich „auf mystische Weise von einem überindividuellen Subjekt, einem gesellschaftlichen Gesamtsubjekt“ (Miller 1986: 210) ausgegangen. Nun ist „mystisch“ hier eine Art Gegenbegriff zu „real“ und damit wiederum ein Ver- such, das Problem ontologisch zu lösen. Schwerer wiegt die Frage, ob mit der „Subjektivierung“ der Organisation wiederum ethische Probleme auf- treten. Nicht umsonst formuliert Faulstich seine Kritik in einem Band mit dem Titel „Menschliches Lernen“ und auch Illeris (dessen Lernmodell im Folgenden eine zentrale Rolle spielen wird) ist bezüglich der lernenden Orga- "
+      }
+    ]
+  }
+]

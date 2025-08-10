@@ -1,0 +1,710 @@
+[
+  {
+    "filename": "9783866496811_chapter_084.txt",
+    "question": "Was versteht man unter systemischer Kompetenz im Kontext von Beratung?",
+    "answer": "Systemische Kompetenz im Kontext von Beratung umfasst die Fähigkeit des Beraters, vernetzt zu denken, Wechselbeziehungen und Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen. Dazu gehören auch die adäquate Vernetzung mit anderen Hilfesystemen, die Fähigkeit, komplexe Auftragssituationen zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen, sowie die Fähigkeit, das eigene Geworden-Sein (Lebens- und Berufsbiografie) zu verstehen. Zudem ist die Fähigkeit, sich selbst als Gegenstand immer wieder neu in ihrem institutionellen und gesellschaftlichen Kontext mit reflektieren und weiterentwickeln zu suchen, ein wichtiger Bestandteil systemischer Kompetenz. \n        I cannot find the answer in the provided context.  or \n        Die Antwort ist nicht in dem bereitgestellten Kontext zu finden.  or \n        The answer is not in the provided context.",
+    "expected": "Systemische Kompetenz im Beratungskontext bedeutet, dass der Mensch als soziales Wesen in Systemzusammenhängen lebt und agiert, und dass Beratung alle fünf Kernkompetenzen (Sach- und Fachkompetenz, diagnostisch-analytische Kompetenz, Interventions- und Methodenkompetenz, reflexive Kompetenz und Beziehungskompetenz) durchdringt, um den Lebenskontext und verschiedene Systemebenen zu beachten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a1fda31d0701ee23dda4e97c9aa81c423f9c1315cc2994d58bfe7df72da1163e",
+        "score": 0.9955371618270874,
+        "meta": {
+          "file_path": "9783847412304_chapter_0912.txt",
+          "source_id": "f50476e729c5db7296f7b01bf9210a0eb4891cbb3cd754c61ae1561aa61f3d48",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1268,
+          "_split_overlap": [
+            {
+              "doc_id": "a05ecf8e32d31f34866b906f1d00b3d771026d4b4e51cbc953d3bc563e3795c5",
+              "range": [
+                1268,
+                1681
+              ]
+            }
+          ]
+        },
+        "content": "der Gestaltung eines Beratungsprozesses) unter Rück- griff auf verschiedene aktivierbare Ressourcen verstanden (s. Abbildung 1). Was dabei als erfolgreich zu bewerten ist, muss in dem Kompetenzkonzept definiert werden. Weitere Voraussetzungen für die Erfassung von Kompetenzen stellen ein Kompetenzmodell im Sinne einer theoretisch begründeten Systematisierung der Handlungsbereiche sowie ein daraus abgeleitetes Kompetenzprofil dar. Hierfür wurde ein systemisches Modell arbeitsweltbezogener Beratung er- stellt (s. Abbildung 2). Basierend auf diesem Kompetenzmodell von Beratung (s. Abbildung 2) wur- de ein Kompetenzprofil für Beratende – unter intensivem Einbezug von Fach- leuten aus unterschiedlichen Beratungsfeldern – entwickelt (s. Abbildung 3). Die in der Abbildung 3 dargestellten Kompetenzgruppen wurden auf einzelne Kompetenzen heruntergebrochen und diese wiederum mit Indikatoren verse- hen sowie um Verhaltensmerkmale ergänzt, um die Kompetenzen messbar zu machen (Schiersmann/Petersen"
+      },
+      {
+        "rank": 2,
+        "id": "d413c8d7d5cba62dfc7708b5f3018ad08ba2ed3724e09cd7a4c8c04bb0b92219",
+        "score": 0.9885509610176086,
+        "meta": {
+          "file_path": "9783866496811_chapter_05.txt",
+          "source_id": "f94971cb221a79adc5cf8aeef75db05cf36a3c7861848ac0e87a1f71633c314c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung ### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung Auf die jeweilige Person zentriert, auf deren soziales Umfeld bezogen und im Feld der professionellen Pflege verortet, so tut sich ein komplexes Feld auf, in dem entsprechende Beratungsdienstleistungen auszudifferenzieren sind. Das Format „Beratung“ ist neu zu gestalten, ja es legt eine umfassendere Verortung nahe, die den gesellschaftlichen Entwicklungen ebenso Rechnung trägt, wie den rechtlichen Rahmenbedingungen. Systemisch ist die Beratung als konsequent kontextbezogen, die Ressourcen verfolgend, sich zirkulär verstehend und prozeßdiagnostisch angelegt. Sys- temische Beratung geht mutig mit notwendigen Interventionen um und balanciert hochsensibel mit den notwendigen Veränderungsprozessen, um der Not eine Wendung zu geben. In aller erster Linie gilt es, in Raum und Zeit den einzelnen Menschen und dessen sozialem Kont"
+      },
+      {
+        "rank": 3,
+        "id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+        "score": 0.9851449728012085,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1155,
+          "_split_overlap": [
+            {
+              "doc_id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+              "range": [
+                1155,
+                1534
+              ]
+            },
+            {
+              "doc_id": "68d9f8b21ee11ad0662f6dd327ee9d5c17dc6d3dba333963654f1a294107d67d",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "so scheint die neue Herausforderung darin zu liegen, den Kontext, den Rahmen von Beratung und die Lebenswelt von Klienten in Forschungs- prozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. Abb.5: Systemisches Kontextmodell der Beratung Die verschiedenen Ebenen der Betrachtung von Beratung in Theoriebildung und Forschung kommt folgendes Bild nahe. Beratung ist darin als ein Akt des Pendelns von Mikro-, Meso- und Makro-Ebene zu sehen und verlangt hohe fachliche Kompetenzen der Reflexion auf unterschiedlichen Ebenen des Prozessgeschehens von Beratung. Die reinen klientenbezogenen Theorien und Konzepte von Beratung verken- nen die Komplexität des Beratungsgeschehens. Das Umfeld, die lebensbegleitenden nächsten Menschen (Familie, Freunde, etc.) erscheinen Gesellschaftlicher Kontext Organisationaler Kontext Beratungs System Ratsuchenden-System Berater-System Lösung Klärung Beziehung z.B. Person (beruflich, Biographie, Einstellung, Erfahrungen) private"
+      },
+      {
+        "rank": 4,
+        "id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+        "score": 0.9755139350891113,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3432,
+          "_split_overlap": [
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                1247,
+                1632
+              ]
+            }
+          ]
+        },
+        "content": "(durch Unterstützung der Filetierung) nicht noch Vorschub leistet. Beratung hat u.a. auch eine gesellschaftliche Funktion (vgl. Seel, 2009:4) Die Metaperspektive von Beratung – als mikro- und makrosystemische – ist von nachhaltiger Bedeutung für die Professionalität von Beratung. Insofern ist Beratung ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient- Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gül- tigkeit zu reklamieren gedenkt. Als weitere systemische Kompetenzen von Beratung können Fähigkeiten des Beraters ausgemacht werden - vernetzt zu denken, und Wechselbeziehungen, Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen - die adäquate Vernetzung mit anderen Hilfesystemen - komplexe Auftragssituationen sind zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen: - Anlass, An"
+      },
+      {
+        "rank": 5,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.9693036675453186,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_084.txt",
+    "question": "Wie unterscheidet sich die diagnostisch-analytische Kompetenz in der systemischen Beratung von der traditionellen Statusdiagnostik?",
+    "answer": "Die diagnostisch-analytische Kompetenz in der systemischen Beratung unterscheidet sich von der traditionellen Statusdiagnostik durch ihre prozessuale und partizipative Herangehensweise. Während die Statusdiagnostik normorientiert und auf wiederkehrende Ereignisse oder Zustände ausgerichtet ist, konzentriert sich die diagnostisch-analytische Kompetenz auf das Prozesshafte und Besondere des Einzelfalles. Sie ist reflexiv, mehrperspektivisch und setzt einen stets gleichen Beurteilungsmaßstab nicht voraus. \n        Die diagnostisch-analytische Kompetenz ist Bestandteil der systemischen Beratung und umfasst die Entwicklung eines bestimmten Beratungsziels, die Erkennung, Situationskontext-Klärung, Probleme-Definition, Problemkontext-Klärung, Ursachen- und Hintergrund-Aufdeckung, Ziel-Entwicklung, Ressourcen- und Entwicklungspotential-Erkennung, Indikation, Kontraindikation, ethische Standards und methodische Regeln. Sie ist untrennbares Element eines zirkulären Vorgangs im Problemlösungsprozess. \n        Die systemische Beratung verwendet verschiedene diagnostische Ansätze, darunter Modifikations- oder Prozessdiagnostik und Status- oder Bedarfsdiagnostik. Während die Modifikations- oder Prozessdiagnostik auf das Prozesshafte und Besondere des Einzelfalles ausgerichtet ist, konzentriert sich die Statusdiagnostik auf wiederkehrende Ereignisse oder Zustände. Die diagnostisch-analytische Kompetenz ist eine spezielle Form der Statusdiagnostik, die sich durch ihre prozessuale und partizipative Herangehensweise auszeichnet. \n        Die diagnostisch-analytische Kompetenz in der systemischen Beratung ist also eine spezielle Form der Statusdiagnostik, die sich durch ihre prozessuale und partizipative Herangehensweise auszeichnet und sich auf das Prozesshafte und Besondere des Einzelfalles konzentriert. \n        Die diagnostisch-analytische Kompetenz ist eine wichtige Kompetenz in der systemischen Ber",
+    "expected": "Die diagnostisch-analytische Kompetenz in der systemischen Beratung legt den Schwerpunkt auf Prozessdiagnostik und den Kontext der Person, insbesondere die Person-Umwelt-Beziehung und Ressourcen, im Gegensatz zur traditionellen Statusdiagnostik, die eher einen statischen Zustand erfasst.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "57ba09ef48d90e6536da354ffb0679e1cdfbf167858380f42667fe39e03518f9",
+        "score": 0.9899464249610901,
+        "meta": {
+          "file_path": "9783866496811_chapter_0831.txt",
+          "source_id": "8c962b2d6e9fe47057519071218542a23d3eb3270b6c1f5a33516d259cabd492",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3632,
+          "_split_overlap": [
+            {
+              "doc_id": "44ed2c6d1455e17e75607fcf2fe453806d48830261a13188e3c55f9ad935164b",
+              "range": [
+                1164,
+                1526
+              ]
+            },
+            {
+              "doc_id": "0cb416acfa64753ff6251f79830af2c044dfcd0dda0a317908b8973f7df97951",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "im Beratungsprozess mit sehr unterschiedlichen Klienten nutzbar gemacht werden kann. Insofern geht die reflexive Kompetenz über die Person hinaus, als sie auf die Kybernetik zweiter Ordnung des beraterischen Handelns abzielt (vgl. Von Schlippe, 2003). Im Kern wird sie eingeübt in den Selbsterfahrungselementen und im prakti- schen Handeln innerhalb der eigenen Beratungspraxis. Die Supervision (Einzelsupervision/ Gruppensupervision), die diese Praxis begleiten sollte, dient der Festigung der reflexiven Kompetenz. 4.3.5. Diagnostisch-analytische Kompetenz Das Wort ‚Diagnostik‘ lässt sich mit ‚durchschauen‘ oder ‚durch und durch erkennen‘ übersetzen. Im Allgemeinen bezeichnet ‚Diagnostik‘ die Lehre wie auch die Tätigkeit der Erkenntnisgewinnung, während ‚Diagnose‘ eher das Ergebnis dieses Er- kenntnisprozesses meint. Im Zentrum diagnostischer Tätigkeit steht das Ordnen der gesammelten Informationen über einen Sachverhalt, das theorie- geleitete Gewichten und Deuten dieser Informationen mit"
+      },
+      {
+        "rank": 2,
+        "id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+        "score": 0.9679147005081177,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1124,
+          "_split_overlap": [
+            {
+              "doc_id": "26a46e57d4057b46ef19adca26379987df979f5c2d39843b0bdc42069ac51cae",
+              "range": [
+                1124,
+                1468
+              ]
+            },
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "um die Kybernetik der 1. und 2. Ordnung sowie deren Unterscheidungen und den vollen Respekt vor der Haltung des beraterischen Gegenübers. In der Beziehungskompetenz geht es sowohl um die grundlegende Fähigkeit wie Empathie als auch um die Wahrnehmung und Deutung der Beziehungs- muster der zu beratenden Menschen. Diese Beziehungsmuster können aus der Art des Umgangs, der Reaktionen von Berater und Ratsuchenden und aus dessen Umgang im sozialen Bezug erschlossen werden. Systemische Kompetenz sollte sich in allen fünf beschriebenen Kern- kompetenzen wie ein roter Faden durchziehen. Bezogen auf die Diagnostik und die Interventionen zeigt sich lediglich ein eigenes Profil systemisch-beraterischen Handelns. Dieses beruht auf den systemisch-therapeutischen Schulen (wie sie auf das MRI in Palo Alto zu- rückgehen oder in Bezug auf Niklas LUHMANN sich bei uns vielfältig und breit gefächert entwickeln konnten). Zudem haben systemische Konzepte mittlerweile breiten Eingang in andere Schulen von Be"
+      },
+      {
+        "rank": 3,
+        "id": "a1fda31d0701ee23dda4e97c9aa81c423f9c1315cc2994d58bfe7df72da1163e",
+        "score": 0.9380248188972473,
+        "meta": {
+          "file_path": "9783847412304_chapter_0912.txt",
+          "source_id": "f50476e729c5db7296f7b01bf9210a0eb4891cbb3cd754c61ae1561aa61f3d48",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1268,
+          "_split_overlap": [
+            {
+              "doc_id": "a05ecf8e32d31f34866b906f1d00b3d771026d4b4e51cbc953d3bc563e3795c5",
+              "range": [
+                1268,
+                1681
+              ]
+            }
+          ]
+        },
+        "content": "der Gestaltung eines Beratungsprozesses) unter Rück- griff auf verschiedene aktivierbare Ressourcen verstanden (s. Abbildung 1). Was dabei als erfolgreich zu bewerten ist, muss in dem Kompetenzkonzept definiert werden. Weitere Voraussetzungen für die Erfassung von Kompetenzen stellen ein Kompetenzmodell im Sinne einer theoretisch begründeten Systematisierung der Handlungsbereiche sowie ein daraus abgeleitetes Kompetenzprofil dar. Hierfür wurde ein systemisches Modell arbeitsweltbezogener Beratung er- stellt (s. Abbildung 2). Basierend auf diesem Kompetenzmodell von Beratung (s. Abbildung 2) wur- de ein Kompetenzprofil für Beratende – unter intensivem Einbezug von Fach- leuten aus unterschiedlichen Beratungsfeldern – entwickelt (s. Abbildung 3). Die in der Abbildung 3 dargestellten Kompetenzgruppen wurden auf einzelne Kompetenzen heruntergebrochen und diese wiederum mit Indikatoren verse- hen sowie um Verhaltensmerkmale ergänzt, um die Kompetenzen messbar zu machen (Schiersmann/Petersen"
+      },
+      {
+        "rank": 4,
+        "id": "0cb416acfa64753ff6251f79830af2c044dfcd0dda0a317908b8973f7df97951",
+        "score": 0.9171701669692993,
+        "meta": {
+          "file_path": "9783866496811_chapter_0831.txt",
+          "source_id": "8c962b2d6e9fe47057519071218542a23d3eb3270b6c1f5a33516d259cabd492",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4848,
+          "_split_overlap": [
+            {
+              "doc_id": "57ba09ef48d90e6536da354ffb0679e1cdfbf167858380f42667fe39e03518f9",
+              "range": [
+                1216,
+                1619
+              ]
+            },
+            {
+              "doc_id": "54be2671c8972304d250d62c20b13243620be1f769139f782ada0260d8a3749c",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "und der theoretischen Orientierung. Aufgrund der Spannbreite von Beratung und der Vielfalt der Problemlagen, Adressaten, Aufgaben und Arbeitsfelder braucht Beratung verschiedener diagnostischer Ansätze. a) Modifikations- oder Prozessdiagnostik ist eingebettet in einen bestimm- ten Beratungsplan, sie sucht das Besondere und Singuläre eines Falles zu erfassen und ist prozessual angelegt. Diagnostik in der Beratung bezieht sich auf die Zusammenarbeit mit Klien- ten. Sie schließt die Entwicklung eines bestimmten Beratungsziels mit ein. Modifikations- oder Prozessdiagnostik ist Bestandteil jeglicher professionel- ler Beratung. Im Problemlösungsprozess ist die Modifikations- oder Prozessdiagnostik untrennbares Element eines zirkulären Vorgangs. Theoretisch und methodisch ist dieser diagnostische Prozess häufig mehrper- spektivisch angelegt, außerdem reflexiv und partizipativ. Der diagnostischen Phase kommen dabei folgende Aufgaben zu (vgl. Müller, 1993:24): Erkennen; Situationskontext klären"
+      },
+      {
+        "rank": 5,
+        "id": "82c87502a6a3779ac4e139c4dfc6a6bc1293267304c4c81ab89780ec677da30d",
+        "score": 0.913274884223938,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3677,
+          "_split_overlap": [
+            {
+              "doc_id": "cc4cc5b07009f92d136ae427d404a5b0c98b8a487365acd48f32cb9af039f45d",
+              "range": [
+                1288,
+                1676
+              ]
+            },
+            {
+              "doc_id": "382b8fb7e9cc5591635c68a29eff31150ad8fe2fd05039825164cb72e0387065",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "der quartäre Bildungssektor die allgemeine, berufliche und wissenschaftliche Weiterbildung. Vom Nationalen Forum für Beratung in Bildung, Beruf und Beschäftigung e.V. – einem gemeinnützi- gen, konfessionell und parteipolitisch unabhängigen Verein in Deutschland, der sich als gemeinsame Plattform für alle AkteurInnen in diesem Handlungs- feld versteht – wurde im Rahmen eines öffentlich geförderten Verbundprojektes (2009 bis 2014) ein Kompetenzprofil für BeraterInnen entwickelt. Dieses Kompetenzprofil wurde von BeratungsexpertInnen aus unterschiedlichen Beratungsfeldern und der Wis- senschaft konzeptualisiert, um „vor dem Hintergrund fehlender einheitlicher Standards in der Beratung sowie der heterogenen Qualifikationen des tätigen Personals […] die Professionalität von Beratenden zu stärken“ (ebd., S. 7). Es werden darin sechs Kompe- tenzbereiche unterschieden. Ein Bereich beschreibt die Kompetenz zur professionellen (Selbst-)Reflexion. Diese umfasst „das Entwickeln einer professionelle"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_084.txt",
+    "question": "Welche Rolle spielt die reflexive Kompetenz in der systemischen Beratung und wie ist sie mit der Kybernetik verbunden?",
+    "answer": "Die reflexive Kompetenz spielt eine wichtige Rolle in der systemischen Beratung, da sie sich auf die Kybernetik zweiter Ordnung des beraterischen Handelns bezieht. Sie wird in den Selbsterfahrungselementen und im praktischen Handeln innerhalb der eigenen Beratungspraxis eingeübt und durch Supervision gefestigt. Die reflexive Kompetenz ist nicht nur auf die Person beschränkt, sondern bezieht sich auch auf die Kybernetik zweiter Ordnung des beraterischen Handelns, die sich auf die Beziehung zwischen Berater und Klient bezieht. Die reflexive Kompetenz ist ein wichtiger Aspekt der systemischen Beratung, da sie es den Beratern ermöglicht, sich selbst und ihre Beziehungen zu anderen reflektiert anzugehen und dadurch effektiver zu kommunizieren und zu intervenieren. Die Kybernetik zweiter Ordnung ist ein Schlüsselkonzept der systemischen Beratung, da sie sich auf die Beziehung zwischen Berater und Klient bezieht und die Möglichkeiten der Beratung erweitert. Durch die reflexive Kompetenz können Berater ihre Beziehungen zu ihren Klienten reflektieren und dadurch ihre Beratungstechniken verbessern. Die reflexive Kompetenz ist also ein wichtiger Aspekt der systemischen Beratung, der es den Beratern ermöglicht, ihre Beziehungen zu ihren Klienten zu reflektieren und dadurch effektiver zu kommunizieren und zu intervenieren.",
+    "expected": "Die reflexive Kompetenz bezieht sich auf die Beratungspersönlichkeit und umfasst das Verständnis und die Anwendung der Kybernetik erster und zweiter Ordnung sowie deren Unterscheidungen. Sie beinhaltet den vollen Respekt vor der Haltung des beraterischen Gegenübers und ermöglicht eine selbstreflexive Haltung im Beratungsprozess.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "825e12d6cab4b04cba776df62bc1c5845e2e0d85b3a57d1eefa42afd3a451b69",
+        "score": 0.9940832257270813,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10563,
+          "_split_overlap": [
+            {
+              "doc_id": "62e4816fd2a7b9d64f5270d9133d95c4cb3ba4a4293fcac437d7fd80b69955b4",
+              "range": [
+                1240,
+                1636
+              ]
+            },
+            {
+              "doc_id": "90f086d85a668742ad3598df5ec72b8f1fc8c092ff81e2dfad0d1a42676711cc",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Lernort / Pra- xisbegleitung Beratungs- Kompetenzen in der Rolle aner- kannter systemischer Berater Domänenspezifische Sach- und Fachkompetenzen X X (X) Interventions-und Methodenkompetenzen X X X Beziehungskompetenzen X X X Reflexive Kompetenzen X X X Systemische Kompetenzen (X) (X) X X = vorhanden; (X) = eingeschränkt Abb.17: Kompetenzdiagnostik-Raster Die Kompetenzverständnisse orientieren sich an den Ausführungen in Kapi- tel 4. Die systemische Fokussierung der Kompetenzbenennung meint das Verste- hen der komplexen Zusammenhänge, die diverse interpersonale und instrumentale Fähigkeiten voraussetzen. Sie meint auch, die umfassende Fähigkeit, neue Systeme zu gestalten und Innovationen einzubringen, sowie Entwicklungs- und Veränderungsprozesse einzuleiten Es handelt sich hier nicht nur um technische Kompetenzen, sondern auch um eine Haltung, die sich in dem Umgang mit komplexen Systemen zeigt. Dies erweitert und ergänzt die fachdidaktischen Interventionen im Zusammenhang mit der fall-"
+      },
+      {
+        "rank": 2,
+        "id": "57ba09ef48d90e6536da354ffb0679e1cdfbf167858380f42667fe39e03518f9",
+        "score": 0.9872431755065918,
+        "meta": {
+          "file_path": "9783866496811_chapter_0831.txt",
+          "source_id": "8c962b2d6e9fe47057519071218542a23d3eb3270b6c1f5a33516d259cabd492",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3632,
+          "_split_overlap": [
+            {
+              "doc_id": "44ed2c6d1455e17e75607fcf2fe453806d48830261a13188e3c55f9ad935164b",
+              "range": [
+                1164,
+                1526
+              ]
+            },
+            {
+              "doc_id": "0cb416acfa64753ff6251f79830af2c044dfcd0dda0a317908b8973f7df97951",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "im Beratungsprozess mit sehr unterschiedlichen Klienten nutzbar gemacht werden kann. Insofern geht die reflexive Kompetenz über die Person hinaus, als sie auf die Kybernetik zweiter Ordnung des beraterischen Handelns abzielt (vgl. Von Schlippe, 2003). Im Kern wird sie eingeübt in den Selbsterfahrungselementen und im prakti- schen Handeln innerhalb der eigenen Beratungspraxis. Die Supervision (Einzelsupervision/ Gruppensupervision), die diese Praxis begleiten sollte, dient der Festigung der reflexiven Kompetenz. 4.3.5. Diagnostisch-analytische Kompetenz Das Wort ‚Diagnostik‘ lässt sich mit ‚durchschauen‘ oder ‚durch und durch erkennen‘ übersetzen. Im Allgemeinen bezeichnet ‚Diagnostik‘ die Lehre wie auch die Tätigkeit der Erkenntnisgewinnung, während ‚Diagnose‘ eher das Ergebnis dieses Er- kenntnisprozesses meint. Im Zentrum diagnostischer Tätigkeit steht das Ordnen der gesammelten Informationen über einen Sachverhalt, das theorie- geleitete Gewichten und Deuten dieser Informationen mit"
+      },
+      {
+        "rank": 3,
+        "id": "b6b8a06ee0126b12878c832c2b71645387e8a7dcb8a9ed7bf7803be2d304f98e",
+        "score": 0.9846739768981934,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6224,
+          "_split_overlap": [
+            {
+              "doc_id": "ab5f5b028ebb79df18fc5de9d8e6a53eea46c9451d4a1a94454766bbe5363cc2",
+              "range": [
+                1281,
+                1691
+              ]
+            },
+            {
+              "doc_id": "b954f33dff6a163592a1bc142385171e307346858fa4d0b66e06c25a423ffae9",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Lehrenden und Lernenden ist bezogen auf die spezi- fischen Wirklichkeitskonstruktionen der Pflege bzw. des Pflegehandelns. Damit unterstützt diese Art von reflexiver Beratung die notwendigen domä- nenspezifischen Lernprozesse in den Kontexten der Pflegeausbildungen. Der ‚dritte Lernort‘ könnte den Kontext für diese Form pädagogischer Beratung des Innehaltens im Lernprozess der Pflegeausbildungen darstellen bzw. an- bieten. Im pädagogischen Handlungsfeld der Praxisbegleitung ist grundsätzlich eine Gestaltungsmöglichkeit für systemische Beratung gegeben. Bei einer vertief- ten und erweiterten konzeptionellen Gestaltung käme es hierbei auf die gewollte und durch Ressourcen unterstützten Aufgaben der Organisations- und Personalentwicklung der Ausbildungsträger an. Denn nur wenn diese es bejahen, dass nicht nur funktionale, sondern intentionale also auf (Selbst-) Bildung ausgerichtetes Lernen stattfinden kann und darf, können die hierfür notwendigen Ressourcen zur Verfügung gestellt werden."
+      },
+      {
+        "rank": 4,
+        "id": "26a46e57d4057b46ef19adca26379987df979f5c2d39843b0bdc42069ac51cae",
+        "score": 0.978044331073761,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+              "range": [
+                0,
+                344
+              ]
+            }
+          ]
+        },
+        "content": "4.4. Die systemische Kompetenz als Referenz von Beratung Als soziales Wesen ist der Mensch auf Beziehung angelegt und immer und durchgängig in Systemzusammenhängen lebend und agierend zu begreifen. In Lebensengpässen – dazu gehört auch die Krankheit und/oder andere physi- sche Einschränkungen geht oft das Gewahr-Sein dieser Dimension verloren oder es reduziert sich deutlich. Pflege, Betreuung sind immer schon diesem Zusammenhang sehr verpflichtet gewesen, oder sie handelten in der Praxis wie selbstverständlich nach diesen Prämissen. In den Theoriebezügen – der Sach- und Fachkompetenz – geht es um die Systemtheorie, die Theorie z. B. der Familientherapie und Familienberatung, der systemischen Theorie; in der diagnostisch- analytischen Kompetenz liegt die Hervorhebung auf der Prozessdiagnostik (statt Statusdiagnostik/ und dem Kontext der Person (Person- Umwelt); die Ressourcen u.v.a.m.). Die Interventions- und Methodenkompetenz fokussiert stärker die systemi- schen Parts wie die Ressourc"
+      },
+      {
+        "rank": 5,
+        "id": "0dd600c8aec893c4149a9564000b696d069fe88729b04052da24a7ebd01700a2",
+        "score": 0.9713612794876099,
+        "meta": {
+          "file_path": "9783847412304_chapter_0921.txt",
+          "source_id": "f90174bb7d7b7e8a8ac1b35aa825231c52929db20414875a75b32f781ba09501",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1291,
+          "_split_overlap": [
+            {
+              "doc_id": "40fe9ff0e265049602a127eb87a128c080a8ee655d8b37fdd5fe60f7708f3d82",
+              "range": [
+                1291,
+                1760
+              ]
+            },
+            {
+              "doc_id": "5a75b06383ceb343e2385d92aab26b1b6a5d158344a9ead2bc146a80cd66b9b1",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "ausgeprägte Reflexions-, Orientierungs- und Entscheidungsfähigkeiten verlangt. Beispiele einer so verstandenen psychosozialen Beratung im Rahmen wohlfahrtsstaatlicher Daseinsvorsorge sind die allgemeine Jugend-, Familien- und Lebensberatung, aber auch die Sucht- oder Schwangerschaftskonfliktberatung oder Beratung im Kontext von Inklusion. Wesentliche Kernelemente von Beratung sind hier das reflexive Bilanzieren, das antizipierte oder realisierte Probehandeln sowie die Erlangung kognitiver und emotionaler Stabilität (Nestmann und Sickendiek 2011). Eine solche Form psychosozialer Beratung erfordert auf Seiten der sozialpädagogischen Fachkräfte eine spezifische Beratungskompetenz (Bauer und Weinhardt; Weinhardt 2015), deren Erwerb im Zuge der Einführung der gestuften und auf unmittelbare Berufsbefähigung hin formierten Bologna-Studiengänge neu hinterfragt werden kann. Dem vorliegenden Beitrag liegt hier die These zugrunde, dass ein gelingender Kompetenzerwerb bereits im Studium, das im Fa"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_084.txt",
+    "question": "Warum ist es notwendig, systemische Kompetenz als eigene Kompetenz auszuweisen, wenn sie nicht durchgängig in anderen Kompetenzen präsent ist?",
+    "answer": "Wenn dieses Prinzip nicht durchgängig präsent wäre, ist die Ausweisung einer eigenen systemischen Kompetenz notwendig. So erfordert systemische Beratungskompetenz integriert oder eigens ausge- wiesen eine permanente Wachsamkeit für die verschiedenen Systemebenen.",
+    "expected": "Wenn systemische Prinzipien wie die Berücksichtigung des Lebenskontexts und verschiedener Systemebenen nicht konsequent in allen anderen Kernkompetenzen integriert sind, muss systemische Kompetenz als eigene, eigenständige Kompetenz ausgewiesen werden, um die systemisch-beraterischen Besonderheiten und die Wachsamkeit für verschiedene Systemebenen sicherzustellen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+        "score": 0.9827495813369751,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2185,
+          "_split_overlap": [
+            {
+              "doc_id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+              "range": [
+                1061,
+                1479
+              ]
+            },
+            {
+              "doc_id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+              "range": [
+                0,
+                385
+              ]
+            }
+          ]
+        },
+        "content": "mesostrukturellen Verwicklungen des Bera- tungsanliegens und der Person des Ratsuchenden müssten die anderen Kompetenzen durchziehen. Wenn dieses Prinzip nicht durchgängig präsent wäre, ist die Ausweisung einer eigenen systemischen Kompetenz notwendig. So erfordert systemische Beratungskompetenz integriert oder eigens ausge- wiesen eine permanente Wachsamkeit für die verschiedenen Systemebenen. Sie geht damit weit über die Interaktionen des (Meso-) Kosmos Berater und Ratsuchender hinaus. In ihrem Kern beinhaltet systemische Beratung ebenfalls eine gesellschafts- politische Wachsamkeit. Diese erst ermöglicht es, die individuell erfahrenen Lebensumstände und Bewältigungsanliegen makrostrukturell zu verorten und der Schicksalhaftigkeit von Problemen eine handlungs- und veränderungsmo- tivierte Option zu geben. Hans-Jürgen SEEL verwendete bei der Fachtagung der DGfB ‚Auch in Zu- kunft: Gut beraten‘ am 23./ 24.11.07 in Mainz in dem von ihm geleiteten Workshop ‚Zukunft der Beratungsbildung- "
+      },
+      {
+        "rank": 2,
+        "id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+        "score": 0.9774243831634521,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1124,
+          "_split_overlap": [
+            {
+              "doc_id": "26a46e57d4057b46ef19adca26379987df979f5c2d39843b0bdc42069ac51cae",
+              "range": [
+                1124,
+                1468
+              ]
+            },
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "um die Kybernetik der 1. und 2. Ordnung sowie deren Unterscheidungen und den vollen Respekt vor der Haltung des beraterischen Gegenübers. In der Beziehungskompetenz geht es sowohl um die grundlegende Fähigkeit wie Empathie als auch um die Wahrnehmung und Deutung der Beziehungs- muster der zu beratenden Menschen. Diese Beziehungsmuster können aus der Art des Umgangs, der Reaktionen von Berater und Ratsuchenden und aus dessen Umgang im sozialen Bezug erschlossen werden. Systemische Kompetenz sollte sich in allen fünf beschriebenen Kern- kompetenzen wie ein roter Faden durchziehen. Bezogen auf die Diagnostik und die Interventionen zeigt sich lediglich ein eigenes Profil systemisch-beraterischen Handelns. Dieses beruht auf den systemisch-therapeutischen Schulen (wie sie auf das MRI in Palo Alto zu- rückgehen oder in Bezug auf Niklas LUHMANN sich bei uns vielfältig und breit gefächert entwickeln konnten). Zudem haben systemische Konzepte mittlerweile breiten Eingang in andere Schulen von Be"
+      },
+      {
+        "rank": 3,
+        "id": "26a46e57d4057b46ef19adca26379987df979f5c2d39843b0bdc42069ac51cae",
+        "score": 0.9735085368156433,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+              "range": [
+                0,
+                344
+              ]
+            }
+          ]
+        },
+        "content": "4.4. Die systemische Kompetenz als Referenz von Beratung Als soziales Wesen ist der Mensch auf Beziehung angelegt und immer und durchgängig in Systemzusammenhängen lebend und agierend zu begreifen. In Lebensengpässen – dazu gehört auch die Krankheit und/oder andere physi- sche Einschränkungen geht oft das Gewahr-Sein dieser Dimension verloren oder es reduziert sich deutlich. Pflege, Betreuung sind immer schon diesem Zusammenhang sehr verpflichtet gewesen, oder sie handelten in der Praxis wie selbstverständlich nach diesen Prämissen. In den Theoriebezügen – der Sach- und Fachkompetenz – geht es um die Systemtheorie, die Theorie z. B. der Familientherapie und Familienberatung, der systemischen Theorie; in der diagnostisch- analytischen Kompetenz liegt die Hervorhebung auf der Prozessdiagnostik (statt Statusdiagnostik/ und dem Kontext der Person (Person- Umwelt); die Ressourcen u.v.a.m.). Die Interventions- und Methodenkompetenz fokussiert stärker die systemi- schen Parts wie die Ressourc"
+      },
+      {
+        "rank": 4,
+        "id": "825e12d6cab4b04cba776df62bc1c5845e2e0d85b3a57d1eefa42afd3a451b69",
+        "score": 0.957672655582428,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10563,
+          "_split_overlap": [
+            {
+              "doc_id": "62e4816fd2a7b9d64f5270d9133d95c4cb3ba4a4293fcac437d7fd80b69955b4",
+              "range": [
+                1240,
+                1636
+              ]
+            },
+            {
+              "doc_id": "90f086d85a668742ad3598df5ec72b8f1fc8c092ff81e2dfad0d1a42676711cc",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Lernort / Pra- xisbegleitung Beratungs- Kompetenzen in der Rolle aner- kannter systemischer Berater Domänenspezifische Sach- und Fachkompetenzen X X (X) Interventions-und Methodenkompetenzen X X X Beziehungskompetenzen X X X Reflexive Kompetenzen X X X Systemische Kompetenzen (X) (X) X X = vorhanden; (X) = eingeschränkt Abb.17: Kompetenzdiagnostik-Raster Die Kompetenzverständnisse orientieren sich an den Ausführungen in Kapi- tel 4. Die systemische Fokussierung der Kompetenzbenennung meint das Verste- hen der komplexen Zusammenhänge, die diverse interpersonale und instrumentale Fähigkeiten voraussetzen. Sie meint auch, die umfassende Fähigkeit, neue Systeme zu gestalten und Innovationen einzubringen, sowie Entwicklungs- und Veränderungsprozesse einzuleiten Es handelt sich hier nicht nur um technische Kompetenzen, sondern auch um eine Haltung, die sich in dem Umgang mit komplexen Systemen zeigt. Dies erweitert und ergänzt die fachdidaktischen Interventionen im Zusammenhang mit der fall-"
+      },
+      {
+        "rank": 5,
+        "id": "4ab72bc83483b72c08b0ffbdbf4a992ae4fd91432d7a08e947c3851833469511",
+        "score": 0.9259942770004272,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 17,
+          "split_idx_start": 19362,
+          "_split_overlap": [
+            {
+              "doc_id": "e731ddd76a65c83d4490e2570d791dbca474c4e098b95b83db26ceb30c9e4ede",
+              "range": [
+                1044,
+                1432
+              ]
+            },
+            {
+              "doc_id": "143b4e8e96f4178783b3e8ce0eadc791961b6cf92e6f5c66aa0f401fa7ab0691",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsprozess noch auftrags- gemäß handeln. Dies gilt gleichermaßen für systemische Berater im Zusammenhang mit der Praxisbegleitung als eigenständigem Handlungsfeld in den Pflegeausbildungen. Je nach dem Anliegen der Beratung-suchenden Person wird der ein oder andere Aspekt stärker im Kontrakt fokussiert. Aller- dings kann es durch die Beteiligung von Praxisanleiter, Lehrendem und Lernenden durchaus auch sein, dass jeder seinen eigenen Aspekt in den Vor- dergrund stellen möchte. Systemische Beratung ist weder als fertige, unmittelbar wissenschaftsgeleite- te Anwendung systemtheoretischer Konzepte, noch als Anwendung von Techniken oder Methodenbausteinen zu verstehen. Systemische Beratung als professionelles Handlungsfeld wird wesentlich durch die systemisch handelnde Person und den relevanten Kontexten konsti- tuiert, die Konstruktion des relevanten Kontextes hier der ‚Pflegeausbildung‘ ist auf eine mögliche Integration hin zu prüfen. Dabei gibt es sowohl struk- turelle, personelle"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_084.txt",
+    "question": "Inwiefern erweitert systemische Beratungskompetenz den Fokus über die Interaktion zwischen Berater und Ratsuchendem hinaus?",
+    "answer": "Systemische Beratungskompetenz erweitert den Fokus über die Interaktion zwischen Berater und Ratsuchendem hinaus, indem sie eine permanente Wachsamkeit für die verschiedenen Systemebenen anstrebt. Sie geht damit weit über die Interaktionen des (Meso-) Kosmos Berater und Ratsuchender hinaus. Zudem ist sie auch eine gesellschafts-politische Wachsamkeit, die es ermöglicht, die individuell erfahrenen Lebensumstände und Bewältigungsanliegen makrostrukturell zu verorten und der Schicksalhaftigkeit von Problemen eine handlungs- und veränderungsmotivierte Option zu geben. \n        I cannot find the answer in the provided context.",
+    "expected": "Systemische Beratungskompetenz erfordert eine permanente Wachsamkeit für verschiedene Systemebenen und geht somit über die Interaktionen zwischen Berater und Ratsuchendem (Meso-Kosmos) hinaus. Sie beinhaltet auch eine gesellschaftspolitische Wachsamkeit und bezieht den Lebenskontext sowie micro- und mesostrukturelle Verwicklungen in die Beratung mit ein.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "75e5b118ae671101dbe263619cbb3cbb175782f60bd5e6af12bce50fb9f696aa",
+        "score": 0.9966151118278503,
+        "meta": {
+          "file_path": "9783866496811_chapter_11.txt",
+          "source_id": "b583be53ea4b64d62e1f93c258612e112070cfbe7d3bc99c54a55777d65af387",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4874,
+          "_split_overlap": [
+            {
+              "doc_id": "3d365b51d44200dd0891f7b3daad4232bec06cf5284f6c9431883ff7d5587993",
+              "range": [
+                1125,
+                1524
+              ]
+            },
+            {
+              "doc_id": "1a37d368229177a3f6eafec71a3464d08b25849f65385d9e1912a65a8dbd591a",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "Suchenden. Der systemische Berater erfüllt keine Lehrplanaufträge, sondern stärkt und stützt den Beratung-Suchenden auf dem Weg zu seinem eigenen Selbst. Systemische Beratungssettings thematisieren das noch nicht reflek- tierte implizite Wissen des Beratung-Suchenden und helfen damit dem Lernenden zwischen der Intuition, die Expertise gedanklich und sprachlich zu erfassen. Damit kann systemische Beratung über die Möglichkeiten der Un- terrichtung, der Praxisanleitung und der Praxisbegleitung hinaus einen wesentlichen Beitrag zur Professionalisierung der Pflegeberufe leisten und auf den Ressourcen der schulischen und betrieblichen Lernorte sowie den Berufsausbildungsgesetzen aufbauen. Die Überzeugung, dass beraten wird und Beratung ein wesentliches Tätig- keitsfeld in der Pflege und Pflegebildung darstellt führte uns zu der Frage, wie die hierfür notwendigen Kompetenzen frühzeitig vermittelt und erworben werden können. Es konnte gezeigt werden, dass die dafür notwendigen Kontextbedingun"
+      },
+      {
+        "rank": 2,
+        "id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+        "score": 0.9948018789291382,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2185,
+          "_split_overlap": [
+            {
+              "doc_id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+              "range": [
+                1061,
+                1479
+              ]
+            },
+            {
+              "doc_id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+              "range": [
+                0,
+                385
+              ]
+            }
+          ]
+        },
+        "content": "mesostrukturellen Verwicklungen des Bera- tungsanliegens und der Person des Ratsuchenden müssten die anderen Kompetenzen durchziehen. Wenn dieses Prinzip nicht durchgängig präsent wäre, ist die Ausweisung einer eigenen systemischen Kompetenz notwendig. So erfordert systemische Beratungskompetenz integriert oder eigens ausge- wiesen eine permanente Wachsamkeit für die verschiedenen Systemebenen. Sie geht damit weit über die Interaktionen des (Meso-) Kosmos Berater und Ratsuchender hinaus. In ihrem Kern beinhaltet systemische Beratung ebenfalls eine gesellschafts- politische Wachsamkeit. Diese erst ermöglicht es, die individuell erfahrenen Lebensumstände und Bewältigungsanliegen makrostrukturell zu verorten und der Schicksalhaftigkeit von Problemen eine handlungs- und veränderungsmo- tivierte Option zu geben. Hans-Jürgen SEEL verwendete bei der Fachtagung der DGfB ‚Auch in Zu- kunft: Gut beraten‘ am 23./ 24.11.07 in Mainz in dem von ihm geleiteten Workshop ‚Zukunft der Beratungsbildung- "
+      },
+      {
+        "rank": 3,
+        "id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+        "score": 0.9919782876968384,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1124,
+          "_split_overlap": [
+            {
+              "doc_id": "26a46e57d4057b46ef19adca26379987df979f5c2d39843b0bdc42069ac51cae",
+              "range": [
+                1124,
+                1468
+              ]
+            },
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "um die Kybernetik der 1. und 2. Ordnung sowie deren Unterscheidungen und den vollen Respekt vor der Haltung des beraterischen Gegenübers. In der Beziehungskompetenz geht es sowohl um die grundlegende Fähigkeit wie Empathie als auch um die Wahrnehmung und Deutung der Beziehungs- muster der zu beratenden Menschen. Diese Beziehungsmuster können aus der Art des Umgangs, der Reaktionen von Berater und Ratsuchenden und aus dessen Umgang im sozialen Bezug erschlossen werden. Systemische Kompetenz sollte sich in allen fünf beschriebenen Kern- kompetenzen wie ein roter Faden durchziehen. Bezogen auf die Diagnostik und die Interventionen zeigt sich lediglich ein eigenes Profil systemisch-beraterischen Handelns. Dieses beruht auf den systemisch-therapeutischen Schulen (wie sie auf das MRI in Palo Alto zu- rückgehen oder in Bezug auf Niklas LUHMANN sich bei uns vielfältig und breit gefächert entwickeln konnten). Zudem haben systemische Konzepte mittlerweile breiten Eingang in andere Schulen von Be"
+      },
+      {
+        "rank": 4,
+        "id": "82f37e380416df2d01c28cac517bb479d5262157568c63d816bedb90b41ed132",
+        "score": 0.9908400177955627,
+        "meta": {
+          "file_path": "9783847412304_chapter_1212.txt",
+          "source_id": "7f72ed28486a375a5f2192b161b78aabdf9031a6250251ea32c6c4b84dabc3de",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8133cfd9daf12abf0702daad3913ef07dfb306aa2d2f61595b666017cb07f4a8",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "Modelle Lernberatung\nLernberatung begleitet Lernprozesse mit den Mitteln der Beratung und macht diese auch zu deren Gegenstand (vgl. Pätzold 2004). Sie ist eine Einflussnahme „auf fremde kognitive Strukturen“ (Schäffter 2000: 51), die darauf abzielt, Lernen zu ermöglichen und zu fördern. Beratung verweist dabei auf Merkmale wie zeitliche Befristung, Interaktion zwischen Rat gebenden und beratenden Akteurinnen und Akteuren und die Orientierung auf Lösungen in einem Sachbereich, wobei die Verantwortung für den Umgang mit Lösungen aufseiten der Beratenen verbleibt (vgl. Pätzold 2004: 52, 108f). Beratung setzt damit voraus, dass das beratene System über Möglichkeiten verfügt, Lösungen und andere Handlungsoptionen zu bewerten, auszuwählen und umzusetzen und sich dabei selbst zu beobachten. Sie ist eine „Reflexionshilfe für reflexive Systeme“ (Buchinger 2010: 143). Diese Merkmale verweisen – ebenso wie der Begriff des organisationalen Lernens – auf die Frage, ob Organisationen als Lernende ("
+      },
+      {
+        "rank": 5,
+        "id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+        "score": 0.9804968237876892,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1227,
+          "_split_overlap": [
+            {
+              "doc_id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+              "range": [
+                1227,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidungs- und Übergangsberatung resultieren kann, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Methodenbeschreibungen spielen für das Erlernen von Beratungskompe­ tenz eine wichtige Rolle. Sie haben den Vorteil, dass sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Auch wenn es sich immer um abstra­ hierte Beratungsprozesse handelt, transportieren sie Ideen für ein Vorgehen, das erfahrene Beraterinnen und Berater entwickelt haben. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho­ den und Techniken wert zu legen, um deutlich zu machen, dass die Metho­ denkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi­ nierbare Bausteine weniger äußere Vora"
+      }
+    ]
+  }
+]

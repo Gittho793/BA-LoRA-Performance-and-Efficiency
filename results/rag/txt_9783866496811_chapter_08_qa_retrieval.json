@@ -1,0 +1,622 @@
+[
+  {
+    "filename": "9783866496811_chapter_08.txt",
+    "question": "Wie wird Beratung in Bezug auf ihre wissenschaftliche Fundierung und ihren Praxisbezug verstanden?",
+    "answer": "Beratung wird als multiprofessionell, interdisziplinär und als Handlungs-wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. Sie wird als Querschnittswissenschaft angesehen, die der Kombination verschiedener Lehrgebiete und Disziplinen bedarf.",
+    "expected": "Beratung wird als multiprofessionell, interdisziplinär und als Handlungswissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, abhängig vom Kontext und Praxisbezug.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9994961023330688,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 2,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.999481737613678,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 3,
+        "id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+        "score": 0.9933776259422302,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "4.1.1. Beratung als Wissenschaft? Bei allen Gelegenheiten der wissenschaftlichen Verortung von Beratung (erste Fachtagungen in Mainz 11/2007 und in Kassel 11/2008) zeigen sich sehr unterschiedliche Bilder. Letztlich löste auch Manfred MOLDASCHL (Technische Universität Chem- nitz) in seinem Beitrag in Kassel am 07.11.2009 diese Frage der wissenschaftlichen Verortung noch nicht auf. Abb.4: Beratungswissenschaft Wenn gleich dieses Bild für die Theoriebegründung noch nicht ausreichen mag. Fest steht aber, viele neue andere Wissenschaften, wie z. B. die Geron- towissenschaft, die Sozialarbeitswissenschaft, die Pflegewissenschaft begründen sich aus genau dieser Querlage heraus. Also doch: der Anfang einer Theoriegrundlage? Es wird in Zukunft deutlicher denn je darum gehen, die Besonderheit des Beratens aus den verschiedenen wissenschaftlichen Foki heraus zu beschrei- ben und im interdisziplinären Diskurs jeweils neu zu verorten. Auch die verschiedenen ‚Ebenen‘ der Betrachtung von Beratung si"
+      },
+      {
+        "rank": 4,
+        "id": "9b45cfb0e83510c3e19597c3fd6bae5ec4d715d772857f96d6657928e57e7521",
+        "score": 0.9922102689743042,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6707,
+          "_split_overlap": [
+            {
+              "doc_id": "a3ba8dbc5826fe3b5742e6687ca5af7dbe2247dc6687b13e002a449391cb4b5e",
+              "range": [
+                1412,
+                1875
+              ]
+            }
+          ]
+        },
+        "content": "Verweisstrukturen, im Wissensmanagement, in der Umsetzung von Professionalisierungsangeboten sowie in der Auswahl ziel- gruppenspezifischer und bedarfsgerechter Beratungstools. Eine Berücksichtigung dieser Aspekte könnte wesentlich zur Sicherung des zielgruppenspezifischen Beratungswissens auf der einen Seite und zur Optimierung der Beratungsstrukturen für nicht-traditionell Studieninteres- sierte auf der anderen Seite und somit zu einer Professionalisierung von öf- fentlichen Hochschulen auf dem Feld der wissenschaftlichen Weiterbildung insgesamt beitragen."
+      },
+      {
+        "rank": 5,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.9878007173538208,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_08.txt",
+    "question": "Was bedeutet es, dass Beratungswissenschaft als Querschnittswissenschaft betrachtet wird?",
+    "answer": "Die Beratungswissenschaft wird als Querschnittswissenschaft betrachtet, was bedeutet, dass sie sich aus der Kombination verschiedener Lehrgebiete und Disziplinen zusammensetzt und genau darin ihr eigenes Profil darlegt. Dies bedeutet, dass Beratungswissenschaft eine interdisziplinäre Wissenschaft ist, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext und dem Praxisbezug. \n\n         Quelle: 4.1.1. Beratung als Wissenschaft? Bei allen Gelegenheiten der wissenschaftlichen Verortung von Beratung (erste Fachtagungen in Mainz 11/2007 und in Kassel 11/2008) zeigen sich sehr unterschiedliche Bilder. Letztlich löste auch Manfred MOLDASCHL (Technische Universität Chemnitz) in seinem Beitrag in Kassel am 07.11.2009 diese Frage der wissenschaftlichen Verortung noch nicht auf. Abb.4: Beratungswissenschaft Wenn gleich dieses Bild für die Theoriebegründung noch nicht ausreichen mag. Fest steht aber, viele neue andere Wissenschaften, wie z. B. die Geron- towissenschaft, die Sozialarbeitswissenschaft, die Pflegewissenschaft begründen sich aus genau dieser Querlage heraus. Also doch: der Anfang einer Theoriegrundlage? Es wird in Zukunft deutlicher denn je darum gehen, die Besonderheit des Beratens aus den verschiedenen wissenschaftlichen Foki heraus zu beschrei- ben und im interdisziplinären Diskurs jeweils neu zu verorten. Auch die verschiedenen ‚Ebenen‘ der Betrachtung von Beratung sind entlang der jeweiligen wissenschaftlichen Fragestellung neu zu justieren. Konzentrierten sich doch Forschungen lange Zeit auf den Mikrokosmos Beratung, so scheint die neue Herausforderung darin zu liegen, den Kontext, den Rahmen von Beratung und die Lebenswelt von Klienten in Forschungs- prozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. Abb.5: Systemisches Kontextmodell der Beratung Die verschiedenen Ebenen der Betrachtung von Beratung in Theoriebildung und Forsch",
+    "expected": "Es bedeutet, dass Beratungswissenschaft verschiedene Lehrgebiete und Disziplinen kombiniert und sich dadurch ihr eigenes Profil erarbeitet, da sie eine interdisziplinäre Verbindung verschiedener Fachbereiche darstellt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.9947161078453064,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 2,
+        "id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+        "score": 0.9876284599304199,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "4.1.1. Beratung als Wissenschaft? Bei allen Gelegenheiten der wissenschaftlichen Verortung von Beratung (erste Fachtagungen in Mainz 11/2007 und in Kassel 11/2008) zeigen sich sehr unterschiedliche Bilder. Letztlich löste auch Manfred MOLDASCHL (Technische Universität Chem- nitz) in seinem Beitrag in Kassel am 07.11.2009 diese Frage der wissenschaftlichen Verortung noch nicht auf. Abb.4: Beratungswissenschaft Wenn gleich dieses Bild für die Theoriebegründung noch nicht ausreichen mag. Fest steht aber, viele neue andere Wissenschaften, wie z. B. die Geron- towissenschaft, die Sozialarbeitswissenschaft, die Pflegewissenschaft begründen sich aus genau dieser Querlage heraus. Also doch: der Anfang einer Theoriegrundlage? Es wird in Zukunft deutlicher denn je darum gehen, die Besonderheit des Beratens aus den verschiedenen wissenschaftlichen Foki heraus zu beschrei- ben und im interdisziplinären Diskurs jeweils neu zu verorten. Auch die verschiedenen ‚Ebenen‘ der Betrachtung von Beratung si"
+      },
+      {
+        "rank": 3,
+        "id": "844727704acc68e89750ddcf15839e72d3dfe9c8af8aef49574ecae4fd24a438",
+        "score": 0.9682988524436951,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5145,
+          "_split_overlap": [
+            {
+              "doc_id": "2aeabd3654cdce11f23978bb6c472de964eef8e323b6dc9b7f7392ab91bc3bad",
+              "range": [
+                1268,
+                1689
+              ]
+            },
+            {
+              "doc_id": "91b2fcbe6146b590096e95c36f3380d304ae9bc8cf67aee720871bbffacfc062",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "Organisationale und institutionelle Strukturen von Beratung ändern sich sehr rasch. Beispiele sind neue Aufgaben im Kinderschutz, das Hinzukommen medial vermittelter Beratung im Sinne von Blended Counseling und so weiter. Diese Heterogenisierung der Beratungslandschaft geht zusätzlich mit einer Zunahme von Beratungsangeboten einher. In der Folge können aktuelle Professionalisierungswünsche hinsichtlich Beratung nicht mehr auf den überlieferten Strukturkern einer im wesentlichen gesetzten Beratungsinfrastruktur aufsetzen. Beratung als Handlungsform ist angesichts dieser Heterogenisierung aus ihren Strukturen freigesetzt, ähnlich wie das Unterrichten, das sich angesichts rasch ausdifferenzierender Schulformen- und konzepte zunehmend auch wieder aus seiner eigentlichen pädagogischen Praxis heraus und nicht (nur) entlang der Institution Schule legitimieren muss. Zweitens bedeutet Bologna, dass Professionalisierungsprozesse schon früher zielgerichtet beginnen als im bisherigen berufsbiograp"
+      },
+      {
+        "rank": 4,
+        "id": "1a554039c73b795bdb0fe3bbd9baed11ca387cc09e466ae29a0d7ca6243a977b",
+        "score": 0.9554322361946106,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2633,
+          "_split_overlap": [
+            {
+              "doc_id": "3a3fb5800f68553697074d2600bb746fdfafc40d1e242155632e5321e732db5e",
+              "range": [
+                1341,
+                1743
+              ]
+            },
+            {
+              "doc_id": "02301f3e19f2c748e5b5a29397860a908a317a5b5d2a321429f31be516b39eb2",
+              "range": [
+                0,
+                505
+              ]
+            }
+          ]
+        },
+        "content": "Allgemeinen (2.1) und für die Beratung auf Programmebene auch im Speziellen (3.1) vor. Ausgehend von diesen Bedarfen ist das nötige Beratungswissen zu rekonstruieren, organisational zu festigen und ein Modus zu implementieren, wie bei Veränderungen eine Aktualisierung des Wissenspools erfolgt. Im Idealfall können sowohl die Studiengangkoordinierenden als auch andere organisationsinterne Akteurinnen und Akteure, die für die Beratung auf Programmebene relevantes Wissen beisteuern, den konservierten Wissensbestand aktualisieren und bei entsprechendem Bedarf abrufen. Neben der Aktualität des Beratungswissens kann somit auch die dauerhafte Verfügbarkeit sichergestellt werden. Dies hat für die Beratung durch Studiengangkoordinierende auf dem Feld der wissenschaftlichen Weiterbildung besondere Relevanz, da die Beschäftigungsverhältnisse oft in Gestalt befristeter Projektstellen organisiert sind, die i. d. R. mit einer wissenschaftlichen Qualifizierung verknüpft werden. Eine solche Befristung "
+      },
+      {
+        "rank": 5,
+        "id": "be57cd67724e0f18c276451c44e5879f9fdc6776e7e558763581b0077252ad2c",
+        "score": 0.9046874642372131,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1231,
+          "_split_overlap": [
+            {
+              "doc_id": "99d169c9ff6dec198b5662cb107ea2b1f7bb04fef648cce8e5c9f4ae985d4073",
+              "range": [
+                1231,
+                1669
+              ]
+            },
+            {
+              "doc_id": "75a045a93887d624418c9c93502d889168c7ef1e5e847c43c0d5ac6624711517",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "allem auf die Professionalisierung im Feld der Beratung lenken (vgl. Käpplinger/Maier-Gutheil 2015). Entsprechende Versuche, die Wissenschaft der Beratung weiterzuentwickeln, haben nicht nur die Einrichtung entsprechender Studiengänge zur Folge, sondern befördern insbesondere Fragen nach der Qualität von Beratung (vgl. Schiersmann/Weber 2013), den Möglichkeiten und Bedingungen, Beratungskompetenzen zu entwickeln (vgl. Weinhardt 2015; Weinhardt 2018) sowie den Wirkfaktoren im Kontext von Beratungsinteraktionen (vgl. Schiersmann/Maier-Gutheil/Weber 2016). Diese Entwicklungen stehen im paradigmatischen Kontext des Lebenslangen Lernens wodurch Beratung in modernen Gesellschaften in unterschiedlicher Weise bedeutsam wird. Seitens gesellschaftspolitischer Akteure wird Beratung einerseits als Steuerungsinstrument eingesetzt, etwa im Zusammenhang mit neoliberalen Entwicklungen (z.B. wenn Beratung ein verpflichtendes Element bei der Vergabe öffentlicher Fördergelder darstellt). Andererseits gib"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_08.txt",
+    "question": "Wie zeigt sich das interdisziplinäre Verständnis psychosozialer Beratung laut dem Text?",
+    "answer": "Das interdisziplinäre Verständnis psychosozialer Beratung drückt sich laut dem Text nicht zuletzt in einem neuen Denken der Quervernetzung aus. Es handelt sich um eine Querschnittswissenschaft, die der Kombination verschiedener Lehrgebiete und Disziplinen bedarf. Viele Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die genau darin ihr eigenes Profil darlegen kann.  Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichtigen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs-wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug.  Es handelt sich um eine Querschnittswissenschaft, die der Kombination verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr eigenes Profil darlegen kann. \n        I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.  I cannot find the answer in the provided context.",
+    "expected": "Das interdisziplinäre Verständnis psychosozialer Beratung zeigt sich in einem ganzheitlichen Ansatz und einem neuen Denken der Quervernetzung verschiedener Fachvertreter und Disziplinen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+        "score": 0.9883813261985779,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1215,
+          "_split_overlap": [
+            {
+              "doc_id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+              "range": [
+                1215,
+                1681
+              ]
+            },
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Amerika formierte sich in den vergangenen Jahrzehnten vorwiegend an den Hochschulen und in deren unterschiedlichsten Studien- gängen das Counseling mit akademischem Abschluss.Hierzulande zeigten sich die psychosozialen Beratungsanbieter eher den therapieabgeleiteten Konzepten verbunden. Verschiedene Therapiefachver- bände platzierten Beratung als ‚kleine Therapie‘ in ihrer Angebotspalette, mittlerweile kommen Mediation, Coaching, Organisationsberatung etc. hin- zu. Viele psychosoziale, pflegerische und pädagogische Berufe schälen den hohen Anteil von Beratung deutlicher aus ihrer Tätigkeit heraus. Die Teil- kompetenz ‚Beratung‘ wird deutlicher markiert und hervorgehoben. Mit den AG-Beratungswesen – dem Vorläufer der 2004 gegründeten Deut- schen Gesellschaft für Beratung (DGfB) - werden eigene neue Profilbildungen von Beratung möglich (www.dachverband-beratung.de). Die DGfB hat sich eine psychosoziale Plattform hinsichtlich ihrer Beratungs- verständnisses gegeben. Diese benennt als Fach"
+      },
+      {
+        "rank": 2,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.9763335585594177,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 3,
+        "id": "af21212a12118ea256d52707ca6c19ac319acf1100d0e3d9a49fa4c68dc617c6",
+        "score": 0.9702638387680054,
+        "meta": {
+          "file_path": "9783847412304_chapter_069.txt",
+          "source_id": "50634dfb3a578b548ee10a5f59757f3b7df3b36e420007c95fb69f6cdba6e2c5",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2409,
+          "_split_overlap": [
+            {
+              "doc_id": "a5a6be9ac0f394c578e8819391331b12eabe3e9db6fbc482c08fe14e7dbe7ed8",
+              "range": [
+                1173,
+                1568
+              ]
+            }
+          ]
+        },
+        "content": "Lernbiografie“ (ebd.) betrachtet, die dies in der Beratung klar explizieren, reflektieren und aktiv nach Optimierungen suchen. • Zeitlich wird das Beratungsgespräch als „aus dem Seminar ausgegliederte Intervention“ (ebd. S. 148) verstanden und individualisiert nach den Bedarfen der Teilnehmenden realisiert. Wie die zeitliche Kopplung an die strukturierte Seminarsituation genau erfolgen soll, bleibt konzeptionell unklar. Es handelt sich damit um ein exkludierendes, unbestimmtes Zeitkonzept"
+      },
+      {
+        "rank": 4,
+        "id": "0ac2ebd70157351fac8c510bac31719ad1664dfae4edf6e6648b969a9e1931a6",
+        "score": 0.9587938189506531,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3770,
+          "_split_overlap": [
+            {
+              "doc_id": "332dc1f80fed8a7b601f0573068377cf78ba600e3158487531f57ca5e37bdba1",
+              "range": [
+                1285,
+                1704
+              ]
+            },
+            {
+              "doc_id": "629cbd6f344e3dd0117fb86a243d13c7514ee98011716ba3c9bbcb6169d4c6e9",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "Zielvereinbarungen voraus. Beratung grenzt sich von anderen professionellen Interventionsformen ab. Beispiele sind: Die Informationsvermittlung in der Medizin, das Case Management in der Sozialen Arbeit oder handlungsanleitende Beratung bei der Gewährung von materiellen Leistungen in der Sozialhilfe, die Rechtsberatung und Psycho- therapie (heilkundliche Behandlungen entsprechend PsychThG und HPG). Abhängig von den zu bewältigenden Anforderungen, Problemlagen und Krisensituationen, in denen sich die Ratsuchenden befinden, kann Beratung Ressourcen aktivieren, gesund- heitsfördernd, präventiv, kurativ oder rehabilitativ sein“ (DGfB 9/2004:7 ff). In der BRD wurde 2004 die ‚DGfB – Deutsche Gesellschaft für Beratung, German Association for Counseling‘ gegründet. In ihr ringen mehr als 30 Fachverbände um ein gemeinsames Beratungsverständnis, um Standards der Weiterbildung in Beratung und um das psychosoziale Profil von Beratung. Viele therapieschulenbezogene Anbieter von Weiterbildung in Ber"
+      },
+      {
+        "rank": 5,
+        "id": "0c8f078814bb328e753c5a4556ab9cbfcac8c07076a2b0f884ac81902ac139aa",
+        "score": 0.9528711438179016,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10616,
+          "_split_overlap": [
+            {
+              "doc_id": "b3d056f33b1c933090245450913d5955b8ad24f0e3023a043326523b6dee2f58",
+              "range": [
+                1172,
+                1642
+              ]
+            },
+            {
+              "doc_id": "05f7ff7f816f667866bdb8bea362246cbe710e790c00b30b0845a49faaf676a8",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "werden die durchgängigen Interaktionsperspektiven der Beratungspsychologie in den aktuellen Konzepten von Praxisbera- tung/Consultation, Institutionsberatung, Gemeindeberatung und beratender Umweltintervention. 3. Beratung befasst sich schwerpunktmäßig mit relativ ‚intakten‘, d.h. nicht mit schwergestörten Personen. Die Normalität des Klientels wird in den meisten Counseling-Definitionen betont, obwohl zahlreiche Autoren und Autorinnen inzwischen auch auf zunehmend schwerer und multidimen- sional gestörte Klientele der Beratungspraxis verweisen. Beratungspsychologinnen arbeiten dennoch meist mit Personen, deren Probleme zwar vielfältig sind, aber in ‚relativ normalen‘ Dimensionen bleiben und deren Persönlichkeit nicht zutiefst beeinträchtigt und gestört ist. Allgemeine Lebensprobleme, die als normative wie nicht normative kritische Lebensereignisse im Leben vieler Menschen eintreten, alltägli- che psychosoziale Schwierigkeiten und Anforderungen, ‚normal- neurotische‘ und nicht psychoti"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_08.txt",
+    "question": "Welche Bedeutung hat die internationale Tradition für die fachliche Fundierung der Beratung?",
+    "answer": "Die internationale Tradition der Beratung ist quasi nicht neu zu definieren und kann auf eine lange Geschichte der fachlichen Fundierung zurückgreifen. Sie drückt sich in einem interdisziplinären Verständnis psychosozialer, ganzheitlicher Beratung aus, das sich in einem neuen Denken der Quervernetzung ausdrückt. Die Beratungswissenschaft ist eine Querschnittswissenschaft, die sich auf die Kombination verschiedener Lehrgebiete und Disziplinen stützt. Die internationale Tradition hat sich in den letzten Jahren institutionell, fachlich und methodisch ausdifferenziert und hat ein relativ weites und offenes Beratungsverständnis verbunden, das auf unterschiedliche disziplinäre Zugänge und gesellschaftliche Handlungsfelder zutrifft. Die Beratung kann als \"pädagogische Bildungschance\", als \"alltags- und lebensweltorientierte Bewältigungshilfe in der sozialen Arbeit\" sowie als \"therapeutische Intervention in klinisch-psychologischen oder medizinisch-psychologischen Handlungsfeldern\" verstanden werden. Die internationale Tradition ist von wesentlicher Bedeutung für die fachliche Fundierung der Beratung, da sie ein weites und offenes Beratungsverständnis bietet, das auf unterschiedliche disziplinäre Zugänge und gesellschaftliche Handlungsfelder zutrifft. Sie bietet auch einen Rahmen für die Entwicklung einer eigenen Theoriegrundlage, die sich auf die Kombination verschiedener Lehrgebiete und Disziplinen stützt. Die Beratungswissenschaft ist eine Querschnittswissenschaft, die sich auf die Kombination verschiedener Lehrgebiete und Disziplinen stützt. Die internationale Tradition ist von wesentlicher Bedeutung für die fachliche Fundierung der Beratung, da sie ein weites und offenes Beratungsverständnis bietet, das auf unterschiedliche disziplinäre Zugänge und gesellschaftliche Handlungsfelder zutrifft. Sie bietet auch einen Rahmen für die Entwicklung einer eigenen Theoriegrundlage, die sich auf die Kombination verschiedener Lehrgebiete und Disziplinen stützt. Die Beratungswissenschaft ist eine Querschnittswissenschaft, die sich auf die Kombination verschiedener Lehr",
+    "expected": "Die internationale Tradition bietet eine lange fachliche Fundierung, weshalb Beratung nicht neu definiert werden muss, sondern auf bewährte wissenschaftliche Grundlagen zurückgreifen kann.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.9922962784767151,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 2,
+        "id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+        "score": 0.9885427951812744,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1261,
+          "_split_overlap": [
+            {
+              "doc_id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+              "range": [
+                1261,
+                1663
+              ]
+            },
+            {
+              "doc_id": "6332ada52be4db7de7935a84c5b53b7792c27f785ce6d875143661b2ea4468b4",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "den letzten Jahren institutionell, fachlich und methodisch ausdifferenziert hat. Schröd­ ter (2014, S. 809, Herv. i. Orig.) definiert diese Form der Beratung als »ein eigenständiges Gesprächsangebot für Menschen in aktuell schwierigen Ent­ scheidungs-, Konflikt- und Krisensituationen«. Als konstitutive Merkmale von Beratung nennt er die Freiwilligkeit der Inanspruchnahme, die Vertrau­ lichkeit, die Kostenfreiheit sowie die Multiperspektivität des Zugangs und die Interdisziplinarität des Teams. Beratung als professionelles Angebot zielt auf die (Wieder-)Herstellung der individuellen Entscheidungs- und Hand­ lungsfähigkeit ab und findet in einem zeitlich eingegrenzten, institutionel­ len und organisatorischen Rahmen statt, der durch spezifische Richtlinien und Vorgaben geprägt ist (vgl. ebd., S. 809ff.). Damit ist ein relativ weites und offenes Beratungsverständnis verbunden, das auf unterschiedliche dis­ ziplinäre Zugänge und gesellschaftliche Handlungsfelder zutrifft. Beratung kann als"
+      },
+      {
+        "rank": 3,
+        "id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+        "score": 0.9864186644554138,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3432,
+          "_split_overlap": [
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                1247,
+                1632
+              ]
+            }
+          ]
+        },
+        "content": "(durch Unterstützung der Filetierung) nicht noch Vorschub leistet. Beratung hat u.a. auch eine gesellschaftliche Funktion (vgl. Seel, 2009:4) Die Metaperspektive von Beratung – als mikro- und makrosystemische – ist von nachhaltiger Bedeutung für die Professionalität von Beratung. Insofern ist Beratung ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient- Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gül- tigkeit zu reklamieren gedenkt. Als weitere systemische Kompetenzen von Beratung können Fähigkeiten des Beraters ausgemacht werden - vernetzt zu denken, und Wechselbeziehungen, Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen - die adäquate Vernetzung mit anderen Hilfesystemen - komplexe Auftragssituationen sind zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen: - Anlass, An"
+      },
+      {
+        "rank": 4,
+        "id": "f92ab10d4ad705281e9ab8279b5f592d16d16edbc2882eb04e7ca1052e8e6ea4",
+        "score": 0.9855750799179077,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2425,
+          "_split_overlap": [
+            {
+              "doc_id": "b8deb9bc1dfb9987119ba30859b7245a65c5a6855c3e1f5c2061728eb248b9ca",
+              "range": [
+                1270,
+                1700
+              ]
+            },
+            {
+              "doc_id": "cd34bb418f9dfdb999336624dc254d9841795dea44fca00e116f41550d18b5ed",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "Beratung ist keine Geschichte der Durchset­ zung des hermeneutischen Verstehens in der Pädagogik und der Überwindung autoritärer Strukturen. Vielmehr hat sie sich äußerst polarisiert entwickelt. De­ mokratischen Bewegungen und ihren Angeboten standen Beratungsverständ­ nisse mit deutlichem Ordnungscharakter, mit ideologischem Hintergrund und ausgeprägten Professionalisierungsinteressen insbesondere von Ärzten und spä­ ter von der aufsteigenden Profession Psychologie gegenüber.“ (Gröning 2011: 21) Bis ein Beratungsangebot institutionalisiert wird, bedarf es gesellschaftli­ cher Interessen, in einer bestimmten Weise auf Individuen, die die Beratung aufsuchen (sollen), einzuwirken, da die Institutionalisierung immer mit der Verwendung gesellschaftlicher Ressourcen, in diesem Fall kommunaler Fi­ nanzmittel verbunden ist. „Bleibt man in der ärztlichen und psychologischen Tradition von Beratung, so wird derjenige oder diejenige beraten, die nicht nur einen inneren Leidensdruck, sondern auch "
+      },
+      {
+        "rank": 5,
+        "id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+        "score": 0.9760245680809021,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "4.1.1. Beratung als Wissenschaft? Bei allen Gelegenheiten der wissenschaftlichen Verortung von Beratung (erste Fachtagungen in Mainz 11/2007 und in Kassel 11/2008) zeigen sich sehr unterschiedliche Bilder. Letztlich löste auch Manfred MOLDASCHL (Technische Universität Chem- nitz) in seinem Beitrag in Kassel am 07.11.2009 diese Frage der wissenschaftlichen Verortung noch nicht auf. Abb.4: Beratungswissenschaft Wenn gleich dieses Bild für die Theoriebegründung noch nicht ausreichen mag. Fest steht aber, viele neue andere Wissenschaften, wie z. B. die Geron- towissenschaft, die Sozialarbeitswissenschaft, die Pflegewissenschaft begründen sich aus genau dieser Querlage heraus. Also doch: der Anfang einer Theoriegrundlage? Es wird in Zukunft deutlicher denn je darum gehen, die Besonderheit des Beratens aus den verschiedenen wissenschaftlichen Foki heraus zu beschrei- ben und im interdisziplinären Diskurs jeweils neu zu verorten. Auch die verschiedenen ‚Ebenen‘ der Betrachtung von Beratung si"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_08.txt",
+    "question": "Warum ist die Entwicklung der Beratungswissenschaft derzeit auf einem wichtigen Prüfstand?",
+    "answer": "Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichtigen Prüfstand, weil sie sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundierung zurückgreifen, ist quasi nicht neu zu definieren. Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernetzung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombination verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr eigenes Profil darlegen kann. Die wissenschaftliche Fundierung von Beratung steht derzeit auf einem wichtigen Prüfstand, da sie sich an verschiedenen wissenschaftlichen Disziplinen orientiert und eine Querschnittswissenschaft ist, die verschiedene Lehrgebiete und Disziplinen kombiniert. Dies macht es schwierig, die Beratungswissenschaft auf eine einheitliche Weise zu definieren und zu strukturieren. Daher ist die Entwicklung der Beratungswissenschaft derzeit auf einem wichtigen Prüfstand. \nI cannot find the answer in the provided context.  is incorrect. The correct answer can be inferred from the text. \n\nThe final answer is: Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichtigen Prüfstand, weil sie sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundierung zurückgreifen, ist quasi nicht neu zu definieren. Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernetzung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombination verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr eigenes Profil darlegen kann.  The text says that the development of counseling science is currently on a significant test stand due to its orientation towards various",
+    "expected": "Weil die wissenschaftliche Fundierung der Beratungswissenschaft überprüft wird, um sicherzustellen, dass Beratung als multiprofessionelle und interdisziplinäre Handlungswissenschaft angemessen und aktuell wissenschaftlich fundiert bleibt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.9986623525619507,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 2,
+        "id": "398d8c7e3e4ae97b2c227e4627562520b8d154512ffc30cb6a2f4cc0e2b50873",
+        "score": 0.9940517544746399,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5757,
+          "_split_overlap": [
+            {
+              "doc_id": "1e632c3a739ce443b6517716d3874a2a35cf9a87069c020226bb7e1737efa2eb",
+              "range": [
+                1043,
+                1482
+              ]
+            },
+            {
+              "doc_id": "814c83109f87435f6df3b1a9fef14e358fc5a87bd55353b9dbac1682cc31f497",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "eine fachliche Eingrenzung der Beratungsleistung sowie die Begründung der Professionalität des Zugangs durch die Entwicklung einer spezifischen Expertise in Abgrenzung von etablierten Beratungsleistungen. Die verwendete Bezeichnung einer Fachberatung bestätigt zudem die ge­ sellschaftliche Relevanz des Themas und legitimiert damit auch den Ent­ wicklungsprozess eines eigenständigen und neuen Beratungsangebots. Anerkennungsberatung als parteiliche Fachberatung Im Unterschied zur bisher dargestellten Sichtweise auf Anerkennungsbera­ tung, die sich vor allem auf die fachliche Abgrenzung und Expertise bezog, wird in zwei Interviews der Schwerpunkt auf die Beschreibung einer spe­ zifischen Beratungshaltung gelegt. Diese Beratungshaltung drückt sich vor allem in der parteilichen Unterstützung im Umgang mit behördlichen Ent­ scheidungen und der Ausrichtung am jeweiligen Einzelfall aus. Im Unter­ schied zu Maßnahmen des AMS, die für einen bestimmten Personenkreis verpflichtend sind, wird zudem"
+      },
+      {
+        "rank": 3,
+        "id": "16b6b9d94117fa99d4e65cd9016236326dfa0543dffdbc547b5c1720d3f594b2",
+        "score": 0.9918632507324219,
+        "meta": {
+          "file_path": "9783866496811_chapter_081.txt",
+          "source_id": "693583a6efef750a4404d2ae386b34e2e783e08adb528abcff72592fd796c812",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9b2f3ce32630115a6d70d0b3947f9693ac7856847b6eb928e7e27abaf54fabcb",
+              "range": [
+                0,
+                466
+              ]
+            }
+          ]
+        },
+        "content": "4.1. Beratungswissenschaft und ihre Profilentwicklung Die Experten von Beratung und Beratungstheorieentwicklung in der BRD beziehen deutlicher Stellung, schließen sich den internationalen Bewegungen in der Akademisierung von Beratung an und entwickeln das Markenzeichen von Beratung weiter. Über viele Jahrzehnte fand das Lernen von Beratung hierzulande fast einzig in den Korridoren der Weiterbildungsinstitute aner- kannter Fachverbände statt. Beratung zeichnete sich aus in einer hohen fachlichen Kompetenz, die wissenschaftliche und forschende Orientierung schien zweitrangig. Mit dem Zusammenschluss von 30 Fachverbänden 2004 zur Deutschen Ge- sellschaft für Beratung (DGfB) wurden gemeinsame Standards für Beratung diskutiert und festgelegt (vgl. www.dachverband-beratung.de). Auf verschiedenen Fachtagungen der DGfB und ihrer Mitgliedsverbände wurden und werden die Theoriegrundlagen von Beratung vertieft und die wissenschaftliche Fundierung vorangetrieben. In der Theoriebildung von Beratung"
+      },
+      {
+        "rank": 4,
+        "id": "a27d006a3d0186bdb14db806b2a9450dfea368947c4429b08592e156424b9afe",
+        "score": 0.9856744408607483,
+        "meta": {
+          "file_path": "1001586_chapter_064.txt",
+          "source_id": "158cdc7dca7b09aa99d8e4d52b6d1c01515c59ae600a8b885b0d6e4c559a4d75",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e56af8c2832f77d9d1138c3a5e80ca23e02fe156eb1824f7c274fedb1d4060f6",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "3.4 Beratungsräume Anne Schlüter und Nadine Feisel Warum sich mit Beratungsräumen beschäftigen? Warum sich mit Räumen für Beratung beschäftigen, wenn es um Methoden und Techniken der Beratung geht? Die Herstellung der Gesprächssituation im Rahmen einer Beratung verläuft über die Bereitstellung eines Raumes. Da­ hinter steht die Annahme, dass der gestaltete Raum sowohl bewusst, als auch unbewusst Einfluss auf die Beratungsatmosphäre nimmt. Der Raum als Weg zum gelingenden Gespräch? Der Einfluss von Raum und Räumlichkeit auf Bildungsprozesse war immer Thema in der Pädagogik wie philosophische und pädagogische Schriften aus dem 19. und 20. Jahrhundert zeigen, Otto Friedrich Bollnow sei mit seinem Buch „Mensch und Raum“ von 1963 nur ein Beleg dafür. 2016 hat sich der Kongress der DGfE ausführlich mit dieser Thematik beschäftigt. Zu diesem Anlass widmet sich die ‚Zeitschrift für Pädagogik‘ (ZfP) dem Thema: „Raum und Räumlichkeiten in der erziehungswissenschaftlichen Forschung“ in Heft 1/201"
+      },
+      {
+        "rank": 5,
+        "id": "d43eeef595cd4a6d450f7ff3ba536f39aa7c5f3b0a0d0f3679f122b1d8a5151d",
+        "score": 0.970609724521637,
+        "meta": {
+          "file_path": "9783847412304_chapter_0943.txt",
+          "source_id": "dbda7f71567792617bfdcb34e360807c55197a748dd43ff8e925708721db553d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3814,
+          "_split_overlap": [
+            {
+              "doc_id": "8d6e087e6b60a138feb66b0ad02df9636e867e4a3448ca246908f44d93f3fc79",
+              "range": [
+                1278,
+                1705
+              ]
+            },
+            {
+              "doc_id": "115e2e9f2ca3b29a8e4a817e84710edc63163b8996cb37977335c1204fc1ab0a",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "eines überinstitutionellen Selbstverständnisses und von Zielsetzungen im Feld der Bildungs- und Berufsberatung, welche aufgrund der heterogenen Angebotsstruktur nicht selbstverständlich sind. Seel (2013) beschreibt die Entwicklung einer anerkannten gesellschaftlichen Rolle und Position von Beratung als eines der größten Problemfelder in der Professionalisierung von Beratung. Eine Profession setzt demnach auch die Übernahme von gesellschaftlichen Aufgaben voraus (vgl. ebd.: 1653). Der Bildungsberatungs-Radar ermöglicht eine gesellschaftliche Positionierung, indem er über die individuelle Ebene zur Unterstützung der Handlungs- und Entscheidungsfähigkeit hinausgeht und stattdessen die gesellschaftlichen und strukturellen Bedingungen von Beratung fokussiert. Dieser kritische Ansatz entspricht der Zielsetzung der Aktionsforschung, konkrete Veränderungen in der Praxis zu bewirken (vgl. Bortz/Döring 2003: 345). Die Erfahrungen aus dem Pilotprojekt zeigen, dass damit jedoch auch neue Aufgaben "
+      }
+    ]
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "filename": "9783847412304_chapter_0837.txt",
+    "question": "Welche Vorbehalte gegenüber beruflich Qualifizierten im Hochschulsystem werden im Text genannt?",
+    "answer": "Ein Großteil der Befragten war noch nicht bewusst, dass beruflich Qualifizierte Weiterbildungen an Hochschulen besuchen dürfen. Des Weiteren kann es unter Umständen vorkommen, dass gewisse Vorbehalte gegenüber beruflich Qualifizierten bestehen. Dies kann sich z. B. bezüglich eines möglichen schulischen Nachholbedarfs (z. B. Mathematikkenntnisse) zeigen. In der Entwicklungs- und Erprobungsphase können somit förderliche und hemmende Faktoren seitens der hochschulinternen Beteiligten bzgl. der Bereitschaft zur Beteiligung und Annahme der neuen Zielgruppe auftreten.  Die genannten Vorbehalte sind möglicherweise auf einen möglichen schulischen Nachholbedarf, wie z.B. fehlende Mathematikkenntnisse, zurückzuführen.",
+    "expected": "Im Text wird erwähnt, dass es Vorbehalte bezüglich eines möglichen schulischen Nachholbedarfs geben kann, beispielsweise in den Mathematikkenntnissen, gegenüber beruflich Qualifizierten im Hochschulsystem.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "131623e9188a360888f1aea2079bd819c4bf47c2eb4f0a1d6707f3e743b98f71",
+        "score": 0.9631739258766174,
+        "meta": {
+          "file_path": "9783847412304_chapter_0832.txt",
+          "source_id": "299daae5dc72f9345ecba36207a1aeeb216abd13c770f7bba6b5f8aa239420c0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2551,
+          "_split_overlap": [
+            {
+              "doc_id": "f97fdd41b48b7854fa51ea340bbefb3149c77cd5b2b1fe32e4293ced9fcb1d20",
+              "range": [
+                1270,
+                1674
+              ]
+            }
+          ]
+        },
+        "content": "Qualifizierte ein besonders hohes Interesse an der entsprechenden Fachthematik aufweisen und somit auch eine große Bereitschaft zur Anstrengung besteht. Nach Otto und Schwaniger (2013) sind die Beweggründe berufliche Qualifizierter für ein Studium vor allem die persönliche Weiterentwicklung, die Erweiterung von Fachwissen und die berufliche Weiterentwicklung. Banscherus und Pickert (2013) behandelten das Thema Unterstützungsangebote für neue Zielgruppen der Hochschulen und zeigen unter anderem einige Hürden auf. Die Zielgruppe der Studierenden ohne schulische Studienberechtigung weist einen hohen Bedarf an Informationen und Beratung hinsichtlich Studienanforderungen, Studienfinanzierung, Vereinbarkeit von Studium mit beruflichen und/oder familiären Anforderungen, Zulassungs- und Zugangsbedingungen und Anrechnung von beruflichen Kompetenzen auf. Bei Fernweiterbildungen zeigte sich, dass v. a. telefonische oder E-Mail-Beratungen genutzt wurden (Fogolin 2010). „Fast zwei Drittel der Befra"
+      },
+      {
+        "rank": 2,
+        "id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+        "score": 0.9155851006507874,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+              "range": [
+                0,
+                435
+              ]
+            }
+          ]
+        },
+        "content": "7. Herausforderungen Im Rahmen der Bedarfserhebungen und der ersten Testphase der Angebote zeichneten sich verschieden Herausforderungen und (Weiter-)Entwicklungspotentiale ab. Im Folgenden werden sowohl zielgruppen- als auch hochschulspezifische Herausforderungen näher beleuchtet: Akzeptanz im Hochschulsystem Einem Großteil der Befragten war noch nicht bewusst, dass beruflich Qualifizierte Weiterbildungen an Hochschulen besuchen dürfen. Des Weiteren kann es unter Umständen vorkommen, dass gewisse Vorbehalte gegenüber beruflich Qualifizierten bestehen. Dies kann sich z. B. bezüglich eines möglichen schulischen Nachholbedarfs (z. B. Mathematikkenntnisse) zeigen. In der Entwicklungs- und Erprobungsphase können somit förderliche und hemmende Faktoren seitens der hochschulinternen Beteiligten bzgl. der Bereitschaft zur Beteiligung und Annahme der neuen Zielgruppe auftreten. Beratungs- und Betreuungsangebote Durch die gegebenen Hochschulstrukturen sind eine Vielzahl an Beratungs- und Betreu"
+      },
+      {
+        "rank": 3,
+        "id": "ec943ddd9efa492ad21ed0679068718f22ebef9da0052dd1a71bbece0561da9f",
+        "score": 0.8402966856956482,
+        "meta": {
+          "file_path": "9783839444856_chapter_033.txt",
+          "source_id": "a7ea5ec6f447cab7f33a56f3a3ecfc32b9dc2307fa00965f1ec6847413d1c802",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9565,
+          "_split_overlap": [
+            {
+              "doc_id": "b3c12d47ad7e0f8fa8b43323e5f8edcbfb38bf65d27394222aae6a2686604138",
+              "range": [
+                1060,
+                1446
+              ]
+            },
+            {
+              "doc_id": "f1f56de3453a723e2b0a2ff693add0184fb40bc01515b9f99a95096113bb31eb",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "dass der Bologna-Prozess von den Hochschulen und Studierenden in der Umsetzung kritisiert, aber gleich­ zeitig eine grundlegende Zustimmung gegenüber der Zielsetzung eines ge­ meinsamen europäischen Hochschulraums deutlich wird. Für den Bereich der akademischen Anerkennung ist zudem das »Übereinkommen vom 11. April 1997 über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region (Lissabonner Abkommen)« relevant, welches eines der wichtigsten Vorläufer des Bologna-Prozesses darstellt. Durch das Abkommen soll zwar keine strukturelle Vereinheitlichung der Hochschul­ systeme erreicht werden, jedoch wird ein Rahmen für die Anerkennung von Studienleistungen in Europa geschaffen (vgl. Klomfaß 2011, S. 58ff.). Das Abkommen umfasst den Bereich des Hochschulzugangs und die Bewertung von Hochschulqualifikationen für die berufliche Anerkennung. Für die An­ erkennung von Abschlüssen mit dem Zweck der Hochschulzulassung sind die Hochschulen zuständig. Voraussetzung hierfü"
+      },
+      {
+        "rank": 4,
+        "id": "0988207b483a761ee62c4635a2a783bbdad238528dfe457de7800db7678aaabe",
+        "score": 0.8246080875396729,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 16042,
+          "_split_overlap": [
+            {
+              "doc_id": "5073f5b40a58c3ed3369ac5436dbcdf4594d567995e82fc926a2891990b75dfd",
+              "range": [
+                1260,
+                1678
+              ]
+            },
+            {
+              "doc_id": "ca3944b80250a091a43fdffc9cceaaf49dd3af9cde807681b9505aa515e35595",
+              "range": [
+                0,
+                445
+              ]
+            }
+          ]
+        },
+        "content": "der Akteur_innen in diesen Bewer­ tungsverfahren. Neben den Studien zur Anerkennungspraxis im Ausland erworbener Qualifikationen und den damit verbundenen Schwierigkeiten werden vor dem Hintergrund des sogenannten Fachkräftemangels auch die Integra­ tionsverläufe von höher qualifizierten Zuwanderer_innen zum Forschungs­ gegenstand (vgl. u.a. Nohl et al. 2010). Einen Forschungsschwerpunkt bilden die Hindernisse bei der beruflichen Integration von qualifizierten Migran­ tinnen (vgl. Castro Varela und Clayton 2003; Färber et al. 2008). Besonders interessant sind in diesem Zusammenhang die Erweiterung der Forschungs­ perspektive von der Anerkennung auf den Prozess der »Aberkennung« von Qualifikationen und die daraus resultierenden Handlungsstrategien der Akteurinnen. Sprung (vgl. 2011) führt im Rahmen ihrer Studie zur Weiter­ bildung in der Migrationsgesellschaft Interviews mit Weiterbildungsteil­ nehmer_innen mit Migrationserfahrung durch. Dabei kommt sie zu dem Ergebnis, dass nahezu alle"
+      },
+      {
+        "rank": 5,
+        "id": "aeb5a4b59915d54d3b1a79a91bcb7c38067ba632fc5f562c03c5f7b4fdd0a268",
+        "score": 0.7649122476577759,
+        "meta": {
+          "file_path": "9783839444856_chapter_032.txt",
+          "source_id": "05b2394c73dbee42d0af4540c78ef62bb585d528dbfb23b1aad1cf544dcdb19f",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3628,
+          "_split_overlap": [
+            {
+              "doc_id": "4960ddd461b9d98c9216cafbd5c362f19097b8214df75f430f637e2a2ed36281",
+              "range": [
+                1230,
+                1658
+              ]
+            },
+            {
+              "doc_id": "76cb5237f7f2b41c4d2fc881c888c2136d8bf2175ebe78bfadd15f6f622f602d",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Einwanderungspolitik überhaupt erst geschaffen werden und wie die staatlichen Praktiken die An­ erkennung und Aberkennung von Kompetenzen und Qualifikationen (mit-) bestimmen. Die individuellen Erfahrungen eingewanderter Frauen werden nach Erel (vgl. ebd.) infolge dieser Differenzierung kaum berücksichtigt und stattdessen der Eindruck vermittelt, dass qualifizierte Migrantinnen ande­ re Bedingungen im Aufnahmeland vorfinden als Migrantinnen mit formal niedrigeren Qualifikationen. An dieser Stelle hebt die Autorin hervor, dass qualifizierte Migrantinnen nicht bereits durch ihre Qualifikation vor Diskri­ minierung geschützt sind (vgl. ebd., S. 126f.). Diese Erkenntnisse sind für die vorliegende Arbeit besonders von Bedeutung, da Anerkennungsberatung vor allem von höher qualifizierten Personen in Anspruch genommen wird (vgl. AST 2015). Ausgangspunkt der Beratung ist hier zunächst die im Aus­ land erworbene Qualifikation unabhängig von der rechtlichen Anerkennung. Die damit verbundenen sta"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0837.txt",
+    "question": "Warum müssen bestehende Beratungs- und Betreuungsangebote an Hochschulen angepasst werden, wenn beruflich Qualifizierte einbezogen werden?",
+    "answer": "Eine zeitliche und inhaltliche Anpassung der bestehenden Servicestrukturen ist erforderlich, um die bestehenden Angebote in Bezug auf die neue Zielgruppe (weiter) zu entwickeln. Beruflich Qualifizierte benötigen spezielle Angebote wie besondere Lernberatung und -betreuung, flexible Beratungszeiten, erweiterte Kinderbetreuung usw. Das bestehende System kann diese Angebote für beruflich Qualifizierte nicht abdecken. Daher muss die Anpassung der bestehenden Beratungs- und Betreuungsangebote erfolgen, um die Bedürfnisse der beruflich Qualifizierten zu erfüllen.",
+    "expected": "Bestehende Beratungs- und Betreuungsangebote sind traditionell auf Studierende ausgerichtet und decken die speziellen Bedürfnisse beruflich Qualifizierter, wie besondere Lernberatung, flexible Beratungszeiten oder erweiterte Kinderbetreuung, nicht ausreichend ab. Deshalb müssen diese Angebote zeitlich und inhaltlich angepasst werden, um die neue Zielgruppe angemessen zu unterstützen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+        "score": 0.9800093770027161,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+              "range": [
+                0,
+                435
+              ]
+            }
+          ]
+        },
+        "content": "7. Herausforderungen Im Rahmen der Bedarfserhebungen und der ersten Testphase der Angebote zeichneten sich verschieden Herausforderungen und (Weiter-)Entwicklungspotentiale ab. Im Folgenden werden sowohl zielgruppen- als auch hochschulspezifische Herausforderungen näher beleuchtet: Akzeptanz im Hochschulsystem Einem Großteil der Befragten war noch nicht bewusst, dass beruflich Qualifizierte Weiterbildungen an Hochschulen besuchen dürfen. Des Weiteren kann es unter Umständen vorkommen, dass gewisse Vorbehalte gegenüber beruflich Qualifizierten bestehen. Dies kann sich z. B. bezüglich eines möglichen schulischen Nachholbedarfs (z. B. Mathematikkenntnisse) zeigen. In der Entwicklungs- und Erprobungsphase können somit förderliche und hemmende Faktoren seitens der hochschulinternen Beteiligten bzgl. der Bereitschaft zur Beteiligung und Annahme der neuen Zielgruppe auftreten. Beratungs- und Betreuungsangebote Durch die gegebenen Hochschulstrukturen sind eine Vielzahl an Beratungs- und Betreu"
+      },
+      {
+        "rank": 2,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.958102285861969,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 3,
+        "id": "df39e5e50eee69e231f2584110bea896642f8c8cfa5d8e49e4d224871ca71e51",
+        "score": 0.8880101442337036,
+        "meta": {
+          "file_path": "9783847412304_chapter_0812.txt",
+          "source_id": "0d81fe4b08a9852f630ae25b1e98a86e32f8621c0be59f401a918a13474a7a89",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2. Beratungsbedarfe und Beratungsstrukturen Da Programme der wissenschaftlichen Weiterbildung für öffentliche Hoch- schulen eine weitestgehend neue Angebotssparte darstellen, geraten nicht-tra- ditionell Studieninteressierte als neue Zielgruppe in den Fokus. Insbesondere die mit den Beratungsanliegen konfrontierten Stellen innerhalb der Hoch- schulen sollten daher in den Blick genommen werden. Um eine effiziente Be- ratung5 realisieren zu können, spielen sowohl die Frage nach den gruppenspe- zifischen Beratungsbedarfen (2.1) als auch nach den intraorganisationalen Strukturen (2.2) eine große Rolle. Im Folgenden wird daher eine Darstellung der zentralen Aspekte zu diesen beiden Fragen vorgenommen, um daran an- schließend vertiefende Betrachtungen vorzunehmen."
+      },
+      {
+        "rank": 4,
+        "id": "14b8bc2f2a67167ad5ed3ca9ef1b76fef1e5e672c63d02fca9b0de799587c171",
+        "score": 0.8771154880523682,
+        "meta": {
+          "file_path": "9783847412304_chapter_08263.txt",
+          "source_id": "bb4fb234e2a6d4534f3369ce1a0486b3d4e4f0d8e17192877f674e3112d965a1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Schluss Beratung zu Anrechnungsfragen, die als übergangsrelevant in der wissen- schaftlichen Weiterbildung anzunehmen ist, wird nach eigenen Angaben von einem Großteil der Befragten angeboten. Analysen von Handlungspraktiken zeigen allerdings im Hinblick auf die Öffnung von Hochschulen für beruflich Qualifizierte deutliche qualitative Unterschiede. Zunächst ist insgesamt festzuhalten, dass eine Kongruenz zwischen den Öffnungs- und Schließungstendenzen und der Beratung zu Anrechnungsfragen empirisch beobachtet werden kann. Dort, wo bestehende Grenzen erhalten bleiben sollen, wird Beratung in Bezug auf Student_innen geschildert, die bereits immatrikuliert sind. Sollen Zulassungsmöglichkeiten erweitert werden, wird zudem grenznah über Anrechnungsfragen informiert oder beraten. Die eingangs formulierte Problematik der negativen Beeinflussung von Weiterbildungsberatung durch angebots- bzw. trägereigene Interessen ist angesichts der empirischen Ergebnisse anzunehmen. Als Antwort auf die Frag"
+      },
+      {
+        "rank": 5,
+        "id": "9b45cfb0e83510c3e19597c3fd6bae5ec4d715d772857f96d6657928e57e7521",
+        "score": 0.7162618637084961,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6707,
+          "_split_overlap": [
+            {
+              "doc_id": "a3ba8dbc5826fe3b5742e6687ca5af7dbe2247dc6687b13e002a449391cb4b5e",
+              "range": [
+                1412,
+                1875
+              ]
+            }
+          ]
+        },
+        "content": "Verweisstrukturen, im Wissensmanagement, in der Umsetzung von Professionalisierungsangeboten sowie in der Auswahl ziel- gruppenspezifischer und bedarfsgerechter Beratungstools. Eine Berücksichtigung dieser Aspekte könnte wesentlich zur Sicherung des zielgruppenspezifischen Beratungswissens auf der einen Seite und zur Optimierung der Beratungsstrukturen für nicht-traditionell Studieninteres- sierte auf der anderen Seite und somit zu einer Professionalisierung von öf- fentlichen Hochschulen auf dem Feld der wissenschaftlichen Weiterbildung insgesamt beitragen."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0837.txt",
+    "question": "Wie wirkt sich die Diskrepanz zwischen den bevorzugten Lernformaten der Weiterbildungsinteressierten und den von Hochschulen angebotenen Formaten auf die Digitalisierung aus?",
+    "answer": "Die Diskrepanz zwischen den bevorzugten Lernformaten der Weiterbildungsinteressierten und den von Hochschulen angebotenen Formaten wirkt sich auf die Digitalisierung aus, indem sie ein Ungleichgewicht zwischen klassischen Lernszenarien wie Präsenzveranstaltungen und digitalen Lernkonzepten wie E-Learning und Blended-Learning aufzeigt. Dieses Ungleichgewicht birgt eine Herausforderung für Hochschulen, die individuell je nach Hochschule und Region zu lösen ist, um die Bedürfnisse der Weiterbildungsinteressierten zu erfüllen und die Digitalisierung im Bildungsbereich voranzutreiben.",
+    "expected": "Weiterbildungsinteressierte bevorzugen oft klassische Präsenzveranstaltungen, während Hochschulen verstärkt auf E-Learning- und Blended-Learning-Konzepte setzen. Dieses Ungleichgewicht stellt eine Herausforderung dar, die individuell je nach Hochschule und Region gelöst werden muss, um eine effektive Digitalisierung im Bildungsbereich zu gewährleisten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+        "score": 0.9881796836853027,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1308,
+          "_split_overlap": [
+            {
+              "doc_id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+              "range": [
+                1308,
+                1743
+              ]
+            }
+          ]
+        },
+        "content": "Daher muss eine zeitliche und inhaltliche Anpassung der bestehenden Servicestrukturen vorgenommen werden, um die bestehen- den Angebote in Bezug auf die neue Zielgruppe (weiter) zu entwickeln. Digitalisierung Digitalisierung wird im Bildungsbereich stark diskutiert, daher setzen Hoch- schulen auf E-Learning- und Blended-Learning-Konzepte. Weiterbildungsin- teressierte bevorzugen jedoch oftmals klassische Lernszenarien wie Präsenz- veranstaltungen. Daraus ergibt sich ein Ungleichgewicht, welches individuell je nach Hochschule und Region zu lösen ist. Neue Strukturen Das Hochschulsystem ist für einen Großteil der beruflich Qualifizierten im Gegensatz zum alltäglichen Arbeitsumfeld ein neues Umfeld mit neuen Strukturen. Faktoren wie Selbstorganisation und selbstverantwortliches Ler- nen sind darin unabdingbar. Diese Umstrukturierung und Selbstverantwor- tung birgt eine große Herausforderung. Aus diesem Grund ist es wichtig, Stu- dienkompetenzen von Beginn an zu vermitteln. All diese Aspek"
+      },
+      {
+        "rank": 2,
+        "id": "bc5891d7435a050bead9fe1cd32b46e5ae0a93b3b91029e027298d446520d0e9",
+        "score": 0.9820429682731628,
+        "meta": {
+          "file_path": "9783847412304_chapter_0932.txt",
+          "source_id": "2beda4b03bbe89ba9568e0e5282b4839a739fbd26a7211cf4b63b1a6421f5924",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "266b8c18e33d1a8333ea8e0e9a2f7d9cf6e6d97cc50cb27f006ca2d6da42254f",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "2. Zeit als erziehungswissenschaftlicher ­Forschungs­gegenstand Zeitphänomene werden im Rahmen erziehungswissenschaftlicher Studien in vielfältiger Weise erforscht. Die entsprechenden Kontexte sind so unterschiedlich, dass an dieser Stelle aus Platzgründen keine systematische Aufarbeitung aller erziehungswissenschaftlich relevanten Ansätze erfolgen kann. Stattdessen sollen die nachfolgend thematisierten Bezugspunkte zum Thema Zeit auf die Vielfalt des Diskurses verweisen. Zeit stellt einen zentralen Faktor für transformatorische Bildungsprozesse dar, wobei mit dem Verstreichen von Zeit und der Auseinandersetzung mit Bildungsstoffen Veränderungen des Selbst einhergehen (Zirfas 2011: 14). Verschiebt sich der Fokus von Bildung auf Lernen, so wird temporalen Bezügen ebenfalls eine wichtige Bedeutung beigemessen. Dies betrifft bspw. die Einsicht, dass die Bereitstellung bzw. Verfügbarkeit von Zeit ein wesentliches Merkmal lernförderlicher Umgebungen darstellt (Göhlich & Zirfas 2007: 193). D"
+      },
+      {
+        "rank": 3,
+        "id": "321d2e61c724abd7edde4c58cc13a4acd01287c0dfcaaebc9bf44a863e41eb94",
+        "score": 0.9771692156791687,
+        "meta": {
+          "file_path": "9783847412304_chapter_067.txt",
+          "source_id": "4f23c3d265b0beabd037ca35d79e8b6074cbb83946fe9f423a01e0fc2cd623ed",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1161,
+          "_split_overlap": [
+            {
+              "doc_id": "8ffd2b0af92196ac1ddc5b79d1bb03609b26b34759ce534a5780d7cc2fe1dcd9",
+              "range": [
+                1161,
+                1591
+              ]
+            },
+            {
+              "doc_id": "ec4dd0277111efee10d569161aa79658cbb161f5e9742287aacd8ff549ebd21d",
+              "range": [
+                0,
+                457
+              ]
+            }
+          ]
+        },
+        "content": "das Lehren ergänzende Praktik verstanden wird, die hohe Anforderungen an die Professionalität von Lehrenden stellt, welche insbesondere durch Berufserfahrung und eigenverantwortliche Professionalisierungsprozesse angeeignet wird (vgl. Pätzold 2004; Wrana und Maier Reinhard 2012; Springer und Forneck 2005). Hinsichtlich der Lernenden werden in einer Studie zu Alphabetisierungsprozessen und Lernberatung die Lernbegründungen von Teilnehmenden rekonstruiert, die dann als Anschlussmöglichkeiten zur Ausgestaltung von Lernberatung betrachtet werden (vgl. Ludwig 2012). • Zum anderen gibt es Studien, die sich mit Diskursen und Programmen im Kontext von Lernberatung auseinandersetzen. So zeigt eine programmanalytische Studie, dass der durchaus komplexe Begriff der Lernberatung in Programmen der Erwachsenenbildung kaum Verwendung findet (vgl. Kollewe und Seitter 2009). Schließlich wird Lernberatung in diskursanalytischen Studien (vgl. z. B. Kossack 2006; Wrana 2012) als gouvernementale Subjektivi"
+      },
+      {
+        "rank": 4,
+        "id": "0e6639f8137407bae35eb062205f1fcc94ca1546db41530d1e3da4bf62082320",
+        "score": 0.9475758075714111,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3710,
+          "_split_overlap": [
+            {
+              "doc_id": "cbb4864453b8e2882090a0dd0ed2f1951011922b4deb63f47879175f12b1d0fb",
+              "range": [
+                1357,
+                1782
+              ]
+            },
+            {
+              "doc_id": "ff6c996a6a6f17693733db60ac906b3b89ca5db17823a4262c5e9dd44a83d122",
+              "range": [
+                0,
+                459
+              ]
+            }
+          ]
+        },
+        "content": "wel- che die einzelnen Indikatoren der prozessbezogenen Beratungskompetenz (s. Abbildung 3) weiter konkretisiert. Darauf aufbauend wurden die Instrumente in einer Reihe von Anwenderworkshops erprobt und mit den beteiligten Be- ratenden diskutiert und weiterentwickelt. Ein Selbsteinschätzungsbogen als standardisierter Fragebogen mit vorgegebenen Kompetenz- und Ressourcenindikatoren dient dazu, dass sich die Beratenden auf der Ebene der Selbstwahrnehmung einstufen und sich so individuell mit den eigenen Kompetenzen und kognitiven Ressourcen auseinandersetzen (Schiersmann/Petersen/Weber 2017, S. 49). Den Bezugspunkt dieses Selbsteinschätzungsbogens stellt die bisherige Beratungspraxis dar. Ebenso kann der Bogen auch zur Fremdeinschätzung (z. B. durch andere Beratende oder Vorgesetzte) genutzt werden. Auch können die Selbsteinschätzungen verschiedener Berater (in einer Organisation) miteinander verglichen werden. Die Ausprägung der Kompetenz wird auf einer Skala von 1 bis 4 dokumentiert. E"
+      },
+      {
+        "rank": 5,
+        "id": "0ab0ae7018a863483568ba1ecb81cd141dcbca3fae9f35457b0506969ed7d90e",
+        "score": 0.9259771108627319,
+        "meta": {
+          "file_path": "9783847412304_chapter_0836.txt",
+          "source_id": "3bad86e2170ee60d601dc5529d76ffcfd56b25cb3d50c243ba8cafc3de76f9f1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1297,
+          "_split_overlap": [
+            {
+              "doc_id": "820164d093c0639f774255b48551d14b67f9a485c84cd2e42d1f1bd50d0bcb6d",
+              "range": [
+                1297,
+                1755
+              ]
+            }
+          ]
+        },
+        "content": "formationen die wichtigste Rolle. Deshalb wurde eine Informationsbroschüre mit Informationen zur Hochschule, hilfreichen Anlaufstellen und Angeboten wie Weiterbildung mit Kind sowie allgemeinen Campusinformationen er- stellt. Diese Broschüre wurde den Kursteilnehmenden am ersten Weiterbil- dungstag gegeben. „moving through“ Beratungsthemen wie finanzielle Fördermöglichkeiten, Zeitmanagement so- wie berufliche Perspektiven und Karriereplanung waren stark nachgefragt. Daher wurde v. a. für die Teilnehmenden des „BeVorStudiums“ ein Vortrag zu Finanzierungsthemen in der Weiterbildung sowie im zukünftigen Studium zusammen mit dem Studien- und Career Service der OTH Amberg-Weiden organisiert. „student success“ Um einen erfolgreichen Kursverlauf sowie einen erfolgreichen Übergang ins Studium zu gewährleisten, wurde das Modul „Studienkompetenz“ entwi- ckelt, welches bereits vor Studienbeginn studienrelevante Inhalte wie Lern- strategien usw. vermittelt."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0837.txt",
+    "question": "Welche Herausforderungen bringt das Hochschulsystem für beruflich Qualifizierte im Vergleich zu ihrem alltäglichen Arbeitsumfeld mit sich, und warum ist die Vermittlung von Studienkompetenzen wichtig?",
+    "answer": "Die Herausforderungen, die das Hochschulsystem für beruflich Qualifizierte mit sich bringt, liegen in der Umstrukturierung und Selbstverantwortung, die für das Gelingen der Studienkompetenzen unabdingbar ist. Die Vermittlung von Studienkompetenzen ist wichtig, um den beruflich Qualifizierten zu helfen, sich an die neuen Strukturen und Anforderungen im Hochschulsystem anzupassen und erfolgreich zu studieren. Durch die Vermittlung von Studienkompetenzen können die beruflich Qualifizierten lernen, sich selbst zu organisieren, verantwortungsvoll zu handeln und ihre Lernprozesse effektiv zu steuern. Dies ist besonders wichtig, da die beruflich Qualifizierten oft in einer neuen Umgebung und mit neuen Anforderungen konfrontiert sind, die sie nicht aus ihrem alltäglichen Arbeitsumfeld kennen. Die Vermittlung von Studienkompetenzen kann ihnen helfen, sich schnell anzupassen und erfolgreich zu sein.",
+    "expected": "Das Hochschulsystem stellt für beruflich Qualifizierte ein neues Umfeld mit neuen Strukturen dar, in dem Selbstorganisation und selbstverantwortliches Lernen unabdingbar sind. Diese Umstrukturierung ist eine große Herausforderung. Deshalb ist es wichtig, Studienkompetenzen von Beginn an zu vermitteln, um den Übergang zu erleichtern und den Lernerfolg sicherzustellen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+        "score": 0.9926016926765442,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+              "range": [
+                0,
+                435
+              ]
+            }
+          ]
+        },
+        "content": "7. Herausforderungen Im Rahmen der Bedarfserhebungen und der ersten Testphase der Angebote zeichneten sich verschieden Herausforderungen und (Weiter-)Entwicklungspotentiale ab. Im Folgenden werden sowohl zielgruppen- als auch hochschulspezifische Herausforderungen näher beleuchtet: Akzeptanz im Hochschulsystem Einem Großteil der Befragten war noch nicht bewusst, dass beruflich Qualifizierte Weiterbildungen an Hochschulen besuchen dürfen. Des Weiteren kann es unter Umständen vorkommen, dass gewisse Vorbehalte gegenüber beruflich Qualifizierten bestehen. Dies kann sich z. B. bezüglich eines möglichen schulischen Nachholbedarfs (z. B. Mathematikkenntnisse) zeigen. In der Entwicklungs- und Erprobungsphase können somit förderliche und hemmende Faktoren seitens der hochschulinternen Beteiligten bzgl. der Bereitschaft zur Beteiligung und Annahme der neuen Zielgruppe auftreten. Beratungs- und Betreuungsangebote Durch die gegebenen Hochschulstrukturen sind eine Vielzahl an Beratungs- und Betreu"
+      },
+      {
+        "rank": 2,
+        "id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+        "score": 0.9484812617301941,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1308,
+          "_split_overlap": [
+            {
+              "doc_id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+              "range": [
+                1308,
+                1743
+              ]
+            }
+          ]
+        },
+        "content": "Daher muss eine zeitliche und inhaltliche Anpassung der bestehenden Servicestrukturen vorgenommen werden, um die bestehen- den Angebote in Bezug auf die neue Zielgruppe (weiter) zu entwickeln. Digitalisierung Digitalisierung wird im Bildungsbereich stark diskutiert, daher setzen Hoch- schulen auf E-Learning- und Blended-Learning-Konzepte. Weiterbildungsin- teressierte bevorzugen jedoch oftmals klassische Lernszenarien wie Präsenz- veranstaltungen. Daraus ergibt sich ein Ungleichgewicht, welches individuell je nach Hochschule und Region zu lösen ist. Neue Strukturen Das Hochschulsystem ist für einen Großteil der beruflich Qualifizierten im Gegensatz zum alltäglichen Arbeitsumfeld ein neues Umfeld mit neuen Strukturen. Faktoren wie Selbstorganisation und selbstverantwortliches Ler- nen sind darin unabdingbar. Diese Umstrukturierung und Selbstverantwor- tung birgt eine große Herausforderung. Aus diesem Grund ist es wichtig, Stu- dienkompetenzen von Beginn an zu vermitteln. All diese Aspek"
+      },
+      {
+        "rank": 3,
+        "id": "2c62fc8d0cf582b89d5f4bd4569f7d025df4bc4c334bce0f8f3e66bc33e2c797",
+        "score": 0.9343758821487427,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "### III. Beratung in der wissenschaftlichen Weiterbildung: Strukturen – Praxis –Herausforderungen ### III. Beratung in der wissenschaftlichen Weiter­bildung: Strukturen – Praxis – ­Herausforderungen Nico Sturm / Heike Rundnagel Optimierung von Beratungsstrukturen für ­nicht-traditionell Studieninteressierte in der ­wissenschaftlichen Weiterbildung – am ­Beispiel von Studiengangkoordinierenden auf ­Programm­ebene 1. Einleitung Die wissenschaftliche Weiterbildung hat innerhalb der deutschen Hochschul- landschaft in den vergangenen Jahren einen rasanten Bedeutungszuwachs er- fahren.1 Dazu haben die von Bund und Ländern aufgelegten Förderprogram- me2 einen wesentlichen Beitrag geleistet. Trotz dieser Entwicklungen kann Weiterbildung an deutschen Hochschulen aktuell als organisationskultureller Fremdkörper betrachtet werden (vgl. Seitter/Schemmann/Vossebein 2014: 3). Wesentliche Gründe hierfür sind in den für staatliche Hochschulen wei- testgehend unbekannten Feldern der Nachfrageorientieru"
+      },
+      {
+        "rank": 4,
+        "id": "7ff68026d666c315ab31fed6628dbaba632699da5effd587a0fdcbd41eb9d3ba",
+        "score": 0.9254571199417114,
+        "meta": {
+          "file_path": "9783847412304_chapter_1233.txt",
+          "source_id": "133684ae556f34910b6e398f1c621441695377d4809366c9daa4cb79f91542a9",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c1b7762c8f0b256ad3997faded4cf3ca3e92a4006ae5b52f74a9aa846cfa0a35",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "3. Hochschulberatung: handlungsorientierte Alternativen Das Feld der Hochschulberatung kennzeichnet eine große Heterogenität der Angebote. Diese reichen von Formaten individueller Beratung wie Karrierecoaching, Lern- und Schreibberatung, Studien(-fach-)beratung, psychosozia- ler Beratung, Gruppenangeboten wie Mentoring und Supervision bis hin zu organisationalen Beratungsformen (vgl. Nierobisch & Schüßler 2018). Das Projekt „Lehren, Organisieren, Beraten (LOB): Gelingensbedingungen von Bologna“ wird an der Johannes Gutenberg-Universität Mainz vom Bundes- ministerium für Bildung und Forschung im Rahmen des Qualitätspakts Lehre seit 2012 gefördert. Es besteht aus drei Teilprojekten, die sich der Institutio- nalisierung und Professionalisierung der Studienfachberatung (Teilprojekt 1), dem Ausbau und der Professionalisierung der Studienbüros (Teilprojekt 2) sowie der Förderung der Lehrkompetenz (Teilprojekt 3) widmen. Dazu gehört auch die Schulung der Studien(fach)berater/innen und aller i"
+      },
+      {
+        "rank": 5,
+        "id": "ec943ddd9efa492ad21ed0679068718f22ebef9da0052dd1a71bbece0561da9f",
+        "score": 0.9081132411956787,
+        "meta": {
+          "file_path": "9783839444856_chapter_033.txt",
+          "source_id": "a7ea5ec6f447cab7f33a56f3a3ecfc32b9dc2307fa00965f1ec6847413d1c802",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9565,
+          "_split_overlap": [
+            {
+              "doc_id": "b3c12d47ad7e0f8fa8b43323e5f8edcbfb38bf65d27394222aae6a2686604138",
+              "range": [
+                1060,
+                1446
+              ]
+            },
+            {
+              "doc_id": "f1f56de3453a723e2b0a2ff693add0184fb40bc01515b9f99a95096113bb31eb",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "dass der Bologna-Prozess von den Hochschulen und Studierenden in der Umsetzung kritisiert, aber gleich­ zeitig eine grundlegende Zustimmung gegenüber der Zielsetzung eines ge­ meinsamen europäischen Hochschulraums deutlich wird. Für den Bereich der akademischen Anerkennung ist zudem das »Übereinkommen vom 11. April 1997 über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region (Lissabonner Abkommen)« relevant, welches eines der wichtigsten Vorläufer des Bologna-Prozesses darstellt. Durch das Abkommen soll zwar keine strukturelle Vereinheitlichung der Hochschul­ systeme erreicht werden, jedoch wird ein Rahmen für die Anerkennung von Studienleistungen in Europa geschaffen (vgl. Klomfaß 2011, S. 58ff.). Das Abkommen umfasst den Bereich des Hochschulzugangs und die Bewertung von Hochschulqualifikationen für die berufliche Anerkennung. Für die An­ erkennung von Abschlüssen mit dem Zweck der Hochschulzulassung sind die Hochschulen zuständig. Voraussetzung hierfü"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0837.txt",
+    "question": "Welche offenen Fragen und Herausforderungen bleiben laut Text im Zusammenhang mit der Implementierung neuer Strukturen für beruflich Qualifizierte an Hochschulen bestehen?",
+    "answer": "Die offenen Fragen und Herausforderungen im Zusammenhang mit der Implementierung neuer Strukturen für beruflich Qualifizierte an Hochschulen sind laut Text die Umsetzung und Schaffung neuer Strukturen, die Nachhaltigkeit der geschaffenen Strukturen sowie die Implementierung und Verankerung in Regelstrukturen des Hochschulsystems. Es bleibt auch offen, wie diese Herausforderungen gelöst werden können. Zusätzlich sind Fragen zur Umstrukturierung und Selbstverantwortung der Studierenden, zur Vermittlung von Studienkompetenzen und zur Schaffung einer Infrastruktur, die zu einem erfolgreichen Studienzugang, Studienverlauf und Studienabschluss beiträgt, offen. \n        Es gibt auch offene Fragen zu den Anpassungen der bestehenden Servicestrukturen an die Bedürfnisse der beruflich Qualifizierten, wie z.B. flexible Beratungszeiten und erweiterte Kinderbetreuung. Darüber hinaus ist die Umsetzung von E-Learning- und Blended-Learning-Konzepten und die Akzeptanz von digitalen Lernformen bei den Studierenden ein offenes Thema. \n        Es ist auch wichtig zu beachten, dass die Implementierung neuer Strukturen von verschiedenen Faktoren wie Selbstorganisation und selbstverantwortliches Lernen abhängt. \n        Insgesamt bleibt laut Text noch viel zu tun, um die Bedürfnisse der beruflich Qualifizierten an Hochschulen zu erfüllen und die bestehenden Strukturen an die neue Zielgruppe anzupassen. \n        I cannot find the answer in the provided context.",
+    "expected": "Offen bleiben Fragen zur Umsetzung und Schaffung neuer Strukturen, zur Nachhaltigkeit der geschaffenen Strukturen sowie zur Implementierung und Verankerung dieser Strukturen in die Regelstrukturen des Hochschulsystems. Diese Aspekte benötigen weitere Klärung, um beruflich Qualifizierte erfolgreich in das Hochschulsystem zu integrieren.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ebfd699dc7eb5177858478a7f09a874b390d9813336c76e9f6f890202a3b192c",
+        "score": 0.9653815031051636,
+        "meta": {
+          "file_path": "9783847412304_chapter_0831.txt",
+          "source_id": "739e375548e39fad5502498d649394b9ef960bfaf552e979c5c9e43cc1f15b07",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Katharina Koller Beratung, Betreuung, wissenschaftliche ­Weiter­bildung: Herausforderung angenommen!? 1. Einleitung Im Zuge der Öffnung der Hochschulen (KMK 2009) nimmt das Hochschul- system neue Zielgruppen ins Blickfeld. Diese neuen Zielgruppen bringen aufgrund ihrer Bildungsbiografie heterogene Bedarfe mit. Bestehende Struk- turen, v. a. hinsichtlich der Beratung und Betreuung von heterogenen Studie- rendengruppen müssen somit weiterentwickelt werden. Offen bleibt, wie sich bestehende Angebote und Strukturen ändern können. Im Rahmen des Verbundprojekts OTH mind – modulares innovatives Netzwerk für Durchlässigkeit der OTH Amberg-Weiden und Regensburg wird ein über die Region angelegtes Maßnahmenkonzept für lebenslanges Lernen entwickelt. Dabei steht die Bedarfserhebung der Zielgruppen an erster Stelle, wobei spezifische Beratungs- und Betreuungsstrukturen, Gender Mainstrea- ming und Diversity Management zentrale Themen sind. Die Bildungsange- bote adressieren vor allem beruflich Qual"
+      },
+      {
+        "rank": 2,
+        "id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+        "score": 0.9567056894302368,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+              "range": [
+                0,
+                435
+              ]
+            }
+          ]
+        },
+        "content": "7. Herausforderungen Im Rahmen der Bedarfserhebungen und der ersten Testphase der Angebote zeichneten sich verschieden Herausforderungen und (Weiter-)Entwicklungspotentiale ab. Im Folgenden werden sowohl zielgruppen- als auch hochschulspezifische Herausforderungen näher beleuchtet: Akzeptanz im Hochschulsystem Einem Großteil der Befragten war noch nicht bewusst, dass beruflich Qualifizierte Weiterbildungen an Hochschulen besuchen dürfen. Des Weiteren kann es unter Umständen vorkommen, dass gewisse Vorbehalte gegenüber beruflich Qualifizierten bestehen. Dies kann sich z. B. bezüglich eines möglichen schulischen Nachholbedarfs (z. B. Mathematikkenntnisse) zeigen. In der Entwicklungs- und Erprobungsphase können somit förderliche und hemmende Faktoren seitens der hochschulinternen Beteiligten bzgl. der Bereitschaft zur Beteiligung und Annahme der neuen Zielgruppe auftreten. Beratungs- und Betreuungsangebote Durch die gegebenen Hochschulstrukturen sind eine Vielzahl an Beratungs- und Betreu"
+      },
+      {
+        "rank": 3,
+        "id": "2a4ae697cca9ee94a787f978aee8a113938126f20cf199b5e6f039fbbadb3557",
+        "score": 0.7732294797897339,
+        "meta": {
+          "file_path": "9783847412304_chapter_0837.txt",
+          "source_id": "96cdee2b6d32222e2a43006eb644c12c293d2f5bb5382aba16cce1954cf09bad",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1308,
+          "_split_overlap": [
+            {
+              "doc_id": "9dfc86a660d9b071875bf25a30fd907234cfc78e115990ab56453d1c58973bd5",
+              "range": [
+                1308,
+                1743
+              ]
+            }
+          ]
+        },
+        "content": "Daher muss eine zeitliche und inhaltliche Anpassung der bestehenden Servicestrukturen vorgenommen werden, um die bestehen- den Angebote in Bezug auf die neue Zielgruppe (weiter) zu entwickeln. Digitalisierung Digitalisierung wird im Bildungsbereich stark diskutiert, daher setzen Hoch- schulen auf E-Learning- und Blended-Learning-Konzepte. Weiterbildungsin- teressierte bevorzugen jedoch oftmals klassische Lernszenarien wie Präsenz- veranstaltungen. Daraus ergibt sich ein Ungleichgewicht, welches individuell je nach Hochschule und Region zu lösen ist. Neue Strukturen Das Hochschulsystem ist für einen Großteil der beruflich Qualifizierten im Gegensatz zum alltäglichen Arbeitsumfeld ein neues Umfeld mit neuen Strukturen. Faktoren wie Selbstorganisation und selbstverantwortliches Ler- nen sind darin unabdingbar. Diese Umstrukturierung und Selbstverantwor- tung birgt eine große Herausforderung. Aus diesem Grund ist es wichtig, Stu- dienkompetenzen von Beginn an zu vermitteln. All diese Aspek"
+      },
+      {
+        "rank": 4,
+        "id": "df39e5e50eee69e231f2584110bea896642f8c8cfa5d8e49e4d224871ca71e51",
+        "score": 0.7353405356407166,
+        "meta": {
+          "file_path": "9783847412304_chapter_0812.txt",
+          "source_id": "0d81fe4b08a9852f630ae25b1e98a86e32f8621c0be59f401a918a13474a7a89",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2. Beratungsbedarfe und Beratungsstrukturen Da Programme der wissenschaftlichen Weiterbildung für öffentliche Hoch- schulen eine weitestgehend neue Angebotssparte darstellen, geraten nicht-tra- ditionell Studieninteressierte als neue Zielgruppe in den Fokus. Insbesondere die mit den Beratungsanliegen konfrontierten Stellen innerhalb der Hoch- schulen sollten daher in den Blick genommen werden. Um eine effiziente Be- ratung5 realisieren zu können, spielen sowohl die Frage nach den gruppenspe- zifischen Beratungsbedarfen (2.1) als auch nach den intraorganisationalen Strukturen (2.2) eine große Rolle. Im Folgenden wird daher eine Darstellung der zentralen Aspekte zu diesen beiden Fragen vorgenommen, um daran an- schließend vertiefende Betrachtungen vorzunehmen."
+      },
+      {
+        "rank": 5,
+        "id": "2c62fc8d0cf582b89d5f4bd4569f7d025df4bc4c334bce0f8f3e66bc33e2c797",
+        "score": 0.6557523012161255,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        "content": "### III. Beratung in der wissenschaftlichen Weiterbildung: Strukturen – Praxis –Herausforderungen ### III. Beratung in der wissenschaftlichen Weiter­bildung: Strukturen – Praxis – ­Herausforderungen Nico Sturm / Heike Rundnagel Optimierung von Beratungsstrukturen für ­nicht-traditionell Studieninteressierte in der ­wissenschaftlichen Weiterbildung – am ­Beispiel von Studiengangkoordinierenden auf ­Programm­ebene 1. Einleitung Die wissenschaftliche Weiterbildung hat innerhalb der deutschen Hochschul- landschaft in den vergangenen Jahren einen rasanten Bedeutungszuwachs er- fahren.1 Dazu haben die von Bund und Ländern aufgelegten Förderprogram- me2 einen wesentlichen Beitrag geleistet. Trotz dieser Entwicklungen kann Weiterbildung an deutschen Hochschulen aktuell als organisationskultureller Fremdkörper betrachtet werden (vgl. Seitter/Schemmann/Vossebein 2014: 3). Wesentliche Gründe hierfür sind in den für staatliche Hochschulen wei- testgehend unbekannten Feldern der Nachfrageorientieru"
+      }
+    ]
+  }
+]

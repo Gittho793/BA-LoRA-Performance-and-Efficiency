@@ -1,0 +1,682 @@
+[
+  {
+    "filename": "1001586_chapter_061.txt",
+    "question": "Wie werden in der Beratung die Begriffe 'Methoden' und 'Techniken' unterschieden?",
+    "answer": "Die Begriffe 'Methoden' und 'Techniken' werden in der Beratung unterschieden, indem Methoden als schier unerschöpfliche Formen nicht verletzender zwischenmenschlicher Kommunikation und Interaktion bezeichnet werden, während Techniken die Grundbausteine der Beratung sind, die sich immer wieder neu kombinieren lassen. Methoden können aus verschiedenen Techniken bestehen, und Techniken können in verschiedenen Methoden verwendet werden. Beispielsweise können Gesprächs- und Visualisierungstechniken kombiniert werden, um die Stolperstein-Methode zu erstellen. Die Technik besteht aus einzelnen Interventionen, die sich in der Beratung realisieren. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll, und sollte aufgrund der Anforderungen im jeweiligen Feld der Beratung einschätzt werden. Die Begriffe 'Methoden' und 'Techniken' sind nicht willkürlich zu gebrauchen und sollten aufgrund der spezifischen Ziele und Inhalte der Beratungsgespräche ausgewählt werden. \n        In der Beratung werden die Begriffe 'Methoden' und 'Techniken' unterschieden, indem Methoden als schier unerschöpfliche Formen nicht verletzender zwischenmenschlicher Kommunikation und Interaktion bezeichnet werden, während Techniken die Grundbausteine der Beratung sind, die sich immer wieder neu kombinieren lassen. \n        Methoden sind schier unerschöpflich, während Techniken die Grundbausteine der Beratung sind. \n        Methoden können aus verschiedenen Techniken bestehen, und Techniken können in verschiedenen Methoden verwendet werden. \n        Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. \n        Die Begriffe 'Methoden' und 'Techniken' sind nicht willkürlich zu gebrauchen und sollten aufgrund der spezifischen Ziele und Inhalte der Beratungsgespräche ausgewählt werden. \n        Die Begriffe 'Methoden' und 'Techniken' werden in der Beratung unterschieden, indem Methoden als schier unerschöpfliche Formen nicht verletz",
+    "expected": "Methoden der Beratung umfassen alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion und stellen einen übergeordneten Rahmen dar, während Techniken die Grundbausteine der Beratung sind, die sich immer wieder neu kombinieren lassen und aus einzelnen Interventionen bestehen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "db3a1d93cd9e3a2eeb371c3620a19d058de4118170cf4988c9bf00afc8d6b19f",
+        "score": 0.9993246793746948,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3 Erfahrungsraum Beratung: Handlungsorientierung ### Handlungsorientierung 3.1 \u0007Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter­ schiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech­ niken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie in diesem Band verwenden – einen eigenen Beitrag. „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön­ nen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen. Bezogen auf die „Stolperstein-Methode“ (s. S. 123) werden z. B. Gesprächs- und Visualisierungstechni"
+      },
+      {
+        "rank": 2,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.9977376461029053,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 3,
+        "id": "37698511b461ab37f28f493701493a4d4ef1758df6128f9aeee348eba138f4ba",
+        "score": 0.9974713325500488,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9514,
+          "_split_overlap": [
+            {
+              "doc_id": "a4ff4d15d526ba0d31224af63479f1814fc6e721b457a0043f69f2a6b2d5ed6f",
+              "range": [
+                1198,
+                1629
+              ]
+            }
+          ]
+        },
+        "content": "die Systemische Gesprächsführung (Lisa Müller-Arnold) und die Lösungs- und Ressourcenori­ entierte Gesprächsführung (Anne Schlüter) vorgestellt. Schließlich sollen im fünften Kapitel des Buches ausgewählte Methoden und Techniken dargestellt werden, die von Studierenden des Master-Studien­ gangs Erwachsenenbildung an der Universität Duisburg-Essen ausprobiert wurden. Für die Auswahl standen praktische Fragen im Vordergrund wie: Was bringt Visualisierung? Sind Techniken zur Methode der Ressourcenak­ tivierung nachvollziehbar darstellbar? Welche Techniken zur Entscheidungs­ vorbereitung sind zum Üben relevant? Wohin führen kreative Techniken? Wie können Anregungen zur Reflexion gegeben werden? Alles in allem ist bei je­ dem Vorgehen die Rolle, Funktion und Begleitung durch die Beratenden ein Thema. Karin Kress führt in das Kapitel gesondert ein, um die Erfahrungen aus dem Seminar zu „Methoden und Techniken in der Beratung“ nachvollzieh­ bar zu machen. Aufgrund ihrer Erfahrungen, die Karin"
+      },
+      {
+        "rank": 4,
+        "id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+        "score": 0.9973601698875427,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3515,
+          "_split_overlap": [
+            {
+              "doc_id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+              "range": [
+                1177,
+                1579
+              ]
+            },
+            {
+              "doc_id": "8e4cf230d6973ce0f8d05c10c3fcbe0fb142b80a563a3ffff60c9b30f757f0d6",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Beratungspraxis zum Vorschein kommen.\nWährend Methoden in sich unterschiedliche zusammenhängende Techni­ ken enthalten können und damit systematisch in einem inhaltlichen Kontext stehen, sind manche Techniken ganz unabhängig von der Zuordnung zu einer Methode vorstellbar. Die Paraphrase ist als Technik in verschiedenen inhalt­ lichen Methoden anwendbar. Das heißt Techniken sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie­ hen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge­ klärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar­ beiten ermöglichen. Daher wird zunächst der Stellenwert von Methoden und "
+      },
+      {
+        "rank": 5,
+        "id": "02f0f81f22de26eb4e27d51f4f6317be323f530e06290963498c6b130d322029",
+        "score": 0.9972359538078308,
+        "meta": {
+          "file_path": "1001586_chapter_084.txt",
+          "source_id": "5134f1b377f44191938ba67612ea64aa34ed406e509d4f76c59028805d32c746",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7820,
+          "_split_overlap": [
+            {
+              "doc_id": "a1d22e3ae62562eeafc7b06fc99e3000fbca796c6b306e7fe71872034f2e35a4",
+              "range": [
+                1062,
+                1420
+              ]
+            },
+            {
+              "doc_id": "c071bfbffa41eb09f8efd369210ede28a50719e09e8cca244e0816fd36b030bc",
+              "range": [
+                0,
+                335
+              ]
+            }
+          ]
+        },
+        "content": "aufgefüllt werden können, um Energien zu sammeln, damit der oder die Ratsuchende eine Umschulung gut bewältigen kann. Auf dem Fußballfeld kann sich der oder die Ratsuchende mit einer Feldposition identifizieren. Ist er Den Beratungsraum zur Visualisierung einbeziehen In unserer Methodensammlung stellen wir eine Variante der Bodenanker­ übung (S. 127) vor. Mit Bodenankern zu arbeiten, ist nach unserem Verständ­ nis erst einmal eine Technik, die in Methoden unterschiedlich ausgestaltet werden kann. In der Grundstruktur nutze ich eine freie Fläche, um darauf verschiede­ ne Positionen, Wege oder auch Perspektiven auf ein Problem oder Entschei­ dungsmöglichkeiten zu versinnbildlichen. In der Regel werden diese als beschriftete Karten im Raum ausgelegt. Abstände und Positionen der Karten zueinander können gemeinsam mit dem oder der Ratsuchenden verändert werden (ähnlich wie bei der Arbeit mit Stichwortkarten s.o.). Anschließend bewegt sich der oder die Ratsuchende von einer Stelle im Raum zu"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_061.txt",
+    "question": "Was versteht man unter 'Interventionen' im Beratungskontext und welche Arten von Interventionen gibt es?",
+    "answer": "Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Sie können verbale oder nonverbale sein. Es gibt verschiedene Arten von Interventionen, wie zum Beispiel die Unterbrechung des Gedankenflusses des Ratsuchenden, die Irritation der inneren Logik durch das Beratungshandeln oder die Empfehlung einzelner oder mehrerer Interventionen, die eine Technik bilden. Zudem können Interventionen auch in Form von Übungen, Erfahrungen oder Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unternehmen erfolgen. Die Interventionen können auch in der Form von „dazwischengehen“ oder „unterbrechen“ verstanden werden, was bedeutet, dass der Berater oder die Beraterin in das Gespräch eintritt, um die Situation zu ändern oder den Ratsuchenden zu unterstützen. Insgesamt umfassen Interventionen eine Vielzahl von Handlungen, die darauf abzielen, den Ratsuchenden zu unterstützen, zu ändern oder zu helfen.",
+    "expected": "Interventionen sind die kleinsten Handlungseinheiten in der Beratung, die immer eine Art Unterbrechung oder Dazwischengehen im Gedanken- oder Erzählfluss des Ratsuchenden darstellen. Es gibt verbale und nonverbale Interventionen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "236ea72440add4ceac68f0ac06f8892105d38229af0ed48029aa36f36244e507",
+        "score": 0.9877045154571533,
+        "meta": {
+          "file_path": "9783847412304_chapter_1042.txt",
+          "source_id": "ad5050796989f7a2c7f2eb3f1e111897805bdf7de85748cab6aff51826b24922",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3e9a644f5d21c99740262864c9a46ba344f28ccaaaa5abf91b1ab77387774196",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung und Intervention im Hochschulkontext Laut Schubert (2015) bemüht sich die Beratung derzeit um Professionalisie- rung hinsichtlich eines gemeinsamen Ausbildungs- und Beratungsverständ- nisses sowie der Qualitätssicherung unter Einbindung von Wissenschaft. „Beratung ist […] als professionelles Angebot zu ko-konstruktiven, reflexiven Hilfestellungen in der Bewältigung krisenhafter moderner Lebens- und Ar- beitsbedingungen“ (ebd.: 41) zu verstehen. Der Beratung kommt daher ein besonderer Stellenwert im Rahmen der Erwachsenenbildung an Hochschulen zu. Verschiedene Präventions- und Interventionsmaßnahmen werden derzeit mit dem Ziel, Studierende über die Beratung hinaus bei ihrem Studium zu un- terstützen und Abbrüche zu vermeiden, an deutschen Universitäten erprobt, eingerichtet oder evaluiert (Ahles et al. 2016; Blüthmann et al. 2008; Kolb et al. 2006; Pelz/Schulze-Stocker 2018). Zu diesen Maßnahmen, die zum Teil auch als zeitlich begrenzte Projek- te angeboten werden, zählen au"
+      },
+      {
+        "rank": 2,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.9690663814544678,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 3,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.9289166927337646,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      },
+      {
+        "rank": 4,
+        "id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+        "score": 0.8336837887763977,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1209,
+          "_split_overlap": [
+            {
+              "doc_id": "db3a1d93cd9e3a2eeb371c3620a19d058de4118170cf4988c9bf00afc8d6b19f",
+              "range": [
+                1209,
+                1573
+              ]
+            },
+            {
+              "doc_id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "nicht umgesetzt hat. Diese werden an der Pinnwand in Form einer symbolischen Mauer befestigt. Danach werden die einzelnen Steine der Mauer nach und nach abgebaut. Einzelne Techniken kön­ nen innerhalb einer Methode also auch wiederkehrend verwendet werden. Techniken und Interventionen Techniken wiederum bestehen aus einzelnen Interventionen. Es gibt verbale und nonverbale Interventionen. Der Begriff ist nicht zufällig gewählt. In der Alltagssprache benutzen wir den Begriff „intervenieren“, wenn jemand z.B. ein Veto einlegt oder protestiert bzw. eine Handlung von anderen unterbricht. Wörtlich heißt intervenieren „dazwischengehen“. Es handelt sich also immer um eine Art „Unterbrechung“ (s. 3.1 Beziehung). Man kann sich dies im Be­ ratungsgespräch bildlich vorstellen. Der oder die Ratsuchende ist in einem eigenen Erzähl- oder Gedankenfluss, in einer eigenen Sicht auf die Situation und seine bzw. ihre Erlebnisse. Mit meinem Beratungshandeln trete ich quasi zwischen diese innere Logik, in d"
+      },
+      {
+        "rank": 5,
+        "id": "af21212a12118ea256d52707ca6c19ac319acf1100d0e3d9a49fa4c68dc617c6",
+        "score": 0.8275787234306335,
+        "meta": {
+          "file_path": "9783847412304_chapter_069.txt",
+          "source_id": "50634dfb3a578b548ee10a5f59757f3b7df3b36e420007c95fb69f6cdba6e2c5",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2409,
+          "_split_overlap": [
+            {
+              "doc_id": "a5a6be9ac0f394c578e8819391331b12eabe3e9db6fbc482c08fe14e7dbe7ed8",
+              "range": [
+                1173,
+                1568
+              ]
+            }
+          ]
+        },
+        "content": "Lernbiografie“ (ebd.) betrachtet, die dies in der Beratung klar explizieren, reflektieren und aktiv nach Optimierungen suchen. • Zeitlich wird das Beratungsgespräch als „aus dem Seminar ausgegliederte Intervention“ (ebd. S. 148) verstanden und individualisiert nach den Bedarfen der Teilnehmenden realisiert. Wie die zeitliche Kopplung an die strukturierte Seminarsituation genau erfolgen soll, bleibt konzeptionell unklar. Es handelt sich damit um ein exkludierendes, unbestimmtes Zeitkonzept"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_061.txt",
+    "question": "Beschreiben Sie anhand der 'Stolperstein-Methode' wie Techniken in einer Methode kombiniert werden können.",
+    "answer": "Bei der 'Stolperstein-Methode' werden mehrere Techniken kombiniert, um den Beratungsprozess zu unterstützen. Die Methode umfasst die Identifizierung von Stolpersteinen, die das Gelingen einer bestimmten Aufgabe oder eines Ziels behindern. Dazu werden in der ersten Phase des Beratungsgesprächs Gesprächstechniken eingesetzt, um mit dem Ratsuchenden gemeinsam die Stolpersteine zu identifizieren. In der zweiten Phase werden dann die identifizierten Stolpersteine in einem gemeinsamen Prozess analysiert und Lösungen entwickelt, um sie zu überwinden. Dieses Vorgehen zeigt, wie Techniken wie z.B. Gesprächsführung, Problemlösung und Zielsetzung kombiniert werden können, um eine effektive Beratung zu unterstützen. Die Kombination dieser Techniken ermöglicht es dem Berater oder der Beraterin, das individuelle Anliegen des Ratsuchenden zu verstehen und mit ihm gemeinsam einen geeigneten Lösungsweg zu finden. Die 'Stolperstein-Methode' verdeutlicht also, wie Techniken in einer Methode kombiniert werden können, um den Beratungsprozess zu unterstützen. Die Kombination von Techniken ermöglicht es, das Anliegen des Ratsuchenden zu verstehen und gemeinsam Lösungen zu finden, die die Stolpersteine überwinden. Die 'Stolperstein-Methode' zeigt, wie Techniken wie z.B. Gesprächsführung, Problemlösung und Zielsetzung kombiniert werden können, um eine effektive Beratung zu unterstützen. Die Kombination dieser Techniken ermöglicht es dem Berater oder der Beraterin, das individuelle Anliegen des Ratsuchenden zu verstehen und mit ihm gemeinsam einen geeigneten Lösungsweg zu finden. Die 'Stolperstein-Methode' verdeutlicht also, wie Techniken in einer Methode kombiniert werden können, um den Beratungsprozess zu unterstützen. Die Kombination von Techniken ermöglicht es, das Anliegen des Ratsuchenden zu verstehen und gemeinsam Lösungen zu finden, die die Stolpersteine überwinden.",
+    "expected": "Bei der Stolperstein-Methode werden Gesprächs- und Visualisierungstechniken kombiniert: Zuerst werden mithilfe von Gesprächsführungstechniken Hindernisse auf Moderationskarten notiert, die das Erreichen eines Ziels bisher verhinderten. Diese Karten werden symbolisch als Mauer an einer Pinnwand befestigt. Anschließend werden die einzelnen Steine (Hindernisse) nach und nach abgebaut, wodurch die Methode durch die Kombination mehrerer Techniken realisiert wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+        "score": 0.9945240020751953,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2389,
+          "_split_overlap": [
+            {
+              "doc_id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+              "range": [
+                1162,
+                1563
+              ]
+            }
+          ]
+        },
+        "content": "von uns für diesen Band ausgewählten Methoden haben vor allem exemplarischen Charakter. Sie erheben keinen Anspruch auf Ausschließlich­ keit, weder dass sie ausschließlich in der Bildungsberatung eingesetzt werden könnten, noch, dass ausschließlich diese Methoden für den Einsatz geeignet wären. Vielmehr sollen sie dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie in der Bildungsberatung mit Me­ thoden gearbeitet werden kann. Dazu gehören auch Methoden, die Grenzen markieren, wie z.B. der Einsatz des Antreiber-Tests (S. 178) in der Bildungs­ beratung. Die Methoden stammen aus den beiden unterschiedlichen Kontexten, die in der Bildungsberatung aufeinandertreffen: Es handelt sich um abgewandel­ te Verfahren, die aus der Seminargestaltung der Erwachsenenbildung (z.B. Klotzen S. 156, Bildungszeitreise S. 145, Lebensbaum S. 151) oder aus dem Coaching stammen (z.B. Tetralemma S. 132, Inneres Team S. 140, Netzwerk­ methode S. 162). Bei der Beschreibung de"
+      },
+      {
+        "rank": 2,
+        "id": "102eb7373285f252c81394552b96ac422e454934be3971331eb474cf7b68096b",
+        "score": 0.9940599799156189,
+        "meta": {
+          "file_path": "1001586_chapter_056.txt",
+          "source_id": "1889031b9463ae6e35515cf8e6b11b8e536049e2f54adfbb3a9c7514e06eb270",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.6 Methoden und Methodenkompetenz Karin Kress Methodenbeschreibungen haben den Vorteil, dass sie konkret auf die Praxis vorbereiten. Sie ermöglichen eine Vorstellung davon, wie Beratungsprozes­ se tatsächlich ablaufen können. Es ist aber wichtig, die Beschreibungen von Methoden nicht mit der Durchführung der Methoden selbst zu verwechseln. Methodenkompetenz in der Beratung umfasst die Kenntnis unterschied­ licher Techniken, die Fähigkeit diese gezielt für den Beratungsprozess aus­ zuwählen und so zu Schrittfolgen zu kombinieren, dass sie den individuellen Erkenntnisprozess der Ratsuchenden unterstützen. Es gehört zur Verantwortung der Beraterinnen und Berater, Methoden­ abläufe zu geeigneten Zeitpunkten zu initiieren, abzuwandeln, zu verlassen, gegebenenfalls abzubrechen und in den zeitlichen Verlauf der Beratung zu integrieren. Eine Methode läuft daher selten zweimal in gleicher Weise ab. Eine Me­ thode entfaltet sich immer erst aus der tatsächlichen Interaktion zwischen Be­ ratenden"
+      },
+      {
+        "rank": 3,
+        "id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+        "score": 0.9924256801605225,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3515,
+          "_split_overlap": [
+            {
+              "doc_id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+              "range": [
+                1177,
+                1579
+              ]
+            },
+            {
+              "doc_id": "8e4cf230d6973ce0f8d05c10c3fcbe0fb142b80a563a3ffff60c9b30f757f0d6",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Beratungspraxis zum Vorschein kommen.\nWährend Methoden in sich unterschiedliche zusammenhängende Techni­ ken enthalten können und damit systematisch in einem inhaltlichen Kontext stehen, sind manche Techniken ganz unabhängig von der Zuordnung zu einer Methode vorstellbar. Die Paraphrase ist als Technik in verschiedenen inhalt­ lichen Methoden anwendbar. Das heißt Techniken sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie­ hen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge­ klärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar­ beiten ermöglichen. Daher wird zunächst der Stellenwert von Methoden und "
+      },
+      {
+        "rank": 4,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.9891707301139832,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 5,
+        "id": "7cbdf65217f7b72a89443b6f35ac4e8e2d3f2436b2e7036c72a7d61e82dd83c3",
+        "score": 0.9849650859832764,
+        "meta": {
+          "file_path": "1001856_chapter_0851.txt",
+          "source_id": "d76eeb9ea2c02d8a8cb421c1dbbc31591f79762e4ef3bb2a82d26260c321f9ba",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2213,
+          "_split_overlap": [
+            {
+              "doc_id": "50f28ffb04c733fc881af2b7edbaaf579ea5c796615b1d991c3b5c8ff0169b7a",
+              "range": [
+                1057,
+                1452
+              ]
+            },
+            {
+              "doc_id": "47990933e54dd3dc0ec6ef94a8b997b6dc5791a1d641e19634b0d1e0bca82af0",
+              "range": [
+                0,
+                258
+              ]
+            }
+          ]
+        },
+        "content": "anwenden. In solchen Fällen werden nicht die individuellen Stolpersteine betrachtet, sondern sol­ che, die die erfolgreiche Teamarbeit behindern. Phase im Beratungsgespräch: Die Stolperstein-Methode sollte allerdings eher in der zweiten Phase der Beratung, d.h. gegebenenfalls in der zweiten Be­ ratungssitzung angewendet werden, wenn bereits eine Zielformulierung mit dem oder der Ratsuchenden stattgefunden hat. Die Methode eignet sich nicht, wenn Ratsuchende noch zwischen verschie­ denen Handlungsmöglichkeiten abwägen oder wenn nur eine Beratungssitzung erfol­ gen kann. In diesem Fall reicht die Zeit für eine erfolgreiche Methodendurchführung möglicherweise nicht. Ratsuchender [R]: Ja, mein Anliegen ist, dass ich nicht vorankomme mit meiner Mas­ terarbeit. Ich finde einfach nicht die passende Zeit dafür, und das zieht sich jetzt schon eine Weile. Ich habe die Idee schon fertig und weiß eigentlich, worüber ich schreiben will. Aber es gibt so viele andere Dinge, die ich erledigen muss. Un"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_061.txt",
+    "question": "Analysieren Sie die Funktion von Interventionen im Beratungsgespräch und erläutern Sie, warum sie als 'Unterbrechung' verstanden werden.",
+    "answer": "Die Interventionen im Beratungsgespräch werden als 'Unterbrechung' verstanden, weil sie die normale Kommunikationsdynamik unterbrechen und die Teilnehmenden ermutigen, über ihre Situation nachzudenken und neue Perspektiven zu entwickeln. Durch die Interventionen wird der Fokus auf die aktuelle Situation gelenkt und die Teilnehmenden werden dazu ermutigt, ihre Gedanken, Gefühle und Bedürfnisse zu artikulieren. Dies kann zu einer Veränderung der Perspektive und einem neuen Verständnis der Situation führen. Die Interventionen können auch als 'Pausen' im Gespräch verstanden werden, die es den Teilnehmenden ermöglichen, sich zu sammeln und ihre Gedanken zu ordnen, bevor sie weiterdiskutieren. Durch diese Unterbrechungen kann die Kommunikation auf ein tieferes und reflektierteres Niveau gebracht werden. \n         Im Kontext der Beratung ist die Funktion von Interventionen also, die Teilnehmenden zu ermutigen, ihre Situation zu reflektieren, neue Perspektiven zu entwickeln und ihre Gedanken, Gefühle und Bedürfnisse zu artikulieren. Durch die Unterbrechung der normalen Kommunikationsdynamik können Interventionen zu einer tiefgreifenden Veränderung der Perspektive und eines neuen Verständnisses der Situation führen. \n         Es ist jedoch zu beachten, dass die Funktion von Interventionen im Beratungsgespräch von der Qualität und dem Kontext abhängt. Wenn Interventionen als Unterbrechung verstanden werden, müssen sie auch als Unterbrechung von der normalen Kommunikationsdynamik und nicht als Unterbrechung von der Kommunikation selbst verstanden werden. Andernfalls können Interventionen als Störung oder Unterbrechung der Kommunikation wahrgenommen werden und nicht als Unterbrechung von der normalen Kommunikationsdynamik. \n         Insgesamt ist die Funktion von Interventionen im Beratungsgespräch also, die Teilnehmenden zu ermutigen, ihre Situation zu reflektieren, neue Perspektiven zu entwickeln und ihre Gedanken, Gefühle und Bedürfnisse zu artikulieren. Durch die Unterbrechung der normal",
+    "expected": "Interventionen funktionieren als gezielte Eingriffe im Erzähl- oder Gedankenfluss des Ratsuchenden, indem sie dessen innere Logik oder Sichtweise irritieren und unterbrechen. Sie sind notwendig, um Veränderungsprozesse anzustoßen, da sie ein Dazwischengehen ermöglichen, das den Ratsuchenden aus festgefahrenen Mustern herausführt. Diese Unterbrechung ist zentral, weil sie es ermöglicht, neue Perspektiven zu eröffnen und Reflexion anzuregen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "af21212a12118ea256d52707ca6c19ac319acf1100d0e3d9a49fa4c68dc617c6",
+        "score": 0.9924559593200684,
+        "meta": {
+          "file_path": "9783847412304_chapter_069.txt",
+          "source_id": "50634dfb3a578b548ee10a5f59757f3b7df3b36e420007c95fb69f6cdba6e2c5",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2409,
+          "_split_overlap": [
+            {
+              "doc_id": "a5a6be9ac0f394c578e8819391331b12eabe3e9db6fbc482c08fe14e7dbe7ed8",
+              "range": [
+                1173,
+                1568
+              ]
+            }
+          ]
+        },
+        "content": "Lernbiografie“ (ebd.) betrachtet, die dies in der Beratung klar explizieren, reflektieren und aktiv nach Optimierungen suchen. • Zeitlich wird das Beratungsgespräch als „aus dem Seminar ausgegliederte Intervention“ (ebd. S. 148) verstanden und individualisiert nach den Bedarfen der Teilnehmenden realisiert. Wie die zeitliche Kopplung an die strukturierte Seminarsituation genau erfolgen soll, bleibt konzeptionell unklar. Es handelt sich damit um ein exkludierendes, unbestimmtes Zeitkonzept"
+      },
+      {
+        "rank": 2,
+        "id": "236ea72440add4ceac68f0ac06f8892105d38229af0ed48029aa36f36244e507",
+        "score": 0.9803208112716675,
+        "meta": {
+          "file_path": "9783847412304_chapter_1042.txt",
+          "source_id": "ad5050796989f7a2c7f2eb3f1e111897805bdf7de85748cab6aff51826b24922",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3e9a644f5d21c99740262864c9a46ba344f28ccaaaa5abf91b1ab77387774196",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung und Intervention im Hochschulkontext Laut Schubert (2015) bemüht sich die Beratung derzeit um Professionalisie- rung hinsichtlich eines gemeinsamen Ausbildungs- und Beratungsverständ- nisses sowie der Qualitätssicherung unter Einbindung von Wissenschaft. „Beratung ist […] als professionelles Angebot zu ko-konstruktiven, reflexiven Hilfestellungen in der Bewältigung krisenhafter moderner Lebens- und Ar- beitsbedingungen“ (ebd.: 41) zu verstehen. Der Beratung kommt daher ein besonderer Stellenwert im Rahmen der Erwachsenenbildung an Hochschulen zu. Verschiedene Präventions- und Interventionsmaßnahmen werden derzeit mit dem Ziel, Studierende über die Beratung hinaus bei ihrem Studium zu un- terstützen und Abbrüche zu vermeiden, an deutschen Universitäten erprobt, eingerichtet oder evaluiert (Ahles et al. 2016; Blüthmann et al. 2008; Kolb et al. 2006; Pelz/Schulze-Stocker 2018). Zu diesen Maßnahmen, die zum Teil auch als zeitlich begrenzte Projek- te angeboten werden, zählen au"
+      },
+      {
+        "rank": 3,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.9629654884338379,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 4,
+        "id": "07de76a87d64fb7051c8906d00538a7248f918dbcb8199841866faaf01d864fe",
+        "score": 0.9622958302497864,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30873fdc6c19f9770cef5c0cec13d7d9a50aab5ffbbf0ae3d0bb87d4a04ca875",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung in Unternehmen Generell muss sich Beratung in Unternehmen an deren komplexer Struktur orientieren und die relevanten Statusvertreter einbeziehen. Bei Interventions- projekten, die vorgegebene Ziele umsetzen, empfehlen sich ein begleitendes Monitoring und eine Evaluation. Steuerungsinstanzen beim Beratungspro- zess sind im hier beschriebenen Fall zum einen das Projektteam, bestehend aus den drei Projekteiterinnen, sowie zum anderen vonseiten der Unterneh- men das Change Team, bestehend aus relevanten Gruppen wie zum Beispiel der Unternehmensleitung, Personalverantwortlichen, Personalrat und Vertre- tern der beteiligten Abteilungen sowie der Frauenbeauftragten. Thema der Interventionen waren die Verbesserung von Gleichstellung und die Akzeptanz von Diversity.1 Das Verhaltensdesign umfasste also Bera- tung zum Thema und Maßnahmen zur konkreten Erfahrung mit Ungleichheit und Vielfalt der Führungskräfte und beteiligten Mitarbeiterinnen im Unter- nehmen. Vorurteile und Verhaltens"
+      },
+      {
+        "rank": 5,
+        "id": "93af921be6ac277adeed69312e8dfe14efb24aca4451c60a01f1c7b7b4507cb5",
+        "score": 0.9483586549758911,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 15281,
+          "_split_overlap": [
+            {
+              "doc_id": "2ed626e4d312676e1a95a307906bdc6adea75130ff55b3c9cbfcc8d6bf2002b6",
+              "range": [
+                1029,
+                1460
+              ]
+            },
+            {
+              "doc_id": "94f96bd1d298cb26b99b6197cedfd134691816d0568af796583817ff630e6063",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "lernunterstützender Interventionen in einer Pflegebildungseinrichtung dar. Schlussfolgerungen: Bei der Lernberatung im beschriebenen Sinn handelt es sich eher um eine domänenspezifische Beratung im Lernen der pflegeberuf- lichen Kompetenzen und der Schwerpunkt liegt eher auf der Entwicklung beruflicher Professionalität sowie der damit verbunden Identitätsbildung. Angebote der systemischen Beratung könnten in Form erweiternder, ergän- zender oder unterstützend-integrativer Angebote für Lernende, Pflegelehrer und Praxisanleiter angeboten werden. Lernberatung in systemischer Weise stellt eine Unterstützung im selbst gesteuerten Lernen dar und fokussiert den Lernenden mit seinen Ressourcen, dessen Selbstlernkompetenz oftmals defi- zitär beschrieben wird. Dies wird vielfach auf biographische Voraussetzungen zurückgeführt. Gespannt kann hier auf die Ergebnisse eines Projektes vom Bildungswerk der Sächsischen Wirtschaft e.V. gewartet werden, in dem die Generierung eines Bildungsangebotes zur "
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_061.txt",
+    "question": "Fassen Sie das Stufensystem von Methoden, Techniken und Interventionen in der Beratung zusammen und erläutern Sie, wie diese drei Ebenen zusammenwirken.",
+    "answer": "Ein Stufensystem von Methoden, Techniken und Interventionen in der Beratung kann wie folgt zusammengefasst werden: \n         - Interventionen sind die kleinsten Handlungseinheiten in der Beratung. \n         - Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. \n         - Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Interventionen. \n         - Beratungsansätze wie die Systemische oder Ressourcenorientierte Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie. \n         - Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. \n         - Techniken sind relativ übergreifend für Verfahren einzusetzen, aber auch nicht willkürlich zu gebrauchen. \n         - Die drei Ebenen - Methoden, Techniken und Interventionen - arbeiten zusammen, indem Methoden aus Techniken bestehen und Techniken aus Interventionen. \n         - Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. \n         - Die Beratung ist ein dynamischer Prozess, der sich an die individuellen Bedürfnisse und Ziele des Klienten anpasst. \n         - Die Beratung ist ein interdisziplinärer Ansatz, der sich auf verschiedene Wissenschaften und Therapieschulen stützt. \n         - Die Beziehung zwischen Berater und Klient ist ein wichtiger Bestandteil der Beratung. \n         - Die Beratung ist ein Prozess, der sich kontinuierlich entwickelt und anpasst. \n         - Die Beratung ist ein Prozess, der sich auf die individuellen Bedürfnisse und Ziele des Klienten ausrichtet. \n         - Die Beratung ist ein Prozess, der sich auf die Stärken und Ressourcen des Klienten konzentriert. \n         - Die Beratung ist ein Prozess, der sich auf die Verbesserung der Lebenssituation des Klienten ausrichtet. \n         - Die Beratung ist ein Pro",
+    "expected": "Das Stufensystem beschreibt, dass Interventionen die kleinsten Handlungseinheiten sind, aus denen Techniken bestehen können, indem sie eine oder mehrere Interventionen empfehlen oder kombinieren. Methoden wiederum bestehen aus mehreren Techniken, die in der Beratung durch konkrete Interventionen realisiert werden. So bilden Interventionen die Basis, Techniken sind deren Kombinationen, und Methoden fassen diese Techniken zu einem umfassenden Beratungsansatz zusammen, der die Beratungspraxis strukturiert und gestaltet.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+        "score": 0.997806966304779,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2287,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                1078,
+                1439
+              ]
+            },
+            {
+              "doc_id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+              "range": [
+                0,
+                346
+              ]
+            }
+          ]
+        },
+        "content": "ich irritiere die innere Logik durch meine 1 \u0007Auch wenn die gleichen Verfahrensweisen in manchen Beiträgen als ‚Methode‘, in ande­ Das Verhältnis von Methoden, Techniken und Interventionen lässt sich als eine Art Stufensystem beschreiben. Interventionen sind die kleinsten Handlungseinheiten in der Beratung. Eine Technik kann aus der Empfehlung einzelner oder mehrerer Interventionen bestehen. Eine Methode kombiniert mehrere Techniken und realisiert sich in der Beratung durch konkrete Inter­ ventionen. Beratungsansätze wie die Systemische oder Ressourcenorientier­ te Beratung umfassen mehrere mögliche Methoden und Techniken vor dem Hintergrund einer umfangreicheren Theorie, zu der auch die Werthaltung des Beraters bzw. der Beraterin und Annahmen über die Struktur der Wirklich­ keit gehören. Beratungsansatz Methode Methoden Technik Techniken Techniken Intervention Interventionen Interventionen Interventionen Abb. 2: \u0007Verhältnis von Methoden, Techniken, Interventionen und Beratungsansätze "
+      },
+      {
+        "rank": 2,
+        "id": "db3a1d93cd9e3a2eeb371c3620a19d058de4118170cf4988c9bf00afc8d6b19f",
+        "score": 0.9941964149475098,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3 Erfahrungsraum Beratung: Handlungsorientierung ### Handlungsorientierung 3.1 \u0007Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter­ schiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech­ niken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie in diesem Band verwenden – einen eigenen Beitrag. „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön­ nen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen. Bezogen auf die „Stolperstein-Methode“ (s. S. 123) werden z. B. Gesprächs- und Visualisierungstechni"
+      },
+      {
+        "rank": 3,
+        "id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+        "score": 0.9913630485534668,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3515,
+          "_split_overlap": [
+            {
+              "doc_id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+              "range": [
+                1177,
+                1579
+              ]
+            },
+            {
+              "doc_id": "8e4cf230d6973ce0f8d05c10c3fcbe0fb142b80a563a3ffff60c9b30f757f0d6",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Beratungspraxis zum Vorschein kommen.\nWährend Methoden in sich unterschiedliche zusammenhängende Techni­ ken enthalten können und damit systematisch in einem inhaltlichen Kontext stehen, sind manche Techniken ganz unabhängig von der Zuordnung zu einer Methode vorstellbar. Die Paraphrase ist als Technik in verschiedenen inhalt­ lichen Methoden anwendbar. Das heißt Techniken sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie­ hen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge­ klärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar­ beiten ermöglichen. Daher wird zunächst der Stellenwert von Methoden und "
+      },
+      {
+        "rank": 4,
+        "id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+        "score": 0.9859598875045776,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3486,
+          "_split_overlap": [
+            {
+              "doc_id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+              "range": [
+                1199,
+                1545
+              ]
+            },
+            {
+              "doc_id": "25da60e43d05b4609dd679f158c0d8f14354c47b048902fa27540e2cbe1b64f7",
+              "range": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        "content": "Techniken“ nachvollziehen. Denn wenn es so einfach wäre, warum besteht dann immer wieder Uneinigkeit über die Zuordnung der Begriffe? Zunächst einmal gibt es unterschiedliche Vorstellungen davon, ab welcher Komplexität eine In­ tervention in eine Technik und eine Technik in eine Methode übergeht. Wer schon einmal die Diskussion geführt hat, ob ‚Reframing‘ (s. 4.3 Systemische Gesprächsführung) eine bloße Intervention ist, eine Technik oder gar eine Methode der Systemischen Beratung, weiß wie unfruchtbar solche Grenzzie­ hungen sein können. In der konkreten Beratungssituation ist das ‚Reframing‘ eine Intervention. Der Intervention liegt aber die Kenntnis der Technik ‚Refra­ ming‘ zugrunde. Das heißt, um tatsächlich einen Perspektivwechsel des bzw. der Ratsuchenden bezogen auf die eigene Situation einzuleiten, kann ich seine bzw. ihre Aussage nicht beliebig umdeuten. Die beiden Begriffe „Methoden“ und „Techniken“ dienen letztlich immer auch der Vermittlung von Beratungskompetenz. Ich besc"
+      },
+      {
+        "rank": 5,
+        "id": "43177d6eba575285aa4f8a5df2c1e8123800505aa7d39e7d3b5c5997ef3260ec",
+        "score": 0.9831717014312744,
+        "meta": {
+          "file_path": "9783866496811_chapter_0831.txt",
+          "source_id": "8c962b2d6e9fe47057519071218542a23d3eb3270b6c1f5a33516d259cabd492",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1258,
+          "_split_overlap": [
+            {
+              "doc_id": "6841621fd7eb993a88ac0d8ed07b0caa3fac96645781e698ea17d6f2affca2d5",
+              "range": [
+                1258,
+                1729
+              ]
+            },
+            {
+              "doc_id": "44ed2c6d1455e17e75607fcf2fe453806d48830261a13188e3c55f9ad935164b",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "und Lernprozess sowie zu Diagnose, Steuerung und Evaluation. Für die Theoriebildung leisten verschiedene Wissenschaften (Psychologie, Sozial-, Erziehungs-, Sozialarbeitswissenschaft, Theologie, Recht, Philoso- phie, Medizin, d.h. ein interdisziplinärer Ansatz) und die vielfältigen Therapieschulen wichtige Beiträge.\n4.3.2. Interventionskompetenz/ Methodenkompetenz Hier geht es um die Fähigkeit der Prozessgestaltung, des Intervenierens im Sinne von Dazwischen- Handeln im Beratungsverlauf. Unterschiedliche Methoden schulenübergreifender Natur sollten gekannt, genutzt und reflek- tiert werden können. Methoden meinen immer den Weg zu einem Ziel, d.h. sie sind im Beratungs- zielzusammenhang zu reflektieren und einzusetzen. Neben der Zielreflexion ist die Angemessenheit der Intervention und ihre Verbundenheit mit dem diagnostischen Prozess zu üben. In der Beratung ist es wichtig, dass der Berater den Prozess nicht nur diag- nostiziert, sondern ihn steuert, Impulse einbringt und eine am Anlieg"
+      }
+    ]
+  }
+]

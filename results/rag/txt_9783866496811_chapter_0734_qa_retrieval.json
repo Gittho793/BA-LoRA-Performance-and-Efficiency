@@ -1,0 +1,683 @@
+[
+  {
+    "filename": "9783866496811_chapter_0734.txt",
+    "question": "Wie hat sich das Prinzip der Ganzheitlichkeit in der Pflegegeschichte über die letzten 5000 Jahre entwickelt?",
+    "answer": "In der Pflegegeschichte von etwa 5000 Jahren ist das Prinzip der Ganzheit in der Heilkunde vorherrschend. Das Ende dieser Ära aber brachte die Hexen-verfolgung, nur in wenigen Jahrhunderten waren die weisen Frauen ihrer Eigenständigkeit enthoben, aus der Heilkunde vertrieben und auf die seelsor-gersiche Pflege Kranker und alter Menschen reduziert. Zu dieser Zeit stand der Kranke leider nicht im Mittelpunkt der Betrachtungen, sondern - vom christlichen Glauben ausgehend - konnte durch die Versorgung eines Kranken Gutes getan werden und die Pflegende konnte sich so ‚auf Erden den Himmel erwerben‘. Ebenfalls ihrer Eigenständigkeit enthoben, wurden Pfle-gekräfte hierarchisch den Ärzten unterstellt, sie wurden zu deren Handlangerinnen und Helferinnen. Gleichzeitig gründeten verschiedene Klöstern die ersten Universitäten der Medizin, deren Lehre und Studium waren dem männlichen Geschlecht vorbehalten. Die Wissenschaft nahm Einzug in die Heilkunde, um nur kurze Zeit danach sich von der Kirche abzuspalten. Nun widmete sich die Medizin ganz der Forschung und konzentrierte sich auf einzelne Dimensionen des Patienten-Daseins, nämlich auf die kranken Körperteile. Auf den Lauf der Geschichte bezogen verlor nicht nur die Pflege, sondern auch die Medizin die ganzheitliche Betrachtung immer mehr aus den Augen (vgl. Drerup 1990:9 ff; Koch-Straube 2008:11 f). Derzeit wird der Begriff der Ganzheitlichkeit in der Pflege wieder neu diskutiert. In der neueren Zeit, den letzten Jahrzehnten, beziehen sich fast alle Pflegetheorien auf die ganzheitliche Betrachtungsweise des Menschen als Patienten, sie berufen diese als Ziel der Pflege (vgl. Koch-Straube 2008:15ff). Auch Äußerungen wie ‚Pflegemodelle schaffen Ganzheitlichkeit‘ sind in der Literatur zu finden. Als Ausgang der Interpretationen ist häufig ein Satz von ARISTOTE",
+    "expected": "Das Prinzip der Ganzheitlichkeit war in der Heilkunde über etwa 5000 Jahre vorherrschend. Mit der Hexenverfolgung endete diese Ära, wobei die weisen Frauen aus der Heilkunde verdrängt und auf seelsorgerische Pflege reduziert wurden. Die Medizin spaltete sich später von der Kirche ab und konzentrierte sich zunehmend auf einzelne Körperteile, wodurch die ganzheitliche Betrachtung verloren ging. In den letzten Jahrzehnten wird die Ganzheitlichkeit in der Pflege wieder neu diskutiert und als Ziel der Pflege in fast allen Pflegetheorien betont.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "391c57efd8e12234d6ef14332536c754145e1518d69c9ebe0cc2bfbf02025326",
+        "score": 0.9989345669746399,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+              "range": [
+                0,
+                336
+              ]
+            }
+          ]
+        },
+        "content": "3.4. Zur Ganzheitlichkeit in der Pflege In der Pflegegeschichte von etwa 5000 Jahren ist das Prinzip der Ganzheit in der Heilkunde vorherrschend. Das Ende dieser Ära aber brachte die Hexen- verfolgung, nur in wenigen Jahrhunderten waren die weisen Frauen ihrer Eigenständigkeit enthoben, aus der Heilkunde vertrieben und auf die seelsor- gerische Pflege Kranker und alter Menschen reduziert. Zu dieser Zeit stand der Kranke leider nicht im Mittelpunkt der Betrachtungen, sondern - vom christlichen Glauben ausgehend - konnte durch die Versorgung eines Kran- ken Gutes getan werden und die Pflegende konnte sich so ‚auf Erden den Himmel erwerben‘. Ebenfalls ihrer Eigenständigkeit enthoben, wurden Pfle- gekräfte hierarchisch den Ärzten unterstellt, sie wurden zu deren Handlangerinnen und Helferinnen. Gleichzeitig gründeten verschiedene Klöstern die ersten Universitäten der Medizin, deren Lehre und Studium waren dem männlichen Geschlecht vorbehalten. Die Wissenschaft nahm Einzug in die Heilkunde,"
+      },
+      {
+        "rank": 2,
+        "id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+        "score": 0.9950119256973267,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1052,
+          "_split_overlap": [
+            {
+              "doc_id": "391c57efd8e12234d6ef14332536c754145e1518d69c9ebe0cc2bfbf02025326",
+              "range": [
+                1052,
+                1388
+              ]
+            },
+            {
+              "doc_id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "spalten. Nun widmete sich die Medizin ganz der Forschung und konzentrierte sich auf einzelne Dimensionen des Patienten-Daseins, nämlich auf die kran- ken Körperteile. Auf den Lauf der Geschichte bezogen verlor nicht nur die Pflege, sondern auch die Medizin die ganzheitliche Betrachtung immer mehr aus den Augen (vgl. Drerup 1990:9 ff; Koch-Straube 2008:11 f). Derzeit wird der Begriff der Ganzheitlichkeit in der Pflege wieder neu disku- tiert. In der neueren Zeit, den letzten Jahrzehnten, beziehen sich fast alle Pflegetheorien auf die ganzheitliche Betrachtungsweise des Menschen als Patienten, sie berufen diese als Ziel der Pflege (vgl. Koch-Straube 2008:15ff). Auch Äußerungen wie ‚Pflegemodelle schaffen Ganzheitlichkeit‘ sind in der Literatur zu finden. Als Ausgang der Interpretationen ist häufig ein Satz von ARISTOTELES zu lesen: „Das Ganze ist mehr als die Summe seiner Teile.“ (vgl. Lindell 1999:39; Löser 2004:35; Stemmer 1999). Oberflächlich drängt sich das Bild auf, die Pflegeexpert"
+      },
+      {
+        "rank": 3,
+        "id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+        "score": 0.9904341697692871,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3276,
+          "_split_overlap": [
+            {
+              "doc_id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+              "range": [
+                1186,
+                1531
+              ]
+            },
+            {
+              "doc_id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Ganzheit keine Abgrenzung zulässt, ist die Pflege potenziell für alle Bedürfnisse zuständig.“ (Stemmer 1999:89) Nicht nur Kritik, sondern auch konstruktive Vorschläge, wie die Ganzheit- lichkeit in der Pflege umzusetzen sei, sind in diesem Artikel zu finden. Der Fokus von STEMMER liegt auf den psychosozialen Aspekten, die aus ihrer Sicht eine stärkere Berücksichtigung finden müssen. Der bisherige Blick auf die Pflege ist primär ein naturwissenschaftlicher, um aber die Option der Ganzheit zu verfolgen muss die Aufmerksamkeit sich mehr auf zwischen- menschliche Beziehungen und Interaktionen richten. Sie belegt, dass die erste Priorität im Rahmen der Krankenversorgung nicht die pflegerischen bzw. medizinischen Sachleistungen sind, sondern dass die Interaktion zwischen Pflegekräften und Patienten ein sehr zentrales Phänomen ist, damit der Pa- tient zufrieden ist, sich respektiert, verstanden und aufgehoben fühlt. Etwa drei Jahre später wurde eine Antwort von Ursula KOCH-STRAUBE (vgl. 2002:"
+      },
+      {
+        "rank": 4,
+        "id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+        "score": 0.937268853187561,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4370,
+          "_split_overlap": [
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                1094,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes- sionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratungshandeln. Menschen nicht nur als defekt oder begrenzt, sondern vorübergehend einge- schränkt in einer der vielen Dimensionen zu betrachten, dies ist als eine gemeinsame Eigenschaft von Pflege und Beratung auszumachen. Diese ge- meinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den Kinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxis"
+      },
+      {
+        "rank": 5,
+        "id": "1fb7f1dd027021ead5d9f40b5ef34ba69d911f2cd3d8e1e561534991e00244d0",
+        "score": 0.9149449467658997,
+        "meta": {
+          "file_path": "9783866496811_chapter_11.txt",
+          "source_id": "b583be53ea4b64d62e1f93c258612e112070cfbe7d3bc99c54a55777d65af387",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8544,
+          "_split_overlap": [
+            {
+              "doc_id": "08e445bb1c9799baea3a8f109a73ecde37b4d25bb2587b831e1476efe139fef2",
+              "range": [
+                1142,
+                1528
+              ]
+            }
+          ]
+        },
+        "content": "Rückblickend verfolgten wir als Autorinnen das dringende Anliegen, die Möglichkeiten und Grenzen von Beratung in den Handlungsfeldern von Pflege und Pflegeausbildung auszuloten. Wir wollen Impulse für weitere Entwicklung geben. Je tiefer wir in die Thematik eingedrungen sind, desto deutlicher erkannten wir, dass sowohl die Professionalisierungsbestrebungen im Feld Beratung, als auch im Feld der Pflege und Pflegebildung parallel zueinander verliefen und dennoch in Beziehung zueinander standen. Beide Prozesse sind noch nicht abgeschlossen und so stehen wir mit unseren Über- legungen sicher erst am Anfang eines längeren Weges. Wesentlich erscheint uns, Betroffene zu Beteiligten zu machen und miteinander die spezifischen Problemstellungen in der Pflege und Pflegebildung im Kontext sich verän- dernder gesellschaftlicher und wissenschaftlicher Rahmungen prozesshaft zu behandeln. Von Beginn an waren wir uns bewusst, dass es hierbei nicht um ein ‚entweder oder …‘, sondern vielmehr um ein ‚sowo"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0734.txt",
+    "question": "Was bedeutet der Satz von Aristoteles „Das Ganze ist mehr als die Summe seiner Teile“ im Kontext der Pflege?",
+    "answer": "Der Satz von Aristoteles „Das Ganze ist mehr als die Summe seiner Teile“ wird im Kontext der Pflege verwendet, um die Idee der Ganzheitlichkeit zu beschreiben. Es bedeutet, dass die Gesamtheit eines Menschen oder einer Situation mehr ist als die Summe ihrer einzelnen Teile oder Aspekte. Im Kontext der Pflege bedeutet dies, dass die Pflege nicht nur auf die körperlichen oder medizinischen Bedürfnisse eines Patienten eingehen sollte, sondern auch auf seine psychosozialen und emotionalen Bedürfnisse. Es betont die Bedeutung einer umfassenden Betrachtung des Menschen als Ganzes, anstatt sich auf einzelne Aspekte zu konzentrieren. Die Ganzheitlichkeit in der Pflege wird als Ziel der Pflege angesehen, um den Patienten eine umfassende und integrative Versorgung anzubieten. \nI cannot find the answer in the provided context.",
+    "expected": "Der Satz von Aristoteles bedeutet im Kontext der Pflege, dass der Mensch als Patient nicht nur aus einzelnen Teilen wie Körper, Psyche oder sozialen Aspekten besteht, sondern als ein komplexes Ganzes betrachtet werden muss, das mehr ist als nur die Summe dieser Teile. Dies unterstreicht die Bedeutung einer ganzheitlichen Pflege, die alle Dimensionen des Menschen einbezieht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+        "score": 0.9810420274734497,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1052,
+          "_split_overlap": [
+            {
+              "doc_id": "391c57efd8e12234d6ef14332536c754145e1518d69c9ebe0cc2bfbf02025326",
+              "range": [
+                1052,
+                1388
+              ]
+            },
+            {
+              "doc_id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "spalten. Nun widmete sich die Medizin ganz der Forschung und konzentrierte sich auf einzelne Dimensionen des Patienten-Daseins, nämlich auf die kran- ken Körperteile. Auf den Lauf der Geschichte bezogen verlor nicht nur die Pflege, sondern auch die Medizin die ganzheitliche Betrachtung immer mehr aus den Augen (vgl. Drerup 1990:9 ff; Koch-Straube 2008:11 f). Derzeit wird der Begriff der Ganzheitlichkeit in der Pflege wieder neu disku- tiert. In der neueren Zeit, den letzten Jahrzehnten, beziehen sich fast alle Pflegetheorien auf die ganzheitliche Betrachtungsweise des Menschen als Patienten, sie berufen diese als Ziel der Pflege (vgl. Koch-Straube 2008:15ff). Auch Äußerungen wie ‚Pflegemodelle schaffen Ganzheitlichkeit‘ sind in der Literatur zu finden. Als Ausgang der Interpretationen ist häufig ein Satz von ARISTOTELES zu lesen: „Das Ganze ist mehr als die Summe seiner Teile.“ (vgl. Lindell 1999:39; Löser 2004:35; Stemmer 1999). Oberflächlich drängt sich das Bild auf, die Pflegeexpert"
+      },
+      {
+        "rank": 2,
+        "id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+        "score": 0.5929155945777893,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3276,
+          "_split_overlap": [
+            {
+              "doc_id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+              "range": [
+                1186,
+                1531
+              ]
+            },
+            {
+              "doc_id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Ganzheit keine Abgrenzung zulässt, ist die Pflege potenziell für alle Bedürfnisse zuständig.“ (Stemmer 1999:89) Nicht nur Kritik, sondern auch konstruktive Vorschläge, wie die Ganzheit- lichkeit in der Pflege umzusetzen sei, sind in diesem Artikel zu finden. Der Fokus von STEMMER liegt auf den psychosozialen Aspekten, die aus ihrer Sicht eine stärkere Berücksichtigung finden müssen. Der bisherige Blick auf die Pflege ist primär ein naturwissenschaftlicher, um aber die Option der Ganzheit zu verfolgen muss die Aufmerksamkeit sich mehr auf zwischen- menschliche Beziehungen und Interaktionen richten. Sie belegt, dass die erste Priorität im Rahmen der Krankenversorgung nicht die pflegerischen bzw. medizinischen Sachleistungen sind, sondern dass die Interaktion zwischen Pflegekräften und Patienten ein sehr zentrales Phänomen ist, damit der Pa- tient zufrieden ist, sich respektiert, verstanden und aufgehoben fühlt. Etwa drei Jahre später wurde eine Antwort von Ursula KOCH-STRAUBE (vgl. 2002:"
+      },
+      {
+        "rank": 3,
+        "id": "391c57efd8e12234d6ef14332536c754145e1518d69c9ebe0cc2bfbf02025326",
+        "score": 0.4649466276168823,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+              "range": [
+                0,
+                336
+              ]
+            }
+          ]
+        },
+        "content": "3.4. Zur Ganzheitlichkeit in der Pflege In der Pflegegeschichte von etwa 5000 Jahren ist das Prinzip der Ganzheit in der Heilkunde vorherrschend. Das Ende dieser Ära aber brachte die Hexen- verfolgung, nur in wenigen Jahrhunderten waren die weisen Frauen ihrer Eigenständigkeit enthoben, aus der Heilkunde vertrieben und auf die seelsor- gerische Pflege Kranker und alter Menschen reduziert. Zu dieser Zeit stand der Kranke leider nicht im Mittelpunkt der Betrachtungen, sondern - vom christlichen Glauben ausgehend - konnte durch die Versorgung eines Kran- ken Gutes getan werden und die Pflegende konnte sich so ‚auf Erden den Himmel erwerben‘. Ebenfalls ihrer Eigenständigkeit enthoben, wurden Pfle- gekräfte hierarchisch den Ärzten unterstellt, sie wurden zu deren Handlangerinnen und Helferinnen. Gleichzeitig gründeten verschiedene Klöstern die ersten Universitäten der Medizin, deren Lehre und Studium waren dem männlichen Geschlecht vorbehalten. Die Wissenschaft nahm Einzug in die Heilkunde,"
+      },
+      {
+        "rank": 4,
+        "id": "e1f61ce8fb7060ada49f7728f29304404744c629194cc42503d77e1ca8907efb",
+        "score": 0.3044101297855377,
+        "meta": {
+          "file_path": "9783866496811_chapter_0871.txt",
+          "source_id": "b0099914e7ce5a08104e5f776cf91bfeafc1bb958cc0e20034d85a8c43159847",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1084,
+          "_split_overlap": [
+            {
+              "doc_id": "e205102dbe22d011b8c256599306f23c9b3d0754ea8954bfc99dc31dfeba3fed",
+              "range": [
+                1084,
+                1428
+              ]
+            },
+            {
+              "doc_id": "9b55d8d6ef2884725218346c67ddbc3de4f66f135f934cb6a522634db2e419f6",
+              "range": [
+                0,
+                393
+              ]
+            }
+          ]
+        },
+        "content": "Personen fortwährend die Handlungen des Anderen und benutzten diese Informationen als Grundlage für das eigene Handeln. Eines ihrer Hauptanliegen ist es, dass sich ein Verständnis von Pflege durchsetzt, dass die Familie als Ganzes bzw. das System enger Be- zugspersonen in den Blick nimmt und sich nicht ausschließlich auf die pflegebedürftige Person konzentriert. Sie möchte die Hintergründe herausfinden, die Angehörige dazu bewegen, ihre Beziehung zu den Pflegebedürftigen aufrecht zu erhalten oder abzubre- chen. Zu diesem Zweck hat sie eine qualitative Studie durchgeführt und darin die pflegenden Angehörigen interviewt. Ihr Ziel war es: „Eine in die Tiefe dringende, reflexive Beschreibung der Erfahrung einer sorgenden pflegenden Angehörigen Beziehung zu erhalten“ (Biederbeck 2006:Vorwort). Ihre For- schungsarbeit erfasst die Sicht der pflegenden Angehörigen auf ihre Wirklichkeit. Forschungsergebnis ist, „(…) dass aus Sicht der Angehörigen, das Wesen der Interak- tion, zwischen pflegebed"
+      },
+      {
+        "rank": 5,
+        "id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+        "score": 0.2580662965774536,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 15,
+          "split_idx_start": 16710,
+          "_split_overlap": [
+            {
+              "doc_id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+              "range": [
+                1136,
+                1445
+              ]
+            },
+            {
+              "doc_id": "8dcaae882f8744ec458edc2b28e2d0f20c3c3da66bddf9a9e888d9d37a567e12",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "tausch, also es passiert wirklich Austausch österreichweit. Wir kooperieren, wir sind ständig im Kontakt, was gibt es in dem Bundesland neu, was gibt es in dem Bundesland, wo sind die Unterschiede. Ja dieser Austausch ist ganz, ganz wichtig. Weil ich denke, in der Beratung, was jetzt anders ist, jetzt nicht nur in der Beratung, sondern überhaupt, was nach außen geht, ist, dass das Selbstbewusstsein von den ganzen Klient_innen ganz ein anderes ist« (H/AT, Z. 109-118). Durch die koordinierte Zusammenarbeit zwischen den Beratungsstellen wird ein gemeinsamer Qualitätssicherungs- und Entwicklungsprozess ini­ tiiert. Die Interviewpartner_innen betonen immer wieder, wie wichtig die­ ser österreichweite Austausch für die Berater_innen ist, da dieser von dem Handlungsdruck in der konkreten Beratungssituation entlastet. Durch den überinstitutionellen Austausch kann sich zudem ein gemeinsames Selbst­ verständnis von Anerkennungsberatung entwickeln. Gleichzeitig wird in diesem Interviewausschnitt "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0734.txt",
+    "question": "Welche Herausforderungen nennt Renate Stemmer bei der ganzheitlichen Betrachtung eines Menschen in der Pflege?",
+    "answer": "Renate STEMMER (1999) bezeichnet die Schwierigkeiten, einen Menschen in seiner Ganzheitlichkeit zu betrachten, und stellt fest, dass auch in Vernetzungen der Pflegetheorien von bio-, psycho- und sozialen Einheiten eines Menschen die ganzheitliche Betrachtung umstritten ist. Sie geht davon aus, dass zwischen der Ganzheit und den systemtheoretischen Überlegungen eine große Nähe besteht und begründet dies mit einem Grundgedanken des systemtheoretischen Denkens (vgl. Stemmer 1999:87). \n         STEMMER führt auch die Begriffsverwirrung von Ganzheitlichkeit und Patientenorientierung aus, die vorsätzlich in den Pflegetheorien verankert ist, um das nicht erreichbar Ganze für das Auge des Betrachters offen zu lassen. Sie stellt fest, dass die Forderung nach Beachtung der Ganzheit keine Abgrenzung zulässt, und dass die Pflege potenziell für alle Bedürfnisse zuständig ist. \n         STEMMER schlägt konstruktive Vorschläge vor, wie die Ganzheitlichkeit in der Pflege umzusetzen sei, und betont die Bedeutung psychosozialer Aspekte, die aus ihrer Sicht eine stärkere Berücksichtigung finden müssen. Sie betont, dass der bisherige Blick auf die Pflege primär ein naturwissenschaftlicher war, aber dass die Option der Ganzheit verfolgt werden muss, indem die Aufmerksamkeit sich mehr auf zwischenmenschliche Beziehungen und Interaktionen richtet. \n         STEMMER belegt, dass die Interaktion zwischen Pflegekräften und Patienten ein sehr zentrales Phänomen ist, damit der Patient zufrieden ist, sich respektiert, verstanden und aufgehoben fühlt. \n         STEMMER schlägt vor, dass die Pflegekräfte sich mehr auf die psychosozialen Aspekte konzentrieren sollten, um die Ganzheitlichkeit in der Pflege umzusetzen. \n         STEMMER betont, dass die Ganzheitlichkeit eine zentrale Dimension in der Pflege ist und dass die Pflegekräfte sich mehr auf die zwischen",
+    "expected": "Renate Stemmer beschreibt, dass die ganzheitliche Betrachtung eines Menschen schwierig ist, da trotz Vernetzungen von bio-, psycho- und sozialen Einheiten weitere wichtige Bestandteile wie Umwelt, Spiritualität und entwicklungsspezifische Variablen oft wenig berücksichtigt werden. Sie stellt die Hypothese auf, dass die Ganzheitlichkeit eine große Nähe zum systemtheoretischen Denken hat, da dieses den Menschen als vernetztes System betrachtet.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+        "score": 0.9947581887245178,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2090,
+          "_split_overlap": [
+            {
+              "doc_id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+              "range": [
+                1038,
+                1428
+              ]
+            },
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                0,
+                345
+              ]
+            }
+          ]
+        },
+        "content": "Pflege zumindest in der Theorie eine ganzheitliche Betrach- tung und Anwendung am Menschen fokussiert und findet. Beim genaueren Recherchieren der Literatur sind ebenfalls recht kontroverse Meinungen auszumachen. Renate STEMMER (1999) beschreibt die Schwierigkeiten einen Menschen in seiner Ganzheitlichkeit zu betrachten. Sie belegt, dass auch in Vernetzungen der Pflegetheorien von bio-, psycho- und sozialen Einheiten eines Menschen die ganzheitliche Betrachtung dessen umstritten sei. Da noch weitere und auch unterschiedliche Bestandteile, je nach Betrachtung, wie z.B. Umwelt, Spiritualität und entwicklungsspezifische Variablen wenig Berücksichtigung finden. STEMMER stellt die Hypothese auf, dass zwischen der Ganzheit und den systemtheoretischen Überlegungen eine große Nähe besteht. Und begründet dies mit einem Grundgedanken des systemtheoretischen Denkens (vgl. Stemmer 1999:87). Weiterhin wird die Begriffsverwirrung von Ganzheitlichkeit und Patienten- orientierung ausgeführt, welches, "
+      },
+      {
+        "rank": 2,
+        "id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+        "score": 0.985194742679596,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3276,
+          "_split_overlap": [
+            {
+              "doc_id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+              "range": [
+                1186,
+                1531
+              ]
+            },
+            {
+              "doc_id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Ganzheit keine Abgrenzung zulässt, ist die Pflege potenziell für alle Bedürfnisse zuständig.“ (Stemmer 1999:89) Nicht nur Kritik, sondern auch konstruktive Vorschläge, wie die Ganzheit- lichkeit in der Pflege umzusetzen sei, sind in diesem Artikel zu finden. Der Fokus von STEMMER liegt auf den psychosozialen Aspekten, die aus ihrer Sicht eine stärkere Berücksichtigung finden müssen. Der bisherige Blick auf die Pflege ist primär ein naturwissenschaftlicher, um aber die Option der Ganzheit zu verfolgen muss die Aufmerksamkeit sich mehr auf zwischen- menschliche Beziehungen und Interaktionen richten. Sie belegt, dass die erste Priorität im Rahmen der Krankenversorgung nicht die pflegerischen bzw. medizinischen Sachleistungen sind, sondern dass die Interaktion zwischen Pflegekräften und Patienten ein sehr zentrales Phänomen ist, damit der Pa- tient zufrieden ist, sich respektiert, verstanden und aufgehoben fühlt. Etwa drei Jahre später wurde eine Antwort von Ursula KOCH-STRAUBE (vgl. 2002:"
+      },
+      {
+        "rank": 3,
+        "id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+        "score": 0.9398316144943237,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4370,
+          "_split_overlap": [
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                1094,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes- sionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratungshandeln. Menschen nicht nur als defekt oder begrenzt, sondern vorübergehend einge- schränkt in einer der vielen Dimensionen zu betrachten, dies ist als eine gemeinsame Eigenschaft von Pflege und Beratung auszumachen. Diese ge- meinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den Kinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxis"
+      },
+      {
+        "rank": 4,
+        "id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+        "score": 0.4602009952068329,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2276,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                1161,
+                1602
+              ]
+            },
+            {
+              "doc_id": "b75e2f30ba5af910b6db6adf6ba5d90541eeef5190abc27a082c222e9e106704",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "beteiligt ist, zu ergänzen. Zugleich ist dem Pflegebedürftigen eine Beratung darüber anzubieten, welche Pflegeleistungen für ihn in seiner persönlichen Situation in Betracht kommen. Ferner ist der Pflegebedürftige auf die Veröffentlichung der Ergebnisse von Qualitätsprüfungen hinzuweisen. Versicherte mit erheblichem allgemeinem Betreuungsbedarf sind in gleicher Weise, insbesondere über anerkannte niedrigschwellige Betreuungsangebote, zu unterrichten und zu beraten. SGB XI, §7 Abs.3 Das Pflege-Weiterentwicklungsgesetz versucht die rechtlich zustehende pflegerische Unterstützung und Betreuung für den Pflegebedürftigen unkom- plizierter zu gestalten. Sie steigert zudem den Wettbewerb der Pflegekassen. Der Gesetzgeber verpflichtet die Pflegekassen dazu, dem Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf die folgenden Informationen zukommen zu lassen: - Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen, - wo die nächstgelegenen Pflegestützp"
+      },
+      {
+        "rank": 5,
+        "id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+        "score": 0.24333113431930542,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7151,
+          "_split_overlap": [
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                1226,
+                1561
+              ]
+            }
+          ]
+        },
+        "content": "und Qualifikation der Pflegeberater und Pflegeberaterinnen zwar in Auftrag gibt, aber die Empfehlungen eben auch nur diesen Charakter haben. Die Qualifikationsanforderungen, die zum 30. Juni 2011 erfüllt sein ‚müs- sen‘, finden wir in § 7a Abs.3 Satz 2 SGB XI: „Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Personal ein, insbesondere Pflegefach- kräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pfle- geberatern und Pflegeberaterinnen gibt der Spitzenverband Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 2011 erfüllt sein.“ (§ 7a Abs.3 Satz 2-5 SGB XI) Dies macht deutlich, dass vom Gesetzgeber keine Richtlinien über Anzahl und Qualifikationen des Pflegeberaters vorgesehen sind, sondern es bei Emp-"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0734.txt",
+    "question": "Wie hat die Rolle der Pflegenden sich im Laufe der Geschichte verändert, insbesondere im Bezug auf ihre Eigenständigkeit und Hierarchiestellung?",
+    "answer": "Die Rolle der Pflegenden hat sich im Laufe der Geschichte erheblich verändert, insbesondere im Bezug auf ihre Eigenständigkeit und Hierarchiestellung. Früher waren Pflegenden in einer patriarchalischen Gesellschaft stark hierarchisch den Ärzten unterstellt und wurden zu deren Handlangerinnen und Helferinnen. Sie wurden nicht als eigenständige Fachkräfte anerkannt, sondern als Hilfskräfte, die lediglich der medizinischen Behandlung zugeordnet waren. Im Laufe der Zeit hat sich jedoch die Rolle der Pflegenden gewandelt, insbesondere durch die Einführung der Pflegekassen und die Implementierung des SGB XI. Heute werden Pflegenden als eigenständige Fachkräfte anerkannt, die eine entscheidende Rolle bei der Gesundheitsversorgung und der Pflege von Patienten spielen. Sie sind jedoch noch immer von der medizinischen Facharbeit abhängig und müssen sich in einer komplexen Hierarchie bewegen. Insgesamt ist jedoch die Rolle der Pflegenden heute bedeutend stärker anerkannt und respektiert als in der Vergangenheit. \nI cannot find the answer in the provided context.",
+    "expected": "Ursprünglich hatten pflegende Frauen eine eigenständige Rolle in der Heilkunde. Während der Hexenverfolgung wurden sie ihrer Eigenständigkeit beraubt, aus der Heilkunde verdrängt und auf seelsorgerische Pflege reduziert. Sie wurden hierarchisch den Ärzten unterstellt und zu deren Helferinnen degradiert. Die Medizin wurde männlich dominiert, und Pflegekräfte verloren ihre selbstständige Stellung zugunsten einer untergeordneten Rolle.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "78412fe4bad96a869a492e0e461ae6c88a37a41e7a6e74e1e3a121e773d532f5",
+        "score": 0.9914219975471497,
+        "meta": {
+          "file_path": "9783866496811_chapter_0622.txt",
+          "source_id": "a4ab9102ce89447b2a9b8569063bdf11aba811d3990f721e5dee40bf87c10e5d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3519,
+          "_split_overlap": [
+            {
+              "doc_id": "296683268fdfd7dc690cc67ac7256d4457aa12cf782dbdea6aab3ce59f7c8dc6",
+              "range": [
+                1132,
+                1517
+              ]
+            },
+            {
+              "doc_id": "0d4497b031154d866b4d7ffbd7a2bf88bc128858e01897450fd0bd950500ab3a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "die Verän- derung der Pflege deutlich hervorgehoben. „I.1. Berücksichtigung neuer Anforderungen an die Ausbildung in den Pflegeberufen“ Es wird klar dargestellt, dass sich die Profession Pflege von traditionellen Orientierungen lösen muss und sich nicht nur auf medizinische Kuration in Krankenhäusern beschränken kann. Die Pflege braucht einen größeren per- spektivischen Blickwinkel für ihre Profession, die Wissensbasis dazu ist die Pflege- und Gesundheitswissenschaft. Aus diesem Wissen zeigt sich auch, dass die Pflegenden sehr viel mehr in ihren kommunikativen und empathi- schen Kompetenzen gestärkt und ausgebildet werden müssen. Gleichwohl einen entsprechend hohen Stellenwert soll auch die Förderung der Persön- lichkeitsentwicklung einnehmen, damit die Pflegenden auch in immer mehr Arbeitsfeldern kompetent arbeiten können. Nicht nur die Gesetzeslage hat sich geändert sondern auch die soziodemographische Zusammensetzung der Bevölkerung hat sich gewandelt, es ist eine Steigerung in der "
+      },
+      {
+        "rank": 2,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.9626429080963135,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 3,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9504951238632202,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 4,
+        "id": "391c57efd8e12234d6ef14332536c754145e1518d69c9ebe0cc2bfbf02025326",
+        "score": 0.9145099520683289,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+              "range": [
+                0,
+                336
+              ]
+            }
+          ]
+        },
+        "content": "3.4. Zur Ganzheitlichkeit in der Pflege In der Pflegegeschichte von etwa 5000 Jahren ist das Prinzip der Ganzheit in der Heilkunde vorherrschend. Das Ende dieser Ära aber brachte die Hexen- verfolgung, nur in wenigen Jahrhunderten waren die weisen Frauen ihrer Eigenständigkeit enthoben, aus der Heilkunde vertrieben und auf die seelsor- gerische Pflege Kranker und alter Menschen reduziert. Zu dieser Zeit stand der Kranke leider nicht im Mittelpunkt der Betrachtungen, sondern - vom christlichen Glauben ausgehend - konnte durch die Versorgung eines Kran- ken Gutes getan werden und die Pflegende konnte sich so ‚auf Erden den Himmel erwerben‘. Ebenfalls ihrer Eigenständigkeit enthoben, wurden Pfle- gekräfte hierarchisch den Ärzten unterstellt, sie wurden zu deren Handlangerinnen und Helferinnen. Gleichzeitig gründeten verschiedene Klöstern die ersten Universitäten der Medizin, deren Lehre und Studium waren dem männlichen Geschlecht vorbehalten. Die Wissenschaft nahm Einzug in die Heilkunde,"
+      },
+      {
+        "rank": 5,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.8981873393058777,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0734.txt",
+    "question": "Wie kann das systemtheoretische Denken als Grundlage für die ganzheitliche Betrachtung in der Pflege interpretiert werden?",
+    "answer": "PflegeberaterIn ist für die Angehörigen von Pflegebedürftigen eine vertrauenswürdige AnsprechpartnerIn, die sie in allen Fragen rund um die Pflege unterstützen kann. Durch die systemische Beratung in der Pflege können die PflegeberaterInnen ihre Kompetenzen erweitern und die Angehörigen von Pflegebedürftigen noch besser unterstützen. Die systemische Beratung in der Pflege ist ein wichtiger Bestandteil der Pflegeausbildung und kann die Umwandlung einer Organisation in eine lernende Organisation flankierend unterstützen. Die systemische Beratung in der Pflege kann auch dazu beitragen, dass die PflegeberaterInnen ihre Fähigkeiten und Kompetenzen als PflegeberaterInnen nutzen können, um die Angehörigen von Pflegebedürftigen zu unterstützen. Durch die systemische Beratung in der Pflege können die PflegeberaterInnen die Angehörigen von Pflegebedürftigen unterstützen, indem sie ihnen helfen, ihre Bedürfnisse zu erkennen und zu priorisieren, und ihnen bei der Suche nach geeigneten Hilfsmitteln und Ressourcen unterstützen. Die systemische Beratung in der Pflege kann auch dazu beitragen, dass die PflegeberaterInnen ihre Fähigkeiten und Kompetenzen als PflegeberaterInnen nutzen können, um die Angehörigen von Pflegebedürftigen zu unterstützen. Die systemische Beratung in der Pflege ist ein wichtiger Bestandteil der Pflegeausbildung und kann die Umwandlung einer Organisation in eine lernende Organisation flankierend unterstützen. Die systemische Beratung in der Pflege kann auch dazu beitragen, dass die PflegeberaterInnen ihre Fähigkeiten und Kompetenzen als PflegeberaterInnen nutzen können, um die Angehörigen von Pflegebedürftigen zu unterstützen. Durch die systemische Beratung in der Pflege können die PflegeberaterInnen die Angehörigen von Pflegebedürftigen unterstützen, indem sie ihnen helfen, ihre Bedürfnisse zu erkennen und zu priorisieren, und ihnen bei der Suche nach geeigneten Hilfsmitteln und Ressourcen unterstützen.",
+    "expected": "Das systemtheoretische Denken betrachtet den Menschen als ein komplexes, vernetztes System, in dem verschiedene Dimensionen und Einflüsse miteinander verbunden sind. Diese Sichtweise steht der Idee der Ganzheitlichkeit nahe, da sie nicht nur einzelne Aspekte isoliert betrachtet, sondern die Wechselwirkungen zwischen biologischen, psychischen, sozialen, Umwelt- und spirituellen Faktoren berücksichtigt. Somit kann das systemtheoretische Denken die theoretische Basis für eine umfassende ganzheitliche Pflege bilden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4c665501204e26fe528deb687bafaddfa06644c65029ffc154125e33b5168938",
+        "score": 0.996729850769043,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2090,
+          "_split_overlap": [
+            {
+              "doc_id": "6921fa35260689b2ccda049d64057b91b10e341c92feeddc8d4832092562b8f0",
+              "range": [
+                1038,
+                1428
+              ]
+            },
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                0,
+                345
+              ]
+            }
+          ]
+        },
+        "content": "Pflege zumindest in der Theorie eine ganzheitliche Betrach- tung und Anwendung am Menschen fokussiert und findet. Beim genaueren Recherchieren der Literatur sind ebenfalls recht kontroverse Meinungen auszumachen. Renate STEMMER (1999) beschreibt die Schwierigkeiten einen Menschen in seiner Ganzheitlichkeit zu betrachten. Sie belegt, dass auch in Vernetzungen der Pflegetheorien von bio-, psycho- und sozialen Einheiten eines Menschen die ganzheitliche Betrachtung dessen umstritten sei. Da noch weitere und auch unterschiedliche Bestandteile, je nach Betrachtung, wie z.B. Umwelt, Spiritualität und entwicklungsspezifische Variablen wenig Berücksichtigung finden. STEMMER stellt die Hypothese auf, dass zwischen der Ganzheit und den systemtheoretischen Überlegungen eine große Nähe besteht. Und begründet dies mit einem Grundgedanken des systemtheoretischen Denkens (vgl. Stemmer 1999:87). Weiterhin wird die Begriffsverwirrung von Ganzheitlichkeit und Patienten- orientierung ausgeführt, welches, "
+      },
+      {
+        "rank": 2,
+        "id": "143b4e8e96f4178783b3e8ce0eadc791961b6cf92e6f5c66aa0f401fa7ab0691",
+        "score": 0.993294894695282,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 18,
+          "split_idx_start": 20538,
+          "_split_overlap": [
+            {
+              "doc_id": "4ab72bc83483b72c08b0ffbdbf4a992ae4fd91432d7a08e947c3851833469511",
+              "range": [
+                1176,
+                1562
+              ]
+            }
+          ]
+        },
+        "content": "stellen. Damit würde der Mehr-Wert der systemischen Sichtweise in den Pflegeausbildungen und den relevanten Systemen anerkannt und könnte u.a. die Umwandlung einer Orga- nisation in eine lernende Organisation flankierend unterstützen. Dies setzt eine gewisse Offenheit voraus, die die Grundvoraussetzung für systemisches Denken und Handeln darstellt. Wie viel Veränderung vertragen und wollen die sozialen Systeme der Pflege- ausbildung?"
+      },
+      {
+        "rank": 3,
+        "id": "82979ee70a27318bab1b9017a83ab6c57678f2bc18694140aab98c5f6784422d",
+        "score": 0.9874802231788635,
+        "meta": {
+          "file_path": "9783866496811_chapter_102.txt",
+          "source_id": "1ec7c93f762ca444f6a581f666e34d2132dd40bbe24b464ec30931e4dd342f6b",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6819,
+          "_split_overlap": [
+            {
+              "doc_id": "e853f5436a2cecab04ff325b28a0a61642819e1b9cd8c91908d0541746cb9af4",
+              "range": [
+                1185,
+                1575
+              ]
+            }
+          ]
+        },
+        "content": "dazu ist natürlich, das die Pflegeberater und Pflegeberaterinnen die entspre- chende Weiterbildung erfahren haben und in den Grundzügen das systemische Beratungskonzept bzw. systemische Interventionen und die systemische Sichtweise verinnerlichen bzw. anwenden können, welches mit den ersten vier Modulen des Curriculum Entwurfs ‚Systemische Beratung in der Pflege‘ (vgl. Anhang 2) erlernt werden können. Da bereits einige Ressourcen zur systemischen Denkweise in der Profession Pflege als Grundlage vorhanden sind, liegt die Annahme nahe, dass viele Pflegefachkräfte nur einen gewissen Anstoß benötigen, um bereits intuitive systemische Fähigkeiten und Kompetenzen zu erkennen und bewusst anwen- den zu lernen."
+      },
+      {
+        "rank": 4,
+        "id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+        "score": 0.984178364276886,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1200,
+          "_split_overlap": [
+            {
+              "doc_id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+              "range": [
+                1200,
+                1591
+              ]
+            },
+            {
+              "doc_id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "sollte es bedeuten, dass eine Pflegefachkraft mit entsprechender Fachweiterbildung selbst die Spezialberatung in ihrem Fachgebiet durchführen kann. Ist also, wovon wir ausgehen, in der Fachweiterbildung zum Pflegeberater das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, kann die Pflegeberate- rIn die Angehörigen von Pflegebedürftigen beratend Unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt. Dieses Projekt zeigt, dass es möglich ist durch entsprechende Beratung pfle- gende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Dazu wurde ein spezifisches Qualifizierungskonzept entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflege- fachkräfte kommend aus der Ambulanten Pflege wurden in den drei Hauptschwerpunkten des Konzeptes unterrichtet: - Bedarfseinschätzung und Hilfeplanung - Beratungsinterventionen und Schulung - Vermittlung und Koordination von"
+      },
+      {
+        "rank": 5,
+        "id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+        "score": 0.9796229004859924,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "6.5.1 Systemische Qualifikationen der PflegeberaterInnen sind ausbaufähig Der Ausgangspunkt an welchem wir uns Befinden ist, dass die Pflegefach- kraft die Weiterbildung ‚Systemische Beratung in der Pflege‘ als Qualifizierung zur PflegeberaterIn bereits besitzt und auf diese Weise die durch das Pilotprojekt herausgearbeiteten Schwachstellen der Kommunikati- on und im Kontakt mit den Rat- und Hilfesuchenden ausgleicht. Mit den so erworbenen Beratungskompetenzen sind die PflegeberaterInnen in den Son- dierungsgesprächen in die Lage versetzt lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten was die Rat- und Hilfesuchende an weiterführender Leistung benötigen. Werden spezielle Leistungen von Fach- leuten, wie Fachärzte, Therapeutinnen, Krankenkassen, Wohnberatungsstellen u.a.m. benötigt, ist es an den PflegeberaterInnen dies zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Ist es ebenfalls möglich dass die PflegeberaterIn dem Ra"
+      }
+    ]
+  }
+]

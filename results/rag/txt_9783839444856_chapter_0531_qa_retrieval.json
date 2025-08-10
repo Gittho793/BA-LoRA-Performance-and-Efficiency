@@ -1,0 +1,646 @@
+[
+  {
+    "filename": "9783839444856_chapter_0531.txt",
+    "question": "Welche zwei Zugänge zur Professionalisierungsforschung im Beratungskontext unterscheidet Maier-Gutheil?",
+    "answer": "Maier-Gutheil unterscheidet zwischen zwei Zugängen zur Professionalisierungsforschung im Beratungskontext: einerseits die kompetenztheoretische Untersuchung professionellen Handelns, um ausdifferenzierte Kompetenzkataloge zu entwickeln, und andererseits die Aushandlungsprozesse innerhalb der bedingenden Faktoren und die daraus entstehenden Paradoxien und Spannungsverhältnisse.",
+    "expected": "Maier-Gutheil unterscheidet zwischen einem kompetenztheoretischen Zugang, der auf die Entwicklung von Kompetenzkatalogen abzielt, und einem Zugang, der sich auf die Aushandlungsprozesse innerhalb der bedingenden Faktoren sowie die daraus entstehenden Paradoxien und Spannungsverhältnisse konzentriert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9340f1b61704d25b18aef4d70ef79afb21b4c62fa10ed74006143b74c0ba723d",
+        "score": 0.9976567029953003,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8869,
+          "_split_overlap": [
+            {
+              "doc_id": "9633734368529750210c64d20aa03b0935e764a204b4f6dad1f2ff2797273fd0",
+              "range": [
+                1237,
+                1664
+              ]
+            }
+          ]
+        },
+        "content": "der Organisationen ausgeweitet (z.B. Ange­ botsgestaltung, Dokumentation, Evaluation), welche professionelle Bera­ tung gestalten und organisieren. Professionalität zeigt sich damit nicht nur im Beratungshandeln, sondern auch darin, »die eigene Zugangsweise und Praxis begründen zu können und eigenverantwortlich weiterzuentwickeln« (ebd., S. 23). Insbesondere in der Anerkennungsberatung als einer neu ent­ standenen und sich institutionalisierenden Beratungsform kommt der be­ gründeten und eigenverantwortlichen Weiterentwicklung des Beratungsan­ gebotes ein hoher Stellenwert zu. In der vorliegenden Arbeit wird professionelles Beratungshandeln als ein Aushandlungsprozess zwischen unterschiedlichen Anforderungen und Erwartungen verstanden, welcher sich in der Beschreibung des konkreten Beratungshandelns, den damit verbundenen Entwicklungen auf der Orga­ nisationsebene sowie der gesellschaftlichen Positionierung und Vernetzung zwischen den Beratungsstellen ausdrückt. Durch eine kritische Re"
+      },
+      {
+        "rank": 2,
+        "id": "dc3cb3cac1337748959df9a09127d20801327be9725ddd0ce3866807225fcc80",
+        "score": 0.989822506904602,
+        "meta": {
+          "file_path": "9783847412304_chapter_09.txt",
+          "source_id": "eeb6142fcbfdfd09265766e780c40a5dfa49998bb9c12866dc12173e7a9c02a7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "109ba8685b091b93aa4b71a5c4adcc470a5a1890f3e74911f1a57be76eabfb3a",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "### IV. Beratungskompetenz und Professionalisierung ### IV. Beratungskompetenz und Professionalisierung Christiane Schiersmann / Peter Weber Instrumente zur Erfassung der Kompetenzen von Beratenden im Feld Bildung, Beruf und ­Beschäftigung – Konzept und Erprobung 1. Einleitung Aus den aktuellen gesellschaftlichen Rahmenbedingungen für die Gestaltung der Bildungs- und Beschäftigungsbiografien, die eine hohe Individualisierung und Selbstverantwortung implizieren, resultiert ein wachsender Bedarf an professioneller Beratung. Dabei beschränkt sich Beratung nicht auf Übergänge, Sondersituationen und Krisen im Lebenslauf, sondern ist ausgerichtet auf Potenziale und Möglichkeiten, kann präventiv angelegt sein und ist dementsprechend als kontinuierliches, begleitendes Angebot zu verstehen (Schiersmann 2013, S. 25f.). Professionelle Beratung in Bildung, Beruf und Beschäftigung erfordert seitens der Beratenden spezifische und umfassende Kompetenzen, um eine qualitativ hochwertige soziale Dienstl"
+      },
+      {
+        "rank": 3,
+        "id": "0b2fe6103d275e3bb3dd0657c3c38a9162105272f0ead80519a0f53a0a0ade37",
+        "score": 0.9889870285987854,
+        "meta": {
+          "file_path": "9783847412304_chapter_0924.txt",
+          "source_id": "7839d69f0a1282f57c89877c8e19ddd2bfec1b2f1f432003d17931cc4c6bc066",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a51856ad8adae95730c21fb6ffa6ed5e0c59a9726f7ed18840d03ad804f40b26",
+              "range": [
+                0,
+                464
+              ]
+            }
+          ]
+        },
+        "content": "Subjektorientierte Professionalisierung als Programm für handlungswissenschaftliche Studiengänge In der weiteren Forschungs- und Theoriearbeit wird zu klären sein, ob eine berufsbiographisch früh einsetzende, bewusst gestaltete und konsequent subjektorientiert ausgerichtete Professionalisierung kompetente, akademisierte Beratungsfachkräfte hervorzubringen vermag. In den Handlungswissenschaften könnte das Ausloten einer solchen Perspektive den Brückenschlag zwischen bereits existierenden und breit etablierten Professionalisierungsmodellen wie beispielsweise der reflexiven Professionalisierung nach Dewe (Schwarz et al. 2014) einerseits und der bisher nicht vollständig eingelösten Kompetenzorientierung auf der Handlungsebene andererseits leisten (Otto 2014). Der im vorliegenden Artikel nachgezeichnete Transformationspro- zess einer Abkehr von der bisher als gesetzt geltenden Zweiphasenstruktur von Bildungsprozessen von Beratungsfachkräften verweist jedenfalls dar- auf, dass Hochschulen un"
+      },
+      {
+        "rank": 4,
+        "id": "86d52ba0ebe60bc2619d9b367741ccfd123b6ea71be47ec524cb0580f89e9e37",
+        "score": 0.9870175719261169,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                0,
+                461
+              ]
+            }
+          ]
+        },
+        "content": "3.3.1 Professionelles Beratungshandeln Für die berufliche Tätigkeit als Bildungs- und Berufsberater_in gibt es in Ös­ terreich und Deutschland keine einheitlich geregelte Ausbildung und damit weisen die tätigen Berater_innen unterschiedliche Qualifikationen auf (vgl. Sauer-Schiffer 2004, S. 14). Die Professionalisierung von Beratung stellt ein entsprechend wichtiges und umfangreiches Forschungsfeld dar. Maier-Gut­ heil (vgl. 2013) unterscheidet in ihrer Darstellung der Professionalisierungs­ forschung im Beratungskontext zwischen zwei Zugängen. Einerseits wird professionelles Handeln kompetenztheoretisch untersucht, um ausdifferen­ zierte Kompetenzkataloge zu entwickeln. Kritisch wird hier die Verbindung zur performativen Ebene der konkreten Handlungen hinterfragt. Den zwei­ ten Zugang bilden die Aushandlungsprozesse innerhalb der bedingenden Faktoren und die daraus entstehenden Paradoxien und Spannungsverhält­ nisse (vgl. ebd., S. 179ff.). Nachfolgend wird auf ausgewählte Schwerpunkte"
+      },
+      {
+        "rank": 5,
+        "id": "9b45cfb0e83510c3e19597c3fd6bae5ec4d715d772857f96d6657928e57e7521",
+        "score": 0.9868103265762329,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6707,
+          "_split_overlap": [
+            {
+              "doc_id": "a3ba8dbc5826fe3b5742e6687ca5af7dbe2247dc6687b13e002a449391cb4b5e",
+              "range": [
+                1412,
+                1875
+              ]
+            }
+          ]
+        },
+        "content": "Verweisstrukturen, im Wissensmanagement, in der Umsetzung von Professionalisierungsangeboten sowie in der Auswahl ziel- gruppenspezifischer und bedarfsgerechter Beratungstools. Eine Berücksichtigung dieser Aspekte könnte wesentlich zur Sicherung des zielgruppenspezifischen Beratungswissens auf der einen Seite und zur Optimierung der Beratungsstrukturen für nicht-traditionell Studieninteres- sierte auf der anderen Seite und somit zu einer Professionalisierung von öf- fentlichen Hochschulen auf dem Feld der wissenschaftlichen Weiterbildung insgesamt beitragen."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0531.txt",
+    "question": "Was versteht man unter der »Doppelverortung von Beratung« nach Engel et al.?",
+    "answer": "Die Doppelverortung von Beratung umfasst die Betrachtung von Beratung aus zwei Perspektiven: als Anleitung von Lernprozessen und als Hilfe bei der Bewältigung krisenhafter Lebens- und Arbeitsbedingungen. Beratung kann als Lernprozess angesehen werden, bei dem die Person lernt, ihre Kompetenzen zu erweitern und ihre Situation zu verbessern. Gleichzeitig kann Beratung auch als Hilfe bei der Bewältigung krisenhafter Lebens- und Arbeitsbedingungen angesehen werden, bei der die Person Unterstützung bei der Bewältigung von Herausforderungen und Krisen erhält. Diese Doppelverortung von Beratung spiegelt die Komplexität der Beratung wider, die sowohl lernende als auch unterstützende Elemente beinhalten kann.",
+    "expected": "Die »Doppelverortung von Beratung« bezeichnet die Kombination aus handlungsfeldspezifischem Fachwissen und feldunabhängigen Beratungskompetenzen, also die Verbindung von spezifischem Wissen über das Beratungsfeld mit allgemeinen Kompetenzen wie Gesprächsführung und Aufbau einer konstruktiven Beratungsbeziehung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+        "score": 0.9793792963027954,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12933,
+          "_split_overlap": [
+            {
+              "doc_id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+              "range": [
+                1104,
+                1495
+              ]
+            },
+            {
+              "doc_id": "720a21e474d1d982ad9e42c74276eb8280d32ec5285d3621366adce245ff53eb",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "man inzwischen von einem doppelten Bezug zwi­ schen Beratung und Erwachsenenbildung sprechen. Beratung kann seit dem ‚Shift from Teaching to Learning‘ implizit oder explizit5 selbst als Grundprin­ zip in der Begleitung von Lernprozessen angesehen werden. Damit erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können dann darunter gefasst wer­ den, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie es z.B. bei Coaching, Supervision und Mediation der Fall ist. Gleichzeitig bewegt sich die Didaktik der Erwachsenenbildung stärker auf die Integration von Beratungsprozessen zu (vgl. Gieseke 2000: 14 und Schiersmann 2015: 101).6 Es gehört zur Tradition der Erwachsenenbildung, Lehr-Lernprozesse als Begleitung von Selbstlernprozessen zu betrachten (vgl. Arnold 2010). Wir Menschen müssen uns jeden Tag auf Veränderungen und neue Situationen einstellen. Wir sind sozusagen perm"
+      },
+      {
+        "rank": 2,
+        "id": "5c593f4458aa17fc49f93d1b77b17dda73bb73fd2d0f0a7fc954cd7dc4a58fee",
+        "score": 0.9735530018806458,
+        "meta": {
+          "file_path": "9783847412304_chapter_0723.txt",
+          "source_id": "f915d6d4d9c0cb0af2d60edaf21cbae4963feb786bbfec5acb2120139ef15d94",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f7620b80229103292bbc2067cd3db483a705a3416e28e83c8b96797a1eb7b189",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "3. (Reise-)Beratung und die doppelte Differenz An Beratung kommt man nur schwer vorbei. Die Zunahme und Ausweitung von Beratungsangeboten führt tendenziell dazu, dass sich Subjekte überall, jederzeit und lebenslänglich1 beraten lassen können. Beratung kann folglich betrachtet werden „als ein Schema der Kommunikation, das in allen gesell- schaftlichen Kontexten anwählbar geworden ist“ (Fuchs/Mahler 2000: 358). Was mit Beratung jedoch angewählt wird, soll im Folgenden zunächst un- ter dem Postulat einer doppelten Differenz von Beratung betrachtet werden. Dabei werde ich bei der Thematisierung von Beratung zwischen Rat und Tat (vgl. ebd.) sowie zwischen Selbst- und Fremdbestimmung (Duttweiler 2004) unterscheiden. Die Unterscheidung von Rat und Tat nähert sich dem Thema Beratung unter einer systemtheoretischen Perspektive über einen zeitlichen Abstand zwischen dem Akt der Beratung und einer nachgelagerten beratenen Tat (vgl. ebd.: 350f). Das Einholen von Rat als „Aufschub“ des Tuns geht da"
+      },
+      {
+        "rank": 3,
+        "id": "236ea72440add4ceac68f0ac06f8892105d38229af0ed48029aa36f36244e507",
+        "score": 0.9256870150566101,
+        "meta": {
+          "file_path": "9783847412304_chapter_1042.txt",
+          "source_id": "ad5050796989f7a2c7f2eb3f1e111897805bdf7de85748cab6aff51826b24922",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3e9a644f5d21c99740262864c9a46ba344f28ccaaaa5abf91b1ab77387774196",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung und Intervention im Hochschulkontext Laut Schubert (2015) bemüht sich die Beratung derzeit um Professionalisie- rung hinsichtlich eines gemeinsamen Ausbildungs- und Beratungsverständ- nisses sowie der Qualitätssicherung unter Einbindung von Wissenschaft. „Beratung ist […] als professionelles Angebot zu ko-konstruktiven, reflexiven Hilfestellungen in der Bewältigung krisenhafter moderner Lebens- und Ar- beitsbedingungen“ (ebd.: 41) zu verstehen. Der Beratung kommt daher ein besonderer Stellenwert im Rahmen der Erwachsenenbildung an Hochschulen zu. Verschiedene Präventions- und Interventionsmaßnahmen werden derzeit mit dem Ziel, Studierende über die Beratung hinaus bei ihrem Studium zu un- terstützen und Abbrüche zu vermeiden, an deutschen Universitäten erprobt, eingerichtet oder evaluiert (Ahles et al. 2016; Blüthmann et al. 2008; Kolb et al. 2006; Pelz/Schulze-Stocker 2018). Zu diesen Maßnahmen, die zum Teil auch als zeitlich begrenzte Projek- te angeboten werden, zählen au"
+      },
+      {
+        "rank": 4,
+        "id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+        "score": 0.8276232481002808,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3432,
+          "_split_overlap": [
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                1247,
+                1632
+              ]
+            }
+          ]
+        },
+        "content": "(durch Unterstützung der Filetierung) nicht noch Vorschub leistet. Beratung hat u.a. auch eine gesellschaftliche Funktion (vgl. Seel, 2009:4) Die Metaperspektive von Beratung – als mikro- und makrosystemische – ist von nachhaltiger Bedeutung für die Professionalität von Beratung. Insofern ist Beratung ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient- Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gül- tigkeit zu reklamieren gedenkt. Als weitere systemische Kompetenzen von Beratung können Fähigkeiten des Beraters ausgemacht werden - vernetzt zu denken, und Wechselbeziehungen, Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen - die adäquate Vernetzung mit anderen Hilfesystemen - komplexe Auftragssituationen sind zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen: - Anlass, An"
+      },
+      {
+        "rank": 5,
+        "id": "9cce25d75aa7d01dc0d5ba7be6f575ecaf4a61257eeb893c00964b03abb5e674",
+        "score": 0.7396789789199829,
+        "meta": {
+          "file_path": "9783839444856_chapter_07422.txt",
+          "source_id": "7581616e4af8c45e80a1b2c83672affe310e2092af4e543c3bc9e87426d1f271",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2484,
+          "_split_overlap": [
+            {
+              "doc_id": "805f1c7e8a607c728373bcaa701ede7e32e342733fac417f6c87f8eae154bac0",
+              "range": [
+                1161,
+                1478
+              ]
+            },
+            {
+              "doc_id": "190ec37dcbfdc8ca6a67ede0da118d78e1d480b56aaae605573a840981bf2e32",
+              "range": [
+                0,
+                470
+              ]
+            }
+          ]
+        },
+        "content": "dann verweise ich sie weiter, manchmal habe ich selber Ideen, die ich sag: ›Probieren Sie doch das.‹ Kann man aber nur so nebenher. Also ich mach kein Bewerbungscoaching oder so, das sprengt das Ganze. Das wäre aber bei vielen notwendig« (D/DE, Z. 412-416). Voraussetzung für diese »Verweisfunktion« der Beratung ist ein trans­ parentes und abgegrenztes Beratungsverständnis. Stanik (vgl. 2015) weist darauf hin, dass die institutionelle Eingrenzung des Beratungsgegen­ standes in der Weiterbildungsberatung durch mit dem Beratungsanliegen implizit verbundene Problemstellungen erschwert werden kann. Von den Berater_innen wird hier die Fähigkeit gefordert, professionelle Distanz zu wahren, Beratungsanliegen bearbeitbar zu halten und bei Bedarf auch tatsächlich an entsprechende Institutionen weiter zu verweisen (vgl. ebd., S. 208). Die Professionalität zeigt sich damit auch in der Fähigkeit, sich den Grenzen von Beratung innerhalb der gegebenen Strukturen bewusst zu sein, um alternative Handlu"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0531.txt",
+    "question": "Wie wird die Notwendigkeit der Kombination von handlungsfeldspezifischem Wissen und feldunabhängigen Beratungskompetenzen in der professionellen Beratung begründet?",
+    "answer": "Die Notwendigkeit der Kombination von handlungsfeldspezifischem Wissen und feldunabhängigen Beratungskompetenzen in der professionellen Beratung wird begründet durch die Tatsache, dass professionell handelnde Beraterinnen und Berater nicht nur kompetent handeln sollten, sondern auch ein professionelles Gespür sowie eine erhöhte kognitive Wahrnehmungsschärfe für die Qualität des eigenen Handelns benötigen. Dieser Stellenwert von Reflexion und Beratungskompetenz wird durch die Erwartung begründet, dass Beraterinnen und Berater in der Lage sein sollten, professionelles Handeln auf Basis von (Selbst-)Beobachtungen und dem eigenen theoretischen Wissen differenziert zu beschreiben, den Handlungsprozess auf Basis wissenschaftlicher Theorien und Befunde zu erklären und zu begründen und die potentiellen Wirkungen des situativen Handelns auf weitere Interaktionen vorherzusagen und auf dieser Annahme Handlungsalternativen und Handlungsvervollständigungen zu entwickeln. \n        I cannot find the answer in the provided context.",
+    "expected": "Die Kombination ist notwendig, weil nur durch das Zusammenwirken beider Kompetenzarten Beratung als professioneller Kommunikations- und Interaktionsprozess gestaltet werden kann. Handlungsfeldspezifisches Wissen liefert die fachliche Orientierung, während feldunabhängige Kompetenzen die Gesprächsführung und Beziehungsaufbau ermöglichen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "de0cba158e3b9ae7364c63054facb948021dbaebe4e9349d471335b02441c9c1",
+        "score": 0.9854279160499573,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1194,
+          "_split_overlap": [
+            {
+              "doc_id": "58e1f6a688e13aec6df8458ac0516ec351f8ab9698e17faa4b733c0619cc5ce2",
+              "range": [
+                1194,
+                1598
+              ]
+            },
+            {
+              "doc_id": "cbb4864453b8e2882090a0dd0ed2f1951011922b4deb63f47879175f12b1d0fb",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "von Beratungskompetenz erreicht werden. Reflexion meint dabei das Überdenken von Erfahrungen, Ereignissen und Handlungen im Nachhinein (retrospektive Reflexion) sowie das Bedenken von zukünftigen Handlungen und ihren Folgen (prospektive Reflexion) (s. Abbildung 4) auf der Grundlage von bestehenden Normen, Werten, Wissens- und Erfahrungsbeständen (vgl. Gillen 2009, S. 108f.). Reflexion als Bewusstheit über die eigenen Kompetenzen und das eigene Tun wird als Kernelement von Professionalität aufgefasst (vgl. Combe/Kolbe 2008, S. 859). Der herausgehobene Stellenwert von Reflexion begründet sich wie folgt: Wir gehen davon aus, dass professionell Beratende nicht nur kompetent handeln sollten, sondern auch ein professionelles Gespür sowie eine erhöhte kognitive Wahrnehmungsschärfe für die Qualität des eigenen Handelns benötigen (Dörr 2014, S. 18). Die Beratenden sollten in der Lage sein professionelles Handeln auf Basis von (Selbst-)Beobachtungen und dem eigenen theoretischen Wissen differenz"
+      },
+      {
+        "rank": 2,
+        "id": "cbb4864453b8e2882090a0dd0ed2f1951011922b4deb63f47879175f12b1d0fb",
+        "score": 0.9805769324302673,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2353,
+          "_split_overlap": [
+            {
+              "doc_id": "de0cba158e3b9ae7364c63054facb948021dbaebe4e9349d471335b02441c9c1",
+              "range": [
+                1159,
+                1605
+              ]
+            },
+            {
+              "doc_id": "0e6639f8137407bae35eb062205f1fcc94ca1546db41530d1e3da4bf62082320",
+              "range": [
+                0,
+                425
+              ]
+            }
+          ]
+        },
+        "content": "Nicht zuletzt wird von professionell Handelnden erwartet, die potentiellen Wirkungen des situativen Handelns auf weitere Interaktionen vorherzusagen und auf dieser Annahme Handlungsalternativen und Handlungsvervollständigungen zu entwickeln. Aus diesem Dreiklang begründet sich die Strukturierung der Instrumente, die (in verschiedenen Varianten) sowohl Handlungsbeobachtung als auch Handlungsreflexion und die Vervollständigung von Handeln bzw. die Frage nach Handlungsalternativen beinhalten. Die einzelnen Instrumente wurden zunächst auf der Basis vorhandener Beispiele aus verschiedenen professionellen Handlungsfeldern konzipiert (Schiersmann/Petersen/Weber 2017, S. 30–42). Berücksichtigt wurden dabei insbesondere die Bildung der Lehrpersonen, die Berufspädagogik, die betriebliche (Weiter-)Bildung sowie die Beratung. Neben der Berücksichtigung der Funktionalität der Instrumente wurde bei der Entwicklung auch auf die weitere Operationalisierung des Kompetenzprofils auf Basis von videograph"
+      },
+      {
+        "rank": 3,
+        "id": "ad4fe62dc33bf8aefb07594eb9f62a590bf9abb32769bb9dd1cd9d49ce579df3",
+        "score": 0.9659655690193176,
+        "meta": {
+          "file_path": "HiBiFo_2019_1_Obermoser_Beraten_und_Diagnostizieren_chapter_02.txt",
+          "source_id": "5a8a65ed0e98dfd6f003f069dd5e63e056b8db8c03ac954ea5830081478f78b9",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 13592,
+          "_split_overlap": [
+            {
+              "doc_id": "9384b84754ec5485e84bcfcfa6b37b238200ebcfc27b255846ee2da3c34134d9",
+              "range": [
+                1182,
+                1600
+              ]
+            },
+            {
+              "doc_id": "7b3c86b00bc2212e423f86510bb88275802044773d7a693e0a551a10822b446c",
+              "range": [
+                0,
+                457
+              ]
+            }
+          ]
+        },
+        "content": "und -therapie Auch wenn gesetzliche Rahmenbedingungen für die unterschiedlichen Berufsfelder in diesem Bereich vorliegen, so kommt es doch aufgrund gewisser inhaltlicher Überschneidungen oder Begriffsähnlichkeiten immer wieder zu Fehlannahmen über die Ziele von Ernährungsbildung im Unterricht und Aufgaben von Lehrperso- nen3. 3.2.1 Handlungsfelder Beraten und Diagnostizieren In der Vielzahl von Beratungsbegriffen, ursprünglich verstanden als alltägliche, helfende soziale Interaktion, hat sich das Ratgeben immer mehr zu einer professio- nellen Handlungsform entwickelt (Elbing, 2000). Ein Spezifikum von Profession sind dabei Machtkämpfe zur Sicherung von Zuständigkeiten und zur Klärung von Berufsprivilegien – das gilt sowohl für den Lehrberuf als auch für die in dieser Interventionsebene angesiedelten Gesundheitsberufe (Helsper, 2004). So gibt es in Österreich beispielsweise eine klare Trennung zwischen medizinischer und ge- werblicher Ernährungsberatung sowie spezialisierende, abgrenzen"
+      },
+      {
+        "rank": 4,
+        "id": "6f0c6da8f2329db24d2729386e2f103651afeaba74816d6c1414b9c3c3b57e97",
+        "score": 0.9546599984169006,
+        "meta": {
+          "file_path": "9783839444856_chapter_074.txt",
+          "source_id": "d36940a7d6c8a9163902d7fb90da8b3925b48b081786036cd0a66a33217e8c74",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4ecac239027f06772cc9196b40b2ede22cc60b6b7da1dd1ad91e9753c83f7d0b",
+              "range": [
+                0,
+                495
+              ]
+            }
+          ]
+        },
+        "content": "5.4 Professionelle Handlungsstrategien Professionelles Beratungshandeln ist durch den bewussten Umgang mit wi­ dersprüchlichen Anforderungen und Erwartungen gekennzeichnet. Diese Widersprüchlichkeiten ergeben sich in der Anerkennungsberatung in Aus­ einandersetzung mit den beschriebenen strukturellen Rahmenbedingun­ gen, welche die Beratungstätigkeit entsprechend dem beruflichen Selbst­ verständnis erschweren oder einschränken können. Es stellt sich die Frage, welche Handlungsstrategien die Berater_innen innerhalb der identifizierten Spannungsfelder in der Anerkennungsberatung entwickeln, um handlungs­ fähig zu bleiben. Zur Analyse der professionellen Handlungsstrategien wird Aufgabenfelder (restriktive) Rahmenbedingungen Orientierung knappe Zeit- und Personalressourcen Prozess Filterfunktion fehlende Anerkennung der Beratungsstellen Verfahrensbegleitung ausdifferenzierte, unübersichtliche rechtliche Rahmenbedingungen und Zuständigkeiten berufliche Integration fehlende (Weiter-) Bildun"
+      },
+      {
+        "rank": 5,
+        "id": "db3a1d93cd9e3a2eeb371c3620a19d058de4118170cf4988c9bf00afc8d6b19f",
+        "score": 0.9482297897338867,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3 Erfahrungsraum Beratung: Handlungsorientierung ### Handlungsorientierung 3.1 \u0007Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter­ schiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech­ niken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie in diesem Band verwenden – einen eigenen Beitrag. „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön­ nen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen. Bezogen auf die „Stolperstein-Methode“ (s. S. 123) werden z. B. Gesprächs- und Visualisierungstechni"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0531.txt",
+    "question": "Warum wird die Verbindung zwischen kompetenztheoretischer Untersuchung und der performativen Ebene der Beratungshandlungen kritisch hinterfragt?",
+    "answer": "Die Verbindung zwischen kompetenztheoretischer Untersuchung und der performativen Ebene der Beratungshandlungen wird kritisch hinterfragt, weil sie die Aushandlungsprozesse innerhalb der bedingenden Faktoren und die daraus entstehenden Paradoxien und Spannungsverhältnisse nicht berücksichtigt. (vgl. Maier-Gutheil 2013, S. 179ff.).",
+    "expected": "Weil kompetenztheoretische Ansätze zwar differenzierte Kompetenzkataloge entwickeln, jedoch oft die tatsächliche Umsetzung und das konkrete Handeln im Beratungsgeschehen nicht ausreichend berücksichtigen. Diese Diskrepanz zwischen Theorie und Praxis wird kritisch gesehen, da professionelles Handeln nicht nur aus Kompetenzen besteht, sondern auch aus deren Anwendung in realen Situationen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "86d52ba0ebe60bc2619d9b367741ccfd123b6ea71be47ec524cb0580f89e9e37",
+        "score": 0.9745377898216248,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                0,
+                461
+              ]
+            }
+          ]
+        },
+        "content": "3.3.1 Professionelles Beratungshandeln Für die berufliche Tätigkeit als Bildungs- und Berufsberater_in gibt es in Ös­ terreich und Deutschland keine einheitlich geregelte Ausbildung und damit weisen die tätigen Berater_innen unterschiedliche Qualifikationen auf (vgl. Sauer-Schiffer 2004, S. 14). Die Professionalisierung von Beratung stellt ein entsprechend wichtiges und umfangreiches Forschungsfeld dar. Maier-Gut­ heil (vgl. 2013) unterscheidet in ihrer Darstellung der Professionalisierungs­ forschung im Beratungskontext zwischen zwei Zugängen. Einerseits wird professionelles Handeln kompetenztheoretisch untersucht, um ausdifferen­ zierte Kompetenzkataloge zu entwickeln. Kritisch wird hier die Verbindung zur performativen Ebene der konkreten Handlungen hinterfragt. Den zwei­ ten Zugang bilden die Aushandlungsprozesse innerhalb der bedingenden Faktoren und die daraus entstehenden Paradoxien und Spannungsverhält­ nisse (vgl. ebd., S. 179ff.). Nachfolgend wird auf ausgewählte Schwerpunkte"
+      },
+      {
+        "rank": 2,
+        "id": "a05ecf8e32d31f34866b906f1d00b3d771026d4b4e51cbc953d3bc563e3795c5",
+        "score": 0.9281431436538696,
+        "meta": {
+          "file_path": "9783847412304_chapter_0912.txt",
+          "source_id": "f50476e729c5db7296f7b01bf9210a0eb4891cbb3cd754c61ae1561aa61f3d48",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a1fda31d0701ee23dda4e97c9aa81c423f9c1315cc2994d58bfe7df72da1163e",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "2. Kompetenzverständnis, Kompetenzmodell und ­Kompetenzprofil für Beratende Kompetenzen können als Kern der Professionalität (von Beratenden) beschrie- ben werden. Das hier vertretene Kompetenzverständnis orientiert sich dabei an einem performanzorientierten Kompetenzbegriff, der den Zusammenhang von Dispositionen und Handeln fokussiert. Dies bedeutet, dass insbesondere die Performanz betrachtet werden soll, die allerdings auf vielfältigen Res- sourcen bzw. Dispositionen (u. a. Wissen, Fertigkeiten, Emotionen und Moti- vation) basiert, die für eine kompetente Handlung notwendig sind. Dabei ist zu beachten, dass der Zusammenhang zwischen den erforderlichen Ressour- cen und der Performanz in der Handlungssituation konzeptionell hergestellt bzw. theoretisch begründet werden muss. Weinert (2001, S. 54) schlägt vor, in diesem Zusammenhang bestimmte Metakompetenzen zu berücksichtigen, die es Individuen ermöglichen, in einer konkreten Situation adäquat auf Fä- higkeiten und Wissen etc. zurück"
+      },
+      {
+        "rank": 3,
+        "id": "109ba8685b091b93aa4b71a5c4adcc470a5a1890f3e74911f1a57be76eabfb3a",
+        "score": 0.9237971901893616,
+        "meta": {
+          "file_path": "9783847412304_chapter_09.txt",
+          "source_id": "eeb6142fcbfdfd09265766e780c40a5dfa49998bb9c12866dc12173e7a9c02a7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1272,
+          "_split_overlap": [
+            {
+              "doc_id": "dc3cb3cac1337748959df9a09127d20801327be9725ddd0ce3866807225fcc80",
+              "range": [
+                1272,
+                1667
+              ]
+            },
+            {
+              "doc_id": "508f5ba7419355657c873f98edb957138a5438ca6840903556ca63345caef801",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "Frage nach geeigneten Instrumenten, mit deren Hilfe die Kompetenzen der Beratenden zuverlässig und nahe am situativen Kontext des Beratungsfeldes erfasst und bewertet werden können, um daraus Perspektiven für die Weiterentwicklung des persönlichen Kompetenzprofils erarbeiten zu können. Gerade bei einer so anspruchsvollen Dienstleistung wie der Beratung besteht eine große Herausforderung (für die Forschung, aber z. B. auch in der Ausbildung von Beratenden) darin, die erforderlichen Kompetenzen übergreifend (d. h. auf verschiedene Settings, Zielgruppen oder Beratungsansätze ausgerichtet) und zugleich detailliert zu beschreiben, und darüber hinaus vor allem darin, diese angemessen zu dokumentieren und zu bewerten. Zurückblickend auf die letzten Jahre lassen sich in unterschiedlichen Fachdisziplinen eine Vielzahl von Forschungsvorhaben konstatieren, die sich intensiv mit dem Thema Kompetenzerfassung auseinandersetzen und das Kompetenzkonstrukt in seiner Komplexität anhand verschiedener met"
+      },
+      {
+        "rank": 4,
+        "id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+        "score": 0.9229363203048706,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1289,
+          "_split_overlap": [
+            {
+              "doc_id": "86d52ba0ebe60bc2619d9b367741ccfd123b6ea71be47ec524cb0580f89e9e37",
+              "range": [
+                1289,
+                1750
+              ]
+            },
+            {
+              "doc_id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+              "range": [
+                0,
+                427
+              ]
+            }
+          ]
+        },
+        "content": "Kombination mit feldunspezifischen Methodenkompetenzen als not­ wendige Grundvoraussetzungen professioneller Beratung (vgl. Abb. 11). Zur fachlichen Orientierung benötigen Berater_innen zunächst spezifisches Fachwissen für ihr Beratungsfeld. Dazu gehören gesicherte Wissensbestän­ de zu den Grundlagen und Entwicklungen im Handlungsfeld ebenso wie neue Erkenntnisse über die Lebensbedingungen der Zielgruppen. Neben diesem handlungsfeldspezifischen Wissen sind feldunabhängige Bera­ tungskompetenzen notwendig, welche die Gesprächsführung, den Aufbau einer konstruktiven Beratungsbeziehung und den Einsatz von Beratungs­ methoden betreffen. Erst durch das Zusammenwirken dieser Kompetenzen kann Beratung als Kommunikations- und Interaktionsprozess professionell gestaltet werden. Die Autor_innen bezeichnen diese Kombination aus Bera­ tungs- und Interaktionswissen mit handlungsfeldspezifischem Wissen als »Doppelverortung von Beratung« (Engel et al. 2014, S. 35). Abbildung 11: Doppelverortung von B"
+      },
+      {
+        "rank": 5,
+        "id": "022d2c4085e3cb5a8ed6bc4b97b92739d51b2cabcd80a2ddaa960653f3b69c8d",
+        "score": 0.9147311449050903,
+        "meta": {
+          "file_path": "9783847412304_chapter_0914.txt",
+          "source_id": "3416aee1f452f2d35fe876984e8b2fc872243992cff786b0ddf19621414a78a5",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3715,
+          "_split_overlap": [
+            {
+              "doc_id": "72a528d24c9652b94090cb5e3617caffcc595ff9befb16485b6afe8f8d515d84",
+              "range": [
+                1209,
+                1590
+              ]
+            }
+          ]
+        },
+        "content": "Vorgehensweisen und Ansätzen der Beratung) eine Herausforderung. Auch das Ziehen von Rückschlüssen aus der Beobach- tung von Performanz auf die Kompetenz von Beratenden bleibt eine metho- dische Herausforderung. Die Einbeziehung von (handhabbaren und validen) introspektiven Verfahren der Reflexion erscheint ein wichtiger und vielver- sprechender Weg zu sein. Die Entwicklung und Validierung von einerseits differenzierten und andererseits praxisangemessenen Verfahren bleibt für das Ziel einer umfassenden und professionsangemessenen Kompetenzerfassung eine anspruchsvolle Aufgabe."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_0531.txt",
+    "question": "Wie beschreibt das systemische Kontextmodell von Schiersmann et al. das Beratungssystem, und welche Bedeutung hat dies für das Verständnis professionellen Beratungshandelns?",
+    "answer": "Das systemische Kontextmodell von Schiersmann et al. beschreibt das Beratungssystem als ein Zusammenspiel von verschiedenen Systemen, darunter dem Beratungsprozess, den Systemen der Klient_innen und der Berater_innen. Es umfasst zwei Ebenen: (1) Beratungs- und Interaktionswissen, das Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie und Beratungsmethoden umfasst, und (2) Handlungsspezifisches Wissen, das Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen und gesetzliche Grundlagen umfasst. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zugerechnet. Diese Form der Darstellung als Kontextmodell macht deutlich, dass professionelles Beratungshandeln nicht nur Kompetenzen zur Gestaltung des Beratungsprozesses voraussetzt, sondern auch Kompetenzen im Umgang mit der Institution und der Gesellschaft beinhaltet. Die Definition von Kompetenzanforderungen und Wissenssystemen stellt in diesem Modell die Voraussetzung für professionelle Handlungsfähigkeit und -sicherheit innerhalb der gesellschaftlichen und institutionellen Rahmenbedingungen dar. Dies führt zu einem zunehmenden Bewusstsein für die Bedeutung von gesellschaftlichen und institutionellen Rahmenbedingungen in der Beratungsforschung. Somit ist das systemische Kontextmodell von Schiersmann et al. ein wichtiger Beitrag zum Verständnis professionellen Beratungshandelns und unterstreicht die Bedeutung eines umfassenden Kontexts für die Beratung. \n\nI cannot find the answer in the provided context.",
+    "expected": "Das systemische Kontextmodell beschreibt das Beratungssystem als ein Zusammenspiel aus dem Beratungsprozess selbst sowie den Systemen der Klient_innen und der Berater_innen. Dieses Modell erweitert die Perspektive auf Beratungskompetenzen, indem es die Wechselwirkungen und Kontextfaktoren berücksichtigt, die professionelles Beratungshandeln beeinflussen und somit eine ganzheitlichere Sicht auf die Herausforderungen und Voraussetzungen professioneller Beratung ermöglicht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "74b5295473d3b6cf858ae530420c4339fde3e2cf1ba3cfb45b4b6aff81594e24",
+        "score": 0.9981703758239746,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2653,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                1364,
+                1791
+              ]
+            },
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "Eine erweiterte Perspektive auf Kom­ petenzen in der Beratung bietet das systemische Kontextmodell von Schiers­ mann et al. (vgl. 2008). Die Autor_innen beschreiben im Zentrum ihrer Dar­ stellung das Beratungssystem, welches neben dem Beratungsprozess die Systeme der Klient_innen und der Berater_innen umfasst. Eingefasst wird (1)Beratungs- und Interaktionswissen Kommunikationsmodelle, Handlungsmodelle, Veränderungsmodelle, Kontextmodelle, Prozessmodelle, Beratungsmethodologie, Beratungsmethoden, etc. (2) Handlungsspezifisches Wissen Faktenwissen zur jeweiligen Problemlage, Kausalmodelle, Interventionsformen, gesetzliche Grundlagen, etc. das Beratungssystem von dem organisationalen und gesellschaftlichen Kon­ text. Jeder Ebene und jedem System werden Kompetenzen zur Gestaltung des Systems oder Prozesses sowie in Bezug auf die beteiligten Personen zu­ geordnet (vgl. Abb. 12). Diese Form der Darstellung als Kontextmodell macht insbesondere deutlich, dass professionelles Beratungshandeln n"
+      },
+      {
+        "rank": 2,
+        "id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+        "score": 0.9954712390899658,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1155,
+          "_split_overlap": [
+            {
+              "doc_id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+              "range": [
+                1155,
+                1534
+              ]
+            },
+            {
+              "doc_id": "68d9f8b21ee11ad0662f6dd327ee9d5c17dc6d3dba333963654f1a294107d67d",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "so scheint die neue Herausforderung darin zu liegen, den Kontext, den Rahmen von Beratung und die Lebenswelt von Klienten in Forschungs- prozesse und der wissenschaftlichen Theoriebildung eine weitaus bedeutsamere Rolle zu geben. Abb.5: Systemisches Kontextmodell der Beratung Die verschiedenen Ebenen der Betrachtung von Beratung in Theoriebildung und Forschung kommt folgendes Bild nahe. Beratung ist darin als ein Akt des Pendelns von Mikro-, Meso- und Makro-Ebene zu sehen und verlangt hohe fachliche Kompetenzen der Reflexion auf unterschiedlichen Ebenen des Prozessgeschehens von Beratung. Die reinen klientenbezogenen Theorien und Konzepte von Beratung verken- nen die Komplexität des Beratungsgeschehens. Das Umfeld, die lebensbegleitenden nächsten Menschen (Familie, Freunde, etc.) erscheinen Gesellschaftlicher Kontext Organisationaler Kontext Beratungs System Ratsuchenden-System Berater-System Lösung Klärung Beziehung z.B. Person (beruflich, Biographie, Einstellung, Erfahrungen) private"
+      },
+      {
+        "rank": 3,
+        "id": "d9c510e8fe44e8e6066a8a1c564c5c221089c1df58e22063440c879cfc699563",
+        "score": 0.993159294128418,
+        "meta": {
+          "file_path": "9783866496811_chapter_094.txt",
+          "source_id": "9a5c59e8341e0c0160fa175a837b6af6e6ef8f36add18761ba4c64fa81973442",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.4. Systemisch Beraten – aber wie? Der systemische Beratungsprozess soll als Hilfe bei notwendigen oder ge- wünschten Veränderungen oder der bewussten Bewahrung und Erfahrung von Ressourcen im Kontext des Lernens in der Pflegeausbildung verstanden werden. Lehrende, Praxisanleiter und Lernende üben alltäglich beratende Funktion aus. Im Kontext von Lernen kann ein professioneller systemischer Beratungsprozess selbst wesenhaft als personaler Bewältigungsprozess der beruflichen Anforderungen in den verschiedenen Lernorten angesehen wer- den. Hierzu gibt es bereits mehrere Veröffentlichungen. (vgl. u.a. Culley 2002, Lipitt/Lipitt1999) Beratungsmerkmale sind der strukturierte Prozess, die präzise Ziel-und Auf- tragsklärung, das Tempo und die Geschütztheit des Klienten /Ratsuchenden, die ethischen Prinzipien, die Kenntnis von Grenzen und deren Respekt, der Vertrauensschutz. (vgl. Zwicker-Pelzer 2010:43-54) Unsere hier dargelegten modellhaften Phasen eines Beratungsprozesses sind der Veröffen"
+      },
+      {
+        "rank": 4,
+        "id": "d413c8d7d5cba62dfc7708b5f3018ad08ba2ed3724e09cd7a4c8c04bb0b92219",
+        "score": 0.9907543659210205,
+        "meta": {
+          "file_path": "9783866496811_chapter_05.txt",
+          "source_id": "f94971cb221a79adc5cf8aeef75db05cf36a3c7861848ac0e87a1f71633c314c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung ### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung Auf die jeweilige Person zentriert, auf deren soziales Umfeld bezogen und im Feld der professionellen Pflege verortet, so tut sich ein komplexes Feld auf, in dem entsprechende Beratungsdienstleistungen auszudifferenzieren sind. Das Format „Beratung“ ist neu zu gestalten, ja es legt eine umfassendere Verortung nahe, die den gesellschaftlichen Entwicklungen ebenso Rechnung trägt, wie den rechtlichen Rahmenbedingungen. Systemisch ist die Beratung als konsequent kontextbezogen, die Ressourcen verfolgend, sich zirkulär verstehend und prozeßdiagnostisch angelegt. Sys- temische Beratung geht mutig mit notwendigen Interventionen um und balanciert hochsensibel mit den notwendigen Veränderungsprozessen, um der Not eine Wendung zu geben. In aller erster Linie gilt es, in Raum und Zeit den einzelnen Menschen und dessen sozialem Kont"
+      },
+      {
+        "rank": 5,
+        "id": "2098181e30a92243e28f6316096726e64dbf95c0a4542ff2bca4ee1ade982480",
+        "score": 0.9849033355712891,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6237,
+          "_split_overlap": [
+            {
+              "doc_id": "917dc1ec842c4e870cf023177173c9f38855dbb0301b087da93845ce321cea7e",
+              "range": [
+                1230,
+                1654
+              ]
+            },
+            {
+              "doc_id": "3e2484963a0d64fe4ed53aab8def8300e1ac6874932ba42d14256497537bd70d",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "zur Kategorisierung von Beratungsleistungen. Während bei Schiersmann und Remmele eher die formale Differenzierung nach Adressat_innen und dem Beratungsgegenstand im Mittelpunkt steht, bezieht sich Gieseke auf den Be­ ratungsprozess und den subjektiven Beratungsbedarf. Beide Systematiken können dabei einander ergänzend gedacht werden, wenn beispielsweise die Weiterbildungsberatung in sich weiter ausdifferenziert wird und zwischen der eher informativen Beratung zu Kursangeboten und der pädagogischen Begleitung bei Entscheidungsprozessen unterschieden wird. Arnold und Mai (vgl. 2008) heben die Bedeutung dieser beiden Ansätze als wesentliche Systematisierungsvorschläge in der erwachsenenpädagogischen Literatur zum Thema Beratung hervor und greifen zugleich kritisch die darin enthal­ tenen Differenzierungen auf. Die Unterscheidung nach personen- und orga­ nisationsbezogener Beratung wird in Bezug auf die Bedeutung von sozialen Systemen in der personenbezogenen Beratung und der Rolle von Ind"
+      }
+    ]
+  }
+]

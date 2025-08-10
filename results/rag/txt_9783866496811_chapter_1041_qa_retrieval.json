@@ -1,0 +1,648 @@
+[
+  {
+    "filename": "9783866496811_chapter_1041.txt",
+    "question": "Was ist die Kernkompetenz der Pflegestützpunkte laut dem Pflege-Weiterentwicklungsgesetz?",
+    "answer": "Die Vernetzung der vorhandenen sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren.",
+    "expected": "Die Kernkompetenz der Pflegestützpunkte ist die Vernetzungsaufgabe der vorhandenen sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um die Struktur der häuslichen Pflege zu stabilisieren.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1317f4d497c2b09f9e96e8e688a20fea2580e45e98fb4a8cb3b8f01de242448e",
+        "score": 0.9889399409294128,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                0,
+                490
+              ]
+            }
+          ]
+        },
+        "content": "6.4.1. Empfehlungen des Pilotprojektes ‚Werkstatt Pflegestützpunkt‘ Durch das Pflege-Weiterentwicklungsgesetz sollen keine Doppelstrukturen entstehen. Dafür aber eine Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren. Diese Vernetzungsaufgabe gehört zur Kernkompetenz der Pflegestützpunkte, welche flächendeckend in Deutschland (in 14 Bundesländern) etabliert wer- den sollen (vgl. KDA 2009:14ff). Auf diese Art ergänzt das Konzept der Pflegestützpunkte die Pflegeberatung auf essentielle Weise, denn durch die Verwurzelung der Pflegeberater ist die benötigte Unterstützung wohnortnah und gut erreichbar. Gleichwohl auch eine veränderte Bedarfsregelung eines Pflegebedürftigen mit direkter Unterstützung und örtlicher Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person erfolgen kann. Gesetzlich sind di"
+      },
+      {
+        "rank": 2,
+        "id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+        "score": 0.9866194725036621,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2417,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "Tätigkeiten eines Pflegeberaters aus der Pilotstudie der Pflegestützpunkte vergleichen. Darüber hinaus wird im 2. Zwischenbericht ‚Werkstatt Pflegestützpunkt’ ausdrücklich festgehalten, dass der Ansatz einer (singulären) Pflegeberatung durch das Konzept der Pflegestützpunkte in substanzieller Weise ergänzt wird (vgl. KDA 2009:12). Durch die angestrebte flächendeckende Verwurzelung von Pflegestützpunk- ten, wäre der Ansprechpartner, die PflegeberaterIn, für pflegende Angehörige, und auch Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe. Wie der zweite Zwischenbericht der Pilot-Pflegestützpunkte zeigt, ist der Anteil von Rat- und Hilfesuchenden rund um die Demenz kein Geringer. Es wurde als sechs häufigstes Thema von Rat- und Hilfesuchenden in den Pflegestützpunkten nachgefragt und betrug 8% aller vorgebrachten Problemthemen."
+      },
+      {
+        "rank": 3,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9776775240898132,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 4,
+        "id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+        "score": 0.9772657752037048,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "2.3. Das Pflege-Weiterentwicklungsgesetz (PfWG) und Beratung in der Pflege Seit Implementierung der Pflegeversicherung im Jahre 1995 gab es keine prägnanten Veränderungen des Elften Sozialgesetzbuches. Erst mit dem Pflege-Weiterentwicklungsgesetz, welches zum 1. Juli 2008 in Kraft trat, ist eine strukturelle Weiterentwicklung zu verzeichnen. Wie bereits 1995 sind auch 2008 wieder neue Elemente im Sozialgesetzbuch bezüglich der Bera- tung in der Pflege auszumachen – ‚§7a Pflegeberatung‘ und ‚§92c Pflegestützpunkte‘. Diese Elemente der Gesetzgebung beziehen sich zwar auf das tägliche Han- deln in dem Handlungsfeld der ambulanten Pflege, sie können gleichermaßen im Rahmen der Grundausbildung bereits in die Stärkung der Fach- und der Sozial-kommunikativen Kompetenz hineinreichen und nehmen somit auch einen Stellenwert in der Persönlichkeitsentwicklung der Pflegefachkräfte ein. Im §7 ist der Absatz 3 neu verfasst worden, der für die Pflegeberatung als Pflichtleistung der Pflegekassen einen "
+      },
+      {
+        "rank": 5,
+        "id": "6879cfcbc626c00d65790e0cde760459f8b899a4e3b8ea01a6332ea50aab74cb",
+        "score": 0.9746300578117371,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5e2034b6f1ef1c79ad33a30156d0bbe53cec92607068961bc5210b540794e4f8",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "2.3.1. Die Pflegeberatung im Kontext des Pflege- Weiterentwicklungsgesetzes Mit dem § 7a des Pflege-Weiterentwicklungsgesetzes ist es dem Gesetzgeber ein Anliegen dem Tätigkeitsprofil und den Aufgaben eines Pflegeberaters eine angemessene Rahmung zu geben. Mit dem ersten Satz (§ 7a Abs.1 Satz 1) erhält die Pflegeberatung ihre Definition und bereits der Folgende macht deutlich welche fünf Hauptaufgaben die Pflegeberatung insbesondere verfol- gen soll: §7a Abs.1, 2 und 3 (1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem 1. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind (Pfle- geberatung). Aufgabe der Pflegeberatung ist es insbesondere, 1. den Hilfebedarf unter Berücksi"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1041.txt",
+    "question": "Welche drei Hauptaufgaben der Pflegestützpunkte sind im §92c des SGB XI definiert?",
+    "answer": "Die drei Hauptaufgaben der Pflegestützpunkte sind im §92c des SGB XI definiert als:\n        1. Wohinortnahe Beratung, Versorgung und Betreuung\n        2. Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen\n        3. Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung\n        Diese Aufgaben sind im §92c des SGB XI als neue Handlungsfeld der Pflege beschrieben. \n        I hope it is correct. \n\nI cannot find the answer in the provided context. \n\nThe answer is: \n1. Wohinortnahe Beratung, Versorgung und Betreuung\n2. Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen\n3. Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung\n \n\nThese are the three main tasks of the care points, which are defined in section 92c of the SGB XI. \nI hope it is correct. \n\nThe three main tasks of the care points are defined in section 92c of the SGB XI as:\n1. Wohinortnahe Beratung, Versorgung und Betreuung\n2. Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen\n3. Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung\n\nThese tasks are described in section 92c of the SGB XI as the new field of action for care. \n\nThe three main tasks of the care points are defined in section 92c of the SGB XI as:\n1. Wohinortnahe Beratung, Versorgung und Betreuung\n2. Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen\n3. Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung\n\nThese tasks are described in section 92c of the SGB XI as the new field of action for care. \n\nThe three main tasks of the care points are defined in section 92c of the SGB",
+    "expected": "Die drei Hauptaufgaben sind: 1. Umfassende und unabhängige Auskunft und Beratung zu Rechten, Pflichten und Sozialleistungen, 2. Koordinierung aller gesundheitsfördernden, präventiven, kurativen, rehabilitativen sowie pflegerischen und sozialen Hilfs- und Unterstützungsangebote inklusive Hilfestellung bei der Inanspruchnahme, 3. Vernetzung aufeinander abgestimmter pflegerischer und sozialer Versorgungs- und Betreuungsangebote.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9e2850566b819c2394212eb5e94c57b3bc56ad1a51dd64bcaf1533fcff4254f8",
+        "score": 0.9715112447738647,
+        "meta": {
+          "file_path": "9783866496811_chapter_104.txt",
+          "source_id": "b35718da3e850d1f88f1b426cf3beec748740b03135f1334fd6e47ac4ffd4e2a",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4dc6e84a889308cc505a192017411e9fb165231dec2940806233de698e0839b1",
+              "range": [
+                0,
+                338
+              ]
+            }
+          ]
+        },
+        "content": "6.4. Ein neues pflegerisches Handlungsfeld – Beratung in Pflegestützpunkten Das neue Handlungsfeld der Pflege wird im § 92c SGB XI beschrieben, es besagt u.a., dass für jeden Versicherten eine wohnortnahe Beratung, Versor- gung und Betreuung eingerichtet werden soll. Mit diesem Gesetzestext erfolgte die lang erwartete Antwort auf den § 3 SGB XI in welchem bereits seit 1995 festgelegt ist, dass die ambulante Pflege der stationären vorzuziehen ist, für dieses Prinzip wurde jetzt mit dem § 92c eine solide Basis geschaffen. Den Vorrang der ambulanten bzw. häuslichen Pflege zu geben beruht auf den Wünschen und Bedürfnissen der Pflegebedürftigen selbst (Schmidbauer 2008:18), welchem der Gesetzesgeber hier Folge leistet. Die überwiegende Zahl der pflegebedürftigen Menschen wünscht so lange wie es ermöglicht werden kann in der gewohnten Umgebung, der eigenen Wohnung zu verblei- ben. Der Vorrang der häuslichen Pflege führt allerdings nicht, zur veränderten Leistungsgewährung einer individuellen"
+      },
+      {
+        "rank": 2,
+        "id": "2360eccd34433d18439d06d1bd3911056a550ff86cd982d5fbb7c82f26d8cdd6",
+        "score": 0.9658402800559998,
+        "meta": {
+          "file_path": "9783866496811_chapter_10.txt",
+          "source_id": "1c6d04cfbc34b687d96464b4848cf37ec824db1c393bbeb4ef55889a13e4eeef",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1173,
+          "_split_overlap": [
+            {
+              "doc_id": "bf6f43e7abaec872102ac0946fd2cd0e0f9192aae881b838152605813bf7538f",
+              "range": [
+                1173,
+                1550
+              ]
+            }
+          ]
+        },
+        "content": "Deutschland die Soziale Pflegever- sicherung (SGB XI) welche Pflegebedürftige gesetzlich absichert und ihnen gewisse finanzielle Leistungen zukommen lässt. Dennoch muss daran erin- nert werden, dass es sich bei der Pflegeversicherung nur um ein Teilkasko- Prinzip, also nur um eine Mindestsicherung handelt, also keine komplette Absicherung darstellt. Um diese Leistungen aber gerecht den bedürftigen Personen zukommen zu lassen, findet im §14, SGB XI der Begriff Pflegebedürftigkeit seine Definiti- on und im §15, SGB XI seine Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Durch diese Definition lässt sich recht exakt bestimmen wie die zukünftige Pflegebedürftigkeit in Deutschland aussehen kann."
+      },
+      {
+        "rank": 3,
+        "id": "c96848e2380d3c0eab510f58b28914d7d20fa6317b438f636367c55771b547fa",
+        "score": 0.818617045879364,
+        "meta": {
+          "file_path": "9783866496811_chapter_104.txt",
+          "source_id": "b35718da3e850d1f88f1b426cf3beec748740b03135f1334fd6e47ac4ffd4e2a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3238,
+          "_split_overlap": [
+            {
+              "doc_id": "ca47f1baf1bd9e5ad6cb5bd34e3f389d863efa5084312d07eb7e3b0e13328720",
+              "range": [
+                1166,
+                1529
+              ]
+            },
+            {
+              "doc_id": "17a7fcce35ecd695dd5dad0c57ee30c2f5c4610270fbc64bab8edc0fdb0e3f2d",
+              "range": [
+                0,
+                324
+              ]
+            }
+          ]
+        },
+        "content": "dass der Pflegeberater oder die Pflegeberaterin im Pfle- gestützpunkt nach §92c anzusiedeln ist. Somit wurde sichergestellt dort Pflegeberatung in Anspruch nehmen zu können und wird ferner davon aus- gegangen eine unabhängige und individuelle Beratung zu erhalten. Nachdem die Pflegeberatung involviert wurde, ist es also nach Bedarf mög- lich eine entsprechende Beratung auf neutralem Boden im Pflegestützpunkt anzustreben oder aber eine zugehende Beratung in der häuslichen Umgebung des Klienten. In diesem räumlichen Rahmen kann sich ein Pflegeberater bewegen und eine entsprechend individuelle Beratung mit Klärung der Problemsituation anstre- ben. Den so gemeinsam erarbeiteten Versorgungsplan erstellen, welcher dann umgesetzt wird und der veränderten Bedarfslage angepasst werden kann, auf diese Weise werden die zu pflegende Person und auch die Angehörigen be- gleitet und der Prozess kann von systemisch Ausgebildeten Pflegeberatern „mit gesteuert“ werden. Prozessmitsteuerung bedeutet für d"
+      },
+      {
+        "rank": 4,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.8168308734893799,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      },
+      {
+        "rank": 5,
+        "id": "72c929f6f71013ce8f91389d49861224085abebc2be10044cfc36bfbbce54c57",
+        "score": 0.7594425082206726,
+        "meta": {
+          "file_path": "9783866496811_chapter_0611.txt",
+          "source_id": "a5f42a1dfd8ddc4c6acd4b0e1a44ffb7b2e43efe09ce5c5ae59358d2f0a90874",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d0ccd254a7a63dbd04a52ead22371146638248873d84874e2e721e0efe5b87a1",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "2.1.1. Pflege-Personalbedarfsregelung (PPR) Dass Beratung als pflegerische Tätigkeit aufgefasst wird, zeigt sich auch an der 1993 in Kraft getretenen Pflege Bedarfsregelung. Dies war ein erarbeite- tes Tätigkeitsprofil für die klinische Pflege, welches zur Grundlage des Bedarfs von Pflegepersonal galt, der so genannten Pflege-Personalregelung (PPR). Im September 1990 wurde von der Bundesregierung eine Experten- gruppe aus Fachleuten (Pflegedienstleitungen, Mitarbeiter der Pflege- forschung, verbandsunabhängige Ärzte, Verwaltungsdirektoren) zusammen berufen und erhielten den Auftrag, die Grundlagen für ein neues Personalbe- darfsermittlungsverfahren zu erarbeiten. Orientiert hat sich die Experten- gruppe an dem Pflegemodell nach Juchli ‚Aktivitäten des Täglichen Lebens‘ und berücksichtigten den Zeitaufwand einer aktivierenden Pflege. Die pflegerischen Tätigkeiten wurden anhand bestehender Studien und Pra- xiserfahrungen in Minutenwerte festgelegt und in die zwei Pflegearten ‚Allgemeine "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1041.txt",
+    "question": "Wie wurde das Pilotprojekt ‚Werkstatt Pflegestützpunkt‘ in Deutschland umgesetzt und welche Besonderheiten gab es bei der Auswahl der Standorte?",
+    "answer": "Das Pilotprojekt ‚Werkstatt Pflegestützpunkt‘ wurde bundesweit umgesetzt, mit Ausnahme von Bremen, in jedem Bundesland wurde ein Pilot-Pflegestützpunkt eingerichtet, in Nordrhein-Westfalen wurden sogar zwei Pilot-Pflegestützpunkte eingerichtet. Die Auswahl der Standorte erfolgte auf der Grundlage eines Betriebsmodells, das bei der Implementierung des Stützpunktes mit den Akteuren individuell der Umgebung und dem Kontext angepasst und ausgearbeitet werden soll. Somit wurden insgesamt 16 Standorte als ‚Pilot-Pflegestützpunkte‘ ins Projekt aufgenommen.",
+    "expected": "Das Pilotprojekt ‚Werkstatt Pflegestützpunkt‘ wurde bundesweit durchgeführt mit 16 Pilot-Pflegestützpunkten, wobei in jedem Bundesland bis auf Bremen mindestens ein Standort ausgewählt wurde und Nordrhein-Westfalen zwei Standorte hatte. Die Partner und Standorte wurden zu Beginn ermittelt, um eine modellhafte Erprobung der Pflegestützpunkte zu ermöglichen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d48dc886f863d7419d420cad74f59b54e49a4a92571ac12ecf4d7d87cbd7e917",
+        "score": 0.9980200529098511,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2544,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                1276,
+                1656
+              ]
+            },
+            {
+              "doc_id": "ddf86321fca238557ac12457d9931f394456b66f8f30975ad6fbdbfaeb012d79",
+              "range": [
+                0,
+                486
+              ]
+            }
+          ]
+        },
+        "content": "von Pflegestützpunkten ermit- telt und somit wurden sechzehn Standorte als ‚Pilot-Pflegestützpunkte’ ins Projekt aufgenommen. Das Pilotprojekt wird Bundesweit durchgeführt, bis auf Bremen ist in jedem Bundesland ein Pilot-Pflegestützpunkt enthalten und in Nordrhein-Westfalen sind es zwei. Begonnen hat das Pilotprojekt im No- vember 2007 und sollte seinen Abschluss im Juni 2010 finden, leider liegt zur jetzigen Zeit noch kein Abschlußbericht vor. Allerdings ist der zweite Zwischenbericht vom November 2009 bereits sehr aufschlussreich und es sind einige interessante Aspekte zum Thema individuelle Beratung zu ent- nehmen. Beschrieben wird die Wichtigkeit eines Betriebsmodells, das bei Implemen- tierung des Stützpunktes mit den Akteuren individuell der Umgebung und dem Kontext angepasst und ausgearbeitet werden soll. Anhand der Erfahrun- gen des bereits weit fortgeschrittenen Pilotprojektes entwirft KDA mit Kooperation aller Akteure der Pilot-Stützpunkte einen Rahmenplan für ein Betriebsko"
+      },
+      {
+        "rank": 2,
+        "id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+        "score": 0.9979883432388306,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2417,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "Tätigkeiten eines Pflegeberaters aus der Pilotstudie der Pflegestützpunkte vergleichen. Darüber hinaus wird im 2. Zwischenbericht ‚Werkstatt Pflegestützpunkt’ ausdrücklich festgehalten, dass der Ansatz einer (singulären) Pflegeberatung durch das Konzept der Pflegestützpunkte in substanzieller Weise ergänzt wird (vgl. KDA 2009:12). Durch die angestrebte flächendeckende Verwurzelung von Pflegestützpunk- ten, wäre der Ansprechpartner, die PflegeberaterIn, für pflegende Angehörige, und auch Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe. Wie der zweite Zwischenbericht der Pilot-Pflegestützpunkte zeigt, ist der Anteil von Rat- und Hilfesuchenden rund um die Demenz kein Geringer. Es wurde als sechs häufigstes Thema von Rat- und Hilfesuchenden in den Pflegestützpunkten nachgefragt und betrug 8% aller vorgebrachten Problemthemen."
+      },
+      {
+        "rank": 3,
+        "id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+        "score": 0.9976130723953247,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "6.4.2. Fazit Das Pilotprojekt „Werkstatt Pflegestützpunkt“ am Beispiel des Rahmenmo- dells (vgl. KDA 2009:40-46) dargestellt, hat in der bereits fortgeschrittenen Laufzeit des Projekts ein ausführliches Profil von Tätigkeiten der Pflegebera- tung/ Care Management erstellen können. Auch ist es KDA und den Akteuren gelungen, die auf Erfahrung basierten ausgearbeiteten Strukturen darzustellen und in diesen Strukturen vorhandene Schwachstellen zu benen- nen, damit dort kreative Verbesserungsvorschläge angesetzt werden können. Die Mitarbeiter des Pilotprojektes haben im Verlauf der Durchführung er- kannt, dass besonders im Kontakt mit den Rat- und Hilfesuchenden die Schwierigkeiten auftreten, also in Gesprächs- und Beratungssituationen noch nötige Kompetenzen fehlen. An diesem Punkt waren die Erfahrungen im EDe-Projekt sehr ähnlich. Die Beratungsleistungen eines Pflegeberaters im Care Management sind, wie im Rahmenplan selbst beschrieben steht „hochkomplex“, daher sollte dem Pflegeberater a"
+      },
+      {
+        "rank": 4,
+        "id": "bd4cf985055e6307a92258722abbdb34ffa533d1d6a61fdce905b6989e93cde9",
+        "score": 0.99654620885849,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8439,
+          "_split_overlap": [
+            {
+              "doc_id": "5eb481bc77f7a9eea2b826d5299033971ef3a466bb4d628f1c38dd36169dce91",
+              "range": [
+                1124,
+                1452
+              ]
+            },
+            {
+              "doc_id": "748cd887ae379905c47a89dedc105b2a6198f8b4b814e00df3bdb174bb15049e",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "sondern nach dem subjektiven Bedarf des Kunden in diesem Fall dem Rat- und Hilfesuchenden. Auf diese Weise werden nicht nur Nerven und Arbeitskraft des Pflegebera- ters geschont, sondern vor allem erfährt der Rat- und Hilfebedürftige das Gefühl das ihm geholfen wurde und er wertgeschätzt wird. In Arbeitsberei- chen in welchen der Kunde bereits ‚König’ ist, fällt dieser systemische Grundgedanke kaum noch ins Gewicht, wie es auch in der Pflege sein sollte. Aber in komplexen Handlungsfeldern wie es der Pflegestützpunkt darstellt, ist es durchaus wichtig diese systemische Dienstleistungsphilosophie verin- nerlicht zu haben. Information als Bestandteil von Beratung In der Leistungsrubrik der Einzelinformation des Pilotprojektes ‚Werkstatt Pflegestützpunkt’, hat der Rat- und Hilfesuchende möglichst zum gleichen Pflegeberater Kontakt. Anhand der zuvor erarbeiteten Kontaktdaten, erhält der Kunde nun Informationen zu den Hilfs- und Unterstützungsangeboten inklusive Umfang und Preis der Leistung"
+      },
+      {
+        "rank": 5,
+        "id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+        "score": 0.9954653382301331,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "6.5.1 Systemische Qualifikationen der PflegeberaterInnen sind ausbaufähig Der Ausgangspunkt an welchem wir uns Befinden ist, dass die Pflegefach- kraft die Weiterbildung ‚Systemische Beratung in der Pflege‘ als Qualifizierung zur PflegeberaterIn bereits besitzt und auf diese Weise die durch das Pilotprojekt herausgearbeiteten Schwachstellen der Kommunikati- on und im Kontakt mit den Rat- und Hilfesuchenden ausgleicht. Mit den so erworbenen Beratungskompetenzen sind die PflegeberaterInnen in den Son- dierungsgesprächen in die Lage versetzt lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten was die Rat- und Hilfesuchende an weiterführender Leistung benötigen. Werden spezielle Leistungen von Fach- leuten, wie Fachärzte, Therapeutinnen, Krankenkassen, Wohnberatungsstellen u.a.m. benötigt, ist es an den PflegeberaterInnen dies zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Ist es ebenfalls möglich dass die PflegeberaterIn dem Ra"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1041.txt",
+    "question": "Warum könnte die flächendeckende Einrichtung von Pflegestützpunkten in Deutschland als sinnvoll betrachtet werden, um die häusliche Pflege zu stabilisieren?",
+    "answer": "Die flächendeckende Einrichtung von Pflegestützpunkten in Deutschland könnte als sinnvoll betrachtet werden, um die häusliche Pflege zu stabilisieren, da sie es ermöglichen würde, dass pflegende Angehörige und Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe einen Ansprechpartner, die PflegeberaterIn, haben. Dies könnte dazu beitragen, dass die Pflegebedürftigen und ihre Angehörigen besser unterstützt und beraten werden, um die Qualität der häuslichen Pflege zu sichern. Die Pflegestützpunkte könnten dabei als Schnittstelle zwischen den Beteiligten dienen, um die Kommunikation und den Kontakt zwischen den Pflegebedürftigen, ihren Angehörigen und den Pflegeberatern zu verbessern. Dies könnte zu einer kostenreduzierenden und ressourcenorientierten Lösung führen, indem die Pflegebedürftigen und ihre Angehörigen besser über die erforderlichen Leistungen und Angebote informiert werden und die richtigen Ressourcen für ihre Unterstützung mobilisiert werden. \n         Darüber hinaus würde die flächendeckende Einrichtung von Pflegestützpunkten auch dazu beitragen, dass die Pflegebedürftigen und ihre Angehörigen besser über niedrigschwellige Betreuungsangebote informiert werden, was zu einer besseren Unterstützung und Beratung führen könnte. Dies könnte schließlich dazu beitragen, dass die Pflegebedürftigen und ihre Angehörigen besser in die Lage versetzt werden, ihre individuellen Bedürfnisse und Anforderungen zu erfüllen und die Qualität der häuslichen Pflege zu sichern. \n         Die flächendeckende Einrichtung von Pflegestützpunkten würde auch dazu beitragen, dass die Pflegebedürftigen und ihre Angehörigen besser über die Veröffentlichungen der Ergebnisse von Qualitätsprüfungen informiert werden, was zu einer besseren Transparenz und Qualitätssicherung führen könnte. Dies könnte schließlich dazu beitragen, dass die Pflegebedürftigen und ihre Angehörigen besser in die Lage versetzt werden, ihre individuellen Bed",
+    "expected": "Weil die Pflegestützpunkte durch ihre Vernetzungsfunktion die vorhandenen sozialen Strukturen und Unterstützungsmöglichkeiten wohnortnah und gut erreichbar machen, wodurch Pflegebedürftige und Angehörige besser beraten und unterstützt werden können. Dies verhindert Doppelstrukturen und sorgt für eine koordinierte Versorgung, die die häusliche Pflege stabilisiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9413097500801086,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 2,
+        "id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+        "score": 0.9303315281867981,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2417,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "Tätigkeiten eines Pflegeberaters aus der Pilotstudie der Pflegestützpunkte vergleichen. Darüber hinaus wird im 2. Zwischenbericht ‚Werkstatt Pflegestützpunkt’ ausdrücklich festgehalten, dass der Ansatz einer (singulären) Pflegeberatung durch das Konzept der Pflegestützpunkte in substanzieller Weise ergänzt wird (vgl. KDA 2009:12). Durch die angestrebte flächendeckende Verwurzelung von Pflegestützpunk- ten, wäre der Ansprechpartner, die PflegeberaterIn, für pflegende Angehörige, und auch Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe. Wie der zweite Zwischenbericht der Pilot-Pflegestützpunkte zeigt, ist der Anteil von Rat- und Hilfesuchenden rund um die Demenz kein Geringer. Es wurde als sechs häufigstes Thema von Rat- und Hilfesuchenden in den Pflegestützpunkten nachgefragt und betrug 8% aller vorgebrachten Problemthemen."
+      },
+      {
+        "rank": 3,
+        "id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+        "score": 0.848818302154541,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "6.5.1 Systemische Qualifikationen der PflegeberaterInnen sind ausbaufähig Der Ausgangspunkt an welchem wir uns Befinden ist, dass die Pflegefach- kraft die Weiterbildung ‚Systemische Beratung in der Pflege‘ als Qualifizierung zur PflegeberaterIn bereits besitzt und auf diese Weise die durch das Pilotprojekt herausgearbeiteten Schwachstellen der Kommunikati- on und im Kontakt mit den Rat- und Hilfesuchenden ausgleicht. Mit den so erworbenen Beratungskompetenzen sind die PflegeberaterInnen in den Son- dierungsgesprächen in die Lage versetzt lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten was die Rat- und Hilfesuchende an weiterführender Leistung benötigen. Werden spezielle Leistungen von Fach- leuten, wie Fachärzte, Therapeutinnen, Krankenkassen, Wohnberatungsstellen u.a.m. benötigt, ist es an den PflegeberaterInnen dies zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Ist es ebenfalls möglich dass die PflegeberaterIn dem Ra"
+      },
+      {
+        "rank": 4,
+        "id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+        "score": 0.8219714760780334,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2276,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                1161,
+                1602
+              ]
+            },
+            {
+              "doc_id": "b75e2f30ba5af910b6db6adf6ba5d90541eeef5190abc27a082c222e9e106704",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "beteiligt ist, zu ergänzen. Zugleich ist dem Pflegebedürftigen eine Beratung darüber anzubieten, welche Pflegeleistungen für ihn in seiner persönlichen Situation in Betracht kommen. Ferner ist der Pflegebedürftige auf die Veröffentlichung der Ergebnisse von Qualitätsprüfungen hinzuweisen. Versicherte mit erheblichem allgemeinem Betreuungsbedarf sind in gleicher Weise, insbesondere über anerkannte niedrigschwellige Betreuungsangebote, zu unterrichten und zu beraten. SGB XI, §7 Abs.3 Das Pflege-Weiterentwicklungsgesetz versucht die rechtlich zustehende pflegerische Unterstützung und Betreuung für den Pflegebedürftigen unkom- plizierter zu gestalten. Sie steigert zudem den Wettbewerb der Pflegekassen. Der Gesetzgeber verpflichtet die Pflegekassen dazu, dem Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf die folgenden Informationen zukommen zu lassen: - Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen, - wo die nächstgelegenen Pflegestützp"
+      },
+      {
+        "rank": 5,
+        "id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+        "score": 0.7345679998397827,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2253,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                1075,
+                1446
+              ]
+            },
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "4. In diesen Fällen kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen werden muss. (SGB XI, §37, Abs.3) Mit dem ersten Satz des Absatzes 3 setzte das Pflegeversicherungsgesetz den Grundstein, dass hiermit der Pflegefachkraft in pflegerelevanten Fragen eine eigenständige Beratungskompetenz zugestanden wurde und ein Beratungs- auftrag zur Pflegeberatung formuliert wurde. Die Notwendigkeit zur Beratung bestand darin, die Qualität der häuslichen Pflege zu sichern, dies stieß auch bei den Leistungsträgern auf eine breite Zustimmung: (5) Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenver- sicherung e. V. beschließen gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen Empfehlungen zur Qualitäts"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1041.txt",
+    "question": "Welche Erkenntnisse und Empfehlungen könnten aus dem Pilotprojekt ‚Werkstatt Pflegestützpunkt‘ für die zukünftige Implementierung und den Betrieb von Pflegestützpunkten abgeleitet werden?",
+    "answer": "Aus dem Pilotprojekt ‚Werkstatt Pflegestützpunkt‘ können folgende Erkenntnisse und Empfehlungen abgeleitet werden:\n         1.  Betriebsmodell individuell an die Umgebung und den Kontext anpassen: Das Pilotprojekt zeigt, dass ein Betriebsmodell für den Pflegestützpunkt individuell an die Umgebung und den Kontext angepasst und ausgearbeitet werden soll.\n         2.  Wichtigkeit der Sondierungsgespräche: Die Sondierungsgespräche sind ein wichtiger Schritt, um den Hilfebedarf des Rat- und Hilfesuchenden zu ermitteln und um ein Care Management durchzuführen.\n         3.  Notwendigkeit von Kompetenzen für PflegeberaterInnen: Die Erfahrungen im Pilotprojekt zeigen, dass die PflegeberaterInnen besondere Kompetenzen benötigen, um in Gesprächs- und Beratungssituationen effektiv zu sein.\n         4.  Bedeutung der Vernetzung und Kooperation: Die Vernetzung und Kooperation zwischen den Pflegestützpunkten und anderen Einrichtungen wie Fachärzten, Therapeutinnen, Krankenkassen und Wohnberatungsstellen ist wichtig, um den Rat- und Hilfesuchenden effektiv zu unterstützen.\n         5.  Möglichkeit der Spezialberatung durch PflegeberaterInnen: Die Fachweiterbildung zum PflegeberaterIn sollte das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, damit die PflegeberaterInnen die Angehörigen von Pflegebedürftigen beratend unterstützen können.\n         6.  Bedeutung der systemischen Theorie: Die systemische Theorie, insbesondere der „Konstruktivismus“, kann dabei helfen, die subjektiven Realitäten der Rat- und Hilfesuchenden zu verstehen und zu berücksichtigen.\n         7.  Notwendigkeit einer umfassenden Erhebung des Hilfebedarfs: Eine umfassende Erhebung des Hilfebedarfs ist schwierig, da in einer Familie und beim Pflegebedürftigen selbst Meinungen und Einschätzungen einer Sache oder Situation unterschiedlich",
+    "expected": "Das Projekt soll den aktuellen Stand der Pflegestützpunkte darstellen und Empfehlungen zur Implementierung und zum Betrieb geben, insbesondere wie die Vernetzung sozialer und pflegerischer Angebote effektiv gestaltet werden kann. Durch die modellhafte Erprobung an 16 Standorten und die bundesweite Verteilung können praxisnahe Erkenntnisse gewonnen werden, die eine flächendeckende, wohnortnahe und bedarfsgerechte Pflegeberatung und -koordination ermöglichen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1317f4d497c2b09f9e96e8e688a20fea2580e45e98fb4a8cb3b8f01de242448e",
+        "score": 0.995890200138092,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                0,
+                490
+              ]
+            }
+          ]
+        },
+        "content": "6.4.1. Empfehlungen des Pilotprojektes ‚Werkstatt Pflegestützpunkt‘ Durch das Pflege-Weiterentwicklungsgesetz sollen keine Doppelstrukturen entstehen. Dafür aber eine Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren. Diese Vernetzungsaufgabe gehört zur Kernkompetenz der Pflegestützpunkte, welche flächendeckend in Deutschland (in 14 Bundesländern) etabliert wer- den sollen (vgl. KDA 2009:14ff). Auf diese Art ergänzt das Konzept der Pflegestützpunkte die Pflegeberatung auf essentielle Weise, denn durch die Verwurzelung der Pflegeberater ist die benötigte Unterstützung wohnortnah und gut erreichbar. Gleichwohl auch eine veränderte Bedarfsregelung eines Pflegebedürftigen mit direkter Unterstützung und örtlicher Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person erfolgen kann. Gesetzlich sind di"
+      },
+      {
+        "rank": 2,
+        "id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+        "score": 0.9880291819572449,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+              "range": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        "content": "6.4.2. Fazit Das Pilotprojekt „Werkstatt Pflegestützpunkt“ am Beispiel des Rahmenmo- dells (vgl. KDA 2009:40-46) dargestellt, hat in der bereits fortgeschrittenen Laufzeit des Projekts ein ausführliches Profil von Tätigkeiten der Pflegebera- tung/ Care Management erstellen können. Auch ist es KDA und den Akteuren gelungen, die auf Erfahrung basierten ausgearbeiteten Strukturen darzustellen und in diesen Strukturen vorhandene Schwachstellen zu benen- nen, damit dort kreative Verbesserungsvorschläge angesetzt werden können. Die Mitarbeiter des Pilotprojektes haben im Verlauf der Durchführung er- kannt, dass besonders im Kontakt mit den Rat- und Hilfesuchenden die Schwierigkeiten auftreten, also in Gesprächs- und Beratungssituationen noch nötige Kompetenzen fehlen. An diesem Punkt waren die Erfahrungen im EDe-Projekt sehr ähnlich. Die Beratungsleistungen eines Pflegeberaters im Care Management sind, wie im Rahmenplan selbst beschrieben steht „hochkomplex“, daher sollte dem Pflegeberater a"
+      },
+      {
+        "rank": 3,
+        "id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+        "score": 0.9832609295845032,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "6.5.1 Systemische Qualifikationen der PflegeberaterInnen sind ausbaufähig Der Ausgangspunkt an welchem wir uns Befinden ist, dass die Pflegefach- kraft die Weiterbildung ‚Systemische Beratung in der Pflege‘ als Qualifizierung zur PflegeberaterIn bereits besitzt und auf diese Weise die durch das Pilotprojekt herausgearbeiteten Schwachstellen der Kommunikati- on und im Kontakt mit den Rat- und Hilfesuchenden ausgleicht. Mit den so erworbenen Beratungskompetenzen sind die PflegeberaterInnen in den Son- dierungsgesprächen in die Lage versetzt lösungs- und ressourcenorientiert und daher Kosten sparend zu erarbeiten was die Rat- und Hilfesuchende an weiterführender Leistung benötigen. Werden spezielle Leistungen von Fach- leuten, wie Fachärzte, Therapeutinnen, Krankenkassen, Wohnberatungsstellen u.a.m. benötigt, ist es an den PflegeberaterInnen dies zu erkennen und die Vernetzung bzw. Kooperation zu anderen Einrichtungen durchzuführen. Ist es ebenfalls möglich dass die PflegeberaterIn dem Ra"
+      },
+      {
+        "rank": 4,
+        "id": "d48dc886f863d7419d420cad74f59b54e49a4a92571ac12ecf4d7d87cbd7e917",
+        "score": 0.9771801829338074,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2544,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                1276,
+                1656
+              ]
+            },
+            {
+              "doc_id": "ddf86321fca238557ac12457d9931f394456b66f8f30975ad6fbdbfaeb012d79",
+              "range": [
+                0,
+                486
+              ]
+            }
+          ]
+        },
+        "content": "von Pflegestützpunkten ermit- telt und somit wurden sechzehn Standorte als ‚Pilot-Pflegestützpunkte’ ins Projekt aufgenommen. Das Pilotprojekt wird Bundesweit durchgeführt, bis auf Bremen ist in jedem Bundesland ein Pilot-Pflegestützpunkt enthalten und in Nordrhein-Westfalen sind es zwei. Begonnen hat das Pilotprojekt im No- vember 2007 und sollte seinen Abschluss im Juni 2010 finden, leider liegt zur jetzigen Zeit noch kein Abschlußbericht vor. Allerdings ist der zweite Zwischenbericht vom November 2009 bereits sehr aufschlussreich und es sind einige interessante Aspekte zum Thema individuelle Beratung zu ent- nehmen. Beschrieben wird die Wichtigkeit eines Betriebsmodells, das bei Implemen- tierung des Stützpunktes mit den Akteuren individuell der Umgebung und dem Kontext angepasst und ausgearbeitet werden soll. Anhand der Erfahrun- gen des bereits weit fortgeschrittenen Pilotprojektes entwirft KDA mit Kooperation aller Akteure der Pilot-Stützpunkte einen Rahmenplan für ein Betriebsko"
+      },
+      {
+        "rank": 5,
+        "id": "d2695104a256dd251d2079819b852ef816b946c21901e9eef746dbfa353c7b2a",
+        "score": 0.9712114930152893,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 15150,
+          "_split_overlap": [
+            {
+              "doc_id": "81482177bf1225d0629abc58f684d613afa2c6ef4162fa203738a0812cda1c86",
+              "range": [
+                1152,
+                1536
+              ]
+            },
+            {
+              "doc_id": "f81a33e69acbc131102a1d81ad60b56b04fdddd420daaad793a33b7f4d4e2116",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "den Adressaten und dessen Veränderungsbemühen zuständig. Diese Philosophie wird ebenfalls von KDA im zweiten Zwischenbericht der ‚Werkstatt Pflegestützpunk- te’ geteilt (vgl. KDA 2009:41ff). Wahlmöglichkeiten schaffen Aus den Erfahrungen des Pilotprojektes ist zu erkennnen, dass eine umfas- sende Erhebung des Hilfebedarfs sich als schwierig erweisen kann. Da in einer Familie sowie beim Pflegebedürftigen selbst Meinungen und Einschät- zungen einer Sache oder Situation ganz unterschiedlich dargestellt werden können. Diese Erfahrung wird durch eine systemische Theorie dem „Konstruktivis- mus“ bestätigt, denn dieser beschäftigt sich mit der vom Menschen konstruierten Wirklichkeit. Dabei steht nicht die Frage im Vordergrund, ob es eine ‚wirkliche Wirklichkeit’ gibt, vielmehr wird davon ausgegangen, dass dem Menschen nur subjektive Realitäten zugänglich sind (vgl. Bamberger 2005, S.8 ff). Das bedeutet, dass jeder Mensch ganz individuell aus der Posi- tion, in welcher dieser sich befindet die"
+      }
+    ]
+  }
+]

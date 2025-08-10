@@ -1,0 +1,654 @@
+[
+  {
+    "filename": "9783847412304_chapter_0713.txt",
+    "question": "Aus wie vielen E-Mail-Weiterbildungsberatungen besteht das untersuchte Korpus und von welchen Einrichtungen stammen diese?",
+    "answer": "Ein Korpus von 30 E-Mail-Weiterbildungsberatungen, die von vier Einrichtungen (zwei kommunale Weiterbildungsberatungsstellen, eine VHS, eine Online-Plattform mit Chatfunktion und E-Mail-Beratungen) angeboten worden sind.",
+    "expected": "Das Korpus besteht aus 30 E-Mail-Weiterbildungsberatungen, die von vier Einrichtungen stammen: zwei kommunale Weiterbildungsberatungsstellen, eine Volkshochschule (VHS) und eine Online-Plattform mit Chatfunktion und E-Mail-Beratungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+        "score": 0.9902365803718567,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "3. Untersuchungsdesign Zur Beantwortung der forschungsleitenden Fragestellung kann auf ein Korpus von 30 E-Mail-Weiterbildungsberatungen zurückgegriffen werden, die von vier Einrichtungen (zwei kommunale Weiterbildungsberatungsstellen, eine VHS, eine Online-Plattform mit Chatfunktion und E-Mail-Beratungen) angeboten worden sind. Alle Korrespondenzen des Korpus sind zweizügig und setzen sich aus einer E-Mail-Anfrage einer ratsuchenden Person und einer darauf bezogenen Antwort eines/einer Berater*in zusammen. Für den vorliegenden Beitrag sind zwei Korrespondenzen als Eckfälle ausgewählt worden, die – was in der Folge zu zeigen sein wird – in den Anfragen der Ratsuchenden ähnliche Merkmale aufweisen, aber von den jeweils beratenden Personen in unterschiedlicher Weise prozessiert werden. Für die Auswertung wurde das Verfahren der qualitativen Korrespondenzanalyse entwickelt, das methodologisch auf der linguistischen (Text-)Pragmatik basiert und sich in seinem methodischen Vorgehen an die I"
+      },
+      {
+        "rank": 2,
+        "id": "6f54d7b41714ae8ebacd119d5761c472e2538126a88b566543dc3341b483650d",
+        "score": 0.9594650864601135,
+        "meta": {
+          "file_path": "9783839444856_chapter_07412.txt",
+          "source_id": "799f5bacb5a71b420d18aa9ee81a1fd2915f468164b3465bb3a215dd0635e9ff",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 11802,
+          "_split_overlap": [
+            {
+              "doc_id": "a09a780ecc2312803e54ce57981bb87b808884fb249c12762beb319cbb66aaeb",
+              "range": [
+                997,
+                1301
+              ]
+            },
+            {
+              "doc_id": "02cb210d36aec367b58ed255ff7d29a571e52830cd93bbf25e868c5a0c79d4cf",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "einen E-Mail. Und das ist auch so ein bisschen schade, weil wir dann natürlich nicht wissen, was aus der Person wird. Persönliche Beratung, die jetzt zu uns persönlich kommen, da gibt es eigentlich schon relativ regelmäßig Folgetermine […]. Wir hatten mal einen Mann aus dem Irak, der war bestimmt zwölf Mal bei mir, das finde ich dann schon auch sehr spannend, weil da ging es wirklich von Anerkennung, ur­ sprünglich, über Deutschkurs bis zum Job, und jetzt arbeitet er als Ingenieur, und das ist dann einfach so ein schöner Prozess. Aber das hat man leider selten, dass man das so vom Anfang bis zum schönen Ende sieht« (G/DE, Z. 365-382). Wenn es darum geht, über den Erfolg einer Beratung im Sinne einer bil­ dungsadäquaten Integration in den Arbeitsmarkt auch Kenntnis zu erlan­ gen, werden aus den Interviews zwei unterschiedliche Sichtweisen deutlich, einerseits dass die Beratung per E-Mail kein persönliches Beratungsgespräch und die damit verbundene Beratungsbeziehung ersetzt, aber auf de"
+      },
+      {
+        "rank": 3,
+        "id": "eac502c5d7d978c1dc1fd8434cdb33d9e06040a5a8c8aa23259881f4c974b536",
+        "score": 0.9567115902900696,
+        "meta": {
+          "file_path": "9783847412304_chapter_0714.txt",
+          "source_id": "b29878f549778143461d8757fae74e28caf6da8beef0abaa0fc02a5880bb5497",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3617,
+          "_split_overlap": [
+            {
+              "doc_id": "21d7a4f1e88f65072723296cbd55cbd29e85e90ee04c6f2632b10896b0138b3d",
+              "range": [
+                1175,
+                1566
+              ]
+            }
+          ]
+        },
+        "content": "Weiterbildungsangebote im „Sozialen Bereich“ existieren, die außerdem durch die Agentur für Arbeit finanziell gefördert werden. Die mit dem letzten Absatz eingeleitete Verab- schiedung und das darin enthaltene Angebot, persönlich vorbeizukommen, wie auch die explizite Beendigung („Vielen Dank einstweilen“) lassen die Lesart zu, dass die schriftliche Anfrage zur Kontaktanbahnung für einen persönlichen Beratungstermin dient – unter der Voraussetzung, dass förder- fähige Weiterbildungen im gewünschten Bereich existieren. Beide E-Mail-Anfragen weisen Anzeichen für ein situatives Beratungs- anliegen auf, wobei mit den spezifischen Fragen der Ratsuchenden jeweils ein informatives Anliegen explizit thematisiert wird. Es stellt sich die Frage, wie die beiden Berater*innen diese Beratungen prozessieren. In beiden Fällen besteht die Möglichkeit, lediglich die informativen Fragen aufzugreifen und/ oder die prekären Lebenssituationen und deren Lösung durch den Besuch ei- ner Weiterbildung zum Gege"
+      },
+      {
+        "rank": 4,
+        "id": "2e248d985da814446c07365b44c2be3507dcbf603c0d312ce23e289e5b1e6a26",
+        "score": 0.9347057342529297,
+        "meta": {
+          "file_path": "9783847412304_chapter_07.txt",
+          "source_id": "3808a83b363b31eff90bd14671b8177ae21fe3c68f07efb21b93197b57ca9207",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2544,
+          "_split_overlap": [
+            {
+              "doc_id": "98bce3ddbcf47c2f2cd330fdcaf55b4615e25eb3c9dd3c7142c43b23bd73381e",
+              "range": [
+                1273,
+                1716
+              ]
+            }
+          ]
+        },
+        "content": "Bearbeitungsgegenstandes und die Lösungsentwicklung durch die Beratenden. Leitendes Erkenntnisinteressen der Studie ist es, mit diesem Fokus ex- plorativ zu rekonstruieren, wie Beratende im Format von E-Mail-Weiterbil- dungsberatungen mit „Problempräsentationen“ von ratsuchenden Personen umgehen. Im Folgenden werden zunächst E-Mails bzw. E-Mail-Beratungen als Kor- respondenzen gegenstandstheoretisch verortet, um die Fragestellung der Stu- die zu präzisieren. Im Anschluss an die Darlegung des Untersuchungsdesigns werden die Analysen von zwei E-Mail-Weiterbildungsberatungen und deren Kontrastierung exemplarisch dargestellt, um abschließend einen Ausblick auf Forschungsdesiderate zu geben."
+      },
+      {
+        "rank": 5,
+        "id": "dca8678b7463a119c95b1c64cd14f757251458417c9865d7317418b4663e15cd",
+        "score": 0.9205260276794434,
+        "meta": {
+          "file_path": "9783847412304_chapter_0715.txt",
+          "source_id": "c65f1daa4bebfd72a187152e876010e5a3df2fece052b9f0c100f2c883963dfc",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1228,
+          "_split_overlap": [
+            {
+              "doc_id": "7cf9e57f886b9eec8b949718ad0dd39a7efce83884d11db5874695da9d6e0ad1",
+              "range": [
+                1228,
+                1608
+              ]
+            }
+          ]
+        },
+        "content": "auf E-Mail-Beratungen dazu beitragen, dass textbasierte Anfragen in ihrer Komplexität angemessen erfasst und entsprechend bearbeitet werden. Hier könnten Studien, wie sie beispielsweise an der EH Darmstadt bezogen auf den Erwerb von Beratungskompetenzen (vgl. Weinhardt 2015) oder an der Universität Tübingen bezogen auf den Erwerb von Lehrkompetenzen durch- geführt werden (vgl. Hetfleisch/Goeze/Schrader 2017), praktische und metho- dologische Orientierungen bieten. Schließlich müssten auch E-Mail-Beratungskorrespondenzen aus anderen Feldern (vgl. Überblick bei Pick 2017) systematisch untersucht und in maxi- malen Kontrastierungen miteinander verglichen werden, um auf einer solchen empirischen Basis ein Kernhandlungsschema für asynchrone digitale (Bil- dungs-)Beratungen zu entwickeln."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0713.txt",
+    "question": "Welche methodische Grundlage und welches Analyseverfahren wurde für die Auswertung der E-Mail-Korrespondenzen verwendet?",
+    "answer": "Die methodische Grundlage für die Auswertung der E-Mail-Korrespondenzen basiert auf der qualitativen Inhaltsanalyse nach Mayring und einer vertiefenden interpretativ-rekonstruktiven Auswertung nach Meuser und Nagel, sowie dem Stufenmodell zur empirischen Typenbildung nach Kelle und Kluge. Die Analyseverfahren, die verwendet wurden, sind die qualitative Korrespondenzanalyse, die auf der linguistischen (Text-)Pragmatik basiert und sich an die Interpretationsprinzipien der strukturalen Hermeneutik anlehnt, sowie die qualitative Inhaltsanalyse. Die qualitative Korrespondenzanalyse wurde verwendet, um die E-Mail-Korrespondenzen als Abfolge von Schreibhandlungen zu betrachten und die Funktion von Gesprächen/Texten zu rekonstruieren, indem die Sprech-/Schreibhandlungen in ihren konkreten kommunikativen Verwendungszusammenhängen beschrieben werden. Die qualitative Inhaltsanalyse wurde verwendet, um die Inhalte der E-Mail-Korrespondenzen zu analysieren und die Lesarten der Ratsuchenden und der Beratenden zu rekonstruieren. \n        I cannot find the answer in the provided context.",
+    "expected": "Für die Auswertung wurde das Verfahren der qualitativen Korrespondenzanalyse verwendet, das methodologisch auf der linguistischen (Text-)Pragmatik basiert und sich an den Interpretationsprinzipien der strukturalen Hermeneutik orientiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "32e1c27754c33e8e2205dbd493d9874e7d22250d38cdc1d03cf1ef62270a68aa",
+        "score": 0.9126603603363037,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8920,
+          "_split_overlap": [
+            {
+              "doc_id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+              "range": [
+                1097,
+                1447
+              ]
+            }
+          ]
+        },
+        "content": "aktuelle Begründungsfiguren. Sie schafft vielmehr Raum für die Entfaltung des Menschen, ist also einer Leitidee von Bildung zugeordnet.“ (Knoll 2010: 211) Mit Hilfe von Methoden gestalte ich für den bzw. die Ratsuchende einen per­ sönlichen Erfahrungsraum. Ich kann ganz in die Rolle der Begleitung wechseln und Denkanstöße als wertfreie Ergänzungen in die Sammlung mit einbrin­ gen. Methodische Arrangements haben auch den wichtigen Vorteil einer Ent­ schleunigung und Systematisierung, indem sie bspw. die Sammlung von Ideen deutlich von der Bewertung und Entscheidungsfindung trennen. Ausblick und Begriffsverwendung Den Begriff Beratungstechniken verwenden wir hingegen, wenn es um frei kombinierbare einzelne Tätigkeiten im Beratungshandeln geht. Wissens­ bestände über Techniken helfen auszuwählen, welche Techniken für eine Situ­ ation angemessen sind. Dazu gehört die Kenntnis um die Wirkungsweise der jeweiligen Technik und ihre Einbettung in die unterschiedlichen Beratungs­ ansätze. Im Unt"
+      },
+      {
+        "rank": 2,
+        "id": "d3f8c50627058b9f8748465cb2b5d4274c4bff0e3164845a02475dcc42d3674d",
+        "score": 0.8771864771842957,
+        "meta": {
+          "file_path": "9783839444856_chapter_06.txt",
+          "source_id": "7e46be86fa591d46c6996b7d074ef6483cfba925d32cbf64edbc05432c4f1cc6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4.\tMethodologische Einordnung und methodisches Vorgehen ### 4. Methodologische Einordnung und methodisches Vorgehen Die Datenerhebung und -analyse erfolgt im Kontext einer qualitativ-inter­ pretativen Forschungstradition anhand der qualitativen Inhaltsanalyse nach Mayring (vgl. 2015) und einer vertiefenden interpretativ-rekonstruktiven Auswertung nach dem von Meuser und Nagel (vgl. 1991) vorgeschlagenen Ab­ laufmodell zur Auswertung von offenen, leitfadenorientierten Interviews in Ergänzung mit dem Stufenmodell zur empirischen Typenbildung nach Kelle und Kluge (vgl. 2010). Dieses zweistufige Vorgehen wurde gewählt, da der Zugang über Expert_inneninterviews einerseits die Erhebung spezifischer Wissensbestände und Informationen über Anerkennungsberatung als rela­ tiv neuen Forschungsgegenstand und zudem die Erfassung der spezifischen Zielsetzungen, Begründungen und Perspektiven der Berater_innen und Koordinator_innen auf Anerkennungsberatung als ein neues Beratungs­ angebot ermöglich"
+      },
+      {
+        "rank": 3,
+        "id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+        "score": 0.8652538061141968,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "3. Untersuchungsdesign Zur Beantwortung der forschungsleitenden Fragestellung kann auf ein Korpus von 30 E-Mail-Weiterbildungsberatungen zurückgegriffen werden, die von vier Einrichtungen (zwei kommunale Weiterbildungsberatungsstellen, eine VHS, eine Online-Plattform mit Chatfunktion und E-Mail-Beratungen) angeboten worden sind. Alle Korrespondenzen des Korpus sind zweizügig und setzen sich aus einer E-Mail-Anfrage einer ratsuchenden Person und einer darauf bezogenen Antwort eines/einer Berater*in zusammen. Für den vorliegenden Beitrag sind zwei Korrespondenzen als Eckfälle ausgewählt worden, die – was in der Folge zu zeigen sein wird – in den Anfragen der Ratsuchenden ähnliche Merkmale aufweisen, aber von den jeweils beratenden Personen in unterschiedlicher Weise prozessiert werden. Für die Auswertung wurde das Verfahren der qualitativen Korrespondenzanalyse entwickelt, das methodologisch auf der linguistischen (Text-)Pragmatik basiert und sich in seinem methodischen Vorgehen an die I"
+      },
+      {
+        "rank": 4,
+        "id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+        "score": 0.8245706558227539,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1110,
+          "_split_overlap": [
+            {
+              "doc_id": "b0b34027de12489d3dd3770c8119da0605db201209001fe9ef54637115627d3f",
+              "range": [
+                1110,
+                1504
+              ]
+            },
+            {
+              "doc_id": "3032c56ae24799bec7f555d8e026e2bc6dfc06517a9cc839b9372437088ff3e5",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "die den Studienverlauf betreffen und Hinweise auf Probleme sein können (Details: Schulze-Stocker et al. 2017). Freiwillig Teilnehmende (rund 5.800 = 17% der TU-Studierenden; Stand: 01.07.2018) bekommen immer dann eine E-Mail, wenn eines oder mehrere Merkmale auf sie zutreffen. Diese enthält Empfeh- lungen zu individuell zugeschnittenen (PASST?!-)Beratungs- und Unterstüt- zungsangeboten. Die Teilnahme an diesen ist ebenfalls freiwillig. Um die Brauchbarkeit der Identifizierungsmerkmale zu prüfen und In- formationen zu den TU-spezifischen Problemlagen (Schwerpunkt: studiens- trukturelle Aspekte und Studienverlauf) zu erhalten, wurde eine quantitative Befragung TU-Studierender durchgeführt. Anschließend fokussierten quali- tative Interviews (persönliche) Hintergründe für Schwierigkeiten der Studie- renden und ihre Bewältigungsstrategien. Aktuell wird das Frühwarnsystem evaluiert. Zudem sollen zukünftig die gewonnenen Daten in das Qualitätsmanagementsystem der TU Dresden einfließen. 5.2 An"
+      },
+      {
+        "rank": 5,
+        "id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+        "score": 0.8225051164627075,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1272,
+          "_split_overlap": [
+            {
+              "doc_id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+              "range": [
+                1272,
+                1735
+              ]
+            },
+            {
+              "doc_id": "513e8f6f6b221094d4d2a3382ff5c4c965f12633e34f78dc3b0dc140b5d307e6",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "Personen orientieren, damit ein gegenseitiges Verstehen gewährleistet wird (vgl. Ehrhardt/Heringer 2011: 14). Ziel von pragmatisch-linguistischen Analysen ist es, die Funktion von Gesprächen/Texten zu rekonstruieren, indem die Sprech-/Schreibhand- lungen in ihren konkreten kommunikativen Verwendungszusammenhängen beschrieben werden. Beratungs-E-Mails lassen sich damit als Abfolge von Schreibhandlungen betrachten, die in spezifischen textuellen Relationen zu- einander stehen, gemeinsame thematische Grundlagen haben und mit denen individuelle und gesellschaftliche Zwecke verfolgt werden (vgl. Langheine 1983: 197; Brünner/Graefen 1994: 14). Für die Analyse sind zunächst die E-Mails der Ratsuchenden streng se- quenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussionen durch die beiden Autor*innen rekonstruiert worden (vgl. Oevermann u.a. 1979), um daraufhin die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren zu analysieren. Erst im Anschluss wurden die E-Mails der "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0713.txt",
+    "question": "Wie wurden die E-Mails der Ratsuchenden und der Beratenden analysiert und in welchem Schritt wurden sie miteinander in Bezug gesetzt?",
+    "answer": "Die E-Mails der Ratsuchenden und der Beratenden wurden zunächst einzeln analysiert. Die E-Mails der Ratsuchenden wurden streng sequenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussion durch die beiden Autor*innen rekonstruiert. Anschließend wurden die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren analysiert. Erst im Anschluss wurden die E-Mails der Ratsuchenden und die der Beratenden aufeinander bezogen, um dann Korrespondenzen des Korpus minimal miteinander zu kontrastieren. \n        Es wurden keine Aussagen über die Intentionen der ratsuchenden oder der beratenden Personen getroffen. Die Diskussion der Lesarten wurde ebenfalls nicht berücksichtigt. \n        Die E-Mails wurden als Abfolge von Schreibhandlungen betrachtet, die in spezifischen textuellen Relationen zueinander stehen, gemeinsame thematische Grundlagen haben und mit denen individuelle und gesellschaftliche Zwecke verfolgt werden. \n        Die Analyse wurde mit Hilfe des Verfahrens der qualitativen Korrespondenzanalyse durchgeführt, das methodologisch auf der linguistischen (Text-)Pragmatik basiert und sich in seinem methodischen Vorgehen an die Interpretationsprinzipien der strukturalen Hermeneutik anlehnt. \n        Die linguistische Pragmatik betrachtet kommunikative Äußerungen als Sprech- bzw. als Schreibhandlungen und untersucht die zugrundeliegenden Prinzipien, an denen sich sprechende/schreibende und hörende/lesende Personen orientieren, damit ein gegenseitiges Verstehen gewährleistet wird. Ziel von pragmatisch-linguistischen Analysen ist es, die Funktion von Gesprächen/Texten zu rekonstruieren, indem die Sprech-/Schreibhandlungen in ihren konkreten kommunikativen Verwendungszusammenhängen beschrieben werden. \n        Die Korrespondenzanalyse ist ein Verfahren, das die Funktion von Gesprächen/Texten rekonstruieren soll, indem die Sprech-/Schreibhandlungen in ihren konkreten kommunikativen Verwendungszusammenhängen",
+    "expected": "Zunächst wurden die E-Mails der Ratsuchenden streng sequenziell und kontextfrei mittels extensiver Lesartendiskussionen rekonstruiert. Anschließend erfolgte die Analyse der Antwort-E-Mails der Beratenden mit demselben Verfahren. Erst danach wurden die E-Mails der Ratsuchenden und Beratenden aufeinander bezogen und die Korrespondenzen minimal miteinander kontrastiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a1d431f52bb3dcc224f49fb56dff53faa30d524582fb189cabed82a2266d3f52",
+        "score": 0.9969410300254822,
+        "meta": {
+          "file_path": "9783847412304_chapter_0712.txt",
+          "source_id": "631afc20985d83064ba5b1e0be8f9862948caab685134d744a92efabffe2a64a",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2582,
+          "_split_overlap": [
+            {
+              "doc_id": "b4489832fb6805436b8b188a0ef788f219af2ee8b2350c5cbb713bb9849c9911",
+              "range": [
+                1274,
+                1672
+              ]
+            }
+          ]
+        },
+        "content": "Schindler 2007: 13ff.). An diesen skizzierten Herausforderungen setzt die Fragestellung des vor- liegenden Beitrags insofern an, als dass analysiert wird, wie Berater*innen die schriftlichen Beratungsanliegen der Ratsuchenden in ihren Interventionen transformieren und prozessieren. Wichtig ist es in diesem Zusammenhang zu betonen, dass das Beratungshandeln nicht bewertet werden soll, sondern es soll auf Basis der empirischen Analysen ein erster explorativer Beitrag zur Formatlogik von E-Mail-Weiterbildungsberatungen geleistet werden."
+      },
+      {
+        "rank": 2,
+        "id": "2e248d985da814446c07365b44c2be3507dcbf603c0d312ce23e289e5b1e6a26",
+        "score": 0.9968550205230713,
+        "meta": {
+          "file_path": "9783847412304_chapter_07.txt",
+          "source_id": "3808a83b363b31eff90bd14671b8177ae21fe3c68f07efb21b93197b57ca9207",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2544,
+          "_split_overlap": [
+            {
+              "doc_id": "98bce3ddbcf47c2f2cd330fdcaf55b4615e25eb3c9dd3c7142c43b23bd73381e",
+              "range": [
+                1273,
+                1716
+              ]
+            }
+          ]
+        },
+        "content": "Bearbeitungsgegenstandes und die Lösungsentwicklung durch die Beratenden. Leitendes Erkenntnisinteressen der Studie ist es, mit diesem Fokus ex- plorativ zu rekonstruieren, wie Beratende im Format von E-Mail-Weiterbil- dungsberatungen mit „Problempräsentationen“ von ratsuchenden Personen umgehen. Im Folgenden werden zunächst E-Mails bzw. E-Mail-Beratungen als Kor- respondenzen gegenstandstheoretisch verortet, um die Fragestellung der Stu- die zu präzisieren. Im Anschluss an die Darlegung des Untersuchungsdesigns werden die Analysen von zwei E-Mail-Weiterbildungsberatungen und deren Kontrastierung exemplarisch dargestellt, um abschließend einen Ausblick auf Forschungsdesiderate zu geben."
+      },
+      {
+        "rank": 3,
+        "id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+        "score": 0.9947598576545715,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+              "range": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        "content": "3. Untersuchungsdesign Zur Beantwortung der forschungsleitenden Fragestellung kann auf ein Korpus von 30 E-Mail-Weiterbildungsberatungen zurückgegriffen werden, die von vier Einrichtungen (zwei kommunale Weiterbildungsberatungsstellen, eine VHS, eine Online-Plattform mit Chatfunktion und E-Mail-Beratungen) angeboten worden sind. Alle Korrespondenzen des Korpus sind zweizügig und setzen sich aus einer E-Mail-Anfrage einer ratsuchenden Person und einer darauf bezogenen Antwort eines/einer Berater*in zusammen. Für den vorliegenden Beitrag sind zwei Korrespondenzen als Eckfälle ausgewählt worden, die – was in der Folge zu zeigen sein wird – in den Anfragen der Ratsuchenden ähnliche Merkmale aufweisen, aber von den jeweils beratenden Personen in unterschiedlicher Weise prozessiert werden. Für die Auswertung wurde das Verfahren der qualitativen Korrespondenzanalyse entwickelt, das methodologisch auf der linguistischen (Text-)Pragmatik basiert und sich in seinem methodischen Vorgehen an die I"
+      },
+      {
+        "rank": 4,
+        "id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+        "score": 0.9941878318786621,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1272,
+          "_split_overlap": [
+            {
+              "doc_id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+              "range": [
+                1272,
+                1735
+              ]
+            },
+            {
+              "doc_id": "513e8f6f6b221094d4d2a3382ff5c4c965f12633e34f78dc3b0dc140b5d307e6",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "Personen orientieren, damit ein gegenseitiges Verstehen gewährleistet wird (vgl. Ehrhardt/Heringer 2011: 14). Ziel von pragmatisch-linguistischen Analysen ist es, die Funktion von Gesprächen/Texten zu rekonstruieren, indem die Sprech-/Schreibhand- lungen in ihren konkreten kommunikativen Verwendungszusammenhängen beschrieben werden. Beratungs-E-Mails lassen sich damit als Abfolge von Schreibhandlungen betrachten, die in spezifischen textuellen Relationen zu- einander stehen, gemeinsame thematische Grundlagen haben und mit denen individuelle und gesellschaftliche Zwecke verfolgt werden (vgl. Langheine 1983: 197; Brünner/Graefen 1994: 14). Für die Analyse sind zunächst die E-Mails der Ratsuchenden streng se- quenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussionen durch die beiden Autor*innen rekonstruiert worden (vgl. Oevermann u.a. 1979), um daraufhin die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren zu analysieren. Erst im Anschluss wurden die E-Mails der "
+      },
+      {
+        "rank": 5,
+        "id": "9cdd89f094f21426ac719b0727402a0cd41fd81a372cbc15114e6199d7b919f8",
+        "score": 0.9924692511558533,
+        "meta": {
+          "file_path": "9783847412304_chapter_0712.txt",
+          "source_id": "631afc20985d83064ba5b1e0be8f9862948caab685134d744a92efabffe2a64a",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b4489832fb6805436b8b188a0ef788f219af2ee8b2350c5cbb713bb9849c9911",
+              "range": [
+                0,
+                447
+              ]
+            }
+          ]
+        },
+        "content": "2. E-Mail-Beratungen E-Mails sind asynchrone, computervermittelte Formen schriftlicher Kommunikation oder genauer gesagt Korrespondenzen, die sich aus mindestens zwei Korrespondenzexemplaren, in unserem Fall einer Anfrage durch eine ratsuchende Person und einer Antwort einer beratenden Person, zusammensetzen. Im Unterschied zur klassischen Korrespondenzform des Briefes weisen computervermittelte Korrespondenzen ein höheres Maß an Anonymität auf und sind stärker dialogisch orientiert. In E-Mails wird dennoch in der Regel auf bestehende schriftsprachliche Konventionen zurückgegriffen, die vom formalen Duktus eines Geschäftsbriefes bis hin zu Umgangssprachlichkeiten im Telegrammstil unter Freunden reichen können (vgl. Wolf 2014: 53ff.). Im Beratungsdiskurs werden E-Mail-Korrespondenzen sowohl Chancen eingeräumt als auch deren Herausforderungen problematisiert. Zunächst sind E-Mail-Beratungen anonymer als Face-to-Face Beratungsinteraktionen. Ratsuchende sind weder zeitlich noch örtlich an "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0713.txt",
+    "question": "Warum ist es mit dem gewählten methodischen Zugang nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen?",
+    "answer": "Es ist mit dem gewählten methodischen Zugang nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen, da die Methode nicht darauf ausgelegt ist, die individuellen Stolpersteine der Ratsuchenden zu betrachten, sondern solche, die die erfolgreiche Teamarbeit behindern. Die Methode soll in der zweiten Phase der Beratung angewendet werden, wenn bereits eine Zielformulierung mit dem oder der Ratsuchenden stattgefunden hat. In dieser Phase wird nicht die individuelle Situation des Ratsuchenden betrachtet, sondern eher die allgemeinen Herausforderungen, die die Teamarbeit behindern. Daher ist es nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen. \n        I cannot find the answer in the provided context. \n        Es ist nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen, da die Methode nicht darauf ausgelegt ist, die individuellen Stolpersteine der Ratsuchenden zu betrachten. \n        Es ist mit dem gewählten methodischen Zugang nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen, da die Methode sich auf die allgemeinen Herausforderungen konzentriert, die die Teamarbeit behindern, anstatt die individuellen Stolpersteine der Ratsuchenden zu betrachten. \n        I cannot find the answer in the provided context. \n        Es ist nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen, da die Methode sich auf die allgemeinen Herausforderungen konzentriert, die die Teamarbeit behindern. \n        Es ist mit dem gewählten methodischen Zugang nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen, da die Methode nicht auf die individuellen Stolpersteine der Ratsuchenden ausgerichtet ist. \n        I cannot find the answer in the provided context. \n        Es ist nicht möglich, Aussagen über die Intentionen der ratsuchenden oder beratenden Personen zu treffen, da die Methode sich auf die allgemeinen Herausforderungen konzentriert, die die Teamarbeit behindern.  Die Methode soll",
+    "expected": "Weil die qualitative Korrespondenzanalyse auf der Rekonstruktion von Schreibhandlungen in ihren kommunikativen Kontexten basiert, aber keine direkten Einblicke in die subjektiven Intentionen der beteiligten Personen ermöglicht. Dadurch können Intentionen, Beratungsverständnisse oder Wirkungen nicht analysiert werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "102d4827f0d46ca575f04453f3c4f91f580e7311eba6048445463c95996c03b0",
+        "score": 0.9883477091789246,
+        "meta": {
+          "file_path": "1001586_chapter_062.txt",
+          "source_id": "a4d4fb5fa33743d0c0ea12ca87026a9384857117016ac9591be3407094a3e44d",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 11012,
+          "_split_overlap": [
+            {
+              "doc_id": "35844db034b02a0858315117a545901822b7ad8b41a5724a8cbcb9499b86afec",
+              "range": [
+                1156,
+                1518
+              ]
+            },
+            {
+              "doc_id": "8d88e6d56a3c77663a0bc5091ea0318edb5f45991ae54220833ba6a913607414",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "Bildungsberatung immer darum geht, den Ratsuchenden Sicherheit zu bieten, Vertrauen zu ermöglichen und ihnen mit Respekt, Interesse und Achtsamkeit zu begegnen, damit eine gute Zusammenarbeit möglich wird. Dazu gehört neben den oben benannten Elementen auch, dass die Ratsuchen­ den sich sicher sein können, dass die Beratenden über ausreichend Wissen verfügen, um ihnen überhaupt bei ihren Fragestellungen behilflich sein zu können. Damit ist das Fach- und Methodenwissen angesprochen. Ratsuchen­ de haben in den meisten Fällen ein sensibles Gespür dafür, ob ihr Gegenüber über die beraterischen Grundlagen verfügt oder nicht und werden entspre­ chend darauf reagieren. Wenn ich den bzw. die von mir aufgesuchte/n Bera­ ter oder Beraterin, der oder die mir Hilfestellung leisten soll, als inkompetent erlebe, dann ist keine sichere Grundlage gegeben, auf der ich mich auf eine Beratungsbeziehung einlassen würde – und mit Recht. Grenzen und Herausforderungen innerhalb der Beratungsbeziehung – kriti"
+      },
+      {
+        "rank": 2,
+        "id": "5844c9e0d27f8c42e162e1ecf54f2dd87ac95400bc5c70bed3621c3ead5ebbb6",
+        "score": 0.987033486366272,
+        "meta": {
+          "file_path": "1001586_chapter_092.txt",
+          "source_id": "09428ff286d176a87c1b26bc47748433f13c6fb4f650548e998d6166713388fe",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6203,
+          "_split_overlap": [
+            {
+              "doc_id": "65f6987876191a50ad19d48f985ea94e22eb9802ce2e85c23c20be93f9e575cb",
+              "range": [
+                1058,
+                1366
+              ]
+            },
+            {
+              "doc_id": "f014da5d979e2457eb9c83f2d4bc5665f575c6ec8d6fd72c27f9337cc13cb925",
+              "range": [
+                0,
+                339
+              ]
+            }
+          ]
+        },
+        "content": "nicht ganz abgeholt fühlen. Wenn Ratsuchende also äußern, dass sie mit einer Methode nicht so viel anfangen können, dann ist das also erst einmal ein gutes Zeichen. Es macht deutlich, dass die Ratsuchenden ihren Teil der Verantwortung für sich und ihr Anliegen in Anspruch nehmen und mir vertrauen, dass ich ihnen auf Augenhöhe begegne. Die Ablehnung ei­ ner Methode kann unterschiedliche Gründe (s.u.) haben, die ich im Verlauf des Gespräches weiter beobachten, ggf. auch direkt erfragen sollte. Der oder die Ratsuchende merkt z.B., dass die Methode für sein oder ihr Anliegen nicht stimmig ist. In diesem Fall tue ich gut daran, ihn bzw. sie als Expertin für das eigene Anliegen ernst zu nehmen und gemeinsam Alternativen zu überlegen. Zum Beispiel indem ich mich zunächst dafür bedanke, dass er oder sie sich offen äußert und frage, was genau ihn oder sie daran stört und was ihm oder ihr gerade wichtiger wäre. Oft ergibt sich aus diesen Rückfragen, dass wir zu Beginn der Beratung das Anliegen n"
+      },
+      {
+        "rank": 3,
+        "id": "34f3303710fb5c6acfb1721241ffccfb1bc96af8ba620bebbd3643de6e5e4ead",
+        "score": 0.9792749285697937,
+        "meta": {
+          "file_path": "1001586_chapter_083.txt",
+          "source_id": "f0eefd12cd3b5c30d0b154354d0a609f74c00abaec78f4a5b39a77c75cc84270",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7501d66241434c0edb23ccbc93dac02343d5fc2308e3c031f0c11400ae60d577",
+              "range": [
+                0,
+                302
+              ]
+            }
+          ]
+        },
+        "content": "5.3 Zum flexiblen Einsatz von Methoden und Techniken Karin Kress In eine Methode einführen Methoden entfalten einen Prozess innerhalb des Beratungsprozesses. Die Überleitung oder Einführung in eine Methode ist ein wichtiges Gestaltungs­ element. Sowohl im vorangehenden Beratungsgespräch, als auch während der Durchführung der Methode, ist für den oder die Ratsuchende klar, was gerade geschieht. Der Übergang von einem zum anderen bedeutet für den oder die Ratsuchende jedoch erst einmal eine Verunsicherung, zumindest eine Irritati­ on. Der Berater oder die Beraterin bietet ihm bzw. ihr ein Vorgehen an, das er oder sie noch nicht überschauen kann. Gerade wenn ein Beratungsgespräch gut läuft, braucht der oder die Ratsuchende eine Begründung, warum es sinn­ voll ist, sich auf einen Wechsel der Handlungs- oder Medienform einzulassen. Diese Begründung darf jedoch auch nicht zu „technisch“ ausfallen, da sich der bzw. die Ratsuchende ja in gedanklicher Auseinandersetzung mit seinem An­ liegen be"
+      },
+      {
+        "rank": 4,
+        "id": "7cbdf65217f7b72a89443b6f35ac4e8e2d3f2436b2e7036c72a7d61e82dd83c3",
+        "score": 0.9772663116455078,
+        "meta": {
+          "file_path": "1001856_chapter_0851.txt",
+          "source_id": "d76eeb9ea2c02d8a8cb421c1dbbc31591f79762e4ef3bb2a82d26260c321f9ba",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2213,
+          "_split_overlap": [
+            {
+              "doc_id": "50f28ffb04c733fc881af2b7edbaaf579ea5c796615b1d991c3b5c8ff0169b7a",
+              "range": [
+                1057,
+                1452
+              ]
+            },
+            {
+              "doc_id": "47990933e54dd3dc0ec6ef94a8b997b6dc5791a1d641e19634b0d1e0bca82af0",
+              "range": [
+                0,
+                258
+              ]
+            }
+          ]
+        },
+        "content": "anwenden. In solchen Fällen werden nicht die individuellen Stolpersteine betrachtet, sondern sol­ che, die die erfolgreiche Teamarbeit behindern. Phase im Beratungsgespräch: Die Stolperstein-Methode sollte allerdings eher in der zweiten Phase der Beratung, d.h. gegebenenfalls in der zweiten Be­ ratungssitzung angewendet werden, wenn bereits eine Zielformulierung mit dem oder der Ratsuchenden stattgefunden hat. Die Methode eignet sich nicht, wenn Ratsuchende noch zwischen verschie­ denen Handlungsmöglichkeiten abwägen oder wenn nur eine Beratungssitzung erfol­ gen kann. In diesem Fall reicht die Zeit für eine erfolgreiche Methodendurchführung möglicherweise nicht. Ratsuchender [R]: Ja, mein Anliegen ist, dass ich nicht vorankomme mit meiner Mas­ terarbeit. Ich finde einfach nicht die passende Zeit dafür, und das zieht sich jetzt schon eine Weile. Ich habe die Idee schon fertig und weiß eigentlich, worüber ich schreiben will. Aber es gibt so viele andere Dinge, die ich erledigen muss. Un"
+      },
+      {
+        "rank": 5,
+        "id": "8cf9e4c55d28c5c0526ec8427ad1a5bcc6b48fd22741355bd93317420ff808a3",
+        "score": 0.9742058515548706,
+        "meta": {
+          "file_path": "1001586_chapter_082.txt",
+          "source_id": "ec6f37a770ce22867e40159aa4ccf77afc5964620850740d03c129a8e34c5805",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4293,
+          "_split_overlap": [
+            {
+              "doc_id": "b0102702b3271df9e60c577ea7867b9740e1713303b91520b858193d988d21af",
+              "range": [
+                1082,
+                1421
+              ]
+            },
+            {
+              "doc_id": "88dd2cddf6c6a76f3e88543895c05d2c3963f1168f477b0cf15a6f8e7efaabc8",
+              "range": [
+                0,
+                349
+              ]
+            }
+          ]
+        },
+        "content": "einer Methode Gedanken darüber zu machen, wie tiefgehend die Prozesse beim Ratsuchen­ den sind, die ich mit einer Methode eröffnen kann. Es gibt Methoden, die ein Anliegen eher auf der konkreten Handlungs- oder Organisationsebene bearbeiten, andere zielen mehr auf Erkenntnisse darüber, wie die Ratsuchenden durch ihre Art des Umgangs mit dem Problem mit dazu beitragen, dass sich an ihrer Situation nichts verändert (vgl. z.B. der Antreiber-Test, S. 178). Letztgenannte Methoden sind dann zwar auch beson­ ders wirkungsvoll, lassen sich aber in der Regel nicht in einer halben Stunde abhandeln und bergen außerdem die Gefahr, dass auch Aspekte einfließen, die eher in einem Coaching oder in therapeutischen Verfahren bearbeitet werden können. Eine informative Beratung ist gegeben, wenn der fachlich-informative Beratungsanteil im Mittelpunkt steht. Der Berater bzw. die Beraterin verfügt über einen guten Überblick über vorhandene Angebote, rechtliche Rahmen­ bedingungen oder auch Kenntnisse oder "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0713.txt",
+    "question": "Wie lässt sich die Funktion von Beratungs-E-Mails nach der linguistisch-pragmatischen Sichtweise beschreiben und welche Bedeutung haben die Schreibhandlungen innerhalb dieser Texte?",
+    "answer": "Die Funktion von Beratungs-E-Mails nach der linguistisch-pragmatischen Sichtweise lässt sich als Abfolge von Schreibhandlungen beschreiben, die in spezifischen textuellen Relationen zu einander stehen und gemeinsame thematische Grundlagen haben. Die Schreibhandlungen innerhalb dieser Texte sind von wesentlicher Bedeutung, da sie die kommunikative Verwendung der E-Mails rekonstruieren und die Funktion der Gespräche/Texte bestimmen. Die Analyse der Schreibhandlungen ermöglicht es, die Sprech-/Schreibhandlungen in ihren konkreten kommunikativen Verwendungszusammenhängen zu beschreiben und die Funktion von Beratungs-E-Mails zu rekonstruieren. Die Schreibhandlungen sind somit entscheidend für die Rekonstruktion der Funktion von Beratungs-E-Mails und die Analyse der kommunikativen Verwendungszusammenhänge. \n\nDie E-Mails können als Abfolge von Schreibhandlungen betrachtet werden, die in spezifischen textuellen Relationen zu einander stehen und gemeinsame thematische Grundlagen haben. Die Schreibhandlungen innerhalb dieser Texte sind von wesentlicher Bedeutung, da sie die kommunikative Verwendung der E-Mails rekonstruieren und die Funktion der Gespräche/Texte bestimmen. Die Analyse der Schreibhandlungen ermöglicht es, die Sprech-/Schreibhandlungen in ihren konkreten kommunikativen Verwendungszusammenhängen zu beschreiben und die Funktion von Beratungs-E-Mails zu rekonstruieren. Die Schreibhandlungen sind somit entscheidend für die Rekonstruktion der Funktion von Beratungs-E-Mails und die Analyse der kommunikativen Verwendungszusammenhänge. \nDie E-Mails können als Abfolge von Schreibhandlungen betrachtet werden, die in spezifischen textuellen Relationen zu einander stehen und gemeinsame thematische Grundlagen haben. Die Schreibhandlungen innerhalb dieser Texte sind von wesentlicher Bedeutung, da sie die kommunikative Verwendung der E-Mails rekonstruieren und die Funktion der Gespräche/Texte bestimmen. Die Analyse der Schreibhandlungen ermöglicht es, die",
+    "expected": "Nach linguistisch-pragmatischer Sicht sind Beratungs-E-Mails Abfolgen von Schreibhandlungen, die in spezifischen textuellen Relationen zueinander stehen, gemeinsame thematische Grundlagen haben und individuelle sowie gesellschaftliche Zwecke verfolgen. Die Schreibhandlungen dienen dazu, kommunikative Handlungen zu vollziehen, die gegenseitiges Verstehen sicherstellen und die Funktion der Texte innerhalb ihres kommunikativen Kontextes rekonstruieren lassen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+        "score": 0.9945424795150757,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1272,
+          "_split_overlap": [
+            {
+              "doc_id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+              "range": [
+                1272,
+                1735
+              ]
+            },
+            {
+              "doc_id": "513e8f6f6b221094d4d2a3382ff5c4c965f12633e34f78dc3b0dc140b5d307e6",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "Personen orientieren, damit ein gegenseitiges Verstehen gewährleistet wird (vgl. Ehrhardt/Heringer 2011: 14). Ziel von pragmatisch-linguistischen Analysen ist es, die Funktion von Gesprächen/Texten zu rekonstruieren, indem die Sprech-/Schreibhand- lungen in ihren konkreten kommunikativen Verwendungszusammenhängen beschrieben werden. Beratungs-E-Mails lassen sich damit als Abfolge von Schreibhandlungen betrachten, die in spezifischen textuellen Relationen zu- einander stehen, gemeinsame thematische Grundlagen haben und mit denen individuelle und gesellschaftliche Zwecke verfolgt werden (vgl. Langheine 1983: 197; Brünner/Graefen 1994: 14). Für die Analyse sind zunächst die E-Mails der Ratsuchenden streng se- quenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussionen durch die beiden Autor*innen rekonstruiert worden (vgl. Oevermann u.a. 1979), um daraufhin die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren zu analysieren. Erst im Anschluss wurden die E-Mails der "
+      },
+      {
+        "rank": 2,
+        "id": "a262d5483ba235131df5a8a2c3ac2ec54a6b06b59cee1fcc10d337a646775267",
+        "score": 0.9865939617156982,
+        "meta": {
+          "file_path": "9783839444856_chapter_0744.txt",
+          "source_id": "a915b38e43de0292854db1a4805d8c6f201d85e2193b1fe503f305f781d7595c",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 4090,
+          "_split_overlap": [
+            {
+              "doc_id": "aa72ea337c7dac8acf2d6bdcd82cc09321c9853965d390e297203ab36e11a786",
+              "range": [
+                1335,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "eher in Verbindung mit kürzeren Beratungen beschrieben oder für Beratungskontakte per E-Mail, welche nicht den Aufbau einer umfassen­ deren persönlichen Beratungsbeziehung ermöglichen. Bei Beratungen, die als Begleitprozesse über mehrere Beratungskontakte andauern, steht da­ gegen eher die parteiliche Beratungshaltung im Vordergrund, welche ins­ besondere in der Verfahrensbegleitung konkret wird. Der dritte Zugang wird vor allem auf der Koordinationsebene beschrieben und setzt die Ver­ netzung und ein gemeinsames Selbstverständnis der Berater_innen voraus, wie es hier durch die gemeinsame Definition als Fachberatung ermöglicht wird. Gleichzeitig ist zu berücksichtigen, dass durch die Arbeitsteilung auf Beratungs- und Koordinationsebene auch eine Entlastung von den jeweils anderen Handlungszugängen stattfinden kann."
+      },
+      {
+        "rank": 3,
+        "id": "eac502c5d7d978c1dc1fd8434cdb33d9e06040a5a8c8aa23259881f4c974b536",
+        "score": 0.9845615029335022,
+        "meta": {
+          "file_path": "9783847412304_chapter_0714.txt",
+          "source_id": "b29878f549778143461d8757fae74e28caf6da8beef0abaa0fc02a5880bb5497",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3617,
+          "_split_overlap": [
+            {
+              "doc_id": "21d7a4f1e88f65072723296cbd55cbd29e85e90ee04c6f2632b10896b0138b3d",
+              "range": [
+                1175,
+                1566
+              ]
+            }
+          ]
+        },
+        "content": "Weiterbildungsangebote im „Sozialen Bereich“ existieren, die außerdem durch die Agentur für Arbeit finanziell gefördert werden. Die mit dem letzten Absatz eingeleitete Verab- schiedung und das darin enthaltene Angebot, persönlich vorbeizukommen, wie auch die explizite Beendigung („Vielen Dank einstweilen“) lassen die Lesart zu, dass die schriftliche Anfrage zur Kontaktanbahnung für einen persönlichen Beratungstermin dient – unter der Voraussetzung, dass förder- fähige Weiterbildungen im gewünschten Bereich existieren. Beide E-Mail-Anfragen weisen Anzeichen für ein situatives Beratungs- anliegen auf, wobei mit den spezifischen Fragen der Ratsuchenden jeweils ein informatives Anliegen explizit thematisiert wird. Es stellt sich die Frage, wie die beiden Berater*innen diese Beratungen prozessieren. In beiden Fällen besteht die Möglichkeit, lediglich die informativen Fragen aufzugreifen und/ oder die prekären Lebenssituationen und deren Lösung durch den Besuch ei- ner Weiterbildung zum Gege"
+      },
+      {
+        "rank": 4,
+        "id": "a09a780ecc2312803e54ce57981bb87b808884fb249c12762beb319cbb66aaeb",
+        "score": 0.9788534641265869,
+        "meta": {
+          "file_path": "9783839444856_chapter_07412.txt",
+          "source_id": "799f5bacb5a71b420d18aa9ee81a1fd2915f468164b3465bb3a215dd0635e9ff",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 10805,
+          "_split_overlap": [
+            {
+              "doc_id": "95ddd077e6ea0bec15ad2e4bb22038cf85ceb9bf2e9f917ba1714c57c783a838",
+              "range": [
+                970,
+                1257
+              ]
+            },
+            {
+              "doc_id": "6f54d7b41714ae8ebacd119d5761c472e2538126a88b566543dc3341b483650d",
+              "range": [
+                0,
+                304
+              ]
+            }
+          ]
+        },
+        "content": "da geht es auch leich­ ter, und da schreiben sie dann schon oft, das ist eh super, das gefällt mir. Dann siehst du auch so die Wege, manchmal kommt ganz was anderes raus, aber sie haben trotzdem was geschafft« (L/AT, Z. 214-237). Die interviewte Person bezieht sich über die Entwicklung eines Bildungs­ plans auf die längerfristigen Aktivitäten, die nach dem Beratungsgespräch stattfinden. Während sie den E-Mail-Austausch als vorteilhaft beschreibt, weil dadurch die Bereitschaft zur Rückmeldung wächst, halten andere Interviewpartner_innen dieses Kommunikationsmittel für schwierig, weil dieses dem Aufbau einer Beratungsbeziehung eher entgegensteht. »[A]lso was sich bei uns in letzter Zeit extrem vervielfacht hat: die E-Mail-Be­ ratungen. Da schickt man natürlich eine Antwort in der Hoffnung, dass man die Fragen beantwortet hat, da kommt dann schon öfters mal noch eine E-Mail zurück: ›Ja, vielen Dank, aber ich bräuchte jetzt noch die und die Info‹, aber bei vielen bleibt es auch bei der ein"
+      },
+      {
+        "rank": 5,
+        "id": "9cdd89f094f21426ac719b0727402a0cd41fd81a372cbc15114e6199d7b919f8",
+        "score": 0.9779700040817261,
+        "meta": {
+          "file_path": "9783847412304_chapter_0712.txt",
+          "source_id": "631afc20985d83064ba5b1e0be8f9862948caab685134d744a92efabffe2a64a",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b4489832fb6805436b8b188a0ef788f219af2ee8b2350c5cbb713bb9849c9911",
+              "range": [
+                0,
+                447
+              ]
+            }
+          ]
+        },
+        "content": "2. E-Mail-Beratungen E-Mails sind asynchrone, computervermittelte Formen schriftlicher Kommunikation oder genauer gesagt Korrespondenzen, die sich aus mindestens zwei Korrespondenzexemplaren, in unserem Fall einer Anfrage durch eine ratsuchende Person und einer Antwort einer beratenden Person, zusammensetzen. Im Unterschied zur klassischen Korrespondenzform des Briefes weisen computervermittelte Korrespondenzen ein höheres Maß an Anonymität auf und sind stärker dialogisch orientiert. In E-Mails wird dennoch in der Regel auf bestehende schriftsprachliche Konventionen zurückgegriffen, die vom formalen Duktus eines Geschäftsbriefes bis hin zu Umgangssprachlichkeiten im Telegrammstil unter Freunden reichen können (vgl. Wolf 2014: 53ff.). Im Beratungsdiskurs werden E-Mail-Korrespondenzen sowohl Chancen eingeräumt als auch deren Herausforderungen problematisiert. Zunächst sind E-Mail-Beratungen anonymer als Face-to-Face Beratungsinteraktionen. Ratsuchende sind weder zeitlich noch örtlich an "
+      }
+    ]
+  }
+]

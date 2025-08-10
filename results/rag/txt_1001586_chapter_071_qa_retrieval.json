@@ -1,0 +1,676 @@
+[
+  {
+    "filename": "1001586_chapter_071.txt",
+    "question": "Welche Rolle spielen Emotionen im Gespräch laut dem Text?",
+    "answer": "Emotionen spielen im Gespräch eine Hauptrolle, da jede Information zunächst durch eine emotionale Schaltzentrale im Gehirn (den Hypocampus) bewertet wird. Wenn sich das Gegenüber angenommen und verstanden fühlt, ist die Voraussetzung dafür gegeben, dass man sich auf seine Sicht der Dinge einlässt. \n        Wenn sich das Gegenüber angenommen und verstanden fühlt, ist die Voraussetzung dafür gegeben, dass man sich auf seine Sicht der Dinge einlässt. Dies ist eine der Grundregeln für Menschen, die professionell Gespräche führen, und sie können nur darauf Einfluss nehmen, dass sie das Gegenüber verstehen wollen. \n        Emotionen spielen eine wichtige Rolle im Gespräch, da sie die Sichtweise des Gegenübers beeinflussen und es ermöglichen, sich auf seine Sicht der Dinge einzulassen. \n\nDie Antwort auf die Frage lautet: Emotionen spielen im Gespräch eine Hauptrolle. Sie ermöglichen es, sich auf die Sichtweise des Gegenübers einzulassen, wenn sich dieses angenommen und verstanden fühlt. Menschen, die professionell Gespräche führen, sollten sich daher bemühen, das Gegenüber zu verstehen und sich auf seine Sicht der Dinge einzulassen. \n        Die richtige Antwort lautet: Emotionen spielen im Gespräch eine Hauptrolle. Sie ermöglichen es, sich auf die Sichtweise des Gegenübers einzulassen, wenn sich dieses angenommen und verstanden fühlt. Menschen, die professionell Gespräche führen, sollten sich daher bemühen, das Gegenüber zu verstehen und sich auf seine Sicht der Dinge einzulassen. \n        Die richtige Antwort lautet: Emotionen spielen im Gespräch eine Hauptrolle. Sie ermöglichen es, sich auf die Sichtweise des Gegenübers einzulassen, wenn sich dieses angenommen und verstanden fühlt. Menschen, die professionell Gespräche führen, sollten sich daher bemühen, das Gegenüber zu verstehen und sich auf seine Sicht der Dinge einzulassen. \n        Die richtige Antwort lautet: Emotionen spielen im Gespräch eine Hauptrolle. Sie ermöglichen es",
+    "expected": "Emotionen spielen im Gespräch eine Hauptrolle, da jede Information zuerst durch eine emotionale Schaltzentrale im Gehirn (den Hippocampus) verarbeitet wird, die unbewusst einschätzt, wie mit der Information umzugehen ist. Fühlt sich eine Person angenommen und verstanden, ist sie eher bereit, sich auf die Sichtweise des Gegenübers einzulassen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9cba972e94e11cb4f8a2b11fed10e1068eb23b4121b8ebd2a1c47855fca5dfc4",
+        "score": 0.9878436326980591,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1143,
+          "_split_overlap": [
+            {
+              "doc_id": "645e49b1b04c4bdda84ed0e3ddea014102896d45c39a6afa3c1afd3d4a80131f",
+              "range": [
+                1143,
+                1495
+              ]
+            },
+            {
+              "doc_id": "27228b08a1d751675ac89a5300c67ce9f451203df0cef9102638540ef3c13e51",
+              "range": [
+                0,
+                274
+              ]
+            }
+          ]
+        },
+        "content": "Interaktion. Emotionen spielen im Gespräch eine Hauptrolle. Jede Information muss zuerst durch eine emotionale Schaltzent­ rale im Gehirn (den Hypocampus), in der wir unbewusst einschätzen, wie wir mit der Information umgehen sollen. Fühle ich mich von meinem Gegenüber angenommen und verstanden, ist die Voraussetzung dafür gegeben, dass ich mich auf seine Sicht der Dinge, seine Gedanken und Ideen überhaupt erst ein­ lasse. Für Menschen, die professionell Gespräche führen, kann deswegen als eine der Grundregeln gelten: Ich kann mich erst dann verständlich machen, wenn ich mein Gegenüber verstehen will. Denn nur darauf habe ich wirklich Einfluss. Ich kann den anderen oder die andere nicht zwingen, mir zuzuhören. Ich kann nur versuchen, mehr darüber zu erfahren, in welchen Deutungsmus­ tern er oder sie die Welt sieht. In diese kann ich mich dann einklinken und mit meinem Gegenüber im Gespräch eine gemeinsame Sprache entwickeln. 1. \u0007Ich lasse mich auf die Sichtweise meines Gegenübers ein –"
+      },
+      {
+        "rank": 2,
+        "id": "e1794f00c774b7f1916a24d2c1953d5164fad787c59b00ef24b121fb77020416",
+        "score": 0.7952920794487,
+        "meta": {
+          "file_path": "9783847412304_chapter_1023.txt",
+          "source_id": "b9a4d1347f3e3cfb088749334769b4185a1f0fc521249fde32f6e4ec0c6f1d6a",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1074,
+          "_split_overlap": [
+            {
+              "doc_id": "eda7c36588e68201b7215d06d1352548faf214d7d23b7bbbf44a5e4436a90fc4",
+              "range": [
+                1074,
+                1466
+              ]
+            },
+            {
+              "doc_id": "922243cdaea9d3be09c64245fa4683750dc4f1261d69fc460f90318cf63e0eaf",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "mögliches Vehikel für eben solche Fragen betrachtet. Aufbauend hierauf musste sich dem Thema Beratung im FSJ explorativ ge- nähert werden. In der Hauptstudie des Dissertationsprojektes wurden dazu u. a. elf qualitative, leitfadengestützte Interviews mit Bildungsreferent*innen in Leitungspositionen geführt. Die Leitfragen für den Themenkomplex Be- ratung lauteten hierbei: „Wenn Sie spontan einen Fortbildungskurs für ihre pädagogischen Mitarbeitenden anbieten würden, wie würde der Titel lauten?“ und „Welche Rolle spielt Beratung innerhalb des Aufgabenspektrums ihrer pädagogischen Mitarbeitenden?“. Die Antworten wurden vollständig tran- skribiert und in einem ersten Schritt in Anlehnung an die inhaltlich struktu- rierende qualitative Inhaltsanalyse nach Kuckartz (2016) ausgewertet. Diese Methode erlaubte eine systematische, kategoreinbasierte Rekonstruktion der subjektiven Wahrnehmungen der Leitungspersonen. Induktiv konnten sieben Unterkategorien zum Thema Beratung im FSJ gebildet werden"
+      },
+      {
+        "rank": 3,
+        "id": "5c092a0060ca72555a4baa3eb77acaad1f6969b01a53d944f9a0e73dee28178d",
+        "score": 0.4472430944442749,
+        "meta": {
+          "file_path": "9783847412304_chapter_1122.txt",
+          "source_id": "bc15ea92743151fa194c0dbb4dfea344ac45c77f26002a8e0dd2e165156d8084",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2424,
+          "_split_overlap": [
+            {
+              "doc_id": "2a90971cc21373359d452ad7ff1afaaa53128d063183de4c483e2ae79848eb03",
+              "range": [
+                1138,
+                1541
+              ]
+            }
+          ]
+        },
+        "content": "Gespräche wurden nach dem Transkriptionssystem „GAT 2“ vollständig transkribiert (Selting et al. 2009). Zunächst wurden die Gesprächstranskripte makroskopisch bearbeitet, d. h., für jedes Gespräch wurde ein thematischer Verlauf erstellt, nach welchem das Gespräch sequenzartig unterteilt und die jeweiligen Textpassagen paraphra- siert wurden. Diese makroskopische Arbeit an den Transkripten diente als Überblick über die gesamte Struktur der Gespräche sowie als Hilfestellung bei der Auswahl von Sequenzen für die mikroskopische Feinanalyse (Dep- permann 2008: 51f.). Die mikroskopische Analyse erfolgte in einem festen Team und in Kooperation der Universitäten Luxemburg und Hildesheim.2 Die Ergebnisse wurden in konzeptionellen Memos festgehalten, die die Grundla- ge für die weitere Auswahl von Textsequenzen bildeten."
+      },
+      {
+        "rank": 4,
+        "id": "4b24bb963542830bbf5cd64cdb83cb5cbe5d7a81dec8ed8ad83f5c142eaf33d2",
+        "score": 0.25760188698768616,
+        "meta": {
+          "file_path": "9783847412304_chapter_11231.txt",
+          "source_id": "1c90526438e46eba6b3a6a3bc40714c51a3f3e208e894362d8d456a13c0534fb",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2129,
+          "_split_overlap": [
+            {
+              "doc_id": "7735b66c6c3df544e5bd271b66d6dc90d8e16547a862bca0e31bd848a2dd43db",
+              "range": [
+                1028,
+                1359
+              ]
+            }
+          ]
+        },
+        "content": "das Thema Mitarbeitergespräche besprochen und in der aufgezeichneten Sitzung soll ein solches Gespräch ‚durchgespielt‘ werden. Frau N ist Schulleiterin und nimmt bereits seit einiger Zeit am Coaching teil. Im Gespräch geht es um den aktuel- len Stand im beruflichen Kontext. Dazu wird auf eine Frau N bereits bekannte Methode, das „Brett“, zurückgegriffen. Frau N beginnt zunächst ihre Rolle im Zuge der Aufstellung auf dem Brett sowie aktuelle bestehende Probleme zu reflektieren. Der Coach macht verschiedene Angebote, wie Frau N damit umgehen kann. Im Gespräch 1 und Gespräch 2 weicht der Gesprächsverlauf von der (offensichtlichen) Vorstellung des Coachs von einem Coaching – die in einer Reflexion der eigenen Führungsposition in der Organisation besteht – ab. Die Coachees verlangen eher nach einer Supervision oder einer Schulung in der Führung von Mitarbeitergesprächen. Wenngleich die Coachs in diesen Gesprächen versuchen, ein offenes Gespräch über die Position der Coachees in ihrer Organi"
+      },
+      {
+        "rank": 5,
+        "id": "5065abd1924cbe188fa83046fc669d33b0bfee08474e4ed40d01891f537b7c5b",
+        "score": 0.24063169956207275,
+        "meta": {
+          "file_path": "9783847412304_chapter_0713.txt",
+          "source_id": "801d88f5cda72cd62698a1c802a7b972448d0e86069592c349c936c6ee18a13c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1272,
+          "_split_overlap": [
+            {
+              "doc_id": "67e62eacf224e64be8eba3d51a85f9f76aa0a0d4344e854f35d2b8640b83f9d4",
+              "range": [
+                1272,
+                1735
+              ]
+            },
+            {
+              "doc_id": "513e8f6f6b221094d4d2a3382ff5c4c965f12633e34f78dc3b0dc140b5d307e6",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "Personen orientieren, damit ein gegenseitiges Verstehen gewährleistet wird (vgl. Ehrhardt/Heringer 2011: 14). Ziel von pragmatisch-linguistischen Analysen ist es, die Funktion von Gesprächen/Texten zu rekonstruieren, indem die Sprech-/Schreibhand- lungen in ihren konkreten kommunikativen Verwendungszusammenhängen beschrieben werden. Beratungs-E-Mails lassen sich damit als Abfolge von Schreibhandlungen betrachten, die in spezifischen textuellen Relationen zu- einander stehen, gemeinsame thematische Grundlagen haben und mit denen individuelle und gesellschaftliche Zwecke verfolgt werden (vgl. Langheine 1983: 197; Brünner/Graefen 1994: 14). Für die Analyse sind zunächst die E-Mails der Ratsuchenden streng se- quenziell und kontextfrei mit Hilfe einer extensiven Lesartendiskussionen durch die beiden Autor*innen rekonstruiert worden (vgl. Oevermann u.a. 1979), um daraufhin die Antwort-E-Mails der Beratenden mit dem gleichen Verfahren zu analysieren. Erst im Anschluss wurden die E-Mails der "
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_071.txt",
+    "question": "Wie unterstützt bewusste Gesprächsführung den Verstehensprozess zwischen Gesprächspartnern?",
+    "answer": "Eine bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse. Sie ermöglicht mir, gleichzeitig bei mir, beim anderen und beim Thema zu sein. Wenn Menschen aufeinandertreffen, entstehen ein Austausch und ein Wechselverhältnis zwischen zwei Wirklichkeitswahrnehmungen. Auch wenn wir unser Gegenüber nie direkt beeinflussen können, eine bestimmte Meinung, Haltung oder Verhaltensweise zu entwickeln, verändern wir seine oder ihre Sicht auf die Welt durch Interaktion. Emotionen spielen im Gespräch eine Hauptrolle. Jede Information muss zuerst durch eine emotionale Schaltzentrale im Gehirn (den Hypocampus), in der wir unbewusst einschätzen, wie wir mit der Information umgehen sollen. Fühle ich mich von meinem Gegenüber angenommen und verstanden, ist die Voraussetzung dafür gegeben, dass ich mich auf einen Verstehensprozess einlasse. Die bewusste Gesprächsführung ermöglicht es mir, die Verstehensprozesse der Gesprächspartner zu reflektieren und zu antizipieren, was es mir ermöglicht, gleichzeitig bei mir, beim anderen und beim Thema zu sein. Dies unterstützt den Verstehensprozess zwischen Gesprächspartnern.",
+    "expected": "Bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse, wodurch es möglich wird, gleichzeitig auf sich selbst, das Gegenüber und das Thema zu achten. Sie ermöglicht den Aufbau einer gemeinsamen Sprache, indem man sich auf die Sichtweise des anderen einlässt und dessen Deutungsmuster versteht, was den Austausch von Gedanken und Ideen fördert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "645e49b1b04c4bdda84ed0e3ddea014102896d45c39a6afa3c1afd3d4a80131f",
+        "score": 0.9937276840209961,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9cba972e94e11cb4f8a2b11fed10e1068eb23b4121b8ebd2a1c47855fca5dfc4",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "### 4 Gesprächsführungstechniken und Beratungsansätze ### Beratungsansätze 4.1 Grundtechniken der Gesprächsführung Karin Kress Beraterisches Handeln findet in Form von Gesprächen statt. Auch zur An­ wendung von Methoden brauche ich Techniken zur Gesprächsführung. Sie verwirklichen erst die Methode und drücken die wertschätzende und ressour­ cenorientierte Haltung der Beratenden aus. Wer Gesprächstechniken erlernt, empfindet sie zu Beginn oft als sperrig, als würde man sich verstellen oder sein Gegenüber manipulieren. Tatsächlich ist es am Anfang erst schwerer, bevor es leichter wird. Gesprächstechniken helfen uns, das zu sagen, was wir tatsächlich sagen wollen. Eine bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse. Sie ermög­ licht mir, gleichzeitig bei mir, beim anderen und beim Thema zu sein. Wenn Menschen aufeinandertreffen, entstehen ein Austausch und ein Wechselverhältnis zwischen zwei Wirklichkeitswahrnehmungen. Auch wenn wir unser Gegenüber nie direkt bee"
+      },
+      {
+        "rank": 2,
+        "id": "a92d87d23905822fcb5e51e80ceeda0c072f05f38a2a8794ab057abfa6ec0366",
+        "score": 0.9561223983764648,
+        "meta": {
+          "file_path": "9783847412304_chapter_11231.txt",
+          "source_id": "1c90526438e46eba6b3a6a3bc40714c51a3f3e208e894362d8d456a13c0534fb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7735b66c6c3df544e5bd271b66d6dc90d8e16547a862bca0e31bd848a2dd43db",
+              "range": [
+                0,
+                342
+              ]
+            }
+          ]
+        },
+        "content": "3. Ergebnisse Die fünf aufgezeichneten Beratungsgespräche wurden von zwei unterschied- lichen männlichen Coachs3 geführt. Ausgewählt für die Ergebnisdarstellung wurden drei Gespräche, die sich durch den Zeitpunkt des Beratungsprozesses unterscheiden. Ein Erst- und ein Abschlussgespräch sowie ein Gespräch mit- ten im Beratungsprozess bilden den Verlauf des Coachings über einen Zeit- raum von 5 bis 10 Gesprächen ab. Alle Coachees sind in sozialen Dienstleis- tungseinrichtungen oder Bildungseinrichtungen beschäftigt und haben dort jeweils eine Leitungsfunktion inne. Mindestens in zwei Fällen gibt es Hinweise darauf, dass dabei die Impulse zum Coaching von dritter Seite bzw. aus der jeweiligen Organisation heraus entstanden sind. Dies wird teilweise auch an den Äußerungen der Coachees deutlich, die vermitteln, dass kein direkter Anlass in ihrem beruflichen Alltag sie dazu bewegt, ein Coaching in Anspruch zu nehmen. 3.1 Makroskopische Analyse Mit Blick auf die Gesamtstruktur der Coaching-Ge"
+      },
+      {
+        "rank": 3,
+        "id": "bb90c36a37c85473e9f6b3d886b58dfb0ebef0517322b672b43fedc70b797503",
+        "score": 0.9268050789833069,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Mikroskopische Analyse In den mikroskopischen Analysen wurde neben der Frage nach dem „Wie etwas gesagt wurde“ auch untersucht, welche Funktion das Gesagte im Gesprächsverlauf erfüllt. So konnten insgesamt drei Strukturprobleme des Coachings herausgearbeitet werden. Wie anhand von Gesprächsauszügen zu zeigen sein wird, besteht ein Strukturproblem darin, die fachliche Expertise als Coach ausweisen zu müssen, aber dabei zugleich einen möglichst offenen Raum für inhaltliche Themensetzung und Selbstreflexion zu lassen. Ein wei- teres Strukturproblem zeigt sich in einer Beratungsbedürftigkeit, die herge- stellt werden muss, um die Sinnhaftigkeit von Beratung zu rechtfertigen, die jedoch nicht die schon vorhandene Kompetenz des Coachees in Frage stellen darf. Zuletzt besteht das Strukturproblem in einer unbedingten Orientierung an den Bedürfnissen und Bedarfen des/der Klient*in und gleichzeitig in der Notwendigkeit, auch einen Folgeauftrag für die Beratungsorganisation zu si- chern. Empi"
+      },
+      {
+        "rank": 4,
+        "id": "5d965a3193d3754d8ab3a04ed00e4f3a10e4318cd9dbdec676ef177e8971cd2c",
+        "score": 0.893760085105896,
+        "meta": {
+          "file_path": "9783866496811_chapter_1021.txt",
+          "source_id": "52ac534330c8f508c8ced1c9e2abe0419a81bfc787bf9093a62bf86588c5ddf1",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3524,
+          "_split_overlap": [
+            {
+              "doc_id": "788a1ffadef338a9bdf368bf34002ddedef11e1736cfe9ee8d12893a1364dc89",
+              "range": [
+                1227,
+                1639
+              ]
+            }
+          ]
+        },
+        "content": "2008:4 ff Ein neues Berufsbild wird deutlich, die Tätigkeit des Pflegeberaters. Gleichsam finden Beratungsfachleute nirgendwo in den ‚Empfehlungen des GKV-Spitzenverbandes’ ein übergeordnetes Ziel oder ein Konzept der Bera- tung. Die Wissensbestände werden benannt, nicht aber Grundlagen, die sich an beratungswissenschaftlichen Standards orientieren. Es werden Kenntnisse in geeigneter Weise über Kommunikation und Gesprächsführung vorausge- setzt, dennoch ist ein gutes Gespräch noch lange nicht Beratung, obschon ‚gute Gespräche führen zu können’ eine wichtige und beraterisch-relevante Kompetenz darstellt. (vgl. Zwicker-Pelzer 2010:103). Im Modul Pflegefachwissen wird der Begriff der Beratung benutzt: „Beratung zu pflegeinhaltlichen Fragen und Pflegeanleitung“ (GKV 2008) Dieser Unterpunkt bezieht sich aber eher auf die praktischen also auf pflege- inhaltliche Fragen und ist somit eher in die Handlungsanleitung einzuordnen. Auch scheint unter der Flagge des Case-Managements inhaltlich eini"
+      },
+      {
+        "rank": 5,
+        "id": "37698511b461ab37f28f493701493a4d4ef1758df6128f9aeee348eba138f4ba",
+        "score": 0.8839662671089172,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9514,
+          "_split_overlap": [
+            {
+              "doc_id": "a4ff4d15d526ba0d31224af63479f1814fc6e721b457a0043f69f2a6b2d5ed6f",
+              "range": [
+                1198,
+                1629
+              ]
+            }
+          ]
+        },
+        "content": "die Systemische Gesprächsführung (Lisa Müller-Arnold) und die Lösungs- und Ressourcenori­ entierte Gesprächsführung (Anne Schlüter) vorgestellt. Schließlich sollen im fünften Kapitel des Buches ausgewählte Methoden und Techniken dargestellt werden, die von Studierenden des Master-Studien­ gangs Erwachsenenbildung an der Universität Duisburg-Essen ausprobiert wurden. Für die Auswahl standen praktische Fragen im Vordergrund wie: Was bringt Visualisierung? Sind Techniken zur Methode der Ressourcenak­ tivierung nachvollziehbar darstellbar? Welche Techniken zur Entscheidungs­ vorbereitung sind zum Üben relevant? Wohin führen kreative Techniken? Wie können Anregungen zur Reflexion gegeben werden? Alles in allem ist bei je­ dem Vorgehen die Rolle, Funktion und Begleitung durch die Beratenden ein Thema. Karin Kress führt in das Kapitel gesondert ein, um die Erfahrungen aus dem Seminar zu „Methoden und Techniken in der Beratung“ nachvollzieh­ bar zu machen. Aufgrund ihrer Erfahrungen, die Karin"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_071.txt",
+    "question": "Welche drei grundlegenden Gesprächstechniken werden im Text genannt und wie können sie kombiniert auftreten?",
+    "answer": "Die drei grundlegenden Gesprächstechniken werden im Text als Wiederholen, Paraphrasieren und Spiegeln bezeichnet. Diese Techniken können beliebig kombiniert werden, je konfliktreicher das Gespräch ist, desto wichtiger wird es, das ganze Potenzial dieser drei Techniken auszuschöpfen. Die Techniken können in verschiedenen Ebenen eingesetzt werden, um dem Gegenüber eine Rückmeldung darüber zu geben, was von ihm oder ihr bei dem Berater ankommt. \n         Wiederholen bedeutet, dass der Berater das Gesagte wiederholt, um Schwerpunkte im Gesprächsverlauf zu setzen und das Gegenüber nicht zu belasten. \n         Paraphrasieren bedeutet, dass der Berater das Gesagte in eigenen Worten wiederholt, um es zu verstehen und zu reflektieren. \n         Spiegeln bedeutet, dass der Berater das Gesagte in seinen eigenen Worten wiederholt, um das Gegenüber zu verstehen und zu reflektieren. \n         Diese Techniken können kombiniert werden, um das Gespräch zu gestalten und das Gegenüber zu verstehen. \n\n         Die drei Techniken sind wichtig, um das Gespräch zu gestalten und das Gegenüber zu verstehen. Sie können in verschiedenen Ebenen eingesetzt werden, um dem Gegenüber eine Rückmeldung darüber zu geben, was von ihm oder ihr bei dem Berater ankommt. Die Techniken können beliebig kombiniert werden, je konfliktreicher das Gespräch ist, desto wichtiger wird es, das ganze Potenzial dieser drei Techniken auszuschöpfen. \n\n         Die Kombination der Techniken kann wie folgt aussehen: \n         Wiederholen + Paraphrasieren + Spiegeln \n         Paraphrasieren + Spiegeln + Wiederholen \n         Spiegeln + Wiederholen + Paraphrasieren \n\n         Es gibt keine bestimmte Reihenfolge, in der die Techniken kombiniert werden müssen. Die wichtigste Sache ist, dass die Techniken kombiniert werden, um das Gespräch zu gestalten und das Gegenüber zu verstehen. \n\n         Die Kombination der Techniken kann je nach Situation und Gespr",
+    "expected": "Die drei grundlegenden Gesprächstechniken sind 1. Wiederholen, Paraphrasieren, Spiegeln, Zusammenfassen, 2. Ich-Botschaften und 3. Fragetechniken. Diese Techniken treten oft gemischt auf, beispielsweise in einem Satz, der als Frage formuliert ist und gleichzeitig eine Wiederholung, eine Ich-Botschaft und eine Fragetechnik beinhaltet, wie im Beispiel: „Habe ich Sie richtig verstanden, dass Sie im Augenblick wenig Zeit mit der Suche nach Stellenanzeigen verbringen?“",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e8cee34b74c338fbf79e6411b4d64288d62afa393d457ddffdb428ec95035256",
+        "score": 0.9910248517990112,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3134,
+          "_split_overlap": [
+            {
+              "doc_id": "27228b08a1d751675ac89a5300c67ce9f451203df0cef9102638540ef3c13e51",
+              "range": [
+                996,
+                1344
+              ]
+            },
+            {
+              "doc_id": "efb2c43cdeb44790dafe14d00a36b2be61bc67a68a8a4a56f2b1171e77cb72e9",
+              "range": [
+                0,
+                334
+              ]
+            }
+          ]
+        },
+        "content": "wie hilfreich es ist, die drei Grundtechniken auch bewusst und getrennt voneinander im Beratungs­ gespräch zu nutzen. Dann wird aus dem leicht vorwurfsvollen Satz ein echtes Beratungsangebot: „Sie haben gerade davon gesprochen, welchen Verpflichtun­ gen Sie privat zurzeit nachgehen. Mein Eindruck ist, dass die Bewerbung auf neue Stellen in Ihrem Alltag im Augenblick wenig Raum hat. Ist das so?“ In dieser Variante sind die drei Techniken als drei einzelne Schritte er­ kennbar. Sie lassen sich zwar beliebig kombinieren, je konfliktreicher ein Gespräch ist, man könnte auch sagen, je weiter die Wirklichkeitswahrneh­ mungen auseinandergehen, desto wichtiger wird es, das ganze Potenzial die­ ser drei Techniken auszuschöpfen. Gerade für das Erlernen einer wertschätzenden Gesprächsführung ist es hilfreich, die einzelnen Techniken bewusst zu üben und sich anzuschauen, welche Effekte sie jeweils erzielen. Wiederholen, Paraphrasieren, Spiegeln Es gibt verschiedene Ebenen, auf die ich mich beziehe"
+      },
+      {
+        "rank": 2,
+        "id": "645e49b1b04c4bdda84ed0e3ddea014102896d45c39a6afa3c1afd3d4a80131f",
+        "score": 0.9388542175292969,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9cba972e94e11cb4f8a2b11fed10e1068eb23b4121b8ebd2a1c47855fca5dfc4",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "### 4 Gesprächsführungstechniken und Beratungsansätze ### Beratungsansätze 4.1 Grundtechniken der Gesprächsführung Karin Kress Beraterisches Handeln findet in Form von Gesprächen statt. Auch zur An­ wendung von Methoden brauche ich Techniken zur Gesprächsführung. Sie verwirklichen erst die Methode und drücken die wertschätzende und ressour­ cenorientierte Haltung der Beratenden aus. Wer Gesprächstechniken erlernt, empfindet sie zu Beginn oft als sperrig, als würde man sich verstellen oder sein Gegenüber manipulieren. Tatsächlich ist es am Anfang erst schwerer, bevor es leichter wird. Gesprächstechniken helfen uns, das zu sagen, was wir tatsächlich sagen wollen. Eine bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse. Sie ermög­ licht mir, gleichzeitig bei mir, beim anderen und beim Thema zu sein. Wenn Menschen aufeinandertreffen, entstehen ein Austausch und ein Wechselverhältnis zwischen zwei Wirklichkeitswahrnehmungen. Auch wenn wir unser Gegenüber nie direkt bee"
+      },
+      {
+        "rank": 3,
+        "id": "5c092a0060ca72555a4baa3eb77acaad1f6969b01a53d944f9a0e73dee28178d",
+        "score": 0.9230870604515076,
+        "meta": {
+          "file_path": "9783847412304_chapter_1122.txt",
+          "source_id": "bc15ea92743151fa194c0dbb4dfea344ac45c77f26002a8e0dd2e165156d8084",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2424,
+          "_split_overlap": [
+            {
+              "doc_id": "2a90971cc21373359d452ad7ff1afaaa53128d063183de4c483e2ae79848eb03",
+              "range": [
+                1138,
+                1541
+              ]
+            }
+          ]
+        },
+        "content": "Gespräche wurden nach dem Transkriptionssystem „GAT 2“ vollständig transkribiert (Selting et al. 2009). Zunächst wurden die Gesprächstranskripte makroskopisch bearbeitet, d. h., für jedes Gespräch wurde ein thematischer Verlauf erstellt, nach welchem das Gespräch sequenzartig unterteilt und die jeweiligen Textpassagen paraphra- siert wurden. Diese makroskopische Arbeit an den Transkripten diente als Überblick über die gesamte Struktur der Gespräche sowie als Hilfestellung bei der Auswahl von Sequenzen für die mikroskopische Feinanalyse (Dep- permann 2008: 51f.). Die mikroskopische Analyse erfolgte in einem festen Team und in Kooperation der Universitäten Luxemburg und Hildesheim.2 Die Ergebnisse wurden in konzeptionellen Memos festgehalten, die die Grundla- ge für die weitere Auswahl von Textsequenzen bildeten."
+      },
+      {
+        "rank": 4,
+        "id": "e2146e0e1776a2806295bb673757217a43b4fbea6e0b0e70d3ab4d4f155dd2e3",
+        "score": 0.8923989534378052,
+        "meta": {
+          "file_path": "9783839444856_chapter_0632.txt",
+          "source_id": "be6af47ddfc749fb9dd0d3b1448fb664026baf5e4238d8ee69f0ea872ae22471",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1272,
+          "_split_overlap": [
+            {
+              "doc_id": "cdda1fb6db64ffc91a406898d032e44f3c012102a6b2868f93a5ca042b623fa9",
+              "range": [
+                1272,
+                1670
+              ]
+            },
+            {
+              "doc_id": "22695bb6990e9eb3538e18dd7e605fcd0328f5f00e69bfe6a5a2ac50498c6363",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Kluge 2010, S. 101ff.; Meuser und Nagel 1991). Demnach konnten die zentralen Konzepte von pädagogischer Beratung, Anerkennung und Professionalität fortwährend empirisch konkretisiert werden, indem die subjektiven Perspektiven der Akteur_innen auf den Forschungsgegen­ stand erfasst wurden. Dabei ist durchgehend zu berücksichtigen, dass es sich bei den Auswertungen um Interpretationen der von den Interviewpart­ ner_innen dargestellten Perspektiven auf ihre Praxis handelt. In welchem Ausmaß die Interviews transkribiert werden, kann nach Meuser und Nagel (vgl. 1991, S. 455f.) von der inhaltlichen Relevanz der je­ weiligen Textpassagen abhängig gemacht werden. Da die Interviews the­ matisch sehr dicht waren, wurden sie vollständig transkribiert. Infolge der inhaltsanalytischen Zielrichtung wurde auf eine aufwendige sprachanalyti­ sche Technik verzichtet. »Da es bei ExpertInneninterviews um gemeinsam geteiltes Wissen geht, hal­ ten wir aufwendige Notationssysteme, wie sie bei narrativen Inte"
+      },
+      {
+        "rank": 5,
+        "id": "bb90c36a37c85473e9f6b3d886b58dfb0ebef0517322b672b43fedc70b797503",
+        "score": 0.8856285214424133,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Mikroskopische Analyse In den mikroskopischen Analysen wurde neben der Frage nach dem „Wie etwas gesagt wurde“ auch untersucht, welche Funktion das Gesagte im Gesprächsverlauf erfüllt. So konnten insgesamt drei Strukturprobleme des Coachings herausgearbeitet werden. Wie anhand von Gesprächsauszügen zu zeigen sein wird, besteht ein Strukturproblem darin, die fachliche Expertise als Coach ausweisen zu müssen, aber dabei zugleich einen möglichst offenen Raum für inhaltliche Themensetzung und Selbstreflexion zu lassen. Ein wei- teres Strukturproblem zeigt sich in einer Beratungsbedürftigkeit, die herge- stellt werden muss, um die Sinnhaftigkeit von Beratung zu rechtfertigen, die jedoch nicht die schon vorhandene Kompetenz des Coachees in Frage stellen darf. Zuletzt besteht das Strukturproblem in einer unbedingten Orientierung an den Bedürfnissen und Bedarfen des/der Klient*in und gleichzeitig in der Notwendigkeit, auch einen Folgeauftrag für die Beratungsorganisation zu si- chern. Empi"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_071.txt",
+    "question": "Warum empfindet man das Erlernen von Gesprächstechniken zu Beginn oft als sperrig oder manipulativ, und wie verändert sich diese Wahrnehmung mit der Zeit?",
+    "answer": "Wer Gesprächstechniken erlernt, empfindet sie zu Beginn oft als sperrig, als würde man sich verstellen oder sein Gegenüber manipulieren. Tatsächlich ist es am Anfang erst schwerer, bevor es leichter wird. Gesprächstechniken helfen uns, das zu sagen, was wir tatsächlich sagen wollen. Eine bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse. Sie ermöglicht mir, gleichzeitig bei mir, beim anderen und beim Thema zu sein.",
+    "expected": "Zu Beginn erscheint das Erlernen von Gesprächstechniken oft sperrig, weil es sich anfühlen kann, als würde man sich verstellen oder sein Gegenüber manipulieren. Diese Wahrnehmung entsteht, weil die Techniken zunächst ungewohnt sind. Mit der Zeit wird es jedoch leichter, da die Techniken helfen, genau das zu sagen, was man wirklich ausdrücken möchte, und die Kommunikation bewusster und wertschätzender gestaltet wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "645e49b1b04c4bdda84ed0e3ddea014102896d45c39a6afa3c1afd3d4a80131f",
+        "score": 0.9371238350868225,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9cba972e94e11cb4f8a2b11fed10e1068eb23b4121b8ebd2a1c47855fca5dfc4",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "### 4 Gesprächsführungstechniken und Beratungsansätze ### Beratungsansätze 4.1 Grundtechniken der Gesprächsführung Karin Kress Beraterisches Handeln findet in Form von Gesprächen statt. Auch zur An­ wendung von Methoden brauche ich Techniken zur Gesprächsführung. Sie verwirklichen erst die Methode und drücken die wertschätzende und ressour­ cenorientierte Haltung der Beratenden aus. Wer Gesprächstechniken erlernt, empfindet sie zu Beginn oft als sperrig, als würde man sich verstellen oder sein Gegenüber manipulieren. Tatsächlich ist es am Anfang erst schwerer, bevor es leichter wird. Gesprächstechniken helfen uns, das zu sagen, was wir tatsächlich sagen wollen. Eine bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse. Sie ermög­ licht mir, gleichzeitig bei mir, beim anderen und beim Thema zu sein. Wenn Menschen aufeinandertreffen, entstehen ein Austausch und ein Wechselverhältnis zwischen zwei Wirklichkeitswahrnehmungen. Auch wenn wir unser Gegenüber nie direkt bee"
+      },
+      {
+        "rank": 2,
+        "id": "e8cee34b74c338fbf79e6411b4d64288d62afa393d457ddffdb428ec95035256",
+        "score": 0.8523235321044922,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3134,
+          "_split_overlap": [
+            {
+              "doc_id": "27228b08a1d751675ac89a5300c67ce9f451203df0cef9102638540ef3c13e51",
+              "range": [
+                996,
+                1344
+              ]
+            },
+            {
+              "doc_id": "efb2c43cdeb44790dafe14d00a36b2be61bc67a68a8a4a56f2b1171e77cb72e9",
+              "range": [
+                0,
+                334
+              ]
+            }
+          ]
+        },
+        "content": "wie hilfreich es ist, die drei Grundtechniken auch bewusst und getrennt voneinander im Beratungs­ gespräch zu nutzen. Dann wird aus dem leicht vorwurfsvollen Satz ein echtes Beratungsangebot: „Sie haben gerade davon gesprochen, welchen Verpflichtun­ gen Sie privat zurzeit nachgehen. Mein Eindruck ist, dass die Bewerbung auf neue Stellen in Ihrem Alltag im Augenblick wenig Raum hat. Ist das so?“ In dieser Variante sind die drei Techniken als drei einzelne Schritte er­ kennbar. Sie lassen sich zwar beliebig kombinieren, je konfliktreicher ein Gespräch ist, man könnte auch sagen, je weiter die Wirklichkeitswahrneh­ mungen auseinandergehen, desto wichtiger wird es, das ganze Potenzial die­ ser drei Techniken auszuschöpfen. Gerade für das Erlernen einer wertschätzenden Gesprächsführung ist es hilfreich, die einzelnen Techniken bewusst zu üben und sich anzuschauen, welche Effekte sie jeweils erzielen. Wiederholen, Paraphrasieren, Spiegeln Es gibt verschiedene Ebenen, auf die ich mich beziehe"
+      },
+      {
+        "rank": 3,
+        "id": "90e093e46eb6b40328c481e7db4ad6fe540871d832c5c7bee5e7b6fd26e38a4d",
+        "score": 0.7150251865386963,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7001,
+          "_split_overlap": [
+            {
+              "doc_id": "6bab649040bb724c87bd89b84b3eb660c6b04e22a044f622bec8ffbb1b4fac91",
+              "range": [
+                1218,
+                1611
+              ]
+            },
+            {
+              "doc_id": "a4ff4d15d526ba0d31224af63479f1814fc6e721b457a0043f69f2a6b2d5ed6f",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "ermöglichen. Die Ressourcenaktivierung im Rahmen des Ressourcenorientierten Ansatzes kann mit verschiedenen Tech­ niken arbeiten, die sich zu unterschiedlichen Methoden (z.B. Der Lebensbaum S. 151) kombinieren lassen. Auch Techniken sind Regeln für einen Gesprächsverlauf unterworfen, um Qualität zu erhalten. Techniken sind Mittel zum Zweck der Erreichung einer gelingenden Beratung. Sie als Medien zu verstehen, könnte missverständlich sein. Techniken sind beispielsweise: aktives Zuhören, Paraphrase, Fragetech­ niken (z. B. offene Fragen, geschlossene Fragen, zirkuläres Fragen), Einsatz von Gesprächsförderern und Meidung von Gesprächsstörern, Zusammenfas­ sen, Wiederholen, Konkretisieren, Ankern, Verstärken, Ermuntern, Fokus­ sieren, Hinterfragen, Erkunden, Konstruktives Aufdecken, Relativieren von Generalisierungen, Wertschätzung vermitteln, Anerkennung zeigen, usw. Arbeitstechniken werden auch als taktische Instrumente bezeichnet, als grundsätzliche Hilfsmittel, die den gesamten Beratu"
+      },
+      {
+        "rank": 4,
+        "id": "37698511b461ab37f28f493701493a4d4ef1758df6128f9aeee348eba138f4ba",
+        "score": 0.374424010515213,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9514,
+          "_split_overlap": [
+            {
+              "doc_id": "a4ff4d15d526ba0d31224af63479f1814fc6e721b457a0043f69f2a6b2d5ed6f",
+              "range": [
+                1198,
+                1629
+              ]
+            }
+          ]
+        },
+        "content": "die Systemische Gesprächsführung (Lisa Müller-Arnold) und die Lösungs- und Ressourcenori­ entierte Gesprächsführung (Anne Schlüter) vorgestellt. Schließlich sollen im fünften Kapitel des Buches ausgewählte Methoden und Techniken dargestellt werden, die von Studierenden des Master-Studien­ gangs Erwachsenenbildung an der Universität Duisburg-Essen ausprobiert wurden. Für die Auswahl standen praktische Fragen im Vordergrund wie: Was bringt Visualisierung? Sind Techniken zur Methode der Ressourcenak­ tivierung nachvollziehbar darstellbar? Welche Techniken zur Entscheidungs­ vorbereitung sind zum Üben relevant? Wohin führen kreative Techniken? Wie können Anregungen zur Reflexion gegeben werden? Alles in allem ist bei je­ dem Vorgehen die Rolle, Funktion und Begleitung durch die Beratenden ein Thema. Karin Kress führt in das Kapitel gesondert ein, um die Erfahrungen aus dem Seminar zu „Methoden und Techniken in der Beratung“ nachvollzieh­ bar zu machen. Aufgrund ihrer Erfahrungen, die Karin"
+      },
+      {
+        "rank": 5,
+        "id": "85ce12b304408302bf0c0afa08a458d5bdfe830dddc3ec8abd22f3a0bc175740",
+        "score": 0.2426493614912033,
+        "meta": {
+          "file_path": "9783866496811_chapter_0712.txt",
+          "source_id": "acc9045b3fac6a2ab0db7f599c025f4a7eabfc9fe8a828b0c66069e13b95fa7e",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5855,
+          "_split_overlap": [
+            {
+              "doc_id": "c142790f30e9ecf74c8bb4eeb2ef08e846ffaa6c29bf2b9205eb13f0a5e569b1",
+              "range": [
+                1115,
+                1488
+              ]
+            },
+            {
+              "doc_id": "cb74ae8e795ac8b42ee0a66573722bb54fcdcc65f04e8b22609756a327102dd8",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "B. über Tod, Krebs, allgemeine Ängste) oft hilflos, zwiespältig oder überfordert. Für sich selbst empfinden die Befragten Gespräche in schwierigen Situatio- nen als entlastend, trotzdem wird dem Gespräch mit Patienten kaum eine Wirkung zugesprochen. 8. Kategorie: Wie verarbeiten Pflegekräfte diese Belastung? Zwei der Befragten haben die Möglichkeit einer Supervision und empfinden diese als sehr entlastend. Die anderen Pflegekräfte geben individuelle Verar- beitungsmechanismen an, z.B. Gespräche im privaten Umfeld, eigene Fähigkeit der Distanzierung, aber auch Teilzeitarbeit wird genannt. Hier wird deutlich dass für den größten Teil der Befragten durch den Arbeit- geber keine Möglichkeiten geboten werden mit Belastungen des Pflegealltags umzugehen und sie so mit diesen Belastungen alleine gelassen werden. Für einige erscheint die Auseinandersetzung durch private Strukturen ausrei- chend, andere leiden jedoch darunter. 9. Kategorie: Welche Hilfen wünschen sich Pflegekräfte, um mit diesen"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_071.txt",
+    "question": "Wie lässt sich das Prinzip \"Ich kann mich erst dann verständlich machen, wenn ich mein Gegenüber verstehen will\" im Kontext professioneller Gesprächsführung anwenden?",
+    "answer": "Das Prinzip \"Ich kann mich erst dann verständlich machen, wenn ich mein Gegenüber verstehen will\" kann im Kontext professioneller Gesprächsführung auf verschiedene Weise angewendet werden. Hier sind einige Schritte, die dabei helfen können:\n\n1.  Ich lasse mich auf die Sichtweise meines Gegenübers ein – Ich höre ihm bzw. ihr aufmerksam zu und biete anschließend meine Deutung, von dem, was er oder sie gesagt hat, zur Präzisierung an.\n2.  Ich erzähle von meinem Erleben und meiner Sicht auf die Welt.\n3.  Ich frage die andere Person nach ihrer bzw. seiner Sicht der Dinge.\n\nDiese drei Grundtechniken können in verschiedenen Kombinationen eingesetzt werden, um ein effektives Gespräch zu führen. Es ist wichtig, dass man sich bewusst ist, wie man diese Techniken anwendet, um ein wertschätzendes Gespräch zu führen. Indem man sich auf die Sichtweise des Gegenübers einlässt, kann man eine gemeinsame Sprache entwickeln und ein tieferes Verständnis für die andere Person gewinnen. Die Anwendung dieser Techniken erfordert ein hohes Maß an Empathie und Kommunikationsfähigkeit.\n\nDiese Schritte können in einem Beratungs- oder Coachinggespräch angewendet werden, um ein vertrauensvolles und effektives Gespräch zu führen. Indem man sich auf die Sichtweise des Gegenübers einlässt und Fragen stellt, kann man ein tieferes Verständnis für die Herausforderungen und Bedürfnisse der anderen Person gewinnen. Die Anwendung dieser Techniken kann auch dazu beitragen, eine gemeinsame Lösung für ein Problem zu finden. Es ist wichtig, dass man sich bewusst ist, wie man diese Techniken anwendet, um ein wertschätzendes Gespräch zu führen. Indem man sich auf die Sichtweise des Gegenübers einlässt, kann man eine gemeinsame Sprache entwickeln und ein tieferes Verständnis für die andere Person gewinnen. \n\nIndem man sich auf die Sichtweise des Gegenübers einlässt und Fragen stellt, kann man ein tieferes Verständnis für",
+    "expected": "Dieses Prinzip bedeutet, dass eine Person nur dann effektiv kommunizieren kann, wenn sie sich aktiv bemüht, die Sichtweise des Gegenübers zu verstehen. Professionelle Gesprächsführung setzt darauf, in die Deutungsmuster des Gesprächspartners einzutauchen, ihm aufmerksam zuzuhören und dessen Perspektive zu erfassen, um eine gemeinsame Sprache zu entwickeln. Dadurch wird die Verständigung verbessert, da man nicht versucht, den anderen zu zwingen zuzuhören, sondern sich auf dessen Wahrnehmung einlässt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9cba972e94e11cb4f8a2b11fed10e1068eb23b4121b8ebd2a1c47855fca5dfc4",
+        "score": 0.9784348011016846,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1143,
+          "_split_overlap": [
+            {
+              "doc_id": "645e49b1b04c4bdda84ed0e3ddea014102896d45c39a6afa3c1afd3d4a80131f",
+              "range": [
+                1143,
+                1495
+              ]
+            },
+            {
+              "doc_id": "27228b08a1d751675ac89a5300c67ce9f451203df0cef9102638540ef3c13e51",
+              "range": [
+                0,
+                274
+              ]
+            }
+          ]
+        },
+        "content": "Interaktion. Emotionen spielen im Gespräch eine Hauptrolle. Jede Information muss zuerst durch eine emotionale Schaltzent­ rale im Gehirn (den Hypocampus), in der wir unbewusst einschätzen, wie wir mit der Information umgehen sollen. Fühle ich mich von meinem Gegenüber angenommen und verstanden, ist die Voraussetzung dafür gegeben, dass ich mich auf seine Sicht der Dinge, seine Gedanken und Ideen überhaupt erst ein­ lasse. Für Menschen, die professionell Gespräche führen, kann deswegen als eine der Grundregeln gelten: Ich kann mich erst dann verständlich machen, wenn ich mein Gegenüber verstehen will. Denn nur darauf habe ich wirklich Einfluss. Ich kann den anderen oder die andere nicht zwingen, mir zuzuhören. Ich kann nur versuchen, mehr darüber zu erfahren, in welchen Deutungsmus­ tern er oder sie die Welt sieht. In diese kann ich mich dann einklinken und mit meinem Gegenüber im Gespräch eine gemeinsame Sprache entwickeln. 1. \u0007Ich lasse mich auf die Sichtweise meines Gegenübers ein –"
+      },
+      {
+        "rank": 2,
+        "id": "e8cee34b74c338fbf79e6411b4d64288d62afa393d457ddffdb428ec95035256",
+        "score": 0.9565211534500122,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3134,
+          "_split_overlap": [
+            {
+              "doc_id": "27228b08a1d751675ac89a5300c67ce9f451203df0cef9102638540ef3c13e51",
+              "range": [
+                996,
+                1344
+              ]
+            },
+            {
+              "doc_id": "efb2c43cdeb44790dafe14d00a36b2be61bc67a68a8a4a56f2b1171e77cb72e9",
+              "range": [
+                0,
+                334
+              ]
+            }
+          ]
+        },
+        "content": "wie hilfreich es ist, die drei Grundtechniken auch bewusst und getrennt voneinander im Beratungs­ gespräch zu nutzen. Dann wird aus dem leicht vorwurfsvollen Satz ein echtes Beratungsangebot: „Sie haben gerade davon gesprochen, welchen Verpflichtun­ gen Sie privat zurzeit nachgehen. Mein Eindruck ist, dass die Bewerbung auf neue Stellen in Ihrem Alltag im Augenblick wenig Raum hat. Ist das so?“ In dieser Variante sind die drei Techniken als drei einzelne Schritte er­ kennbar. Sie lassen sich zwar beliebig kombinieren, je konfliktreicher ein Gespräch ist, man könnte auch sagen, je weiter die Wirklichkeitswahrneh­ mungen auseinandergehen, desto wichtiger wird es, das ganze Potenzial die­ ser drei Techniken auszuschöpfen. Gerade für das Erlernen einer wertschätzenden Gesprächsführung ist es hilfreich, die einzelnen Techniken bewusst zu üben und sich anzuschauen, welche Effekte sie jeweils erzielen. Wiederholen, Paraphrasieren, Spiegeln Es gibt verschiedene Ebenen, auf die ich mich beziehe"
+      },
+      {
+        "rank": 3,
+        "id": "a5697fea1f514c14301a6a3f93b1835631117dba7b08e16ab6c81d4830f8f6ff",
+        "score": 0.3566294014453888,
+        "meta": {
+          "file_path": "9783866496811_chapter_0712.txt",
+          "source_id": "acc9045b3fac6a2ab0db7f599c025f4a7eabfc9fe8a828b0c66069e13b95fa7e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1195,
+          "_split_overlap": [
+            {
+              "doc_id": "c731ed08118957acedb25dc840b8eb2187a488303f5d1a65ef0614c895cc0525",
+              "range": [
+                1195,
+                1586
+              ]
+            },
+            {
+              "doc_id": "8a1e62649fb7fee3b1d16d56c7cbcbc7c6dcd50e9cf152fbe4aea0ba5888d9c8",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "Erklären von fachspezifischen Fragen, aber auch eine in spe- ziellen Institutionen erbrachte Dienstleistung. Die eigenen kommunikativen Anteile ihrer Arbeit beschreiben sie mit Worten wie: Schwätzchen halten, Hilfe geben, auf den Patienten eingehen jedoch der Begriff ‚Beratung‘ scheint den Befragten diesbezüglich sehr fremd. 2. Kategorie: Wie ordnen Pflegekräfte den kommunikativen Aspekt ihrer Tätigkeit unter professioneller Sichtweise ein? Den Pflegekräften wurden drei Beratungsformen vorgestellt: Alltagsbe- ratung/ -gespräch, psychosoziale Beratung, klinische Beratung. Anschließend sollten sie diesen Begriffen die von ihnen geführten Gespräche zuordnen. Ein Drittel benennt ausschließlich die Alltagsberatung. Ein Drittel benennt ausschließlich die psychosoziale Beratung. Ein Drittel benennt die Alltags-, die psychosoziale Beratung und zum Teil auch die klinische Beratung. Die starke Betonung der Alltagsberatung lässt für SCHIERON zwei Schlüsse zu. Zum einen liegt nahe, dass die Befrag"
+      },
+      {
+        "rank": 4,
+        "id": "82261038b47667b3254a51c219be50982947418d7933916a298e31528d11799a",
+        "score": 0.08987275511026382,
+        "meta": {
+          "file_path": "9783866496811_chapter_071.txt",
+          "source_id": "1a0524cccb3f1b6b57745c56cb22ce494da66b7b828cb6beac3410ad53418a6e",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3413,
+          "_split_overlap": [
+            {
+              "doc_id": "f7578b7d61f508238a9ab88c0896cc0a9aa8f8a59e51c5c61cc8abde2a055b26",
+              "range": [
+                1096,
+                1457
+              ]
+            },
+            {
+              "doc_id": "6012cc38e389d97d3acbf306429ad8e37c6912511cb2d0ed2078c0223ae5786e",
+              "range": [
+                0,
+                340
+              ]
+            }
+          ]
+        },
+        "content": "erkennen und selbst zu lösen. - Die meisten Befragten fühlten sich in manchen Gesprächssituatio- nen unsicher oder überfordert z.B. im Umgang mit aggressiven und suizidalen Patienten oder, wenn im Gespräch immer wieder die glei- chen Probleme angesprochen wurden. Dieses wurde von Pflegekräften mit und ohne Zusatzausbildung angegeben. Anhand der ausgewerteten Interviews, erhielten die Pflegekräfte mit Fach- weiterbildung die Qualifikation zur Gesprächsführung und Beratung aus derselben. Keine der anderen Pflegekräfte hatte ihre Qualifikation aus der Grundausbildung, diese bezogen sich hauptsächlich auf ihre Berufs- und Lebenserfahrung. Eine Pflegekraft gab an, dass das Gefühl und Verständnis Gespräche zu führen, „so ein bisschen angeboren, so eine Vererbungssache in Anfüh- rungszeichen [ist]“ (Knelange 2000:7) Auf die Frage wie jemand zu Beratungskompetenzen gelangen kann, gaben die Befragten mit Zusatzausbildung an, dass Fortbildungen alleine nicht ausreichen würden. Sie wünschten sich"
+      },
+      {
+        "rank": 5,
+        "id": "a92d87d23905822fcb5e51e80ceeda0c072f05f38a2a8794ab057abfa6ec0366",
+        "score": 0.0827205702662468,
+        "meta": {
+          "file_path": "9783847412304_chapter_11231.txt",
+          "source_id": "1c90526438e46eba6b3a6a3bc40714c51a3f3e208e894362d8d456a13c0534fb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7735b66c6c3df544e5bd271b66d6dc90d8e16547a862bca0e31bd848a2dd43db",
+              "range": [
+                0,
+                342
+              ]
+            }
+          ]
+        },
+        "content": "3. Ergebnisse Die fünf aufgezeichneten Beratungsgespräche wurden von zwei unterschied- lichen männlichen Coachs3 geführt. Ausgewählt für die Ergebnisdarstellung wurden drei Gespräche, die sich durch den Zeitpunkt des Beratungsprozesses unterscheiden. Ein Erst- und ein Abschlussgespräch sowie ein Gespräch mit- ten im Beratungsprozess bilden den Verlauf des Coachings über einen Zeit- raum von 5 bis 10 Gesprächen ab. Alle Coachees sind in sozialen Dienstleis- tungseinrichtungen oder Bildungseinrichtungen beschäftigt und haben dort jeweils eine Leitungsfunktion inne. Mindestens in zwei Fällen gibt es Hinweise darauf, dass dabei die Impulse zum Coaching von dritter Seite bzw. aus der jeweiligen Organisation heraus entstanden sind. Dies wird teilweise auch an den Äußerungen der Coachees deutlich, die vermitteln, dass kein direkter Anlass in ihrem beruflichen Alltag sie dazu bewegt, ein Coaching in Anspruch zu nehmen. 3.1 Makroskopische Analyse Mit Blick auf die Gesamtstruktur der Coaching-Ge"
+      }
+    ]
+  }
+]

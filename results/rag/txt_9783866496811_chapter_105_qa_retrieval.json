@@ -1,0 +1,660 @@
+[
+  {
+    "filename": "9783866496811_chapter_105.txt",
+    "question": "Welche zukünftigen Herausforderungen werden im Bereich der Pflege laut den statistischen Ämtern erwartet?",
+    "answer": "Laut dem Text werden systemische Beratungsprozesse für die Pflege zukünftig wichtig erscheinen, um mit den zunehmenden Komplexitäten der Pflegeausbildung umzugehen. Diese sollen eine erweiterte Perspektive bieten und eine professionelle Distanzierung von beruflichen Belastungen ermöglichen. Zudem soll sie nicht in der Problemsicht untergehen, sondern auch auf die Ressourcen lenken. \n\n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwicker-Pelzer. \n        Seite: 23. \n        Datum: 2010. \n        Veröffentlichung: Zwicker-Pelzer, 2010. \n        Quelle: Zwick",
+    "expected": "Es wird eine weitaus höhere Anzahl von Pflegebedürftigen und von Pflegebedürftigkeit Bedrohten in naher Zukunft erwartet.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f162e6263b4ea2c7e867cb59f53f8f8f608d391bafde8fcdfad65f3b9fcaaa6f",
+        "score": 0.9772113561630249,
+        "meta": {
+          "file_path": "9783866496811_chapter_093.txt",
+          "source_id": "826d654414b5870a514b3ca850e10f6b57e45a6c67c324832e379dae664d3526",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3610,
+          "_split_overlap": [
+            {
+              "doc_id": "a5d4eeee24d99547f88fbd5a4039becb978f7fd8ec336bc142dc9c1b6c1cfff0",
+              "range": [
+                1164,
+                1541
+              ]
+            },
+            {
+              "doc_id": "b92a237a5fff5727cc15c55d1acb47812e529233b70e43d2752321602596a78a",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Lernen in den Pflegeausbildungen verankert werden soll, dann stehen zunächst strukturelle Momente in der Betrachtung. Der Lernende besucht diese verschiedenen Lernorte in den verschiedenen institutionellen Kontexten, in individuellen Abfolgen und Wegkreuzungen und nimmt wahr und beobachtet, erlebt und erfährt, denkt und handelt, denkt nach und vor, verhält sich und handelt, bewältigt situative Anforderungen und scheitert, freut sich und schämt sich, ist hungrig und satt, geht und bleibt für eine Zeit lang, etc. Aus dem oben beschriebenen Beratungsverständnis heraus, lassen sich viel- fältige Anlässe für systemische Beratungsprozesse im Lernprozess einzelner Personen, Gruppen bzw. Teams und auch der Organisation ableiten. In systemischer Beratung werden die angedachten, vorweggenommenen bzw. mitgedachten (heimlichen) Aufträge herausgearbeitet. In der Phase der Auf- tragsklärung werden sie gemeinsam mit dem Beratung-Suchenden professionell thematisiert. Der die Beratung aufsuchende Lerne"
+      },
+      {
+        "rank": 2,
+        "id": "75de77befd48e6d20f1938991d4205633db5f72f00c39879219be25ba895aa62",
+        "score": 0.9612208604812622,
+        "meta": {
+          "file_path": "9783866496811_chapter_0932.txt",
+          "source_id": "ec4ee1aa4cdf7efd3adbefd1abbc93b4dad40d96fa9bdedb1a3c9fbe7baf0840",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8281,
+          "_split_overlap": [
+            {
+              "doc_id": "47a8cf16b6d5dd7fd9f5f676ac593c320e8047298cfd8c199f906fbb16826ce2",
+              "range": [
+                946,
+                1380
+              ]
+            },
+            {
+              "doc_id": "da941cc75b59b11dccb7769d906f1c5f745cf18b74de92f317d3feb0e905510a",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "der Lösungssuche. Die existentiellen Fragestellungen erlauben es oftmals nicht, sich einer rein verstandesbezogenen Auseinandersetzung zu überlassen. Vielmehr sind es verantwortungsbezogene Überlegungen, die die Anforde- rungen aus der erlebten Hilfs- und Pflegebedürftigkeit bewältigen helfen. Das pflegerische Handeln nach besten Wissen und Gewissen zu gestalten wird als generalistische Handlungsqualität gefordert. Dies bedeutet, dass die Lernenden in den Pflegeberufen ihr Handeln auf seine Sinn- und Werthaftigkeit überprüfen können, sollen bzw. müssen. Kompetenz zeigt sich in der erfolgreichen Bewältigung situativer Erforder- nisse. Die erworbene Kompetenz muss also in situatives Handeln umgesetzt werden. Erst in der erfolgreichen Performance, der erfolgreichen Bewälti- gung neuerlicher situativer Anforderungen, zeigt sie sich. Ähnlich hat es Christa OLBRICH auch gemeint, als sie beschrieb, dass ethische Kompetenz zu haben nicht ausreicht, sonders eine aktiv-ethische Kompetenz in der "
+      },
+      {
+        "rank": 3,
+        "id": "7066c431df3d19cc7e3ddf38c77a2d43a0b83c5b33dc451251897e221bf70a56",
+        "score": 0.9097405076026917,
+        "meta": {
+          "file_path": "9783866496811_chapter_093.txt",
+          "source_id": "826d654414b5870a514b3ca850e10f6b57e45a6c67c324832e379dae664d3526",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9363,
+          "_split_overlap": [
+            {
+              "doc_id": "c6bfd2526414356fcbd6fa3573a766d65e10cdfc664829848104ba7c73920644",
+              "range": [
+                1206,
+                1612
+              ]
+            }
+          ]
+        },
+        "content": "2010:23) Es wird deutlich, dass aufgrund der zunehmenden Komplexität der Pflege- ausbildung eine systemische Beratung für die an der Ausbildung beteiligten Lernenden, Lehrer und Praxisanleiter zukünftig wichtig erscheint. Denn sie ermöglicht eine erweiterte Perspektive, die eine professionelle Distanzierung von den erheblichen beruflichen Belastungen erschafft. Sie hilft nicht in der Problemsichtigkeit unterzugehen, sondern den Blick auch auf die Ressourcen zu lenken. Hier gibt die Übersicht von ZWICKER-PELZER hilfreiche An- regungen. Sie hebt die Anschlussfähigkeit dieses Beratungsverständnisses für die Arbeitsfelder Pflege und Beratung, Pädagogik und Soziale Arbeit hervor. Auch hilft sie durch die Ressourcenorientierung die erhaltenswerten Anteile im System aufzuspüren und zu stärken. Damit können die vorhandenen Res- sourcen ,d.h. die Stärken zur Verminderung der Probleme oder Schwächen genutzt werden."
+      },
+      {
+        "rank": 4,
+        "id": "887d03daa8256c681a8d7a6e2f0e27d6c2c0f4e1cf559af1d44c8c6fadb68207",
+        "score": 0.9013919830322266,
+        "meta": {
+          "file_path": "9783866496811_chapter_0912.txt",
+          "source_id": "2657a4327bb62362b1aebe87c33202f353ee95bf2a80551de9e6a25dc79a3e27",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1269,
+          "_split_overlap": [
+            {
+              "doc_id": "8ddd485bc59483cf18a558ba7e0a98649be4447e5a97026ff84b5736d818fcd6",
+              "range": [
+                1269,
+                1682
+              ]
+            },
+            {
+              "doc_id": "372103b9259e457a5e1fbd4bffa523e89acb86d020839456b1e6273114e42935",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "beruflichen Tätigkeit anzuwenden. Dieser Anwendungsbezug findet sich ebenfalls in den Anforderungsprofilen zu den staatlichen Prüfungen am Ende der Pflegeaus- bildung. (vgl. KrPflGAPrV 2003, AltPflGAPrV 2003) Die im Rahmen der Pflegeausbildungen zu erwerbenden Handlungskompe- tenzen sind in den gesetzlichen Grundlagen beschrieben und in dem schulinternen Curriculum differenziert aufgeführt. Die geforderte und erwar- tete Integration des Pflegebedürftigen und seiner Angehörigen in den Pflegeprozess ist ohne Beratungskompetenzen der Pflegefachkräfte nicht einzulösen. Diese gilt es im Kontext der Themenbereiche/ Lernfelder grund- zulegen und in den Anleitungs- und Pflegeprozessen durch die Praxisanleiter weiter zu entwickeln. Die medizintherapeutisch-pflegerische Zielsetzung aufgrund der Rahmungen aus SGB V und SGB XI und den daraus erwach- senden Behandlungs- bzw. Versorgungsverträgen setzt hier dem beraterischen Handeln der Pflegefachkräfte Grenzen. Auch wenn sie einen Beratungsbedarf e"
+      },
+      {
+        "rank": 5,
+        "id": "61e8dedaf10edb461e313e982cfe075f2c3efc2a6a01e41311d302e446c01f4b",
+        "score": 0.8767601847648621,
+        "meta": {
+          "file_path": "9783866496811_chapter_072.txt",
+          "source_id": "79bd7e7a86cdccafae656deff96a0c01281a48b8326eed4f24e412e9e020be4e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2f3918370e51655dd14435061b4fcd79f8882ab5c070e76dcaa7d7f76344047f",
+              "range": [
+                0,
+                343
+              ]
+            }
+          ]
+        },
+        "content": "3.2. Konzepte aus der Pflege für Beratung? Wenn man nach einem konzepttauglichen Hintergrund bei der Pflege sucht, dann bietet sich die Literaturstudie von MERTIN u.a. (2005) an. In ihr wer- den im Bezug auf die Beratung drei weitere Wissenschaften (Erziehungswissenschaft, Psychologie, Wirtschaftswissenschaft, (Organisati- onsentwicklung)) der Pflegewissenschaft gegenübergestellt. Es wird herausgearbeitet, dass die Pflegewissenschaft im Unterschied zu den anderen Wissenschaften über kein Beratungskonzept verfügt, weder in der Theorie noch in der Praxis. Auch eine Unterscheidung verschiedener Beratungsfor- men und Beratungssettings findet nicht statt. Doch sind sich die Autoren in der vorliegenden Literatur darüber einig, dass Beratung immer als ein Aufga- benbereich der Pflege gesehen wird. Als Ziele der Beratung werden in erster Linie Verhaltensänderungen beim Patienten formuliert. Auch sollen mit der Beratung dem Patienten mögliche Handlungsalternativen aufgezeigt werden, um sich dan"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_105.txt",
+    "question": "Welche Rolle spielt der Spitzenverband Bund der Pflegekassen bei der Erstellung von Richtlinien für die Pflegeberatung laut der Beschlussempfehlung des Bundestagsausschusses des §7a?",
+    "answer": "Der Spitzenverband Bund der Pflegekassen soll keine Richtlinien für die Pflegeberatung erstellen, sondern Empfehlungen. Dies wird in der Beschlussempfehlung des Bundestagsausschusses des §7a klar formuliert.",
+    "expected": "Der Spitzenverband Bund der Pflegekassen soll keine Richtlinien für die Pflegeberatung erstellen, sondern ausdrücklich nur Empfehlungen geben.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c97fc3a5ceba3e01f6a219ef47490aa38d0895180161c1c2f2f3bcbe03239970",
+        "score": 0.9779976010322571,
+        "meta": {
+          "file_path": "9783866496811_chapter_1021.txt",
+          "source_id": "52ac534330c8f508c8ced1c9e2abe0419a81bfc787bf9093a62bf86588c5ddf1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1132,
+          "_split_overlap": [
+            {
+              "doc_id": "0a954b7c1f270cba85567ba850337928015ed6169d2fa76be71604269dd194d5",
+              "range": [
+                1132,
+                1496
+              ]
+            },
+            {
+              "doc_id": "788a1ffadef338a9bdf368bf34002ddedef11e1736cfe9ee8d12893a1364dc89",
+              "range": [
+                0,
+                416
+              ]
+            }
+          ]
+        },
+        "content": "anderem festgelegt, dass der Spitzenverband Bund der Pflegekassen (GKV) bis zum 31. Oktober 2008 eine Empfehlung zur Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen erstellt hat. An der Ausarbeitung dieses Dokuments waren neben der GKV auch der Deutsche Berufsverband für Soziale Arbeit e.V. (DBSH) und die Deutsche Vereinigung für Sozialarbeit im Gesundheitswesen e.V. (DVSG) beteiligt. Darin werden aufbauend auf das Elfte Sozialgesetzbuch zu folgenden Punk- ten prägnante Empfehlungen für die Weiterbildung des Pflegeberaters der Pflegeberaterin gegeben: - Anzahl der Pflegeberaterinnen und Berater - Berufliche Grundqualifikation - Qualifikationsanforderung - Weiterbildung - Pflegepraktikum - Anerkennung bereits erworbener Qualifikationen - Qualifikationsnachweise - Einsatz von Pflegeberaterinnen und Beratern - Inkrafttreten Die Inhalte der Weiterbildung befinden sich im §§ 4 und 5 des Dokumentes der GKV: § 4 Weiterbildungen Die Weiterbildung gliedert sich in die Module,"
+      },
+      {
+        "rank": 2,
+        "id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+        "score": 0.9594356417655945,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7151,
+          "_split_overlap": [
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                1226,
+                1561
+              ]
+            }
+          ]
+        },
+        "content": "und Qualifikation der Pflegeberater und Pflegeberaterinnen zwar in Auftrag gibt, aber die Empfehlungen eben auch nur diesen Charakter haben. Die Qualifikationsanforderungen, die zum 30. Juni 2011 erfüllt sein ‚müs- sen‘, finden wir in § 7a Abs.3 Satz 2 SGB XI: „Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Personal ein, insbesondere Pflegefach- kräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pfle- geberatern und Pflegeberaterinnen gibt der Spitzenverband Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 2011 erfüllt sein.“ (§ 7a Abs.3 Satz 2-5 SGB XI) Dies macht deutlich, dass vom Gesetzgeber keine Richtlinien über Anzahl und Qualifikationen des Pflegeberaters vorgesehen sind, sondern es bei Emp-"
+      },
+      {
+        "rank": 3,
+        "id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+        "score": 0.9283713698387146,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2253,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                1075,
+                1446
+              ]
+            },
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "4. In diesen Fällen kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen werden muss. (SGB XI, §37, Abs.3) Mit dem ersten Satz des Absatzes 3 setzte das Pflegeversicherungsgesetz den Grundstein, dass hiermit der Pflegefachkraft in pflegerelevanten Fragen eine eigenständige Beratungskompetenz zugestanden wurde und ein Beratungs- auftrag zur Pflegeberatung formuliert wurde. Die Notwendigkeit zur Beratung bestand darin, die Qualität der häuslichen Pflege zu sichern, dies stieß auch bei den Leistungsträgern auf eine breite Zustimmung: (5) Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenver- sicherung e. V. beschließen gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen Empfehlungen zur Qualitäts"
+      },
+      {
+        "rank": 4,
+        "id": "c59dabdf0b972ea483fcb46e41fc913a2c882a4d0a111b6eb2d8d84aa0dad506",
+        "score": 0.7985599040985107,
+        "meta": {
+          "file_path": "9783866496811_chapter_105.txt",
+          "source_id": "990ba007392c380377553c8c2edd87fc90bd06fb8d29b298d894458c08fd62f2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "6.5. Blick in die Zukunft - Zukunftsorientierte Weiterentwicklung der PflegeberaterInnen Veränderungen des Feldes Pflege stehen noch an, wie die Daten der statisti- schen Ämter des Bundes und der Länder zeigen. In naher Zukunft wird eine weitaus höhere Anzahl von Pflegebedürftigen und von Pflegebedürftigkeit Bedrohten erwartet. Daher ist es nötig, sich ebenfalls über eine mögliche Weiterentwicklung der Pflegestützpunkte Gedanken zu machen. Den erweiterten Gestaltungsfreiraum auf Gesetzesebene gibt es. In der Be- schlussempfehlung des Bundestag Ausschusses des §7a (vgl. Schmidbauer 2008:23) wird klar formuliert, dass der Spitzenverband Bund der Pflegekas- sen keine Richtlinien für die Pflegeberatung erstellen soll, sondern ausdrücklich Empfehlungen. Die amtlichen Begründungen machen deutlich, das in der Unterstützung Pflegebedürftiger die psychischen und sozialen Belange bisher vernachlässigt wurden und daher eine wesentliche Anforde- rung der pflegerischen Versorgung an die Zukunft sei"
+      },
+      {
+        "rank": 5,
+        "id": "f15941cfc6f5463755ed8691e53ef744fe943e52e08a31a4940034ba156a9e2d",
+        "score": 0.2897264063358307,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+              "range": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        "content": "6.2.2. Abhängige und unabhängige Dimensionen der Pflegeberatung Warum ist das so, dass die Tätigkeit des Pflegeberaters angeblich so wenig mit dem gemeinsamen Beratungsverständnis des DGfB (Deutsche Gesell- schaft für Beratung e.V.) im eigentlichen Sinne zu tun hat und der Baustein ‚Beratung’ in der Empfehlung vom GKV doch sehr im Hintergrund steht oder zur weiteren Begriffsverwirrung einlädt? Vielleicht liegt es daran, dass die Entwicklung der Profession noch nicht weit genug ist oder sie vor den Toren der Professionen rundum Pflege einen Halt macht? Hervorzuheben ist, dass der Gesetzgeber mit dem § 7a ebenfalls festlegt, vom GKV-Spitzenverband keine Richtlinien zur Qualifizierung des Pflegeberaters der Pflegeberaterin erstellen zu lassen, sondern lediglich Empfehlungen (vgl. Schmidbauer 2008:23). Da ‚Richtlinie‘ ein juristisch definierter Begriff ist, wäre diese bindend und bei einer Weiterentwicklung eine neue Gesetzgebung von Nöten. Durch den eingerichteten Gestaltungsfreiraum wird"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_105.txt",
+    "question": "Warum wird die Stärkung des Potenzials der Eigenverantwortung und Eigeninitiative als wesentliche Anforderung der zukünftigen pflegerischen Versorgung angesehen?",
+    "answer": "Die Stärkung des Potenzials der Eigenverantwortung und Eigeninitiative wird als wesentliche Anforderung der zukünftigen pflegerischen Versorgung angesehen, weil sie die Potenziale für gegenseitige Hilfe stärken und die Unabhängigkeit und die häusliche Umgebung der Pflegebedürftigen erhalten soll. Durch die Stärkung der Eigenverantwortung und Eigeninitiative können die Pflegebedürftigen ihre eigene Gesundheit und ihr eigenes Wohlbefinden verbessern und ihre eigene Situation besser kontrollieren. Dies kann dazu beitragen, dass die Pflegebedürftigen weniger abhängig von externen Hilfequellen sind und ihre eigene Autonomie erhalten. Darüber hinaus kann die Stärkung der Eigenverantwortung und Eigeninitiative auch dazu beitragen, dass die Pflegebedürftigen ihre eigene Situation besser verstehen und ihre eigenen Bedürfnisse besser identifizieren können. Dies kann dazu beitragen, dass die Pflegebedürftigen besser in der Lage sind, ihre eigenen Bedürfnisse zu artikulieren und ihre eigenen Interessen zu vertreten. Insgesamt kann die Stärkung des Potenzials der Eigenverantwortung und Eigeninitiative dazu beitragen, dass die Pflegebedürftigen ihre eigene Gesundheit und ihr eigenes Wohlbefinden verbessern und ihre eigene Autonomie erhalten. Dies ist ein wichtiger Aspekt der zukünftigen pflegerischen Versorgung, da es die Unabhängigkeit und die häusliche Umgebung der Pflegebedürftigen erhalten und ihre eigene Gesundheit und ihr eigenes Wohlbefinden verbessern soll.         Die Stärkung des Potenzials der Eigenverantwortung und Eigeninitiative wird als wesentliche Anforderung der zukünftigen pflegerischen Versorgung angesehen, weil sie die Potenziale für gegenseitige Hilfe stärken und die Unabhängigkeit und die häusliche Umgebung der Pflegebedürftigen erhalten soll. Durch die Stärkung der Eigenverantwortung und Eigeninitiative können die Pflegebedürftigen ihre eigene Gesundheit und ihr eigenes Wohlbefinden verbessern und ihre eigene",
+    "expected": "Weil die psychischen und sozialen Belange der Pflegebedürftigen bisher vernachlässigt wurden, ist es wichtig, die Eigenverantwortung und Eigeninitiative zu stärken, um die Unterstützung ganzheitlicher und zukunftsorientierter zu gestalten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+        "score": 0.9934355020523071,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1182,
+          "_split_overlap": [
+            {
+              "doc_id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+              "range": [
+                1182,
+                1586
+              ]
+            }
+          ]
+        },
+        "content": "Betriebsmodell Pflege- stützpunkt zu kräftigen. Dies wird auch durch die amtliche Begründung des § 92c SGB XI bestärkt: „Die Arbeitsgruppe des Runden Tisches Pflege haben Probleme der Gesundheits- und Sozialsysteme bei der zielgerichteten und angemessenen Unterstützung Pflegebedürftiger beschrieben. Diese Schwierigkeiten resultieren aus der bisher erfolgten Konzentration auf körperliche Probleme oder einzelne Episoden im Krankheitsverlauf bei Vernachlässigung psychischer und sozialer Belange sowie einer ganzheitlichen und auf Dauer ausgerichteten Gesamtversorgungsstruktur. Eine wesentliche Anforderung an die zukünftigen Strukturen in der pflegerischen Versorgung besteht somit darin, die Potenziale für Eigenverantwor- tung, Eigeninitiative und gegenseitige Hilfe zu stärken (…).“ (Schmidbauer 2008:151) Die ganzheitliche und auf Dauer ausgerichtete Gesamtversorgungsstruktur ist wie beschrieben im Pilotprojekt, aber wie sieht es mit den psychischen und sozialen Belangen der Pflegebedürftig"
+      },
+      {
+        "rank": 2,
+        "id": "17a7fcce35ecd695dd5dad0c57ee30c2f5c4610270fbc64bab8edc0fdb0e3f2d",
+        "score": 0.7972894906997681,
+        "meta": {
+          "file_path": "9783866496811_chapter_104.txt",
+          "source_id": "b35718da3e850d1f88f1b426cf3beec748740b03135f1334fd6e47ac4ffd4e2a",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4347,
+          "_split_overlap": [
+            {
+              "doc_id": "c96848e2380d3c0eab510f58b28914d7d20fa6317b438f636367c55771b547fa",
+              "range": [
+                1109,
+                1433
+              ]
+            },
+            {
+              "doc_id": "7703884e4fa1e221e8b8ff2eac2a28833a14771f75bf0a616876a3ea8abbc9eb",
+              "range": [
+                0,
+                347
+              ]
+            }
+          ]
+        },
+        "content": "geht es darum die Defizite der Pflege und Betreuung zu erkennen und diese dann mit Einsicht der Betroffenen (§7a Abs.1 Satz 4) auszugleichen, um auf diese Weise die Unabhängigkeit und die häusliche Umgebung zu erhalten aber auch die Kompetenz der Versorgung zu steigern. Liegt die Problematik der ehrenamtlich Pflegenden im fehlenden Wissen – z.B. von pflegerischen Handlungen, kann der Pflegeberater einen Pflegekurs für die/ den Angehörigen nach § 45, SGB XI veranlassen. Liegt die Problematik allerdings in der Interaktion zwischen ehrenamtlich Pflegendem und zu pflegender Person kann dies ganz vielschichtige Gründe des Versorgungsdefizits bedeuten, welche es in Beratungsgesprächen heraus- zuarbeiten gilt. Die Pflege bzw. Versorgungsprobleme könnten z.B. sein, dass die Angehörigen oder der Ehepartner die Symptomverschlimmerung nicht erkennen bzw. wahrhaben möchte, aber bei dem Betroffenen das Selbstpflegedefizit immer stärker wird. Ein verstärktes Unterstützen wäre zwar z.B. von der Ehefr"
+      },
+      {
+        "rank": 3,
+        "id": "6916b13f2ae1a1e2171fc78dbc7b1eeda21a080c7d2c480969643013bf802edf",
+        "score": 0.4551529884338379,
+        "meta": {
+          "file_path": "9783847412304_chapter_1235.txt",
+          "source_id": "12e89d3b3b28508839584d213989632af69be77450ca53c1981be45c74f51741",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2383,
+          "_split_overlap": [
+            {
+              "doc_id": "436f760dc2b808ace84af4a9251f5fcfeb62baea7d09657b3b725c84caa5805a",
+              "range": [
+                1070,
+                1430
+              ]
+            },
+            {
+              "doc_id": "bd1983b61bf9de0e11290e565acb567d0103a212baf2464c36f4fe1549dfe742",
+              "range": [
+                0,
+                432
+              ]
+            }
+          ]
+        },
+        "content": "Herrschaft (vgl. Euler 2003, S. 416). Neben der Förderung der Selbstverantwortung des oder der Ratsuchenden gilt es auch, die Erfahrungen der Klient/innen anzuerkennen, mitunter Verantwortung für sie zu überneh- men und ihrem Leid eine (öffentliche) Stimme zu geben, um auf strukturelle Defizite aufmerksam zu machen. Das bedeutet ebenso eine progressive Res- ponsibilisierung zu thematisieren, die die Folgen wachsende Ökonomisierung oder gar Streichung öffentlicher Fürsorge in die Eigenverantwortung der Ein- zelnen legt. Kritisch-emanzipatorische Beratung wird möglich, wenn ihre eigene Wi- dersprüchlichkeit in Form ihrer Funktionalisierung und Reproduktion von gesellschaftlichen Verhältnissen bei gleichzeitigem Potenzial zu deren Über- schreitung sichtbar wird (vgl. Bünger 2009, S. 182). Eine kritisch-emanzipativ verstandene Beratung knüpft in ihrem Selbst- verständnis aber nicht nur an ein kritisch verstandenes Bildungsverständnis an und reflektiert sich selbstkritisch, sondern verweist"
+      },
+      {
+        "rank": 4,
+        "id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+        "score": 0.3932718336582184,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4723,
+          "_split_overlap": [
+            {
+              "doc_id": "ee71426c438d77f65b1aac73409265a44e559757c6a37f908d3a5360a8578e44",
+              "range": [
+                1215,
+                1657
+              ]
+            },
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        "content": "individueller Versorgungsplan zu erstellen welcher die erforderlichen Sozialleistungen und gesundheitsfördernden, präventiven, kurativen, rehabilitativen oder sonstigen medizinischen/ pflegerischen/ sozia- len Hilfen beinhaltet. Die Erstellung sowie auch die Umsetzung des Versorgungsplans sind im Einvernehmen mit dem Hilfesuchenden und allen an der Pflege, Versorgung und Betreuung Beteiligten anzustreben. Ebenfalls gehört zur Aufgabe der Pflegeberatung die so ermittelten und erforderlichen Maßnahmen beim entsprechenden Leistungsträger zu beantragen, sowie die Durchführung des erstellten Versorgungsplans zu überwachen, einer verän- derten Bedarfslage anzupassen und den Hilfeprozess (bei besonders komplexen Fallgestaltungen) auszuwerten und zu dokumentieren. Im Abs.2 wird klar formuliert dass auf Wunsch des Pflegebedürftigen auch Angehörige und Lebenspartner, also das engere soziale Umfeld, in die Bera- tung miteinbezogen werden können. Auch kann die Beratung wahlweise in der häuslichen "
+      },
+      {
+        "rank": 5,
+        "id": "59be38d2fd5b8a97a0b5100599c6a9aec55efb29d8bb12c92424a633e2075a89",
+        "score": 0.2851888835430145,
+        "meta": {
+          "file_path": "9783866496811_chapter_0622.txt",
+          "source_id": "a4ab9102ce89447b2a9b8569063bdf11aba811d3990f721e5dee40bf87c10e5d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1157,
+          "_split_overlap": [
+            {
+              "doc_id": "4aa705b692cdd78af675a9957f2bb6a22aa4e0305d226337a220a5b8deeaafca",
+              "range": [
+                1157,
+                1552
+              ]
+            },
+            {
+              "doc_id": "296683268fdfd7dc690cc67ac7256d4457aa12cf782dbdea6aab3ce59f7c8dc6",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "stimmung der Menschen zu berücksichtigen (Ausbildungsziel). (2) Die Ausbildung für die Pflege nach Absatz 1 soll insbesondere dazu befähigen, 1. die folgenden Aufgaben eigenverantwortlich auszuführen: a) Erhebung und Feststellung des Pflegebedarfs, Planung, Organisation, Durchführung und Dokumentation der Pflege, b) Evaluation der Pflege, Sicherung und Entwicklung der Qualität der Pflege, c) Beratung, Anleitung und Unterstützung von zu pflegenden Menschen und ihrer Bezugspersonen in der individuellen Auseinandersetzung mit Gesundheit und Krankheit, d) Einleitung lebenserhaltender Sofortmaßnahmen bis zum Eintreffen der Ärztin oder des Arztes, 2. die folgenden Aufgaben im Rahmen der Mitwirkung auszuführen: a) eigenständige Durchführung ärztlich veranlasster Maßnahmen, b) Maßnahmen der medizinischen Diagnostik, Therapie oder Rehabilitation, c) Maßnahmen in Krisen- und Katastrophensituationen, 3. interdisziplinär mit anderen Berufsgruppen zusammenzuarbeiten und dabei multidisziplinäre und "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_105.txt",
+    "question": "Wie hat das Pflege-Weiterentwicklungsgesetz mit den §§7a und 92c die Struktur des Gesundheitssystems im Bereich der Pflegeberatung beeinflusst?",
+    "answer": "Das Pflege-Weiterentwicklungsgesetz hat mit den §§7a und 92c die Struktur des Gesundheitssystems im Bereich der Pflegeberatung beeinflusst, indem es den Pflegeberatern eine angemessene Rahmung für ihre Tätigkeit gegeben hat und die Pflegeberatung zu einer Pflichtleistung der Pflegekassen gemacht hat. Es hat auch die Aufgaben der Pflegeberatung definiert, wie z.B. die Erfassung des Hilfebedarfs, die Erstellung eines individuellen Versorgungsplans und die Durchführung des Versorgungsplans. Außerdem hat es den Pflegeberatern die Möglichkeit gegeben, sich an der Finanzierung und arbeitsteiligen Organisation von Beratungsangeboten anderer Träger zu beteiligen. Insgesamt hat das Gesetz den Pflegeberatern mehr Möglichkeiten gegeben, die Pflegebedürftigen besser zu unterstützen und ihre Bedürfnisse besser zu berücksichtigen. Die Struktur des Gesundheitssystems im Bereich der Pflegeberatung ist also durch das Gesetz umfassender und effektiver geworden. \n\nI hope it matches the required format. Please let me know if I made any mistakes. \n\nPlease note that the answer is based on the provided context and might not be the only possible interpretation. \n\nLet me know if you need any further assistance! \n\nHere is the answer in a more concise format:\n\nDie Antwort lautet: Das Pflege-Weiterentwicklungsgesetz hat die Struktur des Gesundheitssystems im Bereich der Pflegeberatung umfassender und effektiver gemacht, indem es den Pflegeberatern eine angemessene Rahmung gegeben hat, ihre Aufgaben definiert und ihnen die Möglichkeit gegeben, sich an der Finanzierung und arbeitsteiligen Organisation von Beratungsangeboten anderer Träger zu beteiligen. \n\nLet me know if you need any further assistance! \n\nHere is the answer in a format that is even more concise:\n\nDie Antwort lautet: Das Pflege-Weiterentwicklungsgesetz hat die Struktur des Gesundheitssystems im Bereich der Pflegeberatung umfassender und effektiver gemacht. \n\nLet me know if you need any further assistance! \n\nHere is",
+    "expected": "Das Gesetz hat erst den Anstoß zu einer weiterführenden Strukturveränderung des Gesundheitssystems gegeben, indem es PflegeberaterInnen und Pflegestützpunkte etabliert und den Gestaltungsfreiraum für deren zukunftsorientierte Weiterentwicklung eröffnet hat.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c59dabdf0b972ea483fcb46e41fc913a2c882a4d0a111b6eb2d8d84aa0dad506",
+        "score": 0.9970917701721191,
+        "meta": {
+          "file_path": "9783866496811_chapter_105.txt",
+          "source_id": "990ba007392c380377553c8c2edd87fc90bd06fb8d29b298d894458c08fd62f2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "6.5. Blick in die Zukunft - Zukunftsorientierte Weiterentwicklung der PflegeberaterInnen Veränderungen des Feldes Pflege stehen noch an, wie die Daten der statisti- schen Ämter des Bundes und der Länder zeigen. In naher Zukunft wird eine weitaus höhere Anzahl von Pflegebedürftigen und von Pflegebedürftigkeit Bedrohten erwartet. Daher ist es nötig, sich ebenfalls über eine mögliche Weiterentwicklung der Pflegestützpunkte Gedanken zu machen. Den erweiterten Gestaltungsfreiraum auf Gesetzesebene gibt es. In der Be- schlussempfehlung des Bundestag Ausschusses des §7a (vgl. Schmidbauer 2008:23) wird klar formuliert, dass der Spitzenverband Bund der Pflegekas- sen keine Richtlinien für die Pflegeberatung erstellen soll, sondern ausdrücklich Empfehlungen. Die amtlichen Begründungen machen deutlich, das in der Unterstützung Pflegebedürftiger die psychischen und sozialen Belange bisher vernachlässigt wurden und daher eine wesentliche Anforde- rung der pflegerischen Versorgung an die Zukunft sei"
+      },
+      {
+        "rank": 2,
+        "id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+        "score": 0.9959304928779602,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "2.3. Das Pflege-Weiterentwicklungsgesetz (PfWG) und Beratung in der Pflege Seit Implementierung der Pflegeversicherung im Jahre 1995 gab es keine prägnanten Veränderungen des Elften Sozialgesetzbuches. Erst mit dem Pflege-Weiterentwicklungsgesetz, welches zum 1. Juli 2008 in Kraft trat, ist eine strukturelle Weiterentwicklung zu verzeichnen. Wie bereits 1995 sind auch 2008 wieder neue Elemente im Sozialgesetzbuch bezüglich der Bera- tung in der Pflege auszumachen – ‚§7a Pflegeberatung‘ und ‚§92c Pflegestützpunkte‘. Diese Elemente der Gesetzgebung beziehen sich zwar auf das tägliche Han- deln in dem Handlungsfeld der ambulanten Pflege, sie können gleichermaßen im Rahmen der Grundausbildung bereits in die Stärkung der Fach- und der Sozial-kommunikativen Kompetenz hineinreichen und nehmen somit auch einen Stellenwert in der Persönlichkeitsentwicklung der Pflegefachkräfte ein. Im §7 ist der Absatz 3 neu verfasst worden, der für die Pflegeberatung als Pflichtleistung der Pflegekassen einen "
+      },
+      {
+        "rank": 3,
+        "id": "6879cfcbc626c00d65790e0cde760459f8b899a4e3b8ea01a6332ea50aab74cb",
+        "score": 0.9904204607009888,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5e2034b6f1ef1c79ad33a30156d0bbe53cec92607068961bc5210b540794e4f8",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "2.3.1. Die Pflegeberatung im Kontext des Pflege- Weiterentwicklungsgesetzes Mit dem § 7a des Pflege-Weiterentwicklungsgesetzes ist es dem Gesetzgeber ein Anliegen dem Tätigkeitsprofil und den Aufgaben eines Pflegeberaters eine angemessene Rahmung zu geben. Mit dem ersten Satz (§ 7a Abs.1 Satz 1) erhält die Pflegeberatung ihre Definition und bereits der Folgende macht deutlich welche fünf Hauptaufgaben die Pflegeberatung insbesondere verfol- gen soll: §7a Abs.1, 2 und 3 (1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem 1. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind (Pfle- geberatung). Aufgabe der Pflegeberatung ist es insbesondere, 1. den Hilfebedarf unter Berücksi"
+      },
+      {
+        "rank": 4,
+        "id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+        "score": 0.9900994896888733,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4533,
+          "_split_overlap": [
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                1103,
+                1473
+              ]
+            },
+            {
+              "doc_id": "df481b8000bf02f9500e3095edae6adfb3315b67c2a19c0b48a998473a5271c4",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "die Pflege in ihrer Weiterentwicklung sein konnte. Denn 1995 wurde mit dem SGB XI auch der §7 implementiert, in welchem die Pflegekassen unter Zugzwang gerieten ihren Versicherten eigenverantwortlich eine neutrale Präventionsbe- ratung zukommen zu lassen, um sie so in einer gesunden und der Pflegebedürftigkeit vorbeugenden Lebensführung zu unterstützen. §7 Aufklärung und Beratung (1) Die Pflegekassen haben die Eigenverantwortung der Versicherten durch Aufklärung und Beratung über eine gesunde, der Pflegebedürftigkeit vorbeugende Lebensführung zu unterstützen und auf die Teilnahme an gesundheitsfördernden Maßnahmen hinzuwirken. (2) Die Pflegekassen haben die Versicherten und ihre Angehörigen und Lebenspartner in den mit der Pflegebedürftigkeit zusammenhängenden Fragen, insbesondere über die Leistungen der Pflegekassen sowie über die Leistungen und Hilfen anderer Träger, zu unterrichten und zu beraten. Mit Einwilligung des Versicherten haben der behandelnde Arzt, das Krankenhaus, die Reh"
+      },
+      {
+        "rank": 5,
+        "id": "b6e99c6a53e3b2df0c4d09292cb18b34cd256866ffb4e927deae5da8447dae76",
+        "score": 0.9850279092788696,
+        "meta": {
+          "file_path": "9783866496811_chapter_1042.txt",
+          "source_id": "abc59f45d2197aa2b985d93b72c24f18c3d3813c7ec98109bb3791f87d694c35",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1182,
+          "_split_overlap": [
+            {
+              "doc_id": "419afc659dac6558577d0f6d5e150ec89aa30a994c8ec6fda15255cfcc135730",
+              "range": [
+                1182,
+                1586
+              ]
+            }
+          ]
+        },
+        "content": "Betriebsmodell Pflege- stützpunkt zu kräftigen. Dies wird auch durch die amtliche Begründung des § 92c SGB XI bestärkt: „Die Arbeitsgruppe des Runden Tisches Pflege haben Probleme der Gesundheits- und Sozialsysteme bei der zielgerichteten und angemessenen Unterstützung Pflegebedürftiger beschrieben. Diese Schwierigkeiten resultieren aus der bisher erfolgten Konzentration auf körperliche Probleme oder einzelne Episoden im Krankheitsverlauf bei Vernachlässigung psychischer und sozialer Belange sowie einer ganzheitlichen und auf Dauer ausgerichteten Gesamtversorgungsstruktur. Eine wesentliche Anforderung an die zukünftigen Strukturen in der pflegerischen Versorgung besteht somit darin, die Potenziale für Eigenverantwor- tung, Eigeninitiative und gegenseitige Hilfe zu stärken (…).“ (Schmidbauer 2008:151) Die ganzheitliche und auf Dauer ausgerichtete Gesamtversorgungsstruktur ist wie beschrieben im Pilotprojekt, aber wie sieht es mit den psychischen und sozialen Belangen der Pflegebedürftig"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_105.txt",
+    "question": "Welche Möglichkeiten ergeben sich durch den Gestaltungsfreiraum auf Gesetzesebene für die Weiterentwicklung der Pflegestützpunkte und PflegeberaterInnen?",
+    "answer": "Durch den Gestaltungsfreiraum auf Gesetzesebene für die Weiterentwicklung der Pflegestützpunkte und PflegeberaterInnen ergeben sich Möglichkeiten für eine umfassende und unabhängige Auskunft und Beratung zu den Rechten und Pflichten nach dem Sozialgesetzbuch und zur Auswahl und Inanspruchnahme der bundes- oder landesrechtlich vorgesehenen Sozialleistungen und sonstigen Hilfsangebote. Zudem können die Pflegestützpunkte koordinieren, um alle für die wohnortnahe Versorgung und Betreuung in Betracht kommenden gesundheitsfördernden, präventiven, kurativen, rehabilitativen und sonstigen medizinischen sowie pflegerischen und sozialen Hilfs- und Unterstützungsangebote zu koordinieren und zu vernetzen. Dies ermöglicht eine direkte Unterstützung und örtliche Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person. Darüber hinaus können die Pflegestützpunkte Empfehlungen zur Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen erstellen und die erforderlichen Zusatzqualifikationen den Berufsbildern individuell, bzw. den Fachkräften der einzelnen Berufsbilder individuell anpassen. Durch die Weiterentwicklung der Pflegestützpunkte und PflegeberaterInnen kann die Struktur der häuslichen Pflege stabilisiert werden und die Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige verbessert werden. Somit wird die Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige gefördert. Dies ermöglicht eine umfassende und zukunftsorientierte Pflege, die auf die individuellen Bedürfnisse der Pflegebedürftigen und pflegenden Angehörigen eingeht und eine gute Lebensqualität für alle Beteiligten sichert.        \nI cannot find the answer in the provided context.",
+    "expected": "Durch den gesetzlichen Gestaltungsfreiraum können Pflegestützpunkte und PflegeberaterInnen ihre Aufgaben zukünftig flexibler und umfassender gestalten, insbesondere indem sie Empfehlungen statt bindende Richtlinien entwickeln und die psychosozialen Bedürfnisse der Pflegebedürftigen stärker berücksichtigen sowie die Eigenverantwortung fördern.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.9709110260009766,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 2,
+        "id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+        "score": 0.9176334738731384,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5925,
+          "_split_overlap": [
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                1202,
+                1592
+              ]
+            },
+            {
+              "doc_id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+              "range": [
+                0,
+                335
+              ]
+            }
+          ]
+        },
+        "content": "Stelle sei auf die Studie des Deutschen Institut für angewandte Pflegeforschung e.V., Köln hingewiesen, die später noch erläutert wird. Sie zielt auf die zugehende Beratung für pflegende An- gehörige ab und wurde durch den GKV-Spitzenverband gefördert. Im Abs.3 wird den Pflegekassen vorgeschrieben entsprechend qualifiziertes Personal als Pflegeberater und Pflegeberaterinnen einzusetzen, um die persönliche Beratungen der Versicherten durchzuführen. Als qualifiziertes Per- sonal werden - Pflegefachkräfte - Sozialversicherungsfachangestellte - Sozialarbeiter anerkannt. Diesen drei Berufsgruppen werden durch den Gesetzgeber allerdings eine Einschränkung zuteil, indem diese die Tätigkeit des Pflegeberaters nur mit der ‚jeweils‘ erforderlichen Zusatzqualifikation ausüben dürfen. Dies bedeu- tet, dass die erforderlichen Zusatzqualifikationen den Berufsbildern individuell, bzw. den Fachkräften der einzelnen Berufsbilder individuell angepasst werden müssen. Gleich folgend wird festgelegt dass d"
+      },
+      {
+        "rank": 3,
+        "id": "0a954b7c1f270cba85567ba850337928015ed6169d2fa76be71604269dd194d5",
+        "score": 0.9099180102348328,
+        "meta": {
+          "file_path": "9783866496811_chapter_1021.txt",
+          "source_id": "52ac534330c8f508c8ced1c9e2abe0419a81bfc787bf9093a62bf86588c5ddf1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c97fc3a5ceba3e01f6a219ef47490aa38d0895180161c1c2f2f3bcbe03239970",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "6.2.1. Inhalte der Weiterbildung zum Pflegeberater Was sagt der Gesetzgeber zum Konzept der systemischen Beratung? Ist es möglich oder sogar ratsam in die gesetzlich gegebenen Vorgaben systemische Beratungsqualifikationen in der Weiterbildung zum Pflegeberater zu integrie- ren? Durch das Pflege-Weiterentwicklungsgesetz wurden die Rahmenbedingun- gen des neuen pflegerischen Handlungsfeldes ‚Pflegeberatung’ im § 7a des Elften Sozialgesetzbuch festgelegt. Bezug nehmend auf die Tätigkeit der Beratung sind ausgewählte Punkte aus dem Gesetzestext herausgearbeitet worden: 1. Definition der Pflegeberatung (Abs.1 Satz 1) 2. Aufgaben der Pflegeberatung (Abs.1 Satz 2) 3. Möglicher Einbezug des sozialen Umfeldes, sowie aufsuchende und zugehende Beratung (Abs.2 Satz 1) 4. Festlegung der qualifizierten Berufsgruppen um persönliche Bera- tung und Betreuung durchzuführen (Abs.3 Satz 2) 5. Empfehlung der GKV zur Anzahl und Qualifikation von Pflegebera- tern (Abs.3 Satz 3) 6. Erfüllung der Qualifikation"
+      },
+      {
+        "rank": 4,
+        "id": "6879cfcbc626c00d65790e0cde760459f8b899a4e3b8ea01a6332ea50aab74cb",
+        "score": 0.878836989402771,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "5e2034b6f1ef1c79ad33a30156d0bbe53cec92607068961bc5210b540794e4f8",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "2.3.1. Die Pflegeberatung im Kontext des Pflege- Weiterentwicklungsgesetzes Mit dem § 7a des Pflege-Weiterentwicklungsgesetzes ist es dem Gesetzgeber ein Anliegen dem Tätigkeitsprofil und den Aufgaben eines Pflegeberaters eine angemessene Rahmung zu geben. Mit dem ersten Satz (§ 7a Abs.1 Satz 1) erhält die Pflegeberatung ihre Definition und bereits der Folgende macht deutlich welche fünf Hauptaufgaben die Pflegeberatung insbesondere verfol- gen soll: §7a Abs.1, 2 und 3 (1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem 1. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind (Pfle- geberatung). Aufgabe der Pflegeberatung ist es insbesondere, 1. den Hilfebedarf unter Berücksi"
+      },
+      {
+        "rank": 5,
+        "id": "1317f4d497c2b09f9e96e8e688a20fea2580e45e98fb4a8cb3b8f01de242448e",
+        "score": 0.8712124824523926,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                0,
+                490
+              ]
+            }
+          ]
+        },
+        "content": "6.4.1. Empfehlungen des Pilotprojektes ‚Werkstatt Pflegestützpunkt‘ Durch das Pflege-Weiterentwicklungsgesetz sollen keine Doppelstrukturen entstehen. Dafür aber eine Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren. Diese Vernetzungsaufgabe gehört zur Kernkompetenz der Pflegestützpunkte, welche flächendeckend in Deutschland (in 14 Bundesländern) etabliert wer- den sollen (vgl. KDA 2009:14ff). Auf diese Art ergänzt das Konzept der Pflegestützpunkte die Pflegeberatung auf essentielle Weise, denn durch die Verwurzelung der Pflegeberater ist die benötigte Unterstützung wohnortnah und gut erreichbar. Gleichwohl auch eine veränderte Bedarfsregelung eines Pflegebedürftigen mit direkter Unterstützung und örtlicher Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person erfolgen kann. Gesetzlich sind di"
+      }
+    ]
+  }
+]

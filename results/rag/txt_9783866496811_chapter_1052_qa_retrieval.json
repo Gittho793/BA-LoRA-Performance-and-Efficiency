@@ -1,0 +1,690 @@
+[
+  {
+    "filename": "9783866496811_chapter_1052.txt",
+    "question": "Welche drei wesentlichen Punkte bilden die Ausrichtung der Langzeitversorgung durch Pflegestützpunkte?",
+    "answer": "- Prävention\n         - Ambulant vor Stationär\n         - Rat- und Hilfesuchende sollen Experte für die eigene Erkrankung werden – Hilfe zur Selbsthilfe – Souveränität des Verbrauchers.",
+    "expected": "Die drei wesentlichen Punkte sind: Prävention, Ambulant vor Stationär, und Rat- und Hilfesuchende sollen Experten für ihre eigene Erkrankung werden – also Hilfe zur Selbsthilfe und die Souveränität des Verbrauchers.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d5190ae558bf70398ad05a30277427d92fd3e38c91ff17050efb5db0a707a24e",
+        "score": 0.9956589937210083,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "eb0790fdfd74e68321cebf3e2df8928cb224ea9914c7076e888dae81a69d7006",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "6.5.2. Systemische Beratung als Basis weiterer Spezialberatungen Die Tendenz der Langzeitversorgung durch Pflegestützpunkte ist wie sich erkennen lässt auf diese drei wesentlichen Punkte ausgerichtet: - Prävention - Ambulant vor Stationär - Rat- und Hilfesuchende sollen Experte für die eigene Erkrankung werden – Hilfe zur Selbsthilfe – Souveränität des Verbrauchers. Allerdings ist die Langzeitversorgung durch Pflegestützpunkte nicht nur auf Pflegebedürftige zu beziehen, denn alle Versicherten haben das Recht auf Krankenbehandlung, welchem die Krankenkassen nachkommen müssen: „§ 27 Krankenbehandlung (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern.“ (§ 27 Abs.1 Satz1, SGB V) Anhand dieser Pflichterfüllung werden die gesetzlichen Krankenkassen si- cherlich den obigen drei zukunftsorientiert Perspektiven spätestens aus Kostengründen zustimmen. Was k"
+      },
+      {
+        "rank": 2,
+        "id": "fccd59bab56fcf32b9e8df6dffed7accd2f91d76c6d79bee12827e7191524739",
+        "score": 0.6054900288581848,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2492,
+          "_split_overlap": [
+            {
+              "doc_id": "4c5ea9dcbaf6575077d99ddf28d5113aa58a84398ddd10a38b88c5417bdde662",
+              "range": [
+                1291,
+                1662
+              ]
+            },
+            {
+              "doc_id": "ebdf43bd74bb8e1b08f3eeba31c0b33434552f956d706cbcdc0eff1c41ce21a6",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Altenhilfe und für die Gewährung der Hilfe zur Pflege nach dem Zwölften Buch, 2. im Land zugelassenen und tätigen Pflegeeinrichtungen, 3. im Land tätigen Unternehmen der privaten Kranken- und Pflegeversicherung an den Pflegestützpunkten beteiligen. Die Krankenkassen haben sich an den Pflegestütz- punkten zu beteiligen. Träger der Pflegestützpunkte sind die beteiligten Kosten- und Leistungsträger. Die Träger 1. sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte einbinden, 2. haben nach Möglichkeit Mitglieder von Selbsthilfegruppen sowie ehrenamtli- che und sonstige zum bürgerschaftlichen Engagement bereite Personen und Organisationen in die Tätigkeit der Pflegestützpunkte einzubinden, 3. sollen interessierten kirchlichen sowie sonstigen religiösen und gesellschaftli- chen Trägern und Organisationen die Beteiligung an den Pflegestützpunkten ermöglichen, 4. können sich zur Erfüllung ihrer Aufgaben dritter Stellen bedienen, 5. sollen im Hinblick auf die Vermittlung und Qualifiz"
+      },
+      {
+        "rank": 3,
+        "id": "b6b8a06ee0126b12878c832c2b71645387e8a7dcb8a9ed7bf7803be2d304f98e",
+        "score": 0.4207536578178406,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6224,
+          "_split_overlap": [
+            {
+              "doc_id": "ab5f5b028ebb79df18fc5de9d8e6a53eea46c9451d4a1a94454766bbe5363cc2",
+              "range": [
+                1281,
+                1691
+              ]
+            },
+            {
+              "doc_id": "b954f33dff6a163592a1bc142385171e307346858fa4d0b66e06c25a423ffae9",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Lehrenden und Lernenden ist bezogen auf die spezi- fischen Wirklichkeitskonstruktionen der Pflege bzw. des Pflegehandelns. Damit unterstützt diese Art von reflexiver Beratung die notwendigen domä- nenspezifischen Lernprozesse in den Kontexten der Pflegeausbildungen. Der ‚dritte Lernort‘ könnte den Kontext für diese Form pädagogischer Beratung des Innehaltens im Lernprozess der Pflegeausbildungen darstellen bzw. an- bieten. Im pädagogischen Handlungsfeld der Praxisbegleitung ist grundsätzlich eine Gestaltungsmöglichkeit für systemische Beratung gegeben. Bei einer vertief- ten und erweiterten konzeptionellen Gestaltung käme es hierbei auf die gewollte und durch Ressourcen unterstützten Aufgaben der Organisations- und Personalentwicklung der Ausbildungsträger an. Denn nur wenn diese es bejahen, dass nicht nur funktionale, sondern intentionale also auf (Selbst-) Bildung ausgerichtetes Lernen stattfinden kann und darf, können die hierfür notwendigen Ressourcen zur Verfügung gestellt werden."
+      },
+      {
+        "rank": 4,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.30462968349456787,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 5,
+        "id": "ffb49076a30b897ef434ddc4602b969476819fe0599458ccf1de697e08d5c8e5",
+        "score": 0.24502943456172943,
+        "meta": {
+          "file_path": "9783866496811_chapter_1022.txt",
+          "source_id": "6dbcee631aef85a789dcf8a93f6ed7df58cc4a56bd3922a80e7fb2ebbc385e04",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1099,
+          "_split_overlap": [
+            {
+              "doc_id": "f15941cfc6f5463755ed8691e53ef744fe943e52e08a31a4940034ba156a9e2d",
+              "range": [
+                1099,
+                1455
+              ]
+            },
+            {
+              "doc_id": "1d634e1994236fb6a81bdd4139e396792ea51d737590b678bda90e3b8737b381",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "fehlende Aspekte des neuen Berufsbildes der Pflege zu berücksichtigen und in der Weiterbildung zu integrieren. Zur Zeit der Entwicklung der Empfehlungen zur Qualifikation des Pflegebe- raters und der Pflegeberaterin, wurde in erster Linie auf die Bewältigung der kurz- und mittelfristigen Ziele der über 2 Millionen Pflegebedürftigen abge- zielt. Nun gilt es den Praxisbezug herzustellen, um auf Erfahrungen gestützt eine zukunftsfähige Struktur der pflegerischen Langzeitversorgung zu errich- ten. Das Tätigkeitsprofil der Pflegeberatung (§ 7a SGB XI) ist sehr vielschichtig und besteht aus verschiedensten Aufgaben, z.B. - Informationsvermittlung, - Pflegerische Handlungsanleitung, - Rechtsberatung, - Case Management, - Individuelle Beratung. Hier gilt es keine Wertung vorzunehmen, aber um die Anforderungen eines Pflegeberaters gerecht zu werden und den Leistungsempfängern auch die ihnen rechtlich zustehende individuelle Beratung (SGB XI, § 7a Abs.1 Satz1) zukommen zu lassen, ist es unumgäng"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1052.txt",
+    "question": "Wie definiert § 27 des SGB V den Anspruch von Versicherten auf Krankenbehandlung?",
+    "answer": "§ 27 Krankenbehandlung (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern. (§ 27 Abs.1 Satz1, SGB V)",
+    "expected": "§ 27 Abs. 1 Satz 1 SGB V besagt, dass Versicherte Anspruch auf Krankenbehandlung haben, wenn diese notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d5190ae558bf70398ad05a30277427d92fd3e38c91ff17050efb5db0a707a24e",
+        "score": 0.9830607771873474,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "eb0790fdfd74e68321cebf3e2df8928cb224ea9914c7076e888dae81a69d7006",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "6.5.2. Systemische Beratung als Basis weiterer Spezialberatungen Die Tendenz der Langzeitversorgung durch Pflegestützpunkte ist wie sich erkennen lässt auf diese drei wesentlichen Punkte ausgerichtet: - Prävention - Ambulant vor Stationär - Rat- und Hilfesuchende sollen Experte für die eigene Erkrankung werden – Hilfe zur Selbsthilfe – Souveränität des Verbrauchers. Allerdings ist die Langzeitversorgung durch Pflegestützpunkte nicht nur auf Pflegebedürftige zu beziehen, denn alle Versicherten haben das Recht auf Krankenbehandlung, welchem die Krankenkassen nachkommen müssen: „§ 27 Krankenbehandlung (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern.“ (§ 27 Abs.1 Satz1, SGB V) Anhand dieser Pflichterfüllung werden die gesetzlichen Krankenkassen si- cherlich den obigen drei zukunftsorientiert Perspektiven spätestens aus Kostengründen zustimmen. Was k"
+      },
+      {
+        "rank": 2,
+        "id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+        "score": 0.9360174536705017,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1065,
+          "_split_overlap": [
+            {
+              "doc_id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+              "range": [
+                1065,
+                1429
+              ]
+            }
+          ]
+        },
+        "content": "des Krankheitsgeschehens in all ihrer Vielfalt nahmen (vgl. Drerup 1990:9ff; Koch-Straube 2008:11 ff). Die- ser Einfluss bestand und besteht nicht nur in den grund- und behandlungs- pflegerischen Tätigkeiten, sondern auch in den kommunikativen, d.h. den anleitenden und beraterischen Kompetenzen einer Pflegekraft. Auch stellt sich die Frage danach, wie heute die Pflegekräfte zur Beratung stehen und wird sie als Aufgabe der Pflege gesehen?"
+      },
+      {
+        "rank": 3,
+        "id": "8a1e62649fb7fee3b1d16d56c7cbcbc7c6dcd50e9cf152fbe4aea0ba5888d9c8",
+        "score": 0.5767130255699158,
+        "meta": {
+          "file_path": "9783866496811_chapter_0712.txt",
+          "source_id": "acc9045b3fac6a2ab0db7f599c025f4a7eabfc9fe8a828b0c66069e13b95fa7e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2371,
+          "_split_overlap": [
+            {
+              "doc_id": "a5697fea1f514c14301a6a3f93b1835631117dba7b08e16ab6c81d4830f8f6ff",
+              "range": [
+                1176,
+                1560
+              ]
+            },
+            {
+              "doc_id": "4b45e220a6e8efc7679f6de38586bd0c81131c7bab7d9ae64a38fada637286c5",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "oft den Berufsalltag nicht vom alltäglichen Privatleben trennen, also ein berufliches Verhältnis zum Patienten nicht von einem privaten Verhältnis trennen. Ist dem so, deutet dies auf mangelnde reflexive Kompetenzen um die eigene berufliche Rolle reflektieren zu können. 3. Kategorie: Liegen Beratungsanfragen im pflegerischen Verantwor- tungsbereich? Die Befragten werden mit vielen Beratungsanfragen konfrontiert, nahezu alle kooperierenden Berufsgruppen eines Krankenhauses sowie Patienten und Angehörige wenden sich mit spezifischen Anfragen an sie. Außer für Aufklärungsgespräche über bevorstehende Untersuchungen und die häusliche Versorgung nach dem Krankenhausaufenthalt, fühlen sich die Pflegekräfte für alle Anfragen von Seiten der Patienten und Angehörigen verantwortlich. Diese Wahrnehmung der Beratungsaufgaben hängt allerdings stark von dem subjektiven Empfinden der einzelnen Pflegekraft ab. Denn den Beratungsaufgaben werden ganz unterschiedliche Wertigkeiten zu gespro- chen, von ‚ge"
+      },
+      {
+        "rank": 4,
+        "id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+        "score": 0.4877181053161621,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3. Systemische Bezüge von Pflege und Beratung ### 3. Systemische Bezüge von Pflege und Beratung Seit der Implementierung des aktuellen Krankenpflegegesetzes ist eine stei- gende Zahl an Veröffentlichungen zum Thema ‚Beratung in der Pflege‘ zu beobachten. Verschiedene Autoren beschreiben Beratung als ein neues pfle- gerisches Handlungsfeld, welches dringend benötigt wird und durch ein sich kontinuierlich veränderndes Aufgabenfeld in der Pflege begründet ist (vgl. Koch-Straube 2002:87; Mertin 2005:2). Ein Blick in ältere Literatur, bzw. in die Pflegegeschichte macht deutlich, dass Krankheit von jeher nicht als ein rein naturgebundenes Phänomen be- trachtet wurde und die Ursachen von Krankheiten und deren Heilung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Le- benswandel und der Lebenssituation der Kranken in Verbindung gebracht wurden. Somit in den Ursachen der Krankheiten immer auch ein Wirkungs- Prinzip zu Grunde lag. Daher ist es auch nur nahe lieg"
+      },
+      {
+        "rank": 5,
+        "id": "2a90971cc21373359d452ad7ff1afaaa53128d063183de4c483e2ae79848eb03",
+        "score": 0.3129687011241913,
+        "meta": {
+          "file_path": "9783847412304_chapter_1122.txt",
+          "source_id": "bc15ea92743151fa194c0dbb4dfea344ac45c77f26002a8e0dd2e165156d8084",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1286,
+          "_split_overlap": [
+            {
+              "doc_id": "29ef3ebbea3b5630484d1e4e3c58f9f655eb41654d694648e94dab746f998d25",
+              "range": [
+                1286,
+                1731
+              ]
+            },
+            {
+              "doc_id": "5c092a0060ca72555a4baa3eb77acaad1f6969b01a53d944f9a0e73dee28178d",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "oder es werden einschlägige absolvierte Studien- gänge aufgelistet, die die fachliche Kompetenz der Coachs ausweisen sollen. Die Daten stammen aus dem kooperativen, grenzüberschreitenden DFG/ FNR-Projekt Transition Processing, in dem pädagogische Rationalitäten im Kontext personenbezogener Beratungsdienste vergleichend untersucht wurden.1 Mit der Gesprächsanalyse rekonstruieren wir Rationalitäten auf der Ebe- ne der Einzelberatungsgespräche und verfolgen die Frage, wie in konkreten Situationen soziale Wirklichkeit hergestellt wird (Garfinkel 1967). Wir gehen also davon aus, dass vermeintlich objektive Tatsachen nicht per se existieren, sondern erst durch unser Handeln erzeugt werden. Neben der Frage, wie etwas gesagt wird, interessiert uns vor allem auch wozu, d. h. in welcher Logik der In- teraktion, etwas gesagt wird. Wir fragen also auch nach dem Zweck bestimm- ter Aussagen in der jeweiligen Handlungsabfolge und rekonstruieren so, wie institutionelle Strukturprobleme bearbeitet werd"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1052.txt",
+    "question": "Wie kann ein Pflegestützpunkt durch spezialisierte PflegeberaterInnen im Bereich Schmerzmanagement weiterentwickelt werden?",
+    "answer": "Ein Pflegestützpunkt kann durch spezialisierte PflegeberaterInnen im Bereich Schmerzmanagement weiterentwickelt werden, indem diese eine Grundqualifikation in Systemischer Beratung sowie die Fachweiterbildung zur Schmerzmanagement besitzen. Sie können dann ambulante Schmerztherapie begleiten, Veränderungen in Therapieplänen erkennen, den Bedarf an Therapie feststellen und damit Chronifizierungen vermeiden oder frühzeitig vorbeugen. Dies setzt die drei Prinzipien von Prävention, Ambulant vor stationär und Rat- und Hilfesuchender wird zum Experten seiner eigenen Erkrankung – Hilfe zur Selbsthilfe voraus. Die spezialisierten PflegeberaterInnen können als Ansprechpartner für pflegende Angehörige und Angehörige von demenzielerkrankten Menschen fungieren, um ihnen wohnortnah und gut erreichbar Unterstützung und Vernetzung der vorhandenen Strukturen anzubieten. Durch die Verwurzelung der PflegeberaterInnen in den Pflegestützpunkten kann die Struktur der häuslichen Pflege gestabilisiert werden. \n        I cannot find the answer in the provided context.",
+    "expected": "Wenn eine Pflegeberaterin eine Grundqualifikation in systemischer Beratung und eine Fachweiterbildung im Schmerzmanagement besitzt, kann der Pflegestützpunkt auf ambulante Schmerztherapie spezialisiert werden. Dabei begleitet die Pflegeberaterin bereits begonnene medikamentöse Therapien schnittstellenfrei weiter, erkennt Veränderungen oder Verschlechterungen in Therapieplänen, stellt den Therapiebedarf fest und beugt so Chronifizierungen vor. Es geht dabei nicht um eigene Schmerztherapie, sondern um Begleitung und Prävention.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+        "score": 0.9962809681892395,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1200,
+          "_split_overlap": [
+            {
+              "doc_id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+              "range": [
+                1200,
+                1591
+              ]
+            },
+            {
+              "doc_id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "sollte es bedeuten, dass eine Pflegefachkraft mit entsprechender Fachweiterbildung selbst die Spezialberatung in ihrem Fachgebiet durchführen kann. Ist also, wovon wir ausgehen, in der Fachweiterbildung zum Pflegeberater das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, kann die Pflegeberate- rIn die Angehörigen von Pflegebedürftigen beratend Unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt. Dieses Projekt zeigt, dass es möglich ist durch entsprechende Beratung pfle- gende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Dazu wurde ein spezifisches Qualifizierungskonzept entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflege- fachkräfte kommend aus der Ambulanten Pflege wurden in den drei Hauptschwerpunkten des Konzeptes unterrichtet: - Bedarfseinschätzung und Hilfeplanung - Beratungsinterventionen und Schulung - Vermittlung und Koordination von"
+      },
+      {
+        "rank": 2,
+        "id": "eb0790fdfd74e68321cebf3e2df8928cb224ea9914c7076e888dae81a69d7006",
+        "score": 0.9952129125595093,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1185,
+          "_split_overlap": [
+            {
+              "doc_id": "d5190ae558bf70398ad05a30277427d92fd3e38c91ff17050efb5db0a707a24e",
+              "range": [
+                1185,
+                1600
+              ]
+            },
+            {
+              "doc_id": "3419997d408e8657697b7ba815fa8d2f1db82f32dfae176978655616bcd0ce2e",
+              "range": [
+                0,
+                330
+              ]
+            }
+          ]
+        },
+        "content": "Spezialberatungen im Pflegestützpunkt anzubieten und auf diese Weise dem Pflegestützpunkt eine Spezialisierung zu geben. An der Ausrich- tung Schmerzmanagement stelle ich kurz ein mögliches Szenario eines spezialisierten Pflegestützpunktes dar (vgl. Geyer 2010). Basierend auf der Annahme, dass die PflegeberaterIn eine Grundqualifikation in Systemischer Beratung sowie die Fachweiterbildung zur Schmerzmanage- rin besitzt, ist es möglich diesen Pflegestützpunkt auf ambulante Schmerztherapie zu spezialisieren. Dabei geht es nicht darum eine eigene Schmerztherapie am Patienten durch- zuführen, sondern vielmehr bereits begonnene medikamentöse Therapien schnittstellenfrei weiter zu begleiten - Veränderungen bzw. Verschlechterun- gen in Therapieplänen zu erkennen - den Bedarf an Therapie feststellen und dadurch Chronifizierungen vermeiden bzw. frühzeitig vorzubeugen. Denn genau hier setzen die drei Prinzipien wieder an: - Prävention - Ambulant vor stationär - Rat- und Hilfesuchender wird zum E"
+      },
+      {
+        "rank": 3,
+        "id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+        "score": 0.9932264685630798,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2417,
+          "_split_overlap": [
+            {
+              "doc_id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "Tätigkeiten eines Pflegeberaters aus der Pilotstudie der Pflegestützpunkte vergleichen. Darüber hinaus wird im 2. Zwischenbericht ‚Werkstatt Pflegestützpunkt’ ausdrücklich festgehalten, dass der Ansatz einer (singulären) Pflegeberatung durch das Konzept der Pflegestützpunkte in substanzieller Weise ergänzt wird (vgl. KDA 2009:12). Durch die angestrebte flächendeckende Verwurzelung von Pflegestützpunk- ten, wäre der Ansprechpartner, die PflegeberaterIn, für pflegende Angehörige, und auch Angehörige von demenzielerkrankten Menschen stets in erreichbarer Nähe. Wie der zweite Zwischenbericht der Pilot-Pflegestützpunkte zeigt, ist der Anteil von Rat- und Hilfesuchenden rund um die Demenz kein Geringer. Es wurde als sechs häufigstes Thema von Rat- und Hilfesuchenden in den Pflegestützpunkten nachgefragt und betrug 8% aller vorgebrachten Problemthemen."
+      },
+      {
+        "rank": 4,
+        "id": "1317f4d497c2b09f9e96e8e688a20fea2580e45e98fb4a8cb3b8f01de242448e",
+        "score": 0.9827442765235901,
+        "meta": {
+          "file_path": "9783866496811_chapter_1041.txt",
+          "source_id": "59d69a2dc4857401ab979b3ed1648521a1d0a978a4d4a0c046b6fff6f3763822",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ceb3c877146cb7bcd263799e6d42c6d839358a1da8e5c0c8fe259de1fe1504f4",
+              "range": [
+                0,
+                490
+              ]
+            }
+          ]
+        },
+        "content": "6.4.1. Empfehlungen des Pilotprojektes ‚Werkstatt Pflegestützpunkt‘ Durch das Pflege-Weiterentwicklungsgesetz sollen keine Doppelstrukturen entstehen. Dafür aber eine Vernetzung der vorhanden sozialen Strukturen und Unterstützungsmöglichkeiten für Pflegebedürftige, von Pflegebedürftigkeit Bedrohte sowie pflegende Angehörige, um auf diese Weise die Struktur der häuslichen Pflege zu stabilisieren. Diese Vernetzungsaufgabe gehört zur Kernkompetenz der Pflegestützpunkte, welche flächendeckend in Deutschland (in 14 Bundesländern) etabliert wer- den sollen (vgl. KDA 2009:14ff). Auf diese Art ergänzt das Konzept der Pflegestützpunkte die Pflegeberatung auf essentielle Weise, denn durch die Verwurzelung der Pflegeberater ist die benötigte Unterstützung wohnortnah und gut erreichbar. Gleichwohl auch eine veränderte Bedarfsregelung eines Pflegebedürftigen mit direkter Unterstützung und örtlicher Vernetzung der vorhandenen Strukturen durch ein und dieselbe Person erfolgen kann. Gesetzlich sind di"
+      },
+      {
+        "rank": 5,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.9787301421165466,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1052.txt",
+    "question": "Warum ist es besonders wichtig, bei der Behandlung von chronischem Schmerz die Ganzheitlichkeit des Klienten zu betrachten?",
+    "answer": "Da Faktoren zur Entstehung von chronischen Schmerzen ganz unterschiedlicher Natur sein können, wie zum Beispiel Störung der psychischen Befindlichkeit, Schwerwiegende psychische und körperliche Erkrankungen, Verlust von Bezugspersonen durch Tod oder Trennung, Schwere Erkrankungen in der Familie, das Erleben psychischer oder physischer Gewalt, Drohender Arbeitsplatzverlust oder zu hoher Leistungsdruck auf der Arbeit u.a.m. Daher ist es wichtig den chronischen Schmerz mit dem Hintergrund eines bio-psycho-sozialen Verständnisses zu betrachten. \n        I cannot find the answer in the provided context. \n        Durch die Komplexität der möglichen Chronifizierungsfaktoren ist im Schmerzmanagement die Gesprächsführung über Schmerzen sowie Bera- tungskompetenzen von Seiten des Schmerzmanagers unumgänglich und daher ein Teilbereich der Algesiologischen Fachweiterbildung. \n        Deutlich wird es z.B. an der Erkrankung des Rückenschmerzes, welches bereits als Volkskrankheit Nr.1 angesehen wird. Um hier den Chronifizie- rungsfaktoren entgegenzuwirken und eine effektive Behandlung zu gewährleisten, ist heute die Methode der Wahl eine multimodale Behand- lung, in welchem verschiedene Maßnahmen gleichzeitig zur Anwendung kommen. \n        Bei vielen Rückenschmerzpatienten ist das Krankheitsverständnis nur auf körperliche Ursachen ausgerichtet. Da allerdings bei dieser Schmerzart häufig nur eine Verhaltensänderung auch eine Linderung der Schmerzen bewirkt, sind Informationen bzw. Schulungen nötig um die physiologischen mit den psychischen Faktoren in Einklang zu bringen. \n        Der Schmerz an sich ist also ein rein subjektives Empfinden, was allerdings das Leben eines Betroffenen stark einschränken kann. \n        Die grobe Unterscheidung des Schmerzes liegt in Akut und Chronisch. \n        Der akute Schmerz ist in der Regel ein ur- sprüngliches Symptom einer körperlichen Ursache oder auch als Warnsignal zu verstehen und sollte daher",
+    "expected": "Weil Schmerz ein subjektives Empfinden ist, das das Leben stark einschränken kann, ist es wichtig, Veränderungen auch leichter Art zu bemerken. Die ganzheitliche Betrachtung hilft, die individuelle Situation des Klienten umfassend zu erfassen und dadurch eine bessere Versorgung und frühzeitige Prävention von Verschlechterungen oder Chronifizierungen zu ermöglichen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6974b147e9353ce0e55bac8c603f2782ff4c9e4e69a86b3f89e95c3967a0befd",
+        "score": 0.9830663204193115,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3422,
+          "_split_overlap": [
+            {
+              "doc_id": "3419997d408e8657697b7ba815fa8d2f1db82f32dfae176978655616bcd0ce2e",
+              "range": [
+                1065,
+                1460
+              ]
+            },
+            {
+              "doc_id": "5d6e0585c7ed44cee1e93e5f27126caac3eb27bf3451077a95cab7fe6773ddf9",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "Erkrankungen in der Familie - Das Erleben psychischer oder physischer Gewalt - Drohender Arbeitsplatzverlust oder zu hoher Leistungsdruck auf der Arbeit - u.a.m. Daher ist es wichtig den chronischen Schmerz mit dem Hintergrund eines bio-psycho-sozialen Verständnisses zu betrachten. Durch die Komplexität der möglichen Chronifizierungsfaktoren ist im Schmerzmanagement die Gesprächsführung über Schmerzen sowie Bera- tungskompetenzen von Seiten des Schmerzmanagers unumgänglich und daher ein Teilbereich der Algesiologischen Fachweiterbildung. Deutlich wird es z.B. an der Erkrankung des Rückenschmerzes, welches bereits als Volkskrankheit Nr.1 angesehen wird. Um hier den Chronifizie- rungsfaktoren entgegenzuwirken und eine effektive Behandlung zu gewährleisten, ist heute die Methode der Wahl eine multimodale Behand- lung, in welchem verschiedene Maßnahmen gleichzeitig zur Anwendung kommen. Diese Art der Behandlung kann aus ganz verschiedenen Bausteinen bestehen (vgl. Gralow 2002:102 f): - Edu"
+      },
+      {
+        "rank": 2,
+        "id": "3419997d408e8657697b7ba815fa8d2f1db82f32dfae176978655616bcd0ce2e",
+        "score": 0.9637548327445984,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2357,
+          "_split_overlap": [
+            {
+              "doc_id": "eb0790fdfd74e68321cebf3e2df8928cb224ea9914c7076e888dae81a69d7006",
+              "range": [
+                1172,
+                1502
+              ]
+            },
+            {
+              "doc_id": "6974b147e9353ce0e55bac8c603f2782ff4c9e4e69a86b3f89e95c3967a0befd",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "Erkrankung. Der Schmerz an sich ist also ein rein subjektives Empfinden, was allerdings das Leben eines Betrof- fenen stark einschränken kann. Die grobe Unterscheidung des Schmerzes liegt in Akut und Chronisch. Der akute Schmerz ist in der Regel ein ur- sprüngliches Symptom einer körperlichen Ursache oder auch als Warnsignal zu verstehen und sollte daher in die Hand einer ArztIn. Im Care-Management eines Pflegestützpunktes wird der chronische Schmerz im Vordergrund stehen und bei der Behandlung dieser ist es besonders wich- tig den Klienten in seiner Ganzheitlichkeit zu betrachten und auch leichte Veränderungen zu bemerken. Neben den körperlichen Schmerzen sind auch die psychischen Aspekte sowie das soziale Umfeld eines Schmerzpatienten wichtig in die Behandlung zu integrieren, denn Faktoren zur Entstehung von chronischen Schmerzen können ganz unterschiedlicher Natur sein, wie zum Beispiel: - Störung der psychischen Befindlichkeit - Schwerwiegende psychische und körperliche Erkrankunge"
+      },
+      {
+        "rank": 3,
+        "id": "b16ab80d592f865438d39047267a7be2f5d53553ecbd51493014ab6f8b122945",
+        "score": 0.9350443482398987,
+        "meta": {
+          "file_path": "9783866496811_chapter_051.txt",
+          "source_id": "e254cccbe1945906e425af8c19c13727200104e3af73dadc4782bfc3e8141fd8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2352,
+          "_split_overlap": [
+            {
+              "doc_id": "25740511dc20eba1ad75211f7187e96de1826fb7f892b4c9245a2f02d77bc318",
+              "range": [
+                1172,
+                1584
+              ]
+            },
+            {
+              "doc_id": "f7c25d58603252676b3a72caf480a32f5eb3380517f93c8bf99eb3b8e123c33d",
+              "range": [
+                0,
+                468
+              ]
+            }
+          ]
+        },
+        "content": "die Betroffenheit möglicher Wirkfaktoren von gelungener Veränderung und von Beratungserfolg ein. Als besonders bedeut- sam gelten soziale Unterstützung der Klientinnen, die Persönlichkeit der Beraterinnen, die beraterische Beziehung, der Selbstwert der Klientinnen, die Erfahrung der Beraterinnen und die Motivation der Klientinnen. Am wenigsten bedeutsam hingegen scheinen ihnen die theoretische Orientie- rung (die bisher in fast allen Untersuchungen von Beratungs- und Therapietechniken an erster Stelle steht), die Intelligenz der Klientinnen, die Länge des Beratungsprozesses und die Selbstreflektion und Selbstbewusst- heit der Klientinnen. Auch die Berufsanalyse von VACE & LOESCH (1994), an der 722 Berate- rinnen teilnahmen, unterstützt den Eindruck einer zunehmend eklektisch – integrativen Handlungsorientierung in der Beratungspraxis. In fünf Clustern wurden 136 Einzeldimensionen des Beratungshandelns identifiziert: 1. Als grundlegende Beratungsaktivität: z. B. Beratungsziele abzusteck"
+      },
+      {
+        "rank": 4,
+        "id": "039858390da9e878f01349b33c1f548a456ee1820a920ab046679024f82f36ba",
+        "score": 0.8282495737075806,
+        "meta": {
+          "file_path": "9783847412304_chapter_051.txt",
+          "source_id": "85d86b2a01cff3f880031dc1e51acd81bd1841573fe425f85ee7be5597017509",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3692,
+          "_split_overlap": [
+            {
+              "doc_id": "0941520abf1dd449b4d35f48b754eedfc8f34ce792fc40869d4cda9f526cb6bb",
+              "range": [
+                1258,
+                1588
+              ]
+            },
+            {
+              "doc_id": "a69158a75d45db36e09c91c3740d7b9a3a46fb4f58a38fd14499780ae755bad0",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Qualitäts- managements (QMs) den Kern, d. h. die Lehr-/Lernprozesse, kaum bis gar nicht erreichen (vgl. Hartz 2011). Warum werden jedoch immense Finanzsu- mmen in QMs und darauf bezogene Praktiken (Zeit und Arbeit von Prakti- kerInnen) investiert, wenn sie kaum wirksam für die KlientInnen sind? Mitt- lerweile gibt es eigene QMs für Beratungsorganisationen (Schröder/Schlögl 2014, Schiersmann/Weber 2010). Auch hier sollte kritisch geprüft werden, was dadurch wirklich erreicht wird. Wurde eine Büchse der Pandora geöff- net? Wie stellt sich der Wettbewerb der QMs dar? Braucht es Zweit- und Dritt- zertifizierungen nebeneinander, weil öffentliche Auftraggeber verschiedene Standards verlangen? Was bringt die „Qualitätsberichtsprosa“ wirklich? Man legt als Beratungseinrichtung quasi eine Beichte über Qualitätsverfehlungen ab und gelobt Besserung. Der Zertifizierer erteilt dann mit einem Zertifikat die Lossprechung – ggf. mit Bußauflagen – bis zur nächsten Beichte. Aller- dings weiß „der Pfarre"
+      },
+      {
+        "rank": 5,
+        "id": "516918759524de123d77ec523773783c737167245ba0263c2635cdccc1343207",
+        "score": 0.8236997127532959,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 10369,
+          "_split_overlap": [
+            {
+              "doc_id": "f0dffa0bc0f9d7804f1cce40bad6dfc7726024983d940960a72b9502225602df",
+              "range": [
+                1280,
+                1722
+              ]
+            },
+            {
+              "doc_id": "9969ee69fb2aad130bcc04de54414092db3c82727b5af7c8be000f2fc9acc410",
+              "range": [
+                0,
+                454
+              ]
+            }
+          ]
+        },
+        "content": "im Kontext gesellschaftskritisch-reflexiver Zugänge diskutiert werden könnten. Der vorliegende Tagungsband beleuchtet die genannten Perspektiven und Spannungsfelder in 22 Beiträgen. Den Anfang macht die Keynote von Bernd Käpplinger, in der anhand des systemischen Kontextmodells arbeitsweltbezogener Beratung nach Schiersmann das Feld der Bildungsberatungsforschung aufgespannt wird. Anhand von Bezügen zu hellenischen Mythengestalten werden dabei grundlegende Erkenntnisse wie auch Forschungsdesiderata benannt und hinsichtlich der einhergehenden Herausforderungen und offenen Fragen zugespitzt. Kapitel eins widmet sich den theoretischen Zugängen und beinhaltet zwei Beiträge, die das Phänomen Beratung aus sehr unterschiedlichen Perspektiven analysieren. Jana Wienberg betrachtet Beratung vor dem Hintergrund resonanztheoretischer Bezüge und arbeitet heraus, inwiefern sich die zeitdiagnostisch beobachtbaren Beschleunigungen wie auch zunehmende Wettbewerbsorientierung auf Beratung auswirken. Im "
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_1052.txt",
+    "question": "Welche Prinzipien aus der Langzeitversorgung durch Pflegestützpunkte werden im spezialisierten Schmerzmanagement besonders berücksichtigt, und wie ergänzen sie sich?",
+    "answer": "Die Prinzipien der Langzeitversorgung durch Pflegestützpunkte, die im spezialisierten Schmerzmanagement besonders berücksichtigt werden, sind Prävention, ambulante Versorgung vor stationärer, und die Förderung von Selbsthilfe. Diese Prinzipien ergänzen sich, indem sie darauf abzielen, dass die Patienten Experten für ihre eigene Erkrankung werden und durch eine schnittstellenfreie Begleitung der medikamentösen Therapie Chronifizierungen von Schmerzen frühzeitig vermeiden können. \n\nI hope it matches the format you were looking for. Please let me know if I can help you with anything else. \n\nHere is the answer in a different format if you prefer:\n\nThe principles of long-term care through care centers, which are particularly considered in specialized pain management, are prevention, outpatient care before hospitalization, and the promotion of self-help. These principles complement each other by aiming to make patients experts in their own illness and to prevent the chronicization of pain through a seamless accompaniment of medication therapy. \n\nPlease let me know if you'd like me to reformat it again. \n\nAlso, please note that the question is a bit open-ended and requires some interpretation. I tried to answer it based on the provided context, but there might be other possible answers depending on how one interprets the question. \n\nLet me know if you have any further questions or if there's anything else I can help you with! \n\nBest regards, \n[Your Name]",
+    "expected": "Die drei Prinzipien sind Prävention, Ambulant vor stationär, und die Rat- und Hilfesuchenden werden zu Experten ihrer eigenen Erkrankung – Hilfe zur Selbsthilfe. Im spezialisierten Schmerzmanagement werden diese Prinzipien umgesetzt, indem durch präventive Begleitung und Überwachung der Therapien Chronifizierungen vermieden werden, die Behandlung ambulant erfolgt und die PatientInnen befähigt werden, ihre Erkrankung besser zu verstehen und selbstverantwortlich damit umzugehen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d5190ae558bf70398ad05a30277427d92fd3e38c91ff17050efb5db0a707a24e",
+        "score": 0.9771062731742859,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "eb0790fdfd74e68321cebf3e2df8928cb224ea9914c7076e888dae81a69d7006",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "6.5.2. Systemische Beratung als Basis weiterer Spezialberatungen Die Tendenz der Langzeitversorgung durch Pflegestützpunkte ist wie sich erkennen lässt auf diese drei wesentlichen Punkte ausgerichtet: - Prävention - Ambulant vor Stationär - Rat- und Hilfesuchende sollen Experte für die eigene Erkrankung werden – Hilfe zur Selbsthilfe – Souveränität des Verbrauchers. Allerdings ist die Langzeitversorgung durch Pflegestützpunkte nicht nur auf Pflegebedürftige zu beziehen, denn alle Versicherten haben das Recht auf Krankenbehandlung, welchem die Krankenkassen nachkommen müssen: „§ 27 Krankenbehandlung (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern.“ (§ 27 Abs.1 Satz1, SGB V) Anhand dieser Pflichterfüllung werden die gesetzlichen Krankenkassen si- cherlich den obigen drei zukunftsorientiert Perspektiven spätestens aus Kostengründen zustimmen. Was k"
+      },
+      {
+        "rank": 2,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9435043931007385,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 3,
+        "id": "eb0790fdfd74e68321cebf3e2df8928cb224ea9914c7076e888dae81a69d7006",
+        "score": 0.8633328080177307,
+        "meta": {
+          "file_path": "9783866496811_chapter_1052.txt",
+          "source_id": "505e6715fc783530b7b73757b9396f6feca758dbea998ea2c3ba4894cfb401ab",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1185,
+          "_split_overlap": [
+            {
+              "doc_id": "d5190ae558bf70398ad05a30277427d92fd3e38c91ff17050efb5db0a707a24e",
+              "range": [
+                1185,
+                1600
+              ]
+            },
+            {
+              "doc_id": "3419997d408e8657697b7ba815fa8d2f1db82f32dfae176978655616bcd0ce2e",
+              "range": [
+                0,
+                330
+              ]
+            }
+          ]
+        },
+        "content": "Spezialberatungen im Pflegestützpunkt anzubieten und auf diese Weise dem Pflegestützpunkt eine Spezialisierung zu geben. An der Ausrich- tung Schmerzmanagement stelle ich kurz ein mögliches Szenario eines spezialisierten Pflegestützpunktes dar (vgl. Geyer 2010). Basierend auf der Annahme, dass die PflegeberaterIn eine Grundqualifikation in Systemischer Beratung sowie die Fachweiterbildung zur Schmerzmanage- rin besitzt, ist es möglich diesen Pflegestützpunkt auf ambulante Schmerztherapie zu spezialisieren. Dabei geht es nicht darum eine eigene Schmerztherapie am Patienten durch- zuführen, sondern vielmehr bereits begonnene medikamentöse Therapien schnittstellenfrei weiter zu begleiten - Veränderungen bzw. Verschlechterun- gen in Therapieplänen zu erkennen - den Bedarf an Therapie feststellen und dadurch Chronifizierungen vermeiden bzw. frühzeitig vorzubeugen. Denn genau hier setzen die drei Prinzipien wieder an: - Prävention - Ambulant vor stationär - Rat- und Hilfesuchender wird zum E"
+      },
+      {
+        "rank": 4,
+        "id": "e5f1a35e41f974243b879aaa657da793c5f67682f9018d7113881403bc4c1c6b",
+        "score": 0.7913797497749329,
+        "meta": {
+          "file_path": "9783866496811_chapter_0632.txt",
+          "source_id": "f7a2cde5ffccd9a60f67e1178c303dc0d93b25461268a0864b481d7a19d739e6",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6085,
+          "_split_overlap": [
+            {
+              "doc_id": "e99697a918dd156c06f1da8f0416382adad031a7b44ae807bef4975893c6a4ca",
+              "range": [
+                1214,
+                1603
+              ]
+            }
+          ]
+        },
+        "content": "von den Trägern in den Pflegestützpunkten eingesetzt werden ‚sollen‘; so entsteht für Pflege ein neues Handlungsfeld. In der historisch geprägten Analyse rechtlicher Rahmenbedingungen für die Pflege(-ausbildungen) zeigt sich, dass Beraten als Handeln im Pflegeprozess im Zusammenhang mit schulen/ anleiten und unterstützen in der Krankheits- bewältigung eine große Nähe zum traditionellen Beratungsverständnis im Sinne ‚gute Gespräche führen‘ aufweist. Dies wird nicht zuletzt in den prü- fungsrelevanten Kompetenzen deutlich. Durch das Pflege-Weiterentwicklungsgesetz wurde das Berufsbild ‚Pflege- beratung‘ in den institutionellen Kontext der Kranken- bzw. Pflegeversiche- rungen gestellt. Es handelt sich hierbei um eine interessengeleitete Beratungsdienstleistung für die Versicherten mit Hilfebedarf. Die Rollenanforderungen an diese Pfle- geberater können aus den Ausbildungscurricula abgeleitet werden."
+      },
+      {
+        "rank": 5,
+        "id": "4d70fd9dcd95b812d6ab6cf7816ec217c79e8c2af0dfa72d20a662c59ff2e7d5",
+        "score": 0.770926296710968,
+        "meta": {
+          "file_path": "9783866496811_chapter_1051.txt",
+          "source_id": "f87631387be4b4a886ae5aebc726684020909b9f3134cafc052b867de092c2b3",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1200,
+          "_split_overlap": [
+            {
+              "doc_id": "ae6bccb34cd9e09e832527c9bd6b997a345fb5d507eeaef8f056ac5e9215bb58",
+              "range": [
+                1200,
+                1591
+              ]
+            },
+            {
+              "doc_id": "a14ae72aa2f1170cac7fcfa365216a975eacf0a37eb67c702b7ea4d23fa12075",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "sollte es bedeuten, dass eine Pflegefachkraft mit entsprechender Fachweiterbildung selbst die Spezialberatung in ihrem Fachgebiet durchführen kann. Ist also, wovon wir ausgehen, in der Fachweiterbildung zum Pflegeberater das Modul zur ‚Systemischen Beratung in der Pflege‘ enthalten, kann die Pflegeberate- rIn die Angehörigen von Pflegebedürftigen beratend Unterstützen, wie bereits in dem Modellprojekt ‚Entlastungsprogramm bei Demenz – Ede‘ dargestellt. Dieses Projekt zeigt, dass es möglich ist durch entsprechende Beratung pfle- gende Angehörige und Familien demenzerkrankter Menschen wirkungsvoll unterstützen zu können. Dazu wurde ein spezifisches Qualifizierungskonzept entwickelt, in welchem ein systemisch-lösungsorientierter Beratungsansatz Bestandteil war. Pflege- fachkräfte kommend aus der Ambulanten Pflege wurden in den drei Hauptschwerpunkten des Konzeptes unterrichtet: - Bedarfseinschätzung und Hilfeplanung - Beratungsinterventionen und Schulung - Vermittlung und Koordination von"
+      }
+    ]
+  }
+]

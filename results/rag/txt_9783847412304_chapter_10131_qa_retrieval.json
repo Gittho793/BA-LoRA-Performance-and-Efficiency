@@ -1,0 +1,668 @@
+[
+  {
+    "filename": "9783847412304_chapter_10131.txt",
+    "question": "Welche berufliche Rolle hatte die Teilnehmerin vor ihrem Entschluss, aus dem Betriebsrat auszusteigen?",
+    "answer": "Die Interviewte war zu diesem Zeitpunkt Betriebsratsvorsitzende. I cannot find the information about the role of the interviewee before she was a Betriebsratsvorsitzende in the provided text. It does not provide any details about her previous profession or position. Therefore, I cannot answer the question based on the given context.",
+    "expected": "Sie war ein freigestelltes Betriebsratsmitglied in einem Großbetrieb und nebenberuflich als Teamerin bei der Gewerkschaft tätig.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9342602491378784,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 2,
+        "id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+        "score": 0.8726122975349426,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1339,
+          "_split_overlap": [
+            {
+              "doc_id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+              "range": [
+                1339,
+                1753
+              ]
+            },
+            {
+              "doc_id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "Voraussetzungen mit, um da teilnehmen zu können?“ (Studiengangkoordinie- rende 1, Abs. 13). Als ebenso wichtig werden studienorganisatorische Aspekte wie „Zeitpläne und Fehlzeiten“ (Studiengangkoordinierende 7, Abs. 4), aber auch die zeitliche Vereinbarkeit des Studiums mit bestehenden Verpflichtun- gen sowie spezifische Inhaltsfragen benannt. Die kommunikative Bearbei- tung der Studienwahl spielt daher in der Beratung ebenfalls eine große Rolle. Einen weiteren hohen Beratungsbedarf stellt die Finanzierung des weiter- bildenden Studienprogramms dar. Hier spielen sowohl die hohen Kosten als auch generelle Fragen zur Finanzierung, Kostenübernahme, Stipendien und steuerlicher Absetzbarkeit eine besondere Rolle; grundsätzlich also „Fragen rund um Weiterbildungsfinanzierung“ (Studiengangkoordinierende 1, Abs. 13). Weniger häufig wurde von den Studiengangkoordinierenden benannt, dass diese die Studieninteressierten auf deren Passung hin beraten. Lediglich zwei Koordinierende gaben an, dass s"
+      },
+      {
+        "rank": 3,
+        "id": "115a40d764483ed20d8f1ee456e6fcedbfdeff3e3abedff0bc1cc3bb0fcb3bcf",
+        "score": 0.8625966906547546,
+        "meta": {
+          "file_path": "9783839444856_chapter_0732.txt",
+          "source_id": "e17c5db9adbf4564e33d9b3d734a7f770370d1b76e2793fbb6d459d14526c9d2",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 17449,
+          "_split_overlap": [
+            {
+              "doc_id": "3766333f0a2217a9c6d05ec050eb63d7659d1ddc1a73fd03f09ae5db958cbc9e",
+              "range": [
+                1019,
+                1404
+              ]
+            }
+          ]
+        },
+        "content": "Entwicklung der Anerkennungsberatung deutlich geworden ist, sind es gerade diese strukturellen Defizite, welche die Anerkennungs­ beratung als Unterstützungsleistung notwendig machen. »[E]igentlich würde ich mir wünschen, dass wir überflüssig wären (Lachen). Also dass Anerkennungsverfahren so einfach wären, dass es uns nicht braucht. Oder dass sie so überschaubar sind, dass es eben keiner hoch spezia­ lisierten Anerkennungsberatung bedarf, dass es doch eher wieder Teil einer allgemeineren Beratung ist, damit wir nicht Teil eines Beratungsmarathons werden« (I/DE, Z. 679-683)."
+      },
+      {
+        "rank": 4,
+        "id": "4f9d24d8b5023c46853a5ebbbc133dd0fdf3192348b356f30cda9b0695a38b39",
+        "score": 0.6030910611152649,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2202,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                1060,
+                1429
+              ]
+            },
+            {
+              "doc_id": "8c468a81ccb0c0203138aef68a1f7cdfdb45a3ad3f68d9804dd6179eade358fd",
+              "range": [
+                0,
+                318
+              ]
+            }
+          ]
+        },
+        "content": "der Berater sein Rollenverständnis darlegt (z. B. „ich hab das aber soweit vorbereitet“). Der Coach konstituiert sich hier als kompetenter und vorbereiteter Berater, der zugleich flexibel ist. Die Eröffnung des Coachings erinnert insgesamt an das Heraufbeschwören eines gemeinsamen Weges, an dem beide Akteure mitentscheiden können, wobei die Gestaltungsmacht im Sinne der Rollen- und Auftragsklärung aber letztlich beim Berater liegt. Die nachfolgende Textsequenz stammt aus einem Gespräch am Ende des Beratungsprozesses: Der Berater spricht von der Schule ohne ein bestimmtes Thema daran zu knüpfen. Der Rahmen bleibt offen, die Coachee kann frei entscheiden, ob sie nun ein fallbezogenes Thema aufgreift oder ein neues Thema besprechen will. Nachdem der Anlass geklärt scheint, macht der Berater eine weitere Option auf, indem er anfügt: „möglicherweise nochmal son son anschluss“. Er schlägt damit eine Brücke zwischen zwei Alternativen, der des Beratungsabschlusses und eines Folgetermins, der j"
+      },
+      {
+        "rank": 5,
+        "id": "10ca42567849bd355f450bd9205cf8e2c070e205d0ea06c36636a044f166a902",
+        "score": 0.5052036046981812,
+        "meta": {
+          "file_path": "9783839444856_chapter_07412.txt",
+          "source_id": "799f5bacb5a71b420d18aa9ee81a1fd2915f468164b3465bb3a215dd0635e9ff",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2298,
+          "_split_overlap": [
+            {
+              "doc_id": "470dfd90bb3d4a225912eca47dd90572a9e8c130f6cb624910d796c72ff41c68",
+              "range": [
+                1011,
+                1400
+              ]
+            },
+            {
+              "doc_id": "08b798847152c279fba3d8631c3c7be8f16eac18db404444d531968a7514455f",
+              "range": [
+                0,
+                301
+              ]
+            }
+          ]
+        },
+        "content": "Die interviewte Person beschreibt ein Beispiel zu Beginn der Anerkennungs­ beratung, bei dem die Rückmeldung der ersten Erfolgserlebnisse einen be­ sonderen Stellenwert eingenommen hat. Der Prozess der bildungsadäqua­ ten Integration wurde vom Erwerb der notwendigen Sprachkenntnisse über die formale Anerkennung der im Ausland erworbenen Qualifikation bis zur beruflichen Integration von der Anerkennungsberatung begleitet. Dass die beratene Person über ihren weiteren beruflichen Verlauf informiert hat, wird hier auf die positiv erlebte Beratungsbeziehung zurückgeführt, die aufgrund der mehrfachen persönlichen und schriftlichen Beratungskon­ takte sowie der praktischen Unterstützung im Verfahren entstanden ist. Im Unterschied zu den förderpolitischen Vorgaben wird in den Interviews diese Zielsetzung jedoch nicht aus einer arbeitsmarktpolitischen Perspektive ab­ geleitet, sondern aufgrund der Beratungsanliegen der Klient_innen formu­ liert. »IN: Was, sagen Sie, ist Ihr Ziel von der Beratun"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10131.txt",
+    "question": "Wie unterstützt die Methode „Lebensprofil“ die Beratungsteilnehmerin bei ihrer beruflichen Neuorientierung?",
+    "answer": "Die Methode „Lebensprofil“ unterstützt die Beratungsteilnehmerin bei ihrer beruflichen Neuorientierung, indem sie ihr hilft, ihre vorhandenen Kompetenzen wieder wahrzunehmen und zu benennen. Sie ermöglicht es ihr, ihre anfängliche Leidensgeschichte als Lerngeschichte zu erzählen und die nebenberufliche Bildungstätigkeit in ihre Biografie einzuordnen. Durch die Methode wird ein Zusammenhang zwischen Gegenwart und Zukunft hergestellt, und die Beratungsteilnehmerin kann ihre Lernprozesse bewusst werden. Dies führt zu neuen Optionen und einer gelingenden Gestaltung von Übergängen. Die Methode „Lebensprofil“ fördert die ergebnisorientierte Selbstreflexion und unterstützt das biografische Lernen. Es wird ein Schlussfolgerungen für die Zukunft gezogen, und das Selbstkonzept kann neu interpretiert werden. Durch die Methode werden spezielle Lernprozesse gefördert, und es werden bestimmte Lerngegenstände im Fokus stehen. Reflexionsprozesse werden angeregt, und die Beratungsteilnehmerin kann ihre Kompetenzen nutzen, um ihre berufliche Zukunft zu gestalten. Die Methode „Lebensprofil“ bietet Reflexionsraum und Zeit für Bi-lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Es wird ein Zusammenhang zwischen der Vergangenheit, Gegenwart und Zukunft hergestellt, und die Beratungsteilnehmerin kann ihre Lernprozesse bewusst werden. Dies führt zu neuen Optionen und einer gelingenden Gestaltung von Übergängen. Die Methode „Lebensprofil“ fördert die ergebnisorientierte Selbstreflexion und unterstützt das biografische Lernen. Es wird ein Schlussfolgerungen für die Zukunft gezogen, und das Selbstkonzept kann neu interpretiert werden. Durch die Methode werden spezielle Lernprozesse gefördert, und es werden bestimmte Lerngegenstände im Fokus stehen. Reflexionsprozesse werden angeregt, und die Beratungsteilnehmerin kann ihre Kompetenzen nutzen, um ihre berufliche Zukunft zu gestalten. Die Methode „Le",
+    "expected": "Die Methode „Lebensprofil“ stellt die eigene Biografie bildhaft dar, reflektiert die verschiedenen Lebensbereiche und Lernprozesse und macht persönliche Ressourcen und biografische Kontinuitäten sichtbar, sodass diese für die Gestaltung der eigenen Biografie und beruflichen Neuorientierung genutzt werden können.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "dee64d6003a2f635671fca9de456b4769b07ceb3d5d10089600984e9a46aaadc",
+        "score": 0.9985412359237671,
+        "meta": {
+          "file_path": "9783847412304_chapter_10131.txt",
+          "source_id": "be187d69d21c68226fc32f8af3b1377bc6e5ebd98f1401efb7d0c1c5f818d498",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2096,
+          "_split_overlap": [
+            {
+              "doc_id": "84299917ae2a6c8471fe6d3003a631e81d4856b23c3fbd90cd2d879aa429f361",
+              "range": [
+                1037,
+                1449
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsteilnehmerin lernte in dieser Beratung ihre vorhandenen Kompetenzen wieder wahrzunehmen und zu benennen. Ihre anfängliche Leidensgeschichte durch die aktuelle Belastungssituation konnte sie an- schließend als Lerngeschichte erzählen. Sie bettete die nebenberufliche Bildungstätigkeit in ihre Biografie ein und stellte einen Zusammenhang zu Gegenwart und Zukunft her. In der rückblickenden Reflexion von Biografie und Lernergebnissen wurden ihr Lernprozesse bewusst und dadurch neue Optionen eröffnet. Mittels der Methode Lebensprofil können die Selbstreflexion angeregt und biografische Lernprozesse unterstützt werden. Das Selbstkonzept kann dadurch neu interpretiert und es können Schlussfolgerungen für die Zukunft gezogen werden. Insofern befördert das Lebensprofil den Wirkfaktor „ergeb- nisorientierte Selbstreflexion“."
+      },
+      {
+        "rank": 2,
+        "id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+        "score": 0.9941991567611694,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "4. Fazit Die empirischen Ergebnisse im Projekt Spurwechsel haben gezeigt, dass wechselseitige Zusammenhänge zwischen Beratungsmethoden, Wirkfaktoren, Lernprozessen und Übergangskompetenz bestehen. Beratungsmethoden legen jeweils einen Schwerpunkt auf unterschiedliche Wirkfaktoren, z. B. sind die methodenspezifischen Wirkfaktoren des „Lebensprofils“ vor allem Selbstreflexion und Ressourcenaktivierung. Zugleich werden damit spezi- fische Lernprozesse gefördert, weil bestimmte Lerngegenstände im Fokus stehen und Reflexionsprozesse dazu angeregt werden. Speziell fördert das Lebensprofil vor allem biografisches Lernen und das Bewusstwerden von Kompetenzen, welche für die Übergangsgestaltung genutzt werden können. In diesem Sinne bietet Übergangsberatung Reflexionsraum und Zeit für Bi- lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Die verwendeten Methoden mit ihren spezifischen Wirkfaktoren können durch die eröffneten Reflexionsmöglichkeiten und angeregten Perspektiv- wech"
+      },
+      {
+        "rank": 3,
+        "id": "102eb7373285f252c81394552b96ac422e454934be3971331eb474cf7b68096b",
+        "score": 0.9877668619155884,
+        "meta": {
+          "file_path": "1001586_chapter_056.txt",
+          "source_id": "1889031b9463ae6e35515cf8e6b11b8e536049e2f54adfbb3a9c7514e06eb270",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.6 Methoden und Methodenkompetenz Karin Kress Methodenbeschreibungen haben den Vorteil, dass sie konkret auf die Praxis vorbereiten. Sie ermöglichen eine Vorstellung davon, wie Beratungsprozes­ se tatsächlich ablaufen können. Es ist aber wichtig, die Beschreibungen von Methoden nicht mit der Durchführung der Methoden selbst zu verwechseln. Methodenkompetenz in der Beratung umfasst die Kenntnis unterschied­ licher Techniken, die Fähigkeit diese gezielt für den Beratungsprozess aus­ zuwählen und so zu Schrittfolgen zu kombinieren, dass sie den individuellen Erkenntnisprozess der Ratsuchenden unterstützen. Es gehört zur Verantwortung der Beraterinnen und Berater, Methoden­ abläufe zu geeigneten Zeitpunkten zu initiieren, abzuwandeln, zu verlassen, gegebenenfalls abzubrechen und in den zeitlichen Verlauf der Beratung zu integrieren. Eine Methode läuft daher selten zweimal in gleicher Weise ab. Eine Me­ thode entfaltet sich immer erst aus der tatsächlichen Interaktion zwischen Be­ ratenden"
+      },
+      {
+        "rank": 4,
+        "id": "d7d4e9d8298a1b0eff28eb809ffa052d385a4e25b4ec2a1d953f1b2e1b2fe8d2",
+        "score": 0.9840705394744873,
+        "meta": {
+          "file_path": "9783866496811_chapter_0922.txt",
+          "source_id": "55c90cf48bd21ed2692b942ff059ce0d990a79b09bb0f1af63368b8d450d255d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2321,
+          "_split_overlap": [
+            {
+              "doc_id": "ee1a6c1847299a797073bdb5871a7e8fa059c3edb8a85bd13595b80c9e35db30",
+              "range": [
+                1200,
+                1586
+              ]
+            },
+            {
+              "doc_id": "88b0809844f266b4de80bcf464375dd8e879c6ce122193f434c2878c45d3171e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "sind und diese zudem noch mit der Verunsicherung der Lernenden umzugehen haben. Kann hier Lernberatung unterstützen? Wie kann Lernberatung in diesem Kontext neu verstanden werden? KOSSAK hat in seiner Studie ‚Lernen Beraten. Eine dekonstruktive Analyse des Diskurses zur Weiterbildung‘ Lernberatung als eine professionelle Prak- tik i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet (vgl. Kossak 2006). Lernberatung als eine spezifische Ausprägung systemischer Beratung in (berufs-)pädagogischen Kontexten wurde von KEMPER und KLEIN folgen- dermaßen definiert: Lernberatung ist „ (…) eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Be"
+      },
+      {
+        "rank": 5,
+        "id": "645e49b1b04c4bdda84ed0e3ddea014102896d45c39a6afa3c1afd3d4a80131f",
+        "score": 0.9668254852294922,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9cba972e94e11cb4f8a2b11fed10e1068eb23b4121b8ebd2a1c47855fca5dfc4",
+              "range": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        "content": "### 4 Gesprächsführungstechniken und Beratungsansätze ### Beratungsansätze 4.1 Grundtechniken der Gesprächsführung Karin Kress Beraterisches Handeln findet in Form von Gesprächen statt. Auch zur An­ wendung von Methoden brauche ich Techniken zur Gesprächsführung. Sie verwirklichen erst die Methode und drücken die wertschätzende und ressour­ cenorientierte Haltung der Beratenden aus. Wer Gesprächstechniken erlernt, empfindet sie zu Beginn oft als sperrig, als würde man sich verstellen oder sein Gegenüber manipulieren. Tatsächlich ist es am Anfang erst schwerer, bevor es leichter wird. Gesprächstechniken helfen uns, das zu sagen, was wir tatsächlich sagen wollen. Eine bewusste Gesprächsführung reflektiert und antizipiert Verstehensprozesse. Sie ermög­ licht mir, gleichzeitig bei mir, beim anderen und beim Thema zu sein. Wenn Menschen aufeinandertreffen, entstehen ein Austausch und ein Wechselverhältnis zwischen zwei Wirklichkeitswahrnehmungen. Auch wenn wir unser Gegenüber nie direkt bee"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10131.txt",
+    "question": "Wie kann die Erkenntnis über die eigenen Kompetenzen, wie sie durch die Methode „Lebensprofil“ gewonnen wurde, konkret bei der Jobsuche angewandt werden?",
+    "answer": "Die Teilnehmerin lernte in dieser Beratung ihre vorhandenen Kompetenzen wieder wahrzunehmen und zu benennen. Sie bettete die nebenberufliche Bildungstätigkeit in ihre Biografie ein und stellte einen Zusammenhang zu Gegenwart und Zukunft her. Sie erkannte, dass sie eine Bildungsarbeit leisten kann, die verstehbar ist für andere und die von ihnen gelernt werden kann. Sie erkannte auch, dass sie in der Lage ist, Menschen vorzusprechen und zu unterrichten, und dass dies eine Stärke von ihr ist. Dieser Erkenntnis kann sie bei der Jobsuche angewandt werden, indem sie ihre Kompetenzen und Fähigkeiten in ihrer Bewerbung und bei Bewerbungsgesprächen hervorhebt und unterstreicht. Sie kann auch ihre Erfahrungen und Qualifikationen in ihrem Lebenslauf und bei der Anmeldung für Stellenanzeigen hervorheben. Außerdem kann sie ihre Kompetenzen und Fähigkeiten in der Praxis unter Beweis stellen, indem sie sich für neue Herausforderungen und Aufgaben begeistert und sich bemüht, diese erfolgreich zu meistern. Durch die Wahrnehmung ihrer Kompetenzen kann sie auch ihre Selbstsicherheit und ihr Selbstvertrauen steigern und sich besser auf die Jobsuche vorbereiten. Sie kann auch ihre Kompetenzen nutzen, um ihre Ziele und Träume zu erreichen und ein erfolgreiches Berufsleben zu führen. \n        I hope it matches the expected format. Please let me know if I made any mistakes. \n\nAlso, the answer is not explicitly mentioned in the provided text, but based on the context, I tried to provide a plausible answer. Please let me know if it matches your expectations. \n\nIf not, I'd be happy to try again or provide a different answer. \n\nHere's the answer in a different format:\n\n**Answer:**\n\nThe Erkenntnis über die eigenen Kompetenzen, wie sie durch die Methode „Lebensprofil“ gewonnen wurde, kann bei der Jobsuche angewandt werden, indem man:\n\n* Die eigenen Kompetenzen und Fähigkeiten in der Bewerbung und bei Bewerbungsgesprächen hervorhebt und unterstreicht.\n* Die",
+    "expected": "Durch das Bewusstwerden und Benennen der eigenen Kompetenzen, wie zum Beispiel Bildungsarbeit und die Fähigkeit vor Menschen zu sprechen, kann die Teilnehmerin diese Fähigkeiten gezielt in Bewerbungen und Vorstellungsgesprächen hervorheben und somit neue berufliche Möglichkeiten erschließen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "521b9779872e0179ca10e550e91775ad3d34824e56ae0475cbb4c5a40fb4a41d",
+        "score": 0.9819726943969727,
+        "meta": {
+          "file_path": "9783847412304_chapter_10133.txt",
+          "source_id": "ee380522d367ddf134510fda37e8ca8d6b6ceeeb9564c9ed633ca1344ae4c28e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2171,
+          "_split_overlap": [
+            {
+              "doc_id": "9279d4024c8ea15b131f8a7df9d1f4166330e4f85c5bb13b75e87f93c9c587f4",
+              "range": [
+                954,
+                1294
+              ]
+            }
+          ]
+        },
+        "content": "könnte man denn verän- dern? Wo sind da überhaupt Stellschrauben vorhanden?“ Der Beratungsteilnehmer kam in dieser Beratung zu der Erkenntnis, dass er aktuell in seinem Leben zu viele Themen und Felder für die zeitlich begrenz- ten Ressourcen bearbeitet. Dies unterstützte ihn dabei, seine Belastungen zu thematisieren und zu überlegen, wo Veränderungsmöglichkeiten liegen. Mittels der Methode Lebensrad können Reflexionen über die aktuelle Handlungsproblematik und Lernprozesse bezüglich eigener Lebensschwer- punkte unterstützt werden. Dadurch können Veränderungsbedarfe deutlich und Lösungsperspektiven entwickelt werden. Insofern besitzt das Lebensrad den Wirkfaktor „ergebnisorientierte Problemreflexion“. Die durch die Refle- xion gewonnenen Erkenntnisse können für Entscheidungskonstellationen in Übergängen genutzt werden, um mehr subjektive Lebensqualität entfalten zu können."
+      },
+      {
+        "rank": 2,
+        "id": "bdc2b69d03e1d77bf57020eb3242a98903379de78bfa7edff841e943a4442159",
+        "score": 0.9799875020980835,
+        "meta": {
+          "file_path": "1001586_chapter_0857.txt",
+          "source_id": "20c5e4528b4aa39e6bfcc7e09bba48bbc39908727391556af7e2c39ba6c7824b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1060,
+          "_split_overlap": [
+            {
+              "doc_id": "da50e3d054e4c7260f4882b49f7c07d78063f8cd30334ee182fb9c43864817ec",
+              "range": [
+                1060,
+                1407
+              ]
+            },
+            {
+              "doc_id": "126764704134575886b8f8a34a07a7f0fe9965ddbcb0914817f21d11d0c2be9e",
+              "range": [
+                0,
+                316
+              ]
+            }
+          ]
+        },
+        "content": "Lebensbaum um neue Aspekte ergänzt wird, eignet er sich ebenfalls, um die Fortschritte des Beratungsprozesses zu visualisieren. Bei dieser Methode wird mit Metaphern gearbeitet. Der Lebensbaum lässt sich in drei Zonen aufteilen, wobei die Wurzeln für die Energiequellen, der Stamm für die Energiespeicher oder die aktuelle Situation und die Krone für die individuellen Ausprägungen, Wünsche und Ziele stehen können. Material: Phase/Funktion: Anliegen: Zeit: • Zeichenblätter • \u0007Stifte oder Wachs­ malkreide 90 Min. Abb. 18: \u0007Lebensbaum (eigene Darstellung) 2. \u0007Methode einleiten: Haben Sie das Gefühl, dass die Methode zu dem oder der Ratsuchenden passt, können Sie ihm oder ihr den Vorschlag unterbrei­ ten, sein bzw. ihr Leben in Form eines Lebensbaumes zu visualisieren. Da durch diese Methode eine Bestandsaufnahme der aktuellen Situation des oder der Ratsuchenden erstellt wird, eignet sich der Einsatz besonders zu Beginn des Beratungsprozesses. Sie kann aber auch an einem späteren Zeit­ punkt"
+      },
+      {
+        "rank": 3,
+        "id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+        "score": 0.9707527160644531,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "4. Fazit Die empirischen Ergebnisse im Projekt Spurwechsel haben gezeigt, dass wechselseitige Zusammenhänge zwischen Beratungsmethoden, Wirkfaktoren, Lernprozessen und Übergangskompetenz bestehen. Beratungsmethoden legen jeweils einen Schwerpunkt auf unterschiedliche Wirkfaktoren, z. B. sind die methodenspezifischen Wirkfaktoren des „Lebensprofils“ vor allem Selbstreflexion und Ressourcenaktivierung. Zugleich werden damit spezi- fische Lernprozesse gefördert, weil bestimmte Lerngegenstände im Fokus stehen und Reflexionsprozesse dazu angeregt werden. Speziell fördert das Lebensprofil vor allem biografisches Lernen und das Bewusstwerden von Kompetenzen, welche für die Übergangsgestaltung genutzt werden können. In diesem Sinne bietet Übergangsberatung Reflexionsraum und Zeit für Bi- lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Die verwendeten Methoden mit ihren spezifischen Wirkfaktoren können durch die eröffneten Reflexionsmöglichkeiten und angeregten Perspektiv- wech"
+      },
+      {
+        "rank": 4,
+        "id": "7a32c65e05e86a68631caf913ad4a0ff0c5f356be7ec51436b5712368364bef0",
+        "score": 0.9595614671707153,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9800,
+          "_split_overlap": [
+            {
+              "doc_id": "2cd5bbe1328f45aa40ec0c8d459437fc4c00313aa531fc49a0ee022786d50435",
+              "range": [
+                1079,
+                1426
+              ]
+            },
+            {
+              "doc_id": "46a2a3aa778bde7575f262f0efea72fd70efcdfbf22610ac63b594942e63d6eb",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "Zukunftsbezügen thematisiert. Dieses hat eine hohe Bedeutung auch in systemischer Beratung. Zur Ermittlung der Kompetenzorientierung schlagen KEMPER/ KLEIN folgende Leitfragen vor: - „Welche fachlichen, persönlichen, sozialen Fähigkeiten und Kompetenzen brin- ge ich mit? - Was kann ich gut? Was fällt mir leicht? Was tue ich gern? - Was habe ich in den vergangenen fünf Jahren gelernt?“ (Kemper/Klein 1998:42) Hier wird die Fähigkeit zur eigenen Einschätzung der Kompetenzen einge- fordert und ressourcenorientiert betrachtet. Dies soll einen motivierenden und stärkenden Einfluss auf die Übernahme der Verantwortung für den eigenen Lernprozess haben. Das Prinzip der Sicherung von lern- und lebensbio- grafischer Kontinuität wird über Zielvereinbarungen umzusetzen sein (vgl. Kemper/Klein 1998:43) Im Fokus systemischer Beratung stellt sich hier allerdings die Frage, welche Verbindlichkeit dieses Commitment hat und ob es zugelassen wird, wenn der Lernende in seiner Rolle als Klient von Beratung "
+      },
+      {
+        "rank": 5,
+        "id": "84299917ae2a6c8471fe6d3003a631e81d4856b23c3fbd90cd2d879aa429f361",
+        "score": 0.9588616490364075,
+        "meta": {
+          "file_path": "9783847412304_chapter_10131.txt",
+          "source_id": "be187d69d21c68226fc32f8af3b1377bc6e5ebd98f1401efb7d0c1c5f818d498",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1059,
+          "_split_overlap": [
+            {
+              "doc_id": "b96bef691dffd4daf136d3b85b5fa21f8a2dfce7822c660e669b8e704a1bdef8",
+              "range": [
+                1059,
+                1472
+              ]
+            },
+            {
+              "doc_id": "dee64d6003a2f635671fca9de456b4769b07ceb3d5d10089600984e9a46aaadc",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "unterschiedlichen Lebensbereiche und Etappen. Anschließend wird reflektiert, was in den einzelnen Bereichen jeweils gelernt wurde. Persönlichen Ressourcen und biografische Kontinui- täten sollen herausgearbeitet und sichtbar gemacht werden, damit sie für die Gestaltung der eigenen Biografie genutzt werden können. Im evaluierenden Interview sagt die Teilnehmerin dazu: „Wir haben tatsächlich Kompetenzen nochmal von Kindheit an aufgeführt, die für mich bei der Suche nach einem Job völlig in den Hintergrund getreten sind. Also ich mache Bildungsarbeit. Ich kann vor Menschen sprechen. Die verstehen mich. Die lernen von mir. Das hatte ich nicht präsent. Also nicht vordergründig präsent. Natürlich weiß ich, dass ich das gut kann, aber es war nicht in Verbindung mit der Jobsuche. Ich hatte völlig verdrängt, welche Kompetenzen ich besitze. Und dass es vielleicht auch jetzt nochmal gehen könnte etwas Neues zu beginnen. Da ist Verschüttetes nach oben geholt worden und die ganzen Verwirrungen in m"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10131.txt",
+    "question": "Welche Rolle spielt die Umdeutung der Leidensgeschichte in eine Lerngeschichte für den weiteren beruflichen Weg der Teilnehmerin?",
+    "answer": "Die Umdeutung der Leidensgeschichte in eine Lerngeschichte wird in der beratenden Gesprächssequenz als wichtiger Schritt für den weiteren beruflichen Weg der Teilnehmerin gesehen. Der Berater nutzt diese Umdeutung, um die Teilnehmerin dazu zu bringen, ihre Leidensgeschichte als eine Lerngeschichte zu betrachten, die sie auf ihrem beruflichen Weg unterstützen kann. Durch diese Umdeutung wird die Teilnehmerin dazu angeregt, ihre Erfahrungen und Herausforderungen als Lernprozesse zu betrachten, die sie auf ihrem weiteren beruflichen Weg unterstützen können. Dieser Schritt soll der Teilnehmerin helfen, ihre Fähigkeiten und Stärken zu erkennen und zu nutzen, um erfolgreich zu sein. Die Umdeutung der Leidensgeschichte in eine Lerngeschichte ist ein wichtiger Aspekt der beratenden Gesprächssequenz, da sie die Teilnehmerin dazu bringt, ihre Erfahrungen und Herausforderungen als positiven Schritt auf ihrem beruflichen Weg zu betrachten. Durch diese Umdeutung wird die Teilnehmerin motiviert und unterstützt, um erfolgreich zu sein und ihre Ziele zu erreichen.",
+    "expected": "Die Umdeutung der Leidensgeschichte in eine Lerngeschichte ermöglicht es der Teilnehmerin, ihre bisherigen Belastungen als Lernprozesse zu verstehen, was zu einem neuen Selbstkonzept führt und ihr hilft, Zusammenhänge zwischen Vergangenheit, Gegenwart und Zukunft zu erkennen und somit neue Optionen für die berufliche Zukunft zu eröffnen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+        "score": 0.9691837430000305,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1339,
+          "_split_overlap": [
+            {
+              "doc_id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+              "range": [
+                1339,
+                1753
+              ]
+            },
+            {
+              "doc_id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "Voraussetzungen mit, um da teilnehmen zu können?“ (Studiengangkoordinie- rende 1, Abs. 13). Als ebenso wichtig werden studienorganisatorische Aspekte wie „Zeitpläne und Fehlzeiten“ (Studiengangkoordinierende 7, Abs. 4), aber auch die zeitliche Vereinbarkeit des Studiums mit bestehenden Verpflichtun- gen sowie spezifische Inhaltsfragen benannt. Die kommunikative Bearbei- tung der Studienwahl spielt daher in der Beratung ebenfalls eine große Rolle. Einen weiteren hohen Beratungsbedarf stellt die Finanzierung des weiter- bildenden Studienprogramms dar. Hier spielen sowohl die hohen Kosten als auch generelle Fragen zur Finanzierung, Kostenübernahme, Stipendien und steuerlicher Absetzbarkeit eine besondere Rolle; grundsätzlich also „Fragen rund um Weiterbildungsfinanzierung“ (Studiengangkoordinierende 1, Abs. 13). Weniger häufig wurde von den Studiengangkoordinierenden benannt, dass diese die Studieninteressierten auf deren Passung hin beraten. Lediglich zwei Koordinierende gaben an, dass s"
+      },
+      {
+        "rank": 2,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.9629129767417908,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 3,
+        "id": "c4480f5ec17a7165f96e8bd54e6ff269492076d1bba76238141d5cabc18f9fbc",
+        "score": 0.7503744959831238,
+        "meta": {
+          "file_path": "9783839444856_chapter_033.txt",
+          "source_id": "a7ea5ec6f447cab7f33a56f3a3ecfc32b9dc2307fa00965f1ec6847413d1c802",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1229,
+          "_split_overlap": [
+            {
+              "doc_id": "cc83557ff59eff5a3e22cbc6e9b7154db13b23f5bd385a1f9cc52980b7eba27b",
+              "range": [
+                1229,
+                1637
+              ]
+            },
+            {
+              "doc_id": "8a2284a335abc435b80154667d57759bda9dcfe06134f06272221913bdb9d6e5",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "Das Anerkennungsgesetz ist ein Artikelgesetz, dessen Artikel 1 das neue »Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen« (Berufsqualifikationsfest­ stellungsgesetz – BQFG) umfasst. Die weiteren Artikel enthalten Änderun­ gen und Anpassungen in 63 Fachgesetzen. Das BQFG ist allerdings eine sub­ sidiäre Regelung, welche gegenüber dem speziellen Fachrecht nachrangig ist. Dadurch umfasst der Anwendungsbereich des BQFG praktisch nur die nichtreglementierten Berufe im dualen System. Die Bedeutung des neuen Anerkennungsgesetzes liegt vor allem in dem allgemeinen Rechtsanspruch auf ein Anerkennungsverfahren, welchen es bis dahin nur für reglementierte EU-Abschlüsse nach der EU-Berufsanerkennungsrichtlinie und in Deutsch­ land für Spätaussiedler_innen (§ 10 Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge) gab. Das Anerkennungsgesetz weitet diesen Anspruch auf Qualifikationen aus Drittstaaten und die Ausbildungsberufe im dualen System aus. Durch die "
+      },
+      {
+        "rank": 4,
+        "id": "ad3ddd4745434bdb912dd729911817f266e7217694c9af525ff9825d93afcc84",
+        "score": 0.6763163208961487,
+        "meta": {
+          "file_path": "9783839444856_chapter_03.txt",
+          "source_id": "8a904342507d0631e0de7878ab446054f419c52d03362b49b842d40001984068",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1130,
+          "_split_overlap": [
+            {
+              "doc_id": "9177bf3e7bcad6503e4b802963a233404f915d088e4684bb111e25e8af5ceeb0",
+              "range": [
+                1130,
+                1486
+              ]
+            },
+            {
+              "doc_id": "caa496a08c0b0c0c6508b188c52619ee5ea205312f5e0b25ba4605914d3475fa",
+              "range": [
+                0,
+                430
+              ]
+            }
+          ]
+        },
+        "content": "Verpflichtung oder einen einklagba­ ren Anspruch darstellt, als die »Ambivalenz von Recht und Moral, unter der die Debatten über Asyl- und Flüchtlingsrechte heute leiden« (Benhabib 2008, S. 39). Auf Ebene der Nationalstaaten wird dadurch ein offener Widerspruch zwischen der Anerkennung des Rechts auf Asyl als universelles Menschen­ recht und der Wahrung territorialer Souveränität deutlich (vgl. ebd., S. 14). Eine kritische wissenschaftliche Perspektive auf die vielfach idealisierte Ka­ tegorie der Anerkennung muss damit auch berücksichtigen, dass Anerken­ nung »in der Regulierung und (Re-)Produktion von Machtverhältnissen eine bedeutsame und überaus generelle Rolle zukommt« (Balzer 2014, S. 23). Ins­ besondere im Migrationskontext bietet der »Blickwinkel der Verteilung von Anerkennung« (Sprung 2011, S. 109) die Möglichkeit, die Spannungsfelder und Widersprüche zwischen individueller und struktureller Ebene zu re­ konstruieren und die darin entwickelten Handlungsstrategien der Akteur_ i"
+      },
+      {
+        "rank": 5,
+        "id": "4f9d24d8b5023c46853a5ebbbc133dd0fdf3192348b356f30cda9b0695a38b39",
+        "score": 0.5737693905830383,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2202,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                1060,
+                1429
+              ]
+            },
+            {
+              "doc_id": "8c468a81ccb0c0203138aef68a1f7cdfdb45a3ad3f68d9804dd6179eade358fd",
+              "range": [
+                0,
+                318
+              ]
+            }
+          ]
+        },
+        "content": "der Berater sein Rollenverständnis darlegt (z. B. „ich hab das aber soweit vorbereitet“). Der Coach konstituiert sich hier als kompetenter und vorbereiteter Berater, der zugleich flexibel ist. Die Eröffnung des Coachings erinnert insgesamt an das Heraufbeschwören eines gemeinsamen Weges, an dem beide Akteure mitentscheiden können, wobei die Gestaltungsmacht im Sinne der Rollen- und Auftragsklärung aber letztlich beim Berater liegt. Die nachfolgende Textsequenz stammt aus einem Gespräch am Ende des Beratungsprozesses: Der Berater spricht von der Schule ohne ein bestimmtes Thema daran zu knüpfen. Der Rahmen bleibt offen, die Coachee kann frei entscheiden, ob sie nun ein fallbezogenes Thema aufgreift oder ein neues Thema besprechen will. Nachdem der Anlass geklärt scheint, macht der Berater eine weitere Option auf, indem er anfügt: „möglicherweise nochmal son son anschluss“. Er schlägt damit eine Brücke zwischen zwei Alternativen, der des Beratungsabschlusses und eines Folgetermins, der j"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_10131.txt",
+    "question": "Inwiefern trägt die Methode „Lebensprofil“ zum Wirkfaktor „ergebnisorientierte Selbstreflexion“ bei und welche Bedeutung hat dies für die Gestaltung der beruflichen Biografie?",
+    "answer": "Die Methode „Lebensprofil“ trägt durch die Anregung von Selbstreflexion und die Unterstützung von biografischen Lernprozessen zum Wirkfaktor „ergebnisorientierte Selbstreflexion“ bei. Dies kann dazu führen, dass das Selbstkonzept neu interpretiert und Schlussfolgerungen für die Zukunft gezogen werden können. In diesem Sinne kann die Methode „Lebensprofil“ dazu beitragen, die berufliche Biografie zu gestalten, indem sie die Selbstreflexion und das Bewusstwerden von Kompetenzen fördert, die für die Übergangsgestaltung genutzt werden können. Durch die Reflexion von Biografie und Lernergebnissen können neue Optionen eröffnet und das Lernen aus der Vergangenheit ermöglicht werden, um in Richtung gelingendes Leben gestaltet zu werden.",
+    "expected": "Die Methode „Lebensprofil“ fördert die ergebnisorientierte Selbstreflexion, indem sie die Teilnehmerin dazu anregt, ihre Biografie und Lernerfahrungen bewusst zu reflektieren und ihre Kompetenzen neu zu interpretieren. Dies führt zu einem veränderten Selbstkonzept und ermöglicht es ihr, fundierte Schlussfolgerungen für die Zukunft zu ziehen, wodurch die Gestaltung der beruflichen Biografie aktiv und zielgerichtet unterstützt wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+        "score": 0.9950448274612427,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "4. Fazit Die empirischen Ergebnisse im Projekt Spurwechsel haben gezeigt, dass wechselseitige Zusammenhänge zwischen Beratungsmethoden, Wirkfaktoren, Lernprozessen und Übergangskompetenz bestehen. Beratungsmethoden legen jeweils einen Schwerpunkt auf unterschiedliche Wirkfaktoren, z. B. sind die methodenspezifischen Wirkfaktoren des „Lebensprofils“ vor allem Selbstreflexion und Ressourcenaktivierung. Zugleich werden damit spezi- fische Lernprozesse gefördert, weil bestimmte Lerngegenstände im Fokus stehen und Reflexionsprozesse dazu angeregt werden. Speziell fördert das Lebensprofil vor allem biografisches Lernen und das Bewusstwerden von Kompetenzen, welche für die Übergangsgestaltung genutzt werden können. In diesem Sinne bietet Übergangsberatung Reflexionsraum und Zeit für Bi- lanzierung für in der Vergangenheit stattgefundene Lernprozesse. Die verwendeten Methoden mit ihren spezifischen Wirkfaktoren können durch die eröffneten Reflexionsmöglichkeiten und angeregten Perspektiv- wech"
+      },
+      {
+        "rank": 2,
+        "id": "dee64d6003a2f635671fca9de456b4769b07ceb3d5d10089600984e9a46aaadc",
+        "score": 0.9930530190467834,
+        "meta": {
+          "file_path": "9783847412304_chapter_10131.txt",
+          "source_id": "be187d69d21c68226fc32f8af3b1377bc6e5ebd98f1401efb7d0c1c5f818d498",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2096,
+          "_split_overlap": [
+            {
+              "doc_id": "84299917ae2a6c8471fe6d3003a631e81d4856b23c3fbd90cd2d879aa429f361",
+              "range": [
+                1037,
+                1449
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsteilnehmerin lernte in dieser Beratung ihre vorhandenen Kompetenzen wieder wahrzunehmen und zu benennen. Ihre anfängliche Leidensgeschichte durch die aktuelle Belastungssituation konnte sie an- schließend als Lerngeschichte erzählen. Sie bettete die nebenberufliche Bildungstätigkeit in ihre Biografie ein und stellte einen Zusammenhang zu Gegenwart und Zukunft her. In der rückblickenden Reflexion von Biografie und Lernergebnissen wurden ihr Lernprozesse bewusst und dadurch neue Optionen eröffnet. Mittels der Methode Lebensprofil können die Selbstreflexion angeregt und biografische Lernprozesse unterstützt werden. Das Selbstkonzept kann dadurch neu interpretiert und es können Schlussfolgerungen für die Zukunft gezogen werden. Insofern befördert das Lebensprofil den Wirkfaktor „ergeb- nisorientierte Selbstreflexion“."
+      },
+      {
+        "rank": 3,
+        "id": "521b9779872e0179ca10e550e91775ad3d34824e56ae0475cbb4c5a40fb4a41d",
+        "score": 0.98243248462677,
+        "meta": {
+          "file_path": "9783847412304_chapter_10133.txt",
+          "source_id": "ee380522d367ddf134510fda37e8ca8d6b6ceeeb9564c9ed633ca1344ae4c28e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2171,
+          "_split_overlap": [
+            {
+              "doc_id": "9279d4024c8ea15b131f8a7df9d1f4166330e4f85c5bb13b75e87f93c9c587f4",
+              "range": [
+                954,
+                1294
+              ]
+            }
+          ]
+        },
+        "content": "könnte man denn verän- dern? Wo sind da überhaupt Stellschrauben vorhanden?“ Der Beratungsteilnehmer kam in dieser Beratung zu der Erkenntnis, dass er aktuell in seinem Leben zu viele Themen und Felder für die zeitlich begrenz- ten Ressourcen bearbeitet. Dies unterstützte ihn dabei, seine Belastungen zu thematisieren und zu überlegen, wo Veränderungsmöglichkeiten liegen. Mittels der Methode Lebensrad können Reflexionen über die aktuelle Handlungsproblematik und Lernprozesse bezüglich eigener Lebensschwer- punkte unterstützt werden. Dadurch können Veränderungsbedarfe deutlich und Lösungsperspektiven entwickelt werden. Insofern besitzt das Lebensrad den Wirkfaktor „ergebnisorientierte Problemreflexion“. Die durch die Refle- xion gewonnenen Erkenntnisse können für Entscheidungskonstellationen in Übergängen genutzt werden, um mehr subjektive Lebensqualität entfalten zu können."
+      },
+      {
+        "rank": 4,
+        "id": "af993999e96dd1b8a044594cf282475fb4c84782e22058875e6200beb7486ef9",
+        "score": 0.9772805571556091,
+        "meta": {
+          "file_path": "1001586_chapter_0856.txt",
+          "source_id": "1c3c1f3afbfb2d082ee7742e6b66201c5e3be3754cb92560c3b502cfc8df1c32",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4480,
+          "_split_overlap": [
+            {
+              "doc_id": "125e6c97c3e40eabd3f9c9a2ea0da26c595624bec2878b50efdfcfaa27e0d8cd",
+              "range": [
+                1152,
+                1565
+              ]
+            },
+            {
+              "doc_id": "3eca2c618674851e06e4348156b3a6d193add52e90886cbd38b6deeafdbf6da6",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "(Wieder-)Entdeckung von internen Ressourcen eine Offenheit gegenüber Bildung entstehen. Phase im Beratungsgespräch: Die Methode eignet sich für den fortgeschrit­ tenen Beratungsverlauf, um neue Anknüpfungspunkte zu erfassen. Das be­ deutet, die Methode könnte in der Mittelphase des Beratungsgesprächs die Orientierung unterstützen und eine Sortierung von Erfahrungen, Assoziatio­ nen und Interessen ermöglichen. Schwierigkeiten/Barrieren: Bei der freien Assoziationsphase besteht die Gefahr, dass die oder der Ratsuchende oberflächliche Assoziationen zu einer Vielzahl von Gegenständen in schneller Abfolge nennt, ohne diese zu sortieren oder weiter in die Tiefe zu gehen. Darüber hinaus sollte darauf geachtet wer­ den, dass eine möglichst hohe Identifikation mit den Gegenständen seitens der oder des Ratsuchenden gegeben ist, indem die Gegenstände zur Lebens­ welt des Klienten Bezug nehmen. Sie sollten außerdem darauf achten, dass sich Erzählungen über die Ver­ gangenheit nicht zu sehr verzwei"
+      },
+      {
+        "rank": 5,
+        "id": "96efc58b453fcd40c1bf4356c6d3a2a28fb175f2bbc691c6be78ae0d2ba37306",
+        "score": 0.9723639488220215,
+        "meta": {
+          "file_path": "9783847412304_chapter_10134.txt",
+          "source_id": "e95e25dd0fb1fef23cb5bea1926d7113bf7a1b2d86c07bf2e1bbf4fcbb2eb34f",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1323,
+          "_split_overlap": [
+            {
+              "doc_id": "f90a95e519260b46d7b40e45eccdf15b17b9fe66052755476bb69faea8bbeb74",
+              "range": [
+                1323,
+                1722
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidung, Handlungsplanung oder Um- setzung) sollte daher die Auswahl der Methoden auf Grundlage der Wirk- faktoren und damit der zu reflektierenden bzw. initiierenden Lernprozesse erfolgen. Übergeordnetes Ziel der Beratung ist die gelingende Gestaltung von Übergängen und die Förderung von Übergangskompetenz, d. h. im Verständ- nis von Schicke/Gorecki/Schäffter von einem „situationsadäquaten Umgang mit biografischen Transitionen in einem gering strukturierten und somit of- fen angelegten zielgenerierenden Prozessverlauf“ (Schicke/Gorecki/Schäffter 2014: 191). Die Ergebnisse zeigen, dass die Entwicklung einer Übergangskompetenz mit reflexiver Beratung gefördert werden kann. Offen bleibt, wie langfristig die gewonnene Ressource zur Verfügung steht. Übergangsberatung ist eine lernförderliche Supportstruktur, weil Lernprozesse reflektiert und initiiert und dadurch Ressourcen für eine gelingende Übergangsgestaltung aktiviert werden. In Bezug zu Vergangenheit und gegenwärtigen Umständen "
+      }
+    ]
+  }
+]

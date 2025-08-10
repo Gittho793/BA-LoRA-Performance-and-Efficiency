@@ -1,0 +1,662 @@
+[
+  {
+    "filename": "9783847412304_chapter_0725.txt",
+    "question": "Was versteht man unter 'Mobilität zu Lernzwecken' im Kontext der europäischen Mobilitätspolitik?",
+    "answer": "Mobilität zu Lernzwecken' bezieht sich im Kontext der europäischen Mobilitätspolitik auf einen Auslandsaufenthalt mit dem Ziel, neues Wissen, neue Fähigkeiten und Kompetenzen zu erwerben. Dieser Begriff wird verwendet, um die Mobilität zu definieren, die sich anerkennungsfähig und förderfähig für Bildungszwecke eignet.",
+    "expected": "'Mobilität zu Lernzwecken' bezeichnet Auslandsaufenthalte mit dem Ziel, neues Wissen sowie neue Fähigkeiten und Kompetenzen zu erwerben, um die künftige Beschäftigungsfähigkeit, das interkulturelle Bewusstsein, die persönliche Entwicklung, Kreativität und den Bürgersinn junger Menschen zu fördern.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+        "score": 0.997786283493042,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1150,
+          "_split_overlap": [
+            {
+              "doc_id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+              "range": [
+                1150,
+                1545
+              ]
+            },
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "„Mobilität zu Lernzwecken“ verdeutlicht zunächst, dass eben nicht alle Bewegungen den angestrebten Zwecken dienlich sind, was eine definitorische Rahmung der Mobilitäten notwendig macht, innerhalb de- rer sich anerkennungsfähige und förderfähige Bildungsbewegungen abspie- len können: „Die Mobilität zu Lernzwecken – also ein Auslandsaufenthalt mit dem Ziel, neues Wissen sowie neue Fähigkeiten und Kompetenzen zu erwerben – ist eine der grundlegenden Mög- lichkeiten, mit denen junge Menschen ihre künftige Beschäftigungsfähigkeit erhöhen, ihr interkulturelles Bewusstsein und ihre persönliche Entwicklung voranbringen sowie ihre Kreativität und ihren Bürgersinn stärken können. Europäer, die als junge Lernende mobil sind, sind zumeist auch später im Arbeitsleben mobil.“ (Amtsblatt der Europäischen Union 2011/C 199/01: 1) gefährden nicht nur die Wettbewerbsfähigkeit Europas und seiner National- staaten, sondern auch ihre eigene“ (Liesner 2006, 175). Vergleicht man europäische Mobilitätspolitik"
+      },
+      {
+        "rank": 2,
+        "id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+        "score": 0.9669819474220276,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "5. (Europäische) Apodemiken heute, oder: Wie weiter mit Beratung? Auch wenn von Apodemiken heutzutage keine Antwort mehr auf das Problem der sich um ihre Mobilität sorgenden Subjekte zu erwarten ist, kann nicht davon ausgegangen werden, dass diese Frage mit dem Ableben der Apodemik verschwunden ist. Im Gegenteil: Unter Vorzeichen eines sich vergrößernden Mobilitätsaufkommens, einer tendenziellen Omnipräsenz des Mobilitätsimperativs (vgl. Pongratz 2003: 149) sowie einer enorm gesteigerten Bedeutung von Mobilität im Rahmen formalisierter Bildungswege (vgl. Liesner 2008) stellt sich das Problem umso dringender. Vor allem im Rahmen der Mobilitätspolitik der EU, innerhalb welcher Bildungsreisebewegungen als learning mobility bzw. Mobilität zu Lernzwe- cken auftreten, lässt sich eine postmoderne Nachfolgerin apodemischen Wir- kens identifizieren. Auch hier handelt es sich um einen informellen Bera- tungskontext, innerhalb dessen die zu Beratenden jedoch nur nachgelagert adressiert werden. Di"
+      },
+      {
+        "rank": 3,
+        "id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+        "score": 0.9339329600334167,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                1188,
+                1572
+              ]
+            },
+            {
+              "doc_id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "in die sich bildenden Körper eingeschrieben wurde, agiert das gouvernementale Führen im Rahmen der EU-Mobilitätspolitik subtiler. Der Imperativ der Mobilität erfährt seine Wirksamkeit eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen, was sich als anschlussfähig an Strategien des neoliberalen, sanften Führens zeigt (Bröckling 2017). Der Umgang mit subjektiven Mobilitätspotentialen in Beratungsformaten lässt sich so machttheoretisch als stark von differenten sozialen Konstruktionen von Selbst- und Fremdbestimmung abhängig be- schreiben. Es zeigt sich, abschließend, dass soziale Adressierungsformen von Be- ratung in unterschiedlichen historischen Kontexten beträchtlich differieren. Dies gilt sowohl für die Suche nach Rat, welche historisch möglich wird, als auch für die Angebotsstruktur von Beratung. Dabei offenbart sich ein Verhält- nis von Ratsuche und Ratgabe, in dem nicht davon ausgegangen werden kann, dass Beratungsangebote den Artikulati"
+      },
+      {
+        "rank": 4,
+        "id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+        "score": 0.7232137322425842,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3510,
+          "_split_overlap": [
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                1172,
+                1569
+              ]
+            }
+          ]
+        },
+        "content": "sowie die Om- nipräsenz von Mobilitätsangeboten können auch als Anlässe betrachtet wer- den, durch welche das Bedürfnis nach Mobilität zu Lernzwecken sowie die Sorge um die Erreichung dieser Zwecke erst hervorgebracht werden. Subjek- tive Bildungsansprüche werden so durch Bildungsberatungsformate präfor- miert. Weiterbildungswiderstand (Holzer 2017) gegenüber diesen Praxen der Präformation von Erfahrung durch Beratung müsste sich, in Anlehnung an Foucaults Kritikbegriff (Foucault 1992: 8), auf das Bemühen oder die Kunst, nicht dermaßen beraten zu werden konzentrieren. Auch Bildungsberatung kommt demgemäß nicht umhin, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen."
+      },
+      {
+        "rank": 5,
+        "id": "87bcb8991073ac7ab967823cc877e15c34aa4751f3bd351d0157f1b9d10e8cd0",
+        "score": 0.195425346493721,
+        "meta": {
+          "file_path": "9783847412304_chapter_0724.txt",
+          "source_id": "da7eecc117046683d97ef3c78695fb930878b5ba107aa905aa521f2f5dd95089",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4634,
+          "_split_overlap": [
+            {
+              "doc_id": "e9dccadc390032c3f8c2628f01b50cbbefc42026e07175326e8966f49199e776",
+              "range": [
+                1107,
+                1489
+              ]
+            }
+          ]
+        },
+        "content": "zu erreichenden Norm unterstellt wird – in diesem Fall zur Norm des bildenden Reisens. Der darin postulierten „Gefahr“ des falschen Gebrauchs individuellen Mobilitäts- potentials wird in der Apodemik durch Schilderungen des einübbaren den Bildungsnormen entsprechenden Reisens beigekommen. Anhand von Apodemiken lassen sich so Mechanismen der Unterweisung im richtigen Gebrauch des subjektiven Umgangs mit den je eigenen Mobili- tätspotentialen herausstellen. Apodemiken können dementsprechend als be- ratende Hilfestellung für Reisende begriffen werden, mit welchen diese im sozial angemessenen Umgang mit den ihnen eigenen Kräften der Bildung qua Bewegung geschult werden (vgl. Zick 2015: 85)."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0725.txt",
+    "question": "Welche Unterschiede bestehen zwischen der Apodemik und der europäischen Mobilitätspolitik hinsichtlich der Beratungsmomente?",
+    "answer": "Die Apodemik und die europäische Mobilitätspolitik unterscheiden sich in Bezug auf die Beratungsmomente. Während die Apodemik eine direkte Beratung von Reisenden beinhaltet, die durch die Lektüre der Apodemik geschult werden sollen, wird die Beratung in der europäischen Mobilitätspolitik zunächst nicht direkt mit den zu beratenden Personen stattfinden. Stattdessen werden die Mobilitätsziele und -ziele durch die Politik gesteckt, und die Personen werden danach adressiert. Die Apodemik dient als beratende Hilfestellung für Reisende, um sie im richtigen Gebrauch des subjektiven Umgangs mit ihren eigenen Mobilitätspotentialen zu schulen, während die europäische Mobilitätspolitik eher durch permanente Hinweise auf das Richtige wirkt und den Umgang mit subjektiven Mobilitätspotentialen in Beratungsformaten stark von sozialen Konstruktionen von Selbst- und Fremdbestimmung abhängig macht.",
+    "expected": "Während in der Apodemik die richtige Auslegung von Bewegung disziplinierend in die Körper eingeschrieben wurde, agiert die EU-Mobilitätspolitik subtiler durch permanentes Hinweisen auf das Richtige statt durch konkretes Unterweisen. Dies entspricht Strategien eines neoliberalen, sanften Führens.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+        "score": 0.9891841411590576,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "5. (Europäische) Apodemiken heute, oder: Wie weiter mit Beratung? Auch wenn von Apodemiken heutzutage keine Antwort mehr auf das Problem der sich um ihre Mobilität sorgenden Subjekte zu erwarten ist, kann nicht davon ausgegangen werden, dass diese Frage mit dem Ableben der Apodemik verschwunden ist. Im Gegenteil: Unter Vorzeichen eines sich vergrößernden Mobilitätsaufkommens, einer tendenziellen Omnipräsenz des Mobilitätsimperativs (vgl. Pongratz 2003: 149) sowie einer enorm gesteigerten Bedeutung von Mobilität im Rahmen formalisierter Bildungswege (vgl. Liesner 2008) stellt sich das Problem umso dringender. Vor allem im Rahmen der Mobilitätspolitik der EU, innerhalb welcher Bildungsreisebewegungen als learning mobility bzw. Mobilität zu Lernzwe- cken auftreten, lässt sich eine postmoderne Nachfolgerin apodemischen Wir- kens identifizieren. Auch hier handelt es sich um einen informellen Bera- tungskontext, innerhalb dessen die zu Beratenden jedoch nur nachgelagert adressiert werden. Di"
+      },
+      {
+        "rank": 2,
+        "id": "741337fae36baedea8bf8bde2a1e6fdfb59540ae5f9722b491ae40ba26e02e64",
+        "score": 0.9400002956390381,
+        "meta": {
+          "file_path": "9783847412304_chapter_0724.txt",
+          "source_id": "da7eecc117046683d97ef3c78695fb930878b5ba107aa905aa521f2f5dd95089",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "16ceeccba2409d4ec8ffd01d3349450b4a37a37d7937ff217d60fa46928f0e5e",
+              "range": [
+                0,
+                427
+              ]
+            }
+          ]
+        },
+        "content": "4. Apodemiken – Kunstlehren des richtigen Reisens Um einen Einblick in Modi der Adressierung und Beratung von Reisenden zu ermöglichen, wird im Folgenden das historische Phänomen der Apodemiken vorgestellt. Diese bezeichnen eine literarische Gattung, welche im Ende des 16. Jahrhunderts entstand. Apodemiken stellten reisespezifische Formen von Ratgeberliteratur dar, deren Lektüre Reisende im „richtigen“ Erfahren von Unbekanntem schulten (vgl. Stagl 2002). Auch wenn die Apodemik mit der Zunahme touristischen Reisens und der Popularisierung von massenmedial produzierten Reiseführern im 19. Jahrhundert wieder verschwand, liefert sie dennoch einen Zugang zur Bear- beitung der Frage von Ratsuchen und Beratungen rund um das Thema Bil- dungsreise. Apodemiken unterscheiden sich stark von dem, was heute unter Reisefüh- rern verstanden wird. Sie widmen sich primär der Schilderung und Anwei- sung davon, wie Subjekte reisen und die Fremdheitserfahrungen einordnen sollen (vgl. Stagl 1983: 7). Das Ve"
+      },
+      {
+        "rank": 3,
+        "id": "87bcb8991073ac7ab967823cc877e15c34aa4751f3bd351d0157f1b9d10e8cd0",
+        "score": 0.9143745303153992,
+        "meta": {
+          "file_path": "9783847412304_chapter_0724.txt",
+          "source_id": "da7eecc117046683d97ef3c78695fb930878b5ba107aa905aa521f2f5dd95089",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4634,
+          "_split_overlap": [
+            {
+              "doc_id": "e9dccadc390032c3f8c2628f01b50cbbefc42026e07175326e8966f49199e776",
+              "range": [
+                1107,
+                1489
+              ]
+            }
+          ]
+        },
+        "content": "zu erreichenden Norm unterstellt wird – in diesem Fall zur Norm des bildenden Reisens. Der darin postulierten „Gefahr“ des falschen Gebrauchs individuellen Mobilitäts- potentials wird in der Apodemik durch Schilderungen des einübbaren den Bildungsnormen entsprechenden Reisens beigekommen. Anhand von Apodemiken lassen sich so Mechanismen der Unterweisung im richtigen Gebrauch des subjektiven Umgangs mit den je eigenen Mobili- tätspotentialen herausstellen. Apodemiken können dementsprechend als be- ratende Hilfestellung für Reisende begriffen werden, mit welchen diese im sozial angemessenen Umgang mit den ihnen eigenen Kräften der Bildung qua Bewegung geschult werden (vgl. Zick 2015: 85)."
+      },
+      {
+        "rank": 4,
+        "id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+        "score": 0.9090039134025574,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                1188,
+                1572
+              ]
+            },
+            {
+              "doc_id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "in die sich bildenden Körper eingeschrieben wurde, agiert das gouvernementale Führen im Rahmen der EU-Mobilitätspolitik subtiler. Der Imperativ der Mobilität erfährt seine Wirksamkeit eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen, was sich als anschlussfähig an Strategien des neoliberalen, sanften Führens zeigt (Bröckling 2017). Der Umgang mit subjektiven Mobilitätspotentialen in Beratungsformaten lässt sich so machttheoretisch als stark von differenten sozialen Konstruktionen von Selbst- und Fremdbestimmung abhängig be- schreiben. Es zeigt sich, abschließend, dass soziale Adressierungsformen von Be- ratung in unterschiedlichen historischen Kontexten beträchtlich differieren. Dies gilt sowohl für die Suche nach Rat, welche historisch möglich wird, als auch für die Angebotsstruktur von Beratung. Dabei offenbart sich ein Verhält- nis von Ratsuche und Ratgabe, in dem nicht davon ausgegangen werden kann, dass Beratungsangebote den Artikulati"
+      },
+      {
+        "rank": 5,
+        "id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+        "score": 0.8547108173370361,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3510,
+          "_split_overlap": [
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                1172,
+                1569
+              ]
+            }
+          ]
+        },
+        "content": "sowie die Om- nipräsenz von Mobilitätsangeboten können auch als Anlässe betrachtet wer- den, durch welche das Bedürfnis nach Mobilität zu Lernzwecken sowie die Sorge um die Erreichung dieser Zwecke erst hervorgebracht werden. Subjek- tive Bildungsansprüche werden so durch Bildungsberatungsformate präfor- miert. Weiterbildungswiderstand (Holzer 2017) gegenüber diesen Praxen der Präformation von Erfahrung durch Beratung müsste sich, in Anlehnung an Foucaults Kritikbegriff (Foucault 1992: 8), auf das Bemühen oder die Kunst, nicht dermaßen beraten zu werden konzentrieren. Auch Bildungsberatung kommt demgemäß nicht umhin, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0725.txt",
+    "question": "Wie wirkt sich der Mobilitätsimperativ im Rahmen der EU-Mobilitätspolitik auf die Adressierten aus, und welche Machtmechanismen sind hierbei relevant?",
+    "answer": "Der Mobilitätsimperativ im Rahmen der EU-Mobilitätspolitik wirkt sich auf die Adressierten subtiler aus, indem er durch permanente Hinweise auf das Richtige und nicht durch konkretes Unterweisen im Richtigen wirkt. Dieser Imperativ ist anschlussfähig an Strategien des neoliberalen, sanften Führens. Die Machtmechanismen, die hierbei relevant sind, sind die sozialen Konstruktionen von Selbst- und Fremdbestimmung, die subjektiven Mobilitätspotentialen in Beratungsformaten zugeschrieben werden. Diese Mechanismen sind maßgeblich für die Präformation von Erfahrung durch Beratung und die Präformierung von subjektiven Bildungsansprüchen. Der Widerstand gegen diese Praxen der Präformation von Erfahrung durch Beratung sollte sich auf das Bemühen oder die Kunst konzentrieren, nicht dermaßen beraten zu werden. Die Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung ist für Bildungsberatung nicht umhin zu nehmen.",
+    "expected": "Der Mobilitätsimperativ wirkt nicht direkt durch unmittelbare Interaktion, sondern durch subtile Hinweise auf das Richtige, was als sanftes, neoliberales Führen verstanden wird. Die Machtmechanismen sind abhängig von sozialen Konstruktionen von Selbst- und Fremdbestimmung, wodurch die Beratungsmomente differenziert und indirekt wirksam sind.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+        "score": 0.9964795708656311,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                1188,
+                1572
+              ]
+            },
+            {
+              "doc_id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "in die sich bildenden Körper eingeschrieben wurde, agiert das gouvernementale Führen im Rahmen der EU-Mobilitätspolitik subtiler. Der Imperativ der Mobilität erfährt seine Wirksamkeit eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen, was sich als anschlussfähig an Strategien des neoliberalen, sanften Führens zeigt (Bröckling 2017). Der Umgang mit subjektiven Mobilitätspotentialen in Beratungsformaten lässt sich so machttheoretisch als stark von differenten sozialen Konstruktionen von Selbst- und Fremdbestimmung abhängig be- schreiben. Es zeigt sich, abschließend, dass soziale Adressierungsformen von Be- ratung in unterschiedlichen historischen Kontexten beträchtlich differieren. Dies gilt sowohl für die Suche nach Rat, welche historisch möglich wird, als auch für die Angebotsstruktur von Beratung. Dabei offenbart sich ein Verhält- nis von Ratsuche und Ratgabe, in dem nicht davon ausgegangen werden kann, dass Beratungsangebote den Artikulati"
+      },
+      {
+        "rank": 2,
+        "id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+        "score": 0.9701066017150879,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "5. (Europäische) Apodemiken heute, oder: Wie weiter mit Beratung? Auch wenn von Apodemiken heutzutage keine Antwort mehr auf das Problem der sich um ihre Mobilität sorgenden Subjekte zu erwarten ist, kann nicht davon ausgegangen werden, dass diese Frage mit dem Ableben der Apodemik verschwunden ist. Im Gegenteil: Unter Vorzeichen eines sich vergrößernden Mobilitätsaufkommens, einer tendenziellen Omnipräsenz des Mobilitätsimperativs (vgl. Pongratz 2003: 149) sowie einer enorm gesteigerten Bedeutung von Mobilität im Rahmen formalisierter Bildungswege (vgl. Liesner 2008) stellt sich das Problem umso dringender. Vor allem im Rahmen der Mobilitätspolitik der EU, innerhalb welcher Bildungsreisebewegungen als learning mobility bzw. Mobilität zu Lernzwe- cken auftreten, lässt sich eine postmoderne Nachfolgerin apodemischen Wir- kens identifizieren. Auch hier handelt es sich um einen informellen Bera- tungskontext, innerhalb dessen die zu Beratenden jedoch nur nachgelagert adressiert werden. Di"
+      },
+      {
+        "rank": 3,
+        "id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+        "score": 0.949783205986023,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1150,
+          "_split_overlap": [
+            {
+              "doc_id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+              "range": [
+                1150,
+                1545
+              ]
+            },
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "„Mobilität zu Lernzwecken“ verdeutlicht zunächst, dass eben nicht alle Bewegungen den angestrebten Zwecken dienlich sind, was eine definitorische Rahmung der Mobilitäten notwendig macht, innerhalb de- rer sich anerkennungsfähige und förderfähige Bildungsbewegungen abspie- len können: „Die Mobilität zu Lernzwecken – also ein Auslandsaufenthalt mit dem Ziel, neues Wissen sowie neue Fähigkeiten und Kompetenzen zu erwerben – ist eine der grundlegenden Mög- lichkeiten, mit denen junge Menschen ihre künftige Beschäftigungsfähigkeit erhöhen, ihr interkulturelles Bewusstsein und ihre persönliche Entwicklung voranbringen sowie ihre Kreativität und ihren Bürgersinn stärken können. Europäer, die als junge Lernende mobil sind, sind zumeist auch später im Arbeitsleben mobil.“ (Amtsblatt der Europäischen Union 2011/C 199/01: 1) gefährden nicht nur die Wettbewerbsfähigkeit Europas und seiner National- staaten, sondern auch ihre eigene“ (Liesner 2006, 175). Vergleicht man europäische Mobilitätspolitik"
+      },
+      {
+        "rank": 4,
+        "id": "87bcb8991073ac7ab967823cc877e15c34aa4751f3bd351d0157f1b9d10e8cd0",
+        "score": 0.16949322819709778,
+        "meta": {
+          "file_path": "9783847412304_chapter_0724.txt",
+          "source_id": "da7eecc117046683d97ef3c78695fb930878b5ba107aa905aa521f2f5dd95089",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4634,
+          "_split_overlap": [
+            {
+              "doc_id": "e9dccadc390032c3f8c2628f01b50cbbefc42026e07175326e8966f49199e776",
+              "range": [
+                1107,
+                1489
+              ]
+            }
+          ]
+        },
+        "content": "zu erreichenden Norm unterstellt wird – in diesem Fall zur Norm des bildenden Reisens. Der darin postulierten „Gefahr“ des falschen Gebrauchs individuellen Mobilitäts- potentials wird in der Apodemik durch Schilderungen des einübbaren den Bildungsnormen entsprechenden Reisens beigekommen. Anhand von Apodemiken lassen sich so Mechanismen der Unterweisung im richtigen Gebrauch des subjektiven Umgangs mit den je eigenen Mobili- tätspotentialen herausstellen. Apodemiken können dementsprechend als be- ratende Hilfestellung für Reisende begriffen werden, mit welchen diese im sozial angemessenen Umgang mit den ihnen eigenen Kräften der Bildung qua Bewegung geschult werden (vgl. Zick 2015: 85)."
+      },
+      {
+        "rank": 5,
+        "id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+        "score": 0.14452633261680603,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3510,
+          "_split_overlap": [
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                1172,
+                1569
+              ]
+            }
+          ]
+        },
+        "content": "sowie die Om- nipräsenz von Mobilitätsangeboten können auch als Anlässe betrachtet wer- den, durch welche das Bedürfnis nach Mobilität zu Lernzwecken sowie die Sorge um die Erreichung dieser Zwecke erst hervorgebracht werden. Subjek- tive Bildungsansprüche werden so durch Bildungsberatungsformate präfor- miert. Weiterbildungswiderstand (Holzer 2017) gegenüber diesen Praxen der Präformation von Erfahrung durch Beratung müsste sich, in Anlehnung an Foucaults Kritikbegriff (Foucault 1992: 8), auf das Bemühen oder die Kunst, nicht dermaßen beraten zu werden konzentrieren. Auch Bildungsberatung kommt demgemäß nicht umhin, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0725.txt",
+    "question": "Warum ist das Thema Mobilität trotz des Verschwindens der Apodemik heute noch von großer Bedeutung?",
+    "answer": "Unter Vorzeichen eines sich vergrößernden Mobilitätsaufkommens, einer tendenziellen Omnipräsenz des Mobilitätsimperativs sowie einer enorm gesteigerten Bedeutung von Mobilität im Rahmen formalisierter Bildungswege stellt sich das Problem umso dringender. Die Europäische Union fördert Mobilität zu Lernzwecken, was bedeutet, dass junge Menschen ihre künftige Beschäftigungsfähigkeit erhöhen, ihr interkulturelles Bewusstsein und ihre persönliche Entwicklung voranbringen können. Daher ist das Thema Mobilität noch heute von großer Bedeutung, da es eine grundlegende Möglichkeit für junge Menschen ist, sich zu entwickeln und ihre Zukunft zu sichern.",
+    "expected": "Weil das Mobilitätsaufkommen zunimmt, Mobilität im Bildungskontext an Bedeutung gewinnt und der Mobilitätsimperativ omnipräsent ist, bleibt die Frage nach der richtigen Gestaltung und Beratung von Mobilität relevant, insbesondere im Rahmen der EU-Mobilitätspolitik, die Bildungsbewegungen fördert und damit neue Herausforderungen schafft.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+        "score": 0.9636551141738892,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "5. (Europäische) Apodemiken heute, oder: Wie weiter mit Beratung? Auch wenn von Apodemiken heutzutage keine Antwort mehr auf das Problem der sich um ihre Mobilität sorgenden Subjekte zu erwarten ist, kann nicht davon ausgegangen werden, dass diese Frage mit dem Ableben der Apodemik verschwunden ist. Im Gegenteil: Unter Vorzeichen eines sich vergrößernden Mobilitätsaufkommens, einer tendenziellen Omnipräsenz des Mobilitätsimperativs (vgl. Pongratz 2003: 149) sowie einer enorm gesteigerten Bedeutung von Mobilität im Rahmen formalisierter Bildungswege (vgl. Liesner 2008) stellt sich das Problem umso dringender. Vor allem im Rahmen der Mobilitätspolitik der EU, innerhalb welcher Bildungsreisebewegungen als learning mobility bzw. Mobilität zu Lernzwe- cken auftreten, lässt sich eine postmoderne Nachfolgerin apodemischen Wir- kens identifizieren. Auch hier handelt es sich um einen informellen Bera- tungskontext, innerhalb dessen die zu Beratenden jedoch nur nachgelagert adressiert werden. Di"
+      },
+      {
+        "rank": 2,
+        "id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+        "score": 0.8818070888519287,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1150,
+          "_split_overlap": [
+            {
+              "doc_id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+              "range": [
+                1150,
+                1545
+              ]
+            },
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "„Mobilität zu Lernzwecken“ verdeutlicht zunächst, dass eben nicht alle Bewegungen den angestrebten Zwecken dienlich sind, was eine definitorische Rahmung der Mobilitäten notwendig macht, innerhalb de- rer sich anerkennungsfähige und förderfähige Bildungsbewegungen abspie- len können: „Die Mobilität zu Lernzwecken – also ein Auslandsaufenthalt mit dem Ziel, neues Wissen sowie neue Fähigkeiten und Kompetenzen zu erwerben – ist eine der grundlegenden Mög- lichkeiten, mit denen junge Menschen ihre künftige Beschäftigungsfähigkeit erhöhen, ihr interkulturelles Bewusstsein und ihre persönliche Entwicklung voranbringen sowie ihre Kreativität und ihren Bürgersinn stärken können. Europäer, die als junge Lernende mobil sind, sind zumeist auch später im Arbeitsleben mobil.“ (Amtsblatt der Europäischen Union 2011/C 199/01: 1) gefährden nicht nur die Wettbewerbsfähigkeit Europas und seiner National- staaten, sondern auch ihre eigene“ (Liesner 2006, 175). Vergleicht man europäische Mobilitätspolitik"
+      },
+      {
+        "rank": 3,
+        "id": "87bcb8991073ac7ab967823cc877e15c34aa4751f3bd351d0157f1b9d10e8cd0",
+        "score": 0.8736664652824402,
+        "meta": {
+          "file_path": "9783847412304_chapter_0724.txt",
+          "source_id": "da7eecc117046683d97ef3c78695fb930878b5ba107aa905aa521f2f5dd95089",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4634,
+          "_split_overlap": [
+            {
+              "doc_id": "e9dccadc390032c3f8c2628f01b50cbbefc42026e07175326e8966f49199e776",
+              "range": [
+                1107,
+                1489
+              ]
+            }
+          ]
+        },
+        "content": "zu erreichenden Norm unterstellt wird – in diesem Fall zur Norm des bildenden Reisens. Der darin postulierten „Gefahr“ des falschen Gebrauchs individuellen Mobilitäts- potentials wird in der Apodemik durch Schilderungen des einübbaren den Bildungsnormen entsprechenden Reisens beigekommen. Anhand von Apodemiken lassen sich so Mechanismen der Unterweisung im richtigen Gebrauch des subjektiven Umgangs mit den je eigenen Mobili- tätspotentialen herausstellen. Apodemiken können dementsprechend als be- ratende Hilfestellung für Reisende begriffen werden, mit welchen diese im sozial angemessenen Umgang mit den ihnen eigenen Kräften der Bildung qua Bewegung geschult werden (vgl. Zick 2015: 85)."
+      },
+      {
+        "rank": 4,
+        "id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+        "score": 0.8566752076148987,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                1188,
+                1572
+              ]
+            },
+            {
+              "doc_id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "in die sich bildenden Körper eingeschrieben wurde, agiert das gouvernementale Führen im Rahmen der EU-Mobilitätspolitik subtiler. Der Imperativ der Mobilität erfährt seine Wirksamkeit eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen, was sich als anschlussfähig an Strategien des neoliberalen, sanften Führens zeigt (Bröckling 2017). Der Umgang mit subjektiven Mobilitätspotentialen in Beratungsformaten lässt sich so machttheoretisch als stark von differenten sozialen Konstruktionen von Selbst- und Fremdbestimmung abhängig be- schreiben. Es zeigt sich, abschließend, dass soziale Adressierungsformen von Be- ratung in unterschiedlichen historischen Kontexten beträchtlich differieren. Dies gilt sowohl für die Suche nach Rat, welche historisch möglich wird, als auch für die Angebotsstruktur von Beratung. Dabei offenbart sich ein Verhält- nis von Ratsuche und Ratgabe, in dem nicht davon ausgegangen werden kann, dass Beratungsangebote den Artikulati"
+      },
+      {
+        "rank": 5,
+        "id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+        "score": 0.5618243217468262,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3510,
+          "_split_overlap": [
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                1172,
+                1569
+              ]
+            }
+          ]
+        },
+        "content": "sowie die Om- nipräsenz von Mobilitätsangeboten können auch als Anlässe betrachtet wer- den, durch welche das Bedürfnis nach Mobilität zu Lernzwecken sowie die Sorge um die Erreichung dieser Zwecke erst hervorgebracht werden. Subjek- tive Bildungsansprüche werden so durch Bildungsberatungsformate präfor- miert. Weiterbildungswiderstand (Holzer 2017) gegenüber diesen Praxen der Präformation von Erfahrung durch Beratung müsste sich, in Anlehnung an Foucaults Kritikbegriff (Foucault 1992: 8), auf das Bemühen oder die Kunst, nicht dermaßen beraten zu werden konzentrieren. Auch Bildungsberatung kommt demgemäß nicht umhin, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0725.txt",
+    "question": "Inwiefern lässt sich die heutige Mobilitätspolitik als eine postmoderne Nachfolgerin der Apodemik verstehen?",
+    "answer": "Die heutige Mobilitätspolitik lässt sich als eine postmoderne Nachfolgerin der Apodemik verstehen, da sie ähnliche Mechanismen der Beratung und Disziplinierung verwendet, um die Mobilität der Individuen zu steuern. Während die Apodemik die richtige Auslegung von Bewegung disziplinierend in die sich bildenden Körper eingeschrieben hatte, agiert das gouvernementale Führen im Rahmen der EU-Mobilitätspolitik subtiler, indem es permanent Hinweise auf das Richtige gibt, anstatt konkretes Unterweisen im Richtigen zu bieten. Dieser Imperativ der Mobilität erfährt seine Wirksamkeit eher durch die Omnipräsenz von Mobilitätsangeboten und die Evokation von Sorge, als durch die direkte Beratung der Individuen. Die Mobilitätspolitik präformiert so die subjektiven Bildungsansprüche durch Bildungsberatungsformate und kann als eine Form der Präformation von Erfahrung durch Beratung betrachtet werden. Der Weiterbildungswiderstand gegen diese Praxen sollte sich auf die Kunst, nicht dermaßen beraten zu werden, konzentrieren, um die Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen. \nI cannot find the answer in the provided context.  However, based on the text, it appears that the author is suggesting that the current European Union's (EU) mobility policy can be seen as a postmodern successor to the apodemik. The apodemik was a system of guidance that was used in the past to help individuals navigate their travels and education, while the EU's mobility policy is a more subtle and pervasive form of guidance that encourages individuals to engage in mobility for educational purposes. The author argues that both systems share similarities in their mechanisms of guidance and discipline, and that the EU's mobility policy can be seen as a postmodern iteration of the apodemik's approach to guidance and discipline.  Therefore, the answer could be that the current EU's mobility policy is a postmodern successor to the apodemik, but this is not explicitly stated in the text.",
+    "expected": "Die heutige Mobilitätspolitik übernimmt den informellen Beratungskontext der Apodemik, adressiert die Beratenden jedoch nur nachgelagert und setzt auf subtilere, neoliberale Führungsstrategien statt disziplinierende Maßnahmen. Sie rahmt Mobilität zu Lernzwecken definitorisch ein und steuert so das Verhalten der Subjekte indirekt, was eine Weiterentwicklung apodemischer Wirkungsweisen darstellt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+        "score": 0.9971787929534912,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2338,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                1188,
+                1572
+              ]
+            },
+            {
+              "doc_id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "in die sich bildenden Körper eingeschrieben wurde, agiert das gouvernementale Führen im Rahmen der EU-Mobilitätspolitik subtiler. Der Imperativ der Mobilität erfährt seine Wirksamkeit eher durch permanentes Hinweisen auf das Richtige als durch konkretes Unterweisen im Richtigen, was sich als anschlussfähig an Strategien des neoliberalen, sanften Führens zeigt (Bröckling 2017). Der Umgang mit subjektiven Mobilitätspotentialen in Beratungsformaten lässt sich so machttheoretisch als stark von differenten sozialen Konstruktionen von Selbst- und Fremdbestimmung abhängig be- schreiben. Es zeigt sich, abschließend, dass soziale Adressierungsformen von Be- ratung in unterschiedlichen historischen Kontexten beträchtlich differieren. Dies gilt sowohl für die Suche nach Rat, welche historisch möglich wird, als auch für die Angebotsstruktur von Beratung. Dabei offenbart sich ein Verhält- nis von Ratsuche und Ratgabe, in dem nicht davon ausgegangen werden kann, dass Beratungsangebote den Artikulati"
+      },
+      {
+        "rank": 2,
+        "id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+        "score": 0.9955077171325684,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+              "range": [
+                0,
+                395
+              ]
+            }
+          ]
+        },
+        "content": "5. (Europäische) Apodemiken heute, oder: Wie weiter mit Beratung? Auch wenn von Apodemiken heutzutage keine Antwort mehr auf das Problem der sich um ihre Mobilität sorgenden Subjekte zu erwarten ist, kann nicht davon ausgegangen werden, dass diese Frage mit dem Ableben der Apodemik verschwunden ist. Im Gegenteil: Unter Vorzeichen eines sich vergrößernden Mobilitätsaufkommens, einer tendenziellen Omnipräsenz des Mobilitätsimperativs (vgl. Pongratz 2003: 149) sowie einer enorm gesteigerten Bedeutung von Mobilität im Rahmen formalisierter Bildungswege (vgl. Liesner 2008) stellt sich das Problem umso dringender. Vor allem im Rahmen der Mobilitätspolitik der EU, innerhalb welcher Bildungsreisebewegungen als learning mobility bzw. Mobilität zu Lernzwe- cken auftreten, lässt sich eine postmoderne Nachfolgerin apodemischen Wir- kens identifizieren. Auch hier handelt es sich um einen informellen Bera- tungskontext, innerhalb dessen die zu Beratenden jedoch nur nachgelagert adressiert werden. Di"
+      },
+      {
+        "rank": 3,
+        "id": "20eba8e7b1b2e33a34a0af4c354e19f9192f14576632232e266bf9e8743a4f2a",
+        "score": 0.9929693341255188,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1150,
+          "_split_overlap": [
+            {
+              "doc_id": "a8a02962f4c4947ba1b763a02170dc0f69ed8b2510be2de004029f598d5336f6",
+              "range": [
+                1150,
+                1545
+              ]
+            },
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                0,
+                384
+              ]
+            }
+          ]
+        },
+        "content": "„Mobilität zu Lernzwecken“ verdeutlicht zunächst, dass eben nicht alle Bewegungen den angestrebten Zwecken dienlich sind, was eine definitorische Rahmung der Mobilitäten notwendig macht, innerhalb de- rer sich anerkennungsfähige und förderfähige Bildungsbewegungen abspie- len können: „Die Mobilität zu Lernzwecken – also ein Auslandsaufenthalt mit dem Ziel, neues Wissen sowie neue Fähigkeiten und Kompetenzen zu erwerben – ist eine der grundlegenden Mög- lichkeiten, mit denen junge Menschen ihre künftige Beschäftigungsfähigkeit erhöhen, ihr interkulturelles Bewusstsein und ihre persönliche Entwicklung voranbringen sowie ihre Kreativität und ihren Bürgersinn stärken können. Europäer, die als junge Lernende mobil sind, sind zumeist auch später im Arbeitsleben mobil.“ (Amtsblatt der Europäischen Union 2011/C 199/01: 1) gefährden nicht nur die Wettbewerbsfähigkeit Europas und seiner National- staaten, sondern auch ihre eigene“ (Liesner 2006, 175). Vergleicht man europäische Mobilitätspolitik"
+      },
+      {
+        "rank": 4,
+        "id": "98c94b33f584dc29dea87863bcee52a66186c037f196a547b4b0a21859e5cc41",
+        "score": 0.9928323030471802,
+        "meta": {
+          "file_path": "9783847412304_chapter_0725.txt",
+          "source_id": "05aab32b151f59132c0570ed44ede2c5148b668228979e6d908b17725dd86c8e",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3510,
+          "_split_overlap": [
+            {
+              "doc_id": "531a0f10c889ac2954c038ffcd2a9f100147146c1dc1807e256af6097ce51fbd",
+              "range": [
+                1172,
+                1569
+              ]
+            }
+          ]
+        },
+        "content": "sowie die Om- nipräsenz von Mobilitätsangeboten können auch als Anlässe betrachtet wer- den, durch welche das Bedürfnis nach Mobilität zu Lernzwecken sowie die Sorge um die Erreichung dieser Zwecke erst hervorgebracht werden. Subjek- tive Bildungsansprüche werden so durch Bildungsberatungsformate präfor- miert. Weiterbildungswiderstand (Holzer 2017) gegenüber diesen Praxen der Präformation von Erfahrung durch Beratung müsste sich, in Anlehnung an Foucaults Kritikbegriff (Foucault 1992: 8), auf das Bemühen oder die Kunst, nicht dermaßen beraten zu werden konzentrieren. Auch Bildungsberatung kommt demgemäß nicht umhin, ihre Involviertheit in das Zusammenspiel der Evokation von Sorge und ihrer Bearbeitung reflexiv aufzunehmen."
+      },
+      {
+        "rank": 5,
+        "id": "e9dccadc390032c3f8c2628f01b50cbbefc42026e07175326e8966f49199e776",
+        "score": 0.9860638380050659,
+        "meta": {
+          "file_path": "9783847412304_chapter_0724.txt",
+          "source_id": "da7eecc117046683d97ef3c78695fb930878b5ba107aa905aa521f2f5dd95089",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3527,
+          "_split_overlap": [
+            {
+              "doc_id": "c5d9351ee6099b26756a0728209d1de4294189c7198920c391171e066da5beee",
+              "range": [
+                1231,
+                1592
+              ]
+            },
+            {
+              "doc_id": "87bcb8991073ac7ab967823cc877e15c34aa4751f3bd351d0157f1b9d10e8cd0",
+              "range": [
+                0,
+                382
+              ]
+            }
+          ]
+        },
+        "content": "für das Befolgen des Rats stellt die Apodemik den potentiell Rei- senden in Form einer erhöhten Sicherheit der Anerkennungsfähigkeit des subjektiven Bildungsreisens bereit. Apodemiken bildeten zu ihrer Zeit den sozialen Standard der von Bildungsreisenden zu erwartenden Leistung ab und konnten als Beratungsinstanz auf die sich um ihre Bildung sorgenden Reise- subjekte einwirken. Die Mechanismen, mit welchen Apodemiken ihre Wirkung entfalteten, lassen sich machttheoretisch in Anlehnung an Foucault über den Begriff der Disziplin reflektieren (vgl. Foucault 1976). Diese richtet sich auf die Steige- rung des produktiven Vermögens von Individuen. Die Machttechnik der Dis- ziplin installiert dabei „ein Regime minutiöser Reglementierungen und fort- währenden Übens“ (Bröckling 2017: 176). Wie die Apodemik überlässt die Disziplin nichts dem Zufall, indem sie „die Zeit, den Raum, die Bewegungen bis ins Kleinste codiert“ (Foucault 1976: 175). Beratung wirkt dabei insofern individualisierend, als d"
+      }
+    ]
+  }
+]

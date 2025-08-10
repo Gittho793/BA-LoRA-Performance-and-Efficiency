@@ -1,0 +1,669 @@
+[
+  {
+    "filename": "9783847412304_chapter_0935.txt",
+    "question": "Welche zwei zeitlichen Perspektiven werden in der Analyse der Beratungsanlässe unterschieden?",
+    "answer": "Die zwei zeitlichen Perspektiven, die in der Analyse der Beratungsanlässe unterschieden werden, sind:\n        1.  Die langfristigen Wirkungen auf gesellschaftlicher und rechtlicher Ebene.\n        2.  Die zeitlich begrenzte Intervention. \n        Diese Perspektiven werden in der Analyse der Beratungsanlässe berücksichtigt, um die Effektivität und den Erfolg der Beratungsprozesse zu bewerten.",
+    "expected": "Es werden Beratungsanlässe mit Bezug auf die biographische Vergangenheit (retrospektiv-kompensatorisch) und solche mit Bezug auf die biographische Zukunft (prospektiv-teleologisch) unterschieden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+        "score": 0.9884612560272217,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Beratungstheoretische Perspektive Zur Analyse der empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg­ liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor­ mellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf­ gabe oder als formales eigenständiges Beratungsangebot beschrieben wer­ den (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An­ gebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting kann es s"
+      },
+      {
+        "rank": 2,
+        "id": "7c0e852ea304127c8a636303485deac39ed07e468f4e213cdfd7bd568771792f",
+        "score": 0.9790167212486267,
+        "meta": {
+          "file_path": "9783839444856_chapter_07411.txt",
+          "source_id": "25e1a45ebc51d8e50bf54793bbf5e41a3d88b0daf65384aa9e463bf4aee5ab63",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8278,
+          "_split_overlap": [
+            {
+              "doc_id": "d1c4d571f9547049b786b0efc210233ccdb2aaf0dd42ec9c8ed845977593df22",
+              "range": [
+                1009,
+                1410
+              ]
+            },
+            {
+              "doc_id": "df761fd18f527ba656d6fb272e324b5501d11cd4dc2d6d80f684139ec28107ff",
+              "range": [
+                0,
+                304
+              ]
+            }
+          ]
+        },
+        "content": "Beratung als zeitlich begrenzter Intervention und den längerfristigen Wirkungen auf gesellschaftlicher und rechtlicher Ebene. Relevante Informationen, die in der Beratung übermittelt werden, müssen nicht zwangsläufig eine positive Perspektive auf den Verlauf des Anerkennungsprozesses oder die berufliche Integration eröffnen. Es wird auch hier der Zugang der Klient_innen zu diesen Informationen und die damit verbundene Entscheidungs- und Handlungsfähigkeit in den Mittel­ punkt der Erfolgsdefinition gestellt. In ähnlicher Weise findet in einem wei­ teren Interview auch die Abgrenzung von dem extern definierten Kriterium der formalen Anerkennung statt. »Also das Ziel der Beratung ist z. B. nicht eine Anerkennung, also dass die Per­ son auf jeden Fall mit einer Anerkennung rausgeht, das können wir gar nicht leisten, das kriegen wir auch oft gar nicht mehr mit, ob die Personen das be­ kommen haben. Sondern das Ziel ist tatsächlich, dass die Person, wenn sie aus der Beratung rausgeht, sagt: "
+      },
+      {
+        "rank": 3,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.9629920125007629,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      },
+      {
+        "rank": 4,
+        "id": "ec4dd0277111efee10d569161aa79658cbb161f5e9742287aacd8ff549ebd21d",
+        "score": 0.91762775182724,
+        "meta": {
+          "file_path": "9783847412304_chapter_067.txt",
+          "source_id": "4f23c3d265b0beabd037ca35d79e8b6074cbb83946fe9f423a01e0fc2cd623ed",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2456,
+          "_split_overlap": [
+            {
+              "doc_id": "321d2e61c724abd7edde4c58cc13a4acd01287c0dfcaaebc9bf44a863e41eb94",
+              "range": [
+                1295,
+                1752
+              ]
+            }
+          ]
+        },
+        "content": "die Notwendigkeit der pädagogischen Außensteuerung entgegengesetzt wird“ (Kossack 2006, S. 184), dass die eingeforderte Symmetrisierung in der Beratungsinteraktion strukturell kaum eingelöst werden kann und der Übergang von einer defizitorientierten zu einer kompetenz- oder ressourcenorientierten Lernberatung als eine semantische Abfederung defizitärer Beratungsanlässe interpretiert werden muss (vgl. ebd.). Zudem liegen handlungstheoretische Systemati- sierungen von Lernberatungskonzepten vor (Ludwig 2016), die Lernbera- tungskonzepte nach defizitären oder subjektorientierten Ausgangspunk- ten als Grundlage des Beratungsgespräches unterscheiden. Ergänzend zu diesen vorliegenden dekonstruktiven und handlungstheoreti- schen Systematisierungen wird im Folgenden eine weitere Möglichkeit der Systematisierung vorgeschlagen, mit der in den Blick genommen werden kann, welche (manifesten und latenten) Sinnstrukturen in Lernberatungskon- zeptionen enthalten sind."
+      },
+      {
+        "rank": 5,
+        "id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+        "score": 0.8815144896507263,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12933,
+          "_split_overlap": [
+            {
+              "doc_id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+              "range": [
+                1104,
+                1495
+              ]
+            },
+            {
+              "doc_id": "720a21e474d1d982ad9e42c74276eb8280d32ec5285d3621366adce245ff53eb",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "man inzwischen von einem doppelten Bezug zwi­ schen Beratung und Erwachsenenbildung sprechen. Beratung kann seit dem ‚Shift from Teaching to Learning‘ implizit oder explizit5 selbst als Grundprin­ zip in der Begleitung von Lernprozessen angesehen werden. Damit erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können dann darunter gefasst wer­ den, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie es z.B. bei Coaching, Supervision und Mediation der Fall ist. Gleichzeitig bewegt sich die Didaktik der Erwachsenenbildung stärker auf die Integration von Beratungsprozessen zu (vgl. Gieseke 2000: 14 und Schiersmann 2015: 101).6 Es gehört zur Tradition der Erwachsenenbildung, Lehr-Lernprozesse als Begleitung von Selbstlernprozessen zu betrachten (vgl. Arnold 2010). Wir Menschen müssen uns jeden Tag auf Veränderungen und neue Situationen einstellen. Wir sind sozusagen perm"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0935.txt",
+    "question": "Wie unterscheiden sich die Beratungsanlässe im Elementarbereich hinsichtlich ihrer zeitlichen Verortung?",
+    "answer": "Die Beratungsanlässe im Elementarbereich umfassen einerseits den korrekten Umgang mit erwartungswidrigem Verhalten der Kinder in der Vergangenheit sowie andererseits den Wunsch nach Empfehlungen für die angemessene Gestaltung des perspektivisch anstehenden Übergangs der pädagogisch Anderen in den Primarbereich. Somit zeigen sich in diesem Arbeitsfeld sowohl retrospektiv-kompensatorische als auch prospektiv-teleologische Beratungsanlässe.",
+    "expected": "Im Elementarbereich beziehen sich die Beratungsanlässe einerseits auf den korrekten Umgang mit erwartungswidrigem Verhalten der Kinder in der Vergangenheit (retrospektiv-kompensatorisch) und andererseits auf Empfehlungen für den bevorstehenden Übergang der Kinder in den Primarbereich (prospektiv-teleologisch).",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f6f99228c7bc88d03347b0ff013c3cfff8065330cdc875b7c974c0a59eb5e3d4",
+        "score": 0.9931734204292297,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6053,
+          "_split_overlap": [
+            {
+              "doc_id": "16add3992f3bbaed2c26592b0ff806dadc099dbe3e06d7ca88bd561fbe63bc64",
+              "range": [
+                1278,
+                1727
+              ]
+            },
+            {
+              "doc_id": "444435c5950eb6cec332b8a5c54da2f1b2cc8b4d52cd8ee10f1d6c35335937a6",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "biographieorientierte Beratung1. In dieser Bandbreite hat die Bildungsberatung auch Überschneidungen mit Coaching, Mediation und Supervision, in denen es um die Begleitung von Entschei­ dungs- und Entwicklungsprozessen geht. Therapie und Beratung teilen Verfahrensweisen und Hintergründe. Die Beratungsansätze Personzentriert, Systemisch, Ressourcen- und Lösungsori­ entiert bilden auch den Hintergrund unterschiedlicher therapeutischer Ansät­ ze2. Sie sind in der Grafik daher sowohl bezogen auf die Beratung, als auch auf die Therapie dargestellt. Auf der anderen Seite nutzen Beratung und Therapie die gleichen Gesprächsführungstechniken (und vielfach auch Visualisierungs­ techniken). Wie sie diese einsetzen, unterscheidet sich jedoch wiederum. Schließlich können auch ähnliche methodische Ansätze verwendet werden. Da es sich bei Methoden aber immer um eine Kombination von Techniken, die Auswahl einer Schrittfolge bezogen auf anvisierte Ziele während einer be­ stimmten Phase der Beratung han"
+      },
+      {
+        "rank": 2,
+        "id": "7f88cce9cd2ecc859c9cdadb3adf40eefaffb5e8807a5ad31cb198d9908498d0",
+        "score": 0.9900074005126953,
+        "meta": {
+          "file_path": "9783847412304_chapter_0935.txt",
+          "source_id": "98f593ae3da1c68040234c9ddea2fa5decdf657f8e68b5695a2c77b3810aaec4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e0e7e8405e12e45cd8c5f72f5ee8ead6b5b0f2db3ebac9356986f919d8f93534",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "5. Zeitbezüge von Beratungsanlässen Der in der Studie verwendete Zugang zum Thema Zeit eröffnet zudem die Möglichkeit, Beratungsanlässe unter dem Aspekt der subjektiven Handlungsmotivation und der damit verbundenen zeitlichen Verortung im Horizont des Lebenslaufs zu analysieren. Dementsprechend lassen sich sowohl Temporalbezüge von Beratungsanliegen identifizieren, die sich auf die biographische Vergangenheit beziehen, als auch Zeitkontexte rekonstruieren, die auf die biographische Zukunft verweisen. Anhand des Datenmaterials der Primärstudie lassen sich diese beiden Optionen weiter präzisieren und damit die zweite Fragestellung nach den konkreten Beratungsanlässen und den damit verbundenen Zeitbezügen bearbeiten. Im Elementarbereich werden ausschließlich Beratungsanliegen der Erziehungsberechtigten thematisiert, die jedoch direkt an die biographische Entwicklung der pädagogisch Anderen gekoppelt sind. Die dabei identifizierten Anliegen umfassen einerseits den korrekten Umgang mit erwa"
+      },
+      {
+        "rank": 3,
+        "id": "6332ada52be4db7de7935a84c5b53b7792c27f785ce6d875143661b2ea4468b4",
+        "score": 0.9882142543792725,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2544,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                1283,
+                1651
+              ]
+            },
+            {
+              "doc_id": "0373a87ec5add3a866e12c3e983765d052bf037891766eb449972007bc3f838a",
+              "range": [
+                0,
+                479
+              ]
+            }
+          ]
+        },
+        "content": "ist gera­ de diese Breite des Begriffs, welche in der beratungstheoretischen Literatur immer wieder auch als Vorteil von Beratung gesehen wird. »Wenn auch Beratung aufgrund seiner semantischen Breite ein eher offe­ ner, diversifizierter und damit schwieriger Begriff ist, so verkehrt sich dieses Konturierungsproblem und dieser Profilierungsnachteil doch vor dem Hin­ tergrund gesellschaftlicher und kultureller Veränderungen in einen Vorteil« (ebd.). In der Folge weisen Engel et al. jedoch auch darauf hin, dass zahlreiche und umfangreiche Konzepte und Ansätze existieren, um Beratung zu definie­ ren und zu beschreiben. Nach Nittel (2016, S. 20) stellt Beratung »gleich für mehrere Disziplinen einen ernstzunehmenden wissenschaftlichen Gegen­ standsbereich« dar. Entsprechend werden hier unterschiedliche disziplinäre und handlungsfeldbezogene Zugänge diskutiert, welche spezifische bera­ tungstheoretische Perspektiven auf Anerkennungsberatung ermöglichen. Nicht weiter thematisiert wird die ther"
+      },
+      {
+        "rank": 4,
+        "id": "5c593f4458aa17fc49f93d1b77b17dda73bb73fd2d0f0a7fc954cd7dc4a58fee",
+        "score": 0.9758616089820862,
+        "meta": {
+          "file_path": "9783847412304_chapter_0723.txt",
+          "source_id": "f915d6d4d9c0cb0af2d60edaf21cbae4963feb786bbfec5acb2120139ef15d94",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f7620b80229103292bbc2067cd3db483a705a3416e28e83c8b96797a1eb7b189",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "3. (Reise-)Beratung und die doppelte Differenz An Beratung kommt man nur schwer vorbei. Die Zunahme und Ausweitung von Beratungsangeboten führt tendenziell dazu, dass sich Subjekte überall, jederzeit und lebenslänglich1 beraten lassen können. Beratung kann folglich betrachtet werden „als ein Schema der Kommunikation, das in allen gesell- schaftlichen Kontexten anwählbar geworden ist“ (Fuchs/Mahler 2000: 358). Was mit Beratung jedoch angewählt wird, soll im Folgenden zunächst un- ter dem Postulat einer doppelten Differenz von Beratung betrachtet werden. Dabei werde ich bei der Thematisierung von Beratung zwischen Rat und Tat (vgl. ebd.) sowie zwischen Selbst- und Fremdbestimmung (Duttweiler 2004) unterscheiden. Die Unterscheidung von Rat und Tat nähert sich dem Thema Beratung unter einer systemtheoretischen Perspektive über einen zeitlichen Abstand zwischen dem Akt der Beratung und einer nachgelagerten beratenen Tat (vgl. ebd.: 350f). Das Einholen von Rat als „Aufschub“ des Tuns geht da"
+      },
+      {
+        "rank": 5,
+        "id": "b98941a22bfe2cb79a186f0db69581ba3a9f16939b60682e444ed02fcad8f1a3",
+        "score": 0.975284218788147,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3432,
+          "_split_overlap": [
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                1247,
+                1632
+              ]
+            }
+          ]
+        },
+        "content": "(durch Unterstützung der Filetierung) nicht noch Vorschub leistet. Beratung hat u.a. auch eine gesellschaftliche Funktion (vgl. Seel, 2009:4) Die Metaperspektive von Beratung – als mikro- und makrosystemische – ist von nachhaltiger Bedeutung für die Professionalität von Beratung. Insofern ist Beratung ein Hilfekonzept, ein Hilfeprozess und gleichermaßen darauf angelegt, sich selbst in den kontextuellen Bezügen immer wieder neu zu reflektieren. Es kann nicht sein, dass die Programmatik des Veränderns auf der Klient- Berater-System-Ebene festgeschrieben ist oder nur dort ihre Gül- tigkeit zu reklamieren gedenkt. Als weitere systemische Kompetenzen von Beratung können Fähigkeiten des Beraters ausgemacht werden - vernetzt zu denken, und Wechselbeziehungen, Interdependenzen zu erkennen und im beraterischen Prozess zu nutzen - die adäquate Vernetzung mit anderen Hilfesystemen - komplexe Auftragssituationen sind zu entschlüsseln und im Prozess der Beratung immer wieder zu nutzen: - Anlass, An"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0935.txt",
+    "question": "Welche Rolle spielen negative Erfahrungen am Ausbildungsplatz in der beruflichen Bildung als Beratungsanlass?",
+    "answer": "Negative Erfahrungen am Ausbildungsplatz können als Beratungsanlass in der beruflichen Bildung eine Rolle spielen, indem sie zu einer situativen Beratung führen. Diese Art der Beratung konzentriert sich auf die aktuelle Situation des Klienten und versucht, Lösungen für die aktuellen Probleme zu finden. In diesem Zusammenhang ist es wichtig, dass die Berater_innen soziale und kommunikative Fähigkeiten besitzen, um den Klienten zu unterstützen und ihm bei der Bewältigung seiner Probleme zu helfen. Die biografieorientierte Beratung kann ebenfalls relevant sein, wenn die Erfahrungen am Ausbildungsplatz auf die gesamte Biografie des Klienten wirken und sein Berufs- und Lebensweg beeinflussen. In diesem Fall ist eine Beratung, die die gesamte Lebens- und Berufsbiografie des Klienten berücksichtigt, erforderlich, um eine fundierte Entscheidung über den weiteren Bildungsweg zu treffen. Die Anerkennungsberatung kann in diesem Zusammenhang auch eine wichtige Rolle spielen, indem sie dem Klienten hilft, seine Fähigkeiten und Erfahrungen zu erkennen und zu bewerten, und ihm dabei unterstützt, eine Entscheidung über den weiteren Bildungsweg zu treffen. \n\n         Die anderen Optionen sind nicht relevant, da sie sich nicht auf die Rolle von negativen Erfahrungen am Ausbildungsplatz als Beratungsanlass in der beruflichen Bildung beziehen. Die informative Beratung konzentriert sich auf die Weiterbildungs- und Arbeitsmarktstrukturen, die situative Beratung auf die aktuelle Situation des Klienten und die biografieorientierte Beratung auf die gesamte Lebens- und Berufsbiografie des Klienten. Anerkennungsberatung ist ein spezifischer Beratungstyp, der sich auf die Anerkennung von Fähigkeiten und Erfahrungen konzentriert. \n\n         Die richtige Antwort ist also diejenige, die sich auf die Rolle von negativen Erfahrungen am Ausbildungsplatz als Beratungsanlass in der beruflichen Bildung bezieht und die notwendigen Beratungskompetenzen und -anlässe beschreibt.",
+    "expected": "Negative Erfahrungen am Ausbildungsplatz dienen als retrospektiv-kompensatorischer Beratungsanlass, besonders wenn Konflikte zwischen pädagogisch Anderen und Ausbilder*innen auftreten; zudem werden Beratungsgespräche zur Gestaltung des weiteren Lebenswegs geführt, die auch die biographische Zukunft betreffen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "30774320e98e5f998567fa727edbcc3ac133cb137f83cf9ebfb81c7fc93318a1",
+        "score": 0.9608686566352844,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 11238,
+          "_split_overlap": [
+            {
+              "doc_id": "7f3dc8bb43b940f6e0dfc8631bea59f7dca8dbad429c99177a1788da5c152473",
+              "range": [
+                1265,
+                1671
+              ]
+            },
+            {
+              "doc_id": "855f2f800f8c4cc35170b35c780988543d5074ed66b04c4791181bcc1b42fef3",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "auf institutionali­ sierte Bildungs- und Berufsberatung an Bedeutung, welche insbesondere im »pädagogisch organisierten System des lebenslangen Lernens eine stra­ tegisch wichtige Rolle« (Nittel 2016, S. 27) übernimmt. Ziel ist die Förde­ rung des lebensbegleitenden Lernens vor dem Hintergrund bewusster und eigenverantwortlicher Bildungs- und Berufsentscheidungen (vgl. Schröder und Schlögl 2014, S. 9). Beratung ist daher danach einzuordnen, »wie ihre Möglichkeiten sind, eine Wirksamkeit hinsichtlich subjektiv gewollter Ent­ scheidungen zu erzeugen« (Gieseke 2016a, S. 104). Käpplinger (2010, S. 32) thematisiert den Nutzen von Bildungsberatung zusammenfassend auf unterschiedlichen Ebenen: »Sie kann nützlich in Hinblick auf Beschäftigungschancen oder Einkommen sein, aber sich genauso auch dahingehend nützlich zeigen, dass Klienten nach einer Beratung in ihrem Selbstbewusstsein oder in ihrer Entschei­ dungsfähigkeit gestärkt sind«. Vor diesem Hintergrund empfiehlt er ein weit gefasstes Ver"
+      },
+      {
+        "rank": 2,
+        "id": "d43eeef595cd4a6d450f7ff3ba536f39aa7c5f3b0a0d0f3679f122b1d8a5151d",
+        "score": 0.9595540761947632,
+        "meta": {
+          "file_path": "9783847412304_chapter_0943.txt",
+          "source_id": "dbda7f71567792617bfdcb34e360807c55197a748dd43ff8e925708721db553d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3814,
+          "_split_overlap": [
+            {
+              "doc_id": "8d6e087e6b60a138feb66b0ad02df9636e867e4a3448ca246908f44d93f3fc79",
+              "range": [
+                1278,
+                1705
+              ]
+            },
+            {
+              "doc_id": "115e2e9f2ca3b29a8e4a817e84710edc63163b8996cb37977335c1204fc1ab0a",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "eines überinstitutionellen Selbstverständnisses und von Zielsetzungen im Feld der Bildungs- und Berufsberatung, welche aufgrund der heterogenen Angebotsstruktur nicht selbstverständlich sind. Seel (2013) beschreibt die Entwicklung einer anerkannten gesellschaftlichen Rolle und Position von Beratung als eines der größten Problemfelder in der Professionalisierung von Beratung. Eine Profession setzt demnach auch die Übernahme von gesellschaftlichen Aufgaben voraus (vgl. ebd.: 1653). Der Bildungsberatungs-Radar ermöglicht eine gesellschaftliche Positionierung, indem er über die individuelle Ebene zur Unterstützung der Handlungs- und Entscheidungsfähigkeit hinausgeht und stattdessen die gesellschaftlichen und strukturellen Bedingungen von Beratung fokussiert. Dieser kritische Ansatz entspricht der Zielsetzung der Aktionsforschung, konkrete Veränderungen in der Praxis zu bewirken (vgl. Bortz/Döring 2003: 345). Die Erfahrungen aus dem Pilotprojekt zeigen, dass damit jedoch auch neue Aufgaben "
+      },
+      {
+        "rank": 3,
+        "id": "f594778fb7a2ceb5c6896bba78bdce90507893789e804960341b417ff4d4ef34",
+        "score": 0.8376156687736511,
+        "meta": {
+          "file_path": "9783839444856_chapter_07432.txt",
+          "source_id": "a402357e45c39efd9314e3e6244ac3b2d054d1b56ae53e7a9e74bc91bc7b2e0c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "bfcdf84a906a14f77d41bbb264dcb770544e14f627675d9deaeaf6c787b42701",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "5.4.3.2 Beratung für Anerkennung: »… man gibt nicht auf« »Gerade unter den aktuellen bildungspolitischen, ja gesellschaftlichen Stra­ tegien zur Optimierung, Effektivierung und Effizienz spielt es eine nicht un­ erhebliche Rolle, wo die subjektiven Spielräume liegen und wie sie genutzt werden können« (Gieseke 2016a, S. 104). Die zweite rekonstruierte Perspektive auf die Zielsetzungen von Anerken­ nungsberatung definiert erfolgreiche Beratung über strukturelle Kriterien wie die bildungsadäquate berufliche Integration. Dabei ist es wichtig her­ vorzuheben, dass dies aus einer erfolgreichen Beratung nicht zwangsläufig folgen muss, sondern entscheidend ist, inwiefern die Anliegen der Klient_ innen umgesetzt werden konnten. Sobald die Zielerreichung anhand von Anerkennungsverhältnissen gemessen wird die außerhalb der Interaktions­ ebene des Beratungsgesprächs hergestellt werden, sind die Berater_innen mit der möglichen Verweigerung von Anerkennung auf gesellschaftlicher und rechtlicher Eben"
+      },
+      {
+        "rank": 4,
+        "id": "657b50e4c4448fd12b03eca2296b50dd4d30b714a5e34917329f4c0cc02f5101",
+        "score": 0.5762690305709839,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3a3fb5800f68553697074d2600bb746fdfafc40d1e242155632e5321e732db5e",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "4. Optimierung von Beratung Abschließend wird durch die gleichzeitige Betrachtung der bisherigen Ergeb- nisse eine Rückbindung auf die Ausgangsfrage vorgenommen, wie ein ziel- gruppenorientiertes Beratungssetting auf Programmebene organisiert werden sollte und welche intraorganisationalen Rahmenbedingungen zu einer Opti- mierung der vorhandenen Beratungsstrukturen auf dieser Ebene beitragen können. Dabei wurden in der Analyse der Ergebnisse vier zentrale Aspekte herausgearbeitet, denen eine besondere Relevanz zukommt: Die Beratungs- strukturen, das Beratungswissen, die Beratungskompetenz und die Be­ra­ tungs­instrumente auf Programmebene. Beratungsstrukturen Charakteristisch für die Rolle von Studiengangkoordinierenden als Akteurin- nen und Akteure mit zentraler Schnittstellenfunktion innerhalb eines weiter- bildenden Studienprogramms ist, dass sie neben der Beratung von nicht-tra- ditionell Studieninteressierten eine Vielzahl weiterer Aufgaben wahrnehmen. Darüber hinaus ist zu berücks"
+      },
+      {
+        "rank": 5,
+        "id": "9b9a92f8e14455f0a19055c5e542b303b0210737b245fed79a972bcc8f1fd4fc",
+        "score": 0.5574905872344971,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1261,
+          "_split_overlap": [
+            {
+              "doc_id": "816c068ea1a69ae93978190057c5e5822ac8a6882731928f75880c5fd02920f7",
+              "range": [
+                1261,
+                1667
+              ]
+            },
+            {
+              "doc_id": "d4181cd52317079e9d1d2aa386a6a4080a9809eb4719b3b72259104561617d2b",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "des Be­ ratungsfeldes steht ebenfalls noch aus (vgl. Maier-Gutheil und Nierobisch 2015, S. 30). Stattdessen existieren unterschiedliche Theoriemodelle und Systematisierungsversuche, welche jedoch ein sehr umfassendes Bild von Bildungs- und Berufsberatung in unterschiedlichen Kontexten vermitteln. Die Darstellung dieser Zugänge soll hier genutzt werden, um das breite Auf­ gabenspektrum der Bildungs- und Berufsberatung und die unterschiedli­ chen Perspektiven auf die Zielsetzungen zu verdeutlichen. Nach Preißer (vgl. 2012, S. 14f.) erfolgen die Systematisierungen nach Leitideen, Themenfel­ dern, Beratungsanlässen, Zielgruppen, Zielen, Beratungsformen, der Reich­ weite, dem Medium und den Beratungsmethoden. Nachfolgend werden drei ausgewählte Systematisierungen nach Gieseke und Opelt (vgl. 2004), Schiersmann und Remmele (vgl. 2004) sowie Arnold und Mai (vgl. 2008) aus­ führlicher dargestellt und in Bezug auf die Einordnung von Anerkennungs­ beratung reflektiert. Auf der Grundlage von Gesp"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0935.txt",
+    "question": "Warum werden in der Erwachsenenbildung retrospektiv-kompensatorische Beratungsanlässe hauptsächlich institutionellen Beratungssettings zugeordnet?",
+    "answer": "Aufgrund der unterschiedlichen Größe, Anbindungen an übergeordnete Einrichtungen (z.B. Bildungseinrichtungen, Kammern), der Finanzierung und der Organisation in Netzwerken ist die institutionelle Gestalt von Beratungseinrichtungen in der Erwachsenenbildung sehr heterogen. Dies führt dazu, dass retrospektiv-kompensatorische Beratungsanlässe hauptsächlich institutionellen Beratungssettings zugeordnet werden, da diese eine einheitliche Identitätsbildung in der Bildungs- und Berufsberatung aufgrund der Vielfalt der Beratungszugänge und -formen behindern. \n\n        (Die Frage bezieht sich auf den Textteil: 2.1 Besondere Beratungsbedarfe nicht-traditionell Studieninteressierter)",
+    "expected": "Weil in institutionellen Beratungssettings gezielt auf bereits eingetretene Probleme oder Schwierigkeiten (retrospektiv) reagiert wird, während in Kursen, in denen vorwiegend unterrichtet wird, eher prospektive Gestaltungsoptionen für die Berufs- und Bildungsbiographie diskutiert werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.764478325843811,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 2,
+        "id": "9dbc41cc1800ba31a1886e855e12fee66b06f6b7ff0b0ee1673bac683dae10a4",
+        "score": 0.6670964360237122,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3849,
+          "_split_overlap": [
+            {
+              "doc_id": "75a045a93887d624418c9c93502d889168c7ef1e5e847c43c0d5ac6624711517",
+              "range": [
+                1304,
+                1742
+              ]
+            },
+            {
+              "doc_id": "8a1c91cb0fb31a699a1af5949f2128172476d398ca4612b513f90658303c9a1e",
+              "range": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        "content": "und Weiterbildungsangelegenheiten, die nicht unwesentlich für die Inanspruchnahme und Nichtinanspruchnahme von institutionellen Bera- tungsangeboten relevant sind. Die Jahrestagung der Sektion Erwachsenenbildung der Deutschen Gesell- schaft für Erziehungswissenschaft (DGfE), die 2017 in Heidelberg stattfand, fokussierte die wechselseitigen Bezüge der Themen Beratung – Organisation – Politik im Kontext der Erwachsenenbildung, in denen sich die genannten Entwicklungen vollziehen. Das Feld Beratung in der Erwachsenenbildung wird dabei aus den unterschiedlichen und zum Teil widersprüchlichen diszi- plinären, institutionellen, (organisationalen), gesellschaftlichen und bildungs- politischen Perspektiven und damit verbundenen Spannungsfeldern beleuchtet. Im Anschluss an den Grundgedanken, Bildungsmöglichkeiten zu eröffnen, gehört Beraten als Bestandteil pädagogischen Handelns zu den zentralen Handlungsformen neben solchen wie Informieren, Unterrichten, Arrangieren. In den Blick kommen gleich"
+      },
+      {
+        "rank": 3,
+        "id": "917dc1ec842c4e870cf023177173c9f38855dbb0301b087da93845ce321cea7e",
+        "score": 0.658000111579895,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5007,
+          "_split_overlap": [
+            {
+              "doc_id": "15faa7b3a394b96fba75f08f892c0386c2088402b60822b942dd0d11a3e75ad7",
+              "range": [
+                1276,
+                1690
+              ]
+            },
+            {
+              "doc_id": "2098181e30a92243e28f6316096726e64dbf95c0a4542ff2bca4ee1ade982480",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "auf die Adressat_innen unterscheiden. Schiersmann und Remmele (vgl. 2004) differenzieren hierzu in ihrer Studie zum Stand der Bildungs- und Berufs­ beratung in Deutschland zwischen personen- und organisationsbezogener Beratung, die als Querschnittsaufgabe oder als je eigenständiges Angebot von verschiedenen Einrichtungen umgesetzt werden (vgl. Abb. 5). Die institutionelle Gestalt von Beratungseinrichtungen ist aufgrund der unterschiedlichen Größe, Anbindungen an übergeordnete Einrichtungen (z.B. Bildungseinrichtungen, Kammern), der Finanzierung und der Organi­ sation in Netzwerken sehr heterogen (vgl. Schröder und Schlögl 2014, S. 10). Eine einheitliche Identitätsbildung in der Bildungs- und Berufsberatung kann daher auch in Bezug auf Abgrenzungsversuche gegenüber anderen Be­ ratungsfeldern gesehen werden. Es ist hier zu beobachten, dass sich in vielen Beratungszugängen insbesondere von arbeitsmarktorientierten staatlichen Beratungskontexten distanziert wird (vgl. Enoch 2011, S. 127f.)"
+      },
+      {
+        "rank": 4,
+        "id": "288ba27baf890fd1792ec9d63ba21221c9569d9d2d7d061591ad990446fcd078",
+        "score": 0.6072007417678833,
+        "meta": {
+          "file_path": "9783839444856_chapter_051.txt",
+          "source_id": "da1fcc60fe61b798fe1304db51aeff82b4f0c86e55d117687135455c2dbefa7e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d6b400dd3db06e8b71eda018b70879a5e77bc559f483efb5ca76e2f66644092f",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "3.1 Beratungstheoretische Perspektive Zur Analyse der empirischen Ergebnisse aus einer beratungstheoretischen Perspektive ist es erforderlich, das zugrundeliegende Beratungsverständnis einzugrenzen und zu charakterisieren. Beratung stellt zunächst eine alltäg­ liche Form der Kommunikation dar. Professionelle Beratung muss daher von diesem Alltagsverständnis unterschieden werden, indem sie spezifisch strukturiert und definiert wird. Eine Möglichkeit der Abgrenzung bezieht sich auf den Formalisierungsgrad. Demnach kann Beratung neben infor­ mellen Beratungskontexten im Alltag halbformalisiert als Querschnittsauf­ gabe oder als formales eigenständiges Beratungsangebot beschrieben wer­ den (vgl. Engel et al. 2014, S. 34). Für den Bereich der Erwachsenenbildung ist Beratung somit als eine Form pädagogischen Handelns neben anderen Aufgaben (z.B. Unterrichten) von einem formalen und eigenständigen An­ gebot in einem spezifischen Beratungssetting zu differenzieren. Bei diesem Setting kann es s"
+      },
+      {
+        "rank": 5,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.49260157346725464,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0935.txt",
+    "question": "Welche grundlegenden Erkenntnisse lassen sich aus dem Vergleich der pädagogischen Arbeitsfelder bezüglich der zeitlichen Ausrichtung der Beratungsanlässe ziehen?",
+    "answer": "Die Erkenntnisse des Vergleichs sind nicht explizit im bereitgestellten Kontext beschrieben. Es kann nicht bestätigt werden, ob die zeitliche Ausrichtung der Beratungsanlässe in den pädagogischen Arbeitsfeldern in ähnlicher Weise betrachtet wird. Es ist jedoch erwähnt, dass Beratung in der Bildung eine Kernaufgabe des professionellen erwachsenenpädagogischen Handelns darstellt und als eine pädagogische Handlungsform und als ein elementarer Bestandteil des Tätigkeitsfelds in der Erwachsenenbildung beschrieben wird. Es ist jedoch nicht explizit beschrieben, welche Auswirkungen dies auf die zeitliche Ausrichtung der Beratungsanlässe hat. Es ist jedoch erwähnt, dass Beratung als eine ressourcenorientierte Unterstützung definiert wird, die auf die Stärkung der Handlungs- und Entscheidungs­fähigkeit der Klient_innen ausgerichtet ist. Dies könnte darauf hindeuten, dass die Beratungsanlässe in den pädagogischen Arbeitsfeldern in einer Weise geplant werden, die die Stärkung der Klient_innen unterstützt und die Beratung auf ihre individuellen Bedürfnisse und Fähigkeiten ausgerichtet ist. Es ist jedoch nicht explizit beschrieben, ob dies auch auf die zeitliche Ausrichtung der Beratungsanlässe zutrifft. Es ist jedoch erwähnt, dass die Bildungsberatung mehr ist als die Weitergabe von Informationen und dass Bildungsberatung nicht in die Anpassung hineinführen, sondern von Konformitätszwängen befreien soll. Dies könnte darauf hindeuten, dass die Beratungsanlässe in den pädagogischen Arbeitsfeldern in einer Weise geplant werden, die die individuellen Bedürfnisse und Fähigkeiten der Klient_innen unterstützt und die Beratung auf ihre Selbstständigkeit und Autonomie ausgerichtet ist. Es ist jedoch nicht explizit beschrieben, ob dies auch auf die zeitliche Ausrichtung der Beratungsanlässe zutrifft. Es ist jedoch erwähnt, dass die Bildungsberatung als eine Kernaufgabe des professionellen",
+    "expected": "Der Vergleich zeigt, dass pädagogisch Tätige zwei grundlegende Beratungsanlässe beschreiben, die sich je einem Zeitbezug zuordnen lassen: retrospektiv-kompensatorische Anliegen, die sich auf vergangene Ereignisse beziehen, und prospektiv-teleologische Anliegen, die auf die Gestaltung der biographischen Zukunft abzielen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "23d72fecc9037c07d36dff64052ec85bf2feaa6a91d4936c971c32a20a057d57",
+        "score": 0.9720136523246765,
+        "meta": {
+          "file_path": "9783839444856_chapter_0512.txt",
+          "source_id": "599c7475f34d1fbb18ad5518a30249aaa9a89e1ed3736b6f7e65506a45804434",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2495,
+          "_split_overlap": [
+            {
+              "doc_id": "b92f2247c853b5c490fca80b9b50c5370538b4a60b93b401e875c64e653dd1ff",
+              "range": [
+                1192,
+                1608
+              ]
+            },
+            {
+              "doc_id": "ff1a28e2844992abe1d8bc1e7192864673d921fd39b1e16cca20665df6de366a",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "Beratung wird zu einer kritischen Aufklärung, indem auf individueller Ebene die Selbstreflexion und auf gesellschaftlicher Ebene die kritische Auseinandersetzung mit sozialpolitischen Verhältnissen ermöglicht wird (vgl. Gröning 2010, S. 125f.). Nach Nittel (2016, S. 21) erhält der Beratungs­ begriff durch Mollenhauer innerhalb der pädagogischen Handlungsformen »eine strategisch wichtige Bedeutung und Rolle eines kritischen Korrektivs gegenüber anderen pädagogischen Interventionsformen«. Damit entwirft Mollenhauer eine genuin pädagogische Perspektive auf Beratung. Es ist ge­ rade der emanzipative Ansatz in der Beratung, welcher bei ihm das spezi­ fische Charakteristikum eines pädagogischen Beratungsverständnisses be­ gründet: »Beratung soll nicht in die Anpassung hineinführen, sondern von Konformi­ tätszwängen befreien. Ein Rat, der keine Alternative erkennen lässt, sondern nur die gleichsam naive normative Eindeutigkeit der Antwort kennt, ist ein schlechter Rat. Er verfehlt die pädagog"
+      },
+      {
+        "rank": 2,
+        "id": "b6ef5b0eb03019f985cdf71cd0f00881d576d06ea9d6d55b80f391c0b4f89836",
+        "score": 0.8022961616516113,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 13403,
+          "_split_overlap": [
+            {
+              "doc_id": "19cc1874d670262789f6cbe3dadaa5d10516cb605a20608bd9dc67283cd8200a",
+              "range": [
+                1235,
+                1673
+              ]
+            },
+            {
+              "doc_id": "f820a62e6cdae7ec18bbf25d5b0d13ea495cb6c4b1e5388752ef197cc80c7c55",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "nisse: lösungsorientierte Gespräche unter Einsatz angemessener Beratungsansätze Neben der Darstellung der Beratungsverläufe und der Begründung der gewählten Interventionen nehmen Aussagen über die Beratungsverständnisse einen zentralen Stellenwert ein. Hierbei lassen sich Reflexionen über die Ziele der Beratungen und über notwendige Beratungskompetenzen unterscheiden. Übergreifend wird als Zielsetzung benannt, dass die KlientInnen in den Beratungen selbst Lösungen entwickeln sollten und dass Bildungsberatung mehr sei als die Weitergabe von Informationen. Hierfür sei die Vereinbarung von Zielen notwendig, die vor dem Hintergrund der gegebenen Rahmenbedingun- gen auch erreichbar sind. In einer Reflexion wird in diesem Zusammenhang darauf hingewiesen, an dem/der KlientIn orientierte Ziele finden zu wollen: „Das ist mir wichtig: [...] Ziele vereinbaren, die einer- seits eine Herausforderung sind, andererseits nicht überfordern“ (Fallreflexion 10, Z. 155-160). In zwei Fällen werden „klare B"
+      },
+      {
+        "rank": 3,
+        "id": "4dc1b55b0be8a1111699f6858f3551338dad294d4ac58ec3f962696c5c595f31",
+        "score": 0.5105928182601929,
+        "meta": {
+          "file_path": "9783839444856_chapter_0512.txt",
+          "source_id": "599c7475f34d1fbb18ad5518a30249aaa9a89e1ed3736b6f7e65506a45804434",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b92f2247c853b5c490fca80b9b50c5370538b4a60b93b401e875c64e653dd1ff",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "3.1.2 Pädagogische Beratung Beratung stellt nicht nur eine Grundform pädagogischen Handelns dar (vgl. Giesecke 2010), sondern hat sich darüber hinaus zu einem der bedeutends­ ten Bestandteile entwickelt. Beraten wird als eine Kernaufgabe des profes­ sionellen erwachsenenpädagogischen Handelns gesehen. Nittel (vgl. 2016, S. 21) nennt drei grundlegende Begründungszusammenhänge für eine er­ ziehungs- und bildungswissenschaftliche Zuordnung von Beratung. Auf der Interaktionsebene beschreibt er Beratung als eine pädagogische Handlungs­ form; auf der Mesoebene verortet er Beratung aus einer professionstheoreti­ schen Perspektive als einen Bestandteil pädagogischer Berufskultur; und auf der Makroebene ordnet er Beratung anhand der zunehmenden Diversifizie­ rung pädagogischer Beratungseinrichtungen gesamtgesellschaftlich ein. Obwohl Beratung also anscheinend zu einem Teilbereich des pädagogischen Selbstverständnisses geworden ist, existieren trotzdem nur Ansätze einer übergreifenden Beratungst"
+      },
+      {
+        "rank": 4,
+        "id": "5eadbe3ccf85f167ab86a6d8cf644d4b25ffb45bb9c43ca9bbeba9673dc7b266",
+        "score": 0.49671605229377747,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d7d5db76a9db781c28607823a715d35ff693ace6b57be6f2fc8586ff07fc5174",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "5.2.2.2 Pädagogisches Beratungsverständnis Beratung wurde bereits aus einer erziehungswissenschaftlichen Perspektive als eine pädagogische Handlungsform und als ein elementarer Bestandteil des Tätigkeitsfelds in der Erwachsenenbildung beschrieben. Pädagogische Beratung wird demnach als ein ressourcenorientiertes Unterstützungsange­ bot definiert, welches auf die Stärkung der Handlungs- und Entscheidungs­ fähigkeit der Klient_innen ausgerichtet ist. Beratung in der Sozialen Arbeit bezieht sich darüber hinaus auf ein emanzipatives Beratungsverständnis im Kontext sozialer Gerechtigkeit. Aus beratungstheoretischer Perspektive bieten diese disziplinären Schwerpunktsetzungen im Beratungsverständnis damit auch praxisrelevante Kriterien, um pädagogische Beratungsangebote von reinen Informationsgesprächen oder therapeutischen Interventionen abzugrenzen. Es stellt sich jedoch die Frage, inwiefern dieses erziehungs­ wissenschaftlich geprägte Beratungsverständnis auch für die Beratungs­ praxis rel"
+      },
+      {
+        "rank": 5,
+        "id": "9af637d9e0a8d06c17c0b83e9a73a26748ce461b4085fd7f67fac2271363cf85",
+        "score": 0.4479789435863495,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "Sebastian Zick Bildung, Beratung, Bewegung – Die Steuerung der Bildungsreise zwischen Apodemik und ­euro­päischer Mobilitätspolitik 1. Einleitung Der Beitrag thematisiert die Frage, wie (Bildungs-)Reisende in informellenKontexten Rat für ihr Reisevorhaben finden und wie durch unterschiedliche Modi von Beratung subjektive Reiseerfahrungen vorstrukturiert werden. Dafür wird ein weiter Begriff von Beratung zugrunde gelegt, der Beratung nicht an formale, professionelle (pädagogische) Settings bindet, in denen sich Beratende und Ratsuchende gegenüberstehen, sondern diese überall dort verortet, wo sich Subjekte externe Expertisen oder Dienstleistungen als Hilfe zur Bearbeitung individueller Sorgen aneignen. Dieser Wandel von Beratung lässt sich auch in der sozialen Praxis des Reisens im Streben nach Bildung aufzeigen. Dabei stellt sich die Frage, wie und in welchen Formaten subjektive Bewegung, als Scharnier zwischen Bildung und Reisen, „richtig“ eingesetzt wird, um dem Anspruch der Bildung "
+      }
+    ]
+  }
+]

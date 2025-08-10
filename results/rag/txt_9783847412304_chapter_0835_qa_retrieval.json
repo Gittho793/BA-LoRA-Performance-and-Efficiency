@@ -1,0 +1,690 @@
+[
+  {
+    "filename": "9783847412304_chapter_0835.txt",
+    "question": "Wie hoch war der Anteil der männlichen und weiblichen Personen in der Bedarfserhebung der Fachkräfte in der Oberpfalz?",
+    "answer": "86,0% der Fachkräfte waren männlich, während 14,0% weiblich waren. \n         81,1% der Fachkräfte waren zwischen 20 und 29 Jahre alt. \n         9,6% der Fachkräfte hatten Familienpflichten. \n         87,9% der Fachkräfte befanden sich in einem sozialversicherungspflichtigen Beschäftigungsverhältnis (VZ und unbefristet). \n         83,5% der Fachkräfte befanden sich zum Zeitpunkt der Erhebung in einer Aufstiegsfortbildung. \n         80,6% der Frauen und 74,9% der Männer hatten Interesse an Weiterbildung. \n         60% der Befragten wussten, dass sie Weiterbildungsangebote an Hochschulen besuchen können. \n         Die drei meistgenannten Gründe gegen eine Weiterbildung bei Frauen waren zeitliche Gründe (Arbeit), finanzielle Gründe und keine passenden Angebote. \n         Die drei meistgenannten Gründe gegen eine Weiterbildung bei Männern waren ebenfalls zeitliche und finanzielle Gründe sowie kein eigenes Zutrauen bzgl. der Anforderungen. \n         80,6% der Frauen und 74,9% der Männer äußersten Interesse an Weiterbildung an Hochschulen. \n         86,7% der Männer und 92,0% der Frauen würden unterschiedliche Beratungs- und Unterstützungsangebote an Hochschulen in Anspruch nehmen. \n         88,5% der befragten Personen fanden persönliche Beratung am hilfreichsten. \n         53,4% der befragten Personen fanden E-Mail-Beratung hilfreich. \n         51,4% der befragten Personen fanden Online-Informationsmaterialien hilfreich. \n         Die meistgenannten Hürden für die Aufnahme einer Weiterbildung bei den weiblichen Fachkräften waren zeitliche Gründe (Arbeit), finanzielle Gründe und keine passenden Angebote. \n         Die meistgenannten Hürden für die Aufnahme einer Weiterbildung bei den männlichen Fachkräften waren ebenfalls zeitliche und finanzielle Gründe sowie fehlendes Zutrauen bzgl",
+    "expected": "In der Bedarfserhebung der Fachkräfte in der Oberpfalz waren 86,0% männliche und 14,0% weibliche Personen vertreten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d7835ff49b13ad05e5555bc224a32ce76e6c608a7d55ecbe4282ae7d1a02c967",
+        "score": 0.9592726230621338,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "5. Ergebnisse des Beratungs- und Betreuungsbedarfs Stellenvertretend für die Gruppe der potentiellen Teilnehmenden wird im Folgenden die Bedarfserhebung der Fachkräfte herangezogen. Diese wurde gezielt für die Region Oberpfalz ausgewertet (N=224). Dabei waren 86,0% männliche (m) und 14,0% weibliche (w) Personen vertreten. 81,1% davon wa- ren zum Zeitpunkt der Erhebung zwischen 20 und 29 Jahre und 9,6% hatten Familienpflichten. In einem sozialversicherungspflichtigen Beschäftigungs- verhältnis (VZ und unbefristet) befanden sich 87,9% und 83,5% befanden sich zum Zeitpunkt der Erhebung in einer Aufstiegsfortbildung7 (beispielsweise Meister/in oder Techniker/in) bzw. hatten diese bereits absolviert. Interesse an Weiterbildung hatten 80,6% aller befragten Frauen sowie 74,9% der Män- ner. Fast 60% der Befragten war bekannt, dass sie Weiterbildungsangebote an Hochschulen besuchen können. Die drei meistgenannten Gründe gegen eine Weiterbildung bei Frauen waren zeitliche Gründe (Arbeit), finanz"
+      },
+      {
+        "rank": 2,
+        "id": "0f2bedf6d6caf4a2b864f3ab8dcf77a9061562c7d81ba27c62cee84f44f541de",
+        "score": 0.9376102089881897,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2401,
+          "_split_overlap": [
+            {
+              "doc_id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+              "range": [
+                1254,
+                1633
+              ]
+            },
+            {
+              "doc_id": "253358bb325dab18df8fee2c1105129d629bb74ef66bf1a9d6a29549f79d89c7",
+              "range": [
+                0,
+                343
+              ]
+            }
+          ]
+        },
+        "content": "Verpflegung als hilfreich an. Bei den weiblichen Fachkräften waren die meistgenannten Hürden für die Aufnahme einer Weiterbildung zeitliche Gründe (Arbeit), finanzielle Gründe und keine passenden Angebote. Bei Männern waren es ebenfalls zeitliche und finanzielle Gründe sowie fehlendes Zutrauen bzgl. der Anforderungen. Für die Gruppe der Teilnehmenden folgen die Ergebnisse der Propädeutikumsbefragung. An dieser Erhebung nahmen zehn Personen teil (N=10; 10m), die im Schnitt zwischen 25 und 29 Jahre (60%) alt waren und als höchsten Schulabschluss einen Realschulabschluss (50%) angaben. Die Befragten sind über die Webseite der OTH Amberg-Weiden, Berufsberatung, Webseiten oder Studienberatungen anderer Hochschulen oder durch Sonstiges (wie bspw. Bundeswehr) auf das Angebot aufmerksam geworden. Ein weiterer Informationsgewinn erfolgte über persönliche Beratungsgespräche, Telefonberatung sowie die Teilnahme an Informationsveranstaltungen. Als Unterstützungsangebote wurden genannt: Lernunterst"
+      },
+      {
+        "rank": 3,
+        "id": "bd7cade93937f43cb365125bfc9099a1f8fc7f114ffa9f81ec4fdff4c6e53b4f",
+        "score": 0.8783388733863831,
+        "meta": {
+          "file_path": "9783847412304_chapter_0834.txt",
+          "source_id": "68cac61703f3717203c7ff7d636b0b6782c27974390bfba59ac89e960afbd339",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1303,
+          "_split_overlap": [
+            {
+              "doc_id": "545af86e0f4abf0ab756895fd15e55d1678109040c7f4a6a5690171760797c21",
+              "range": [
+                1303,
+                1702
+              ]
+            }
+          ]
+        },
+        "content": "herangezogen3. Ziel der Befragung aus Sicht von Beratung und Betreuung war, das Interesse, den Informationsstand, den Informationsweg, Barrieren und Bedarfe für die Weiterbildungsteilnahme zu identifzieren. Die Gruppe der „Teilnehmer/innen von Weiterbildungsangebo- ten“4 umfasst Personen, die bereits an einer Weiterbildung an einer Hochschu- le teilgenommen haben oder zum Zeitpunkt der Befragung an einer solchen teilnehmen. Ihre Daten wurden in Form einer quantitativen Befragung im Rahmen des Propädeutikums5 an der OTH Amberg-Weiden sowie in Form ei- ner Befragung mit Weiterbildungsteilnehmenden am Zentrum für Weiterbil- dung und Wissensmanagement in Regensburg (ZWW) erhoben. Ziel der Be- fragungen war aus Sicht von Beratung und Betreuung, die Informationswege der Teilnehmenden, ihre Kenntnisse über bestehende Angebote der Beratung und Unterstützung und deren Bewertung, sowie weitere Bedarfe für eine er- folgreiche Teilnahme an einer Weiterbildung an einer Hochschule zu ermit- teln. De"
+      },
+      {
+        "rank": 4,
+        "id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+        "score": 0.8112829327583313,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1147,
+          "_split_overlap": [
+            {
+              "doc_id": "d7835ff49b13ad05e5555bc224a32ce76e6c608a7d55ecbe4282ae7d1a02c967",
+              "range": [
+                1147,
+                1545
+              ]
+            },
+            {
+              "doc_id": "0f2bedf6d6caf4a2b864f3ab8dcf77a9061562c7d81ba27c62cee84f44f541de",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Anforderungen. 80,6% der Frauen sowie 74,9% der Männer äußersten Interesse an Weiterbil- dung an Hochschulen. In einem zweiten Schritt erfolgte die Analyse von Personen, die ein Wei- terbildungsinteresse geäußert haben (N=168). Insbesondere für Frauen sind folgende Aspekte bei einer Weiterbildung wichtig: ‚sich persönlich weiter- entwickeln‘, ‚berufliche/fachliche Kenntnisse erwerben‘ und ‚neue innerbe- triebliche Tätigkeitfelder übernehmen‘. Bei Männern verhält es sich ähnlich, auch sie wollen sich ‚persönlich weiterentwickeln‘ und ‚berufliche/fachliche Kenntnisse erwerben‘ und mehr Geld verdienen. 86,7% der befragten Män- ner und 92,0% der befragten Frauen würden unterschiedliche Beratungs- und Unterstützungsangebote an Hochschulen in Anspruch nehmen. Von diesen (N=148) finden 88,5% die persönliche Beratung am hilfreichsten, danach folgen Beratungen per E-Mail (53,4%) und Online-Informationsmaterialien (51,4%). Keine geschlechterspezifischen Unterschiede zeigen sich bei Beratungsthem"
+      },
+      {
+        "rank": 5,
+        "id": "df761fd18f527ba656d6fb272e324b5501d11cd4dc2d6d80f684139ec28107ff",
+        "score": 0.18998774886131287,
+        "meta": {
+          "file_path": "9783839444856_chapter_07411.txt",
+          "source_id": "25e1a45ebc51d8e50bf54793bbf5e41a3d88b0daf65384aa9e463bf4aee5ab63",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 9315,
+          "_split_overlap": [
+            {
+              "doc_id": "7c0e852ea304127c8a636303485deac39ed07e468f4e213cdfd7bd568771792f",
+              "range": [
+                1037,
+                1341
+              ]
+            },
+            {
+              "doc_id": "63bed4f73ba4449e751291733a4e836153134e172e096e1eae6e3d974b717b39",
+              "range": [
+                0,
+                432
+              ]
+            }
+          ]
+        },
+        "content": "Abschluss, in Deutschland habe ich mit diesem Abschluss folgende Möglichkeiten und um das zu erreichen, muss ich A, B oder C machen.‹ Das ist eigentlich das Ziel. Und Ziel ist natürlich auch, dass die Person weiß, wenn es irgendwie Prob­ leme gibt im Verfahren, auch wenn irgendwie nochmal was auftritt, was ja auch teilweise ein paar Wochen später oder so der Fall sein kann, dass sie weiß, da ist eine Stelle, an die kann ich mich wenden, die wird mir das dann auch nochmal erklären oder nochmal weiterhelfen, und ansonsten aber so­ zusagen nehme ich meine Sachen auch in die Hand« (F/DE, Z. 477-491). Anerkennung im Sinne der formal-juristischen Anerkennung auf rechtlicher Ebene wird in diesem Interviewausschnitt als Erfolgskriterium ebenfalls ab­ gelehnt, da Anerkennungsberatung auf das formale Anerkennungsverfah­ ren nicht (oder nur indirekt) einwirken kann und auch die Rückmeldungen zu erfolgreich abgeschlossenen Verfahren durch die Klient_innen nur ein­ geschränkt erfolgen. In diesem Zu"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0835.txt",
+    "question": "Welche drei Hauptgründe nannten Frauen gegen eine Weiterbildung, und wie unterscheiden sich diese von den Gründen der Männer?",
+    "answer": "Die drei Hauptgründe, die Frauen nannten, waren: \n         1. Zeitliche Gründe (Arbeit) \n         2. Finanzielle Gründe \n         3. Keine passenden Angebote. \n         Die Männer nannten als Hauptgründe: \n         1. Zeitliche Gründe \n         2. Finanzielle Gründe \n         3. Fehlendes Zutrauen bzgl. der Anforderungen. \n         Die Gründe der Frauen unterscheiden sich also nicht wesentlich von denen der Männer. \n         Die wichtigste Unterscheidung ist, dass bei Frauen die Gründe eher praktischer Natur sind, während bei Männern auch ein psychologischer Faktor hinzukommt (Fehlendes Zutrauen). \n         Die genauen Zahlen sind im Text nicht angegeben, aber es wird erwähnt, dass bei den Frauen \"zeitliche Gründe (Arbeit), finanzielle Gründe und keine passenden Angebote\" die meistgenannten Hürden sind, während bei Männern \"zeitliche und finanzielle Gründe sowie fehlendes Zutrauen bzgl. der Anforderungen\" die wichtigsten Gründe sind. \n         Es ist jedoch zu beachten, dass die genauen Zahlen nicht im Text angegeben sind, sondern nur die wichtigsten Gründe. \n         Die wichtigsten Gründe der Frauen sind also Zeit, Geld und passende Angebote, während die wichtigsten Gründe der Männer Zeit, Geld und Zutrauen. \n         Die wichtigste Unterscheidung zwischen den beiden Gruppen ist also, dass die Gründe der Männer einen psychologischen Faktor (Zutrauen) enthalten, während die Gründe der Frauen eher praktischer Natur sind. \n         Es ist jedoch zu beachten, dass die genauen Zahlen nicht im Text angegeben sind, sondern nur die wichtigsten Gründe. \n         Die wichtigsten Gründe der Frauen sind also Zeit, Geld und passende Angebote, während die wichtigsten Gründe der Männer Zeit, Geld und Zutrauen. \n         Die wichtigste Unterscheidung zwischen den beiden Gruppen ist also, dass die Gründe der Männer einen psychologischen Faktor (Zutrauen) enthalten, während die Gründe der Frauen eher praktischer Natur sind. \n         Es ist jedoch zu beachten, dass die genauen Zahlen nicht im Text angegeben sind,",
+    "expected": "Die drei Hauptgründe für Frauen gegen eine Weiterbildung waren zeitliche Gründe (Arbeit), finanzielle Gründe und keine passenden Angebote. Bei Männern waren ebenfalls zeitliche und finanzielle Gründe genannt, dazu kam noch fehlendes Zutrauen bezüglich der Anforderungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fafbe7d7486ccfd300793f45458f2e838e1a94a00b1c5f4e264a6a5bffe9921c",
+        "score": 0.9589173197746277,
+        "meta": {
+          "file_path": "9783847412304_chapter_1115.txt",
+          "source_id": "c0b3b1a143fb3031c620a6caf49dbf530723c6f971df1bb1ead7bf6877f23c1e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "e122745d4138610945e021999817c971cb93b3127ad2fb86a0212ad0f315d82e",
+              "range": [
+                0,
+                419
+              ]
+            }
+          ]
+        },
+        "content": "5. Weiterbildungsberatung: Erzählen um zu entscheiden Die Erzählanalyse bearbeitet eine Schnittstelle von Biographie und Diskurs, in welcher durch die Verhandlung von diskursiven Subjektpositionen über Po- sitionierungen, durch die Verschränkung der Erzählebenen, ein fluides Inei- nandergreifen beschreibbar wird. Die Bewegung zwischen Entscheidbarkeit durch Handlungsmacht und drohender Ohnmacht durch prekäre Verletzbar- keit lässt sich nachzeichnen und weiterverfolgen. In der Weiterbildungsbera- tung wird damit die Entscheidbarkeit über die Verschränkung von Erzählun- gen vor dem Hintergrund von Narrativen Lebenslangen Lernens verhandelt. Erzählungen bilden in der Weiterbildungsberatung eine konstitutive Be- dingung der Herstellung von Entscheidbarkeit im Kontext Lebenslangen Ler- nens. Dies geschieht in den Gesprächen eingangs häufig durch ein Erzäh- lenlassen und im Verlauf bzw. im Vergleich lassen sich weitere Varianten wie das Weitererzählen, Wiedererzählen oder Umerzählen ausmache"
+      },
+      {
+        "rank": 2,
+        "id": "e8bd1b0ed532bd12d28e946f0315188501c5e27dac25382d8cc56feace79ca6b",
+        "score": 0.6276695728302002,
+        "meta": {
+          "file_path": "9783847412304_chapter_053.txt",
+          "source_id": "aa33d4bf6f30cbe13eddc617a05984a8392b32342720c39303940fc709f6e65c",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4615,
+          "_split_overlap": [
+            {
+              "doc_id": "a2acb3eeb34f7fc4310d5545390944a3aa635f76813e27ca73d466c288326a57",
+              "range": [
+                1113,
+                1468
+              ]
+            }
+          ]
+        },
+        "content": "Problem un- serer Gesellschaft zu tun hat, kommen wir also nicht herum.“ (von Oertzen 1977, S. 167) Es erscheint wichtig, dass die Sektion und ihre Mitglieder mit ihren Ergebnissen und Erkenntnissen auch die breitere Öffentlichkeit suchen. Welche Weiterbildungsstudie jenseits der Studien für den Alphabereich von Grotlüschen wurde in den letzten Dekaden von einer breiten Öffentlichkeit wahrgenommen? Wurde es versucht? Oder haben wir uns manchmal in Ni- schen jenseits der öffentlichen Wahrnehmung bequem eingerichtet?"
+      },
+      {
+        "rank": 3,
+        "id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+        "score": 0.5807633399963379,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1147,
+          "_split_overlap": [
+            {
+              "doc_id": "d7835ff49b13ad05e5555bc224a32ce76e6c608a7d55ecbe4282ae7d1a02c967",
+              "range": [
+                1147,
+                1545
+              ]
+            },
+            {
+              "doc_id": "0f2bedf6d6caf4a2b864f3ab8dcf77a9061562c7d81ba27c62cee84f44f541de",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Anforderungen. 80,6% der Frauen sowie 74,9% der Männer äußersten Interesse an Weiterbil- dung an Hochschulen. In einem zweiten Schritt erfolgte die Analyse von Personen, die ein Wei- terbildungsinteresse geäußert haben (N=168). Insbesondere für Frauen sind folgende Aspekte bei einer Weiterbildung wichtig: ‚sich persönlich weiter- entwickeln‘, ‚berufliche/fachliche Kenntnisse erwerben‘ und ‚neue innerbe- triebliche Tätigkeitfelder übernehmen‘. Bei Männern verhält es sich ähnlich, auch sie wollen sich ‚persönlich weiterentwickeln‘ und ‚berufliche/fachliche Kenntnisse erwerben‘ und mehr Geld verdienen. 86,7% der befragten Män- ner und 92,0% der befragten Frauen würden unterschiedliche Beratungs- und Unterstützungsangebote an Hochschulen in Anspruch nehmen. Von diesen (N=148) finden 88,5% die persönliche Beratung am hilfreichsten, danach folgen Beratungen per E-Mail (53,4%) und Online-Informationsmaterialien (51,4%). Keine geschlechterspezifischen Unterschiede zeigen sich bei Beratungsthem"
+      },
+      {
+        "rank": 4,
+        "id": "4b24bb963542830bbf5cd64cdb83cb5cbe5d7a81dec8ed8ad83f5c142eaf33d2",
+        "score": 0.39735183119773865,
+        "meta": {
+          "file_path": "9783847412304_chapter_11231.txt",
+          "source_id": "1c90526438e46eba6b3a6a3bc40714c51a3f3e208e894362d8d456a13c0534fb",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2129,
+          "_split_overlap": [
+            {
+              "doc_id": "7735b66c6c3df544e5bd271b66d6dc90d8e16547a862bca0e31bd848a2dd43db",
+              "range": [
+                1028,
+                1359
+              ]
+            }
+          ]
+        },
+        "content": "das Thema Mitarbeitergespräche besprochen und in der aufgezeichneten Sitzung soll ein solches Gespräch ‚durchgespielt‘ werden. Frau N ist Schulleiterin und nimmt bereits seit einiger Zeit am Coaching teil. Im Gespräch geht es um den aktuel- len Stand im beruflichen Kontext. Dazu wird auf eine Frau N bereits bekannte Methode, das „Brett“, zurückgegriffen. Frau N beginnt zunächst ihre Rolle im Zuge der Aufstellung auf dem Brett sowie aktuelle bestehende Probleme zu reflektieren. Der Coach macht verschiedene Angebote, wie Frau N damit umgehen kann. Im Gespräch 1 und Gespräch 2 weicht der Gesprächsverlauf von der (offensichtlichen) Vorstellung des Coachs von einem Coaching – die in einer Reflexion der eigenen Führungsposition in der Organisation besteht – ab. Die Coachees verlangen eher nach einer Supervision oder einer Schulung in der Führung von Mitarbeitergesprächen. Wenngleich die Coachs in diesen Gesprächen versuchen, ein offenes Gespräch über die Position der Coachees in ihrer Organi"
+      },
+      {
+        "rank": 5,
+        "id": "da0c7c07cf0542003c9caf2118b71f96cd7fce6423cb79d55208ec9451a6149f",
+        "score": 0.3814506530761719,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 13690,
+          "_split_overlap": [
+            {
+              "doc_id": "c0a3a64c6354aaa6089f8f0127a250d96c4d39e677eb4609bcb29b94226a50ea",
+              "range": [
+                981,
+                1413
+              ]
+            }
+          ]
+        },
+        "content": "die Vermittlung von Informa­ tionen auch mit emotional belastenden Komponenten verbunden ist. Die Durchführung einer Fachberatung erfordert entsprechend die Fähigkeit zur Abgrenzung, welche hier einer pädagogischen Ausbildung zugeschrieben wird. Während in dem Zitat zunächst eine pädagogische Beratung einer Fachberatung gegenübergestellt wird, erfolgt abschließend eine Hervor­ hebung pädagogischer Kompetenzen als Voraussetzung, um die notwendi­ ge Abgrenzung und Spezialisierung einer Fachberatung erst zu ermöglichen."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0835.txt",
+    "question": "Welche Aspekte sind für Frauen bei einer Weiterbildung besonders wichtig, und inwiefern unterscheiden sich diese von den Prioritäten der Männer?",
+    "answer": "Sich persönlich weiterentwickeln, berufliche/fachliche Kenntnisse erwerben und neue innerbetriebliche Tätigkeitfelder übernehmen sind für Frauen bei einer Weiterbildung besonders wichtig. Bei Männern verhält es sich ähnlich, sie wollen sich auch persönlich weiterentwickeln und berufliche/fachliche Kenntnisse erwerben, jedoch fügen sie als zusätzlichen Aspekt das Ziel hinzu, mehr Geld zu verdienen. Es gibt keine geschlechterspezifischen Unterschiede bei Beratungsthemen wie finanzielle Förderung, berufliche Perspektiven und Karriereplanung sowie Zeitmanagement. Die Prioritäten von Frauen und Männern stimmen insgesamt überein, obwohl Männer einen zusätzlichen Aspekt hinzufügen, der auf finanziellen Aspekten basiert. \n        I cannot find the answer in the provided context.",
+    "expected": "Für Frauen sind bei einer Weiterbildung besonders wichtig: sich persönlich weiterzuentwickeln, berufliche/fachliche Kenntnisse zu erwerben und neue innerbetriebliche Tätigkeitsfelder zu übernehmen. Männer haben ähnliche Prioritäten, nämlich persönliche Weiterentwicklung und Erwerb beruflicher/fachlicher Kenntnisse, legen jedoch zusätzlich Wert darauf, mehr Geld zu verdienen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b04bcfedd8214425a9af3ace1f65ad93c4f109a57200dcd6299328f2099080c2",
+        "score": 0.9917668700218201,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1147,
+          "_split_overlap": [
+            {
+              "doc_id": "d7835ff49b13ad05e5555bc224a32ce76e6c608a7d55ecbe4282ae7d1a02c967",
+              "range": [
+                1147,
+                1545
+              ]
+            },
+            {
+              "doc_id": "0f2bedf6d6caf4a2b864f3ab8dcf77a9061562c7d81ba27c62cee84f44f541de",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "Anforderungen. 80,6% der Frauen sowie 74,9% der Männer äußersten Interesse an Weiterbil- dung an Hochschulen. In einem zweiten Schritt erfolgte die Analyse von Personen, die ein Wei- terbildungsinteresse geäußert haben (N=168). Insbesondere für Frauen sind folgende Aspekte bei einer Weiterbildung wichtig: ‚sich persönlich weiter- entwickeln‘, ‚berufliche/fachliche Kenntnisse erwerben‘ und ‚neue innerbe- triebliche Tätigkeitfelder übernehmen‘. Bei Männern verhält es sich ähnlich, auch sie wollen sich ‚persönlich weiterentwickeln‘ und ‚berufliche/fachliche Kenntnisse erwerben‘ und mehr Geld verdienen. 86,7% der befragten Män- ner und 92,0% der befragten Frauen würden unterschiedliche Beratungs- und Unterstützungsangebote an Hochschulen in Anspruch nehmen. Von diesen (N=148) finden 88,5% die persönliche Beratung am hilfreichsten, danach folgen Beratungen per E-Mail (53,4%) und Online-Informationsmaterialien (51,4%). Keine geschlechterspezifischen Unterschiede zeigen sich bei Beratungsthem"
+      },
+      {
+        "rank": 2,
+        "id": "8dffffcc2eb8ef9368ec2f8e7d0ea605b4642961d9a54997c14b7108b51ad05e",
+        "score": 0.9825300574302673,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4583,
+          "_split_overlap": [
+            {
+              "doc_id": "cff49f4ac071d66f1de727f0fc5b38bcc5f1da9e87b48b4445a696776aad53f2",
+              "range": [
+                1134,
+                1481
+              ]
+            }
+          ]
+        },
+        "content": "erstmalig die Wertschätzung der Vielfalt im Unternehmen zum Ausdruck. Andere Effekte waren, dass mehr Frauen in Führungspositionen aufgestie- gen sind, dass mehr Führung in Teilzeit für Frauen und Männer ermöglicht wurde, dass 80% der Ziele in den Unternehmen erreicht wurden und dass die Zufriedenheit mit dem Projektverlauf und den Trainerinnen 91% betrug (vgl. Macha,Brendler, Hitzler, Spiegler 2017)."
+      },
+      {
+        "rank": 3,
+        "id": "69035bf9f81b41c24704bf71f71d9ac367d8b8865b7ce2c640de2ed7ca94b768",
+        "score": 0.960433840751648,
+        "meta": {
+          "file_path": "1001586_chapter_071.txt",
+          "source_id": "4c40296f2524ab8fe85155d061576731f99c2685a22e1c807d2a6d5a3a7e214d",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 10383,
+          "_split_overlap": [
+            {
+              "doc_id": "9a548734589260c412d6e6041ad7b5735c37ec9b9066cd0e338175841fb3e57a",
+              "range": [
+                972,
+                1317
+              ]
+            },
+            {
+              "doc_id": "45a17d9e932d52c93655827ed818eba1c4ecfb1643ebf500e5ccdcbb005617a1",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "wir hier keine Rechtsberatung durchführen. Ich kann Ihnen aber, wenn Sie möchten, eine Adressübersicht geben.“ Vorschläge für den Verlauf der Beratung: „Ich vermute, dass wir für den nächsten Schritt mehr als eine viertel Stunde be­ nötigen. Ich schlage vor, dass wir damit dann beim nächsten Mal weitermachen.“ Fragetechniken Man unterscheidet bei Fragetechniken generell zwischen offenen und ge­ schlossenen Fragen. Offene Fragen (Was, Wer, Wann, Wie lange …) regen Rat­ suchende dazu an, in ganzen Sätzen zu antworten und aktivieren auch längere Ausführungen. Geschlossene Fragen haben eher den Effekt, dass sie die Rede des oder der Ratsuchenden einschränken, da er eigentlich nur mit ‚ja‘, ‚nein‘ oder ‚vielleicht‘ antworten kann. Weitere Effekte können sein: Offene Fragen: Geschlossene Fragen: große Informationsausbeute geringe Informationsausbeute partnerschaftlich/geringe Lenkung starke Lenkung bringen Gespräche in Gang können Gesprächsverlauf blockieren lassen große Freiräume in der Ant"
+      },
+      {
+        "rank": 4,
+        "id": "b6ef5b0eb03019f985cdf71cd0f00881d576d06ea9d6d55b80f391c0b4f89836",
+        "score": 0.9591943025588989,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 13403,
+          "_split_overlap": [
+            {
+              "doc_id": "19cc1874d670262789f6cbe3dadaa5d10516cb605a20608bd9dc67283cd8200a",
+              "range": [
+                1235,
+                1673
+              ]
+            },
+            {
+              "doc_id": "f820a62e6cdae7ec18bbf25d5b0d13ea495cb6c4b1e5388752ef197cc80c7c55",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "nisse: lösungsorientierte Gespräche unter Einsatz angemessener Beratungsansätze Neben der Darstellung der Beratungsverläufe und der Begründung der gewählten Interventionen nehmen Aussagen über die Beratungsverständnisse einen zentralen Stellenwert ein. Hierbei lassen sich Reflexionen über die Ziele der Beratungen und über notwendige Beratungskompetenzen unterscheiden. Übergreifend wird als Zielsetzung benannt, dass die KlientInnen in den Beratungen selbst Lösungen entwickeln sollten und dass Bildungsberatung mehr sei als die Weitergabe von Informationen. Hierfür sei die Vereinbarung von Zielen notwendig, die vor dem Hintergrund der gegebenen Rahmenbedingun- gen auch erreichbar sind. In einer Reflexion wird in diesem Zusammenhang darauf hingewiesen, an dem/der KlientIn orientierte Ziele finden zu wollen: „Das ist mir wichtig: [...] Ziele vereinbaren, die einer- seits eine Herausforderung sind, andererseits nicht überfordern“ (Fallreflexion 10, Z. 155-160). In zwei Fällen werden „klare B"
+      },
+      {
+        "rank": 5,
+        "id": "cb74ae8e795ac8b42ee0a66573722bb54fcdcc65f04e8b22609756a327102dd8",
+        "score": 0.956750750541687,
+        "meta": {
+          "file_path": "9783866496811_chapter_0712.txt",
+          "source_id": "acc9045b3fac6a2ab0db7f599c025f4a7eabfc9fe8a828b0c66069e13b95fa7e",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6959,
+          "_split_overlap": [
+            {
+              "doc_id": "85ce12b304408302bf0c0afa08a458d5bdfe830dddc3ec8abd22f3a0bc175740",
+              "range": [
+                1104,
+                1478
+              ]
+            }
+          ]
+        },
+        "content": "fragten, die mit den bereits zu Verfügung stehenden Mitteln nicht zufrieden sind. Als Wünsche wurden genannt, der vermehrte kollegialen Austausch und bevorzugt die Supervision. Eine Befragte äußerte die Möglichkeit der eige- nen Fort- und Weiterbildung. In den abschließenden Betrachtungen dieser Studie wird deutlich, dass von den Pflegekräften Beratung durchgeführt wird, allerdings ist nicht klar darzu- stellen ob dies als persönlicher oder beruflicher Auftrag gesehen wird. Deutlich wird beschrieben dass die befragten Pflegekräfte ‚noch‘ nicht in der Lage sind Beratung professionell auszuüben, da es im Besonderen an reflexi- ven Kompetenzen fehlt."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0835.txt",
+    "question": "Wie wurden die bevorzugten Beratungs- und Unterstützungsangebote an Hochschulen von den befragten Personen bewertet und welche Beratungsform wird am meisten bevorzugt?",
+    "answer": "Die bevorzugten Beratungs- und Unterstützungsangebote an Hochschulen wurden von den befragten Personen unterschiedlich bewertet. Während einige die Vorteile persönlicher Beratungsgespräche hervorheben, wird die Bedeutung von Face-to-Face-Kommunikation in einem Interview relativiert. Die interviewte Person betont stattdessen die Qualität einer Fachberatung unabhängig von der Beratungsart. Sie gibt an, dass eine genau gleichwertige Beratung per Telefon und E-Mail stattfinden kann und dass sie es sinnvoller findet, eine Fachberatung zu haben, die vollständig und qualitativ gut berät, als dass man es an tausend Orte verteilt. Es wird jedoch auch betont, dass eine persönliche Beratung in vielen Fällen die bestmögliche Beratung ist. Die Person, die interviewt wurde, gibt an, dass sie mit einer kleinen Anzahl an Fällen pro Monat andere Prioritäten hat als wenn sie mit einer größeren Anzahl an Fällen pro Monat zu tun hat. Es wird also keine einheitliche Vorliebe für eine bestimmte Beratungsform ausgedrückt. Die Person, die interviewt wurde, bevorzugt eine Fachberatung, die vollständig und qualitativ gut ist, unabhängig davon, ob sie persönlich oder per Telefon und E-Mail stattfindet. Die persönliche Beratung wird jedoch als die bestmögliche Beratung in vielen Fällen angesehen. Die Person, die interviewt wurde, bevorzugt eine Beratung, die qualitativ gut ist, anstatt eine Beratung, die an viele Orte verteilt ist. Die Person, die interviewt wurde, bevorzugt eine Beratung, die vollständig ist, anstatt eine Beratung, die nicht vollständig ist. Die Person, die interviewt wurde, bevorzugt eine Beratung, die qualitativ gut ist, anstatt eine Beratung, die nicht qualitativ gut ist. Die Person, die interviewt wurde, bevorzugt eine Beratung, die vollständig und qualitativ gut ist, anstatt eine Beratung, die nicht vollständig und qualitativ gut ist. Es wird also keine einheitliche Vorliebe",
+    "expected": "Von den befragten Personen würden 86,7% der Männer und 92,0% der Frauen Beratungs- und Unterstützungsangebote an Hochschulen in Anspruch nehmen. Die persönlich Beratung wurde mit 88,5% als am hilfreichsten bewertet, gefolgt von Beratungen per E-Mail (53,4%) und Online-Informationsmaterialien (51,4%).",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "81836aeb3313da97b9d4a6fad67383149f2fe0322c3d291ba14012d208e4f046",
+        "score": 0.9906124472618103,
+        "meta": {
+          "file_path": "9783866496811_chapter_1032.txt",
+          "source_id": "33170d6cf11e894b91bc9809e7ee99a2a710b28521548d17dd4a945016771e08",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3559,
+          "_split_overlap": [
+            {
+              "doc_id": "f7fbe6978b26041a2c76ca608bda9b8e72cbf4bfb42ac245733bb01c88f63d26",
+              "range": [
+                1209,
+                1606
+              ]
+            },
+            {
+              "doc_id": "7f1f48569563532fe6fafc04d0411896ea6dc491221fb018564c0f7cfc468567",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "–berater standen vor der Aufgabe, das Beratungsangebot an die Familien umzuwandeln in einen Beratungsauftrag und zudem über Zielvereinbarungen die hoch belasteten Familien aktiv in den Beratungsprozess einzubeziehen. Eine ebensolche Herausforderung war das Verständnis, dass eine lösungsori- entierte Beratung zwar im Hinblick auf eine Lösung stattfindet, aber nicht grundsätzlich die Beseitigung des Problems zum Ziel hat. Zudem stand der Gast-Status in der häuslichen Umgebung für die Gesundheitsberaterinnen und –berater nicht von vornherein im Einklang mit einer lösungsorientierten Steuerung der Beratungsprozesse. Sie saßen auf dem Stuhl, der ihnen ange- boten wurde, tranken den Kaffee, mit dem sie erwartet wurden und hatten nur bedingt die Möglichkeit, auf Störfaktoren Einfluss zu nehmen. Diese Bedin- gungen erhöhten die Schwierigkeit, Einstieg und Ende zu finden und die Gespräche zu steuern. Im Laufe des Projektes haben die Gesundheitsberate- rinnen und –berater jedoch eine ressourceno"
+      },
+      {
+        "rank": 2,
+        "id": "50f197ec6fc9413dfc50f015e182b7e736885adf9456bb426ab7d962d1ed2641",
+        "score": 0.9884500503540039,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6307,
+          "_split_overlap": [
+            {
+              "doc_id": "ff6c996a6a6f17693733db60ac906b3b89ca5db17823a4262c5e9dd44a83d122",
+              "range": [
+                1343,
+                1785
+              ]
+            },
+            {
+              "doc_id": "0ddfcf99875c993d18c6c6bc744488e03afaeb038cf2ff4a9bd7a981193afb0e",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "und reflektieren die Beratenden das wahrgenommene Beratungshandeln einer anderen Person und formulieren ggf. Verbesserungsvorschläge bzw. weitere Handlungsstrategien in Bezug auf die Gestaltung der jeweiligen Beratungssituation (Schiersmann/Petersen/Weber 2017, S. 58). Das Instrument zielt darauf, durch die Bewertung der Einschätzung fremden beraterischen Handelns etwas über die Beratungskompetenzen der Einschätzenden aussagen zu können. Insbesondere wird die Wahrnehmungsfähigkeit der Person bzgl. des beraterischen Handelns erfasst und im Abgleich mit Verhaltensmerkmalen, die empirisch gewonnen wurden, bewertet (Schiersmann/Petersen/Weber 2017, S. 58f.). Mit Hilfe eines leitfadengestützten Sitzungsbogens werden Beratende angeregt, gezielt über ihr kompetentes Handeln zu reflektieren. Basis ist ein selbst durchgeführtes Beratungsgespräch. Die Auswertung und Überprüfung des beraterischen Handelns kann im Abgleich mit möglichen Verhaltensweisen und Begründungen für das Handeln gewonnen we"
+      },
+      {
+        "rank": 3,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.9831148386001587,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 4,
+        "id": "9b45cfb0e83510c3e19597c3fd6bae5ec4d715d772857f96d6657928e57e7521",
+        "score": 0.9730735421180725,
+        "meta": {
+          "file_path": "9783847412304_chapter_0814.txt",
+          "source_id": "c81311c52d16936e3904dc9d0394b852f3a0a0b5171df991b619d182b4635077",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6707,
+          "_split_overlap": [
+            {
+              "doc_id": "a3ba8dbc5826fe3b5742e6687ca5af7dbe2247dc6687b13e002a449391cb4b5e",
+              "range": [
+                1412,
+                1875
+              ]
+            }
+          ]
+        },
+        "content": "Verweisstrukturen, im Wissensmanagement, in der Umsetzung von Professionalisierungsangeboten sowie in der Auswahl ziel- gruppenspezifischer und bedarfsgerechter Beratungstools. Eine Berücksichtigung dieser Aspekte könnte wesentlich zur Sicherung des zielgruppenspezifischen Beratungswissens auf der einen Seite und zur Optimierung der Beratungsstrukturen für nicht-traditionell Studieninteres- sierte auf der anderen Seite und somit zu einer Professionalisierung von öf- fentlichen Hochschulen auf dem Feld der wissenschaftlichen Weiterbildung insgesamt beitragen."
+      },
+      {
+        "rank": 5,
+        "id": "04842e737a5d603afc358c26c7668f923cb6ecdd50efe2453f3cecd1b7d3da41",
+        "score": 0.971122682094574,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2258,
+          "_split_overlap": [
+            {
+              "doc_id": "91ed5a329818cb135876ec01ad5a953f93d88cd7762bb713cf986d8516a7fce5",
+              "range": [
+                1078,
+                1502
+              ]
+            },
+            {
+              "doc_id": "95277002ff00a72b33a4c5e9bd5a20ae7974b78364acde348fbed4fc76f1e006",
+              "range": [
+                0,
+                307
+              ]
+            }
+          ]
+        },
+        "content": "als gewünscht ge­ führt werden. Die Bedeutung der Face-to-Face-Kommunikation wird von den Interviewpartner_innen unterschiedlich beurteilt. Während in den meisten Interviews die Vorteile eines persönlichen Be­ ratungsgesprächs insbesondere auch für die Klient_innen hervorgehoben werden, wird die Bedeutung in dem nachfolgenden Interviewausschnitt re­ lativiert. Die interviewte Person betont stattdessen die Qualität einer Fach­ beratung unabhängig von der Beratungsart: »[N]atürlich die persönliche Beratung, individuelle Beratung, wo man sich mit den Personen hinsetzen kann, ist sehr gut und sehr wichtig und ist in vie­ len Fällen auch irgendwie, sagen wir mal, die bestmögliche Beratung. Aber wir sagen eben auch, dass eine genau gleichwertige Beratung per Telefon und E-Mail stattfinden kann […]. Ich finde es sinnvoller, eine Fachberatung zu haben, die dann halt manche Leute per E-Mail und Telefon berät, aber dafür wirklich vollständig und qualitativ gut berät, als dass man es halt an taus"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0835.txt",
+    "question": "Analysieren Sie, warum eine feste Ansprechperson, Lernberatung und Verpflegung als wichtige Unterstützungsangebote angesehen werden, und welche Bedeutung dies für die Gestaltung von Weiterbildungsprogrammen hat.",
+    "answer": "Eine feste Ansprechperson, Lernberatung und Verpflegung werden als wichtige Unterstützungsangebote angesehen, weil sie den Teilnehmenden bei der Gestaltung von Weiterbildungsprogrammen helfen, die mit den Anforderungen des lebenslangen selbstgesteuerten Lernens konform gehen. Dies ist insbesondere für beruflich Qualifizierte von Bedeutung, die sich mit der Verunsicherung der Lernenden und der Notwendigkeit, den Lernenden in den Pflegeeinrichtungen zu betreuen, auseinandersetzen müssen. Die institutionelle Verankerung von Lernberatung ist wichtig, um auf die Lernprozesse der an den ausbildungsbezogenen Lernprozessen Beteiligten Einfluss nehmen zu können. Lernberatung kann als eine professionelle Praxis i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet werden, die Antworten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Sie soll die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Belehrungs- und Erfahrungspädagogik ebnen helfen sollen, unterstützen. Die Gestaltung von Selbstlernprozessen in der Bildungsberatung ist daher von entscheidender Bedeutung, um die Teilnehmer bei der Gestaltung von Weiterbildungsprogrammen zu unterstützen. Dies kann durch die Anleitung von Lernprozessen, das Vermitteln von Informationen, die Begleitung der Integration neuer Informationen bzw. Erfahrungsmuster in eine veränderte Handlungsfähigkeit der Ratsuchenden und die Arbeit mit Beziehung und Emotionen in Lernprozessen erfolgen. Durch diese Unterstützungsangebote können die Teilnehmer ihre Weiterbildungsprogramme besser gestalten und die Anforderungen des lebenslangen selbstgesteuerten Lernens besser bewältigen.",
+    "expected": "Eine feste Ansprechperson bietet kontinuierliche Unterstützung und Orientierung bei Fragen, was Unsicherheiten abbaut und die Motivation erhöht. Lernberatung hilft, individuelle Lernbedarfe zu erkennen und zu adressieren, wodurch der Lernerfolg verbessert wird. Verpflegung unterstützt die Teilnehmenden, Energie und Konzentration während der Weiterbildungsmaßnahmen aufrechtzuerhalten. Diese Elemente sind entscheidend, um Barrieren wie Zeitdruck und Stress zu reduzieren und eine positive Lernumgebung zu schaffen, was die Teilnahme und den Erfolg von Weiterbildungsprogrammen stärkt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "253358bb325dab18df8fee2c1105129d629bb74ef66bf1a9d6a29549f79d89c7",
+        "score": 0.598103404045105,
+        "meta": {
+          "file_path": "9783847412304_chapter_0835.txt",
+          "source_id": "552c57082b127db078b37d624352235b44e7db3a885c82166dcd6647aa3cd363",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3672,
+          "_split_overlap": [
+            {
+              "doc_id": "0f2bedf6d6caf4a2b864f3ab8dcf77a9061562c7d81ba27c62cee84f44f541de",
+              "range": [
+                1271,
+                1614
+              ]
+            }
+          ]
+        },
+        "content": "bei OTH Professional und im ZWW sind. Die erste Kontaktaufnahme erfolgt überwiegend über Messen. Themen der Beratung sind Kosten, Organisatorisches (wie z. B. Ter- mine, Stundenplan usw.) sowie oftmals konkrete Fragen zu einem Kurs. Die Befragten berichten, dass die eigentliche Beratung erst in der Entscheidungs- phase einsetzt, d. h., wenn die Interessierten sich bereits für ein Weiterbil- dungsangebot entschieden haben. Zusammenfassend kann zielgruppenübergreifend festgehalten werden, dass beruflich Qualifizierte v. a. folgende Unterstützungsangebote als hilf- reich empfinden: Feste Ansprechperson, Lernberatung, Verpflegung und Be- treuung von Kindern sowie Mentoring. Als Beratungsthemen wurden vor- wiegend finanzielle Fördermöglichkeiten, Zeitmanagement sowie berufliche Perspektiven und Karriereplanung genannt, was sich wiederum mit den Er- kenntnissen von Banscherus und Pickert (2013) deckt. Beruflich Qualifizier- te sehen v. a. folgende Beratungsformen als hilfreich an (AES-Trendb"
+      },
+      {
+        "rank": 2,
+        "id": "d7d4e9d8298a1b0eff28eb809ffa052d385a4e25b4ec2a1d953f1b2e1b2fe8d2",
+        "score": 0.5885458588600159,
+        "meta": {
+          "file_path": "9783866496811_chapter_0922.txt",
+          "source_id": "55c90cf48bd21ed2692b942ff059ce0d990a79b09bb0f1af63368b8d450d255d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2321,
+          "_split_overlap": [
+            {
+              "doc_id": "ee1a6c1847299a797073bdb5871a7e8fa059c3edb8a85bd13595b80c9e35db30",
+              "range": [
+                1200,
+                1586
+              ]
+            },
+            {
+              "doc_id": "88b0809844f266b4de80bcf464375dd8e879c6ce122193f434c2878c45d3171e",
+              "range": [
+                0,
+                433
+              ]
+            }
+          ]
+        },
+        "content": "sind und diese zudem noch mit der Verunsicherung der Lernenden umzugehen haben. Kann hier Lernberatung unterstützen? Wie kann Lernberatung in diesem Kontext neu verstanden werden? KOSSAK hat in seiner Studie ‚Lernen Beraten. Eine dekonstruktive Analyse des Diskurses zur Weiterbildung‘ Lernberatung als eine professionelle Prak- tik i.S. eines theoretisch-konzeptionellen Konstrukts in der Weiterbildung als Beratung von Erwachsenen entfaltet (vgl. Kossak 2006). Lernberatung als eine spezifische Ausprägung systemischer Beratung in (berufs-)pädagogischen Kontexten wurde von KEMPER und KLEIN folgen- dermaßen definiert: Lernberatung ist „ (…) eine Konzeption beruflicher Erwachsenenbildung, die Antwor- ten auf die Anforderungen des lebenslangen selbstgesteuerten Lernens aus der Sicht der institutionalisierten Erwachsenenbildung zu geben versucht. Lernberatung steht auch für die Suche nach Organisationsformen, Gestaltungselementen, Methoden und Instrumenten, die in der Praxis den Weg von der Be"
+      },
+      {
+        "rank": 3,
+        "id": "76b16b7901c88a3f3c4e6fcb1789fc8398b5abb80fce7a684b818fe8695fe965",
+        "score": 0.3446088135242462,
+        "meta": {
+          "file_path": "9783866496811_chapter_0912.txt",
+          "source_id": "2657a4327bb62362b1aebe87c33202f353ee95bf2a80551de9e6a25dc79a3e27",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3645,
+          "_split_overlap": [
+            {
+              "doc_id": "372103b9259e457a5e1fbd4bffa523e89acb86d020839456b1e6273114e42935",
+              "range": [
+                1183,
+                1598
+              ]
+            },
+            {
+              "doc_id": "0049955ddea0debec734d9ddcb671c35122b294bfd5f2a1120c5c05e5e0ac55f",
+              "range": [
+                0,
+                500
+              ]
+            }
+          ]
+        },
+        "content": "dass Praxisanleiter ihrer Funktion quali- tativ und quantitativ gerecht werden.“ (DBR 2004) Im Rahmen ihrer Gesamtverantwortung für Organisation und Koordination der Pflegeausbildung sind die Pflegeausbildungsstätten zur Praxisbegleitung verpflichtet. Es ist festgelegt, dass die Lehrkräfte der Pflegeausbildungsstät- ten die ‚Lernenden‘ in den Pflegeeinrichtungen zu betreuen haben und die für die Praxisanleitung zuständigen Fachkräfte beraten sollen. Diese Aufgaben sind damit an die persönliche Anwesenheit in den Einrichtungen gebunden und fordern eine konzeptionelle Ausgestaltung. Ob dies auch ein Ort für Lernberatung im Sinne der systemischen Beratung im Lernprozess sein kann, darauf werden wir später noch eingehen. Alle Ausbildungs- bzw. Lernorte in den Pflegeausbildungen sind aufgefor- dert, ihr ausbildungsbezogenes Handeln auf die gesetzlichen Grundlagen abzustimmen und auf die Ausbildungsziele hin auszurichten. Spezifische Zielsetzungen ergeben sich dann aus den konkreten Erforder"
+      },
+      {
+        "rank": 4,
+        "id": "446b824aeaf319cd6c91d5ef7fbf88caa2b2f5b028f2e2e56b4e4bac8cf3873e",
+        "score": 0.3443838655948639,
+        "meta": {
+          "file_path": "9783847412304_chapter_1224.txt",
+          "source_id": "1580232e85318daa5bb6732ac0e6a062906b04f2996add73199af3abe0e52dfe",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1153,
+          "_split_overlap": [
+            {
+              "doc_id": "787cae45bbf4fe1add3eb8491cfcb59338ae70ea13395b1db36e7557e1290002",
+              "range": [
+                1153,
+                1567
+              ]
+            },
+            {
+              "doc_id": "7fda2c84511dbb9c1e476f6cd532f9de02074885efa59c07ca7fe96d9cbf566e",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "in einer Übersichtsgraphik. Sie diente dazu, die Beratungs- und Weiterbildungsangebote zu strukturieren und zu dokumentieren. 3. Feedback-Fragebögen zur Erhebung der Lerneffekte bei Teilnehmenden. 4. Prozessraster zu Verlauf und Effekt der Transformation in den Unterneh- men: Die Teilnahme an Beratungs- und Weiterbildungsangeboten wurde empirisch erfasst. 5. Interviews mit relevanten Unternehmensvertretern und -vertreterinnen zum Effekt der Beratung wurden durchgeführt. 6. In Artefaktanalysen wurden die messbaren dokumentierten Effekte in den Unternehmen ausgewertet. 4.2 Ergebnisse der Evaluation Wie oben dargestellt, wurden sowohl Einzelpersonen in der Beratung akti- viert wie auch Gruppen und die Organisation. Daher wurden auch diese drei Ebenen evaluiert. Ergebnisse auf der Subjekt- und Gruppenebene Die Lerneffekte wurden von den Teilnehmenden als hoch bis sehr hoch einge- stuft; Lernmethoden wie zum Beispiel die Kollegiale Beratung, das Rollen- spiel oder die Selbstlernprogramme mi"
+      },
+      {
+        "rank": 5,
+        "id": "5a35a853a7b5f602aab319b661d6b22a7ad950ada4435075c8ddd0a02331f033",
+        "score": 0.3369373083114624,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 18631,
+          "_split_overlap": [
+            {
+              "doc_id": "560ac3aeeae7fea06fbabf5b6f4a11292bc41a7b01123789d7eddfaf833c9464",
+              "range": [
+                1177,
+                1554
+              ]
+            },
+            {
+              "doc_id": "336e80aaeef976b2842cd45f2903b622fa33ed41c1dcf30346f2837c74c769dd",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Lehrpersonen zu sehr auf ein reines Arrangieren von Lernum­ gebungen zurückziehen würden, ginge dies mit der Gefahr einer Beziehungs­ unterbrechung zwischen Lehrenden und Lernenden einher. Wiltrud Gieseke weist darauf hin, dass der wichtige Aspekt von Beziehung und Emotionen in Lernprozessen zu wenig in der konstruktivistischen Lerntheorie berücksich­ tigt werde: „Bindungen und Beziehungen als Bedingungen von Lernentwicklungen der einzelnen Individuen, und nicht Selbstreferenzialität und Autopoiese, sind emotionstheoretisch die Bedingungen und Voraussetzungen von Lernen und Ler­ nentwicklung, welche für theoretische pädagogische Betrachtungen in den Vor­ dergrund zu treten haben.“ (Gieseke 2007: 107) Denn auch das lässt sich aus den konstruktivistischen Lerntheorien ableiten: „Der Mensch lernt nicht allein für sich, sondern ist auf ein Gegenüber angewie­ sen. Er/Sie sucht relationale Bedingungen, um über sich und seine/ihre erlebte Si­ tuationen hinauszuwachsen. Gleichzeitig werden von"
+      }
+    ]
+  }
+]

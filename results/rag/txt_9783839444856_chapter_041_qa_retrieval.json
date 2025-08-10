@@ -1,0 +1,646 @@
+[
+  {
+    "filename": "9783839444856_chapter_041.txt",
+    "question": "Was ist der Hauptfokus der Forschung zur Anerkennungsberatung in der beschriebenen Studie?",
+    "answer": "Die Forschung konzentriert sich auf das berufliche Selbstverständnis und die professionellen Handlungsstrategien der Berater_innen in der Anerkennungsberatung. \n\nI cannot find the answer in the provided context. \n\nThe final answer is: Die Forschung konzentriert sich auf das berufliche Selbstverständnis und die professionellen Handlungsstrategien der Berater_innen in der Anerkennungsberatung.",
+    "expected": "Der Hauptfokus liegt auf dem beruflichen Selbstverständnis und den professionellen Handlungsstrategien der Berater_innen in der Anerkennungsberatung, basierend auf Expert_inneninterviews mit Berater_innen und Koordinator_innen in Österreich.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "73dbccb40dfaae71d4f33bc1371c16c0f2a1e9be7dd719278783924355452a75",
+        "score": 0.9558212161064148,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b54467dc54261f69e29b3b9fe9277ef5ab17f4194eb3d475cd8f1bdcc21fbf9b",
+              "range": [
+                0,
+                489
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Forschungsinteresse Das Forschungsinteresse ergibt sich aus den aktuellen institutionellen Entwicklungen in der Anerkennungsberatung und aus beratungstheoreti­ schen Forschungsfragen. Beratung stellt eine Grundform pädagogischen Handelns dar (vgl. Giesecke 2010). Anerkennungsberatung kann damit als eine spezifische Form pädagogischer Praxis untersucht werden. Der Fokus dieser Arbeit liegt auf dem beruflichen Selbstverständnis und den profes­ sionellen Handlungsstrategien der Berater_innen in der Anerkennungsbe­ ratung. Die Rekonstruktion und Analyse erfolgen auf der Grundlage von Expert_inneninterviews mit den Berater_innen und Koordinator_innen der Beratungsstellen in Österreich. Den Schwerpunkt bilden damit zu­ nächst die Sichtweisen und Handlungsstrategien, die sich in der Anerken­ nungsberatung im Kontext dieser Anlaufstellen entwickelt haben. Darüber hinaus werden theoretische und empirische Bezüge zu einzelnen Anerken­ nungsberatungsstellen in Deutschland hergestellt. Diese E"
+      },
+      {
+        "rank": 2,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.9224412441253662,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      },
+      {
+        "rank": 3,
+        "id": "318cf89f56dc2457c4da6cb50f9534fe77569bce1bde8ee7c0490dbb47c93411",
+        "score": 0.8645201921463013,
+        "meta": {
+          "file_path": "9783847412304_chapter_0821.txt",
+          "source_id": "851e6db8351e868a25265090e85416abd84aaaa1ca7d30febaa2cf083f5f5e0d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Christoph Damm Anrechnungsberatung als Möglichkeit der ­ Öffnung von Hochschulen? Struktur und Praxis der ­Anrechnungsberatung in der ­wissenschaft­lichen ­Weiterbildung Im Beitrag wird der Frage nachgegangen, wie sich Anrechnungsberatung in Bezug auf die Öffnung von Hochschulen darstellt. Hergeleitet wird zunächst (1) Öffnung der Hochschulen für beruflich Qualifizierte sowie die Relevanz von Anrechnungsberatung. Anschließend wird (2) Anrechnungsberatung als Interaktionszusammenhang an den Grenzen der sozialen Welt wissenschaft- liche Weiterbildung konstruiert. Dem folgen (3) Ausführungen zu einer bun- desweiten Studie, die im Hinblick auf anrechnungsbezogene Interaktionszu- sammenhänge zwischen Ratsuchenden und –gebenden vorgestellt wird. Der Beitrag schließt (4) mit dem Fazit, dass Anrechnungsberatung dann zur Öff- nung der Hochschulen beiträgt, wenn dies im Interesse des Studienangebots bzw. der Hochschule ist."
+      },
+      {
+        "rank": 4,
+        "id": "15ffe2e59170b7796e9ffa9ac02c06d0dc20ab3ab52f6e1e894cc2864ffedccf",
+        "score": 0.8631619811058044,
+        "meta": {
+          "file_path": "9783839444856_chapter_07213.txt",
+          "source_id": "dd5f3c266c99cf8991dcbed83f2002a4eba352bcaf4484ede529b7d0b4dc4f6b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9dbc03c48ef6390ad02e138ac4238c0c4c4231f02d91f8746d6a281d1b39e033",
+              "range": [
+                0,
+                425
+              ]
+            }
+          ]
+        },
+        "content": "5.2.1.3 Gesellschaftliche Ebene Anerkennungsberatung übernimmt wie beschrieben eine wichtige Funktion zur Unterstützung während des Anerkennungs- oder Bewertungsverfah­ rens (vgl. für Österreich auch § 5 Abs. 1 AuBG). Formale Anerkennung muss allerdings nicht zwangsläufig auch zu gesellschaftlicher Anerkennung der Qualifikation und damit beruflicher Integration führen. Aus dem empiri­ schen Material wird deutlich, dass die Unterstützung der bildungsadäqua­ ten beruflichen Integration daher einen hohen Stellenwert im Beratungs­ gespräch einnimmt. Der gesellschaftlichen Ebene werden nachfolgend alle Beratungsleistungen zugeordnet, welche die Herstellung positionaler An­ erkennung und damit auch die soziale und berufliche Integration fördern. Als erstes Aufgabengebiet lässt sich die Unterstützung der Klient_innen in Bezug auf Anerkennungsprozesse bei der bildungs- und arbeitsmarktbezo­ genen Integration ableiten. Obwohl sich hier Parallelen zum Aufgabengebiet der Bildungs- und Berufsberat"
+      },
+      {
+        "rank": 5,
+        "id": "115a40d764483ed20d8f1ee456e6fcedbfdeff3e3abedff0bc1cc3bb0fcb3bcf",
+        "score": 0.708611011505127,
+        "meta": {
+          "file_path": "9783839444856_chapter_0732.txt",
+          "source_id": "e17c5db9adbf4564e33d9b3d734a7f770370d1b76e2793fbb6d459d14526c9d2",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 17449,
+          "_split_overlap": [
+            {
+              "doc_id": "3766333f0a2217a9c6d05ec050eb63d7659d1ddc1a73fd03f09ae5db958cbc9e",
+              "range": [
+                1019,
+                1404
+              ]
+            }
+          ]
+        },
+        "content": "Entwicklung der Anerkennungsberatung deutlich geworden ist, sind es gerade diese strukturellen Defizite, welche die Anerkennungs­ beratung als Unterstützungsleistung notwendig machen. »[E]igentlich würde ich mir wünschen, dass wir überflüssig wären (Lachen). Also dass Anerkennungsverfahren so einfach wären, dass es uns nicht braucht. Oder dass sie so überschaubar sind, dass es eben keiner hoch spezia­ lisierten Anerkennungsberatung bedarf, dass es doch eher wieder Teil einer allgemeineren Beratung ist, damit wir nicht Teil eines Beratungsmarathons werden« (I/DE, Z. 679-683)."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_041.txt",
+    "question": "Wie unterscheidet sich die Anerkennungsberatung in Österreich institutionell von der vorherigen Beratungspraxis?",
+    "answer": "Die Anerkennungsberatung in Österreich erfolgte seit 2006 als eine Querschnittsaufgabe in Migrationsberatungsstellen, Anerkennungsstellen oder Arbeitsämtern. In Österreich wird bereits seit 2006 Anerkennungsberatung als eine Querschnittsaufgabe in Migrationsberatungsstellen, Anerkennungsstellen oder Arbeitsämtern durchgeführt. Der Fokus dieser Arbeit liegt auf dem beruflichen Selbstverständnis und den professionellen Handlungsstrategien der Berater_innen in der Anerkennungsberatung. Die Rekonstruktion und Analyse erfolgen auf der Grundlage von Expert_inneninterviews mit den Berater_innen und Koordinator_innen der Beratungsstellen in Österreich. Den Schwerpunkt bilden damit zuerst die Sichtweisen und Handlungsstrategien, die sich in der Anerkennungsberatung im Kontext dieser Anlaufstellen entwickelt haben. Darüber hinaus werden theoretische und empirische Bezüge zu einzelnen Anerkennungsberatungsstellen in Deutschland hergestellt. Diese Erweiterung des Forschungsinteresses über Österreich hinaus ermöglicht es einerseits, die Ergebnisse in einem größeren Forschungsfeld einzuordnen und zudem ein weiteres Spektrum an gesetzlichen und institutionellen Rahmenbedingungen zu berücksichtigen. Anerkennungsberatung als sich neu entwickelnde Form pädagogischer Praxis bietet damit die Möglichkeit, grundlegende bildungswissenschaftliche Fragestellungen zum Verhältnis von Beratung und gesellschaftlichem Kontext am Beispiel eines migrationspolitischen Zusammenhangs zu untersuchen. In Österreich wurde die Anerkennungsberatung als Querschnittsaufgabe in Migrationsberatungsstellen, Anerkennungsstellen oder Arbeitsämtern durchgeführt. \n\n        Die Anerkennungsberatung in Österreich unterscheidet sich institutionell von der vorherigen Beratungspraxis durch die Einrichtung der Koordinierungsstelle, die den bundesweiten Austausch der Beratungsstellen ermöglicht. Die Koordinierungsstelle organisiert zweimal im Jahr AST-Treffen, bei denen alle Beratungs",
+    "expected": "In Österreich hat sich die Anerkennungsberatung seit 2006 von einer Querschnittsaufgabe in Migrationsberatungsstellen zu einer spezifischen Fachberatung entwickelt, die seit 2013 in vier zentralen Anlaufstellen in Wien, Linz, Graz und Innsbruck institutionalisiert ist und österreichweit Beratung anbietet.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "cb7cbb53b1405c3c94f8ae4724353f64b6abd0f965c40dac232db1005eb836fa",
+        "score": 0.9978514909744263,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 13497,
+          "_split_overlap": [
+            {
+              "doc_id": "7b4263c69516f1cc2f9fe9b8442f987218b0ec07aeb5fb9cd27a63874c6ffbc9",
+              "range": [
+                1010,
+                1480
+              ]
+            }
+          ]
+        },
+        "content": "nicht machen« (I/DE, Z. 291-297). Die institutionelle Verortung von Anerkennungsberatung stellt eine wichti­ ge Rahmenbedingung für die Ausgestaltung des Beratungsauftrags und des beruflichen Selbstverständnisses der Berater_innen dar. Dabei werden trotz der unterschiedlichen institutionellen Träger bestimmte Prinzipien deut­ lich, welche institutionen- und länderübergreifend das Selbstverständnis von Anerkennungsberatung charakterisieren. Diese Aufgabengebiete und Prinzipien sind Gegenstand der nachfolgenden Analyse und Interpretation der Expert_inneninterviews. Die hier dargestellten individuellen Bildungs- und Berufsbiografien der Berater_innen wie auch die Beschreibung der Be­ ratungsstellen dienen als Grundlage für die Einordnung der Ergebnisse."
+      },
+      {
+        "rank": 2,
+        "id": "73dbccb40dfaae71d4f33bc1371c16c0f2a1e9be7dd719278783924355452a75",
+        "score": 0.9960195422172546,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b54467dc54261f69e29b3b9fe9277ef5ab17f4194eb3d475cd8f1bdcc21fbf9b",
+              "range": [
+                0,
+                489
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Forschungsinteresse Das Forschungsinteresse ergibt sich aus den aktuellen institutionellen Entwicklungen in der Anerkennungsberatung und aus beratungstheoreti­ schen Forschungsfragen. Beratung stellt eine Grundform pädagogischen Handelns dar (vgl. Giesecke 2010). Anerkennungsberatung kann damit als eine spezifische Form pädagogischer Praxis untersucht werden. Der Fokus dieser Arbeit liegt auf dem beruflichen Selbstverständnis und den profes­ sionellen Handlungsstrategien der Berater_innen in der Anerkennungsbe­ ratung. Die Rekonstruktion und Analyse erfolgen auf der Grundlage von Expert_inneninterviews mit den Berater_innen und Koordinator_innen der Beratungsstellen in Österreich. Den Schwerpunkt bilden damit zu­ nächst die Sichtweisen und Handlungsstrategien, die sich in der Anerken­ nungsberatung im Kontext dieser Anlaufstellen entwickelt haben. Darüber hinaus werden theoretische und empirische Bezüge zu einzelnen Anerken­ nungsberatungsstellen in Deutschland hergestellt. Diese E"
+      },
+      {
+        "rank": 3,
+        "id": "5c5b76efb29b0161949e6a81861c6e487f037a5aa6cc766db16527a128dc758a",
+        "score": 0.9952261447906494,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Anerkennungstheoretische Perspektive Die Bezeichnung als »Anerkennungsberatung« bezieht sich auf die Zielset­ zung, den Anerkennungsprozess im Ausland erworbener Qualifikationen zu unterstützen (vgl. Bichl 2016a). Der in Österreich und Deutschland häufig verwendete Begriff der »Anlaufstellen« weist bereits darauf hin, dass der da­ mit verbundene Aufgabenbereich weiter gefasst wird. Anerkennung bezieht sich über die formale Anerkennung hinaus auf zusätzliche Dimensionen, die für eine erfolgreiche bildungsadäquate berufliche Integration relevant sind. Zur Beschreibung und Begründung dieser Aufgaben und Zielsetzungen von Beratung wird die zuvor erfolgte theoretische Einordnung als pädagogische Beratung im Bereich der Bildungs- und Berufsberatung um eine anerken­ nungstheoretische Perspektive erweitert. Pädagogisches Handeln soll damit unter den Bedingungen von Differenz und struktureller Ungleichheit näher konkretisiert werden. Balzer (2014, S. 585, Herv. i. Orig.) fasst die Bedeutung"
+      },
+      {
+        "rank": 4,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.9937441945075989,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      },
+      {
+        "rank": 5,
+        "id": "115a40d764483ed20d8f1ee456e6fcedbfdeff3e3abedff0bc1cc3bb0fcb3bcf",
+        "score": 0.9937226176261902,
+        "meta": {
+          "file_path": "9783839444856_chapter_0732.txt",
+          "source_id": "e17c5db9adbf4564e33d9b3d734a7f770370d1b76e2793fbb6d459d14526c9d2",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 17449,
+          "_split_overlap": [
+            {
+              "doc_id": "3766333f0a2217a9c6d05ec050eb63d7659d1ddc1a73fd03f09ae5db958cbc9e",
+              "range": [
+                1019,
+                1404
+              ]
+            }
+          ]
+        },
+        "content": "Entwicklung der Anerkennungsberatung deutlich geworden ist, sind es gerade diese strukturellen Defizite, welche die Anerkennungs­ beratung als Unterstützungsleistung notwendig machen. »[E]igentlich würde ich mir wünschen, dass wir überflüssig wären (Lachen). Also dass Anerkennungsverfahren so einfach wären, dass es uns nicht braucht. Oder dass sie so überschaubar sind, dass es eben keiner hoch spezia­ lisierten Anerkennungsberatung bedarf, dass es doch eher wieder Teil einer allgemeineren Beratung ist, damit wir nicht Teil eines Beratungsmarathons werden« (I/DE, Z. 679-683)."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_041.txt",
+    "question": "Welche Rolle spielen die Anlaufstellen (ASTen) in Österreich im Anerkennungsverfahren und wie ist ihre Zuständigkeit geregelt?",
+    "answer": "Die Anlaufstellen (ASTen) in Österreich spielen eine wichtige Rolle im Anerkennungsverfahren, indem sie die Beratung und Begleitung von Personen mit Migrationserfahrung anbieten. Sie sind in bestehende Migrant_innenvereine integriert und haben langjährige Erfahrung in der Beratung von Personen mit Migrationserfahrung. Die Anlaufstellen sind für die Kooperation mit relevanten Institutionen und Organisationen sowie für die Übernahme einer Filterfunktion gegenüber den rechtlich zuständigen Anerkennungsstellen verantwortlich, die die formalen Anerkennungsverfahren durchführen. Die Zuständigkeit der Anlaufstellen wird durch die Koordinierungsstelle in Wien koordiniert, die die Anerkennungsberatung österreichweit koordiniert und für die Qualitätssicherung, die Förderung des fachlichen Austausches und die Zusammenarbeit mit unterschiedlichen Stellen sowie die Dokumentation der Beratungsdaten verantwortlich ist. Die Anlaufstellen sind außerdem für die Beratung unab­hängig von dem Stand der deutschen Sprachkenntnisse verantwortlich und bieten mehrsprachiges Informationsmaterial an. Sie sind in kleinen Einheiten oft an die Grenzen ihrer Ressourcen gestoßen, aber es ist wichtig, von der Transparenzherstellung und der Vorteile von Kolleg_innen, die noch andere Sprachen können, zu sprechen. Insgesamt haben die Anlaufstellen in Österreich eine wichtige Rolle im Anerkennungsverfahren gespielt, indem sie die Beratung und Begleitung von Personen mit Migrationserfahrung anbieten und die Kooperation mit relevanten Institutionen und Organisationen sicherstellen. Die Zuständigkeit der Anlaufstellen wird durch die Koordinierungsstelle in Wien koordiniert, die die Anerkennungsberatung österreichweit koordiniert und für die Qualitätssicherung, die Förderung des fachlichen Austausches und die Zusammenarbeit mit unterschiedlichen Stellen sowie die Dokumentation der Beratungsdaten verantwortlich ist. Die Anlaufstellen sind außerdem für die Beratung unab­hängig von dem Stand der deutschen Sprachkenntnisse verantwortlich und bieten mehrsprachiges Informationsmaterial an. Sie sind in",
+    "expected": "Die ASTen bieten Beratung und Begleitung während des Anerkennungsverfahrens an, sind jedoch nicht für die formale Anerkennung oder Bewertung der im Ausland erworbenen Qualifikationen zuständig; diese erfolgt durch rechtlich zuständige Behörden und Institutionen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.9573827981948853,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      },
+      {
+        "rank": 2,
+        "id": "c80b7f1575ac18bf8a302ad198a7f7137dad971ded3d2c3393bd6c30446592f5",
+        "score": 0.9394432306289673,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2558,
+          "_split_overlap": [
+            {
+              "doc_id": "b54467dc54261f69e29b3b9fe9277ef5ab17f4194eb3d475cd8f1bdcc21fbf9b",
+              "range": [
+                1257,
+                1644
+              ]
+            },
+            {
+              "doc_id": "03fc09f7a0ec3b0e283ac89f5b83fe7ae8463418592f45f3a166c5c75e34e3bd",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "Anlaufstellen und weitere Maßnahmen zur Anerkennung und Bewertung von im Ausland erworbenen Qualifikationen« des ehemaligen Bundesministeriums für Arbeit, Sozia­ les und Konsumentenschutz (BMASK, seit 2018 BMASGK; vgl. Bichl 2016a). Die darin beschriebenen Aufgaben beziehen sich neben der mehrsprachi­ gen Beratung und Begleitung im Anerkennungsverfahren auch auf die Ko­ operation mit relevanten Institutionen und Organisationen sowie auf die Übernahme einer Filterfunktion gegenüber den rechtlich zuständigen An­ erkennungsstellen, welche die formalen Anerkennungsverfahren durchfüh­ ren (vgl. BMASK 2012). Die Anlaufstellen sind in bestehende Migrant_innenvereine integriert, die bereits über langjährige Erfahrung in der Beratung von Personen mit Migrationserfahrung verfügen und entsprechende Netzwerke aufweisen (vgl. Tomić 2015). Unterstützt werden die Beratungsstellen durch ein Back­ office in Wien, welches die Anerkennungsberatung österreichweit koordi­ niert. Als Aufgaben dieser Koordin"
+      },
+      {
+        "rank": 3,
+        "id": "7b33b43dc2b4d4dfb393b4707ca108dbf8098b0d52b051adea0e2e86eab62a09",
+        "score": 0.8731863498687744,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8869,
+          "_split_overlap": [
+            {
+              "doc_id": "15810ef9646f282c8fc29283c25457c1bdc26cee604a91db13be2cb1ea5cc98a",
+              "range": [
+                1213,
+                1631
+              ]
+            },
+            {
+              "doc_id": "8f1f062976a08ac671a7709d250ef5abd09ab1aa0631a86ab176dfb9f27e406c",
+              "range": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        "content": "den Regeldiensten oftmals (noch) nicht in diesem Ausmaß stattgefunden hat. Ergänzend konnte beobachtet werden, dass bereits im Eingangsbereich der Beratungsstellen mehrsprachiges Informationsmaterial ausliegt und bei der Anmeldung bzw. Terminvereinbarung die Offenheit für verschiedene Sprachen eine wichtige Rolle einnimmt. Während für viele Beratungs- und Sozialleistungen ein bestimmtes Sprachniveau in Deutsch als notwendige Voraussetzung gesehen wird, ermöglichen die Anlaufstellen Beratung unab­ hängig von dem Stand der deutschen Sprachkenntnisse. Gleichzeitig stoßen hier vor allem die kleineren Beratungsstellen schnell an die Grenzen ihrer Ressourcen. »[A]ber dort für die Gruppen, wo wir die Sprachen sprechen, haben wir so einen Grundsatz, über Bildungswege nachzudenken, muss man nicht Deutsch können. Also weil halt unsere Leute ein gewisses Bildungsniveau haben, ist es möglich, mit ihnen über Bildung und Anerkennung schon in der Mutter- oder Vatersprache zu reden, und die können vie"
+      },
+      {
+        "rank": 4,
+        "id": "b823765b6446d5d00266add25b66a38748b0f4eddf3ea34113ccaf00236b08ff",
+        "score": 0.8463883399963379,
+        "meta": {
+          "file_path": "9783839444856_chapter_042.txt",
+          "source_id": "65414aa1d80825662f85bd1a867cb5f903ff3216cd14a3f246e909eddd9d9eb1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6417,
+          "_split_overlap": [
+            {
+              "doc_id": "20a5ae85c6425259e0b294ecca69f40ac63f2d365d7b42e0087dbbc34ae35cab",
+              "range": [
+                1259,
+                1634
+              ]
+            }
+          ]
+        },
+        "content": "von den ASTen und in Deutschland vor allem durch die Beratungsstellen im Rahmen des IQ-Netzwerkes umgesetzt wird. Als Beratungsstellen in Österreich wurden systematisch die vier AST-Standorte Wien, Linz, Graz und Innsbruck ausgewählt. Weitere Interviews erfolgten mit den Koordinator_innen, um eine umfassende Perspektive auf die Orga­ nisation zu erhalten. Ergänzend wurden Interviews in drei Beratungsstellen in einem deutschen Bundesland durchgeführt, die von Beginn an in engem Austausch mit den österreichischen Beratungsstellen standen. Zusätzlich wurde eine weitere Beratungsstelle aus einem zweiten Bundesland mitein­ bezogen, da sich hier interessante Besonderheiten in Bezug auf die recht­ lichen Rahmenbedingungen zeigten. Für die Darstellung der Ergebnisse aus Deutschland ist damit zu bedenken, dass nur ein Einblick in die Anerken­ nungsberatung und kein umfassendes oder repräsentatives Bild gegeben werden kann."
+      },
+      {
+        "rank": 5,
+        "id": "f477f3e52dcea7d279ab9abe313ba91ef696be3333ffcce79c048ebf8a733828",
+        "score": 0.544777512550354,
+        "meta": {
+          "file_path": "9783839444856_chapter_07111.txt",
+          "source_id": "1de88b5cbf611f4710305cf8851e34af4b34d6b3d9900af60e7d4e5b628bd8c2",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3412,
+          "_split_overlap": [
+            {
+              "doc_id": "2e140c8d0fac572c1dbe728fa25d5a29fb5ccffb2b16e5804fe319d2378b6603",
+              "range": [
+                1009,
+                1422
+              ]
+            },
+            {
+              "doc_id": "52e208c6e4a6222c160e8d4aefa73f202fd7cd3bcb82172983b9e33aeb3496ac",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "der praktischen Beratungsarbeit in einer Beratungsstel­ le, die zunächst Anfragen aus ganz Deutschland sowie zunehmend auch aus dem Ausland bearbeitet hat. Dieses Modellprojekt wurde wissenschaftlich begleitet und in der bereits beschriebenen Studie »Analyse der bundeswei­ ten Anerkennungsberatung im Modellprojekt Global Competences. Doku­ mentation 2008-2009« (vgl. Englmann und Müller-Wacker 2010) evaluiert. In Österreich wird Anerkennungsberatung als spezifische Fachberatung be­ reits seit 2006 als eigenständiges Projekt in Wien angeboten. Nach diesem Vorbild sind mit der Förderung des ehemaligen BMASK die Anlaufstellen in den weiteren Bundesländern entstanden. Aufgrund einer bereits seit mehre­ ren Jahren existierenden österreichweiten Arbeitsgemeinschaft konnte das hierfür notwendige Netzwerk aus Beratungsstellen entsprechend schnell aufgebaut werden. »[D]as war ein bisschen ein Zufall, sag ich jetzt, dass halt wir in all diesen Bundesländern Bruder- und Schwesternvereine gehabt ha"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_041.txt",
+    "question": "Warum ist es aus bildungswissenschaftlicher Perspektive bedeutsam, Anerkennungsberatung im migrationspolitischen Kontext zu untersuchen?",
+    "answer": "Form pädagogischer Praxis bietet damit die Möglichkeit, grundlegende bildungswissenschaftliche Fragestellungen zum Verhältnis von Beratung und gesellschaftlichem Kontext am Beispiel eines migrationspolitischen Zusam­ menhangs zu untersuchen. \n        I cannot find the answer in the provided context.",
+    "expected": "Weil Anerkennungsberatung als neu entstehende Form pädagogischer Praxis grundlegende bildungswissenschaftliche Fragestellungen zum Verhältnis von Beratung und gesellschaftlichem Kontext aufzeigt, insbesondere im Zusammenhang mit migrationspolitischen Herausforderungen und Rahmenbedingungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b54467dc54261f69e29b3b9fe9277ef5ab17f4194eb3d475cd8f1bdcc21fbf9b",
+        "score": 0.6753636598587036,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1301,
+          "_split_overlap": [
+            {
+              "doc_id": "73dbccb40dfaae71d4f33bc1371c16c0f2a1e9be7dd719278783924355452a75",
+              "range": [
+                1301,
+                1790
+              ]
+            },
+            {
+              "doc_id": "c80b7f1575ac18bf8a302ad198a7f7137dad971ded3d2c3393bd6c30446592f5",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Form pädagogischer Praxis bietet damit die Möglichkeit, grundlegende bil­ dungswissenschaftliche Fragestellungen zum Verhältnis von Beratung und gesellschaftlichem Kontext am Beispiel eines migrationspolitischen Zusam­ menhangs zu untersuchen. 2.1.1 Institutionelle Entwicklungen Anerkennungsberatung erfolgte bisher primär als Querschnittsaufgabe in Migrationsberatungsstellen, in Anerkennungsstellen oder Arbeitsämtern. In Österreich wird bereits seit 2006 Anerkennungsberatung als eine spe­ zifische Fachberatung in Wien angeboten. In den letzten Jahren hat sich Anerkennungsberatung darüber hinaus als eine einheitliche und öster­ reichweite Beratungsform institutionalisiert. Anfang 2013 wurden in den Städten Wien, Linz, Graz und Innsbruck vier Anlaufstellen eingerichtet, die teilweise für benachbarte Bundesländer mit zuständig sind bzw. Außenstel­ len mit bedienen. Die ASTen bieten Beratung und Begleitung während des Anerkennungsverfahrens an, sind jedoch nicht selbst für die Anerkennung "
+      },
+      {
+        "rank": 2,
+        "id": "095ec463a27905c791bfb8f3777829566c3155da6fde15a90b2053932a5f520f",
+        "score": 0.17043288052082062,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 11014,
+          "_split_overlap": [
+            {
+              "doc_id": "8f1f062976a08ac671a7709d250ef5abd09ab1aa0631a86ab176dfb9f27e406c",
+              "range": [
+                1041,
+                1432
+              ]
+            },
+            {
+              "doc_id": "4bec825bd579eaee97f97939b9eca7aacaef71dc184ef72a5134d01369b31c79",
+              "range": [
+                0,
+                333
+              ]
+            }
+          ]
+        },
+        "content": "persönlicher als über eine vermittelnde Person, aber vielleicht ist es eine Entwicklung, wo es notwendig wäre, aber es fehlt einfach die Ausein­ andersetzung« (A/AT, Z. 1032-1041). Während in Österreich fast alle Interviewpartner_innen Beratung in unter­ schiedlichen Sprachen anbieten, wird in den Interviews in Deutschland Mehrsprachigkeit auch als ein institutioneller Entwicklungsbedarf thema­ tisiert. Interessanterweise wird die Bedeutung der biografischen Erfahrung von Migration und des Anerkennungsprozesses nicht als Vorteil für den Be­ ratungsprozess thematisiert, sondern in Bezug auf eine Art von »Vorbild­ funktion« bzw. Authentizität hinsichtlich der beruflichen Integration von Berater_innen mit im Ausland erworbenen Qualifikationen. Der Einsatz von Dolmetscher_innen in der Beratung wird bei den Interviewpartner_innen in Deutschland eher als ein selbstverständlicher Bestandteil der Beratungs­ arbeit in diesem Bereich dargestellt. In den meisten Fällen wird hier auch von entsprec"
+      },
+      {
+        "rank": 3,
+        "id": "2402c5b89698b5978d3f519e77a827cc4a609f5dcf89a4d24411cf6a77cc9f1d",
+        "score": 0.05839996412396431,
+        "meta": {
+          "file_path": "9783839444856_chapter_0741.txt",
+          "source_id": "575b247eb00b2f793636511f9cb001ff2143da981e3bb57bb9b60f9518c80d10",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1203,
+          "_split_overlap": [
+            {
+              "doc_id": "6f4f782af39a8a74e27d9424a202f25c90081f0f88a02299a399a5b6bb59729c",
+              "range": [
+                1203,
+                1605
+              ]
+            }
+          ]
+        },
+        "content": "gerfristigen Wirkungen von Anerkennungsberatung wurden in Hamburg und Bayern in sogenannten Verbleibstudien erhoben, in denen als Kriterien vor allem strukturelle Veränderungen, wie die erfolgreiche berufliche Integ­ ration oder der positive Abschluss eines formalen Anerkennungsverfahrens, herangezogen wurden (vgl. Brussig et al. 2013; Englmann und Müller-Wa­ cker 2014). Der Schwerpunkt liegt damit vor allem auf arbeitsmarkt- und migrationspolitisch begründeten Zielsetzungen. In den Interviews wird dagegen eine umfassendere Perspektive über die strukturellen Faktoren hi­ naus deutlich. Dabei erfahren die zu Beginn beschriebenen Aufgabenfelder eine unterschiedliche Gewichtung. In den Interviews werden als Zielsetzun­ gen entweder die Erhöhung der Handlungs- und Entscheidungsfähigkeit der beratenen Person auf individueller Ebene oder die bildungsadäquate berufliche Integration auf gesellschaftlicher Ebene genannt. Die formale Anerkennung auf rechtlicher Ebene wird in keinem Interview als"
+      },
+      {
+        "rank": 4,
+        "id": "2f037197dea011d1fb639c8595f708f1bfefd2bdebe39f09acf934f426670902",
+        "score": 0.04831484332680702,
+        "meta": {
+          "file_path": "9783839444856_chapter_031.txt",
+          "source_id": "9eafd55225ed62adcefb21b957709f15ea5268ad4422b8ea72660e4a8e02c0f7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6d548ba4b77ba6d30766f68c5c16b0f5ea71232cd71a626cc1e267f2f91dd3d5",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "1.1 Berufliche Integration als Prozess der Anerkennung Zuwander_innen mit im Ausland erworbenen Qualifikationen können ihre Kompetenzen oftmals nicht für eine entsprechende bildungsadäquate be­ rufliche Integration nutzen. Diese Feststellung trifft nicht nur auf neu zu­ gewanderte Menschen zu, sondern erweist sich als unabhängig von der Auf­ enthaltsdauer und bezieht sich auch auf hoch qualifizierte Migrant_innen (vgl. Müller und Ayan 2013, S. 4). In Österreich fühlten sich nach dem Mik­ rozensus 2014 22 % der Beschäftigten mit Migrationshintergrund für ihre Tätigkeit überqualifiziert, bei Personen ohne Migrationshintergrund waren es im Vergleich 9 % der Beschäftigten (vgl. Statistik Austria 2017, S. 60). Erste Maßnahmen zur Verbesserung haben sich seit den 1960/70er Jahren zunächst vor allem auf die individuelle Ebene der betroffenen Personen bezogen. Die Individualisierung der Verantwortung für strukturelle Prozesse und die ein­ seitige Definition von Integration als Leistung der Mig"
+      },
+      {
+        "rank": 5,
+        "id": "ca3944b80250a091a43fdffc9cceaaf49dd3af9cde807681b9505aa515e35595",
+        "score": 0.024785270914435387,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 17239,
+          "_split_overlap": [
+            {
+              "doc_id": "0988207b483a761ee62c4635a2a783bbdad238528dfe457de7800db7678aaabe",
+              "range": [
+                1197,
+                1642
+              ]
+            }
+          ]
+        },
+        "content": "tungen der Interviewpartner_innen lassen sich dabei als unterschiedliche Erfahrungen verweigerter Anerkennung und aktiver Abwertung deuten. Die Anerkennungsverletzungen beziehen sich auf berufliche Qualifikationen und Kompetenzen ebenso wie auf zugeschriebene kollektive Zugehörigkeits­ merkmale oder äußern sich in Form einer allgemeinen Entpersonalisierung hinsichtlich des Migrant_innenstatus. Auch Neumann (vgl. 2010) unter­ sucht in seiner Studie »Nichtanerkennungs- und Missachtungserfahrungen von akademisch qualifizierten BildungsinländerInnen in Deutschland und Kanada« die Erfahrungen während der Migration. Besonders interessant ist hier sein Forschungsfokus auf Personen mit Migrationserfahrung, welche ihre formale Qualifikation jedoch im Aufnahmeland erworben haben und damit als »Bildungsinländer_innen« definiert werden. In dieser Konstella­ tion lassen sich Erfahrungen sozialer Anerkennung bzw. verweigerter An­ erkennung unabhängig von rechtlichen Anerkennungsfragen untersuchen."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_041.txt",
+    "question": "Wie erweitert die Einbeziehung von Anerkennungsberatungsstellen in Deutschland das Forschungsinteresse und welche Vorteile bringt dies für die Studie?",
+    "answer": "Die Einbeziehung von Anerkennungsberatungsstellen in Deutschland erweitert das Forschungsinteresse, indem sie die Möglichkeit bietet, die Bedeutung und die Auswirkungen von Anerkennungsberatung in einem weiteren Kontext zu untersuchen. Dies bringt mehrere Vorteile für die Studie mit sich:\n         - Eine umfassendere Darstellung der Anerkennungsberatung: Durch die Einbeziehung von Anerkennungsberatungsstellen in Deutschland kann die Studie eine umfassendere Darstellung der Anerkennungsberatung bieten, indem sie die Erfahrungen und Praktiken von Beratern in verschiedenen Kontexten untersucht.\n         - Vergleich mit der österreichischen Situation: Die Einbeziehung von Anerkennungsberatungsstellen in Deutschland ermöglicht einen Vergleich mit der Situation in Österreich, was eine detailliertere Analyse der Unterschiede und Gemeinsamkeiten zwischen den beiden Kontexten ermöglicht.\n         - Erweiterung der empirischen Daten: Die Einbeziehung von Anerkennungsberatungsstellen in Deutschland erweitert das Spektrum der empirischen Daten, die in der Studie analysiert werden können, und ermöglicht eine umfassendere Darstellung der Anerkennungsberatung in verschiedenen Kontexten.\n         - Vertiefung der theoretischen Auswertung: Die Einbeziehung von Anerkennungsberatungsstellen in Deutschland ermöglicht eine vertiefte theoretische Auswertung der Ergebnisse, indem sie die Möglichkeit bietet, die Bedeutung und die Auswirkungen von Anerkennungsberatung in verschiedenen Kontexten zu analysieren und zu vergleichen.",
+    "expected": "Die Einbeziehung deutscher Anerkennungsberatungsstellen ermöglicht es, die Ergebnisse in einem größeren Forschungsfeld einzuordnen und ein breiteres Spektrum an gesetzlichen und institutionellen Rahmenbedingungen zu berücksichtigen, was die Vergleichbarkeit und Generalisierbarkeit der Erkenntnisse erhöht.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.9938192963600159,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      },
+      {
+        "rank": 2,
+        "id": "5c5b76efb29b0161949e6a81861c6e487f037a5aa6cc766db16527a128dc758a",
+        "score": 0.9903696179389954,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Anerkennungstheoretische Perspektive Die Bezeichnung als »Anerkennungsberatung« bezieht sich auf die Zielset­ zung, den Anerkennungsprozess im Ausland erworbener Qualifikationen zu unterstützen (vgl. Bichl 2016a). Der in Österreich und Deutschland häufig verwendete Begriff der »Anlaufstellen« weist bereits darauf hin, dass der da­ mit verbundene Aufgabenbereich weiter gefasst wird. Anerkennung bezieht sich über die formale Anerkennung hinaus auf zusätzliche Dimensionen, die für eine erfolgreiche bildungsadäquate berufliche Integration relevant sind. Zur Beschreibung und Begründung dieser Aufgaben und Zielsetzungen von Beratung wird die zuvor erfolgte theoretische Einordnung als pädagogische Beratung im Bereich der Bildungs- und Berufsberatung um eine anerken­ nungstheoretische Perspektive erweitert. Pädagogisches Handeln soll damit unter den Bedingungen von Differenz und struktureller Ungleichheit näher konkretisiert werden. Balzer (2014, S. 585, Herv. i. Orig.) fasst die Bedeutung"
+      },
+      {
+        "rank": 3,
+        "id": "03fc09f7a0ec3b0e283ac89f5b83fe7ae8463418592f45f3a166c5c75e34e3bd",
+        "score": 0.9795613884925842,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3793,
+          "_split_overlap": [
+            {
+              "doc_id": "c80b7f1575ac18bf8a302ad198a7f7137dad971ded3d2c3393bd6c30446592f5",
+              "range": [
+                1235,
+                1609
+              ]
+            },
+            {
+              "doc_id": "87c3c37d40aed5395682e13e5ac8347d0955f97a179f9e93828ebab9ea4fb0c3",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "Jahr wurden ca. 4600 Personen österreichweit in den Anlaufstellen beraten. Ungefähr die Hälfte der Klient_innen hat einen universitären Abschluss im Ausland erworben und ein weiteres knappes Drittel besitzt mit einem Abschluss auf Matura­ niveau die Hochschulreife (vgl. AST 2015). Anerkennungsberatung wird damit vor allem von Personen mit höheren formalen Qualifikationen in An­ spruch genommen. Am 12. Juli 2016 ist in Österreich das bereits erläuterte Anerkennungs- und Bewertungsgesetz (AuBG) in Kraft getreten. Das AuBG umfasst Maß­ nahmen wie die Einrichtung eines zentralen Anerkennungsportals zur elek­ tronischen Einreichung von Anträgen oder die Einführung von speziellen Verfahren für geflüchtete Personen ohne formale Qualifikationsnachweise. Mit § 5 AuBG wird die Schaffung eines flächendeckenden Beratungsange­ bots durch die Institutionalisierung von Beratungsstellen unter der Nut­ zung bestehender Strukturen gesetzlich festgeschrieben. Die Beratungs­ stellen übernehmen demnach fol"
+      },
+      {
+        "rank": 4,
+        "id": "1ec6f381d6e1062dc864e2a4e1506815fab7aa1bf4c05d6531a003f11a41949e",
+        "score": 0.9783036112785339,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "3.2.3 Anerkennungstheoretisches Rahmenmodell In Anlehnung an die hier dargestellten anerkennungs- und bildungstheore­ tischen Ansätze und in Kombination mit den zuvor beschriebenen Ebenen der Zielsetzungen von Bildungsberatung wird in der vorliegenden Arbeit zwischen drei Analyseebenen unterschieden, welche die Grundlage für die Auswertung der empirischen Daten bilden. Die Ebenen bezeichnen dabei drei unterschiedliche gesellschaftliche Sphären, in denen Anerkennungsver­ hältnisse hergestellt werden können und die entsprechend den Zielsetzungen der Bildungs- und Berufsberatung Relevanz für die Aufgaben der Anerken­ nungsberatung aufweisen. Die Interaktionsebene des Beratungsgesprächs selbst bildet die erste Analyseebene. Aufgrund der Bedeutung von formalen Anerkennungsverfahren für die Beratungspraxis wird der rechtliche Kon­ text als zweite Analyseebene beschrieben. Die dritte Ebene umfasst die ge­ sellschaftliche Anerkennung in Form von sozialer Wertschätzung der indi­ viduellen Fähig"
+      },
+      {
+        "rank": 5,
+        "id": "85af4dc284861ea4c83490237948fd9212b9db8799840076c59e97907af96ae0",
+        "score": 0.970140278339386,
+        "meta": {
+          "file_path": "9783839444856_chapter_0721.txt",
+          "source_id": "cea8d5329456b7ecf4a74bdf16b6cf3c3219c62ad936a1bc093260022598ff01",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.2.1 Aufgabenfelder der Anerkennungsberatung Das anerkennungstheoretische Rahmenmodell bietet die Möglichkeit, die Aufgabenbereiche von Anerkennungsberatung auf unterschiedlichen Ebe­ nen zu rekonstruieren und damit den Blick über die eigentliche Beratungs­ interaktion hinaus auf den Umgang mit strukturellen Bedingungen von Beratung zu richten. Aus der Beschreibung der drei Anerkennungsebenen können in einem ersten Schritt unterschiedliche Kategorien zur Analyse der Aufgabenfelder abgeleitet und durch das Interviewmaterial empirisch an­ gereichert werden. Anschließend wird das theoretisch begründete Katego­ riensystem durch induktiv gewonnene Kategorien aus dem Datenmaterial erweitert. Bei der Zuordnung zu den Analyseebenen ist zu berücksichtigen, dass es sich um ein theoretisches Modell handelt, welches Überschneidun­ gen und Querverbindungen zwischen den Ebenen nur begrenzt abbilden kann. Die nachfolgende Darstellung der Ergebnisse umfasst daher immer auch Hinweise auf relevante Ver"
+      }
+    ]
+  }
+]

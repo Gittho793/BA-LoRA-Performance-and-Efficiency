@@ -1,0 +1,695 @@
+[
+  {
+    "filename": "1001586_chapter_0858.txt",
+    "question": "Welche Materialien werden für die Methode \"Klotzen\" benötigt?",
+    "answer": "• Holzklötze\n        • Kreppband\n        • Pappe\n        • Stifte",
+    "expected": "Für die Methode \"Klotzen\" werden Holzklötze, Kreppband, Pappe und Stifte benötigt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+        "score": 0.9962659478187561,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "5.5.8 Klotzen Jaqueline Wolf und Laura Nagelschmidt Kurzbeschreibung Der Name dieser Methode verweist auf die Materialien, die zu ihrer Durchfüh­ rung benötigt werden: Klötze, ähnlich wie Spielzeugbauklötze. Es handelt sich um eine Methode, die mit symbolischer Darstellung arbeitet und die Visua­ lisierung einer komplexen, auch verworrenen Ausgangssituation ermöglicht. Auf einem Plakat, das auf dem Tisch ausgebreitet ist, teilt der Berater oder die Beraterin einen Kreis in so viele Abschnitte (Entscheidungsfelder) ein, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Ein weiteres Feld (Lösungsfeld) sollte hinzugefügt, jedoch erst am Schluss be­ arbeitet werden. Die Klötze können auf den Entscheidungsfeldern angeordnet und ggf. auch als konkretes Problem beschriftet werden. Durch das Anordnen, Hinlegen oder Aufstellen, sowie die Menge der Klötze und ihre Beschriftung und Bewegung wird der Beratungsprozess in Gang gebracht und begleitet. Der Einsatz "
+      },
+      {
+        "rank": 2,
+        "id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+        "score": 0.9824339747428894,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1066,
+          "_split_overlap": [
+            {
+              "doc_id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+              "range": [
+                1066,
+                1449
+              ]
+            },
+            {
+              "doc_id": "1b7acf636f8ea61b473bf6b9fb7b302da0bd920916bc6078f10508f3ad9774a5",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "Schritte/Etappen für den künftigen Bildungsweg des bzw. der Ratsuchen­ den zu planen. Dem oder der Ratsuchenden werden mögliche Probleme bei der Realisierung verdeutlicht, sodass die Methode dabei unterstützt, Prob­ leme realistisch einzuschätzen, um kurz-, mittel-, oder auch langfristige Ent­ scheidungen treffen zu können. Material: Phase/Funktion: Anliegen: Zeit: • Holzklötze • Kreppband • Pappe • Stifte Aufzeigen/Erarbeiten inhaltlicher Schwerpunkte mit Gewichtung Grundlegende Orientie­ rung und Entscheidungs­ findung ab 45 Min. Ablauf der Beratung 1. \u0007Vorbereitung: Legen Sie die benötigten Materialien bereit. Wechseln Sie ggf. an einen größeren Tisch. 2. \u0007Methode einleiten: Bei der Einleitung der Methode sollten Sie darauf Abb. 19: \u0007Klotzen – Alternative Aufteilung der Entscheidungsfelder (eigene Darstellung) Die anschließende Interpretation des so entstandenen Bildes erfolgt gemein­ sam. Jedes einzelne Entscheidungsfeld wird in den Fokus genommen, konkrete aber auch noch diffuse P"
+      },
+      {
+        "rank": 3,
+        "id": "ed967c9db20b3b758c0bbc829676c74affedb5d8bc24a4c13a3f026b8190fea0",
+        "score": 0.9740327000617981,
+        "meta": {
+          "file_path": "1001586_chapter_084.txt",
+          "source_id": "5134f1b377f44191938ba67612ea64aa34ed406e509d4f76c59028805d32c746",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1195,
+          "_split_overlap": [
+            {
+              "doc_id": "d30040bb6cbdd06c484267e261592912b257729c0a106374453b482b9bd9ef1d",
+              "range": [
+                1195,
+                1543
+              ]
+            },
+            {
+              "doc_id": "343427ede4f8fd12a6070feebb768b6c09da48e7bfbff7cfa66461123b8cc9b9",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "geben oft schon Vorschläge für eine Schrittfolge, in der die Visualisierung in den Beratungsprozess integriert wird. In Methoden werden also schon Ent­ scheidungen vorweg genommen, z.B. mit welcher Metapher gearbeitet wird, in welcher Phase die Methode eingesetzt werden kann und welche Fragen durch den Beratungsprozess führen. Hier soll nun eine Auswahl an grundlegenden Visualisierungstechniken beschrieben werden, in denen diese Entscheidungen noch nicht getroffen wurden. Die Techniken lassen sich daher unterschiedlich in Beratungssituati­ onen zusammenfügen und frei in verschiedene Phasen integrieren. Stichwortkarten Als Material lassen sich Moderationskarten (10x8 cm), Karteikarten (A6, A7), Klebezettel oder selbst zugeschnittene Karten nutzen. Das Grundprinzip ist immer das gleiche. Im Beratungsprozess werden Stichworte nicht als Liste aufgeschrieben, sondern auf frei bewegliche Karten. Je nach Platz auf dem Tisch oder an der Pinnwand sowie Größe der Karten werden sie mit dicke­ ren"
+      },
+      {
+        "rank": 4,
+        "id": "adcc46e568c811381bcdb4fa804abfa7f0974308f78d7666f932bd72e07150c5",
+        "score": 0.8748388290405273,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4508,
+          "_split_overlap": [
+            {
+              "doc_id": "3787940395375eef351f22e5549fc88349fdbb4a66a6ae3f4e1126775b4b7037",
+              "range": [
+                1202,
+                1573
+              ]
+            },
+            {
+              "doc_id": "d56b4414f8e89b040641fd1d570e59ab99db287cd12df04b73d37b9a84e15663",
+              "range": [
+                0,
+                291
+              ]
+            }
+          ]
+        },
+        "content": "Fokus der Betrachtung zu rücken und eigene Gewichtungen zu setzen. Schwierigkeiten/Barrieren: Manche Ratsuchenden zeigen eventuell Hem­ mungen, ihre Anliegen mit Klötzen in Verbindung zu bringen. Assoziationen wie „kindisch“ sind möglich – Sie sollten den oder die Ratsuchenden vorher entsprechend seiner bzw. ihrer Bereitschaft einschätzen. Sie können die Klöt­ ze aber auch durch andere Materialien wie z.B. Steine, leere Zündholzschach­ teln, verschieden große Holzstücke etc. ersetzen. Zum Weiterlesen Qualitäts- und Unterstützungsagentur. Landesinstitut für Schule (2013). http:// www.schulentwicklung.nrw.de/methodensammlung/karte.php?karte=046 (abgerufen am 13.07.2016). Beratungsbeispiel Beraterin [B]: Haben Sie schon den Wunsch, die Klötze zu beschriften? Ratsuchende [R]: Ich weiß nicht, also ich wüsste nicht genau, wie ich es nennen sollte. B: \u0007Okay, dann können wir da zusammen dran arbeiten. Ich würde sagen, wir fangen beim leichtesten an, oder da, wo Sie am wenigsten Gewichtungen dr"
+      },
+      {
+        "rank": 5,
+        "id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+        "score": 0.6873539090156555,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7823,
+          "_split_overlap": [
+            {
+              "doc_id": "9728acc546a35e5fa2f838b754eda74f6edbb55b99699ff32227352150f8c22f",
+              "range": [
+                1099,
+                1498
+              ]
+            },
+            {
+              "doc_id": "32e1c27754c33e8e2205dbd493d9874e7d22250d38cdc1d03cf1ef62270a68aa",
+              "range": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        "content": "die Ratsuchende die angewandte Methode für spätere Entscheidungsprozesse auch ohne den bzw. die Beraterin ausprobie­ ren (s. 2.3 Bildungsberatung als Anleitung von Selbstlernprozessen). Methoden sehen außerdem oft die Aktivierung mehrerer Sinneseindrü­ cke vor. Das Gespräch wird unterstützt durch Visualisierungen, Bewegungen oder sogar kreative Techniken. Dadurch werden bei den Ratsuchenden auch andere Gehirnareale zur Ideenentwicklung aktiviert, anstatt ein Problem ein weiteres Mal nur sprachlich-kognitiv hin und her zu wenden. Visualisierungen können außerdem anschließend fotografiert oder dem oder der Ratsuchenden als Plakat direkt mitgegeben werden. Durch den Einsatz von Methoden ermögliche ich Ratsuchenden, unabhän­ gig von der Person der Beratenden aus sich heraus eigene Ideen zu entwi­ ckeln. Sind z.B. die ersten „Stolpersteine“ an die Pinnwand gesteckt, kann ich den Ratsuchenden bzw. die Ratsuchende zu einer ersten Selbstauswertung anregen. „In dieser Tradition ist die M.[ethod"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_0858.txt",
+    "question": "Wie wird der Kreis auf dem Plakat bei der Methode \"Klotzen\" eingeteilt und welche Funktion haben die einzelnen Abschnitte?",
+    "answer": "Der Kreis auf dem Plakat bei der Methode \"Klotzen\" wird in so viele Abschnitte (Entscheidungsfelder) eingeteilt, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Ein weiteres Feld (Lösungsfeld) wird erst am Schluss hinzugefügt und hat eine besondere Funktion. Die einzelnen Abschnitte dienen dazu, konkrete aber auch diffuse Probleme zu benennen, indem der Berater oder die Beraterin gezieltes Nachfragen anstellt und die Klötze beschriftet, um das Benennen visuell zu unterstützen. Die Anordnung der Klötze auf den Entscheidungsfeldern, ihre Menge und ihre Beschriftung sowie ihre Bewegung ermöglichen es, den Beratungsprozess in Gang zu bringen und zu begleiten. Jedes einzelne Entscheidungsfeld wird in den Fokus genommen, um das Gesamtbild und die einzelnen Klötze zu verstehen. Die Anordnung der Klötze kann auch als Symbol für bestimmte Probleme oder Situationen dienen, wie z.B. das Stapeln der Klötze als „Mauer“ oder das Legen eines „Dreiecks“ als Zeichen der Ausgeglichenheit. Im nächsten Schritt betrachten der Berater oder die Beraterin gemeinsam mit dem oder der Ratsuchenden die Anordnung der Klötze, um gemeinsam Variante zu erarbeiten und Probleme zu lösen. Die Anordnung der Klötze wird daher als eine Möglichkeit verwendet, um die komplexe Situation des oder der Ratsuchenden zu visualisieren und zu verstehen, um dann gemeinsam mit dem oder der Ratsuchenden Lösungen zu finden. Die Methode \"Klotzen\" bietet sich daher an, wenn es darum geht, die nächsten Schritte/Etappen für den künftigen Bildungsweg des bzw. der Ratsuchenden zu planen und mögliche Probleme bei der Realisierung zu verdeutlichen, um kurz-, mittel-, oder auch langfristige Entscheidungen treffen zu können. Die einzelnen Abschnitte dienen daher als eine Möglichkeit, um die Situation zu strukturieren und zu visualisieren, um dann gemeinsam mit dem oder der Ratsuchenden Lösungen",
+    "expected": "Der Kreis auf dem Plakat wird in so viele Abschnitte (Entscheidungsfelder) eingeteilt, wie der Ratsuchende Anteile an seiner derzeitigen Situation sieht. Zusätzlich wird ein weiteres Feld, das Lösungsfeld, hinzugefügt, welches aber erst am Ende bearbeitet wird. Die Abschnitte dienen dazu, die verschiedenen Aspekte der Situation symbolisch darzustellen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+        "score": 0.9894391894340515,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "5.5.8 Klotzen Jaqueline Wolf und Laura Nagelschmidt Kurzbeschreibung Der Name dieser Methode verweist auf die Materialien, die zu ihrer Durchfüh­ rung benötigt werden: Klötze, ähnlich wie Spielzeugbauklötze. Es handelt sich um eine Methode, die mit symbolischer Darstellung arbeitet und die Visua­ lisierung einer komplexen, auch verworrenen Ausgangssituation ermöglicht. Auf einem Plakat, das auf dem Tisch ausgebreitet ist, teilt der Berater oder die Beraterin einen Kreis in so viele Abschnitte (Entscheidungsfelder) ein, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Ein weiteres Feld (Lösungsfeld) sollte hinzugefügt, jedoch erst am Schluss be­ arbeitet werden. Die Klötze können auf den Entscheidungsfeldern angeordnet und ggf. auch als konkretes Problem beschriftet werden. Durch das Anordnen, Hinlegen oder Aufstellen, sowie die Menge der Klötze und ihre Beschriftung und Bewegung wird der Beratungsprozess in Gang gebracht und begleitet. Der Einsatz "
+      },
+      {
+        "rank": 2,
+        "id": "161a5191de159d93f42337c117ec4d7cc14a8a1b5c91ebc6f460dc8dfa165478",
+        "score": 0.9666830897331238,
+        "meta": {
+          "file_path": "1001586_chapter_092.txt",
+          "source_id": "09428ff286d176a87c1b26bc47748433f13c6fb4f650548e998d6166713388fe",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8155,
+          "_split_overlap": [
+            {
+              "doc_id": "f014da5d979e2457eb9c83f2d4bc5665f575c6ec8d6fd72c27f9337cc13cb925",
+              "range": [
+                1037,
+                1346
+              ]
+            },
+            {
+              "doc_id": "f10176d14702f031c07526c151b70af5ae812fbd97b40da13233da854c671f61",
+              "range": [
+                0,
+                328
+              ]
+            }
+          ]
+        },
+        "content": "aber meine Beobachtung den Eindruck, oder merke ich gar, dass die Methode viel zu weitläufig wird, oder ich sie viel zu früh in den Prozess gebracht habe, sollte ich diese Beobachtung dem oder der Ratsuchenden zur Verfügung stellen. Solange ich nicht hektisch mal diese, mal jene Methode ein­ streue, anfange und wieder verwerfe, ist der ehrliche Hinweis darauf, dass uns das Verfahren gerade vermutlich nicht weiterbringt, sogar ein Zeichen der ei­ genen Professionalität. Auch hier sollte ich dann aber die ratsuchende Person in die Entscheidung, die Methode zu verlassen oder abzubrechen einbeziehen. Es sei denn, ich kann die Methode durch kleinere Veränderungen wieder auf den tatsächlichen Beratungsprozess anpassen. Was mache ich, wenn der oder die Ratsuchende Widerstände z.B. gegen Malen oder auch Schreiben hat? Vor allem die aktivierenden Methoden sehen oft vor, dass die Ratsuchenden selbst zu Stift und Papier greifen. Diese entfalten dann ja genau ihre Wirkung dadurch, dass die Ratsuch"
+      },
+      {
+        "rank": 3,
+        "id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+        "score": 0.9593305587768555,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1066,
+          "_split_overlap": [
+            {
+              "doc_id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+              "range": [
+                1066,
+                1449
+              ]
+            },
+            {
+              "doc_id": "1b7acf636f8ea61b473bf6b9fb7b302da0bd920916bc6078f10508f3ad9774a5",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "Schritte/Etappen für den künftigen Bildungsweg des bzw. der Ratsuchen­ den zu planen. Dem oder der Ratsuchenden werden mögliche Probleme bei der Realisierung verdeutlicht, sodass die Methode dabei unterstützt, Prob­ leme realistisch einzuschätzen, um kurz-, mittel-, oder auch langfristige Ent­ scheidungen treffen zu können. Material: Phase/Funktion: Anliegen: Zeit: • Holzklötze • Kreppband • Pappe • Stifte Aufzeigen/Erarbeiten inhaltlicher Schwerpunkte mit Gewichtung Grundlegende Orientie­ rung und Entscheidungs­ findung ab 45 Min. Ablauf der Beratung 1. \u0007Vorbereitung: Legen Sie die benötigten Materialien bereit. Wechseln Sie ggf. an einen größeren Tisch. 2. \u0007Methode einleiten: Bei der Einleitung der Methode sollten Sie darauf Abb. 19: \u0007Klotzen – Alternative Aufteilung der Entscheidungsfelder (eigene Darstellung) Die anschließende Interpretation des so entstandenen Bildes erfolgt gemein­ sam. Jedes einzelne Entscheidungsfeld wird in den Fokus genommen, konkrete aber auch noch diffuse P"
+      },
+      {
+        "rank": 4,
+        "id": "adcc46e568c811381bcdb4fa804abfa7f0974308f78d7666f932bd72e07150c5",
+        "score": 0.9578266143798828,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4508,
+          "_split_overlap": [
+            {
+              "doc_id": "3787940395375eef351f22e5549fc88349fdbb4a66a6ae3f4e1126775b4b7037",
+              "range": [
+                1202,
+                1573
+              ]
+            },
+            {
+              "doc_id": "d56b4414f8e89b040641fd1d570e59ab99db287cd12df04b73d37b9a84e15663",
+              "range": [
+                0,
+                291
+              ]
+            }
+          ]
+        },
+        "content": "Fokus der Betrachtung zu rücken und eigene Gewichtungen zu setzen. Schwierigkeiten/Barrieren: Manche Ratsuchenden zeigen eventuell Hem­ mungen, ihre Anliegen mit Klötzen in Verbindung zu bringen. Assoziationen wie „kindisch“ sind möglich – Sie sollten den oder die Ratsuchenden vorher entsprechend seiner bzw. ihrer Bereitschaft einschätzen. Sie können die Klöt­ ze aber auch durch andere Materialien wie z.B. Steine, leere Zündholzschach­ teln, verschieden große Holzstücke etc. ersetzen. Zum Weiterlesen Qualitäts- und Unterstützungsagentur. Landesinstitut für Schule (2013). http:// www.schulentwicklung.nrw.de/methodensammlung/karte.php?karte=046 (abgerufen am 13.07.2016). Beratungsbeispiel Beraterin [B]: Haben Sie schon den Wunsch, die Klötze zu beschriften? Ratsuchende [R]: Ich weiß nicht, also ich wüsste nicht genau, wie ich es nennen sollte. B: \u0007Okay, dann können wir da zusammen dran arbeiten. Ich würde sagen, wir fangen beim leichtesten an, oder da, wo Sie am wenigsten Gewichtungen dr"
+      },
+      {
+        "rank": 5,
+        "id": "178ac1bd3527a1cac2513704cf73e3926dd876274db2f98c54e45b6d07b3da72",
+        "score": 0.9336240291595459,
+        "meta": {
+          "file_path": "9783839444856_chapter_0532.txt",
+          "source_id": "15ba7a0834e3b83f186c72a68f928edadb4a0b4155d3c76bf00ec5ab51479734",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2487,
+          "_split_overlap": [
+            {
+              "doc_id": "24eee8516db158e696c2d070ec293de9730ea95f106dc89c819ced44ea5ca155",
+              "range": [
+                1215,
+                1652
+              ]
+            },
+            {
+              "doc_id": "9cd59a1576d5b6bfb76dfa4d95db1a58e0381286476774046f16c8e50c6b957d",
+              "range": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        "content": "auf die eigene Standortgebundenheit sowie entsprechende methodische und konzeptio­ nelle Kompetenzen beinhalten. Insbesondere mit dem Begriff der »interkulturellen Kompetenz« geht jedoch auch ein kritischer Diskurs einher, welcher auf die damit verbunde­ nen Tendenzen zur Kulturalisierung und Individualisierung strukturell be­ dingter Problemkonstellationen hinweist. Stattdessen wird die offene und akzeptierende Beratungshaltung als eine übergreifende Kompetenz für je­ des Beratungsgespräch hervorgehoben (vgl. ebd., S. 1434). Kalpaka (2009b, S. 387) beschreibt die damit verbundenen Herausforderungen als »Kultur­ alisierungsfalle pädagogischer Professionalität«. Kulturelle Zuschreibungen werden demnach als simplifizierendes und dominierendes Erklärungsmo­ dell verwendet und strukturelle Bedingungen als Einflussfaktoren ausge­ blendet. Aufgrund der Kritik an dem Begriff »interkulturelle Kompetenz« werden vor allem im Kontext der kritischen Migrationsforschung alternative Konzepte eingefü"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_0858.txt",
+    "question": "Wie unterstützt die Methode \"Klotzen\" den Beratungsprozess bei der Planung des künftigen Bildungswegs?",
+    "answer": "Die Methode \"Klotzen\" unterstützt den Beratungsprozess bei der Planung des künftigen Bildungswegs, indem sie den Ratsuchenden dazu bringt, mögliche Probleme bei der Realisierung zu benennen und zu bewerten. Durch das Anordnen und Beschriften von Klötzen können die Ratsuchenden ihre Sichtweise auf die Situation visualisieren und so realistische Entscheidungen treffen. Die Methode bietet sich an, wenn es darum geht, die nächsten Schritte für den Bildungsweg zu planen und mögliche Hindernisse zu identifizieren. Die Ratsuchenden werden durch die Methode dabei unterstützt, Probleme realistisch einzuschätzen, um kurz-, mittel- oder langfristige Entscheidungen treffen zu können.",
+    "expected": "Durch die symbolische Darstellung der Situation mittels der Klötze können mögliche Probleme bei der Realisierung verdeutlicht und realistisch eingeschätzt werden. Die Anordnung, Menge, Beschriftung und Bewegung der Klötze bringen den Beratungsprozess in Gang und helfen dem Ratsuchenden, kurz-, mittel- und langfristige Entscheidungen für den Bildungsweg zu treffen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+        "score": 0.9981448650360107,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "5.5.8 Klotzen Jaqueline Wolf und Laura Nagelschmidt Kurzbeschreibung Der Name dieser Methode verweist auf die Materialien, die zu ihrer Durchfüh­ rung benötigt werden: Klötze, ähnlich wie Spielzeugbauklötze. Es handelt sich um eine Methode, die mit symbolischer Darstellung arbeitet und die Visua­ lisierung einer komplexen, auch verworrenen Ausgangssituation ermöglicht. Auf einem Plakat, das auf dem Tisch ausgebreitet ist, teilt der Berater oder die Beraterin einen Kreis in so viele Abschnitte (Entscheidungsfelder) ein, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Ein weiteres Feld (Lösungsfeld) sollte hinzugefügt, jedoch erst am Schluss be­ arbeitet werden. Die Klötze können auf den Entscheidungsfeldern angeordnet und ggf. auch als konkretes Problem beschriftet werden. Durch das Anordnen, Hinlegen oder Aufstellen, sowie die Menge der Klötze und ihre Beschriftung und Bewegung wird der Beratungsprozess in Gang gebracht und begleitet. Der Einsatz "
+      },
+      {
+        "rank": 2,
+        "id": "102eb7373285f252c81394552b96ac422e454934be3971331eb474cf7b68096b",
+        "score": 0.9973764419555664,
+        "meta": {
+          "file_path": "1001586_chapter_056.txt",
+          "source_id": "1889031b9463ae6e35515cf8e6b11b8e536049e2f54adfbb3a9c7514e06eb270",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.6 Methoden und Methodenkompetenz Karin Kress Methodenbeschreibungen haben den Vorteil, dass sie konkret auf die Praxis vorbereiten. Sie ermöglichen eine Vorstellung davon, wie Beratungsprozes­ se tatsächlich ablaufen können. Es ist aber wichtig, die Beschreibungen von Methoden nicht mit der Durchführung der Methoden selbst zu verwechseln. Methodenkompetenz in der Beratung umfasst die Kenntnis unterschied­ licher Techniken, die Fähigkeit diese gezielt für den Beratungsprozess aus­ zuwählen und so zu Schrittfolgen zu kombinieren, dass sie den individuellen Erkenntnisprozess der Ratsuchenden unterstützen. Es gehört zur Verantwortung der Beraterinnen und Berater, Methoden­ abläufe zu geeigneten Zeitpunkten zu initiieren, abzuwandeln, zu verlassen, gegebenenfalls abzubrechen und in den zeitlichen Verlauf der Beratung zu integrieren. Eine Methode läuft daher selten zweimal in gleicher Weise ab. Eine Me­ thode entfaltet sich immer erst aus der tatsächlichen Interaktion zwischen Be­ ratenden"
+      },
+      {
+        "rank": 3,
+        "id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+        "score": 0.9969921112060547,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1066,
+          "_split_overlap": [
+            {
+              "doc_id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+              "range": [
+                1066,
+                1449
+              ]
+            },
+            {
+              "doc_id": "1b7acf636f8ea61b473bf6b9fb7b302da0bd920916bc6078f10508f3ad9774a5",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "Schritte/Etappen für den künftigen Bildungsweg des bzw. der Ratsuchen­ den zu planen. Dem oder der Ratsuchenden werden mögliche Probleme bei der Realisierung verdeutlicht, sodass die Methode dabei unterstützt, Prob­ leme realistisch einzuschätzen, um kurz-, mittel-, oder auch langfristige Ent­ scheidungen treffen zu können. Material: Phase/Funktion: Anliegen: Zeit: • Holzklötze • Kreppband • Pappe • Stifte Aufzeigen/Erarbeiten inhaltlicher Schwerpunkte mit Gewichtung Grundlegende Orientie­ rung und Entscheidungs­ findung ab 45 Min. Ablauf der Beratung 1. \u0007Vorbereitung: Legen Sie die benötigten Materialien bereit. Wechseln Sie ggf. an einen größeren Tisch. 2. \u0007Methode einleiten: Bei der Einleitung der Methode sollten Sie darauf Abb. 19: \u0007Klotzen – Alternative Aufteilung der Entscheidungsfelder (eigene Darstellung) Die anschließende Interpretation des so entstandenen Bildes erfolgt gemein­ sam. Jedes einzelne Entscheidungsfeld wird in den Fokus genommen, konkrete aber auch noch diffuse P"
+      },
+      {
+        "rank": 4,
+        "id": "860c21edb6ade28b8a59e48b4271bda4ba26c84ef385c3aba3e74f82a14905c4",
+        "score": 0.9966540336608887,
+        "meta": {
+          "file_path": "1001586_chapter_0856.txt",
+          "source_id": "1c3c1f3afbfb2d082ee7742e6b66201c5e3be3754cb92560c3b502cfc8df1c32",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1173,
+          "_split_overlap": [
+            {
+              "doc_id": "207f55fe7c5afd464841b5946e2485804c05325b0d7f22ea40df83a20d17ed6e",
+              "range": [
+                1173,
+                1539
+              ]
+            },
+            {
+              "doc_id": "1e336aec61cf96f082ca24be2f88f950f4a1bad01d8873968b037b43459ccabf",
+              "range": [
+                0,
+                336
+              ]
+            }
+          ]
+        },
+        "content": "kann die Methode im Beratungsverlauf, wenn der Prozess ins Stocken gerät. Die Methode eröffnet dann neue Anknüpfungspunkte für den Bera­ tungsverlauf. Die Idee hat ihren Ursprung in der Methode „Erinnerungskoffer“ (Ruhe 2009: 120f.), die den Schwerpunkt jedoch auf die Erinnerungsarbeit mit alten Menschen legt. Material: Phase/Funktion: Anliegen: Zeit: • Schachtel • Gegenstände Rückbesinnung und Reflexion der Bildungs- geschichte Interne Ressourcen auf­ decken Bildungsblockaden lösen ab 40 Min. Ablauf der Beratung 1. \u0007Vorbereitung: Für die Bildungszeitreise benötigen Sie Gegenstände, die die 2. \u0007Methode einleiten: Wenn Sie in Erwägung ziehen, diese Methode im Bera­ tungsprozess einzusetzen, sollten Sie zunächst klären ob der oder die Rat­ suchende bereit ist, sich auf diese Art der Erinnerungsarbeit einzulassen. Damit die Methode ihre Wirkung entfalten kann, muss der bzw. die Ratsu­ chende die Assoziationen bewusst zulassen können. Vorher sollte ein aus­ reichender Beziehungsaufbau stat"
+      },
+      {
+        "rank": 5,
+        "id": "db3a1d93cd9e3a2eeb371c3620a19d058de4118170cf4988c9bf00afc8d6b19f",
+        "score": 0.9957382678985596,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3 Erfahrungsraum Beratung: Handlungsorientierung ### Handlungsorientierung 3.1 \u0007Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter­ schiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech­ niken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie in diesem Band verwenden – einen eigenen Beitrag. „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön­ nen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen. Bezogen auf die „Stolperstein-Methode“ (s. S. 123) werden z. B. Gesprächs- und Visualisierungstechni"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_0858.txt",
+    "question": "Welche Rolle spielt die gemeinsame Interpretation des entstandenen Bildes bei der Methode \"Klotzen\" und wie wird diese Interpretation unterstützt?",
+    "answer": "Die gemeinsame Interpretation des entstandenen Bildes bei der Methode \"Klotzen\" spielt eine wichtige Rolle, da es sich dabei um ein gemeinsames Gruppenbild handelt, das die individuellen Meinungen und Ideen der Ratsuchenden und Berater/innen widerspiegelt. Diese Interpretation wird unterstützt durch das gemeinsame Anordnen und Beschriften der Klötze, das Bewegen und Legen der Klötze sowie die Diskussion und Reflexion über das entstandene Bild. Durch diese gemeinsame Interpretation können die Ratsuchenden und Berater/innen ihre Ideen und Meinungen austauschen und ein gemeinsames Verständnis für die Situation entwickeln. Die Methode \"Klotzen\" bietet somit eine Möglichkeit, die Komplexität der Situation zu reduzieren und ein gemeinsames Bild zu erstellen, das die verschiedenen Perspektiven und Ideen widerspiegelt. Durch die gemeinsame Interpretation kann auch eine tiefergehende Auseinandersetzung mit den Problemen und Herausforderungen erfolgen, was zu einer besseren Lösungsfindung führen kann. Die Methode \"Klotzen\" unterstützt also die gemeinsame Interpretation durch die gemeinsame Arbeit mit den Klötzen und die gemeinsame Diskussion über das entstandene Bild. Dies ermöglicht eine gemeinsame Verständigung und eine bessere Lösungsfindung.",
+    "expected": "Die gemeinsame Interpretation des Bildes ist zentral, um jedes Entscheidungsfeld und die darin enthaltenen Probleme genauer zu verstehen. Durch gezieltes Nachfragen werden sowohl konkrete als auch diffuse Probleme benannt. Die visuelle Unterstützung durch Beschriftung der Klötze mit Kreppband und Permanentstiften erleichtert das Benennen und Verstehen der einzelnen Aspekte, z.B. das Stapeln als \"Mauer\" oder das Legen eines \"Dreiecks\" als Zeichen der Ausgeglichenheit.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1b7acf636f8ea61b473bf6b9fb7b302da0bd920916bc6078f10508f3ad9774a5",
+        "score": 0.8292328119277954,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2201,
+          "_split_overlap": [
+            {
+              "doc_id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+              "range": [
+                1135,
+                1500
+              ]
+            },
+            {
+              "doc_id": "3787940395375eef351f22e5549fc88349fdbb4a66a6ae3f4e1126775b4b7037",
+              "range": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        "content": "Kreppband und Permanentstiften beschriftet werden. Langsam entsteht ein Eindruck davon, was das Gesamtbild aussagt, aber auch wofür die einzelnen Klötze stehen, z.B. das Stapeln der Klötze als „Mauer“ oder das Legen eines „Dreiecks“ als Zeichen der Ausgeglichenheit 4. \u0007Abschluss und Transfer: Im nächsten Schritt betrachten Sie gemeinsam Variante: Die Erarbeitung der Entscheidungsfelder kann je nach Situation auch ausschließlich in die Hände des oder der Ratsuchenden gegeben werden. Die Felder könnten im Vorfeld selbstständig durch den oder die Ratsuchende ausgewählt und priorisiert werden. Das einmal erarbeitete Plakat mit allen Entscheidungsfeldern und dem Lösungsfeld kann in späteren Beratungssit­ zungen mit dem bzw. der Ratsuchenden wieder aufgegriffen werden. Eine neue Anordnung oder Veränderung der Aufstellung können als Vorher-Nach­ her-Abgleiche mitunter Fortschritte des oder der Ratsuchenden verdeutli­ chen oder ermöglichen eine erneute Standortbestimmung in Bezug auf ein besti"
+      },
+      {
+        "rank": 2,
+        "id": "9728acc546a35e5fa2f838b754eda74f6edbb55b99699ff32227352150f8c22f",
+        "score": 0.5382509231567383,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6724,
+          "_split_overlap": [
+            {
+              "doc_id": "46bef2af8c12996ccac47b47cfe6f711481c60ed1999bb58110cee6c39f9b4c5",
+              "range": [
+                1063,
+                1409
+              ]
+            },
+            {
+              "doc_id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "Darin bildet sich aber nie die tatsächlich durchgeführte Beratungssituati­ on ab. Wenn Beraterinnen und Berater eine Methode in der eigenen Beratung anwenden, geschieht dies immer in ihrer individuellen Art. Vor allem für die­ jenigen, die gerade dabei sind, Beratungshandeln zu erlernen, ist das oft ein wichtiger Erkenntnisschritt. Es liegt in der Natur der Sache, dass ich Metho­ den nie (nur) so anwende, wie ich sie irgendwo gelesen habe. Vielmehr bieten Methodenbeschreibungen Einstiegsmöglichkeiten, um den Beratungsprozess in Gang zu setzen. Je nach Prozessentwicklung kann ich dabei eine Methode zwischendurch verlassen, sie mit anderen Techniken realisieren, ganz ausstei­ gen oder auch nach einem eingeschobenen Klärungsprozess später wieder einsteigen, um das ursprüngliche Anliegen zu Ende zu führen. Methodik als gestalteter Erfahrungsraum von Ratsuchenden und Beratenden In diesem Beispiel zeichnet sich ab, dass Methoden Entwicklungsprozesse er­ möglichen, die durch rein gesprächsori"
+      },
+      {
+        "rank": 3,
+        "id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+        "score": 0.43069496750831604,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "5.5.8 Klotzen Jaqueline Wolf und Laura Nagelschmidt Kurzbeschreibung Der Name dieser Methode verweist auf die Materialien, die zu ihrer Durchfüh­ rung benötigt werden: Klötze, ähnlich wie Spielzeugbauklötze. Es handelt sich um eine Methode, die mit symbolischer Darstellung arbeitet und die Visua­ lisierung einer komplexen, auch verworrenen Ausgangssituation ermöglicht. Auf einem Plakat, das auf dem Tisch ausgebreitet ist, teilt der Berater oder die Beraterin einen Kreis in so viele Abschnitte (Entscheidungsfelder) ein, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Ein weiteres Feld (Lösungsfeld) sollte hinzugefügt, jedoch erst am Schluss be­ arbeitet werden. Die Klötze können auf den Entscheidungsfeldern angeordnet und ggf. auch als konkretes Problem beschriftet werden. Durch das Anordnen, Hinlegen oder Aufstellen, sowie die Menge der Klötze und ihre Beschriftung und Bewegung wird der Beratungsprozess in Gang gebracht und begleitet. Der Einsatz "
+      },
+      {
+        "rank": 4,
+        "id": "b72274aa713e3ab4a51cd87833cb570baac39f1127f968e5e4a1a8e3175f1fa0",
+        "score": 0.19908027350902557,
+        "meta": {
+          "file_path": "1001586_chapter_083.txt",
+          "source_id": "f0eefd12cd3b5c30d0b154354d0a609f74c00abaec78f4a5b39a77c75cc84270",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5176,
+          "_split_overlap": [
+            {
+              "doc_id": "b39a52d0db00ec82cc79ccecca5c1ca34b3e660d8b8a2c551bb6e4d376f9f367",
+              "range": [
+                1032,
+                1378
+              ]
+            },
+            {
+              "doc_id": "b1d9035852d6d1a00b8f7e33df518dc860b024efa08257e3d30b98a9b63e7d72",
+              "range": [
+                0,
+                336
+              ]
+            }
+          ]
+        },
+        "content": "reagieren dann ungehalten, wenn dieser nicht oder nicht schnell genug eintritt. Diese Erwartungshaltung lädt außerdem dazu ein, dass sich die Ratsuchenden wenig verantwortlich für den Erfolg der Durchführung fühlen und in eine eher passive Haltung geraten können. Entwerten Sie Ihre eigenen Methoden nicht Vor allem, wenn Methoden für uns selbst noch neu sind, kann aber auch der andere Fall eintreten. Wir überspielen unsere Unsicherheit bezogen auf die Methode, indem wir möglichst tiefstapeln. Vielleicht weisen wir darauf hin, dass wir ja selbst nicht gerne malen, die Methode ohnehin selten einsetzen oder erzählen von anderen Beraterinnen und Beratern, die die Methode ein­ setzen, dass wir aber eigentlich eine andere Haltung haben. Alles das verunsi­ chert die Ratsuchenden und suggeriert ihnen Vorbehalte, die sie von sich aus vielleicht gar nicht gegen die Vorgehensweise hätten. Auch hier braucht es also etwas Übung, bis man eine gute Balance ge­ funden hat. Sie sollten gleichzeitig sign"
+      },
+      {
+        "rank": 5,
+        "id": "d3f8c50627058b9f8748465cb2b5d4274c4bff0e3164845a02475dcc42d3674d",
+        "score": 0.1898668110370636,
+        "meta": {
+          "file_path": "9783839444856_chapter_06.txt",
+          "source_id": "7e46be86fa591d46c6996b7d074ef6483cfba925d32cbf64edbc05432c4f1cc6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4.\tMethodologische Einordnung und methodisches Vorgehen ### 4. Methodologische Einordnung und methodisches Vorgehen Die Datenerhebung und -analyse erfolgt im Kontext einer qualitativ-inter­ pretativen Forschungstradition anhand der qualitativen Inhaltsanalyse nach Mayring (vgl. 2015) und einer vertiefenden interpretativ-rekonstruktiven Auswertung nach dem von Meuser und Nagel (vgl. 1991) vorgeschlagenen Ab­ laufmodell zur Auswertung von offenen, leitfadenorientierten Interviews in Ergänzung mit dem Stufenmodell zur empirischen Typenbildung nach Kelle und Kluge (vgl. 2010). Dieses zweistufige Vorgehen wurde gewählt, da der Zugang über Expert_inneninterviews einerseits die Erhebung spezifischer Wissensbestände und Informationen über Anerkennungsberatung als rela­ tiv neuen Forschungsgegenstand und zudem die Erfassung der spezifischen Zielsetzungen, Begründungen und Perspektiven der Berater_innen und Koordinator_innen auf Anerkennungsberatung als ein neues Beratungs­ angebot ermöglich"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_0858.txt",
+    "question": "Wie kann die Methode \"Klotzen\" flexibel an die Bedürfnisse des Ratsuchenden angepasst werden, insbesondere hinsichtlich der Erarbeitung der Entscheidungsfelder?",
+    "answer": "Sie können die Klötze durch andere Materialien wie z.B. Steine, leere Zündholzschachteln, verschieden große Holzstücke etc. ersetzen. Sie können außerdem die Klötze beschriften, indem Sie sie unter Zuhilfenahme von Kreppband und Permanentstiften beschriften. Dadurch kann die Methode flexibel an die Bedürfnisse des Ratsuchenden angepasst werden, insbesondere hinsichtlich der Erarbeitung der Entscheidungsfelder. Außerdem kann die Methode durch das Legen von Klötzen in bestimmte Formen (z.B. ein Dreieck als Zeichen der Ausgeglichenheit) oder durch das Stapeln von Klötzen (als „Mauer“) visuell unterstützt werden. Dies ermöglicht es dem Ratsuchenden, seine Anliegen und Probleme in eine visuelle Form zu bringen und sie gemeinsam mit dem Berater zu interpretieren. \nI cannot find the answer in the provided context.  or  Die Methode \"Klotzen\" kann flexibel an die Bedürfnisse des Ratsuchenden angepasst werden, indem die Klötze durch andere Materialien wie z.B. Steine, leere Zündholzschachteln, verschieden große Holzstücke etc. ersetzt werden. Zudem können die Klötze beschriftet werden, indem sie unter Zuhilfenahme von Kreppband und Permanentstiften beschriftet werden. Durch diese Anpassung kann die Methode an die individuellen Bedürfnisse des Ratsuchenden angepasst werden.  or  Die Methode \"Klotzen\" kann flexibel an die Bedürfnisse des Ratsuchenden angepasst werden, indem die Klötze durch andere Materialien wie z.B. Steine, leere Zündholzschachteln, verschieden große Holzstücke etc. ersetzt werden. Zudem können die Klötze beschriftet werden, indem sie unter Zuhilfenahme von Kreppband und Permanentstiften beschriftet werden. Durch diese Anpassung kann die Methode an die individuellen Bedürfnisse des Ratsuchenden angepasst werden.  or  Die Methode \"Klotzen\" kann flexibel an die Bedürfnisse des Rats",
+    "expected": "Die Erarbeitung der Entscheidungsfelder kann vollständig in die Hände des Ratsuchenden gelegt werden, sodass dieser die Felder selbstständig auswählt und priorisiert. Dadurch wird die Methode an die individuelle Situation angepasst. Das erarbeitete Plakat mit allen Entscheidungs- und Lösungsfeldern kann außerdem in späteren Beratungssitzungen wieder aufgegriffen werden, um den Beratungsprozess fortzuführen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+        "score": 0.9831226468086243,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+              "range": [
+                0,
+                383
+              ]
+            }
+          ]
+        },
+        "content": "5.5.8 Klotzen Jaqueline Wolf und Laura Nagelschmidt Kurzbeschreibung Der Name dieser Methode verweist auf die Materialien, die zu ihrer Durchfüh­ rung benötigt werden: Klötze, ähnlich wie Spielzeugbauklötze. Es handelt sich um eine Methode, die mit symbolischer Darstellung arbeitet und die Visua­ lisierung einer komplexen, auch verworrenen Ausgangssituation ermöglicht. Auf einem Plakat, das auf dem Tisch ausgebreitet ist, teilt der Berater oder die Beraterin einen Kreis in so viele Abschnitte (Entscheidungsfelder) ein, wie der oder die Ratsuchende Anteile an seiner oder ihrer derzeitigen Situation sieht. Ein weiteres Feld (Lösungsfeld) sollte hinzugefügt, jedoch erst am Schluss be­ arbeitet werden. Die Klötze können auf den Entscheidungsfeldern angeordnet und ggf. auch als konkretes Problem beschriftet werden. Durch das Anordnen, Hinlegen oder Aufstellen, sowie die Menge der Klötze und ihre Beschriftung und Bewegung wird der Beratungsprozess in Gang gebracht und begleitet. Der Einsatz "
+      },
+      {
+        "rank": 2,
+        "id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+        "score": 0.9687126874923706,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7823,
+          "_split_overlap": [
+            {
+              "doc_id": "9728acc546a35e5fa2f838b754eda74f6edbb55b99699ff32227352150f8c22f",
+              "range": [
+                1099,
+                1498
+              ]
+            },
+            {
+              "doc_id": "32e1c27754c33e8e2205dbd493d9874e7d22250d38cdc1d03cf1ef62270a68aa",
+              "range": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        "content": "die Ratsuchende die angewandte Methode für spätere Entscheidungsprozesse auch ohne den bzw. die Beraterin ausprobie­ ren (s. 2.3 Bildungsberatung als Anleitung von Selbstlernprozessen). Methoden sehen außerdem oft die Aktivierung mehrerer Sinneseindrü­ cke vor. Das Gespräch wird unterstützt durch Visualisierungen, Bewegungen oder sogar kreative Techniken. Dadurch werden bei den Ratsuchenden auch andere Gehirnareale zur Ideenentwicklung aktiviert, anstatt ein Problem ein weiteres Mal nur sprachlich-kognitiv hin und her zu wenden. Visualisierungen können außerdem anschließend fotografiert oder dem oder der Ratsuchenden als Plakat direkt mitgegeben werden. Durch den Einsatz von Methoden ermögliche ich Ratsuchenden, unabhän­ gig von der Person der Beratenden aus sich heraus eigene Ideen zu entwi­ ckeln. Sind z.B. die ersten „Stolpersteine“ an die Pinnwand gesteckt, kann ich den Ratsuchenden bzw. die Ratsuchende zu einer ersten Selbstauswertung anregen. „In dieser Tradition ist die M.[ethod"
+      },
+      {
+        "rank": 3,
+        "id": "adcc46e568c811381bcdb4fa804abfa7f0974308f78d7666f932bd72e07150c5",
+        "score": 0.9666069746017456,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4508,
+          "_split_overlap": [
+            {
+              "doc_id": "3787940395375eef351f22e5549fc88349fdbb4a66a6ae3f4e1126775b4b7037",
+              "range": [
+                1202,
+                1573
+              ]
+            },
+            {
+              "doc_id": "d56b4414f8e89b040641fd1d570e59ab99db287cd12df04b73d37b9a84e15663",
+              "range": [
+                0,
+                291
+              ]
+            }
+          ]
+        },
+        "content": "Fokus der Betrachtung zu rücken und eigene Gewichtungen zu setzen. Schwierigkeiten/Barrieren: Manche Ratsuchenden zeigen eventuell Hem­ mungen, ihre Anliegen mit Klötzen in Verbindung zu bringen. Assoziationen wie „kindisch“ sind möglich – Sie sollten den oder die Ratsuchenden vorher entsprechend seiner bzw. ihrer Bereitschaft einschätzen. Sie können die Klöt­ ze aber auch durch andere Materialien wie z.B. Steine, leere Zündholzschach­ teln, verschieden große Holzstücke etc. ersetzen. Zum Weiterlesen Qualitäts- und Unterstützungsagentur. Landesinstitut für Schule (2013). http:// www.schulentwicklung.nrw.de/methodensammlung/karte.php?karte=046 (abgerufen am 13.07.2016). Beratungsbeispiel Beraterin [B]: Haben Sie schon den Wunsch, die Klötze zu beschriften? Ratsuchende [R]: Ich weiß nicht, also ich wüsste nicht genau, wie ich es nennen sollte. B: \u0007Okay, dann können wir da zusammen dran arbeiten. Ich würde sagen, wir fangen beim leichtesten an, oder da, wo Sie am wenigsten Gewichtungen dr"
+      },
+      {
+        "rank": 4,
+        "id": "8ab200cc105a035959c75ea33edd665b4e89da548ff59bc166f70442a1f15304",
+        "score": 0.9663324356079102,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1066,
+          "_split_overlap": [
+            {
+              "doc_id": "ad1f9f6a8e36b7c795a1477795722e1e4f3f5735024194118f3382f7bc54f583",
+              "range": [
+                1066,
+                1449
+              ]
+            },
+            {
+              "doc_id": "1b7acf636f8ea61b473bf6b9fb7b302da0bd920916bc6078f10508f3ad9774a5",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "Schritte/Etappen für den künftigen Bildungsweg des bzw. der Ratsuchen­ den zu planen. Dem oder der Ratsuchenden werden mögliche Probleme bei der Realisierung verdeutlicht, sodass die Methode dabei unterstützt, Prob­ leme realistisch einzuschätzen, um kurz-, mittel-, oder auch langfristige Ent­ scheidungen treffen zu können. Material: Phase/Funktion: Anliegen: Zeit: • Holzklötze • Kreppband • Pappe • Stifte Aufzeigen/Erarbeiten inhaltlicher Schwerpunkte mit Gewichtung Grundlegende Orientie­ rung und Entscheidungs­ findung ab 45 Min. Ablauf der Beratung 1. \u0007Vorbereitung: Legen Sie die benötigten Materialien bereit. Wechseln Sie ggf. an einen größeren Tisch. 2. \u0007Methode einleiten: Bei der Einleitung der Methode sollten Sie darauf Abb. 19: \u0007Klotzen – Alternative Aufteilung der Entscheidungsfelder (eigene Darstellung) Die anschließende Interpretation des so entstandenen Bildes erfolgt gemein­ sam. Jedes einzelne Entscheidungsfeld wird in den Fokus genommen, konkrete aber auch noch diffuse P"
+      },
+      {
+        "rank": 5,
+        "id": "3787940395375eef351f22e5549fc88349fdbb4a66a6ae3f4e1126775b4b7037",
+        "score": 0.9613519310951233,
+        "meta": {
+          "file_path": "1001586_chapter_0858.txt",
+          "source_id": "8b7ab3b53c9186de521c2f5d4b8c6035a712b0ed9fc81287db0dc5e0d86a9da0",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3306,
+          "_split_overlap": [
+            {
+              "doc_id": "1b7acf636f8ea61b473bf6b9fb7b302da0bd920916bc6078f10508f3ad9774a5",
+              "range": [
+                1105,
+                1526
+              ]
+            },
+            {
+              "doc_id": "adcc46e568c811381bcdb4fa804abfa7f0974308f78d7666f932bd72e07150c5",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "Ratsuchende zu fotografieren. Kommentar zum Einsatz Zielgruppe: Die Methode ist ursprünglich als Gruppenmethode angelegt und dient dann dazu, individuelle Meinungen in ein gemeinsames Gruppenbild zu überführen. Bewertungen, Planungsinhalte und Problemeinschätzungen einzelner Personen können durch eine Gewichtung und Strukturierung im Rahmen gruppendynamischer Prozesse zum Ausdruck gebracht werden. In der Beratung ist die Methode für Ratsuchende geeignet, die sich in Umbruchs- und Übergangssituationen befinden und eine Klärung ihres derzeitigen Stand­ ortes benötigen, um sich (neu) auszurichten und/oder zu orientieren. Anliegen: Ratsuchende werden bei der Identifizierung und Klärung ihrer Pro­ blemlagen unterstützt. Die Methode ermöglicht darauf aufbauend eine inten­ sive Arbeit an Handlungsmöglichkeiten und Alternativen, sowie das Abbauen von Hindernissen und Eröffnen persönlicher Ressourcen. Grundsätzlich of­ feriert sie basierend auf den Bedarfen des oder der Ratsuchenden eine Ori­ e"
+      }
+    ]
+  }
+]

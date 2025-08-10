@@ -1,0 +1,660 @@
+[
+  {
+    "filename": "1001586_chapter_081.txt",
+    "question": "Was sind die Hauptmerkmale der Bildungsberatung, wie sie im Text beschrieben werden?",
+    "answer": "Die Hauptmerkmale der Bildungsberatung, wie sie im Text beschrieben werden, sind:\n\n*   Subjektbezogene „Persönlichkeitsbildung“ und auf die Gesellschaft bezogene „soziale Bildung“\n*   Selbstbildung als Aneignung des eigenen Selbst in der Welt und Reflexion dieser Aneignungsprozesse\n*   Schaffung von Räumen für Diskurse, Austausch und Selbstreflexion und -verge- wisserung\n*   Kombination des Praxiseinsatzes, durch den Jugendliche ihre Fähigkeiten und Kompetenzen in einem realen Umfeld anwenden und entwickeln können\n*   Berücksichtigung der Bedeutung von formalen Anerkennungsverfahren für die Beratungspraxis und die soziale Anerkennung in Form von sozialer Wertschätzung der individuellen Fähigkeiten und Kompetenzen. \n\nEs wird betont, dass Bildung nicht mit beruflicher Qualifizierung gleichgesetzt werden sollte, sondern dass es sich um eine subjektorientierte und selbstreflexive Prozess handelt, der die Aneignung des eigenen Selbst in der Welt und die Reflexion dieser Aneignungsprozesse beinhaltet. \n\nDie Bildungsberatung soll junge Menschen unterstützen, selbstbestimmte und gemeinschaftsfähige Mitglieder der Gesellschaft zu werden. Sie soll Räume für Diskurse, Austausch und Selbstreflexion und -verge- wisserung schaffen und Jugendliche ihre Fähigkeiten und Kompetenzen in einem realen Umfeld anwenden und entwickeln können. Die Beratungspraxis soll dabei auch die Bedeutung von formalen Anerkennungsverfahren berücksichtigen und die soziale Anerkennung in Form von sozialer Wertschätzung der individuellen Fähigkeiten und Kompetenzen fördern.",
+    "expected": "Die Bildungsberatung ist ein Beratungsfeld, das durch das Wechselspiel von Informationsangeboten und Prozessbegleitung durch Beraterinnen und Berater geprägt ist. Sie ist oft in kommunal geförderten Einrichtungen institutionalisiert, wobei die Informationsvermittlung zunächst im Vordergrund steht. Die Beratungsarbeit ist häufig nicht durchgehend professionalisiert und wird oft von Personen ohne gezielte Beratungsausbildung durchgeführt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a80f96a9ff0ef6fa41cdc8f929d0a629ada8e5cc8e00301a5aa4808134dd3233",
+        "score": 0.9229430556297302,
+        "meta": {
+          "file_path": "9783847412304_chapter_0723.txt",
+          "source_id": "f915d6d4d9c0cb0af2d60edaf21cbae4963feb786bbfec5acb2120139ef15d94",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3466,
+          "_split_overlap": [
+            {
+              "doc_id": "4ef1932cb1f7f5762270514458795433728c060f07e434a50f2643d7978f7e1a",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "vollziehende Handlungen. Im Kontext des Bildungsreisens lassen sich die hier stattfindenden Be- ratungsakte auf den Bereich der informellen Bildungsberatung eingrenzen (Ewers 2014). Reiseentscheidungen sind demgemäß Bildungsentscheidungen. Bezieht man die oben skizzierten Voraussetzungen einer doppelten Differenz des Beratungsbegriffs auf Bildungsreisen, so lassen sich die Formen der Ad- ressierung von potentiellen (Bildungs-)Reisenden dahingehend befragen, wie potentielle Reisende in informellen Ratgebern adressiert und wie subjektive Aneignungsprozesse von Welt durch spezifische Beratungssettings präfor- miert werden."
+      },
+      {
+        "rank": 2,
+        "id": "4fa3a4542ed93e077a311deaa9353cc45a35e28134e35a6779ecbd814d475368",
+        "score": 0.894528865814209,
+        "meta": {
+          "file_path": "9783847412304_chapter_1021.txt",
+          "source_id": "16cf9e21350e49367135c46eddcb5ad9892291df5e7910a920de98c313732767",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1269,
+          "_split_overlap": [
+            {
+              "doc_id": "c06e97d3f63719eff658c63d56a2631d925988b66d37a45a03f690c29f10af3a",
+              "range": [
+                1269,
+                1738
+              ]
+            },
+            {
+              "doc_id": "0527fb7d4684363e2f766d463a404d26c70d10c12ea744dca561919d6ec3df74",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "benannt. Angesprochen werden hier Bildungsziele, die schematisch voneinander getrennt als subjektbezogene „Persönlichkeitsbildung“ und als auf die Gesellschaft bezogene „soziale Bildung“ charakterisiert werden können (vgl. Münchmeier 2010: 58). Über dieses Bildungsverständnis humanistischer Prägung hinaus wird im JFDG auch der inzwischen gewollte berufsqualifizierende Charakter von Jugendfreiwilligendiensten offenbar: „[I]n das Zeugnis [sind] berufsqualifizierende Merkmale des Jugendfreiwilligendienstes aufzunehmen“ (§11, Abs.4). Kritische Stimmen warnen hier vor der Gefahr einer Indienstnahme der Bildungspotentiale des FSJ für ökonomische Zwecke (vgl. Hübner, Maedler 2015: 242). Dieser Kritik folgend, wird ein subjektorientierter Bildungsbegriff für das FSJ favorisiert (vgl. ebd.; Münchmeier 2010). Bildung darf demnach nicht mit beruflicher Qualifizierung gleichgesetzt werden, sondern bedeutet „Selbstbildung als Aneignung des eigenen Selbst in der Welt und Reflexion dieser Aneignungsp"
+      },
+      {
+        "rank": 3,
+        "id": "1ec6f381d6e1062dc864e2a4e1506815fab7aa1bf4c05d6531a003f11a41949e",
+        "score": 0.8083779215812683,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "3.2.3 Anerkennungstheoretisches Rahmenmodell In Anlehnung an die hier dargestellten anerkennungs- und bildungstheore­ tischen Ansätze und in Kombination mit den zuvor beschriebenen Ebenen der Zielsetzungen von Bildungsberatung wird in der vorliegenden Arbeit zwischen drei Analyseebenen unterschieden, welche die Grundlage für die Auswertung der empirischen Daten bilden. Die Ebenen bezeichnen dabei drei unterschiedliche gesellschaftliche Sphären, in denen Anerkennungsver­ hältnisse hergestellt werden können und die entsprechend den Zielsetzungen der Bildungs- und Berufsberatung Relevanz für die Aufgaben der Anerken­ nungsberatung aufweisen. Die Interaktionsebene des Beratungsgesprächs selbst bildet die erste Analyseebene. Aufgrund der Bedeutung von formalen Anerkennungsverfahren für die Beratungspraxis wird der rechtliche Kon­ text als zweite Analyseebene beschrieben. Die dritte Ebene umfasst die ge­ sellschaftliche Anerkennung in Form von sozialer Wertschätzung der indi­ viduellen Fähig"
+      },
+      {
+        "rank": 4,
+        "id": "b893658da5979a509bed2fb9a5866230d2aa1e95c3d79ee0e7e7ec3b3268a2da",
+        "score": 0.6622434854507446,
+        "meta": {
+          "file_path": "9783847412304_chapter_05.txt",
+          "source_id": "ab79059bb52237721ff1bf21d1ae0f776aa175cad6b4ec56c9c9084551cee870",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### Beratung im Rampenlicht – Von Sisyphos zu Prometheus? (Bernd Käpplinger) ### Bernd Käpplinger Beratung im Rampenlicht – Von Sisyphos zu Prometheus? Einleitung Dieser Text basiert auf einer Keynote bei der Jahrestagung 2017 der Sekti- on Erwachsenenbildung der Deutschen Gesellschaft für Erziehungswissen- schaft. Der Bedeutungszuwachs von Bildungsberatung und damit verbundene Problematiken werden diskutiert sowie ältere Argumentationen neu erörtert. Zudem werden hellenische Mythengestalten herangezogen, um Fragen zur Rolle von Bildung und Wissenschaft zu sondieren, wie es bereits in der Ver- gangenheit geschah (vgl. Siebert 1992, Illich 2013)."
+      },
+      {
+        "rank": 5,
+        "id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+        "score": 0.5384905934333801,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 11829,
+          "_split_overlap": [
+            {
+              "doc_id": "af4dc03f1742d3c01c9a4041e37e74f4289f197fe9322aaa358443d1dfbe0bc2",
+              "range": [
+                1168,
+                1529
+              ]
+            },
+            {
+              "doc_id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "bezogen auf Bildungsprozesse, die die klassische Kurswahl oder Weiterbildung betref­ fen. Pöggeler weist bereits auf den fließenden Übergang von Beratung bezo­ gen auf Bildung und Beratung als Bildung hin: „Bildungsberatung vollzieht sich meist im Vorraum der Bildung: In vielen Fällen wird rein sachliche bzw. methodische Information und Auskunft gesucht; die Be­ ratung bleibt im Raum der reinen Mitteilung oder nimmt bestenfalls die Form der Empfehlung oder des wohlmeinenden Hinweises an. Allerdings gibt es auch Fälle, in denen eine solche Information in ein echtes Bildungsverhältnis umschlägt …“ (Pöggeler 1974: 56) Pöggeler spricht in der Beschreibung dieses Übergangs von „Lebensberatung“ und plädiert dafür, dass es auch dazu Angebote geben solle, was mit der Aus­ differenzierung des Weiterbildungs- und Beratungsmarktes inzwischen, trotz allem Verbesserungsbedarf, als realisiert bezeichnet werden kann. Mit den Beratungsformaten „Coaching“ und „Supervision“ hat die bei Pöggeler noch seh"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_081.txt",
+    "question": "Warum wird im Text zwischen Methoden und Techniken in der Bildungsberatung unterschieden?",
+    "answer": "Da es im Text heißt: „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion können potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) und: „Methoden der Beratung sind schier unerschöpflich“ (Nestmann 2004: 783)  und: „Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen“ (Nestmann 2004: 783). Daher wird zwischen Methoden und Techniken unterschieden, um die Komplexität der Beratung zu verstehen und um die verschiedenen Aspekte der Beratung zu erfassen. Das heißt, Methoden sind vielfältig und umfassen alle Formen der zwischenmenschlichen Kommunikation und Interaktion, während Techniken die Grundbausteine der Beratung sind, die sich kombinieren lassen. Im Text wird betont, dass Methoden und Techniken sich nicht gegenseitig ausschließen, sondern sich ergänzen und dass es wichtig ist, zwischen ihnen zu unterscheiden, um die Beratungskompetenz zu verstehen und um die verschiedenen Aspekte der Beratung zu erfassen. Das heißt, Methoden sind die umfassenden Konzepte der Beratung, während Techniken die spezifischen Handlungen sind, die zur Umsetzung der Methoden dienen. Die Beratung ist ein komplexes Feld, das viele Aspekte umfasst, und es ist wichtig, zwischen den verschiedenen Aspekten zu unterscheiden, um die Beratungskompetenz zu verstehen und um die verschiedenen Aspekte der Beratung zu erfassen. Das heißt, Methoden und Techniken sind zwei verschiedene Aspekte der Beratung, die sich nicht gegenseitig ausschließen, sondern sich ergänzen. Im Text wird betont, dass Methoden und Techniken sich nicht gegenseitig ausschließen, sondern sich ergänzen und dass es wichtig ist,",
+    "expected": "Der Unterschied wird gemacht, um zu verdeutlichen, dass Methodenkompetenz nicht darin besteht, möglichst viele Methoden auswendig zu kennen, sondern darin, Methodenbeschreibungen an die aktuelle Beratungssituation anzupassen und zu verändern. Techniken hingegen sind frei kombinierbare Bausteine, die weniger äußere Voraussetzungen benötigen und daher auch in kürzeren Beratungssettings eingesetzt werden können.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "aceea8476e7edea6b09785cd4705f32f6ce6631a27e07c796c5c916836aeb93e",
+        "score": 0.9971439242362976,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3486,
+          "_split_overlap": [
+            {
+              "doc_id": "75922f46fafd6386355a40b021bd878c09664c60b98f5fa9b400899d2c7002ba",
+              "range": [
+                1199,
+                1545
+              ]
+            },
+            {
+              "doc_id": "25da60e43d05b4609dd679f158c0d8f14354c47b048902fa27540e2cbe1b64f7",
+              "range": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        "content": "Techniken“ nachvollziehen. Denn wenn es so einfach wäre, warum besteht dann immer wieder Uneinigkeit über die Zuordnung der Begriffe? Zunächst einmal gibt es unterschiedliche Vorstellungen davon, ab welcher Komplexität eine In­ tervention in eine Technik und eine Technik in eine Methode übergeht. Wer schon einmal die Diskussion geführt hat, ob ‚Reframing‘ (s. 4.3 Systemische Gesprächsführung) eine bloße Intervention ist, eine Technik oder gar eine Methode der Systemischen Beratung, weiß wie unfruchtbar solche Grenzzie­ hungen sein können. In der konkreten Beratungssituation ist das ‚Reframing‘ eine Intervention. Der Intervention liegt aber die Kenntnis der Technik ‚Refra­ ming‘ zugrunde. Das heißt, um tatsächlich einen Perspektivwechsel des bzw. der Ratsuchenden bezogen auf die eigene Situation einzuleiten, kann ich seine bzw. ihre Aussage nicht beliebig umdeuten. Die beiden Begriffe „Methoden“ und „Techniken“ dienen letztlich immer auch der Vermittlung von Beratungskompetenz. Ich besc"
+      },
+      {
+        "rank": 2,
+        "id": "02c938f1c0c37c7d4e8e5302dda716e940132c4fc4edaf5f64de34c3f1591bde",
+        "score": 0.995223343372345,
+        "meta": {
+          "file_path": "1001586_chapter_092.txt",
+          "source_id": "09428ff286d176a87c1b26bc47748433f13c6fb4f650548e998d6166713388fe",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6534af5dc56e4905705c4a6706483c576fcf3f9f645f1480394264eefbb0fbf9",
+              "range": [
+                0,
+                351
+              ]
+            }
+          ]
+        },
+        "content": "6.2 Umgang mit schwierigen Beratungssituationen Reflexionen aus dem Seminar „Methoden und Techniken in der Bildungsberatung“ Karin Kress Während unserer Praxiseinheiten in den Seminaren zur Bildungsberatung kommen von den Studierenden immer wieder Fragen auf, die nicht mit dem Verweis auf eine Methode oder die Umsetzung einer bestimmten Technik be­ antwortet werden können. Vielmehr handelt es sich dabei um Fragen, die ein Zusammenspiel der unterschiedlichen Beratungskompetenzen erfordern. In allen Fällen ist es wichtig, dass ich als erstes meine Deutung der Situation überprüfe, bevor ich mit ihr umgehe. Beim Zustandekommen einer Situation sind wir als Beraterinnen und Berater immer ebenso involviert, wie die Ratsu­ chenden. Es mag sein, dass der oder die Ratsuchende mir z.B. sehr missmutig oder sogar latent aggressiv erscheint. Diese Wahrnehmung entsteht aber vor dem Hintergrund meiner Deutungsmuster und der in meinem Umfeld übli­ chen Verhaltensweisen. Was in meinem Umfeld schon Anzei"
+      },
+      {
+        "rank": 3,
+        "id": "32e1c27754c33e8e2205dbd493d9874e7d22250d38cdc1d03cf1ef62270a68aa",
+        "score": 0.9943352341651917,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8920,
+          "_split_overlap": [
+            {
+              "doc_id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+              "range": [
+                1097,
+                1447
+              ]
+            }
+          ]
+        },
+        "content": "aktuelle Begründungsfiguren. Sie schafft vielmehr Raum für die Entfaltung des Menschen, ist also einer Leitidee von Bildung zugeordnet.“ (Knoll 2010: 211) Mit Hilfe von Methoden gestalte ich für den bzw. die Ratsuchende einen per­ sönlichen Erfahrungsraum. Ich kann ganz in die Rolle der Begleitung wechseln und Denkanstöße als wertfreie Ergänzungen in die Sammlung mit einbrin­ gen. Methodische Arrangements haben auch den wichtigen Vorteil einer Ent­ schleunigung und Systematisierung, indem sie bspw. die Sammlung von Ideen deutlich von der Bewertung und Entscheidungsfindung trennen. Ausblick und Begriffsverwendung Den Begriff Beratungstechniken verwenden wir hingegen, wenn es um frei kombinierbare einzelne Tätigkeiten im Beratungshandeln geht. Wissens­ bestände über Techniken helfen auszuwählen, welche Techniken für eine Situ­ ation angemessen sind. Dazu gehört die Kenntnis um die Wirkungsweise der jeweiligen Technik und ihre Einbettung in die unterschiedlichen Beratungs­ ansätze. Im Unt"
+      },
+      {
+        "rank": 4,
+        "id": "db3a1d93cd9e3a2eeb371c3620a19d058de4118170cf4988c9bf00afc8d6b19f",
+        "score": 0.9939122200012207,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "503d2b29a567e035f6b5476a385062f4cb59f353bc31a47b9fda4ffa85281c56",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3 Erfahrungsraum Beratung: Handlungsorientierung ### Handlungsorientierung 3.1 \u0007Methoden, Techniken und sprachliche Interventionen Karin Kress Wer sich mit Beratung beschäftigt, stößt früher oder später auf die sehr unter­ schiedlichen Verwendungsweisen der beiden Begriffe „Methoden“ und „Tech­ niken“. Deswegen widmen wir der Unterscheidung der Begriffe – wie wir sie in diesem Band verwenden – einen eigenen Beitrag. „Methoden der Beratung sind schier unerschöpflich. Letztlich alle Formen einer nicht verletzenden zwischenmenschlichen Kommunikation und Interaktion kön­ nen potenzielle Beratungsmethoden werden und allein die Beziehung zwischen Berater und Rat Suchendem kann die Rolle einer offenbar sehr wirkungsvollen Unterstützungs- und Veränderungs‚methode‘ einnehmen.“ (Nestmann 2004: 783) Techniken bilden die Grundbausteine der Beratung, die sich immer wieder neu kombinieren lassen. Bezogen auf die „Stolperstein-Methode“ (s. S. 123) werden z. B. Gesprächs- und Visualisierungstechni"
+      },
+      {
+        "rank": 5,
+        "id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+        "score": 0.9933069348335266,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3515,
+          "_split_overlap": [
+            {
+              "doc_id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+              "range": [
+                1177,
+                1579
+              ]
+            },
+            {
+              "doc_id": "8e4cf230d6973ce0f8d05c10c3fcbe0fb142b80a563a3ffff60c9b30f757f0d6",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Beratungspraxis zum Vorschein kommen.\nWährend Methoden in sich unterschiedliche zusammenhängende Techni­ ken enthalten können und damit systematisch in einem inhaltlichen Kontext stehen, sind manche Techniken ganz unabhängig von der Zuordnung zu einer Methode vorstellbar. Die Paraphrase ist als Technik in verschiedenen inhalt­ lichen Methoden anwendbar. Das heißt Techniken sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie­ hen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge­ klärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar­ beiten ermöglichen. Daher wird zunächst der Stellenwert von Methoden und "
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_081.txt",
+    "question": "Wie können Beraterinnen und Berater laut Text eine tiefer gehende Entscheidungs- und Übergangsberatung ermöglichen?",
+    "answer": "Durch die Anwendung von Methoden und Techniken, die flexibel und an die aktuelle Situation angepasst werden können. Laut Text können Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse benötigen, um eine tiefer gehende Entscheidungs- und Übergangsberatung zu ermöglichen. Methodenbeschreibungen können dabei eine gute Orientierung für mögliche Beratungsprozesse bieten und Ideen für ein Vorgehen transportieren, das erfahrene Beraterinnen und Berater entwickelt haben. Durch die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation kann eine gelingende Beratung versprochen werden. Darüber hinaus können Techniken als frei kombinierte Bausteine eingesetzt werden, was weniger äußere Voraussetzungen erfüllt sein muss als für den Einsatz einer umfangreichen Beratungsmethode. Dies ermöglicht es, Techniken auch in kürzeren Beratungssettings einzusetzen. Die von den Autoren für diesen Band ausgewählten Methoden haben vor allem exemplarischen Charakter und sollen dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie Beraterinnen und Berater eine tiefer gehende Entscheidungs- und Übergangsberatung ermöglichen können. \n        (Antwort nicht gefunden) Die von uns für diesen Band ausgewählten Methoden haben vor allem exemplarischen Charakter. Sie erheben keinen Anspruch auf Ausschließlichkeit, weder dass sie ausschließlich in der Bildungsberatung eingesetzt werden könnten, noch, dass ausschließlich diese Methoden für den Einsatz geeignet wären. Vielmehr sollen sie dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie Beraterinnen und Berater eine tiefer gehende Entscheidungs- und Übergangsberatung ermöglichen können. \n        (Antwort gefunden) \n        Antwort: Durch die Anwendung von Methoden und Techniken, die flexibel und an die aktuelle Situation angepasst werden können. Laut Text können Beraterinnen und Berater Kenntnisse und Kompetenzen in",
+    "expected": "Um von einem reinen Informationsangebot zu einer tiefer gehenden Entscheidungs- und Übergangsberatung zu gelangen, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Das bedeutet, dass sie Methodenkompetenz entwickeln und Beratungsmethoden an die jeweilige Situation anpassen müssen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+        "score": 0.986116349697113,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1227,
+          "_split_overlap": [
+            {
+              "doc_id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+              "range": [
+                1227,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidungs- und Übergangsberatung resultieren kann, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Methodenbeschreibungen spielen für das Erlernen von Beratungskompe­ tenz eine wichtige Rolle. Sie haben den Vorteil, dass sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Auch wenn es sich immer um abstra­ hierte Beratungsprozesse handelt, transportieren sie Ideen für ein Vorgehen, das erfahrene Beraterinnen und Berater entwickelt haben. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho­ den und Techniken wert zu legen, um deutlich zu machen, dass die Metho­ denkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi­ nierbare Bausteine weniger äußere Vora"
+      },
+      {
+        "rank": 2,
+        "id": "732ede48d730ebdcb492b7e4e56a962039a5f69b88fb7009eb7d4216768febeb",
+        "score": 0.9717075824737549,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "1ac8cbf2ed6ad7e48c1ad82608d12ba839860a1a769cc2f179ef9df959c24bf1",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "3.3 Verantwortung der Beraterin und des Beraters in den Phasen des Beratungsprozesses Ein jedes Beratungsgespräch ist zuallererst die Begegnung zweier Menschen in einer wechselseitigen Rahmung der Erwartungen. Beraterinnen und Be­ rater stellen ihr Fachwissen und die Metaperspektive für den Prozess der Beratung zur Verfügung (vgl. Brüggemann u.a. 2009: 15). Die Ratsuchenden gestalten diesen Prozess der Begegnung insofern mit, als sie Expertin und Experte für das eigene Leben sind, für das, wie sie sich im Laufe der Bera­ tung verhalten und welche Entscheidungen sie treffen möchten (vgl. Hargens 2011: 26). Das Setting der Beratung ist von Anfang an über wechselseitige Er­ wartungen definiert. Beide Seiten erwarten ein professionelles, strukturiertes Gespräch unter (zunächst) Fremden. Nachfolgend werden wesentliche Elemente in den jeweiligen Beratungs­ phasen skizziert. Es sei an dieser Stelle darauf hingewiesen, dass sich die Beratungsphasen sowohl auf eine einmalige Beratung als auch a"
+      },
+      {
+        "rank": 3,
+        "id": "a735c85e603e93fddcbb64474e6055e4ed4a0088928e9a68af279ea89f6c2e5d",
+        "score": 0.9666246175765991,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8137,
+          "_split_overlap": [
+            {
+              "doc_id": "ef208b6a7f28dbea824911b9313fe6034547bf09fa361ce86850738c4e83c1e5",
+              "range": [
+                1117,
+                1535
+              ]
+            },
+            {
+              "doc_id": "62e4816fd2a7b9d64f5270d9133d95c4cb3ba4a4293fcac437d7fd80b69955b4",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "in dem oben genannten Prozess wahrnehmen können. LIPITT/LIPITT geben einen kurzen Überblick über verschiedene Auffassun- gen zur Beraterrolle und kommen am Ende zu der Polarisierung zwischen aufgaben- und prozessorientierten Beratern. Abb.16: Beraterressourcen und Beratungsformen (modifiziert nach Lipitt/Lipitt, 1999:82) Mithilfe dieser Abbildung besteht die Möglichkeit die eigene Beraterrolle zu positionieren und damit die Möglichkeiten und Grenzen des eigenen berateri- schen Handelns zu erkennen. Der durch die gesetzlichen Grundlagen festgelegte Lehrauftrag der Lehren- den in der Praxis im Handlungsfeld der Praxisbegleitung schränkt das Verständnis von Beratung zunächst einmal nicht grundsätzlich ein. Als interner Berater mit Kenntnis der beteiligten Systeme ergeben sich durchaus auch Vorteile in der Gestaltung der Beratungsprozesse. In der Praxisbegleitung treffen verschiedene Experten aufeinander: der Lernende als Experte seines eigenen Lernprozesses, der Praxisanleiter als Experte"
+      },
+      {
+        "rank": 4,
+        "id": "dc9ac465e906135bbc0f4014452f4f66affd9c0d43a1fdcb23ca5dc4a176ae40",
+        "score": 0.9541995525360107,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4421,
+          "_split_overlap": [
+            {
+              "doc_id": "e2035c517443537d470514a30d9e85642b537b47ac7c04b92ecb68f7e63033a1",
+              "range": [
+                1129,
+                1491
+              ]
+            },
+            {
+              "doc_id": "c4977ff04aa693c0d8f929b6799407e0ab865ec92d3ec25087f812587caf64e5",
+              "range": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        "content": "Die Zielgerade der Beratung, die Endphase, ist erreicht, wenn der Ratsuchende die Überzeugung mit der Beraterin und dem Berater teilt, dass sein Anliegen bzw. die Klärungsthemen ausführlich und sorgfältig umfassend betrachtet, dass mehr Transparenz und Verständnis für die eigenen Beweggründe er­ reicht und dass die eigene Problemkompetenz erweitert wurde. Nun kann die Abschlussphase der Entscheidungsfindung, der Maßnahmensicherung und der Vereinbarung eingeleitet werden. Diese Phase zeichnet sich dadurch aus, dass der Blickwinkel der zu be­ ratenden Person sich nun bewusst lösungsorientiert wieder verengen darf. Die Beraterin bzw. der Berater begleiten Ratsuchende in der abschließenden Entscheidungsfindung, welche Lösung(en) ihm oder ihr als angemessen und Erfolg versprechend in seiner Entscheidung für das weitere Handeln über die Beratung hinaus erscheinen. Nach einem längeren Beratungsprozess können nun die Ideen für die nähere (und weitere) Zukunft, die Maßnahmen, die Lö­ sungsansät"
+      },
+      {
+        "rank": 5,
+        "id": "4f9d24d8b5023c46853a5ebbbc133dd0fdf3192348b356f30cda9b0695a38b39",
+        "score": 0.932087779045105,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2202,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                1060,
+                1429
+              ]
+            },
+            {
+              "doc_id": "8c468a81ccb0c0203138aef68a1f7cdfdb45a3ad3f68d9804dd6179eade358fd",
+              "range": [
+                0,
+                318
+              ]
+            }
+          ]
+        },
+        "content": "der Berater sein Rollenverständnis darlegt (z. B. „ich hab das aber soweit vorbereitet“). Der Coach konstituiert sich hier als kompetenter und vorbereiteter Berater, der zugleich flexibel ist. Die Eröffnung des Coachings erinnert insgesamt an das Heraufbeschwören eines gemeinsamen Weges, an dem beide Akteure mitentscheiden können, wobei die Gestaltungsmacht im Sinne der Rollen- und Auftragsklärung aber letztlich beim Berater liegt. Die nachfolgende Textsequenz stammt aus einem Gespräch am Ende des Beratungsprozesses: Der Berater spricht von der Schule ohne ein bestimmtes Thema daran zu knüpfen. Der Rahmen bleibt offen, die Coachee kann frei entscheiden, ob sie nun ein fallbezogenes Thema aufgreift oder ein neues Thema besprechen will. Nachdem der Anlass geklärt scheint, macht der Berater eine weitere Option auf, indem er anfügt: „möglicherweise nochmal son son anschluss“. Er schlägt damit eine Brücke zwischen zwei Alternativen, der des Beratungsabschlusses und eines Folgetermins, der j"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_081.txt",
+    "question": "Welche Kritik wird im Text an der aktuellen Praxis der Bildungsberatung hinsichtlich der Qualifikation der Beraterinnen und Berater geübt?",
+    "answer": "Im Text wird an der aktuellen Praxis der Bildungsberatung kritisiert, dass für die Qualität der Beratungsprozesse insbesondere die professionellen Beratungsverständnisse und -kompetenzen der Beraterinnen und Berater entscheidend sind. Es wird jedoch festgestellt, dass für Bildungsberatungen noch kaum Erkenntnisse darüber vorliegen, welche Beratungsverständnisse es sind, die die Beraterinnen und Berater in ihren Beratungen konkret leiten. Dies stellt eine Forschungslücke dar, an der der Beitrag ansetzt. Im Text wird auch erwähnt, dass für das Bereich der Bildungsberatung spezifische Beratungsausbildungen entwickelt wurden, für das bereichsspezifische Theorieangebote jedoch noch weitgehend fehlen. Die empirische Fundierung der Bildungsberatung hat sich erst in der letzten Dekade intensiviert. Dies deutet darauf hin, dass die Qualifikation der Beraterinnen und Berater im Bereich der Bildungsberatung noch nicht ausreichend ist. Im Text wird auch erwähnt, dass die institutionelle Verortung von Anerkennungsberatung eine wichtige Rahmenbedingung für die Ausgestaltung des Beratungsauftrags und des beruflichen Selbstverständnisses der Beraterinnen und Berater darstellt. Dies deutet darauf hin, dass die Qualifikation der Beraterinnen und Berater auch von den institutionellen Rahmenbedingungen abhängt. Insgesamt wird an der aktuellen Praxis der Bildungsberatung kritisiert, dass die Qualifikation der Beraterinnen und Berater noch nicht ausreichend ist und dass es noch Forschungslücken in diesem Bereich gibt.",
+    "expected": "Der Text kritisiert, dass die Beratungsarbeit oft nicht durchgehend professionalisiert ist und in vielen Bildungseinrichtungen der Erwachsenenbildung Ratsuchende keine ausgebildeten Weiterbildungsberater/innen finden. Bildungsberatung wird häufig autodidaktisch von vielen Akteuren gelernt, was dazu führt, dass der Beratungsfokus meist auf der reinen Informationsvermittlung liegt und weniger auf methodisch angeleiteter Beratung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "82c87502a6a3779ac4e139c4dfc6a6bc1293267304c4c81ab89780ec677da30d",
+        "score": 0.5175260305404663,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3677,
+          "_split_overlap": [
+            {
+              "doc_id": "cc4cc5b07009f92d136ae427d404a5b0c98b8a487365acd48f32cb9af039f45d",
+              "range": [
+                1288,
+                1676
+              ]
+            },
+            {
+              "doc_id": "382b8fb7e9cc5591635c68a29eff31150ad8fe2fd05039825164cb72e0387065",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "der quartäre Bildungssektor die allgemeine, berufliche und wissenschaftliche Weiterbildung. Vom Nationalen Forum für Beratung in Bildung, Beruf und Beschäftigung e.V. – einem gemeinnützi- gen, konfessionell und parteipolitisch unabhängigen Verein in Deutschland, der sich als gemeinsame Plattform für alle AkteurInnen in diesem Handlungs- feld versteht – wurde im Rahmen eines öffentlich geförderten Verbundprojektes (2009 bis 2014) ein Kompetenzprofil für BeraterInnen entwickelt. Dieses Kompetenzprofil wurde von BeratungsexpertInnen aus unterschiedlichen Beratungsfeldern und der Wis- senschaft konzeptualisiert, um „vor dem Hintergrund fehlender einheitlicher Standards in der Beratung sowie der heterogenen Qualifikationen des tätigen Personals […] die Professionalität von Beratenden zu stärken“ (ebd., S. 7). Es werden darin sechs Kompe- tenzbereiche unterschieden. Ein Bereich beschreibt die Kompetenz zur professionellen (Selbst-)Reflexion. Diese umfasst „das Entwickeln einer professionelle"
+      },
+      {
+        "rank": 2,
+        "id": "cb7cbb53b1405c3c94f8ae4724353f64b6abd0f965c40dac232db1005eb836fa",
+        "score": 0.35027217864990234,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 12,
+          "split_idx_start": 13497,
+          "_split_overlap": [
+            {
+              "doc_id": "7b4263c69516f1cc2f9fe9b8442f987218b0ec07aeb5fb9cd27a63874c6ffbc9",
+              "range": [
+                1010,
+                1480
+              ]
+            }
+          ]
+        },
+        "content": "nicht machen« (I/DE, Z. 291-297). Die institutionelle Verortung von Anerkennungsberatung stellt eine wichti­ ge Rahmenbedingung für die Ausgestaltung des Beratungsauftrags und des beruflichen Selbstverständnisses der Berater_innen dar. Dabei werden trotz der unterschiedlichen institutionellen Träger bestimmte Prinzipien deut­ lich, welche institutionen- und länderübergreifend das Selbstverständnis von Anerkennungsberatung charakterisieren. Diese Aufgabengebiete und Prinzipien sind Gegenstand der nachfolgenden Analyse und Interpretation der Expert_inneninterviews. Die hier dargestellten individuellen Bildungs- und Berufsbiografien der Berater_innen wie auch die Beschreibung der Be­ ratungsstellen dienen als Grundlage für die Einordnung der Ergebnisse."
+      },
+      {
+        "rank": 3,
+        "id": "cc4cc5b07009f92d136ae427d404a5b0c98b8a487365acd48f32cb9af039f45d",
+        "score": 0.21704484522342682,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2389,
+          "_split_overlap": [
+            {
+              "doc_id": "6d9d5afcfdd8c157d16a0846fb835ff0b5f5f862fd261662742e1c7c6b95b80d",
+              "range": [
+                1137,
+                1580
+              ]
+            },
+            {
+              "doc_id": "82c87502a6a3779ac4e139c4dfc6a6bc1293267304c4c81ab89780ec677da30d",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "den letzten Jahren spezifische Beratungsausbildungen entwickelt wurden, für das bereichsspezifische Theorieangebote immer noch weitgehend fehlen und dessen empirische Fundierung sich erst in der letzten Dekade intensiviert hat (vgl. Käpplinger/ Maier-Gutheil 2015). Da (Bildungs-)Beratungen nicht standardisierbar sind, sind für die Qualität der Beratungsprozesse insbesondere die professionellen Beratungsver- ständnisse und -kompetenzen der BeraterInnen entscheidend (vgl. Haas/Schiersmann 2012, S. 9). Es liegen für Bildungsberatungen jedoch noch kaum Erkenntnisse darüber vor, welche Beratungsver- ständnisse es sind, die die BeraterInnen in ihren Beratungen konkret leiten. An dieser Forschungs- lücke setzt dieser Beitrag an. Mithilfe schriftlicher Falldokumentationen/Fallreflexionen soll in einem ersten Anlauf explorativ versucht werden, die handlungsstrukturierenden Leitbilder von Bildungs- beraterInnen zu rekonstruieren. (Selbst-)Reflexionen von BildungsberaterInnen Anita Pachner und Ti"
+      },
+      {
+        "rank": 4,
+        "id": "af43365e82bcbf7bce44249c92e9601cba19ab31ceee202d536974b8165ace4d",
+        "score": 0.1951720267534256,
+        "meta": {
+          "file_path": "9783866496811_chapter_092.txt",
+          "source_id": "6d32ac882f4a986c62c739c987c49798cdbddffe8643d3fd8e8f420b5b86d680",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.2. Impulse für beraterisches Handeln in den Pflegeausbildungen In einer europäischen Perspektive hat Bildungsberatung einen hohen Stel- lenwert. 2008 postulierte der Rat der Europäischen Union die Notwendigkeit von Beratung, wenn es darum ginge den Menschen zu helfen, mit der zu- nehmenden Globalisierung, der Verlängerung der Lebensarbeitszeit, der Annahme von Veränderungen und der Umsetzung individueller Berufslauf- bahnen angemessen umzugehen. STROBEL hat im Kontext eines wissenschaftlichen Evaluationsprojektes an der Ludwig-Maximilians- Universität München die Organisation einer regionalen überinstitutionellen Bildungs- und Weiterbildungsberatungsstelle in München bearbeitet und damit erweiterte Perspektiven für Bildungsberatung angeboten. (vgl. Strobel 2010) Pflegeausbildungen manifestieren sich an mehreren Lernorten, das macht das Lernen nicht unbedingt einfacher. Wie und wo beraterisches Handeln diese Prozesse flankierend begleiten, aufeinander beziehen und unterstützen kann, d"
+      },
+      {
+        "rank": 5,
+        "id": "a735c85e603e93fddcbb64474e6055e4ed4a0088928e9a68af279ea89f6c2e5d",
+        "score": 0.15574756264686584,
+        "meta": {
+          "file_path": "9783866496811_chapter_0941.txt",
+          "source_id": "fbf306c386e39dd04f96997d73a7f8159a71d7ed2c912985eea8df8f9c9d8c4c",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8137,
+          "_split_overlap": [
+            {
+              "doc_id": "ef208b6a7f28dbea824911b9313fe6034547bf09fa361ce86850738c4e83c1e5",
+              "range": [
+                1117,
+                1535
+              ]
+            },
+            {
+              "doc_id": "62e4816fd2a7b9d64f5270d9133d95c4cb3ba4a4293fcac437d7fd80b69955b4",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "in dem oben genannten Prozess wahrnehmen können. LIPITT/LIPITT geben einen kurzen Überblick über verschiedene Auffassun- gen zur Beraterrolle und kommen am Ende zu der Polarisierung zwischen aufgaben- und prozessorientierten Beratern. Abb.16: Beraterressourcen und Beratungsformen (modifiziert nach Lipitt/Lipitt, 1999:82) Mithilfe dieser Abbildung besteht die Möglichkeit die eigene Beraterrolle zu positionieren und damit die Möglichkeiten und Grenzen des eigenen berateri- schen Handelns zu erkennen. Der durch die gesetzlichen Grundlagen festgelegte Lehrauftrag der Lehren- den in der Praxis im Handlungsfeld der Praxisbegleitung schränkt das Verständnis von Beratung zunächst einmal nicht grundsätzlich ein. Als interner Berater mit Kenntnis der beteiligten Systeme ergeben sich durchaus auch Vorteile in der Gestaltung der Beratungsprozesse. In der Praxisbegleitung treffen verschiedene Experten aufeinander: der Lernende als Experte seines eigenen Lernprozesses, der Praxisanleiter als Experte"
+      }
+    ]
+  },
+  {
+    "filename": "1001586_chapter_081.txt",
+    "question": "Wie sollen die im Text ausgewählten Methoden und Techniken in der Bildungsberatung verstanden und genutzt werden?",
+    "answer": "Die im Text ausgewählten Methoden und Techniken sollen in der Bildungsberatung als Beispiele für mögliche Beratungsprozesse verstanden und genutzt werden. Sie sollen nicht als ausschließliche oder erforderliche Methoden betrachtet werden, sondern vielmehr als Anregungen für die Durchführung von Beratungsgesprächen. Die Wahl der Methode hängt von dem Ziel ab, das in Beratungsgesprächen erreicht werden soll, und sollte in Abstimmung mit den Zielen und Anliegen des Ratsuchenden erfolgen. Die Methoden und Techniken sollen dazu dienen, die Beratungskompetenz von Beraterinnen und Beratern zu stärken und die Qualität der Beratungsgespräche zu verbessern. Die Beschreibung der Methoden soll eine gute Orientierung für mögliche Beratungsprozesse bieten und die Anforderungen im jeweiligen Feld der Beratung einschätzen lassen. Die Techniken sind relativ übergreifend für Verfahren einzusetzen, aber auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubeziehen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst geklärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuarbeiten ermöglichen. Daher wird zunächst der Stellenwert von Methoden und Techniken, von Konzepten und Theorien erläutert und der Stellenwert von Beratungsanlässen und Inhalten der Beratungsgespräche erörtert. Sie einem Format und Feld zuzuordnen, ist darüber hinaus wichtig, um die Anforderungen im jeweiligen Feld der Beratung einschätzen zu können. Denn zu jedem Beratungsfeld gehören Wissensbestände, die der Beratungskompetenz erst ein Gesicht geben. Brunner formuliert z. B. „Wäh",
+    "expected": "Die ausgewählten Methoden und Techniken haben vor allem exemplarischen Charakter und erheben keinen Anspruch auf Ausschließlichkeit oder alleinigen Einsatz in der Bildungsberatung. Sie sollen veranschaulichen, wie mit unterschiedlichen Vorgehensweisen in der Bildungsberatung gearbeitet werden kann, inklusive der Markierung von Grenzen, wie beispielsweise durch den Einsatz des Antreiber-Tests. Wichtig ist die Anpassung und Veränderung der Methoden an die jeweilige Beratungssituation.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "37698511b461ab37f28f493701493a4d4ef1758df6128f9aeee348eba138f4ba",
+        "score": 0.9979743361473083,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9514,
+          "_split_overlap": [
+            {
+              "doc_id": "a4ff4d15d526ba0d31224af63479f1814fc6e721b457a0043f69f2a6b2d5ed6f",
+              "range": [
+                1198,
+                1629
+              ]
+            }
+          ]
+        },
+        "content": "die Systemische Gesprächsführung (Lisa Müller-Arnold) und die Lösungs- und Ressourcenori­ entierte Gesprächsführung (Anne Schlüter) vorgestellt. Schließlich sollen im fünften Kapitel des Buches ausgewählte Methoden und Techniken dargestellt werden, die von Studierenden des Master-Studien­ gangs Erwachsenenbildung an der Universität Duisburg-Essen ausprobiert wurden. Für die Auswahl standen praktische Fragen im Vordergrund wie: Was bringt Visualisierung? Sind Techniken zur Methode der Ressourcenak­ tivierung nachvollziehbar darstellbar? Welche Techniken zur Entscheidungs­ vorbereitung sind zum Üben relevant? Wohin führen kreative Techniken? Wie können Anregungen zur Reflexion gegeben werden? Alles in allem ist bei je­ dem Vorgehen die Rolle, Funktion und Begleitung durch die Beratenden ein Thema. Karin Kress führt in das Kapitel gesondert ein, um die Erfahrungen aus dem Seminar zu „Methoden und Techniken in der Beratung“ nachvollzieh­ bar zu machen. Aufgrund ihrer Erfahrungen, die Karin"
+      },
+      {
+        "rank": 2,
+        "id": "32e1c27754c33e8e2205dbd493d9874e7d22250d38cdc1d03cf1ef62270a68aa",
+        "score": 0.9971863627433777,
+        "meta": {
+          "file_path": "1001586_chapter_061.txt",
+          "source_id": "795a8bbe8d6d5e356628c5aba9a4366d0a3cd435e5a658e2624c9e95bd44e430",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 8920,
+          "_split_overlap": [
+            {
+              "doc_id": "8be7f2a45029c4d1da7ecaa9840573d92c9a21ef704ba569a613b9204111709c",
+              "range": [
+                1097,
+                1447
+              ]
+            }
+          ]
+        },
+        "content": "aktuelle Begründungsfiguren. Sie schafft vielmehr Raum für die Entfaltung des Menschen, ist also einer Leitidee von Bildung zugeordnet.“ (Knoll 2010: 211) Mit Hilfe von Methoden gestalte ich für den bzw. die Ratsuchende einen per­ sönlichen Erfahrungsraum. Ich kann ganz in die Rolle der Begleitung wechseln und Denkanstöße als wertfreie Ergänzungen in die Sammlung mit einbrin­ gen. Methodische Arrangements haben auch den wichtigen Vorteil einer Ent­ schleunigung und Systematisierung, indem sie bspw. die Sammlung von Ideen deutlich von der Bewertung und Entscheidungsfindung trennen. Ausblick und Begriffsverwendung Den Begriff Beratungstechniken verwenden wir hingegen, wenn es um frei kombinierbare einzelne Tätigkeiten im Beratungshandeln geht. Wissens­ bestände über Techniken helfen auszuwählen, welche Techniken für eine Situ­ ation angemessen sind. Dazu gehört die Kenntnis um die Wirkungsweise der jeweiligen Technik und ihre Einbettung in die unterschiedlichen Beratungs­ ansätze. Im Unt"
+      },
+      {
+        "rank": 3,
+        "id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+        "score": 0.9966232776641846,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2389,
+          "_split_overlap": [
+            {
+              "doc_id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+              "range": [
+                1162,
+                1563
+              ]
+            }
+          ]
+        },
+        "content": "von uns für diesen Band ausgewählten Methoden haben vor allem exemplarischen Charakter. Sie erheben keinen Anspruch auf Ausschließlich­ keit, weder dass sie ausschließlich in der Bildungsberatung eingesetzt werden könnten, noch, dass ausschließlich diese Methoden für den Einsatz geeignet wären. Vielmehr sollen sie dazu dienen, anhand möglichst unterschiedlicher Vorgehensweisen zu veranschaulichen, wie in der Bildungsberatung mit Me­ thoden gearbeitet werden kann. Dazu gehören auch Methoden, die Grenzen markieren, wie z.B. der Einsatz des Antreiber-Tests (S. 178) in der Bildungs­ beratung. Die Methoden stammen aus den beiden unterschiedlichen Kontexten, die in der Bildungsberatung aufeinandertreffen: Es handelt sich um abgewandel­ te Verfahren, die aus der Seminargestaltung der Erwachsenenbildung (z.B. Klotzen S. 156, Bildungszeitreise S. 145, Lebensbaum S. 151) oder aus dem Coaching stammen (z.B. Tetralemma S. 132, Inneres Team S. 140, Netzwerk­ methode S. 162). Bei der Beschreibung de"
+      },
+      {
+        "rank": 4,
+        "id": "69aafc53a968074a422c0b57da0aea2933dd024a21454ad4ea363e83ca29892a",
+        "score": 0.9957717061042786,
+        "meta": {
+          "file_path": "1001586_chapter_04.txt",
+          "source_id": "471e1992e1da60ab9bf66003f6599647f6988d36e28154bbe6d25b01257e527a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3515,
+          "_split_overlap": [
+            {
+              "doc_id": "2bcccc2ff2e11b3b6dd6667e95944de23a81e90bc108d36ad3d49917c44ddd47",
+              "range": [
+                1177,
+                1579
+              ]
+            },
+            {
+              "doc_id": "8e4cf230d6973ce0f8d05c10c3fcbe0fb142b80a563a3ffff60c9b30f757f0d6",
+              "range": [
+                0,
+                376
+              ]
+            }
+          ]
+        },
+        "content": "Beratungspraxis zum Vorschein kommen.\nWährend Methoden in sich unterschiedliche zusammenhängende Techni­ ken enthalten können und damit systematisch in einem inhaltlichen Kontext stehen, sind manche Techniken ganz unabhängig von der Zuordnung zu einer Methode vorstellbar. Die Paraphrase ist als Technik in verschiedenen inhalt­ lichen Methoden anwendbar. Das heißt Techniken sind relativ übergreifend für Verfahren einzusetzen, allerdings auch nicht willkürlich zu gebrauchen. Die Wahl der Methode ist abhängig von dem Ziel, das in Beratungsgesprächen erreicht werden soll. Grundsätzlich sind also Ziele von Beratung einzubezie­ hen. Diese sollten, wenn sie nicht als Anliegen deutlich werden, zunächst ge­ klärt werden. Möchte eine Beraterin oder ein Berater das Gegenüber in der Entscheidungsfindung für den weiteren Bildungsweg begleiten, dann sind zunächst Gesprächstechniken wesentlich, die das Beratungsziel herauszuar­ beiten ermöglichen. Daher wird zunächst der Stellenwert von Methoden und "
+      },
+      {
+        "rank": 5,
+        "id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+        "score": 0.9940053820610046,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "### 5 Methoden und Techniken ### 5.1 Einführung Karin Kress Die Bildungsberatung ist ein Beratungsfeld, das in besonderem Maße durch das Wechselspiel von Informationsangeboten und Prozessbegleitung durch die Beraterinnen und Berater geprägt ist. Die Institutionalisierung der Bildungsberatung in kommunal geförderten Einrichtungen bedingt, dass die Informationsvermittlung zunächst im Vorder­ grund zu stehen scheint. Ratsuchende möchten sich über Kursangebote, För­ dermöglichkeiten oder berufliche Alternativen informieren. Hinzu kommt, dass die Bildungsberatung bisher oft auch von Personen ohne gezielte Beratungsausbildung durchgeführt wird. „Doch die Beratungsarbeit ist nicht durchgehend professionalisiert. In vielen Bil­ dungseinrichtungen der Erwachsenenbildung finden Ratsuchende auch heute noch keine ausgebildeten Weiterbildungsberater/innen. Von Ausnahmen abge­ sehen, ist Bildungsberatung eine Tätigkeit, die von vielen Akteuren in diesem Feld tendenziell eher autodidaktisch gelernt w"
+      }
+    ]
+  }
+]

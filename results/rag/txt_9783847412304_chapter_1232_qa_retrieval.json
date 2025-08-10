@@ -1,0 +1,668 @@
+[
+  {
+    "filename": "9783847412304_chapter_1232.txt",
+    "question": "Was versteht Stefanie Duttweiler unter dem zentralen Moment in der Bildungsberatung und wie hängt dieser mit der Subjektkonstituierung zusammen?",
+    "answer": "Stefanie Duttweiler versteht das zentrale Moment in der Bildungsberatung als Selbstbestimmung, die mit der Frage der Selbstkonstituierung des Subjekts in Verbindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjektivierung, der sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt. In diesem Zusammenhang ist die Selbstbestimmung ein Instrument und Effekt von Beratung, ihr Fluchtpunkt und konstitutives, strukturierendes Formprinzip.",
+    "expected": "Stefanie Duttweiler sieht die Selbstbestimmung als das zentrale Moment in der Bildungsberatung, welches mit der Frage der Selbstkonstituierung des Subjekts verbunden ist. Diese Selbstkonstituierung ist Teil des Subjektivierungsprozesses, der durch die Verschränkung von Macht- und Wissensformationen mit Tätigkeiten des Selbstbezugs bestimmt wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e9612e95a2699a8b6b338717145faf545226182d77bdfbe44bbcfcc006b9b448",
+        "score": 0.996547281742096,
+        "meta": {
+          "file_path": "9783847412304_chapter_1232.txt",
+          "source_id": "ec906973877be4dd0b7fd4ce2892a7738516755bd171558ee46710ca53a83205",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c676d375b2b38600c45b05152ef97f6b2d51dabb5d4647d2ea726e9111f6d9b1",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung Für Stefanie Duttweiler ist die Selbstbestimmung das zentrale Moment in der Beratung, welche mit der Frage der Selbstkonstituierung des Subjekts in Ver- bindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjekti- vierung, die sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt (vgl. dies. 2007, S. 262). Be- ratung ist dabei ein Knotenpunkt im Netz aus Selbst- und Fremdführungs- formen, erstens auf der Ebene der Beratung als institutioneller Einrichtung, zweitens als Interaktions- und Kommunikationsform, aber drittens auch in der Rolle der Berater/innen. In den drei Ebenen spiegeln sich die Interde- pendenzen aus Fremd- und Selbstführungen; Führende werden zu Geführ- ten und vice versa. Dies gilt gerade für die professionelle Beziehung Berater/ in–Ratsuchende/r. Damit wird die Frage der Selbstbestimmung erneut zum Ausgangspunkt, denn „Selb"
+      },
+      {
+        "rank": 2,
+        "id": "0527fb7d4684363e2f766d463a404d26c70d10c12ea744dca561919d6ec3df74",
+        "score": 0.578122615814209,
+        "meta": {
+          "file_path": "9783847412304_chapter_1021.txt",
+          "source_id": "16cf9e21350e49367135c46eddcb5ad9892291df5e7910a920de98c313732767",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2535,
+          "_split_overlap": [
+            {
+              "doc_id": "4fa3a4542ed93e077a311deaa9353cc45a35e28134e35a6779ecbd814d475368",
+              "range": [
+                1266,
+                1655
+              ]
+            }
+          ]
+        },
+        "content": "hierbei eine zentrale Rolle zugesprochen. Subjektorientierte Bildungsarbeit heißt also vorrangig Räume für Diskurse, Austausch und für Selbstreflexion und -verge- wisserung zu schaffen (vgl. Hübner, Maedler 2015: 240). Das FSJ bietet ideale Potentiale für eine so verstandene Jugendbildung. Die besonderen Bildungschancen liegen vor allem in der Kombination des Praxiseinsatzes, durch den in Ernstsituationen informelle Bildungsprozesse ermöglicht werden und der nicht formellen Seminararbeit, die Raum für die Reflexion der in der Praxis gemachten Aneignungsprozesse bietet. Inwieweit diese Bildungspotentiale ausgeschöpft werden, hängt maßgeb- lich von der pädagogischen Begleitung ab (vgl. Eberhard 2002: 13), d. h. zu- vorderst von den Bildungsreferent*innen der FSJ-Träger. Die zurzeit aktu- ellste Evaluationsstudie zum FSJ (vgl. BMFSFJ 2015) betont mit Hinblick auf die pädagogischen Aufgaben der Bildungsreferent*innen, dass Konfliktma- nagement und (kollegiale) Beratung typische Angebote di"
+      },
+      {
+        "rank": 3,
+        "id": "b8deb9bc1dfb9987119ba30859b7245a65c5a6855c3e1f5c2061728eb248b9ca",
+        "score": 0.11256933957338333,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1155,
+          "_split_overlap": [
+            {
+              "doc_id": "0fd323aefeae8411fb8ee330dc001dc4976e19ec3f357aab7e2b7cd8b1eb441c",
+              "range": [
+                1155,
+                1545
+              ]
+            },
+            {
+              "doc_id": "f92ab10d4ad705281e9ab8279b5f592d16d16edbc2882eb04e7ca1052e8e6ea4",
+              "range": [
+                0,
+                430
+              ]
+            }
+          ]
+        },
+        "content": "der Bildungsberatung als Feld der pädagogischen Beratung aus den frühen Emanzipationsbewe­ gungen des vergangenen Jahrhunderts, um auf dieser Grundlage die Aus­ differenzierung von Beratung, Coaching und Therapie zu veranschaulichen. Nach einer kurzen Darstellung der Eigendynamik von Veränderungsprozes­ sen, stelle ich über die Anfänge der Theorie der Bildungsberatung den Bezug zwischen Bildungsberatung und Erwachsenenbildung her, um anschließend den Aspekt der Anleitung von Selbstlernprozessen, wie er sich aus Sicht der Didaktiktheorie der Erwachsenenbildung darstellt, einzuholen. Dafür zeige ich Ähnlichkeiten und Unterschiede zwischen vermittelten Lernprozessen und unvermittelten lebensweltlichen Lernprozessen auf, um die Chancen der Bildungsberatung als niedrigschwelliges Bildungsangebot des lebenslangen Lernens aufzuzeigen. Pädagogische Beratung als Unterstützung von Entfaltungs- und Emanzipationsprozessen Katharina Gröning erläutert die Entstehung der pädagogischen Beratung aus­ g"
+      },
+      {
+        "rank": 4,
+        "id": "e98ea492216ba669eaec36f1670b30fe1824559a86e0a888ad033e5bd2ea1b08",
+        "score": 0.043000899255275726,
+        "meta": {
+          "file_path": "9783847412304_chapter_0722.txt",
+          "source_id": "fa0a11eece0b8889200da895ad081fd4c36ca5ed61d24d7a3c0d84c4ec55f92d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2290,
+          "_split_overlap": [
+            {
+              "doc_id": "46f3f6f89e68d4ae270c5cfeab7fe42079d3d02a40388aff53035b32d8afa53f",
+              "range": [
+                1159,
+                1548
+              ]
+            },
+            {
+              "doc_id": "8dec3094e571338d7baeef623e49119bc7338570c882d38c3279e50d49882124",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "Zuschreibung einer defensiven Haltung des Stillstands, also über das Fehlen von Bewegung, charakterisiert (Adorno 1972: 108). In beiden Fällen bietet das verwendete bildungstheoretische Vokabular Anschlussmöglichkeiten für die Vorstellung, Bildung sei über das Mittel der Reise zu „erreichen“. Aus einer sozialgeschichtlichen Perspektive zeigt sich zudem ein Wandel darin, wie Bildung und Reisen historisch zueinandergefunden haben. Bildung und Reisen wurden seit der Spätrenaissance für höchst differente soziale Gruppen in unterschiedlichen Reiseformen möglich (vgl. Hlavin-Schulze 1998). Die jeweiligen Ansprüche an Bildung unterschieden sich entsprechend. So ist es naheliegend, dass die Grand Tour der jungen Adligen Europas in der Renaissance sich so sehr von den heutigen Erasmus-Studierenden unterscheidet, wie dies bei der Walz im 18. oder den politischen Wanderbewegungen des 19. Jahrhunderts der Fall ist (ebd.). Gleichzeitig wird daraus ersichtlich, dass das, was jeweils als Bildung galt"
+      },
+      {
+        "rank": 5,
+        "id": "4fa3a4542ed93e077a311deaa9353cc45a35e28134e35a6779ecbd814d475368",
+        "score": 0.026289794594049454,
+        "meta": {
+          "file_path": "9783847412304_chapter_1021.txt",
+          "source_id": "16cf9e21350e49367135c46eddcb5ad9892291df5e7910a920de98c313732767",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1269,
+          "_split_overlap": [
+            {
+              "doc_id": "c06e97d3f63719eff658c63d56a2631d925988b66d37a45a03f690c29f10af3a",
+              "range": [
+                1269,
+                1738
+              ]
+            },
+            {
+              "doc_id": "0527fb7d4684363e2f766d463a404d26c70d10c12ea744dca561919d6ec3df74",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "benannt. Angesprochen werden hier Bildungsziele, die schematisch voneinander getrennt als subjektbezogene „Persönlichkeitsbildung“ und als auf die Gesellschaft bezogene „soziale Bildung“ charakterisiert werden können (vgl. Münchmeier 2010: 58). Über dieses Bildungsverständnis humanistischer Prägung hinaus wird im JFDG auch der inzwischen gewollte berufsqualifizierende Charakter von Jugendfreiwilligendiensten offenbar: „[I]n das Zeugnis [sind] berufsqualifizierende Merkmale des Jugendfreiwilligendienstes aufzunehmen“ (§11, Abs.4). Kritische Stimmen warnen hier vor der Gefahr einer Indienstnahme der Bildungspotentiale des FSJ für ökonomische Zwecke (vgl. Hübner, Maedler 2015: 242). Dieser Kritik folgend, wird ein subjektorientierter Bildungsbegriff für das FSJ favorisiert (vgl. ebd.; Münchmeier 2010). Bildung darf demnach nicht mit beruflicher Qualifizierung gleichgesetzt werden, sondern bedeutet „Selbstbildung als Aneignung des eigenen Selbst in der Welt und Reflexion dieser Aneignungsp"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1232.txt",
+    "question": "Welche drei Ebenen nennt der Text, auf denen sich die Interdependenzen von Fremd- und Selbstführung in der Bildungsberatung spiegeln?",
+    "answer": "Die drei Ebenen sind: \n        1. Die Interaktions- und Kommunikationsform der Beratung \n        2. Die Rolle der Berater/innen \n        3. Die institutionelle Ebene der Beratung als Einrichtung. \n        Diese Ebenen spiegeln die Interdependenzen von Fremd- und Selbstführung in der Bildungsberatung wider. \n        Quelle: Duttweiler, S. 2007, S. 262. \n        Siehe auch: Kapitel 2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung. \n        Die drei Ebenen sind: \n        1. Die Beratung als institutionelle Einrichtung \n        2. Die Beratung als Interaktions- und Kommunikationsform \n        3. Die Rolle der Berater/innen. \n        Diese Ebenen spiegeln die Interdependenzen von Fremd- und Selbstführung in der Bildungsberatung wider. \n        Quelle: Duttweiler, S. 2007, S. 272. \n        Siehe auch: Kapitel 2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung. \n        Die drei Ebenen sind: \n        1. Die institutionelle Ebene der Beratung als Einrichtung \n        2. Die Interaktions- und Kommunikationsform der Beratung \n        3. Die Rolle der Berater/innen. \n        Diese Ebenen spiegeln die Interdependenzen von Fremd- und Selbstführung in der Bildungsberatung wider. \n        Quelle: Duttweiler, S. 2007, S. 272. \n        Siehe auch: Kapitel 2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung. \n        Die drei Ebenen sind: \n        1. Die institutionelle Ebene der Beratung als Einrichtung \n        2. Die Interaktions- und Kommunikationsform der Beratung \n        3. Die Rolle der Berater/innen. \n        Diese Ebenen spiegeln die Interdependenzen von Fremd- und Selbstführung",
+    "expected": "Die drei Ebenen sind: erstens die Beratung als institutionelle Einrichtung, zweitens die Beratung als Interaktions- und Kommunikationsform, und drittens die Rolle der Beraterinnen und Berater selbst.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1ec6f381d6e1062dc864e2a4e1506815fab7aa1bf4c05d6531a003f11a41949e",
+        "score": 0.9815350770950317,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "3.2.3 Anerkennungstheoretisches Rahmenmodell In Anlehnung an die hier dargestellten anerkennungs- und bildungstheore­ tischen Ansätze und in Kombination mit den zuvor beschriebenen Ebenen der Zielsetzungen von Bildungsberatung wird in der vorliegenden Arbeit zwischen drei Analyseebenen unterschieden, welche die Grundlage für die Auswertung der empirischen Daten bilden. Die Ebenen bezeichnen dabei drei unterschiedliche gesellschaftliche Sphären, in denen Anerkennungsver­ hältnisse hergestellt werden können und die entsprechend den Zielsetzungen der Bildungs- und Berufsberatung Relevanz für die Aufgaben der Anerken­ nungsberatung aufweisen. Die Interaktionsebene des Beratungsgesprächs selbst bildet die erste Analyseebene. Aufgrund der Bedeutung von formalen Anerkennungsverfahren für die Beratungspraxis wird der rechtliche Kon­ text als zweite Analyseebene beschrieben. Die dritte Ebene umfasst die ge­ sellschaftliche Anerkennung in Form von sozialer Wertschätzung der indi­ viduellen Fähig"
+      },
+      {
+        "rank": 2,
+        "id": "e9612e95a2699a8b6b338717145faf545226182d77bdfbe44bbcfcc006b9b448",
+        "score": 0.9582049250602722,
+        "meta": {
+          "file_path": "9783847412304_chapter_1232.txt",
+          "source_id": "ec906973877be4dd0b7fd4ce2892a7738516755bd171558ee46710ca53a83205",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c676d375b2b38600c45b05152ef97f6b2d51dabb5d4647d2ea726e9111f6d9b1",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung Für Stefanie Duttweiler ist die Selbstbestimmung das zentrale Moment in der Beratung, welche mit der Frage der Selbstkonstituierung des Subjekts in Ver- bindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjekti- vierung, die sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt (vgl. dies. 2007, S. 262). Be- ratung ist dabei ein Knotenpunkt im Netz aus Selbst- und Fremdführungs- formen, erstens auf der Ebene der Beratung als institutioneller Einrichtung, zweitens als Interaktions- und Kommunikationsform, aber drittens auch in der Rolle der Berater/innen. In den drei Ebenen spiegeln sich die Interde- pendenzen aus Fremd- und Selbstführungen; Führende werden zu Geführ- ten und vice versa. Dies gilt gerade für die professionelle Beziehung Berater/ in–Ratsuchende/r. Damit wird die Frage der Selbstbestimmung erneut zum Ausgangspunkt, denn „Selb"
+      },
+      {
+        "rank": 3,
+        "id": "125e6c97c3e40eabd3f9c9a2ea0da26c595624bec2878b50efdfcfaa27e0d8cd",
+        "score": 0.32655999064445496,
+        "meta": {
+          "file_path": "1001586_chapter_0856.txt",
+          "source_id": "1c3c1f3afbfb2d082ee7742e6b66201c5e3be3754cb92560c3b502cfc8df1c32",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3328,
+          "_split_overlap": [
+            {
+              "doc_id": "1e336aec61cf96f082ca24be2f88f950f4a1bad01d8873968b037b43459ccabf",
+              "range": [
+                1070,
+                1453
+              ]
+            },
+            {
+              "doc_id": "af993999e96dd1b8a044594cf282475fb4c84782e22058875e6200beb7486ef9",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "Sie die Assoziationen herausfiltern, die eine bildungsgeschichtliche Prägung aufdecken könnten und gezielt nach­ zufragen, sowie zur Reflexion anregen. Auch hier sollten Sie darauf achten, dass der Begriff „Bildung“ möglicherweise sehr negativ behaftet ist und zu Abwehrreaktionen und inneren Widerständen führen kann, die den Bera­ tungs- und Reflexionsprozess behindern können. Um dies zu umgehen, ist eine gefühlvolle und vorsichtige Annäherung an das Thema gefragt. Dabei sollten Sie auf die unterschiedlichen Ebenen wie Vergangenheitsbezug, Emotionalität und Einmaligkeit der Erinnerungen eingehen. 4. \u0007Abschluss und Transfer: Zur Integration der Erkenntnisse in den Alltag und zur Eröffnung neuer Perspektiven für den weiteren Lebensweg kann zu möglichen (Weiter-) Bildungsoptionen übergeleitet werden. Kommentar zum Einsatz Zielgruppe: Die Zielgruppe umfasst hauptsächlich Menschen mit Bildungs­ blockaden, die mindestens ihre Pflichtschulzeit absolviert haben und neue Perspektiven suchen. An"
+      },
+      {
+        "rank": 4,
+        "id": "a80f96a9ff0ef6fa41cdc8f929d0a629ada8e5cc8e00301a5aa4808134dd3233",
+        "score": 0.25328299403190613,
+        "meta": {
+          "file_path": "9783847412304_chapter_0723.txt",
+          "source_id": "f915d6d4d9c0cb0af2d60edaf21cbae4963feb786bbfec5acb2120139ef15d94",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3466,
+          "_split_overlap": [
+            {
+              "doc_id": "4ef1932cb1f7f5762270514458795433728c060f07e434a50f2643d7978f7e1a",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "vollziehende Handlungen. Im Kontext des Bildungsreisens lassen sich die hier stattfindenden Be- ratungsakte auf den Bereich der informellen Bildungsberatung eingrenzen (Ewers 2014). Reiseentscheidungen sind demgemäß Bildungsentscheidungen. Bezieht man die oben skizzierten Voraussetzungen einer doppelten Differenz des Beratungsbegriffs auf Bildungsreisen, so lassen sich die Formen der Ad- ressierung von potentiellen (Bildungs-)Reisenden dahingehend befragen, wie potentielle Reisende in informellen Ratgebern adressiert und wie subjektive Aneignungsprozesse von Welt durch spezifische Beratungssettings präfor- miert werden."
+      },
+      {
+        "rank": 5,
+        "id": "c06e97d3f63719eff658c63d56a2631d925988b66d37a45a03f690c29f10af3a",
+        "score": 0.17510998249053955,
+        "meta": {
+          "file_path": "9783847412304_chapter_1021.txt",
+          "source_id": "16cf9e21350e49367135c46eddcb5ad9892291df5e7910a920de98c313732767",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4fa3a4542ed93e077a311deaa9353cc45a35e28134e35a6779ecbd814d475368",
+              "range": [
+                0,
+                469
+              ]
+            }
+          ]
+        },
+        "content": "1. Das Freiwillige Soziale Jahr als Handlungsfeld der ­Außerschulischen Jugendbildung – Bildungsverständnis und (Bildungs-)Ziele Da das noch zu explizierende Verständnis von Beratung als pädagogische Handlungsform (vgl. Kap. 2) nach einer Klärung des Bildungsverständnisses als grundlegender Orientierung für eine mögliche Beratungsarbeit verlangt, werden hier neben grundlegenden Rahmenbedingungen insbesondere die (Bildungs-)Ziele und das (mögliche) Bildungsverständnis des FSJ vorgestellt. Im FSJ engagieren sich junge Menschen zwischen 16 und 27 Jahren freiwillig, in der Regel für 12 Monate, in gemeinwohlorientierten Einrichtungen. Die pädagogische Begleitung wird hierbei von den FSJ-Trägern verantwortet. Von zentraler Bedeutung für diesen Bildungs- und Orientierungsdienst sind 25 gesetzlich vorgeschriebene Seminartage, die insbesondere der Reflexion des Praxiseinsatzes und der Persönlichkeitsbildung dienen sollen (vgl. BMFSFJ 2015: 20ff.). Mit dem FSJ werden verschiedene Ziele und Hoffn"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1232.txt",
+    "question": "Wie wird im Text die scheinbare Selbstbestimmung in der Bildungsberatung kritisch hinterfragt?",
+    "answer": "Diese Bindung von Bildungsreisegeschehen an Beratungsakte werde ich im Folgenden anhand der Apodemik, einer im 16. Jahrhundert entstehenden Kunstlehre des richtigen Reisens, darstellen (4.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Europäischen Union als aktueller Form der Adressierung potentieller Bildungsreisender (5.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Europäischen Union als aktueller Form der Adressierung potentieller Bildungsreisender (5.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Europäischen Union als aktueller Form der Adressierung potentieller Bildungsreisender (5.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Europäischen Union als aktueller Form der Adressierung potentieller Bildungsreisender (5.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Europäischen Union als aktueller Form der Adressierung potentieller Bildungsreisender (5.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Europäischen Union als aktueller Form der Adressierung potentieller Bildungsreisender (5.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegr",
+    "expected": "Die scheinbare Selbstbestimmung wird dahingehend hinterfragt, welche Fremdführung mit ihr einhergeht, da Beratende zwar methodisch die Beratungskommunikation lenken, aber nicht mehr durch ihr Fach- und Erfahrungswissen Richtungen vorgeben oder Bewertungen vornehmen sollen. Dadurch wird Selbstbestimmung als Instrument zur Akzeptanz und Verinnerlichung neoliberaler Vorgaben wie Ökonomie und Selbstvermarktung genutzt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e9612e95a2699a8b6b338717145faf545226182d77bdfbe44bbcfcc006b9b448",
+        "score": 0.9944473505020142,
+        "meta": {
+          "file_path": "9783847412304_chapter_1232.txt",
+          "source_id": "ec906973877be4dd0b7fd4ce2892a7738516755bd171558ee46710ca53a83205",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c676d375b2b38600c45b05152ef97f6b2d51dabb5d4647d2ea726e9111f6d9b1",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "2. Folgen von Fremd- und Selbststeuerungsprozessen für die Bildungsberatung Für Stefanie Duttweiler ist die Selbstbestimmung das zentrale Moment in der Beratung, welche mit der Frage der Selbstkonstituierung des Subjekts in Ver- bindung steht. Diese Selbstkonstituierung ist Teil des Prozesses der Subjekti- vierung, die sich aus der Verschränkung von Macht- und Wissensformationen mit den Tätigkeiten des Selbstbezugs bestimmt (vgl. dies. 2007, S. 262). Be- ratung ist dabei ein Knotenpunkt im Netz aus Selbst- und Fremdführungs- formen, erstens auf der Ebene der Beratung als institutioneller Einrichtung, zweitens als Interaktions- und Kommunikationsform, aber drittens auch in der Rolle der Berater/innen. In den drei Ebenen spiegeln sich die Interde- pendenzen aus Fremd- und Selbstführungen; Führende werden zu Geführ- ten und vice versa. Dies gilt gerade für die professionelle Beziehung Berater/ in–Ratsuchende/r. Damit wird die Frage der Selbstbestimmung erneut zum Ausgangspunkt, denn „Selb"
+      },
+      {
+        "rank": 2,
+        "id": "ba04d8be8e7deb5702c78f604b57b910804b7988991c32697116cfa0cd748e93",
+        "score": 0.9887340068817139,
+        "meta": {
+          "file_path": "9783847412304_chapter_0721.txt",
+          "source_id": "5ff987d349fb6fada672e40646dc81e24d10350c40236c08d2df766e74017f03",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2318,
+          "_split_overlap": [
+            {
+              "doc_id": "faf42285f3d59a5fe37052c1337ab2cc972ab2a800daae4fb4539a30d605b590",
+              "range": [
+                1154,
+                1544
+              ]
+            }
+          ]
+        },
+        "content": "Tat sowie Selbst- und Fremdbestimmung betrachtet wird (3.). Diese Bindung von Bildungsreisegeschehen an Beratungsakte werde ich im Folgenden anhand der Apodemik, einer im 16. Jahrhundert entstehenden Kunstlehre des rich- tigen Reisens, darstellen (4.). Davon ausgehend endet der Beitrag mit einer Reflexion des (Bildungs-)Beratungsbegriffs im Kontext von Bildungsreisen vor dem Hintergrund einer Thematisierung der Mobilitätspolitik der Euro- päischen Union als aktueller Form der Adressierung potentieller Bildungs- reisender (5.)."
+      },
+      {
+        "rank": 3,
+        "id": "1ede635deb47e612d3d24712a779e53af3d6a06e8c9ea892141c672c1d75f41c",
+        "score": 0.9823843836784363,
+        "meta": {
+          "file_path": "9783839444856_chapter_072.txt",
+          "source_id": "2363a922404cc0108d79c884b38b98936b7d662f6bce3fdabdbf64d896a35ea3",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.2 Aufgaben und Selbstverständnis in der Anerkennungsberatung Die erste Teilfrage für die Analyse und Interpretation des empirischen Mate­ rials bezieht sich auf das berufliche Selbstverständnis, welches über die Pers­ pektiven der Interviewpartner_innen auf ihre Aufgabenfelder rekonstruiert wird. Dazu werden zunächst interviewübergreifend die unterschiedlichen Aufgabenbereiche dargestellt (5.2.1), welche in der Anerkennungsberatung übernommen werden. Die Struktur der Analyse orientiert sich an dem an­ erkennungstheoretischen Rahmenmodell. Die Aufgabenbereiche werden entsprechend in die Interaktionsebene des Beratungsgesprächs, die gesell­ schaftliche und die rechtliche Ebene unterteilt. Darauf aufbauend werden argumentative Textpassagen verglichen, die Aussagen über die Selbsttypi­ sierungen und das Beratungsverständnis der Interviewpartner_innen ent­ halten (5.2.2). Dazu wird vertiefend auf die Fragestellungen eingegangen, wie Anerkennungsberatung von den Berater_innen und Koordinat"
+      },
+      {
+        "rank": 4,
+        "id": "31f79691562087fe02fdef44ef74a6d93f8c3bd78a00ba5c6e799291f1104412",
+        "score": 0.9810652136802673,
+        "meta": {
+          "file_path": "9783866496811_chapter_0911.txt",
+          "source_id": "849c7bd7a875c6f93396687262510c8fb926c721b6d4f18c68b739fffc1d3ed5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b4b32b58f9011cd7e69b8e9520de1c0316e4353e1c10ae6fa430208f6f52bae7",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "5.1.1. Sich selbst lernend ins Gespräch bringen – zukunftsverant- wortliche Bildung Im Zusammenhang mit der Frage nach der Bildung ist die anthropologische Dimension des Mensch-Seins von Bedeutung. Ausgehend vom philoso- phisch-anthropologischen Menschenbild wird das Mensch-Sein verstanden als eine auf Dialog ausgerichtete Seins-Weise. Es wird unterstellt, dass jeder Einzelne sich selbst als freies, lernendes Wesen vollzieht (vgl. Sikora 2003:73). Dieser Selbstvollzug ist in konkreten Situationen erfahrbar, körper- lich, gedanklich-sprachlich und gefühlsbetont. In der Begegnung mit Anderen und Anderem eröffnen sich im Horizont von Bildung sinnkritische Dialoge. Dialogizität setzt Dialog- und Autonomiekompetenz des Menschen voraus. Diese Kompetenz ermöglicht es dem Menschen, sich inner- und mit- weltlich sinn-voll zu verhalten. In seinem Verhalten nimmt er Stellung zu der und in der Welt. Die Grenzen menschlicher Autonomie werden uns von der neurowissenschaftlichen Seite durch die aktue"
+      },
+      {
+        "rank": 5,
+        "id": "c01d2b0b56a47d4542c5a0458278fd546a4ea8bb2f9aeb79364baa590db8ba25",
+        "score": 0.9652528166770935,
+        "meta": {
+          "file_path": "9783847412304_chapter_0722.txt",
+          "source_id": "fa0a11eece0b8889200da895ad081fd4c36ca5ed61d24d7a3c0d84c4ec55f92d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "46f3f6f89e68d4ae270c5cfeab7fe42079d3d02a40388aff53035b32d8afa53f",
+              "range": [
+                0,
+                437
+              ]
+            }
+          ]
+        },
+        "content": "2. Bildung, Reisen und Bewegung Die Verbindung von Bildung und Reisen zu untersuchen mag zunächst wenig innovativ wirken, da beide Konzepte fast schon „natürlich“ aneinander gekoppelt zu sein scheinen. Die romantisierende Grundannahme fußt dabei darauf, dass das Reisen die Wahrnehmung von „irritierender Fremdheit“(Schäfer 2011) ermögliche, Subjekte dadurch in Differenz zu ihren gewohnten Selbst- und Weltverhältnissen treten und im Zuge dessen ein reflexives Verhältnis zu sich selbst entwickeln können, welches transformative Bildungserfahrungen (u. a. Koller 2012) zu evozieren vermag. Wirft man einen Blick auf die Geschichte des (Bildungs-)Reisens, zeigt sich, dass das Reisen historisch über einen langen Zeitraum primär funktional-materiell bestimmt wurde. Die Legitimierung der Bewegung konnte dabei nur durch das Erfüllen mit ihr verbundener politischer, ökonomischer oder militärischer Zwecke erfolgen (vgl. Hlavin-Schulze 1998). Die ideelle Zusammenführung von Bildung und Reisen als „ni"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1232.txt",
+    "question": "Wie interpretiert Bröckling unter neoliberalen Vorgaben den Umgang mit Ungewissheiten und Kontingenzen in der Bildungsberatung?",
+    "answer": "I cannot find the answer in the provided context. \n        However, the context does mention Bröckling's work, specifically that he compares the individual to an entrepreneur of themselves, which is related to the topic of neoliberalism and its impact on individual behavior. But it does not specifically address the interpretation of Bröckling on how to handle uncertainties and contingencies in the context of Bildungsberatung. If you are looking for information on how to interpret Bröckling's work on this topic, I recommend consulting his original texts or scholarly articles that discuss his ideas in more detail.",
+    "expected": "Bröckling interpretiert Ungewissheiten und Kontingenzen als einen Freiheitsspielraum, der unter neoliberalen Vorgaben ressourcenorientiert entdeckt und erschlossen werden soll. Dies bedeutet, dass Unsicherheiten als Chancen zur Selbstentfaltung und Selbstvermarktung gesehen werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "fda781aba9ff26656b971dedf494efd1be23860312b59a3c101d5668245d6e28",
+        "score": 0.7799049019813538,
+        "meta": {
+          "file_path": "9783847412304_chapter_1231.txt",
+          "source_id": "92bf5d4fd182676eebfa915fea59bf56e0e5b7d93b82dc9e0ed373880028ca78",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2374,
+          "_split_overlap": [
+            {
+              "doc_id": "df041f6a2c380e9945786edfdc70c7961f694338ee95c15d288c51a5b7bcd2e8",
+              "range": [
+                1229,
+                1638
+              ]
+            }
+          ]
+        },
+        "content": "und auch digitale Kon- trollmechanismen.1 Diese Normalität, die sich als naturgegeben darstellt, ist von kapitalistischen Bedürfnissen auf neoliberale Weise geformt und führt damit beim Subjekt zur Verinnerlichung der ökonomischen Marktlogik (vgl. Ribolits 2010, S. 209ff; 2007, S. 23f). An Foucault anschließend betont die amerikanische Politikwissenschaftlerin Wendy Brown, dass „das Selbst als Unternehmen mit eigenen Steuerungs- und Managementtechniken agiert“ (vgl. Brown 2015, S. 32ff.), oder als – so Bröckling – Unternehmer seiner selbst (vgl. Bröckling 2007). Somit fungiert das Individuum gleichermaßen als Produzent und Konsument neoliberaler Marktlogiken."
+      },
+      {
+        "rank": 2,
+        "id": "0573521013cb9ec6a15ed801c01d43d70d487a038038d253f5bd90c260585edf",
+        "score": 0.3774266541004181,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9334,
+          "_split_overlap": [
+            {
+              "doc_id": "91a9db5d09afc0210b7cec6e4e834f615b9fb8a8de3a7f02b15786853c4e0524",
+              "range": [
+                1139,
+                1509
+              ]
+            },
+            {
+              "doc_id": "2421e901922c925bb3f27dc9af4def021599deb065ec8a7e435b3ead9a20dcc1",
+              "range": [
+                0,
+                378
+              ]
+            }
+          ]
+        },
+        "content": "Regeln für diversity­ gerechtes Handeln werden in den Gruppen formuliert und im Handeln ­erprobt. Hier werden unterschiedliche Methoden angewandt, die Empa- thie fördern und ethische Werte unterstützen, das Nudge-Prinzip wird wirksam, indem das ethisch als richtig Erkannte auch konkret umsetzbar wird. 4. „Negotiation“ als dritter Schritt bedeutet, dass das Aushandeln von diver- sitygerechten Regeln für das ganze Unternehmen beginnt. Die Regeln sol- len in offizielle Programme und Leitfäden der Unternehmen verbindlich aufgenommen werden. Sie werden deshalb an die Unternehmensleitung zur Genehmigung kommuniziert. 5. Im fünften Schritt, der „Implementation“, werden diese verbindlichen Re- geln mit der Unternehmensleitung verhandelt und als Artefakte zu neuen Regelungen mit der Unternehmensleitung verbindlich vereinbart und ver- öffentlicht, zum Beispiel diversitygerechte Bewerbungsleitfäden, diver- sitygerechte Unternehmensleitbilder und Home Pages, diversitygerechte Zielvereinbarungsleit"
+      },
+      {
+        "rank": 3,
+        "id": "ad4666ab418bc4a575f80895403daaf2f51b00a184febf183c01b2d449da3795",
+        "score": 0.33586421608924866,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "6d9d5afcfdd8c157d16a0846fb835ff0b5f5f862fd261662742e1c7c6b95b80d",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Anita Pachner und Tim Stanik Thema Kurzzusammenfassung Selbstrefl exionskompetenzen sind auch in der Bildungsberatung zentral, um die eigene profes- sionelle Praxis kontinuierlich beobachten und weiterentwickeln zu können. Doch was bedeutet Selbstrefl exion eigentlich? Was wird von BildungsberaterInnen refl ektiert? Und inwiefern die- nen die Refl exionen als Lernanlässe? Um diese Fragen zu beantworten, wird im vorliegenden Beitrag ein explorativ empirischer Zugang gewählt. Ausgewertet werden zwölf schriftliche Falldokumentationen und Fallrefl exionen von BildungsberaterInnen, die im Kontext einer in Deutschland angebotenen Fortbildung angefertigt wurden. Es zeigt sich, dass die BeraterInnen ihre Beratungen insgesamt als erfolgreich einschätzen, wobei der Beratungserfolg dem subjek- tiven Empfi nden unterliegt. Misslingende Interventionen werden als refl exive Lernanlässe wahrgenommen und organisationale Rahmenbedingungen zumal als einschränkend erlebt. (Red.) Berater/-innen bringen in"
+      },
+      {
+        "rank": 4,
+        "id": "927c9982923ffe0e5c3bfa787581aa24eb60126c1c63deea7319519e41453791",
+        "score": 0.29204416275024414,
+        "meta": {
+          "file_path": "9783839444856_chapter_07431.txt",
+          "source_id": "5629f198b0898d4079278091d23193bd08a18f7743b6f854be3f8ee9d207afe9",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1162,
+          "_split_overlap": [
+            {
+              "doc_id": "f80c313a254e247bf06131a5e5c89223544a1b8130e968537bdaeb5f29e53028",
+              "range": [
+                1162,
+                1557
+              ]
+            },
+            {
+              "doc_id": "e6655ae2acbedac8059cf5d3637e5653ad7814d4e79d1847e7b1119daf235b83",
+              "range": [
+                0,
+                460
+              ]
+            }
+          ]
+        },
+        "content": "daher auch nicht als Erfolgskriterium herangezogen werden. Inwiefern die gesetzten Ziele erreicht wurden, wird stattdessen vor allem über die subjektive Wahrnehmung der Berater_innen und über ver­ schiedene Formen des strukturierten Feedbacks beurteilt. Durch die kon­ kret definierten Ziele sind hier vor allem die beschriebenen Spannungsfelder auf institutioneller Ebene relevant. Hindernisse auf gesellschaftlicher und rechtlicher Ebene sind strukturell bedingt, liegen daher außerhalb des durch die Zielsetzungen definierten Einflussbereichs der Beratung und werden damit von den Interviewpartner_innen auch als Grenzen der eigenen fach­ lichen Zuständigkeit und damit der Beratungssituation interpretiert. Voraussetzung hierfür ist eine ressourcenorientierte Perspektive in der Beratung und die Aufrechterhaltung einer anerkennenden und wertschät­ zenden Beratungshaltung unabhängig von einer etwaigen verweigerten An­ erkennung auf rechtlicher oder gesellschaftlicher Ebene. Vor dem Hinter­ gru"
+      },
+      {
+        "rank": 5,
+        "id": "125e6c97c3e40eabd3f9c9a2ea0da26c595624bec2878b50efdfcfaa27e0d8cd",
+        "score": 0.13114628195762634,
+        "meta": {
+          "file_path": "1001586_chapter_0856.txt",
+          "source_id": "1c3c1f3afbfb2d082ee7742e6b66201c5e3be3754cb92560c3b502cfc8df1c32",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3328,
+          "_split_overlap": [
+            {
+              "doc_id": "1e336aec61cf96f082ca24be2f88f950f4a1bad01d8873968b037b43459ccabf",
+              "range": [
+                1070,
+                1453
+              ]
+            },
+            {
+              "doc_id": "af993999e96dd1b8a044594cf282475fb4c84782e22058875e6200beb7486ef9",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "Sie die Assoziationen herausfiltern, die eine bildungsgeschichtliche Prägung aufdecken könnten und gezielt nach­ zufragen, sowie zur Reflexion anregen. Auch hier sollten Sie darauf achten, dass der Begriff „Bildung“ möglicherweise sehr negativ behaftet ist und zu Abwehrreaktionen und inneren Widerständen führen kann, die den Bera­ tungs- und Reflexionsprozess behindern können. Um dies zu umgehen, ist eine gefühlvolle und vorsichtige Annäherung an das Thema gefragt. Dabei sollten Sie auf die unterschiedlichen Ebenen wie Vergangenheitsbezug, Emotionalität und Einmaligkeit der Erinnerungen eingehen. 4. \u0007Abschluss und Transfer: Zur Integration der Erkenntnisse in den Alltag und zur Eröffnung neuer Perspektiven für den weiteren Lebensweg kann zu möglichen (Weiter-) Bildungsoptionen übergeleitet werden. Kommentar zum Einsatz Zielgruppe: Die Zielgruppe umfasst hauptsächlich Menschen mit Bildungs­ blockaden, die mindestens ihre Pflichtschulzeit absolviert haben und neue Perspektiven suchen. An"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1232.txt",
+    "question": "Welche gesellschaftliche Verschiebung im Bereich der Solidarität beschreibt Rauschenbach, und welche Folgen hat dies laut dem Text für hilfs- und unterstützungsbedürftige Menschen?",
+    "answer": "Die gesellschaftliche Verschiebung im Bereich der Solidarität, die Rauschenbach beschreibt, ist die Verschiebung der informellen Solidarität hin zur organisierten, formellen Solidarität. Dies hat laut dem Text besonders für Menschen, die hilfs- und unterstützungsbedürftig sind, negative Folgen. Es wird eine zunehmende gesellschaftliche Entsolidarisierung festgestellt. Insbesondere in Beratungsfeldern, in denen es um „regulative Beratung“ geht, wirkt sich das „doppelte Mandat“, der Spagat zwischen Hilfe und Kontrolle, aus.",
+    "expected": "Rauschenbach beschreibt eine Verschiebung von privat-lebensweltlichen Unterstützungsformen hin zu organisierten, formellen Solidaritätsformen. Dies geht mit einer zunehmenden gesellschaftlichen Entsolidarisierung einher, was besonders negative Folgen für hilfs- und unterstützungsbedürftige Menschen hat, da informelle Unterstützung abnimmt und soziale sowie pädagogische Dienste diese ergänzen oder sogar ersetzen müssen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "30774320e98e5f998567fa727edbcc3ac133cb137f83cf9ebfb81c7fc93318a1",
+        "score": 0.8661220669746399,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 11238,
+          "_split_overlap": [
+            {
+              "doc_id": "7f3dc8bb43b940f6e0dfc8631bea59f7dca8dbad429c99177a1788da5c152473",
+              "range": [
+                1265,
+                1671
+              ]
+            },
+            {
+              "doc_id": "855f2f800f8c4cc35170b35c780988543d5074ed66b04c4791181bcc1b42fef3",
+              "range": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        "content": "auf institutionali­ sierte Bildungs- und Berufsberatung an Bedeutung, welche insbesondere im »pädagogisch organisierten System des lebenslangen Lernens eine stra­ tegisch wichtige Rolle« (Nittel 2016, S. 27) übernimmt. Ziel ist die Förde­ rung des lebensbegleitenden Lernens vor dem Hintergrund bewusster und eigenverantwortlicher Bildungs- und Berufsentscheidungen (vgl. Schröder und Schlögl 2014, S. 9). Beratung ist daher danach einzuordnen, »wie ihre Möglichkeiten sind, eine Wirksamkeit hinsichtlich subjektiv gewollter Ent­ scheidungen zu erzeugen« (Gieseke 2016a, S. 104). Käpplinger (2010, S. 32) thematisiert den Nutzen von Bildungsberatung zusammenfassend auf unterschiedlichen Ebenen: »Sie kann nützlich in Hinblick auf Beschäftigungschancen oder Einkommen sein, aber sich genauso auch dahingehend nützlich zeigen, dass Klienten nach einer Beratung in ihrem Selbstbewusstsein oder in ihrer Entschei­ dungsfähigkeit gestärkt sind«. Vor diesem Hintergrund empfiehlt er ein weit gefasstes Ver"
+      },
+      {
+        "rank": 2,
+        "id": "d43eeef595cd4a6d450f7ff3ba536f39aa7c5f3b0a0d0f3679f122b1d8a5151d",
+        "score": 0.8638532161712646,
+        "meta": {
+          "file_path": "9783847412304_chapter_0943.txt",
+          "source_id": "dbda7f71567792617bfdcb34e360807c55197a748dd43ff8e925708721db553d",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3814,
+          "_split_overlap": [
+            {
+              "doc_id": "8d6e087e6b60a138feb66b0ad02df9636e867e4a3448ca246908f44d93f3fc79",
+              "range": [
+                1278,
+                1705
+              ]
+            },
+            {
+              "doc_id": "115e2e9f2ca3b29a8e4a817e84710edc63163b8996cb37977335c1204fc1ab0a",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "eines überinstitutionellen Selbstverständnisses und von Zielsetzungen im Feld der Bildungs- und Berufsberatung, welche aufgrund der heterogenen Angebotsstruktur nicht selbstverständlich sind. Seel (2013) beschreibt die Entwicklung einer anerkannten gesellschaftlichen Rolle und Position von Beratung als eines der größten Problemfelder in der Professionalisierung von Beratung. Eine Profession setzt demnach auch die Übernahme von gesellschaftlichen Aufgaben voraus (vgl. ebd.: 1653). Der Bildungsberatungs-Radar ermöglicht eine gesellschaftliche Positionierung, indem er über die individuelle Ebene zur Unterstützung der Handlungs- und Entscheidungsfähigkeit hinausgeht und stattdessen die gesellschaftlichen und strukturellen Bedingungen von Beratung fokussiert. Dieser kritische Ansatz entspricht der Zielsetzung der Aktionsforschung, konkrete Veränderungen in der Praxis zu bewirken (vgl. Bortz/Döring 2003: 345). Die Erfahrungen aus dem Pilotprojekt zeigen, dass damit jedoch auch neue Aufgaben "
+      },
+      {
+        "rank": 3,
+        "id": "cc4cc5b07009f92d136ae427d404a5b0c98b8a487365acd48f32cb9af039f45d",
+        "score": 0.842134952545166,
+        "meta": {
+          "file_path": "Erwachsenenbildung_29_2016_Pachner_Stanik_SelbstReflexionen_full.txt",
+          "source_id": "f18541924ae22afc704f722bbf16db11a90c1b6b4f6bf4a51127f788e76574b8",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2389,
+          "_split_overlap": [
+            {
+              "doc_id": "6d9d5afcfdd8c157d16a0846fb835ff0b5f5f862fd261662742e1c7c6b95b80d",
+              "range": [
+                1137,
+                1580
+              ]
+            },
+            {
+              "doc_id": "82c87502a6a3779ac4e139c4dfc6a6bc1293267304c4c81ab89780ec677da30d",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "den letzten Jahren spezifische Beratungsausbildungen entwickelt wurden, für das bereichsspezifische Theorieangebote immer noch weitgehend fehlen und dessen empirische Fundierung sich erst in der letzten Dekade intensiviert hat (vgl. Käpplinger/ Maier-Gutheil 2015). Da (Bildungs-)Beratungen nicht standardisierbar sind, sind für die Qualität der Beratungsprozesse insbesondere die professionellen Beratungsver- ständnisse und -kompetenzen der BeraterInnen entscheidend (vgl. Haas/Schiersmann 2012, S. 9). Es liegen für Bildungsberatungen jedoch noch kaum Erkenntnisse darüber vor, welche Beratungsver- ständnisse es sind, die die BeraterInnen in ihren Beratungen konkret leiten. An dieser Forschungs- lücke setzt dieser Beitrag an. Mithilfe schriftlicher Falldokumentationen/Fallreflexionen soll in einem ersten Anlauf explorativ versucht werden, die handlungsstrukturierenden Leitbilder von Bildungs- beraterInnen zu rekonstruieren. (Selbst-)Reflexionen von BildungsberaterInnen Anita Pachner und Ti"
+      },
+      {
+        "rank": 4,
+        "id": "ec32fe4f6a05eaa1e8a1e48ab5faf94d208903476ad9dff7dffe7b973992a245",
+        "score": 0.8008559942245483,
+        "meta": {
+          "file_path": "9783847412304_chapter_1232.txt",
+          "source_id": "ec906973877be4dd0b7fd4ce2892a7738516755bd171558ee46710ca53a83205",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2192,
+          "_split_overlap": [
+            {
+              "doc_id": "c676d375b2b38600c45b05152ef97f6b2d51dabb5d4647d2ea726e9111f6d9b1",
+              "range": [
+                1073,
+                1488
+              ]
+            },
+            {
+              "doc_id": "d7f58a5710c43d45160546692fff63ecedf21dd5178ba7764c01e1ea84f50266",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "(Duttweiler 2004, S. 28). Ungewissheiten und Kontingenzen sollen nach Bröckling unter neoliberalen Vorgaben als Freiheitsspielraum interpretiert werden, den es ressourcenorientiert zu entdecken und zu erschließen gilt (Bröckling 2000, S. 133, in Pongratz 2005, S. 32). An das Theorem der Individualisierung anschließend, betont Rauschenbach (1994) dass privat-lebensweltliche Formen der Unterstützung eher abnehmen und soziale und pädagogische Dienste diese ergänzen, wenn nicht sogar ersetzen (Steiner 2007, S. 35). Er stellt die Verschiebung der informellen Solidarität hin zur organisierten, formellen Solidarität fest, was mit einer zunehmenden gesellschaftlichen Entsolidarisierung einhergeht – besonders von Menschen, die hilfs- und unterstützungsbedürftig sind. Insbesondere in Beratungsfeldern, in denen es um „regulative Beratung“ geht (vgl. exemplarisch Käpplinger & Klein 2013), wirkt sich das „doppelte Mandat“, der Spagat zwischen Hilfe und Kontrolle, aus. Bereits 1973 konstatierten Böh"
+      },
+      {
+        "rank": 5,
+        "id": "15f5344da0c3ace81da154c351d066cd353b303f0781c1092485a327dd1bd0e4",
+        "score": 0.774247944355011,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 10,
+          "split_idx_start": 11578,
+          "_split_overlap": [
+            {
+              "doc_id": "a32163650a4f0d5bcae5bd2c6e355c3e22242b31b483e123bead28a03d112712",
+              "range": [
+                1211,
+                1609
+              ]
+            },
+            {
+              "doc_id": "c8cd25a172433c5b6a112257acbb93377476a979c141db33d958051fd834e906",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "gesundheitlichen Charakter besitzen und aus- schließlich sozialrechtliche Themengebiete erst bei 12,6% der Aufträge zu finden sind. Dies beschreibt recht signifikant wie partiell nur die Bedürfnisse der Ratsuchenden erfüllt werden können, wenn eine Beratungsstelle haupt- sächlich auf die sozialrechtlichen Kompetenzen aufbaut. Die Diskussionen über Beratung in der Pflege entwickelten sich weiter und verschiedene Pflegewissenschaftler veröffentlichten ihre Stellungnahmen dazu. In der Literatur fällt auf, dass häufig noch die Begrifflichkeiten wie Information, Schulung, Beratung und Anleitung synonym verwandt werden (vgl. Müller-Mundt 2000; Renneke 2000; Schneider, In: Poser 2005:387 f), bzw. noch keine einheitlichen Interpretation für den neuen Beratungsauftrag gefunden wurde. Der Einblick in andere Länder zeigt, dass viele bereits weiter in der Patiente- neducation oder in der Entwicklung von Patienteninformationsmaterialien sind. Darüber hinaus zeigt sich auch, dass Patienteninformatio"
+      }
+    ]
+  }
+]

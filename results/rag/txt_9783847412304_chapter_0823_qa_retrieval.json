@@ -1,0 +1,646 @@
+[
+  {
+    "filename": "9783847412304_chapter_0823.txt",
+    "question": "Was versteht man unter wissenschaftlicher Weiterbildung gemäß Wolfgang Jütte und Karl Weber?",
+    "answer": "Die wissenschaftliche Weiterbildung ermöglicht eine fortlaufende Aktualisierung des Bildungsniveaus und die kontinuierliche Anpassung an neue Aufgaben auf Hochschulniveau. Sie öffnet somit die Hochschullandschaft für neue Zielgruppen, die spezifische Beratungs- und Betreuungsstrukturen erfordern. (Nickel/Schulz 2017)",
+    "expected": "Wissenschaftliche Weiterbildung bezeichnet Hochschulstudiengänge, die sich an Personen mit tertiären Bildungsabschlüssen nach einer ersten Phase der Erwerbstätigkeit richten und Inhalte auf wissenschaftlichem Niveau anbieten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "dcb9cfb1e0ee7e542d024010d3b4f4fa93588f4eda7ebedf0aff2557546c55f1",
+        "score": 0.2823941707611084,
+        "meta": {
+          "file_path": "9783847412304_chapter_0832.txt",
+          "source_id": "299daae5dc72f9345ecba36207a1aeeb216abd13c770f7bba6b5f8aa239420c0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f97fdd41b48b7854fa51ea340bbefb3149c77cd5b2b1fe32e4293ced9fcb1d20",
+              "range": [
+                0,
+                452
+              ]
+            }
+          ]
+        },
+        "content": "2. Forschungsstand Im Jahr 2015 studierten rund 51.000 beruflich Qualifizierte an deutschen Hochschulen. Der Anteil der neuen Zielgruppen unter allen Studierenden beträgt etwa 1,9%. Es handelt sich somit im Vergleich zu traditionell Studierende um eine kleine Zielgruppe, welche in den vergangenen Jahren aber stark gewachsen ist (Nickel/Schulz 2017). Für die wissenschaftliche Weiterbildung liegen bisher wenige Daten vor, jedoch ist von einer ähnlichen Situation auszugehen. Dies kann laut Hörr und Jütter (2017) daran liegen, dass es schwierig ist, „wissenschaftliche Weiterbildung klar abzugrenzen bzw. die Zielgruppen wissenschaftlicher Weiterbildung eindeutig zu bestimmen“ (ebd.: 30). Lebenslanges Lernen gewährleistet eine fortlaufende Aktualisierung des Bildungsniveaus und die kontinuierliche Anpassung an neue Aufgaben. Wissenschaftliche Weiterbildung ermöglicht dies auf Hochschulniveau und öffnet somit die Hochschullandschaft für neue Zielgruppen, die spezifische Beratungs- und Betreuu"
+      },
+      {
+        "rank": 2,
+        "id": "9e0402b965658c116be3ea497c9d3fa2b21762d6c87331e5126e40771815c5b6",
+        "score": 0.21748580038547516,
+        "meta": {
+          "file_path": "1001586_chapter_064.txt",
+          "source_id": "158cdc7dca7b09aa99d8e4d52b6d1c01515c59ae600a8b885b0d6e4c559a4d75",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2146,
+          "_split_overlap": [
+            {
+              "doc_id": "e56af8c2832f77d9d1138c3a5e80ca23e02fe156eb1824f7c274fedb1d4060f6",
+              "range": [
+                1101,
+                1466
+              ]
+            },
+            {
+              "doc_id": "39330d7bb5ab764c30aae5743c7f51b63caf7f57cbe4957f7360583f14329b0d",
+              "range": [
+                0,
+                375
+              ]
+            }
+          ]
+        },
+        "content": "Bourdieu 1982) sowie die Forschungen von Heiner Barz, Jutta Reich und Rudolf Tippelt (2007) zur Weiterbildung und sozialen Milieus in Deutschland. Letztere ver­ weisen auf die Abhängigkeit der kulturellen Unterschiede bzw. der Ausbildung des Geschmacks. Dementsprechend kann auf die individuellen Belange Ruth Großmaß Ansicht nach in der Raumgestaltung nur bedingt eingegangen wer­ den. Denkbar ist in diesem Kontext eine variabel zu nutzende Sitzordnung, die durch verschiedene Elemente veränderbar wäre. Ein wichtiges Moment ist die institutionelle Einbindung der Beratungsstelle in Dachverbände. So wir­ ken beispielsweise die jeweilige Arbeitskultur, Verfahrensabläufe, Vernetzun­ gen mit anderen Trägern sowie allgemein die institutionelle Atmosphäre, das Image der Einrichtung auf das Beratungssetting (vgl. Großmaß 2007: 489f.). Ergänzend ist aus unserer Sicht von Bedeutung, ob ein Raum speziell für die Beratungssituation zur Verfügung gestellt werden kann oder ob dieser im Sinne eines Mehr"
+      },
+      {
+        "rank": 3,
+        "id": "874a79792f608f1638abc7d09b7190101ab64bbdc66041fdc8d04d6a51a7edc6",
+        "score": 0.17754507064819336,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6437,
+          "_split_overlap": [
+            {
+              "doc_id": "8a1c91cb0fb31a699a1af5949f2128172476d398ca4612b513f90658303c9a1e",
+              "range": [
+                1301,
+                1808
+              ]
+            },
+            {
+              "doc_id": "df2a5fb76eec2d3e66905212d50d1a13342c21951168f6f379ef98cb12be727e",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Weiterbildungs- bzw. erziehungswissenschaftlichen Studiengängen in den Fokus. Darüber hinaus stellt sich die Frage nach weiteren Professionalisierungsprozessen, etwa durch Verbände, Publikationen oder Standards. Schließlich kommen Wechselwirkungen zwischen unterschiedlichen Systemebenen in den Blick (z. B. Weiterbildungsorganisationen als Adressat*innen von Organisationsberatung). Permanenter Wandel in der Folge von Technologisierung und damit verbundene Veränderungsprozesse/-notwendigkeiten betreffen auch die (Weiter-)Entwicklung von Beratungsformaten und -settings. Dies betrifft nicht nur medial vermittelte Formen (Telefon- bzw. Online-Beratung), sondern auch neuere Handlungsformate wie Gruppenberatung und Coaching. Zentral werden Fragen danach, ob und inwiefern sich die technologiebasierten Veränderungen auf Struktur- und Ablaufmuster, Anforderungen an Rolle und Funktion seitens der Beratenden wie auch der Ratsuchenden auswirken. Damit einher geht auch die Frage nach Möglichkeiten z"
+      },
+      {
+        "rank": 4,
+        "id": "21e9f651c7a238e80bb0319e3fe6f13b9ad6b4d481cc083fbfa6488e3def0de0",
+        "score": 0.140494704246521,
+        "meta": {
+          "file_path": "9783847412304_chapter_1114.txt",
+          "source_id": "8ddcede3d7da849ee1b20be22fab81cf3a59cfb0606cbc3a180038a613f004ce",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6521,
+          "_split_overlap": [
+            {
+              "doc_id": "9ee37cc20cd6b0cae607b274abcec498729ec682673255ddfe28c673523dc751",
+              "range": [
+                1148,
+                1509
+              ]
+            },
+            {
+              "doc_id": "21ebb483923c4912c21ba04b2a701723bac76cee3812934e59489a9ac2919a75",
+              "range": [
+                0,
+                429
+              ]
+            }
+          ]
+        },
+        "content": "Weiterbildung. Die Erzählung gewinnt nahezu lebensentscheidende Bedeutung, weil sie in diesem Moment dort einsetzt, wo der Fortgang des Lebens thematisch wird. Es wird dabei nicht über irgendjemanden gesprochen, sondern ich spreche von meinem Scheitern und meinen Aktivitäten. Der Ratsuchende legt seine Geschichte offen, die B nun weitererzählen soll im Sinne einer gemeinsamen Hervorbrin- gung von Selbstverhältnissen. Durch das Weitererzählen als Versuch eines Zukunftsentwurfs wird das Selbstverhältnis im Als-ob-Modus vollziehbar. Damit ist es gleichzeitig offen für verschiedene Zukünfte und durch die zu erzählende Geschichte begrenzt. Möglicherweise zeigt sich in diesem Positionierungsakt ein Konstitutionsmo- ment von Weiterbildungsberatung, wenn Ebene 1 und 2 sich verschränken: Das Erzählte wird auf einmal zum Moment des Erzählens, es entsteht eine Gleichzeitigkeit: die Vergangenheit wird in die Gegenwart eingeführt, wird zum Moment der Gegenwart. Das „heute“ markiert die in der Inter"
+      },
+      {
+        "rank": 5,
+        "id": "6ee8f4b18c2b163e0bd4de32286dc2bd5790690c4e72110dd48fbfc40c9ec35a",
+        "score": 0.053102705627679825,
+        "meta": {
+          "file_path": "9783866496811_chapter_096.txt",
+          "source_id": "59d652833d07e9b60be4902b5e3c3f7717386322b3392cfccac547617fec1154",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2358,
+          "_split_overlap": [
+            {
+              "doc_id": "e0b30cceb3f04fa940827d380ffb4185c5d7b4b6ef18f0dbac9c14c3ce7e4c67",
+              "range": [
+                1176,
+                1595
+              ]
+            },
+            {
+              "doc_id": "919fa79eeb5d1951ba08c00108cb422862e7da4159d75be7ccbf25b9bf892028",
+              "range": [
+                0,
+                445
+              ]
+            }
+          ]
+        },
+        "content": "aus der system- und situationsverstehenden Perspektive hermeneutisch betrachtet. Eine Verknüpfung von sozial-, system- theoretischer, bildungstheoretischer und professionstheoretischer Perspektive scheint möglich. Diese Überlegungen münden in einer vertieften Haltung den Anderen und das Andere zu achten. Das gegenseitige Verstehen zwischen dem Eigenen und dem Fremden setzt die Bereitschaft voraus, sich durch andere befragen zu lassen und sich der gemeinsamen Suche verpflichtet zu sehen. Dieser Prozess des Sich-und-die-Welt-besser verstehen- Lernens bzw. auch das eigene Nicht-Verstehen anzuerkennen fordert und fördert die persönliche Verantwortung im sozialen Handeln. Die Verantwortung für Lernberatung, domänenspezifische oder/ und systemi- sche Beratung innerhalb und außerhalb der beteiligten Lernorte ist eingebunden in die organisatorischen Rahmenbedingungen der Pflegeausbil- dungen. Sowohl methodisch als auch inhaltlich haben wir Gemeinsamkeiten und Unterscheidendes zwischen diesen v"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0823.txt",
+    "question": "Welche Problematik kann bei der Anrechnungsberatung durch Mitarbeiter_innen der wissenschaftlichen Weiterbildung auftreten?",
+    "answer": "Ein Problem können dabei eigene Absichten der Ratgebenden darstellen, aufgrund derer sie etwa Lösungen anbieten, die im Sinne der Angebote und nicht der Ratsuchenden sind (vgl. Maier-Gutheil 2016, S. 18). Grund für solche Absichten können bspw. Legitimationsanforderungen sein, denen sich eine marginalisierte wissenschaftliche Weiterbildung in Hochschulen ausgesetzt sieht (vgl. Kondratjuk 2017, S. 154). \n        I cannot find the answer in the provided context.  However, the context mentions that Mitarbeiter_innen der wissenschaftlichen Weiterbildung können ein Problem darstellen, nämlich eigene Absichten zu haben, die nicht im Interesse der Ratsuchenden sind.  Es wird auch erwähnt, dass Legitimationsanforderungen eine mögliche Ursache für diese Absichten sein können.  Es ist jedoch nicht klar, was genau die Problematik ist, die auftreten kann.  Es könnte sein, dass die Mitarbeiter_innen eigene Interessen verfolgen, die nicht mit den Interessen der Ratsuchenden übereinstimmen, oder dass sie Lösungen anbieten, die nicht im besten Interesse der Ratsuchenden sind.  Es ist jedoch nicht klar, wie genau diese Problematik auftreten kann.  Es könnte sein, dass es sich um eine Form der Beratung handelt, die nicht unbedingt professionell ist oder dass die Mitarbeiter_innen nicht die notwendigen Fähigkeiten haben, um die Ratsuchenden effektiv zu beraten.  Es ist jedoch nicht klar, wie genau diese Problematik auftreten kann.  Es könnte sein, dass es sich um eine Form der Beratung handelt, die nicht unbedingt professionell ist oder dass die Mitarbeiter_innen nicht die notwendigen Fähigkeiten haben, um die Ratsuchenden effektiv zu beraten.  Es ist jedoch nicht klar, wie genau diese Problematik auftreten kann.  Es könnte sein, dass es sich um eine Form der Beratung handelt, die nicht unbedingt professionell ist oder dass die Mitarbeiter_innen nicht die notwendigen Fähigkeiten haben, um die Ratsuchenden effektiv zu beraten.  Es ist jedoch nicht klar, wie genau diese Problematik au",
+    "expected": "Ein Problem besteht darin, dass Ratgebende eigene Absichten haben können, die dazu führen, dass sie Lösungen anbieten, die im Sinne der Angebote und nicht der Ratsuchenden sind, etwa aufgrund von Legitimationsanforderungen der marginalisierten wissenschaftlichen Weiterbildung an Hochschulen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "14344c53827b59e4905988133412da189dee3e9a6f995dcbf5ecaab3924ac57b",
+        "score": 0.9935029149055481,
+        "meta": {
+          "file_path": "9783847412304_chapter_0823.txt",
+          "source_id": "fa3375167728877dda54cc82a15d00495dc967d659849c222d209ba4f7244298",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "31184bdb3eef4babbd4bacd9c23861e76a8d7353700311198b4c9312b07b58ed",
+              "range": [
+                0,
+                381
+              ]
+            }
+          ]
+        },
+        "content": "Anrechnungsberatung an den Grenzen wissenschaftlicher Weiterbildung Entgegen Entwicklungen in übergangsbezogener Weiterbildungsberatung, durch kommunale Vernetzung angebots- und trägerübergreifend zu beraten (vgl. Schlüter 2014, S. 264), ist die Beratung in Anrechnungsfragen häufig ein Aufgabenbereich von Mitarbeiter_innen der wissenschaftlichen Weiterbildung. Ein Problem können dabei eigene Absichten der Ratgebenden darstellen, aufgrund derer sie etwa Lösungen anbieten, die im Sinne der Angebote und nicht der Ratsuchenden sind (vgl. Maier-Gutheil 2016, S. 18). Grund für solche Absichten können bspw. Legitimationsanforderungen sein, denen sich eine marginalisierte wissenschaftliche Weiterbildung in Hochschulen ausgesetzt sieht (vgl. Kondratjuk 2017, S. 154). Wolfgang Jütte und Karl Weber (2006, S. 11) fassen unter wissenschaftlicher Weiterbildung Hochschulstudiengänge, die sich an Personen mit tertiären Bildungsabschlüssen nach einer ersten Phase der Erwerbstätigkeit richten. Inhalte w"
+      },
+      {
+        "rank": 2,
+        "id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+        "score": 0.9514052867889404,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1238,
+          "_split_overlap": [
+            {
+              "doc_id": "1ec6f381d6e1062dc864e2a4e1506815fab7aa1bf4c05d6531a003f11a41949e",
+              "range": [
+                1238,
+                1636
+              ]
+            },
+            {
+              "doc_id": "6de493a6c068b673423c0adb9a91471777315807a4056634db484b5ee7915ba7",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "der empirischen Ergebnisse gesehen werden darf. Sie sind stattdessen als Teil eines theoretischen Modells zu ver­ stehen, durch das die unterschiedlichen Aufgabenfelder und Wirkungen der Bildungs- und Berufsberatung möglichst breit dargestellt werden sollen. Professionelle Form der emotionalen Anerkennung auf Ebene der Beratungsinteraktion Wie zuvor dargestellt, beschreibt Sprung (vgl. 2011) in ihrer Studie Erlebnisse der Interviewpartner_innen im Weiterbildungslehrgang als Anerkennungs­ erfahrungen. Neben der fachlichen Kompetenzerweiterung werden dabei vor allem auch die positive Beziehung zu den Lehrgangsleiter_innen bzw. den Trainer_innen und den weiteren Kursteilnehmer_innen thematisiert. Der pädagogische Kontext wird damit zu einem eigenen »Raum«, in dem Anerkennungserfahrungen gemacht werden können. Gleichzeitig bieten Bildungsprozesse die Möglichkeit, erfahrene Aberkennung bzw. Verweige­ rung von Anerkennung zu reflektieren und mögliche (alternative) Bewälti­ gungsstrategien zu"
+      },
+      {
+        "rank": 3,
+        "id": "318cf89f56dc2457c4da6cb50f9534fe77569bce1bde8ee7c0490dbb47c93411",
+        "score": 0.8679839968681335,
+        "meta": {
+          "file_path": "9783847412304_chapter_0821.txt",
+          "source_id": "851e6db8351e868a25265090e85416abd84aaaa1ca7d30febaa2cf083f5f5e0d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Christoph Damm Anrechnungsberatung als Möglichkeit der ­ Öffnung von Hochschulen? Struktur und Praxis der ­Anrechnungsberatung in der ­wissenschaft­lichen ­Weiterbildung Im Beitrag wird der Frage nachgegangen, wie sich Anrechnungsberatung in Bezug auf die Öffnung von Hochschulen darstellt. Hergeleitet wird zunächst (1) Öffnung der Hochschulen für beruflich Qualifizierte sowie die Relevanz von Anrechnungsberatung. Anschließend wird (2) Anrechnungsberatung als Interaktionszusammenhang an den Grenzen der sozialen Welt wissenschaft- liche Weiterbildung konstruiert. Dem folgen (3) Ausführungen zu einer bun- desweiten Studie, die im Hinblick auf anrechnungsbezogene Interaktionszu- sammenhänge zwischen Ratsuchenden und –gebenden vorgestellt wird. Der Beitrag schließt (4) mit dem Fazit, dass Anrechnungsberatung dann zur Öff- nung der Hochschulen beiträgt, wenn dies im Interesse des Studienangebots bzw. der Hochschule ist."
+      },
+      {
+        "rank": 4,
+        "id": "9340f1b61704d25b18aef4d70ef79afb21b4c62fa10ed74006143b74c0ba723d",
+        "score": 0.8542499542236328,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 8869,
+          "_split_overlap": [
+            {
+              "doc_id": "9633734368529750210c64d20aa03b0935e764a204b4f6dad1f2ff2797273fd0",
+              "range": [
+                1237,
+                1664
+              ]
+            }
+          ]
+        },
+        "content": "der Organisationen ausgeweitet (z.B. Ange­ botsgestaltung, Dokumentation, Evaluation), welche professionelle Bera­ tung gestalten und organisieren. Professionalität zeigt sich damit nicht nur im Beratungshandeln, sondern auch darin, »die eigene Zugangsweise und Praxis begründen zu können und eigenverantwortlich weiterzuentwickeln« (ebd., S. 23). Insbesondere in der Anerkennungsberatung als einer neu ent­ standenen und sich institutionalisierenden Beratungsform kommt der be­ gründeten und eigenverantwortlichen Weiterentwicklung des Beratungsan­ gebotes ein hoher Stellenwert zu. In der vorliegenden Arbeit wird professionelles Beratungshandeln als ein Aushandlungsprozess zwischen unterschiedlichen Anforderungen und Erwartungen verstanden, welcher sich in der Beschreibung des konkreten Beratungshandelns, den damit verbundenen Entwicklungen auf der Orga­ nisationsebene sowie der gesellschaftlichen Positionierung und Vernetzung zwischen den Beratungsstellen ausdrückt. Durch eine kritische Re"
+      },
+      {
+        "rank": 5,
+        "id": "6de493a6c068b673423c0adb9a91471777315807a4056634db484b5ee7915ba7",
+        "score": 0.8468838334083557,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2518,
+          "_split_overlap": [
+            {
+              "doc_id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+              "range": [
+                1280,
+                1647
+              ]
+            },
+            {
+              "doc_id": "a2e49bdb7faed443174067f896be944cb774bb09d2a8779f4a00767d855745a1",
+              "range": [
+                0,
+                481
+              ]
+            }
+          ]
+        },
+        "content": "jedoch auch Interaktionen mit weiteren Klient_innen (z.B. in Grup­ penberatungen) Anerkennungserfahrungen ermöglichen. Die zugeordnete Form der Anerkennung wird in dieser Arbeit als emotio­ nale Anerkennung verstanden. Im Unterschied zu Honneth (vgl. 2014) wird die­ se hier jedoch in Anlehnung an Helsper et al. (vgl. 2005) ausdrücklich als eine professionelle Form der emotionalen Anerkennung formuliert. Das Anerken­ nungsverhältnis begründet sich damit nicht primär aufgrund des Vertrauens in die Kontinuität der Beziehung, sondern basiert auf einer professionellen Beratungsbeziehung. Gerade in der Beratung bildet die zeitliche Begrenzung der Unterstützungsleistung einen konstitutiven Bestandteil der professio­ nellen Beratungsbeziehung. Emotionale Anerkennung kann hier stattdessen gleichgesetzt werden mit der wertschätzenden Beratungshaltung des per­ sonenzentrierten Beratungsansatzes nach Rogers (vgl. 1995). Damit wird auf den Ausführungen von Gröning (vgl. 2011) und Helsper et al. (vg"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0823.txt",
+    "question": "Wie wird die wissenschaftliche Weiterbildung grundlagentheoretisch von Maria Kondratjuk konzeptualisiert?",
+    "answer": "Die wissenschaftliche Weiterbildung wird von Maria Kondratjuk grundlagentheoretisch als ein Prozess konzeptualisiert, der die Entwicklung von Reflexions- und Handlungskompetenz in der Bildungs- und Berufsberatung zum Ziel hat. Sie betont die Bedeutung von Reflexion als Bewusstheit über die eigenen Kompetenzen und das eigene Tun, die als Kernelement von Professionalität aufgefasst wird. Kondratjuk geht davon aus, dass professionell Beratende nicht nur kompetent handeln sollten, sondern auch ein professionelles Gespür sowie eine erhöhte kognitive Wahrnehmungsschärfe für die Qualität des eigenen Handelns benötigen. Ziel der Weiterbildung ist es, Berater_innen in der Lage zu versetzen, professionelles Handeln auf Basis von (Selbst-)Beobachtungen und dem eigenen theoretischen Wissen differenziert zu beschreiben, zu erklären und zu begründen.",
+    "expected": "Maria Kondratjuk konzeptualisiert wissenschaftliche Weiterbildung als eine soziale Welt, die im Kern darauf ausgerichtet ist, Weiterbildungsangebote für Berufstätige an Hochschulen bereitzustellen. Dabei werden Positionierung innerhalb der Hochschule und das Verhältnis zu außerhochschulischen Akteur_innen in Arenen ausgehandelt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "38a6b8fa3f772c0a2c0f819cb9b644ce4cdc8b6df7792bc6ddf0b1f93315d1e4",
+        "score": 0.8500136733055115,
+        "meta": {
+          "file_path": "9783847412304_chapter_0941.txt",
+          "source_id": "796da8b9ba77100598a82dd6cac5796c33d1be38d4cdd9995074df2a6dc8b30b",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2591,
+          "_split_overlap": [
+            {
+              "doc_id": "19b6339a4f966cb20d1a74ec4a165d70f14635e18952a0405cdb36a4a541ef3d",
+              "range": [
+                1244,
+                1707
+              ]
+            },
+            {
+              "doc_id": "21dc89f0eb9d435ef9a036411d4478a2b63647e141141cfe5c92c524d697e53e",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "den ersten Beratungsstellen für Frauen die „ethischen Grundlagen von Parteilichkeit und Solidarität jenseits des Therapiemodells“ (ebd.: 140) und sieht in diesen die gemeinsame gesellschaftskritische Fundierung pädagogischer und feministischer Beratung. Damit findet ein Perspektivenwechsel von einem defizitorientierten Beratungszugang zu einer kritischen Auseinandersetzung mit den gesellschaftlichen Verhältnissen und individuellen Lebensbedingungen statt. In ihrer Rekonstruktion der Entwicklungslinien feministischer Beratung wird besonders deutlich, wie aus der Beratungspraxis gewonnenes Wissen als Grundlage für die Formulierung von gesellschaftlichen Reformbedarfen genutzt wird. In der Nachbardisziplin, der Sozialen Arbeit, wird im Ansatz der lebensweltorientierten sozialen Arbeit ebenfalls die Aufgabe, sich in die soziale und politische Diskussion zur Veränderung der gesellschaftlichen Bedingungen einzumischen, explizit formuliert. Das Prinzip der Einmischung wird verstanden „als par"
+      },
+      {
+        "rank": 2,
+        "id": "86d52ba0ebe60bc2619d9b367741ccfd123b6ea71be47ec524cb0580f89e9e37",
+        "score": 0.8032200932502747,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "04f62a1cd480bef073e81f8180bfc55a8c8c3b46e8a479895b758e047b551edf",
+              "range": [
+                0,
+                461
+              ]
+            }
+          ]
+        },
+        "content": "3.3.1 Professionelles Beratungshandeln Für die berufliche Tätigkeit als Bildungs- und Berufsberater_in gibt es in Ös­ terreich und Deutschland keine einheitlich geregelte Ausbildung und damit weisen die tätigen Berater_innen unterschiedliche Qualifikationen auf (vgl. Sauer-Schiffer 2004, S. 14). Die Professionalisierung von Beratung stellt ein entsprechend wichtiges und umfangreiches Forschungsfeld dar. Maier-Gut­ heil (vgl. 2013) unterscheidet in ihrer Darstellung der Professionalisierungs­ forschung im Beratungskontext zwischen zwei Zugängen. Einerseits wird professionelles Handeln kompetenztheoretisch untersucht, um ausdifferen­ zierte Kompetenzkataloge zu entwickeln. Kritisch wird hier die Verbindung zur performativen Ebene der konkreten Handlungen hinterfragt. Den zwei­ ten Zugang bilden die Aushandlungsprozesse innerhalb der bedingenden Faktoren und die daraus entstehenden Paradoxien und Spannungsverhält­ nisse (vgl. ebd., S. 179ff.). Nachfolgend wird auf ausgewählte Schwerpunkte"
+      },
+      {
+        "rank": 3,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.7829287052154541,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 4,
+        "id": "de0cba158e3b9ae7364c63054facb948021dbaebe4e9349d471335b02441c9c1",
+        "score": 0.769443929195404,
+        "meta": {
+          "file_path": "9783847412304_chapter_0913.txt",
+          "source_id": "072b475d6488b78ba6adfb55bd9769ac9f6804162ad99c172ef5587c9ea0cc90",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1194,
+          "_split_overlap": [
+            {
+              "doc_id": "58e1f6a688e13aec6df8458ac0516ec351f8ab9698e17faa4b733c0619cc5ce2",
+              "range": [
+                1194,
+                1598
+              ]
+            },
+            {
+              "doc_id": "cbb4864453b8e2882090a0dd0ed2f1951011922b4deb63f47879175f12b1d0fb",
+              "range": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        "content": "von Beratungskompetenz erreicht werden. Reflexion meint dabei das Überdenken von Erfahrungen, Ereignissen und Handlungen im Nachhinein (retrospektive Reflexion) sowie das Bedenken von zukünftigen Handlungen und ihren Folgen (prospektive Reflexion) (s. Abbildung 4) auf der Grundlage von bestehenden Normen, Werten, Wissens- und Erfahrungsbeständen (vgl. Gillen 2009, S. 108f.). Reflexion als Bewusstheit über die eigenen Kompetenzen und das eigene Tun wird als Kernelement von Professionalität aufgefasst (vgl. Combe/Kolbe 2008, S. 859). Der herausgehobene Stellenwert von Reflexion begründet sich wie folgt: Wir gehen davon aus, dass professionell Beratende nicht nur kompetent handeln sollten, sondern auch ein professionelles Gespür sowie eine erhöhte kognitive Wahrnehmungsschärfe für die Qualität des eigenen Handelns benötigen (Dörr 2014, S. 18). Die Beratenden sollten in der Lage sein professionelles Handeln auf Basis von (Selbst-)Beobachtungen und dem eigenen theoretischen Wissen differenz"
+      },
+      {
+        "rank": 5,
+        "id": "7eccae5697bde3e3df1b482cac68151a5ed6cefb6dfc039c92c182ec75dcdb05",
+        "score": 0.7460423707962036,
+        "meta": {
+          "file_path": "9783847412304_chapter_053.txt",
+          "source_id": "aa33d4bf6f30cbe13eddc617a05984a8392b32342720c39303940fc709f6e65c",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1189,
+          "_split_overlap": [
+            {
+              "doc_id": "bbb28a201b2f67ec886e6209c08fdd84c160f2169afd327ebdf8ec555718b663",
+              "range": [
+                1189,
+                1547
+              ]
+            },
+            {
+              "doc_id": "b1330309394a61075e268d31c84450b8a473dd98fe89ec93f392fbc16e327831",
+              "range": [
+                0,
+                354
+              ]
+            }
+          ]
+        },
+        "content": "zu können ist schließlich eine zentrale beraterische Kompetenz. Zudem möchte ich auf eine andere Gestalt rekurrieren, die mich fasziniert in Bezug auf Bildungsberatung: Kassandra, die von Apoll die Gabe der Weissagung bekam. Als sie seine Verführungsversuche zurückwies, verfluchte er sie, auf dass niemand mehr ihren Weissagungen Glauben schenken möge. Sie gilt in der Mythologie als tragische Heldin, die das Unheil voraussah, aber kein Gehör fand. Derart ungehörte Warnungen werden als Kassandrarufe eher abgewertet. Christa Wolf hat dagegen mit ihrem Roman „Kassandra“ eine feministische, positive Interpretation geliefert. Bildungsberatung ist mehrheitlich weiblich – auf beiden Seiten des Beratungstisches; sie entstand maßgeblich im Kontext der Frauenemanzipation. Eine Gründerin der Berufsberatung, Josephine Levy-Rathenau, war nahezu vergessen und wurde erst vor kurzem durch eine Biografie gewürdigt(Nürnberger/Maier 2013). Strukturelle, genderbezogene Benachteiligungen existieren auch heu"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0823.txt",
+    "question": "Welche Spannungsfelder entstehen durch die Anrechnungsberatung in der wissenschaftlichen Weiterbildung?",
+    "answer": "Die Anrechnungsberatung in der wissenschaftlichen Weiterbildung führte zu Spannungsfeldern, die sich aus den widersprüchlichen Anforderungen und Erwartungen ergeben. Diese Spannungsfelder entstehen durch die Kombination von Aufgabenfeldern, wie der Unterstützung und Begleitung bei der formalen Anerkennung, und den restriktiven Rahmenbedingungen, wie knappen Personal- und Zeitressourcen, fehlender sozialer Wertschätzung und restriktiven rechtlichen Rahmenbedingungen. Die Spannungsfelder sind in drei Ebenen zu betrachten: Beratungsgespräch, institutionelle Ebene und gesellschaftliche Ebene. Auf der Ebene des Beratungsgesprächs übernehmen die Berater_innen Aufgaben zur Stärkung und Unterstützung der Handlungs- und Entscheidungsfähigkeit der Klient_innen, während auf der institutionellen Ebene die Beratung durch knappe Personal- und Zeitressourcen und Planungsunsicherheit erschwert wird. Auf der gesellschaftlichen Ebene werden die Beratungstätigkeit durch fehlende soziale Wertschätzung und restriktive rechtliche Rahmenbedingungen behindert. Die Spannungsfelder führen zu einem Spannungsfeld, in dem sich die Berater_innen handlungs- und entscheidungsfähig halten müssen, um erfolgreich zu sein. Die Handlungsstrategien, die die Berater_innen entwickeln, um innerhalb dieser Spannungsfelder handlungs- und entscheidungsfähig zu bleiben, werden in den folgenden Abschnitten analysiert. \n\nDie Frage bezieht sich auf die Anrechnungsberatung in der wissenschaftlichen Weiterbildung. Die Antwort zeigt, dass die Anrechnungsberatung zu Spannungsfeldern führt, die sich aus den widersprüchlichen Anforderungen und Erwartungen ergeben. Die Spannungsfelder sind in drei Ebenen zu betrachten: Beratungsgespräch, institutionelle Ebene und gesellschaftliche Ebene. Die Antwort liefert ein differenziertes Bild der Spannungsfelder und ihrer Auswirkungen auf die Anrechnungsberatung in der wissenschaftlichen Weiterbildung.",
+    "expected": "Einerseits besteht die Herausforderung, nicht-traditionellen Zielgruppen den Zugang zum weiterbildenden Studium zu ermöglichen und durch Anrechnungsberatung Zugangsmöglichkeiten aufzuzeigen. Andererseits muss sich die wissenschaftliche Weiterbildung innerhalb der Hochschule als legitimes Studienangebot darstellen, was ein Spannungsfeld zwischen Zugangserleichterung und institutioneller Legitimation schafft.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f88e0716bfc332a5aebfe86c9eb2692b71c694553218563dc19b7c2e7a8a943d",
+        "score": 0.9958017468452454,
+        "meta": {
+          "file_path": "9783839444856_chapter_034.txt",
+          "source_id": "9e9616a37140bcaf50787b1ce6d7979bb7764ee1fe51d589be1616ce01704fe1",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2617,
+          "_split_overlap": [
+            {
+              "doc_id": "c8ee8ca7ddb3fe7776f26bfdd83a129ef8f960175373ecbf16fc7ce28045e8d7",
+              "range": [
+                1305,
+                1781
+              ]
+            }
+          ]
+        },
+        "content": "den strukturellen Rahmenbedin­ gungen lassen sich spezifische Spannungsfelder in der Anerkennungsbera­ tung rekonstruieren. Innerhalb dieser Spannungsfelder werden die Hand­ lungsstrategien analysiert, die von den Interviewpartner_innen entwickelt und beschrieben werden. Darauf aufbauend erfolgt die Rekonstruktion von Sinnzusammenhängen zwischen den unterschiedlichen Dimensionen, die auf spezifische Aushandlungsmuster in der Anerkennungsberatung verwei­ sen. Abschließend werden die Ergebnisse aus einer beratungstheoretischen Perspektive eingeordnet und reflektiert. Ziel ist es, die Bedeutung und die Unterstützungsleistungen von An­ erkennungsberatung durch die Herausarbeitung der professionellen Hand­ lungsstrategien zu analysieren und zugleich auf beratungstheoretischer Ebene einen Beitrag zur konzeptionellen Entwicklung einer migrationssen­ siblen Beratung im Bereich Bildung und Beruf zu leisten. Diese kombinierte Forschungsperspektive bietet die Möglichkeit, auf beratungs- und anerk"
+      },
+      {
+        "rank": 2,
+        "id": "43458b56dcdfce00056a75dadf0cddfca0554e042dbb63ed0cd82177da11f318",
+        "score": 0.9939491748809814,
+        "meta": {
+          "file_path": "9783839444856_chapter_0743.txt",
+          "source_id": "c9e31b0930b1f4d379a80b198d145fbc802fb5d063256af603eba0235b43ad84",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "7c84340bb463aa37d49d0683561fc2a07efe0892bb0b5d71cffd21a9f1f6ddc0",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "5.4.3 (Aus-)Handlungsfähigkeit in der Anerkennungsberatung Beratung als eine Form pädagogischer Praxis befindet sich in einem Spannungsfeld von unterschiedlichen Anforderungen und Erwartun­ gen. Pädagogische Professionalität zeichnet sich dadurch aus, innerhalb dieser Widersprüche und Gegensätze handlungsfähig zu bleiben. Daher wurde untersucht, welche Perspektiven auf erfolgreiche Beratung und welche Handlungsstrategien die Interviewpartner_innen innerhalb dieser Spannungsfelder in Auseinandersetzung mit den restriktiven Rahmenbe­ dingungen entwickeln. Es stellt sich abschließend die Frage, inwiefern durch diese Handlungsstrategien auch tatsächlich die professionelle Handlungs­ fähigkeit gesichert wird. Dazu werden die identifizierten Handlungsstrate­ gien in Beziehung zu den Zielsetzungen und dem zu Beginn rekonstruierten Selbstverständnis gesetzt. Der Schwerpunkt liegt nun auf den Zusammen­ hängen zwischen diesen Dimensionen innerhalb der einzelnen Interviews, welche als Aushandlung"
+      },
+      {
+        "rank": 3,
+        "id": "786151462931ee62fd81e3000fbf16ce81f86c5d86ad18b71b9f5b9461e83eab",
+        "score": 0.992544949054718,
+        "meta": {
+          "file_path": "9783839444856_chapter_0734.txt",
+          "source_id": "33da27e30f1c9d49612d042014a473d8920a44728f22822428e069cfc8d6f5d2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d116916e9b64108fd2602abe2621862b59c7b01565170e438181be5e9bd2b104",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "5.3.4 Zwischenfazit III: Spannungsfelder in der Anerkennungsberatung Die rekonstruierten Rahmenbedingungen können unterstützend und er­ möglichend wirken oder als restriktiv und begrenzend wahrgenommen werden. Aufgrund der Fragestellung und der zugrundeliegenden Definition von Professionalität sind vor allem die Widersprüche und Gegensätze zwi­ schen dem Selbstverständnis und den Handlungsbedingungen von Interes­ se. Durch die Gegenüberstellung der Aufgabenfelder mit den thematisierten Grenzen und Einschränkungen werden Spannungsfelder in der Beratungs­ tätigkeit sichtbar. Diese Spannungsfelder werden auf allen drei Ebenen für die beschriebenen Aufgabenfelder deutlich (vgl. Abb. 15). Auf der Ebene des Beratungsgesprächs übernehmen die Berater_innen durch eine anerkennende und wertschätzende Beratungshaltung Aufgaben zur Stärkung und Unterstützung der Handlungs- und Entscheidungsfähig­ keit der Klient_innen. Als einschränkende Rahmenbedingungen werden hier aufgrund der hohen Beratungsna"
+      },
+      {
+        "rank": 4,
+        "id": "6f0c6da8f2329db24d2729386e2f103651afeaba74816d6c1414b9c3c3b57e97",
+        "score": 0.9920814037322998,
+        "meta": {
+          "file_path": "9783839444856_chapter_074.txt",
+          "source_id": "d36940a7d6c8a9163902d7fb90da8b3925b48b081786036cd0a66a33217e8c74",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4ecac239027f06772cc9196b40b2ede22cc60b6b7da1dd1ad91e9753c83f7d0b",
+              "range": [
+                0,
+                495
+              ]
+            }
+          ]
+        },
+        "content": "5.4 Professionelle Handlungsstrategien Professionelles Beratungshandeln ist durch den bewussten Umgang mit wi­ dersprüchlichen Anforderungen und Erwartungen gekennzeichnet. Diese Widersprüchlichkeiten ergeben sich in der Anerkennungsberatung in Aus­ einandersetzung mit den beschriebenen strukturellen Rahmenbedingun­ gen, welche die Beratungstätigkeit entsprechend dem beruflichen Selbst­ verständnis erschweren oder einschränken können. Es stellt sich die Frage, welche Handlungsstrategien die Berater_innen innerhalb der identifizierten Spannungsfelder in der Anerkennungsberatung entwickeln, um handlungs­ fähig zu bleiben. Zur Analyse der professionellen Handlungsstrategien wird Aufgabenfelder (restriktive) Rahmenbedingungen Orientierung knappe Zeit- und Personalressourcen Prozess Filterfunktion fehlende Anerkennung der Beratungsstellen Verfahrensbegleitung ausdifferenzierte, unübersichtliche rechtliche Rahmenbedingungen und Zuständigkeiten berufliche Integration fehlende (Weiter-) Bildun"
+      },
+      {
+        "rank": 5,
+        "id": "76201d3d6256aeaf844c51f3a40318340bd0465734af2e1b7812d5b8d5012e82",
+        "score": 0.9806045293807983,
+        "meta": {
+          "file_path": "9783839444856_chapter_08.txt",
+          "source_id": "77bfd832556bb91746ddd0857cc0f846b917e8717f1c258cd9732daf345a2d05",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3771,
+          "_split_overlap": [
+            {
+              "doc_id": "3f7198daad511a6c968a3a90ab520caa0d6f04d5f49e14dadb79401c3b5acc5c",
+              "range": [
+                1224,
+                1696
+              ]
+            },
+            {
+              "doc_id": "69959fd322a9afa8fbdbe40a940a7d49206147fcae404444437118b174ce41f2",
+              "range": [
+                0,
+                484
+              ]
+            }
+          ]
+        },
+        "content": "xion gesehen. Der Begriff der Fachberatung wird dadurch nicht mehr einem pädagogischen Beratungsverständnis gegenübergestellt, sondern zu einer pädagogisch begründeten Fachberatung erweitert. Durch die Gegenüberstellung mit den Rahmenbedingungen lassen sich Spannungsfelder rekonstruieren, in denen sich Anerkennungsberatung als pädagogisch begründete Fachberatung positionieren muss. Eine anerken­ nungstheoretische Perspektive auf die identifizierten Spannungsfelder in der Anerkennungsberatung ermöglicht es, die Perspektive über die Ebene des Beratungsgespräches hinaus zu erweitern und den sozialen Kontext zu berücksichtigen, der außerhalb des eigentlichen Einflussbereiches der Be­ rater_innen liegt. Die Analyse der Aufgabenfelder zeigt, dass die Interak­ tionsebene des Beratungsgespräches selbst als Anerkennungsverhältnis ge­ staltet und damit die Herstellung von Anerkennung auch auf rechtlicher und gesellschaftlicher Ebene unterstützt wird. Aus dem empirischen Material können zudem unt"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_0823.txt",
+    "question": "Wie ist die Position der wissenschaftlichen Weiterbildung innerhalb der Hochschule und welche Bedeutung hat dies für die Anrechnungsberatung?",
+    "answer": "Die wissenschaftliche Weiterbildung ist innerhalb der Hochschule durch ihre Nähe zum Beruflichen grenznah positioniert. Dies zeigt sich unter anderem in der Vereinbarung der KMK, an beruflichen Erfahrungen der Teilnehmer anzuknüpfen, beispielsweise durch verbesserte Möglichkeiten der Anerkennung und Anrechnung von außerhochschulischen Vorleistungen. Die wissenschaftliche Weiterbildung ist gefordert, sich innerhalb der Hochschule als legitimes Studienangebot darzustellen, und gleichzeitig muss sie sich einer nicht-traditionellen Zielgruppe, den beruflich Qualifizierten, öffnen und durch Anrechnungsberatung Zugangsmöglichkeiten aufzeigen. Dieses Spannungsfeld wird im Folgenden empirisch beleuchtet.",
+    "expected": "Die wissenschaftliche Weiterbildung ist innerhalb der Hochschule grenznah positioniert durch ihre besondere Nähe zum Beruflichen. Dies zeigt sich in Vereinbarungen wie der KMK, die an beruflichen Erfahrungen der Teilnehmer_innen anknüpfen und bessere Anerkennung und Anrechnung außerhochschulischer Vorleistungen ermöglichen. Diese grenznahe Position erleichtert zwar den Zugang für beruflich Qualifizierte, bringt aber zugleich Herausforderungen in der legitimen Verortung innerhalb der Hochschule mit sich.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "31184bdb3eef4babbd4bacd9c23861e76a8d7353700311198b4c9312b07b58ed",
+        "score": 0.9991253018379211,
+        "meta": {
+          "file_path": "9783847412304_chapter_0823.txt",
+          "source_id": "fa3375167728877dda54cc82a15d00495dc967d659849c222d209ba4f7244298",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1290,
+          "_split_overlap": [
+            {
+              "doc_id": "14344c53827b59e4905988133412da189dee3e9a6f995dcbf5ecaab3924ac57b",
+              "range": [
+                1290,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "ist. Sowohl die Positionierung der wissenschaftlichen Weiterbildung in der Hochschule als auch das Verhältnis zwischen Hochschule und außerhochschulischen Akteur_innen werde in Arenen ausgehandelt (vgl. ebd., S. 97). Anrechnungsberatung, die sich an eine erst noch zu erreichende Zielgruppe richtet, steht in diesem Kontext. Ratgebende sind Akteur_innen an der Grenze der sozialen Welt, die sich transitiv an ratsuchende beruflich Qualifizierte richten (vgl. Maier-Gutheil 2016, S. 18 f.). Letztere befinden sich als Studieninteressierte (noch) außerhalb der sozialen Welt oder als Studienanfänger_innen im Übergang in diese. Innerhalb der Hochschule ist wissenschaftliche Weiterbildung durch ihre besondere Nähe zum Beruflichen (vgl. Jütte 2016) grenznah positioniert. Ausdruck findet dies etwa in der Vereinbarung der KMK, an beruflichen Erfahrungen der Teilnehmer_innen anzuknüpfen (vgl. KMK 2001, S. 3), beispielsweise durch verbesserte Möglichkeiten der Anerkennung und Anrechnung von außerhochs"
+      },
+      {
+        "rank": 2,
+        "id": "318cf89f56dc2457c4da6cb50f9534fe77569bce1bde8ee7c0490dbb47c93411",
+        "score": 0.9786649346351624,
+        "meta": {
+          "file_path": "9783847412304_chapter_0821.txt",
+          "source_id": "851e6db8351e868a25265090e85416abd84aaaa1ca7d30febaa2cf083f5f5e0d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Christoph Damm Anrechnungsberatung als Möglichkeit der ­ Öffnung von Hochschulen? Struktur und Praxis der ­Anrechnungsberatung in der ­wissenschaft­lichen ­Weiterbildung Im Beitrag wird der Frage nachgegangen, wie sich Anrechnungsberatung in Bezug auf die Öffnung von Hochschulen darstellt. Hergeleitet wird zunächst (1) Öffnung der Hochschulen für beruflich Qualifizierte sowie die Relevanz von Anrechnungsberatung. Anschließend wird (2) Anrechnungsberatung als Interaktionszusammenhang an den Grenzen der sozialen Welt wissenschaft- liche Weiterbildung konstruiert. Dem folgen (3) Ausführungen zu einer bun- desweiten Studie, die im Hinblick auf anrechnungsbezogene Interaktionszu- sammenhänge zwischen Ratsuchenden und –gebenden vorgestellt wird. Der Beitrag schließt (4) mit dem Fazit, dass Anrechnungsberatung dann zur Öff- nung der Hochschulen beiträgt, wenn dies im Interesse des Studienangebots bzw. der Hochschule ist."
+      },
+      {
+        "rank": 3,
+        "id": "dcb9cfb1e0ee7e542d024010d3b4f4fa93588f4eda7ebedf0aff2557546c55f1",
+        "score": 0.9764917492866516,
+        "meta": {
+          "file_path": "9783847412304_chapter_0832.txt",
+          "source_id": "299daae5dc72f9345ecba36207a1aeeb216abd13c770f7bba6b5f8aa239420c0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f97fdd41b48b7854fa51ea340bbefb3149c77cd5b2b1fe32e4293ced9fcb1d20",
+              "range": [
+                0,
+                452
+              ]
+            }
+          ]
+        },
+        "content": "2. Forschungsstand Im Jahr 2015 studierten rund 51.000 beruflich Qualifizierte an deutschen Hochschulen. Der Anteil der neuen Zielgruppen unter allen Studierenden beträgt etwa 1,9%. Es handelt sich somit im Vergleich zu traditionell Studierende um eine kleine Zielgruppe, welche in den vergangenen Jahren aber stark gewachsen ist (Nickel/Schulz 2017). Für die wissenschaftliche Weiterbildung liegen bisher wenige Daten vor, jedoch ist von einer ähnlichen Situation auszugehen. Dies kann laut Hörr und Jütter (2017) daran liegen, dass es schwierig ist, „wissenschaftliche Weiterbildung klar abzugrenzen bzw. die Zielgruppen wissenschaftlicher Weiterbildung eindeutig zu bestimmen“ (ebd.: 30). Lebenslanges Lernen gewährleistet eine fortlaufende Aktualisierung des Bildungsniveaus und die kontinuierliche Anpassung an neue Aufgaben. Wissenschaftliche Weiterbildung ermöglicht dies auf Hochschulniveau und öffnet somit die Hochschullandschaft für neue Zielgruppen, die spezifische Beratungs- und Betreuu"
+      },
+      {
+        "rank": 4,
+        "id": "e7122bf8d52353224c5f8800ab99b2bb1867c7d3ade1667b7ce4c76b09021ba5",
+        "score": 0.9578592777252197,
+        "meta": {
+          "file_path": "9783847412304_chapter_082624.txt",
+          "source_id": "ee1a49d7fd4b27273649e592156438b4326f2fd0cadfed70489a28c7fdf451c1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "811bbab92b4b700c7329b339fb68094e83829782dc79197b209a716a1bf98f12",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "Zentral gewollte Öffnung Im vierten Handlungsmuster, „Zentral gewollte Öffnung“, geht es, anders als bei den bisherigen Handlungsmustern, nicht um die Planung und Durchführung von einzelnen Studienangeboten, sondern primär um die Etablierung von wissenschaftlicher Weiterbildung als dritter Säule innerhalb der Hochschule durch sogenannte Zentren für wissenschaftliche Weiterbildung. Charakteristisch ist die strategische Investition von Fördermitteln zur Entwicklung vollkostenfinanzierter Angebote der wissenschaftlichen Weiterbildung. Um dies zu erreichen, wird Anrechnung als eine Möglichkeit verstanden, den Zugang zum Studium zu erleichtern und somit neue Zielgruppen zu adressieren. Außerdem sollen durch Anrechnungsmöglichkeiten im Studium zusätzli- che Anreize geschaffen werden. Durch Anrechnung wird also für die Aufnah- me eines weiterbildenden Studiums geworben. Umfangreiche Informationen zur Anrechnung werden für die spezifische Zielgruppe im Internet und auf gruppenbezogenen Veranst"
+      },
+      {
+        "rank": 5,
+        "id": "ed3b6ae844aee17b73291583d1c9570fb1e18c0c11bebf27e1e117a4169d27c5",
+        "score": 0.957664966583252,
+        "meta": {
+          "file_path": "9783847412304_chapter_0922.txt",
+          "source_id": "3745bfaf4ccb6028324db4a3734060d259a505aa2cb209b1b05162ecc7505d8c",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7637,
+          "_split_overlap": [
+            {
+              "doc_id": "91b2fcbe6146b590096e95c36f3380d304ae9bc8cf67aee720871bbffacfc062",
+              "range": [
+                1200,
+                1617
+              ]
+            }
+          ]
+        },
+        "content": "abhalten, sich weiteres Wissen anzueignen bzw. Relationierung und Transformation be- stehenden Wissens zuzulassen. Nochmals sei an dieser Stelle betont, dass im internationalen Diskurs frühe Professionalisierungsprozesse in Studienpro- grammen und durchgehend im Kontext wissenschaftlicher (Weiter-)Bildung die Regel sind (Hohenshil et al. 2015). Änderungen in den Erwartungen an Hochschulbildung und Veränderun- gen auf Seiten der institutionalisierten und organisierten Beratungspraxis las- sen zusammen mit den hier auszugsweise referierten Forschungsbefunden die Frage entstehen, ob ein überwiegend strukturbezogener Blick auf Professio- nalisierung nicht einer Sichtweise weichen müsste, in der die je individuellen und berufsbiographisch früh entfalteten Perspektiven von sich hinsichtlich Beratung bildenden Subjekten im Vordergrund stehen sollten. Damit würde einhergehen, sich weitaus umfassender als bisher diesen individuellen Lern- und Bildungsprozessen zuzuwenden. Hierauf basierend stel"
+      }
+    ]
+  }
+]

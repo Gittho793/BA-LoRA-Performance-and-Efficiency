@@ -1,0 +1,655 @@
+[
+  {
+    "filename": "9783866496811_chapter_0612.txt",
+    "question": "Welche Paragraphen im SGB XI enthalten die ersten konkreten Beratungsaufträge für Pflegende?",
+    "answer": "Im SGB XI finden sich in § 37 Absatz 3 und § 45 die ersten konkreten Beratungsaufträge für Pflegende. § 37 Absatz 3 regelt die Beratung durch anerkannte Beratungsstellen, während § 45 die Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen regelt. Diese Paragraphen legen fest, dass Pflegende eine eigenständige Beratungskompetenz haben und in bestimmten Fällen Beratungsaufträge erhalten können.",
+    "expected": "Die ersten konkreten Beratungsaufträge für Pflegende befinden sich in den Paragraphen §§ 37 und 45 des SGB XI.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "2360eccd34433d18439d06d1bd3911056a550ff86cd982d5fbb7c82f26d8cdd6",
+        "score": 0.993974506855011,
+        "meta": {
+          "file_path": "9783866496811_chapter_10.txt",
+          "source_id": "1c6d04cfbc34b687d96464b4848cf37ec824db1c393bbeb4ef55889a13e4eeef",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1173,
+          "_split_overlap": [
+            {
+              "doc_id": "bf6f43e7abaec872102ac0946fd2cd0e0f9192aae881b838152605813bf7538f",
+              "range": [
+                1173,
+                1550
+              ]
+            }
+          ]
+        },
+        "content": "Deutschland die Soziale Pflegever- sicherung (SGB XI) welche Pflegebedürftige gesetzlich absichert und ihnen gewisse finanzielle Leistungen zukommen lässt. Dennoch muss daran erin- nert werden, dass es sich bei der Pflegeversicherung nur um ein Teilkasko- Prinzip, also nur um eine Mindestsicherung handelt, also keine komplette Absicherung darstellt. Um diese Leistungen aber gerecht den bedürftigen Personen zukommen zu lassen, findet im §14, SGB XI der Begriff Pflegebedürftigkeit seine Definiti- on und im §15, SGB XI seine Einteilung in 3 Pflegestufen anhand des Schweregrades der Pflegebedürftigkeit. Durch diese Definition lässt sich recht exakt bestimmen wie die zukünftige Pflegebedürftigkeit in Deutschland aussehen kann."
+      },
+      {
+        "rank": 2,
+        "id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+        "score": 0.9849136471748352,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2253,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                1075,
+                1446
+              ]
+            },
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "4. In diesen Fällen kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen werden muss. (SGB XI, §37, Abs.3) Mit dem ersten Satz des Absatzes 3 setzte das Pflegeversicherungsgesetz den Grundstein, dass hiermit der Pflegefachkraft in pflegerelevanten Fragen eine eigenständige Beratungskompetenz zugestanden wurde und ein Beratungs- auftrag zur Pflegeberatung formuliert wurde. Die Notwendigkeit zur Beratung bestand darin, die Qualität der häuslichen Pflege zu sichern, dies stieß auch bei den Leistungsträgern auf eine breite Zustimmung: (5) Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenver- sicherung e. V. beschließen gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen Empfehlungen zur Qualitäts"
+      },
+      {
+        "rank": 3,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9357371926307678,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 4,
+        "id": "72c929f6f71013ce8f91389d49861224085abebc2be10044cfc36bfbbce54c57",
+        "score": 0.8757371306419373,
+        "meta": {
+          "file_path": "9783866496811_chapter_0611.txt",
+          "source_id": "a5f42a1dfd8ddc4c6acd4b0e1a44ffb7b2e43efe09ce5c5ae59358d2f0a90874",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d0ccd254a7a63dbd04a52ead22371146638248873d84874e2e721e0efe5b87a1",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "2.1.1. Pflege-Personalbedarfsregelung (PPR) Dass Beratung als pflegerische Tätigkeit aufgefasst wird, zeigt sich auch an der 1993 in Kraft getretenen Pflege Bedarfsregelung. Dies war ein erarbeite- tes Tätigkeitsprofil für die klinische Pflege, welches zur Grundlage des Bedarfs von Pflegepersonal galt, der so genannten Pflege-Personalregelung (PPR). Im September 1990 wurde von der Bundesregierung eine Experten- gruppe aus Fachleuten (Pflegedienstleitungen, Mitarbeiter der Pflege- forschung, verbandsunabhängige Ärzte, Verwaltungsdirektoren) zusammen berufen und erhielten den Auftrag, die Grundlagen für ein neues Personalbe- darfsermittlungsverfahren zu erarbeiten. Orientiert hat sich die Experten- gruppe an dem Pflegemodell nach Juchli ‚Aktivitäten des Täglichen Lebens‘ und berücksichtigten den Zeitaufwand einer aktivierenden Pflege. Die pflegerischen Tätigkeiten wurden anhand bestehender Studien und Pra- xiserfahrungen in Minutenwerte festgelegt und in die zwei Pflegearten ‚Allgemeine "
+      },
+      {
+        "rank": 5,
+        "id": "f21bac2945573862132c2441523e0e2690d934c572fdec996836d067c74ed8a8",
+        "score": 0.7093948721885681,
+        "meta": {
+          "file_path": "9783866496811_chapter_0723.txt",
+          "source_id": "29877e88024b065d25034fa89da560ef9f8251b47ff590bed1d5c8aea21dc5bc",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "1b9c423d7d90aa06ca5b96af6c0368cebefc7ce048db844a5f3ed17825712a1d",
+              "range": [
+                0,
+                428
+              ]
+            }
+          ]
+        },
+        "content": "3.2.3. Konzeptvorschläge zur Beratung in der Pflege Fertige Konzepte für Beratung in der Pflege liegen derzeit nicht vor. Natür- lich aber gibt es WissenschaftlerInnen und AutorenInnen, die sich mit diesem Anliegen bereits beschäftigten und konstruktive Vorschläge in die Literatur und die Diskussion zur Beratung mit einbringen. Die Pflegewissenschaftlerin KOCH-STRAUBE sagt: „Denn für eine Beratung in der Pflege muss «das Rad nicht neu erfunden», müssen jedoch auch bestehende Konzepte nicht wahllos übernommen werden.“ (Koch-Straube 2008:103) In der gleichen Literatur zählt sie verschiedene Beratungskonzepte auf, wel- che aus drei unterschiedlichen Bereichen kommen und möchte so Anregung zur Konzeptwahl geben (vgl. Koch-Straube, 2008:104 ff): 1. Psychologische Beratungskonzepte - Humanistische Konzepte - Verhaltenswissenschaftliche Konzepte - Tiefenpsychologische Konzepte - Systemische Konzepte 2. Sozialwissenschaftliche Beratungskonzepte 3. Integrative Beratung Kordula SCHNEIDER, ebenfa"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0612.txt",
+    "question": "Wie häufig können Pflegebedürftige der Pflegestufe III eine Beratung in der eigenen Häuslichkeit in Anspruch nehmen, und wer führt diese Beratung durch?",
+    "answer": "Pflegebedürftige der Pflegestufe III können eine Beratung in der eigenen Häuslichkeit in Anspruch nehmen, vierteljährlich einmal. Diese Beratung wird durch eine zugelassene Pflegeeinrichtung, eine von den Landesverbänden der Pflegekassen anerkannte Beratungsstelle mit nachgewiesener pflegefachlicher Kompetenz oder eine von der Pflegekasse beauftragte, jedoch von ihr nicht beschäftigte Pflegefachkraft durchgeführt.",
+    "expected": "Pflegebedürftige der Pflegestufe III können vierteljährlich einmal eine Beratung in der eigenen Häuslichkeit in Anspruch nehmen. Die Beratung wird durchgeführt durch eine zugelassene Pflegeeinrichtung, eine von den Landesverbänden der Pflegekassen anerkannte Beratungsstelle mit nachgewiesener pflegefachlicher Kompetenz oder, falls dies nicht gewährleistet werden kann, durch eine von der Pflegekasse beauftragte, jedoch nicht beschäftigte Pflegefachkraft.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9785711169242859,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 2,
+        "id": "9296979713aff3d17dbc49916c150ac6f28bc0c2ce8845665b451a629b0c71d9",
+        "score": 0.9782268404960632,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "2.1.2. Implementierung der Pflegeversicherung 1995 Im SGB XI dem Pflegeversicherungsgesetz, befinden sich im §§37 und 45 die ersten konkreten Beratungsaufträge für Pflegende. Die Vergütung ist von der zuständigen Pflegekasse zu tragen und die Beratung der Pflegefachkräfte kommt den in eine Pflegestufe eingruppierten pflegebedürftigen Personen zugute. Festgehalten ist dies im §37 Abs.3 § 37 Pflegegeld für selbst beschaffte Pflegehilfen (3) Pflegebedürftige, die Pflegegeld nach Absatz 1 beziehen, haben 1.bei Pflegestufe I und II halbjährlich einmal, 2.bei Pflegestufe III vierteljährlich einmal eine Beratung in der eigenen Häuslichkeit durch eine zugelassene Pflegeeinrichtung, durch eine von den Landesverbänden der Pflegekassen nach Absatz 7 anerkannte Bera- tungsstelle mit nachgewiesener pflegefachlicher Kompetenz oder, sofern dies durch eine zugelassene Pflegeeinrichtung vor Ort oder eine von den Landesverbänden der Pflegekas- sen anerkannte Beratungsstelle mit nachgewiesener pflegefach"
+      },
+      {
+        "rank": 3,
+        "id": "f65fd5ef529138af2ae78b9387d27844b5eda1a5b8a03b0450b5119d5ecac8e0",
+        "score": 0.9745910167694092,
+        "meta": {
+          "file_path": "9783866496811_chapter_052.txt",
+          "source_id": "3d10137bee2ebbb955cd3b5bb4ee369c5e5ed363b6e31fa58b012813a6f84eeb",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "0f8f3ce8b91b629ef1cc5c04660c20c09f02fb102c80a8b1f65bc426e5168c78",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "1.2. Beratung in Pflege, Pflegebildung und Betreuung Für den Kontext der Pflege bleibt noch viel Schnittstellenarbeit offen, die Profilbildung hat erst begonnen. An späterer Stelle wird auf das Welter-Enderlin-Modell der Fallverstehenden Beratung näher eingegangen. Theorien als das Wissen um Kenntnis und Erfahrung der eigenen Selbst- wirksamkeit, Methodenwissen/ Handwerkskoffer und Feldverstehen/ Praxiskompetenz, diese vier Parts bilden das integrale Ganze von Beratungs- kompetenz. Wir vertiefen in diesem Fachbuch die feldspezifischen Besonderheiten, weil nur so ein neues Verständnis geweckt und die kollegiale Weiterentwicklung der Dienstleistungsmarke Beratung in Gesundheit, Krankheit und Alter z.B. möglich sein wird. Zwei Linien finden wir in der Theoriebildung: die der Pflegeberatung und die psychosoziale Beratung erweitert um Gesundheit und Krankheit. Sowohl ‚Beratung in Pflege, Betreuung und Pflegebildung als auch pflege- relevante Kontexte und Beratung‘: beides sind Konstruktione"
+      },
+      {
+        "rank": 4,
+        "id": "61e8dedaf10edb461e313e982cfe075f2c3efc2a6a01e41311d302e446c01f4b",
+        "score": 0.9642613530158997,
+        "meta": {
+          "file_path": "9783866496811_chapter_072.txt",
+          "source_id": "79bd7e7a86cdccafae656deff96a0c01281a48b8326eed4f24e412e9e020be4e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "2f3918370e51655dd14435061b4fcd79f8882ab5c070e76dcaa7d7f76344047f",
+              "range": [
+                0,
+                343
+              ]
+            }
+          ]
+        },
+        "content": "3.2. Konzepte aus der Pflege für Beratung? Wenn man nach einem konzepttauglichen Hintergrund bei der Pflege sucht, dann bietet sich die Literaturstudie von MERTIN u.a. (2005) an. In ihr wer- den im Bezug auf die Beratung drei weitere Wissenschaften (Erziehungswissenschaft, Psychologie, Wirtschaftswissenschaft, (Organisati- onsentwicklung)) der Pflegewissenschaft gegenübergestellt. Es wird herausgearbeitet, dass die Pflegewissenschaft im Unterschied zu den anderen Wissenschaften über kein Beratungskonzept verfügt, weder in der Theorie noch in der Praxis. Auch eine Unterscheidung verschiedener Beratungsfor- men und Beratungssettings findet nicht statt. Doch sind sich die Autoren in der vorliegenden Literatur darüber einig, dass Beratung immer als ein Aufga- benbereich der Pflege gesehen wird. Als Ziele der Beratung werden in erster Linie Verhaltensänderungen beim Patienten formuliert. Auch sollen mit der Beratung dem Patienten mögliche Handlungsalternativen aufgezeigt werden, um sich dan"
+      },
+      {
+        "rank": 5,
+        "id": "c96848e2380d3c0eab510f58b28914d7d20fa6317b438f636367c55771b547fa",
+        "score": 0.9635164141654968,
+        "meta": {
+          "file_path": "9783866496811_chapter_104.txt",
+          "source_id": "b35718da3e850d1f88f1b426cf3beec748740b03135f1334fd6e47ac4ffd4e2a",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3238,
+          "_split_overlap": [
+            {
+              "doc_id": "ca47f1baf1bd9e5ad6cb5bd34e3f389d863efa5084312d07eb7e3b0e13328720",
+              "range": [
+                1166,
+                1529
+              ]
+            },
+            {
+              "doc_id": "17a7fcce35ecd695dd5dad0c57ee30c2f5c4610270fbc64bab8edc0fdb0e3f2d",
+              "range": [
+                0,
+                324
+              ]
+            }
+          ]
+        },
+        "content": "dass der Pflegeberater oder die Pflegeberaterin im Pfle- gestützpunkt nach §92c anzusiedeln ist. Somit wurde sichergestellt dort Pflegeberatung in Anspruch nehmen zu können und wird ferner davon aus- gegangen eine unabhängige und individuelle Beratung zu erhalten. Nachdem die Pflegeberatung involviert wurde, ist es also nach Bedarf mög- lich eine entsprechende Beratung auf neutralem Boden im Pflegestützpunkt anzustreben oder aber eine zugehende Beratung in der häuslichen Umgebung des Klienten. In diesem räumlichen Rahmen kann sich ein Pflegeberater bewegen und eine entsprechend individuelle Beratung mit Klärung der Problemsituation anstre- ben. Den so gemeinsam erarbeiteten Versorgungsplan erstellen, welcher dann umgesetzt wird und der veränderten Bedarfslage angepasst werden kann, auf diese Weise werden die zu pflegende Person und auch die Angehörigen be- gleitet und der Prozess kann von systemisch Ausgebildeten Pflegeberatern „mit gesteuert“ werden. Prozessmitsteuerung bedeutet für d"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0612.txt",
+    "question": "Welche Funktion erfüllt die Beratung laut §37 Abs.3 für die häusliche Pflege und wie wird die Vergütung geregelt?",
+    "answer": "Die Beratung dient der Sicherung der Qualität der häuslichen Pflege und der regelmäßigen Hilfestellung und praktischen pflegefachlichen Unterstützung der häuslich Pflegenden. Die Vergütung für die Beratung ist von der zuständigen Pflegekasse, bei privat Pflegeversicherten von dem zuständigen privaten Versicherungsunternehmen zu tragen, im Fall der Beihilfeberechtigung anteilig von den Beihilfefestsetzungsstellen. Sie beträgt in den jeweiligen Pflegestufen unterschiedlich. Bei Pflegestufe I und II halbjährlich einmal und bei Pflegestufe III vierteljährlich einmal.",
+    "expected": "Die Beratung dient der Sicherung der Qualität der häuslichen Pflege sowie der regelmäßigen Hilfestellung und praktischen pflegefachlichen Unterstützung der häuslich Pflegenden. Die Vergütung für die Beratung trägt die zuständige Pflegekasse, bei privat Pflegeversicherten das zuständige private Versicherungsunternehmen, und im Fall der Beihilfeberechtigung anteilig die Beihilfefestsetzungsstellen. Die Vergütung beträgt bis zu 21 Euro für Pflegestufen I und II und bis zu 31 Euro für Pflegestufe III.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.968367874622345,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 2,
+        "id": "9296979713aff3d17dbc49916c150ac6f28bc0c2ce8845665b451a629b0c71d9",
+        "score": 0.9607356786727905,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "2.1.2. Implementierung der Pflegeversicherung 1995 Im SGB XI dem Pflegeversicherungsgesetz, befinden sich im §§37 und 45 die ersten konkreten Beratungsaufträge für Pflegende. Die Vergütung ist von der zuständigen Pflegekasse zu tragen und die Beratung der Pflegefachkräfte kommt den in eine Pflegestufe eingruppierten pflegebedürftigen Personen zugute. Festgehalten ist dies im §37 Abs.3 § 37 Pflegegeld für selbst beschaffte Pflegehilfen (3) Pflegebedürftige, die Pflegegeld nach Absatz 1 beziehen, haben 1.bei Pflegestufe I und II halbjährlich einmal, 2.bei Pflegestufe III vierteljährlich einmal eine Beratung in der eigenen Häuslichkeit durch eine zugelassene Pflegeeinrichtung, durch eine von den Landesverbänden der Pflegekassen nach Absatz 7 anerkannte Bera- tungsstelle mit nachgewiesener pflegefachlicher Kompetenz oder, sofern dies durch eine zugelassene Pflegeeinrichtung vor Ort oder eine von den Landesverbänden der Pflegekas- sen anerkannte Beratungsstelle mit nachgewiesener pflegefach"
+      },
+      {
+        "rank": 3,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9418479204177856,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 4,
+        "id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+        "score": 0.9319788217544556,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1115,
+          "_split_overlap": [
+            {
+              "doc_id": "281f0067252a6a0bd8d82800e87ea37400f4976c0a12b31b4ed8589e31b53f97",
+              "range": [
+                1115,
+                1514
+              ]
+            },
+            {
+              "doc_id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+              "range": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        "content": "2 Abs. 2 sowie zur Förderung des Wettbewerbs und der Überschaubarkeit des vorhande- nen Angebots hat die zuständige Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu übermitteln, in deren Einzugsbereich die pflegerische Versorgung gewährleistet werden soll (Leistungs- und Preisvergleichsliste). Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu unterrichten, dass die Beratung und Unterstützung durch den Pflegestützpunkt sowie die Pflegeberatung unent- geltlich sind. Die Leistungs- und Preisvergleichsliste ist der Pflegekasse vom Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem Achten Kapitel und zur wohno"
+      },
+      {
+        "rank": 5,
+        "id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+        "score": 0.9319014549255371,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2253,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                1075,
+                1446
+              ]
+            },
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "4. In diesen Fällen kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen werden muss. (SGB XI, §37, Abs.3) Mit dem ersten Satz des Absatzes 3 setzte das Pflegeversicherungsgesetz den Grundstein, dass hiermit der Pflegefachkraft in pflegerelevanten Fragen eine eigenständige Beratungskompetenz zugestanden wurde und ein Beratungs- auftrag zur Pflegeberatung formuliert wurde. Die Notwendigkeit zur Beratung bestand darin, die Qualität der häuslichen Pflege zu sichern, dies stieß auch bei den Leistungsträgern auf eine breite Zustimmung: (5) Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenver- sicherung e. V. beschließen gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen Empfehlungen zur Qualitäts"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0612.txt",
+    "question": "Warum wird in §37 Abs.3 die eigenständige Beratungskompetenz der Pflegefachkraft als bedeutender Schritt im Pflegeversicherungsgesetz bewertet?",
+    "answer": "Der erste Satz des Absatzes 3 des §37 des Pflegeversicherungsgesetzes stellt den Grundstein dafür, dass der Pflegefachkraft eine eigenständige Beratungskompetenz in pflegerelevanten Fragen zugestanden wird. Dieser Schritt ist ein bedeutender Meilenstein in der Pflege, da damit der Pflegefachkraft eine eigenständige Beratungskompetenz in pflegerelevanten Fragen zugestanden wird. Der erste Satz des Absatzes 3 des §37 des Pflegeversicherungsgesetzes setzt den Grundstein dafür, dass der Pflegefachkraft eine eigenständige Beratungskompetenz in pflegerelevanten Fragen zugestanden wird. Dieser Schritt ist ein bedeutender Meilenstein in der Pflege, da damit die Qualität der häuslichen Pflege gesichert und die regelmäßige Hilfestellung und praktische pflegefachliche Unterstützung der häuslich Pflegenden gewährleistet wird. Der erste Satz des Absatzes 3 des §37 des Pflegeversicherungsgesetzes setzt den Grundstein dafür, dass der Pflegefachkraft eine eigenständige Beratungskompetenz in pflegerelevanten Fragen zugestanden wird. Dieser Schritt ist ein bedeutender Meilenstein in der Pflege, da damit die Qualität der häuslichen Pflege gesichert und die regelmäßige Hilfestellung und praktische pflegefachliche Unterstützung der häuslich Pflegenden gewährleistet wird. Der erste Satz des Absatzes 3 des §37 des Pflegeversicherungsgesetzes setzt den Grundstein dafür, dass der Pflegefachkraft eine eigenständige Beratungskompetenz in pflegerelevanten Fragen zugestanden wird. Dieser Schritt ist ein bedeutender Meilenstein in der Pflege, da damit die Qualität der häuslichen Pflege gesichert und die regelmäßige Hilfestellung und praktische pflegefachliche Unterstützung der häuslich Pflegenden gewährleistet wird. \n         Dieser Schritt ist ein bedeutender Meilenstein in der Pflege, da damit die Qualität der häuslichen Pflege gesichert und die regelmäß",
+    "expected": "Mit dem ersten Satz des Absatzes 3 im §37 wurde der Pflegefachkraft eine eigenständige Beratungskompetenz in pflegerelevanten Fragen zugestanden, wodurch ein offizieller Beratungsauftrag zur Pflegeberatung formuliert wurde. Dies stellt einen bedeutenden Schritt dar, weil es die Rolle der Pflegefachkraft als qualifizierte Beraterin in der häuslichen Pflege rechtlich verankert und damit die Qualität und Kontinuität der Pflegeberatung sichert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "9296979713aff3d17dbc49916c150ac6f28bc0c2ce8845665b451a629b0c71d9",
+        "score": 0.988353431224823,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        "content": "2.1.2. Implementierung der Pflegeversicherung 1995 Im SGB XI dem Pflegeversicherungsgesetz, befinden sich im §§37 und 45 die ersten konkreten Beratungsaufträge für Pflegende. Die Vergütung ist von der zuständigen Pflegekasse zu tragen und die Beratung der Pflegefachkräfte kommt den in eine Pflegestufe eingruppierten pflegebedürftigen Personen zugute. Festgehalten ist dies im §37 Abs.3 § 37 Pflegegeld für selbst beschaffte Pflegehilfen (3) Pflegebedürftige, die Pflegegeld nach Absatz 1 beziehen, haben 1.bei Pflegestufe I und II halbjährlich einmal, 2.bei Pflegestufe III vierteljährlich einmal eine Beratung in der eigenen Häuslichkeit durch eine zugelassene Pflegeeinrichtung, durch eine von den Landesverbänden der Pflegekassen nach Absatz 7 anerkannte Bera- tungsstelle mit nachgewiesener pflegefachlicher Kompetenz oder, sofern dies durch eine zugelassene Pflegeeinrichtung vor Ort oder eine von den Landesverbänden der Pflegekas- sen anerkannte Beratungsstelle mit nachgewiesener pflegefach"
+      },
+      {
+        "rank": 2,
+        "id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+        "score": 0.9878270030021667,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2253,
+          "_split_overlap": [
+            {
+              "doc_id": "8971562c0d98d5629dd640a74879dc3cc1bc76f1c9a76f89a67e1edd625ec940",
+              "range": [
+                1075,
+                1446
+              ]
+            },
+            {
+              "doc_id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "4. In diesen Fällen kann die Beratung auch durch von den Landesverbänden der Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen werden muss. (SGB XI, §37, Abs.3) Mit dem ersten Satz des Absatzes 3 setzte das Pflegeversicherungsgesetz den Grundstein, dass hiermit der Pflegefachkraft in pflegerelevanten Fragen eine eigenständige Beratungskompetenz zugestanden wurde und ein Beratungs- auftrag zur Pflegeberatung formuliert wurde. Die Notwendigkeit zur Beratung bestand darin, die Qualität der häuslichen Pflege zu sichern, dies stieß auch bei den Leistungsträgern auf eine breite Zustimmung: (5) Der Spitzenverband Bund der Pflegekassen und der Verband der privaten Krankenver- sicherung e. V. beschließen gemeinsam mit den Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf Bundesebene unter Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen Empfehlungen zur Qualitäts"
+      },
+      {
+        "rank": 3,
+        "id": "1ea337f81cde2da808370ef2e0d0cfb2b4d371c25f6649d2a5916d4f6841a48f",
+        "score": 0.9753907322883606,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3430,
+          "_split_overlap": [
+            {
+              "doc_id": "c1a2c0995c0ebc067eabd79713c5298a88de97408a27d072240590b184168f63",
+              "range": [
+                1177,
+                1537
+              ]
+            },
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Satz 1 nicht ab, hat die Pflegekas- se oder das private Versicherungsunternehmen das Pflegegeld angemessen zu kürzen und im Wiederholungsfall zu entziehen. (SGB XI, §37, Abs.5,6) Eine weitere Bekräftigung fanden die Pflegenden zur Beratung und Anleitung von Angehörigen im §45 SGB XI „§45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen“ Pflegende Angehörige und ehrenamtlich Pflegende erhalten somit unentgelt- liche Schulungskurse, um das soziale Engagement zu fördern, die Pflege und Betreuung zu erleichtern und zu verbessern, sowie die pflegebedingten kör- perlichen und seelischen Belastungen zu vermindern. Die Kurse sollen Fertigkeiten zur eigenständigen Durchführung der Pflege vermitteln, organi- siert werden sie von den Krankenkassen und durchgeführt werden diese von Pflegefachkräften. Durch diese Gesetzgebungen wurden bereits einige Meilensteine in der Pfle- ge gesetzt und die Diskussionen, wie Beratung in die Pflege integriert werden kann, begannen. Allerdings war zu di"
+      },
+      {
+        "rank": 4,
+        "id": "0f8f3ce8b91b629ef1cc5c04660c20c09f02fb102c80a8b1f65bc426e5168c78",
+        "score": 0.907288670539856,
+        "meta": {
+          "file_path": "9783866496811_chapter_052.txt",
+          "source_id": "3d10137bee2ebbb955cd3b5bb4ee369c5e5ed363b6e31fa58b012813a6f84eeb",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1163,
+          "_split_overlap": [
+            {
+              "doc_id": "f65fd5ef529138af2ae78b9387d27844b5eda1a5b8a03b0450b5119d5ecac8e0",
+              "range": [
+                1163,
+                1575
+              ]
+            }
+          ]
+        },
+        "content": "Felder fokussiert: 1. Die Handlungspraxis der Pflegefachkraft in der praktischen Pflege 2. Die Ausbildungen in der Pflege (Krankenpflege, Altenpflege, Kin- derkrankenpflege, Hebammen) 3. Die Weiterbildung/,das Studium aller Pflegeberufe Jedes Feld hat eigene Besonderheiten, Gesetze und institutionelle Rahmun- gen. Aus diesem Grunde sind im Folgenden umfangreichere Darlegungen der gesetzlichen Bedingungen von Beratung unabdingbar."
+      },
+      {
+        "rank": 5,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.8494627475738525,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0612.txt",
+    "question": "Wie könnten Pflegekassen die Beratungsangebote für Personen mit erheblichem Bedarf an allgemeiner Beaufsichtigung und Betreuung (§ 45a) verbessern, unter Berücksichtigung der im Gesetz genannten Rahmenbedingungen?",
+    "answer": "Die Pflegekassen könnten die Beratungsangebote für Personen mit erheblichem Bedarf an allgemeiner Beaufsichtigung und Betreuung (§ 45a) verbessern, indem sie die im Gesetz genannten Rahmenbedingungen berücksichtigen. Hierzu gehören die unentgeltliche Beratung, die Unterrichtung über niedrigschwellige Betreuungsangebote und die Veröffentlichung der Ergebnisse von Qualitätsprüfungen. Darüber hinaus sollten die Pflegekassen sicherstellen, dass die Beratung von qualifizierten Pflegeberatern durchgeführt wird, die die erforderlichen Qualifikationen nach § 7a Abs.3 Satz 2 SGB XI besitzen. Die Pflegekassen sollten auch die Anzahl und Qualifikation der Pflegeberater regeln, um sicherzustellen, dass die Beratungsangebote effektiv und qualitativ hochwertig sind. Außerdem sollten die Pflegekassen die Beratung als ein integralen Bestandteil der Pflegeversorgung betrachten und sicherstellen, dass die Pflegekräfte angemessen geschult und unterstützt werden, um die Beratungsaufgaben zu erfüllen. Dies könnte durch die Einführung von Schulungen, Fortbildungen und Unterstützungsangeboten für die Pflegekräfte erfolgen. Durch die Berücksichtigung dieser Rahmenbedingungen können die Pflegekassen die Beratungsangebote für Personen mit erheblichem Bedarf an allgemeiner Beaufsichtigung und Betreuung verbessern und die Pflegeversorgung qualitativ hochwertig gestalten. \n\n        I hope it is correct. Please let me know if I made any mistakes. \n\n(Translation of the provided text)\n\nIf care needs are determined. For the consultation, personal data required for the consultation may only be collected, processed, and used with the consent of the insured. (...) (4) The care funds may participate in the financing and work-organizational organization of consultation offers from other providers for the purpose of fulfilling their consultation tasks under this book, using their administrative funds. The neutrality and independence of the consultation must be guaranteed. (SGB XI §7 Abs. 1, 2, 4) This legislation was soon implemented at the state",
+    "expected": "Pflegekassen könnten die Beratungsangebote verbessern, indem sie die Möglichkeit nutzen, den Beratungseinsatz für Personen mit erheblichem Bedarf an allgemeiner Beaufsichtigung und Betreuung innerhalb der vorgegebenen Zeiträume zweimal anzubieten, um eine intensivere Betreuung zu gewährleisten. Für Personen, die noch nicht die Voraussetzungen der Pflegestufe I erfüllen, kann halbjährlich ein Beratungsbesuch ermöglicht werden, der auch durch anerkannte Beratungsstellen ohne nachgewiesene pflegefachliche Kompetenz durchgeführt werden kann. Durch verstärkte Anerkennung und Förderung solcher Beratungsstellen sowie flexible Einsatzplanung könnte die Zugänglichkeit und Qualität der Beratung verbessert werden, um den individuellen Bedürfnissen besser gerecht zu werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "df481b8000bf02f9500e3095edae6adfb3315b67c2a19c0b48a998473a5271c4",
+        "score": 0.9970409274101257,
+        "meta": {
+          "file_path": "9783866496811_chapter_0612.txt",
+          "source_id": "c09e1fd39b592081f05f5293d4acf9cf477e0cdd86d8eb2eeabc1ae374b32ad7",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5730,
+          "_split_overlap": [
+            {
+              "doc_id": "4173fe94d3cfa8f2fe9f9cc6e858f3a6ef5a7f84216bf1db2d8baf3da5f84486",
+              "range": [
+                1197,
+                1611
+              ]
+            },
+            {
+              "doc_id": "fda89477a35029f9a86bfda03eeb32a659fa342829e87743f2b9f324fa8d0fc0",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "wenn Pflegebedürftigkeit festgestellt wird. Für die Beratung erforderliche personenbezogene Daten dürfen nur mit Einwilli- gung des Versicherten erhoben, verarbeitet und genutzt werden. (…) (4) Die Pflegekassen können sich zur Wahrnehmung ihrer Beratungsaufgaben nach diesem Buch aus ihren Verwaltungsmitteln an der Finanzierung und arbeitsteiligen Orga- nisation von Beratungsangeboten anderer Träger beteiligen; die Neutralität und Unabhängigkeit der Beratung ist zu gewährleisten. (SGB XI §7 Abs. 1, 2, 4) Diese Gesetzgebung wurde alsbald auf Länderebene in den Pflegegesetzen umgesetzt, jedoch wurde oftmals nur wenig an die Pflegenden selbst gedacht. Warum war dies so? Zu diesem Zeitpunkt stand die Akademisierung der Pflege erst ganz am An- fang. Die ersten Absolventen und Absolventinnen von pflegerelevanten Studiengängen in Deutschland wie Pflegewissenschaft und Pflegepädagogik verließen die Hochschulen. Daher lag es zu dieser Zeit nahe, den Pflegenden im Punkt Beratung nur wenig Beachtu"
+      },
+      {
+        "rank": 2,
+        "id": "590b04c13d4a4c608470c4cade444bcb6b70c532e2cf3fc09bf6bef951332df9",
+        "score": 0.9960151314735413,
+        "meta": {
+          "file_path": "9783866496811_chapter_063.txt",
+          "source_id": "c699ea3d6606eb42bd13d0ca947aa9b404752c74e1a9328077a88c317a6dded0",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2276,
+          "_split_overlap": [
+            {
+              "doc_id": "30f1a57e85b36688e53d0489ce3b39ac1e7c4c4d7c956dae379a5cce28ba5f36",
+              "range": [
+                1161,
+                1602
+              ]
+            },
+            {
+              "doc_id": "b75e2f30ba5af910b6db6adf6ba5d90541eeef5190abc27a082c222e9e106704",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "beteiligt ist, zu ergänzen. Zugleich ist dem Pflegebedürftigen eine Beratung darüber anzubieten, welche Pflegeleistungen für ihn in seiner persönlichen Situation in Betracht kommen. Ferner ist der Pflegebedürftige auf die Veröffentlichung der Ergebnisse von Qualitätsprüfungen hinzuweisen. Versicherte mit erheblichem allgemeinem Betreuungsbedarf sind in gleicher Weise, insbesondere über anerkannte niedrigschwellige Betreuungsangebote, zu unterrichten und zu beraten. SGB XI, §7 Abs.3 Das Pflege-Weiterentwicklungsgesetz versucht die rechtlich zustehende pflegerische Unterstützung und Betreuung für den Pflegebedürftigen unkom- plizierter zu gestalten. Sie steigert zudem den Wettbewerb der Pflegekassen. Der Gesetzgeber verpflichtet die Pflegekassen dazu, dem Pflegebedürftigen und dem Versicherten mit erheblichem allgemeinem Betreuungsbedarf die folgenden Informationen zukommen zu lassen: - Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen, - wo die nächstgelegenen Pflegestützp"
+      },
+      {
+        "rank": 3,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.990772008895874,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 4,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9894853234291077,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 5,
+        "id": "3ba3252ed8d9527df5a2780e39e13e4f676c549aca127421ce2bdeefe0c209b5",
+        "score": 0.9878045320510864,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7151,
+          "_split_overlap": [
+            {
+              "doc_id": "5611416517834fb77f96147f1d9d7e23292426172f6b872fc369d88c45fb16a9",
+              "range": [
+                1226,
+                1561
+              ]
+            }
+          ]
+        },
+        "content": "und Qualifikation der Pflegeberater und Pflegeberaterinnen zwar in Auftrag gibt, aber die Empfehlungen eben auch nur diesen Charakter haben. Die Qualifikationsanforderungen, die zum 30. Juni 2011 erfüllt sein ‚müs- sen‘, finden wir in § 7a Abs.3 Satz 2 SGB XI: „Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Personal ein, insbesondere Pflegefach- kräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pfle- geberatern und Pflegeberaterinnen gibt der Spitzenverband Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 2011 erfüllt sein.“ (§ 7a Abs.3 Satz 2-5 SGB XI) Dies macht deutlich, dass vom Gesetzgeber keine Richtlinien über Anzahl und Qualifikationen des Pflegeberaters vorgesehen sind, sondern es bei Emp-"
+      }
+    ]
+  }
+]

@@ -1,0 +1,612 @@
+[
+  {
+    "filename": "9783847412304_chapter_08121.txt",
+    "question": "Welche Beratungsfelder wurden sowohl von traditionell als auch von nicht-traditionell Studieninteressierten als relevant identifiziert?",
+    "answer": "Die Beratungsfelder, die sowohl von traditionell als auch von nicht-traditionell Studieninteressierten als relevant identifiziert wurden, sind: Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung. Allerdings zeigen sich gruppenspezifische Ausprägungen bei den artikulierten Beratungsanliegen. Darüber hinaus konnten gruppenspezifische Beratungsfelder nicht-traditionell Studieninteressierter identifiziert werden. Themenunspezifisch gerahmt werden die Beratungsanliegen beider Zielgruppen oft durch die Frage nach der Vereinbarkeit. \n        Die Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpflichten und Erwerbsarbeit ist ein weiteres beratungsfeldübergreifendes Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter. \n        Die Frage nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm sowie die Frage danach, ob die Studieninteressierten die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen, sind zusätzliche Beratungsbedarfe, die innerhalb der Gruppe der traditionell Studieninteressierten nicht artikuliert wurden. \n        Die Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpflichten und Erwerbsarbeit ist ein weiteres beratungsfeldübergreifendes Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter. \n        In der Kategorie der zielgruppenübergreifenden Beratungsfelder konnten Themenfelder identifiziert werden, in denen sowohl von traditionell als auch von nicht-traditionell Studieninteressierten Beratungsbedarfe artikuliert wurden. Diese Themenfelder sind: Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung. \n        In der Kategorie der zielgruppenübergreifenden Beratungsfelder konnten Themenfelder identifiziert werden, in",
+    "expected": "Die zielgruppenübergreifenden Beratungsfelder, die sowohl von traditionell als auch von nicht-traditionell Studieninteressierten als relevant identifiziert wurden, sind Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+        "score": 0.9980303645133972,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+              "range": [
+                0,
+                487
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Beratungsbedarfe Eine Befragung von Studienberatenden mit unterschiedlichen Funktionen (zentrale Studienberatung, Studienfachberatung, Studiengangkoordinieren- de) und unterschiedlicher organisationaler Verankerung (Zentrale Allgemeine Studienberatung, Studienberatung auf Fachbereichsebene, Studienberatung auf Ebene der Studienprogramme) zeigt, dass bei der Artikulation der Bera- tungsbedarfe Besonderheiten in der Gruppe der nicht-traditionell Studienin- teressierten vorliegen. Diese Besonderheiten lassen sich in zwei Kategorien unterteilen. In der Kategorie der zielgruppenübergreifenden Beratungsfelder konnten Themenfelder identifiziert werden, in denen sowohl von traditionell als auch von nicht-traditionell Studieninteressierten Beratungsbedarfe arti- kuliert wurden: Dies betrifft die Felder Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung. Bei genauerer Betrachtung dieser Themenfelder werden jedoch zielgruppenspezifische Ausprägungen deutlich. Abbildung 2 "
+      },
+      {
+        "rank": 2,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.995109498500824,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 3,
+        "id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+        "score": 0.9939779043197632,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1375,
+          "_split_overlap": [
+            {
+              "doc_id": "2c62fc8d0cf582b89d5f4bd4569f7d025df4bc4c334bce0f8f3e66bc33e2c797",
+              "range": [
+                1375,
+                1814
+              ]
+            },
+            {
+              "doc_id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "Regel nicht-traditionell Studierende, die „in verschiedenen Lebensphasen, mit individuellen beruflichen und familiären Verpflichtungen sowie sehr divergenten Leistungsvoraussetzungen an die Hochschule gelangen“ (Le- win/Vierthaler/Fraunhofer 2017: 160). Diese Zielgruppe weist spezielle Be- ratungs- und Unterstützungsbedarfe auf, wozu es jedoch noch an empirisch gesichertem Wissen fehlt (vgl. ebd.). Der vorliegende Beitrag greift diese Erkenntnisse auf und geht am Bei- spiel der Serviceleistung der Beratung nicht-traditionell Studieninteressierter in der wissenschaftlichen Weiterbildung der Frage nach, welche Beratungs- bedarfe3 auf der Programmebene bearbeitet werden (sollten) und wie ein ziel- gruppenorientiertes Beratungssetting auf dieser Ebene organisiert werden kann. Daraus abgeleitet wird diskutiert, welche intraorganisationalen Rah- menbedingungen zu einer Optimierung der vorhandenen Beratungsstruktu- ren beitragen können. Die Beantwortung dieser Fragen erfolgt auf der Grundlage"
+      },
+      {
+        "rank": 4,
+        "id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+        "score": 0.9869202375411987,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1496,
+          "_split_overlap": [
+            {
+              "doc_id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+              "range": [
+                1496,
+                1983
+              ]
+            }
+          ]
+        },
+        "content": "Studienprogramm sowie die Frage danach, ob die Studieninteressierten die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen. Ein weiteres beratungsfeldübergreifendes Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter ist in der Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpflichten und Erwerbsarbeit zu sehen. Zusammenfassend kann festgestellt werden, dass nicht-traditionell Stu- dieninteressierte auf den gleichen Feldern Beratungsbedarfe artikulieren wie traditionell Studieninteressierte. Allerdings zeigen sich gruppenspezifi- sche Ausprägungen bei den artikulierten Beratungsanliegen. Darüber hinaus konnten gruppenspezifische Beratungsfelder nicht-traditionell Studieninter- essierter identifiziert werden. Themenunspezifisch gerahmt werden die Bera- tungsanliegen beider Zielgruppen oft durch die Frage nach der Vereinbarkeit."
+      },
+      {
+        "rank": 5,
+        "id": "7ecdedcbf3d3f58e54daea253cd8b54ed8e6f3b14de1f6dc583c59d4ac20e216",
+        "score": 0.9823145866394043,
+        "meta": {
+          "file_path": "9783847412304_chapter_08132.txt",
+          "source_id": "ed970588473fa0b34a94a1205461e38f0be2ad8f9e96fd46215ee0bd151fd50a",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "a7673056fa2bf6dc1d9d716fc7030037e78665681f437684904c75b609e5d962",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "3.2.\tBeratungsstrukturen auf Programmebene Neben den identifizierten Beratungsbedarfen nicht-traditionell Studieninter- essierter auf Programmebene und den sich daraus ergebenden Anforderungen an das Beratungswissen der Studiengangkoordinierenden, kommt der Schaf- fung entsprechender Rahmenbedingungen für die Beratung eine besondere Rolle zu. So formulieren nahezu sämtliche der befragten Studiengangkoor- dinierenden, dass die Beratung der nicht-traditionell Studieninteressierten unter besonderen Bedingungen abläuft. Während bei regulären Studierenden in der grundständigen Lehre die Beratung primär ‚Face-to-Face‘ oder ggf. im Rahmen einer telefonischen Beratung durchgeführt wird, findet die Be- ratung nicht-traditionell Studieninteressierter in der wissenschaftlichen Wei- terbildung häufig telefonisch, per E-Mail oder auch via Videochat statt. Dies ist zum einen auf die geografische Entkopplung zwischen dem Wohn- und dem Studienort der Ratsuchenden zurückzuführen, da diese aus allen Tei"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_08121.txt",
+    "question": "Welche spezifischen Beratungsbedarfe zeigen sich bei nicht-traditionell Studieninteressierten im Vergleich zu traditionell Studieninteressierten?",
+    "answer": "Die spezifischen Beratungsbedarfe bei nicht-traditionell Studieninteressierten im Vergleich zu traditionell Studieninteressierten sind die Frage nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm, die Frage danach, ob die Studieninteressierten die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen und die Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpflichten und Erwerbsarbeit. Diese Beratungsbedarfe wurden bei nicht-traditionell Studieninteressierten identifiziert, während sie bei traditionell Studieninteressierten nicht artikuliert wurden. Darüber hinaus wurden bei nicht-traditionell Studieninteressierten zusätzliche Beratungsbedarfe identifiziert, wie die Frage nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm. \n        I cannot find the answer in the provided context.",
+    "expected": "Nicht-traditionell Studieninteressierte haben zusätzlich spezifische Beratungsbedarfe, wie die Frage nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm, ob sie die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen, sowie die Vereinbarkeit des weiterbildenden Studiums mit Familienpflichten und Erwerbsarbeit.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+        "score": 0.9981637597084045,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+              "range": [
+                0,
+                487
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Beratungsbedarfe Eine Befragung von Studienberatenden mit unterschiedlichen Funktionen (zentrale Studienberatung, Studienfachberatung, Studiengangkoordinieren- de) und unterschiedlicher organisationaler Verankerung (Zentrale Allgemeine Studienberatung, Studienberatung auf Fachbereichsebene, Studienberatung auf Ebene der Studienprogramme) zeigt, dass bei der Artikulation der Bera- tungsbedarfe Besonderheiten in der Gruppe der nicht-traditionell Studienin- teressierten vorliegen. Diese Besonderheiten lassen sich in zwei Kategorien unterteilen. In der Kategorie der zielgruppenübergreifenden Beratungsfelder konnten Themenfelder identifiziert werden, in denen sowohl von traditionell als auch von nicht-traditionell Studieninteressierten Beratungsbedarfe arti- kuliert wurden: Dies betrifft die Felder Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung. Bei genauerer Betrachtung dieser Themenfelder werden jedoch zielgruppenspezifische Ausprägungen deutlich. Abbildung 2 "
+      },
+      {
+        "rank": 2,
+        "id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+        "score": 0.9970177412033081,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2561,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                1222,
+                1666
+              ]
+            }
+          ]
+        },
+        "content": "sich bei den von den Studiengangkoor- dinierenden dargestellten Anliegen eher um Informationsweitergabe als um Beratung handelt. Abbildung 3 zeigt die von nicht-traditionell Studieninteressierten an Stu- diengangkoordinierende adressierten Beratungsbedarfe auf Programmebene absteigend gewichtet nach ihrer Häufigkeit und ergänzt durch exemplarische Beratungsanliegen. In einem nächsten Schritt erfolgt nun die Fokussierung der identifizierten hochschulischen Beratungsstrukturen auf die besonderen Spezifika innerhalb der Programmebene."
+      },
+      {
+        "rank": 3,
+        "id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+        "score": 0.9936537742614746,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1375,
+          "_split_overlap": [
+            {
+              "doc_id": "2c62fc8d0cf582b89d5f4bd4569f7d025df4bc4c334bce0f8f3e66bc33e2c797",
+              "range": [
+                1375,
+                1814
+              ]
+            },
+            {
+              "doc_id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+              "range": [
+                0,
+                422
+              ]
+            }
+          ]
+        },
+        "content": "Regel nicht-traditionell Studierende, die „in verschiedenen Lebensphasen, mit individuellen beruflichen und familiären Verpflichtungen sowie sehr divergenten Leistungsvoraussetzungen an die Hochschule gelangen“ (Le- win/Vierthaler/Fraunhofer 2017: 160). Diese Zielgruppe weist spezielle Be- ratungs- und Unterstützungsbedarfe auf, wozu es jedoch noch an empirisch gesichertem Wissen fehlt (vgl. ebd.). Der vorliegende Beitrag greift diese Erkenntnisse auf und geht am Bei- spiel der Serviceleistung der Beratung nicht-traditionell Studieninteressierter in der wissenschaftlichen Weiterbildung der Frage nach, welche Beratungs- bedarfe3 auf der Programmebene bearbeitet werden (sollten) und wie ein ziel- gruppenorientiertes Beratungssetting auf dieser Ebene organisiert werden kann. Daraus abgeleitet wird diskutiert, welche intraorganisationalen Rah- menbedingungen zu einer Optimierung der vorhandenen Beratungsstruktu- ren beitragen können. Die Beantwortung dieser Fragen erfolgt auf der Grundlage"
+      },
+      {
+        "rank": 4,
+        "id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+        "score": 0.9875734448432922,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "3.1. Beratungsbedarfe auf Programmebene Aus der Analyse der Befragungsergebnisse des in der Einleitung dargestellten Forschungsprojekts wird ersichtlich, dass Beratung von Studieninteressierten nur ein Aufgabenfeld von vielen darstellt. Die Studiengangkoordinierenden benennen jedoch die Zeit vor bzw. während der Bewerbung als „sehr intensive telefonische Beratungszeit“ (Studiengangkoordinierende 1, Abs. 7). Eine wei- tere Studiengangkoordinierende führt aus, dass zusätzlich zu individuellen Beratungsanliegen eine für die Studieninteressierten verpflichtende „Fach- studienberatung“ durchgeführt wird, die sie verantwortet (Studiengangkoor- dinierende 6, Abs. 31). Die Studiengangkoordinierenden benennen die in Kapitel 2.1 identifizier- ten Beratungsbedarfe nicht-traditionell Studieninteressierter ausgenommen den der Anrechnung8. Diese Bedarfe lassen sich entsprechend der Häufigkeit ihrer Nennung gewichten. Insbesondere Beratungsanliegen bezüglich der Zu- lassung wurden in den Interviews m"
+      },
+      {
+        "rank": 5,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.9859220385551453,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_08121.txt",
+    "question": "Wie unterscheiden sich die Ausprägungen der Beratungsanliegen bei zielgruppenübergreifenden Beratungsfeldern zwischen traditionell und nicht-traditionell Studieninteressierten?",
+    "answer": "Bei zielgruppenübergreifenden Beratungsfeldern zeigen sich zielgruppenspezifische Ausprägungen, wenn man genauer hinsieht. Die Themenfelder wie Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung werden von beiden Gruppen artikuliert, aber mit unterschiedlichen Ausprägungen. \n\n        I found the answer in the provided context.",
+    "expected": "Obwohl beide Gruppen Beratungsbedarfe in ähnlichen Themenfeldern wie Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung artikulieren, zeigen sich bei nicht-traditionell Studieninteressierten spezifische Ausprägungen dieser Anliegen, die sich auf ihre besonderen Lebensumstände und Bedürfnisse beziehen, wie etwa Zeitmanagement und Vereinbarkeit mit anderen Verpflichtungen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+        "score": 0.9951221346855164,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1496,
+          "_split_overlap": [
+            {
+              "doc_id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+              "range": [
+                1496,
+                1983
+              ]
+            }
+          ]
+        },
+        "content": "Studienprogramm sowie die Frage danach, ob die Studieninteressierten die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen. Ein weiteres beratungsfeldübergreifendes Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter ist in der Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpflichten und Erwerbsarbeit zu sehen. Zusammenfassend kann festgestellt werden, dass nicht-traditionell Stu- dieninteressierte auf den gleichen Feldern Beratungsbedarfe artikulieren wie traditionell Studieninteressierte. Allerdings zeigen sich gruppenspezifi- sche Ausprägungen bei den artikulierten Beratungsanliegen. Darüber hinaus konnten gruppenspezifische Beratungsfelder nicht-traditionell Studieninter- essierter identifiziert werden. Themenunspezifisch gerahmt werden die Bera- tungsanliegen beider Zielgruppen oft durch die Frage nach der Vereinbarkeit."
+      },
+      {
+        "rank": 2,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.9936284422874451,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 3,
+        "id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+        "score": 0.9935599565505981,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2561,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                1222,
+                1666
+              ]
+            }
+          ]
+        },
+        "content": "sich bei den von den Studiengangkoor- dinierenden dargestellten Anliegen eher um Informationsweitergabe als um Beratung handelt. Abbildung 3 zeigt die von nicht-traditionell Studieninteressierten an Stu- diengangkoordinierende adressierten Beratungsbedarfe auf Programmebene absteigend gewichtet nach ihrer Häufigkeit und ergänzt durch exemplarische Beratungsanliegen. In einem nächsten Schritt erfolgt nun die Fokussierung der identifizierten hochschulischen Beratungsstrukturen auf die besonderen Spezifika innerhalb der Programmebene."
+      },
+      {
+        "rank": 4,
+        "id": "5eef5d9e12063a5385db47e1bd100babb7eec3763a15c0ba2a1c3f96192575bb",
+        "score": 0.9933277368545532,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "4.1.1. Beratung als Wissenschaft? Bei allen Gelegenheiten der wissenschaftlichen Verortung von Beratung (erste Fachtagungen in Mainz 11/2007 und in Kassel 11/2008) zeigen sich sehr unterschiedliche Bilder. Letztlich löste auch Manfred MOLDASCHL (Technische Universität Chem- nitz) in seinem Beitrag in Kassel am 07.11.2009 diese Frage der wissenschaftlichen Verortung noch nicht auf. Abb.4: Beratungswissenschaft Wenn gleich dieses Bild für die Theoriebegründung noch nicht ausreichen mag. Fest steht aber, viele neue andere Wissenschaften, wie z. B. die Geron- towissenschaft, die Sozialarbeitswissenschaft, die Pflegewissenschaft begründen sich aus genau dieser Querlage heraus. Also doch: der Anfang einer Theoriegrundlage? Es wird in Zukunft deutlicher denn je darum gehen, die Besonderheit des Beratens aus den verschiedenen wissenschaftlichen Foki heraus zu beschrei- ben und im interdisziplinären Diskurs jeweils neu zu verorten. Auch die verschiedenen ‚Ebenen‘ der Betrachtung von Beratung si"
+      },
+      {
+        "rank": 5,
+        "id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+        "score": 0.9927573204040527,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+              "range": [
+                0,
+                487
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Beratungsbedarfe Eine Befragung von Studienberatenden mit unterschiedlichen Funktionen (zentrale Studienberatung, Studienfachberatung, Studiengangkoordinieren- de) und unterschiedlicher organisationaler Verankerung (Zentrale Allgemeine Studienberatung, Studienberatung auf Fachbereichsebene, Studienberatung auf Ebene der Studienprogramme) zeigt, dass bei der Artikulation der Bera- tungsbedarfe Besonderheiten in der Gruppe der nicht-traditionell Studienin- teressierten vorliegen. Diese Besonderheiten lassen sich in zwei Kategorien unterteilen. In der Kategorie der zielgruppenübergreifenden Beratungsfelder konnten Themenfelder identifiziert werden, in denen sowohl von traditionell als auch von nicht-traditionell Studieninteressierten Beratungsbedarfe arti- kuliert wurden: Dies betrifft die Felder Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung. Bei genauerer Betrachtung dieser Themenfelder werden jedoch zielgruppenspezifische Ausprägungen deutlich. Abbildung 2 "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_08121.txt",
+    "question": "Warum ist die Frage nach der Vereinbarkeit von Studium mit Familienpflichten und Erwerbsarbeit ein wichtiges Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter?",
+    "answer": "Die Frage nach der Vereinbarkeit von Studium mit Familienpflichten und Erwerbsarbeit ist ein wichtiges Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter, da sie oft themunspezifisch gerahmt wird und von beiden Zielgruppen artikuliert wird. Es handelt sich um ein gruppenspezifisches Beratungsfeld, das von nicht-traditionell Studieninteressierten identifiziert wurde und eine besondere Rolle bei der Beratung spielt.",
+    "expected": "Weil nicht-traditionell Studieninteressierte häufig neben dem Studium auch familiäre Verpflichtungen und Erwerbsarbeit zu bewältigen haben, stellt die Vereinbarkeit dieser Bereiche ein zentrales Anliegen dar, das alle Beratungsfelder übergreift und für den Erfolg des Studiums entscheidend ist.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+        "score": 0.9968917965888977,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1496,
+          "_split_overlap": [
+            {
+              "doc_id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+              "range": [
+                1496,
+                1983
+              ]
+            }
+          ]
+        },
+        "content": "Studienprogramm sowie die Frage danach, ob die Studieninteressierten die individuellen Voraussetzungen zum Absolvieren des Studienprogramms erfüllen. Ein weiteres beratungsfeldübergreifendes Querschnittsthema bei der Beratung nicht-traditionell Studieninteressierter ist in der Frage nach der Vereinbarkeit des weiterbildenden Studienprogramms mit Familienpflichten und Erwerbsarbeit zu sehen. Zusammenfassend kann festgestellt werden, dass nicht-traditionell Stu- dieninteressierte auf den gleichen Feldern Beratungsbedarfe artikulieren wie traditionell Studieninteressierte. Allerdings zeigen sich gruppenspezifi- sche Ausprägungen bei den artikulierten Beratungsanliegen. Darüber hinaus konnten gruppenspezifische Beratungsfelder nicht-traditionell Studieninter- essierter identifiziert werden. Themenunspezifisch gerahmt werden die Bera- tungsanliegen beider Zielgruppen oft durch die Frage nach der Vereinbarkeit."
+      },
+      {
+        "rank": 2,
+        "id": "ed204f3cd33786d73fdd7b937cc7c6c77f14b0a4e1183d61c0f5d862f251d29a",
+        "score": 0.9792335629463196,
+        "meta": {
+          "file_path": "9783847412304_chapter_0822.txt",
+          "source_id": "2001d274480f5235a07c05e0d30ddd2c368c226dd9a6a059ac37160bce6b6959",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3528,
+          "_split_overlap": [
+            {
+              "doc_id": "daa126d225e4cb136220850c54507ed35b8970a27e4161fa95f37738eca17ec0",
+              "range": [
+                1085,
+                1447
+              ]
+            }
+          ]
+        },
+        "content": "wenn Studierende immatrikuliert seien. Der Zugang zum weiterbildenden Studium (vgl. Faulstich et al. 2007, S. 140) sowie die Anerkennung von außerhochschulischen Vorleistungen wer- den als Nadelöhr identifiziert (vgl. Dörner 2016, S. 15). Ziel von Beratung müsse es in diesem Zusammenhang sein, so Nico Sturm und Noell Marie Bopf (2017), Fragen und Unklarheiten bei der Anrechnung zu bearbeiten, in- dem nicht-traditionell Studierenden die Studien- sowie Auswahlentscheidung durch das Aufzeigen von Anrechnungsmöglichkeiten erleichtert werde (vgl. ebd., S. 26)."
+      },
+      {
+        "rank": 3,
+        "id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+        "score": 0.9628322124481201,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "3.1. Beratungsbedarfe auf Programmebene Aus der Analyse der Befragungsergebnisse des in der Einleitung dargestellten Forschungsprojekts wird ersichtlich, dass Beratung von Studieninteressierten nur ein Aufgabenfeld von vielen darstellt. Die Studiengangkoordinierenden benennen jedoch die Zeit vor bzw. während der Bewerbung als „sehr intensive telefonische Beratungszeit“ (Studiengangkoordinierende 1, Abs. 7). Eine wei- tere Studiengangkoordinierende führt aus, dass zusätzlich zu individuellen Beratungsanliegen eine für die Studieninteressierten verpflichtende „Fach- studienberatung“ durchgeführt wird, die sie verantwortet (Studiengangkoor- dinierende 6, Abs. 31). Die Studiengangkoordinierenden benennen die in Kapitel 2.1 identifizier- ten Beratungsbedarfe nicht-traditionell Studieninteressierter ausgenommen den der Anrechnung8. Diese Bedarfe lassen sich entsprechend der Häufigkeit ihrer Nennung gewichten. Insbesondere Beratungsanliegen bezüglich der Zu- lassung wurden in den Interviews m"
+      },
+      {
+        "rank": 4,
+        "id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+        "score": 0.9626237750053406,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1339,
+          "_split_overlap": [
+            {
+              "doc_id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+              "range": [
+                1339,
+                1753
+              ]
+            },
+            {
+              "doc_id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "Voraussetzungen mit, um da teilnehmen zu können?“ (Studiengangkoordinie- rende 1, Abs. 13). Als ebenso wichtig werden studienorganisatorische Aspekte wie „Zeitpläne und Fehlzeiten“ (Studiengangkoordinierende 7, Abs. 4), aber auch die zeitliche Vereinbarkeit des Studiums mit bestehenden Verpflichtun- gen sowie spezifische Inhaltsfragen benannt. Die kommunikative Bearbei- tung der Studienwahl spielt daher in der Beratung ebenfalls eine große Rolle. Einen weiteren hohen Beratungsbedarf stellt die Finanzierung des weiter- bildenden Studienprogramms dar. Hier spielen sowohl die hohen Kosten als auch generelle Fragen zur Finanzierung, Kostenübernahme, Stipendien und steuerlicher Absetzbarkeit eine besondere Rolle; grundsätzlich also „Fragen rund um Weiterbildungsfinanzierung“ (Studiengangkoordinierende 1, Abs. 13). Weniger häufig wurde von den Studiengangkoordinierenden benannt, dass diese die Studieninteressierten auf deren Passung hin beraten. Lediglich zwei Koordinierende gaben an, dass s"
+      },
+      {
+        "rank": 5,
+        "id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+        "score": 0.9576296806335449,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1143,
+          "_split_overlap": [
+            {
+              "doc_id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+              "range": [
+                1143,
+                1509
+              ]
+            },
+            {
+              "doc_id": "18a043736ca5d76fc862ae8016e89b593c5d6a832dcfc39fd1c818d506ab78ce",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Reihenfolge dies geschieht, kann mit den bisher erhobenen Daten noch nicht geklärt werden. Das betrifft auch die Bedeutung der Loyalität, also der Bindung an die TU Dresden als Institution und den gewählten Studiengang. Im Detail zeigt sich die Unzufriedenheit bezüglich der Studieninhalte, -bedingungen, -leistungen und -anforderungen und des Informationsstands zu Beginn des Studiums sowie bei psychischen Belastun- gen und der Vereinbarkeit von Studium, Beruf, Familie und sozialem Umfeld. Die Studienabbruchgedanken oder auch das Recherchieren nach Alternativen zeugen von einer Vorstufe der Exit-Strategie, wohingegen die Inanspruchnah- me von Beratung, das Beschweren, die Teilnahme am Frühwarnsystem, die Gründung von Lerngruppen und das Anzeigen von Unterstützungsbedarfen für Voice stehen (Abbildung 2). Frühwarnsysteme als verwaltungstechnische Eingriffe in das Studium füh- ren nicht nur zu intendierten Reaktionen, die den Studienabbruch verhindern sollen, sondern – wie fast immer bei ra"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_08121.txt",
+    "question": "Welche Schlussfolgerungen lassen sich aus den Beratungsbedarfen bezüglich der Gestaltung von Studienberatungsangeboten für nicht-traditionell Studieninteressierte ziehen?",
+    "answer": "Die Beratungsbedarfe nicht-traditionell Studieninteressierter erfordern eine spezifische Beratungsstruktur, die sich von den traditionellen Beratungsangeboten unterscheidet. Dabei sollten die Beratungsangebote auf die spezifischen Bedürfnisse und Herausforderungen dieser Studieninteressierten zugeschnitten sein. Insbesondere sollten die Beratungsangebote die Fragen nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm, der Vereinbarkeit des Studienprogramms mit Familienpflichten und Erwerbsarbeit sowie der individuellen Voraussetzungen zum Absolvieren des Studienprogramms berücksichtigen. Darüber hinaus sollten die Beratungsangebote flexible und individuelle Beratungsformate anbieten, um den unterschiedlichen Bedürfnissen und Lebenssituationen dieser Studieninteressierten gerecht zu werden. Um die Effektivität der Beratungsangebote zu erhöhen, sollten die Studiengangkoordinierenden und die zentralen Studienberatungen enger zusammenarbeiten, um sicherzustellen, dass die Beratungsangebote auf die spezifischen Bedürfnisse der nicht-traditionell Studieninteressierten zugeschnitten sind. \n         Die Beratungsbedarfe nicht-traditionell Studieninteressierter erfordern eine spezifische Beratungsstruktur, die sich von den traditionellen Beratungsangeboten unterscheidet. Dabei sollten die Beratungsangebote auf die spezifischen Bedürfnisse und Herausforderungen dieser Studieninteressierten zugeschnitten sein. Insbesondere sollten die Beratungsangebote die Fragen nach der notwendigen Zeitverausgabung für ein weiterbildendes Studienprogramm, der Vereinbarkeit des Studienprogramms mit Familienpflichten und Erwerbsarbeit sowie der individuellen Voraussetzungen zum Absolvieren des Studienprogramms berücksichtigen. Darüber hinaus sollten die Beratungsangebote flexible und individuelle Beratungsformate anbieten, um den unterschiedlichen Bedürfnissen und Lebenssituationen dieser Studieninteressierten gerecht zu werden. Um die Effektivität",
+    "expected": "Die Studienberatungsangebote sollten sowohl die gemeinsamen Beratungsfelder für alle Studieninteressierten abdecken als auch spezifische Themen für nicht-traditionell Studieninteressierte berücksichtigen, insbesondere Fragen zur Zeitverfügbarkeit, individuellen Voraussetzungen und der Vereinbarkeit von Studium mit Familie und Beruf. Dadurch kann eine zielgruppengerechte und bedarfsgerechte Beratung gewährleistet werden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+        "score": 0.9857925772666931,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                0,
+                414
+              ]
+            }
+          ]
+        },
+        "content": "3.1. Beratungsbedarfe auf Programmebene Aus der Analyse der Befragungsergebnisse des in der Einleitung dargestellten Forschungsprojekts wird ersichtlich, dass Beratung von Studieninteressierten nur ein Aufgabenfeld von vielen darstellt. Die Studiengangkoordinierenden benennen jedoch die Zeit vor bzw. während der Bewerbung als „sehr intensive telefonische Beratungszeit“ (Studiengangkoordinierende 1, Abs. 7). Eine wei- tere Studiengangkoordinierende führt aus, dass zusätzlich zu individuellen Beratungsanliegen eine für die Studieninteressierten verpflichtende „Fach- studienberatung“ durchgeführt wird, die sie verantwortet (Studiengangkoor- dinierende 6, Abs. 31). Die Studiengangkoordinierenden benennen die in Kapitel 2.1 identifizier- ten Beratungsbedarfe nicht-traditionell Studieninteressierter ausgenommen den der Anrechnung8. Diese Bedarfe lassen sich entsprechend der Häufigkeit ihrer Nennung gewichten. Insbesondere Beratungsanliegen bezüglich der Zu- lassung wurden in den Interviews m"
+      },
+      {
+        "rank": 2,
+        "id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+        "score": 0.9753236770629883,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2561,
+          "_split_overlap": [
+            {
+              "doc_id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+              "range": [
+                1222,
+                1666
+              ]
+            }
+          ]
+        },
+        "content": "sich bei den von den Studiengangkoor- dinierenden dargestellten Anliegen eher um Informationsweitergabe als um Beratung handelt. Abbildung 3 zeigt die von nicht-traditionell Studieninteressierten an Stu- diengangkoordinierende adressierten Beratungsbedarfe auf Programmebene absteigend gewichtet nach ihrer Häufigkeit und ergänzt durch exemplarische Beratungsanliegen. In einem nächsten Schritt erfolgt nun die Fokussierung der identifizierten hochschulischen Beratungsstrukturen auf die besonderen Spezifika innerhalb der Programmebene."
+      },
+      {
+        "rank": 3,
+        "id": "e8df5f28907ed5f6845200ede3cd03160a0543aed48e8a68def50291dc2058ec",
+        "score": 0.9597788453102112,
+        "meta": {
+          "file_path": "9783847412304_chapter_08122.txt",
+          "source_id": "6f80720635c375bbacf0880617004bb71717525bd4930a8e531006ca065a3f40",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "2.2 Beratungsstrukturen Am Beispiel einer dezentral organisierten Verankerung weiterbildender Stu- dienangebote innerhalb einzelner Fachbereiche lassen sich hochschulweit drei Organisationseinheiten herausstellen, die wesentlich mit Beratungsanliegen nicht-traditionell Studieninteressierter im Feld der wissenschaftlichen Wei- terbildung konfrontiert sind.6 Auf Hochschulebene werden entsprechende Beratungsanliegen an die zentralen Studienberatungen adressiert. An Fach- bereichen, an denen weiterbildende Studienprogramme organisational ver- ankert sind, werden die Fachstudienberatungen mit den Beratungsbedarfen konfrontiert. Und auf der Ebene der weiterbildenden Studienprogramme sind die Studiengangkoordinierenden die zentralen Ansprechpersonen. Bei einer gleichzeitigen Betrachtung der Beratenden auf den drei Or- ganisationsebenen können vier wesentliche ebenenspezifische Merkmale (Beratungsstruktur, Beratungstätigkeit, Beratungsinhalt und Implementie- rungsgrad) differenziert werden. Ta"
+      },
+      {
+        "rank": 4,
+        "id": "2734aba5c90b50119fb38f2f10a99334eec57501b50eb29056632a08cd588340",
+        "score": 0.9549502730369568,
+        "meta": {
+          "file_path": "9783847412304_chapter_08.txt",
+          "source_id": "34d6386f912ec8a38eb4c083efb91217b64b2f015e4cffbdc7671c7956d8d650",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2699,
+          "_split_overlap": [
+            {
+              "doc_id": "a396249288c7127a21f50e0c1475982a39a347edf990d9a5bce26fc5afa94276",
+              "range": [
+                1324,
+                1746
+              ]
+            }
+          ]
+        },
+        "content": "die Optimierung von Beratungsstrukturen abgeleitet werden. Dazu untergliedert sich der Beitrag in drei Teile: In einem ersten Teil wer- den sowohl die besonderen Beratungsbedarfe nicht-traditionell Studieninteressierter (2.1) als auch generalisierbare hochschulische Beratungsstrukturen herausgearbeitet (2.2). Im zweiten Teil erfolgt eine Fokussierung auf die Be- ratungsleistungen, die auf der Ebene der weiterbildenden Studienprogramme durch die Studiengangkoordinierenden erbracht werden (3). Dabei finden so- wohl die Beratungsanliegen Berücksichtigung, die auf dieser Ebene an die Hochschulprofessionellen adressiert werden (3.1), als auch die strukturellen Besonderheiten, die bei der Beratung nicht-traditionell Studieninteressierter zu berücksichtigen sind (3.2). Im dritten Teil des Beitrages erfolgt eine Rück- bindung der dargestellten Ergebnisse auf die Ausgangsfragen, indem Poten- tiale für eine Optimierung der Beratungsstrukturen formuliert werden (4)."
+      },
+      {
+        "rank": 5,
+        "id": "5532e62f66e778fccde6ecf9a51a64ba475b69094eafda5ba70da02ecb10c08f",
+        "score": 0.9233506917953491,
+        "meta": {
+          "file_path": "9783847412304_chapter_08121.txt",
+          "source_id": "b4f1e605107d8a7804602e1ceb4e2ab4d3c3f3110feb6e9a804992461a76d55b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "58f62c3706dd902b30894af68514c34a3ea38b843feda6aceb56b709da1d7b54",
+              "range": [
+                0,
+                487
+              ]
+            }
+          ]
+        },
+        "content": "2.1 Beratungsbedarfe Eine Befragung von Studienberatenden mit unterschiedlichen Funktionen (zentrale Studienberatung, Studienfachberatung, Studiengangkoordinieren- de) und unterschiedlicher organisationaler Verankerung (Zentrale Allgemeine Studienberatung, Studienberatung auf Fachbereichsebene, Studienberatung auf Ebene der Studienprogramme) zeigt, dass bei der Artikulation der Bera- tungsbedarfe Besonderheiten in der Gruppe der nicht-traditionell Studienin- teressierten vorliegen. Diese Besonderheiten lassen sich in zwei Kategorien unterteilen. In der Kategorie der zielgruppenübergreifenden Beratungsfelder konnten Themenfelder identifiziert werden, in denen sowohl von traditionell als auch von nicht-traditionell Studieninteressierten Beratungsbedarfe arti- kuliert wurden: Dies betrifft die Felder Studienwahl, Passung, Bewerbung, Zulassung, Anrechnung und Finanzierung. Bei genauerer Betrachtung dieser Themenfelder werden jedoch zielgruppenspezifische Ausprägungen deutlich. Abbildung 2 "
+      }
+    ]
+  }
+]

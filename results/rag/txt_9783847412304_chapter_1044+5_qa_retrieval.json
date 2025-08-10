@@ -1,0 +1,618 @@
+[
+  {
+    "filename": "9783847412304_chapter_1044+5.txt",
+    "question": "Welche beiden zentralen Fragestellungen stehen im Fokus der Untersuchung zum Frühwarnsystem an der TU Dresden?",
+    "answer": "Die beiden zentralen Fragestellungen, die im Fokus der Untersuchung zum Frühwarnsystem an der TU Dresden stehen, sind:\n\n1. Welche Probleme haben Studierende während des Studiums?\n2. Wie gehen Studierende mit Schwierigkeiten im Studium um?\n\nDiese Fragestellungen werden im Kontext der Etablierung eines Frühwarnsystems an der TU Dresden bearbeitet, das Teil des Studienerfolgskonzepts der TU Dresden ist. Die Untersuchung zielt darauf ab, die zugrunde liegenden Probleme und die Strategien der Studierenden zu verstehen, um ein wirksames Frühwarnsystem zu entwickeln.",
+    "expected": "Die beiden zentralen Fragestellungen sind: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um?",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b0b34027de12489d3dd3770c8119da0605db201209001fe9ef54637115627d3f",
+        "score": 0.9977561831474304,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "4. Fragestellung Auf Grundlage dieser theoretischen Zugänge zu Ursachen von Schwierigkei- ten und Handlungsmöglichkeiten der Studierenden sind zwei Fragen zentral für die Etablierung eines Frühwarnsystems: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um? Im Folgenden geht es um die an der TU Dresden beschrittenen methodischen Wege, diese Fragen zu beantworten. 5. Methode 5.1 Kontext: Das Frühwarnsystem an der TU Dresden Das Frühwarnsystem „Partnerschaft · Studienerfolg · TU Dresden“ (kurz: PASST?!)2 ist Teil des Studienerfolgskonzepts der TU Dresden und wird ko- operativ von der Zentralen Studienberatung und dem Zentrum für Qualitäts- analyse koordiniert. Aus seinen drei zentralen Aufgabenbereichen (Abbildung 1) resultieren die unterschiedlichen Zugänge zu den für das Frühwarnsystem grundlegenden Informationen. Für das Frühwarnsystem wurden aufbauend auf den Erfahrungen der Zent- ralen Studienberatung der TU Dresden "
+      },
+      {
+        "rank": 2,
+        "id": "3e9a644f5d21c99740262864c9a46ba344f28ccaaaa5abf91b1ab77387774196",
+        "score": 0.9953908920288086,
+        "meta": {
+          "file_path": "9783847412304_chapter_1042.txt",
+          "source_id": "ad5050796989f7a2c7f2eb3f1e111897805bdf7de85748cab6aff51826b24922",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1178,
+          "_split_overlap": [
+            {
+              "doc_id": "236ea72440add4ceac68f0ac06f8892105d38229af0ed48029aa36f36244e507",
+              "range": [
+                1178,
+                1540
+              ]
+            }
+          ]
+        },
+        "content": "wer- den. Das soll die Möglichkeit schaffen, rechtzeitig geeignete Maßnahmen zur „Umgehung, Abwehr oder Minderung der signalisierten Gefährdung ergrei- fen zu können“ (ebd.: 4). In Deutschland werden derzeit an einigen Hoch- schulen Frühwarnsysteme erprobt (TU Dresden 2017; BMBF 2016). Für die Etablierung eines Frühwarnsystems ist es zentral zu wissen, welche Probleme Studierende an Hochschulen haben und wie sie mit diesen Schwierigkeiten umgehen."
+      },
+      {
+        "rank": 3,
+        "id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+        "score": 0.9597315192222595,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "7. Zusammenführung und Diskussion der Ergebnisse Forschungsfrage 1: Welche Probleme haben Studierende während des Studiums? Die dargestellten Ergebnisse zeigen, dass die Gründe für Schwierigkeiten im Studium an der TU Dresden sowohl auf der studienstrukturellen als auch auf der persönlichen Seite gelagert sind. Insofern unterscheiden sich die hier gewonnenen Erkenntnisse nicht merklich von bundesweiten Studien (etwa Heublein et al. 2017), was im Vorfeld zum Aufbau eines Frühwarnsystems aber nicht einfach angenommen werden konnte (Stichwort: ökologischer Fehlschluss). Insgesamt lässt sich beobachten, dass Gedanken an einen Studienabbruch im hier definierten Sinne von einem Faktorenbündel beeinflusst werden. Dies stellt Institutionen, die intervenierend tätig sein wollen, vor komplexe Herausforderungen. Forschungsfrage 2: Wie gehen Studierende mit Schwierigkeiten im Studium um? Die quantitative Befragung und auch die qualitativen Interviews zeigen, dass sich die Studierenden der TU Dresd"
+      },
+      {
+        "rank": 4,
+        "id": "88e29e2d5b2751111eacdf3a30bd9f4d6d20b02e06447c4bcf7129b1bd7e955b",
+        "score": 0.9500100612640381,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6636,
+          "_split_overlap": [
+            {
+              "doc_id": "2294a90cc885b15e9dc544b53d07514e16589e7a34900ab9caaf8c79d65733ce",
+              "range": [
+                1068,
+                1483
+              ]
+            },
+            {
+              "doc_id": "15810ef9646f282c8fc29283c25457c1bdc26cee604a91db13be2cb1ea5cc98a",
+              "range": [
+                0,
+                419
+              ]
+            }
+          ]
+        },
+        "content": "befindet sich demnach in einem Spannungsfeld zwischen einer fach­ lich begründeten zentralen Verortung und einer zielgruppenorientierten regionalen Differenzierung. Von besonderem Interesse ist, dass mit der rechtlichen Verankerung der Finanzierung in den Interviews nicht nur Handlungssicherheit und Kontinuität verbunden wird, sondern auch eine Form der gesellschaftlichen Anerkennung und Wertschätzung der Bera­ tungsstellen und der involvierten Personen. »[D]as ist dann auch schon so ein politisches Signal, dass da auch wirklich der Wille da ist, dass es das gibt. Und dass dadurch nicht nur die Personen was haben, die beraten werden, sondern halt die Gesellschaft auch, weil ja einfach Stellen dann besetzt werden können und die Personen ja dann auch Steuern zahlen, wenn sie in ihrem Beruf arbeiten können. Also da haben ja eigentlich alle was davon, und dieser Blickwinkel soll einfach noch mehr da sein. Das wird oft immer eher so individuell defizitär gesehen« (G/DE, Z. 608-616). Hier wi"
+      },
+      {
+        "rank": 5,
+        "id": "b2618c4c2615bb570be90b6929eb3d19dd870b8555bf6d8bd0667c0b3722020c",
+        "score": 0.9183964133262634,
+        "meta": {
+          "file_path": "9783847412304_chapter_102.txt",
+          "source_id": "b7829b287b3720c67e566249489499b9b3bf0fd979ee5ca2939b0a846e4224e8",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1257,
+          "_split_overlap": [
+            {
+              "doc_id": "e3873be21dfbc7914cd9d347720ae8fc672fe7ebfa61a68ffa504369cd9da40c",
+              "range": [
+                1257,
+                1635
+              ]
+            }
+          ]
+        },
+        "content": "Begleitung der Freiwilligen eine Rolle spielt, ist die übergeordnete Fragestellung eines Dissertationsprojektes an der WWU Münster. Es exis- tiert allerdings ein großes Forschungsdesiderat zum Thema Beratung in der Außerschulischen Jugendbildung (AJB) allgemein und speziell in ihrem Handlungsfeld des FSJ. Der bald 15 Jahre alte von Ziemons (2004) konsta- tierte (Miss-)Stand, dass es grundlegend an einem Verständnis von Anlässen, Funktion und Wirkung von Beratung in der AJB fehle, hat bis heute nicht an Aktualität eingebüßt. Im Rahmen des vorliegenden Beitrags wird die Frage nach Beratungs- anlässen bzw. -themen fokussiert, die die Bildungsreferent*innen bei den Teilnehmenden im FSJ wahrnehmen. Dafür wird im Folgenden ein kurzer Überblick sowohl über das FSJ als Handlungsfeld der AJB (1) als auch über Beratung als pädagogische Handlungsform (2) gegeben und das methodische Vorgehen der Studie skizziert (3). Im Mittelpunkt des Beitrags steht die Dar- stellung ausgewählter Forschungsbefund"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1044+5.txt",
+    "question": "Welche fünf Identifizierungsmerkmale wurden für das Frühwarnsystem an der TU Dresden festgelegt, und auf welchen Grundlagen basieren sie?",
+    "answer": "Die fünf Identifizierungsmerkmale für das Frühwarnsystem an der TU Dresden wurden auf Grundlage der Erfahrungen der Zentralen Studienberatung der TU Dresden und der Forschungslage festgelegt. Die genauen Details sind in Schulze-Stocker et al. (2017) zu finden. Ich kann jedoch folgende fünf Identifizierungsmerkmale nennen: 1. 2. 3. 4. 5. Ich kann diese Informationen leider nicht finden. Die Details zu den fünf Identifizierungsmerkmalen sind in Schulze-Stocker et al. (2017) zu finden, aber ich kann sie hier nicht auflisten. Ich kann Ihnen jedoch mitteilen, dass die Identifizierungsmerkmale auf Grundlage der Erfahrungen der Zentralen Studienberatung der TU Dresden und der Forschungslage festgelegt wurden. Die genauen Details sind in Schulze-Stocker et al. (2017) zu finden. Ich kann keine spezifischen Informationen über die fünf Identifizierungsmerkmale finden. Die Details sind in Schulze-Stocker et al. (2017) zu finden. Ich kann die genauen Details zu den fünf Identifizierungsmerkmalen nicht auflisten, aber ich kann Ihnen mitteilen, dass sie auf Grundlage der Erfahrungen der Zentralen Studienberatung der TU Dresden und der Forschungslage festgelegt wurden. Ich kann keine Informationen über die fünf Identifizierungsmerkmale finden. Die Details sind in Schulze-Stocker et al. (2017) zu finden. Ich kann keine spezifischen Informationen über die fünf Identifizierungsmerkmale auflisten. Ich kann Ihnen mitteilen, dass sie auf Grundlage der Erfahrungen der Zentralen Studienberatung der TU Dresden und der Forschungslage festgelegt wurden. Ich kann die genauen Details zu den fünf Identifizierungsmerkmalen nicht finden. Die Details sind in Schulze-Stocker et al. (2017) zu finden. Ich kann keine Informationen über die fünf Identifizierungsmerkmale auflisten. Die Details sind in Schulze-Stocker et al. (2017) zu finden. Ich kann keine spezifischen Informationen über die",
+    "expected": "Es wurden fünf Identifizierungsmerkmale definiert, die den Studienverlauf betreffen und Hinweise auf Probleme geben können. Diese basieren auf den Erfahrungen der Zentralen Studienberatung der TU Dresden sowie auf Forschungsergebnissen von Kolb et al. (2006) und Hörnstein et al. (2016).",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b0b34027de12489d3dd3770c8119da0605db201209001fe9ef54637115627d3f",
+        "score": 0.9881171584129333,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "4. Fragestellung Auf Grundlage dieser theoretischen Zugänge zu Ursachen von Schwierigkei- ten und Handlungsmöglichkeiten der Studierenden sind zwei Fragen zentral für die Etablierung eines Frühwarnsystems: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um? Im Folgenden geht es um die an der TU Dresden beschrittenen methodischen Wege, diese Fragen zu beantworten. 5. Methode 5.1 Kontext: Das Frühwarnsystem an der TU Dresden Das Frühwarnsystem „Partnerschaft · Studienerfolg · TU Dresden“ (kurz: PASST?!)2 ist Teil des Studienerfolgskonzepts der TU Dresden und wird ko- operativ von der Zentralen Studienberatung und dem Zentrum für Qualitäts- analyse koordiniert. Aus seinen drei zentralen Aufgabenbereichen (Abbildung 1) resultieren die unterschiedlichen Zugänge zu den für das Frühwarnsystem grundlegenden Informationen. Für das Frühwarnsystem wurden aufbauend auf den Erfahrungen der Zent- ralen Studienberatung der TU Dresden "
+      },
+      {
+        "rank": 2,
+        "id": "f03984255e9d56a160f46e3db5eef2552b8d61f95bb1e281efa2d3321ce8aff5",
+        "score": 0.8751192688941956,
+        "meta": {
+          "file_path": "9783847412304_chapter_1041.txt",
+          "source_id": "8a10b7834b77f53d2563deaab5db6059247f9af304bb740ee2730940a25d201b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1208,
+          "_split_overlap": [
+            {
+              "doc_id": "155f958eca34bb2b0d464f656fe3c29560683140a7ffa9294b69a5ce4808e7ed",
+              "range": [
+                1208,
+                1556
+              ]
+            }
+          ]
+        },
+        "content": "Dazu gehören vor al- lem sog. Frühwarnsysteme, die an vielen deutschen Hochschulen gegenwärtig im Rahmen von Projekten aufgebaut und getestet werden. Mit ihnen kann der Anspruch verwirklicht werden, „in und mit der Praxis zu experimentieren“ (Schüßler 2016: 24). Für den vorliegenden Beitrag soll das Zusammenspiel von Beratung und Intervention in Frühwarnsystemen am Beispiel der Technischen Universität Dresden (TU Dresden) behandelt werden, wobei die Problemlagen der Stu- dierenden und ihr Umgang mit diesen im Mittelpunkt stehen. Diese sind die Basis für den Aufbau von wirksamen Frühwarnsystemen an Hochschulen. Im Folgenden werden sowohl Rahmenbedingungen von Frühwarnsystemen und ihre theoretischen Grundlagen als auch die Spezifika der methodischen Herangehensweise und die Ergebnisse des Frühwarnsystems der TU Dresden vorgestellt."
+      },
+      {
+        "rank": 3,
+        "id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+        "score": 0.670968234539032,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "7. Zusammenführung und Diskussion der Ergebnisse Forschungsfrage 1: Welche Probleme haben Studierende während des Studiums? Die dargestellten Ergebnisse zeigen, dass die Gründe für Schwierigkeiten im Studium an der TU Dresden sowohl auf der studienstrukturellen als auch auf der persönlichen Seite gelagert sind. Insofern unterscheiden sich die hier gewonnenen Erkenntnisse nicht merklich von bundesweiten Studien (etwa Heublein et al. 2017), was im Vorfeld zum Aufbau eines Frühwarnsystems aber nicht einfach angenommen werden konnte (Stichwort: ökologischer Fehlschluss). Insgesamt lässt sich beobachten, dass Gedanken an einen Studienabbruch im hier definierten Sinne von einem Faktorenbündel beeinflusst werden. Dies stellt Institutionen, die intervenierend tätig sein wollen, vor komplexe Herausforderungen. Forschungsfrage 2: Wie gehen Studierende mit Schwierigkeiten im Studium um? Die quantitative Befragung und auch die qualitativen Interviews zeigen, dass sich die Studierenden der TU Dresd"
+      },
+      {
+        "rank": 4,
+        "id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+        "score": 0.5230978727340698,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1143,
+          "_split_overlap": [
+            {
+              "doc_id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+              "range": [
+                1143,
+                1509
+              ]
+            },
+            {
+              "doc_id": "18a043736ca5d76fc862ae8016e89b593c5d6a832dcfc39fd1c818d506ab78ce",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Reihenfolge dies geschieht, kann mit den bisher erhobenen Daten noch nicht geklärt werden. Das betrifft auch die Bedeutung der Loyalität, also der Bindung an die TU Dresden als Institution und den gewählten Studiengang. Im Detail zeigt sich die Unzufriedenheit bezüglich der Studieninhalte, -bedingungen, -leistungen und -anforderungen und des Informationsstands zu Beginn des Studiums sowie bei psychischen Belastun- gen und der Vereinbarkeit von Studium, Beruf, Familie und sozialem Umfeld. Die Studienabbruchgedanken oder auch das Recherchieren nach Alternativen zeugen von einer Vorstufe der Exit-Strategie, wohingegen die Inanspruchnah- me von Beratung, das Beschweren, die Teilnahme am Frühwarnsystem, die Gründung von Lerngruppen und das Anzeigen von Unterstützungsbedarfen für Voice stehen (Abbildung 2). Frühwarnsysteme als verwaltungstechnische Eingriffe in das Studium füh- ren nicht nur zu intendierten Reaktionen, die den Studienabbruch verhindern sollen, sondern – wie fast immer bei ra"
+      },
+      {
+        "rank": 5,
+        "id": "f72105c963200eac8fe287014f9beb72fc8ac5f4e79fd509c79bcc215e2c27ff",
+        "score": 0.3574938178062439,
+        "meta": {
+          "file_path": "9783847412304_chapter_1048.txt",
+          "source_id": "0cf15bdeab9f2129e11e7332ddd430241e805b2eaeddcc0e40d5f96c7d3549d4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "abaca7f7418e8dd209171f2148028bc56fcd859ba7708e259d3d6b6a7da7ad8b",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "8. Fazit & Ausblick Im Namen des Programms „Partnerschaft · Studienerfolg · TU Dresden“ spiegelt sich Beratung als „fachkundige Partnerschaft auf Zeit“ (Hoff/Zwi- cker-Pelzer 2015: 16) wider, die durch Identifizierung und wissenschaftliche Begleitung ergänzt wird. Im Zuge der Professionalisierung von Beratung bieten Frühwarnsysteme wichtige Unterstützungsleistungen für die Beratung an, wenn es darum geht, Studierende mit Problemlagen zu erreichen. Dies geschieht jedoch nicht im Sinne einer ‚Klientifizierung‘ oder als ‚Erfüllungs- gehilfen‘ im Rahmen von Ökonomisierungstendenzen, wie etwa von Wilhelm (2017) befürchtet, sondern auf freiwilliger Basis und mit der Akzeptanz, dass individuelle Bildungswege auch abseits des ‚objektiven‘ Studienerfolgs mög- lich und nötig sind. Da die Erprobung des Programms erst 2020 endet, sind die Antworten auf die gestellten Fragen nach Problemen der Studierenden und deren Umgang vorläufig und weiter offen für Experimente mit der Praxis (Schüßler 2016). G"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1044+5.txt",
+    "question": "Wie funktioniert die Benachrichtigung der Studierenden im Frühwarnsystem PASST?! und welche Rolle spielt die Freiwilligkeit bei der Teilnahme?",
+    "answer": "Freiwillig Teilnehmende (rund 5.800 = 17% der TU-Studierenden; Stand: 01.07.2018) bekommen immer dann eine E-Mail, wenn eines oder mehrere Merkmale auf sie zutreffen. Diese enthält Empfeh- lungen zu individuell zugeschnittenen (PASST?!-)Beratungs- und Unterstüt- zungsangeboten. Die Teilnahme an diesen ist ebenfalls freiwillig.",
+    "expected": "Studierende, auf die eines oder mehrere der fünf Identifizierungsmerkmale zutreffen, erhalten eine E-Mail mit Empfehlungen zu individuell zugeschnittenen Beratungs- und Unterstützungsangeboten. Sowohl die Teilnahme am Frühwarnsystem als auch an den Beratungsangeboten ist freiwillig.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b0b34027de12489d3dd3770c8119da0605db201209001fe9ef54637115627d3f",
+        "score": 0.9735175371170044,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "4. Fragestellung Auf Grundlage dieser theoretischen Zugänge zu Ursachen von Schwierigkei- ten und Handlungsmöglichkeiten der Studierenden sind zwei Fragen zentral für die Etablierung eines Frühwarnsystems: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um? Im Folgenden geht es um die an der TU Dresden beschrittenen methodischen Wege, diese Fragen zu beantworten. 5. Methode 5.1 Kontext: Das Frühwarnsystem an der TU Dresden Das Frühwarnsystem „Partnerschaft · Studienerfolg · TU Dresden“ (kurz: PASST?!)2 ist Teil des Studienerfolgskonzepts der TU Dresden und wird ko- operativ von der Zentralen Studienberatung und dem Zentrum für Qualitäts- analyse koordiniert. Aus seinen drei zentralen Aufgabenbereichen (Abbildung 1) resultieren die unterschiedlichen Zugänge zu den für das Frühwarnsystem grundlegenden Informationen. Für das Frühwarnsystem wurden aufbauend auf den Erfahrungen der Zent- ralen Studienberatung der TU Dresden "
+      },
+      {
+        "rank": 2,
+        "id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+        "score": 0.9708105325698853,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1110,
+          "_split_overlap": [
+            {
+              "doc_id": "b0b34027de12489d3dd3770c8119da0605db201209001fe9ef54637115627d3f",
+              "range": [
+                1110,
+                1504
+              ]
+            },
+            {
+              "doc_id": "3032c56ae24799bec7f555d8e026e2bc6dfc06517a9cc839b9372437088ff3e5",
+              "range": [
+                0,
+                398
+              ]
+            }
+          ]
+        },
+        "content": "die den Studienverlauf betreffen und Hinweise auf Probleme sein können (Details: Schulze-Stocker et al. 2017). Freiwillig Teilnehmende (rund 5.800 = 17% der TU-Studierenden; Stand: 01.07.2018) bekommen immer dann eine E-Mail, wenn eines oder mehrere Merkmale auf sie zutreffen. Diese enthält Empfeh- lungen zu individuell zugeschnittenen (PASST?!-)Beratungs- und Unterstüt- zungsangeboten. Die Teilnahme an diesen ist ebenfalls freiwillig. Um die Brauchbarkeit der Identifizierungsmerkmale zu prüfen und In- formationen zu den TU-spezifischen Problemlagen (Schwerpunkt: studiens- trukturelle Aspekte und Studienverlauf) zu erhalten, wurde eine quantitative Befragung TU-Studierender durchgeführt. Anschließend fokussierten quali- tative Interviews (persönliche) Hintergründe für Schwierigkeiten der Studie- renden und ihre Bewältigungsstrategien. Aktuell wird das Frühwarnsystem evaluiert. Zudem sollen zukünftig die gewonnenen Daten in das Qualitätsmanagementsystem der TU Dresden einfließen. 5.2 An"
+      },
+      {
+        "rank": 3,
+        "id": "c591e06932eef10a91a60e9c6053fffc36811df14bc50ebcf7d2bd1b648c8f55",
+        "score": 0.9558113813400269,
+        "meta": {
+          "file_path": "9783847412304_chapter_08131.txt",
+          "source_id": "f438d52497ab6d7c121873e3e24524e3a7dba083431703ced74f0ce65670c566",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1339,
+          "_split_overlap": [
+            {
+              "doc_id": "df66b3f92c4f89cd7b3a0cf487e2d47b4f457cf8b121fb5d120eb14880be5c7d",
+              "range": [
+                1339,
+                1753
+              ]
+            },
+            {
+              "doc_id": "d24960674b5acef7ddd8919e0bef418036e08b5557c5c4dba5707c5446fec5de",
+              "range": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        "content": "Voraussetzungen mit, um da teilnehmen zu können?“ (Studiengangkoordinie- rende 1, Abs. 13). Als ebenso wichtig werden studienorganisatorische Aspekte wie „Zeitpläne und Fehlzeiten“ (Studiengangkoordinierende 7, Abs. 4), aber auch die zeitliche Vereinbarkeit des Studiums mit bestehenden Verpflichtun- gen sowie spezifische Inhaltsfragen benannt. Die kommunikative Bearbei- tung der Studienwahl spielt daher in der Beratung ebenfalls eine große Rolle. Einen weiteren hohen Beratungsbedarf stellt die Finanzierung des weiter- bildenden Studienprogramms dar. Hier spielen sowohl die hohen Kosten als auch generelle Fragen zur Finanzierung, Kostenübernahme, Stipendien und steuerlicher Absetzbarkeit eine besondere Rolle; grundsätzlich also „Fragen rund um Weiterbildungsfinanzierung“ (Studiengangkoordinierende 1, Abs. 13). Weniger häufig wurde von den Studiengangkoordinierenden benannt, dass diese die Studieninteressierten auf deren Passung hin beraten. Lediglich zwei Koordinierende gaben an, dass s"
+      },
+      {
+        "rank": 4,
+        "id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+        "score": 0.8658351898193359,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1143,
+          "_split_overlap": [
+            {
+              "doc_id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+              "range": [
+                1143,
+                1509
+              ]
+            },
+            {
+              "doc_id": "18a043736ca5d76fc862ae8016e89b593c5d6a832dcfc39fd1c818d506ab78ce",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Reihenfolge dies geschieht, kann mit den bisher erhobenen Daten noch nicht geklärt werden. Das betrifft auch die Bedeutung der Loyalität, also der Bindung an die TU Dresden als Institution und den gewählten Studiengang. Im Detail zeigt sich die Unzufriedenheit bezüglich der Studieninhalte, -bedingungen, -leistungen und -anforderungen und des Informationsstands zu Beginn des Studiums sowie bei psychischen Belastun- gen und der Vereinbarkeit von Studium, Beruf, Familie und sozialem Umfeld. Die Studienabbruchgedanken oder auch das Recherchieren nach Alternativen zeugen von einer Vorstufe der Exit-Strategie, wohingegen die Inanspruchnah- me von Beratung, das Beschweren, die Teilnahme am Frühwarnsystem, die Gründung von Lerngruppen und das Anzeigen von Unterstützungsbedarfen für Voice stehen (Abbildung 2). Frühwarnsysteme als verwaltungstechnische Eingriffe in das Studium füh- ren nicht nur zu intendierten Reaktionen, die den Studienabbruch verhindern sollen, sondern – wie fast immer bei ra"
+      },
+      {
+        "rank": 5,
+        "id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+        "score": 0.8060159683227539,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+              "range": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        "content": "7. Zusammenführung und Diskussion der Ergebnisse Forschungsfrage 1: Welche Probleme haben Studierende während des Studiums? Die dargestellten Ergebnisse zeigen, dass die Gründe für Schwierigkeiten im Studium an der TU Dresden sowohl auf der studienstrukturellen als auch auf der persönlichen Seite gelagert sind. Insofern unterscheiden sich die hier gewonnenen Erkenntnisse nicht merklich von bundesweiten Studien (etwa Heublein et al. 2017), was im Vorfeld zum Aufbau eines Frühwarnsystems aber nicht einfach angenommen werden konnte (Stichwort: ökologischer Fehlschluss). Insgesamt lässt sich beobachten, dass Gedanken an einen Studienabbruch im hier definierten Sinne von einem Faktorenbündel beeinflusst werden. Dies stellt Institutionen, die intervenierend tätig sein wollen, vor komplexe Herausforderungen. Forschungsfrage 2: Wie gehen Studierende mit Schwierigkeiten im Studium um? Die quantitative Befragung und auch die qualitativen Interviews zeigen, dass sich die Studierenden der TU Dresd"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1044+5.txt",
+    "question": "Warum wurde neben der quantitativen Befragung auch eine qualitative Interviewphase durchgeführt, und wie trägt diese Methode zur Untersuchung bei?",
+    "answer": "Die qualitative Interviewphase wurde neben der quantitativen Befragung durchgeführt, um ein differenzierteres Verständnis der Anerkennungsberatung und ihrer Praxis zu erlangen. Die qualitative Methode ermöglicht es, die Erfahrungen und Perspektiven der Interviewpartner_innen in ihren eigenen Worten zu schildern und bietet somit eine tiefergehende Einblick in die Komplexität der Anerkennungsberatung. Durch die qualitative Interviewphase konnten die unterschiedlichen Sichtweisen und Perspektiven auf die Aufgabenfelder in den Interviews analysiert werden, was zu einem umfassenderen Verständnis der Anerkennungsberatung beiträgt. Die qualitative Methode ermöglicht es auch, die subjektiven Erfahrungen und Einstellungen der Interviewpartner_innen zu erfassen, was für die Entwicklung von Empfehlungen und Strategien zur Verbesserung der Anerkennungsberatung von wesentlicher Bedeutung ist. Insgesamt trägt die qualitative Interviewphase dazu bei, die Ergebnisse der Untersuchung zu validieren und zu verifizieren, indem sie die subjektiven Erfahrungen und Perspektiven der Interviewpartner_innen in die Analyse einbezieht.",
+    "expected": "Die qualitativen Interviews sollten persönliche Hintergründe für Schwierigkeiten der Studierenden und ihre Bewältigungsstrategien näher beleuchten. Diese Methode ergänzt die quantitative Befragung, indem sie tiefere Einsichten in individuelle Erfahrungen und Handlungsweisen ermöglicht und so ein umfassenderes Bild der Problemlagen liefert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8b71434888c34edf08ac7a17cb331a93ea82e558a852e38d9006e633de241261",
+        "score": 0.8953230977058411,
+        "meta": {
+          "file_path": "9783839444856_chapter_0711.txt",
+          "source_id": "936fbd64201246b7cfdf71613df17f180f4f67925dbc86ebd629864c4d277826",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8749cb573fb1c474603ca9f5f37227b686286933b116523bc7ee631e6a615f5b",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "5.1.1 Informationen zu den Interviewpartner_innen In den Interviews wurde zu Beginn nach den individuellen Berufsbiogra­ fien gefragt. Die Formulierungen des Interviewleitfadens beziehen sich hier auf die aktuelle berufliche Position, den formalen Ausbildungsweg, Berufs­ erfahrungen, den individuellen beruflichen Einstieg in die Anerkennungs­ beratung und Teilnahmen an spezifischen Weiterbildungen. Entsprechend den formulierten Fragen wurden von den Interviewpartner_innen in den Darstellungen der Berufsbiografien unterschiedliche Schwerpunkte gesetzt und Auslassungen vorgenommen. Um die Antworten vergleichbar zu halten, wurden im Verlauf des Interviews gezielt zusätzliche Informationen nach­ gefragt. Die Ergebnisse werden zunächst übergreifend für alle Interview­ partner_innen dargestellt. Ausgewählte Zitate ergänzen die Beschreibun­ gen. Eine Gesamtübersicht der beruflichen Positionen, Qualifikationen und biografischen Erfahrungen mit der Anerkennung im Ausland erworbener Qualifikatio"
+      },
+      {
+        "rank": 2,
+        "id": "f0eac85e6cf47e09e760bf2dd8f3011ad79faf66d645d4afd246acdd4f35afe0",
+        "score": 0.8563705086708069,
+        "meta": {
+          "file_path": "9783839444856_chapter_071.txt",
+          "source_id": "2ae70dfb8557bb79ff5337572c88a96ee4c95c8e617975a9a1cb7c40f2ed2272",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.1 Beschreibung der Interviewpartner_innen und der Beratungsstellen Der erste Teil des Interviewleitfadens zielte auf die Erhebung der berufsbio­ grafischen Daten der Interviewpartner_innen, der Qualifikationen im Team und der Ausgestaltung der Beratungsstellen ab. Neben der Erhebung der Qualifikationen und Kompetenzen der interviewten Expert_innen gewähr­ te dies auch einen Einblick in die Teamzusammensetzung und die Konzep­ tion des Beratungsangebotes. Die Informationen zu den Beratungsstellen wurden zudem durch systematische Beobachtungen während der Besuche ergänzt. Dabei ist zu berücksichtigen, dass durch die Interviews vor Ort nur Informationen zu der Berufsbiografie und der Beratungsstelle gewonnen werden konnten, die explizit nachgefragt bzw. durch die Interviewpartner_ innen eingebracht wurden oder durch Beobachtungen zum Zeitpunkt des Besuchs zugänglich waren. Die nachfolgende Beschreibung der Interview­ partner_innen wie auch der Beratungsstellen findet damit bereits aus de"
+      },
+      {
+        "rank": 3,
+        "id": "0f4d549abb04016252c10f48dc998bbcf0e0ef32f6cc3dbf07f1ffa962c3192c",
+        "score": 0.6674896478652954,
+        "meta": {
+          "file_path": "9783839444856_chapter_042.txt",
+          "source_id": "65414aa1d80825662f85bd1a867cb5f903ff3216cd14a3f246e909eddd9d9eb1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "ff277900abc476c09b717a123c811ca07da8e8911f5db7437bfd0a571286065b",
+              "range": [
+                0,
+                321
+              ]
+            }
+          ]
+        },
+        "content": "2.2 Forschungsfokus Die Darstellung des Forschungsstandes macht deutlich, dass das Thema der formalen Anerkennung im Ausland erworbener Qualifikationen bisher vor allem in Bezug auf die berufliche Integration von höher qualifizierten Mig­ rant_innen untersucht wurde. Im Mittelpunkt stehen dabei die rechtlichen Rahmenbedingungen und die Auswirkungen auf den inländischen Arbeits­ markt vor allem auch hinsichtlich des sogenannten Fachkräftemangels. Auf der Grundlage von qualitativen Interviews werden zudem die eingeschränk­ ten Handlungsmöglichkeiten von betroffenen Migrant_innen und die dar­ aus resultierenden Handlungsstrategien der Akteur_innen untersucht. Eine Ausnahme bildet die Studie von Sommer (vgl. 2015), die den Fokus auf die Anerkennungspraxis in den Anerkennungsstellen legt und den Begriff der formalen Anerkennung in einem weiteren anerkennungstheoretischen Kontext einordnet. Anerkennungsberatung selbst als professionelle Praxis wurde bisher erst ansatzweise untersucht. Einen "
+      },
+      {
+        "rank": 4,
+        "id": "d1f74f83ba937c03e4f36f4f1a3915b88f2d1c8897dcfe9b15e2260946a5be16",
+        "score": 0.6310991644859314,
+        "meta": {
+          "file_path": "9783839444856_chapter_061.txt",
+          "source_id": "33ecd5b7f41f712004ba4c2e840f54516e01bdde55a603df2d1c562825fd3103",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f0f0bbadb5715c2063a3e1703ba4086d3f99f98731242de13c34c7af2405efbf",
+              "range": [
+                0,
+                393
+              ]
+            }
+          ]
+        },
+        "content": "4.1 Das Verhältnis von theoretischem Vorwissen und Expert_innenwissen Insbesondere in der qualitativen Forschungstradition zeigt sich eine kont­ roverse Diskussion zum Stellenwert von theoretischem Vorwissen im For­ schungsprozess. Lamnek (2010, S. 19) führt in Abgrenzung zur quantitativen Sozialforschung grundlegende Prinzipien aus, welche zu einer »Program­ matik qualitativer Sozialforschung« zusammengefasst werden können. Ein qualitativ orientierter Forschungszugang erfordert demnach eine offene Grundhaltung gegenüber den Untersuchungspersonen, der Untersuchungs­ situation und den zu verwendenden Methoden. Im Unterschied zu den stark standardisierten Erhebungsmethoden in der quantitativen Forschung wird damit die explorative Funktion des Forschungszugangs betont. Der Beginn des Forschungsprozesses ist durch einen möglichst weiten und offenen Blickwinkel bestimmt, der im Verlauf des Forschungsprozesses durch den kontinuierlichen Einbezug der gewonnenen Erkenntnisse in das Erhebungs­ "
+      },
+      {
+        "rank": 5,
+        "id": "831427b9f3053eaa75f0b433f8b21fb42ad34a8fa5c600fd7899c0febfdf4b50",
+        "score": 0.4419900178909302,
+        "meta": {
+          "file_path": "9783839444856_chapter_0722.txt",
+          "source_id": "ac9895b2c4c3109a0b052b79ad1620931d92bee84bdff5d4a0db89b357d8c5e5",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "5.2.2 Berufliches Selbstverständnis Die Beschreibung der Aufgabengebiete macht deutlich, dass der für die Beratung zentrale Begriff der Anerkennung auf sehr differenzierte Weise wahrgenommen und mit unterschiedlichen Schwerpunktsetzungen bei den Aufgaben verbunden wird. Im zweiten Schritt stehen daher die verschiede­ nen Sichtweisen der Interviewpartner_innen im Fokus der Analyse. Es wird untersucht, welche Perspektiven auf die Aufgabenfelder in den Interviews deutlich werden und wie die Aufgabenumsetzung entsprechend gestaltet wird. Während das vielfältige Aufgabenspektrum bisher interviewüber­ greifend zusammengestellt wurde, werden nachfolgend thematisch ähn­ liche Textpassagen aus den verschiedenen Interviews vergleichend neben­ einandergestellt, um unterschiedliche Perspektiven und Positionierungen sichtbar zu machen. Dieser interpretative Zugang bezieht sich zunächst auf die Definitionen und Selbstbeschreibungen von Anerkennungsberatung, die in den Interviews vorgenommen werden. "
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1044+5.txt",
+    "question": "Wie kann die Integration der Daten aus dem Frühwarnsystem in das Qualitätsmanagementsystem der TU Dresden zur Verbesserung des Studienerfolgs beitragen?",
+    "answer": "Es kann nicht in der bereitgestellten Kontext gefunden werden. \n        I cannot find the answer in the provided context.",
+    "expected": "Die Integration ermöglicht eine systematische Auswertung und Nutzung der gewonnenen Informationen zur Identifikation von Problemlagen und zur Optimierung von Unterstützungsangeboten. Dadurch können gezielte Maßnahmen entwickelt und umgesetzt werden, die den Studienerfolg verbessern und frühzeitig auf Schwierigkeiten reagieren.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "f03984255e9d56a160f46e3db5eef2552b8d61f95bb1e281efa2d3321ce8aff5",
+        "score": 0.9898101091384888,
+        "meta": {
+          "file_path": "9783847412304_chapter_1041.txt",
+          "source_id": "8a10b7834b77f53d2563deaab5db6059247f9af304bb740ee2730940a25d201b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1208,
+          "_split_overlap": [
+            {
+              "doc_id": "155f958eca34bb2b0d464f656fe3c29560683140a7ffa9294b69a5ce4808e7ed",
+              "range": [
+                1208,
+                1556
+              ]
+            }
+          ]
+        },
+        "content": "Dazu gehören vor al- lem sog. Frühwarnsysteme, die an vielen deutschen Hochschulen gegenwärtig im Rahmen von Projekten aufgebaut und getestet werden. Mit ihnen kann der Anspruch verwirklicht werden, „in und mit der Praxis zu experimentieren“ (Schüßler 2016: 24). Für den vorliegenden Beitrag soll das Zusammenspiel von Beratung und Intervention in Frühwarnsystemen am Beispiel der Technischen Universität Dresden (TU Dresden) behandelt werden, wobei die Problemlagen der Stu- dierenden und ihr Umgang mit diesen im Mittelpunkt stehen. Diese sind die Basis für den Aufbau von wirksamen Frühwarnsystemen an Hochschulen. Im Folgenden werden sowohl Rahmenbedingungen von Frühwarnsystemen und ihre theoretischen Grundlagen als auch die Spezifika der methodischen Herangehensweise und die Ergebnisse des Frühwarnsystems der TU Dresden vorgestellt."
+      },
+      {
+        "rank": 2,
+        "id": "81252b0d2fbc277f829180081a03bfbcf992db048d9250f7119d4e3f96dc15b5",
+        "score": 0.9875485897064209,
+        "meta": {
+          "file_path": "9783847412304_chapter_1047.txt",
+          "source_id": "cb34077506474fb6dfa4133b7cfe1ae263d863d5cedeabf023e40b31261169be",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1143,
+          "_split_overlap": [
+            {
+              "doc_id": "787deed8ca55cb6b4fb6e16d070f8b3b3aa801cda82d7fc78222353c75888c8d",
+              "range": [
+                1143,
+                1509
+              ]
+            },
+            {
+              "doc_id": "18a043736ca5d76fc862ae8016e89b593c5d6a832dcfc39fd1c818d506ab78ce",
+              "range": [
+                0,
+                386
+              ]
+            }
+          ]
+        },
+        "content": "Reihenfolge dies geschieht, kann mit den bisher erhobenen Daten noch nicht geklärt werden. Das betrifft auch die Bedeutung der Loyalität, also der Bindung an die TU Dresden als Institution und den gewählten Studiengang. Im Detail zeigt sich die Unzufriedenheit bezüglich der Studieninhalte, -bedingungen, -leistungen und -anforderungen und des Informationsstands zu Beginn des Studiums sowie bei psychischen Belastun- gen und der Vereinbarkeit von Studium, Beruf, Familie und sozialem Umfeld. Die Studienabbruchgedanken oder auch das Recherchieren nach Alternativen zeugen von einer Vorstufe der Exit-Strategie, wohingegen die Inanspruchnah- me von Beratung, das Beschweren, die Teilnahme am Frühwarnsystem, die Gründung von Lerngruppen und das Anzeigen von Unterstützungsbedarfen für Voice stehen (Abbildung 2). Frühwarnsysteme als verwaltungstechnische Eingriffe in das Studium füh- ren nicht nur zu intendierten Reaktionen, die den Studienabbruch verhindern sollen, sondern – wie fast immer bei ra"
+      },
+      {
+        "rank": 3,
+        "id": "b0b34027de12489d3dd3770c8119da0605db201209001fe9ef54637115627d3f",
+        "score": 0.9627435803413391,
+        "meta": {
+          "file_path": "9783847412304_chapter_1044+5.txt",
+          "source_id": "7f00142eae726d632093fefe11a6bac52fbe2181ec87731b8a3837d5beb23f96",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "de27e11f90cf3cc35acaf305b9c12a8d00a8e031a70512fbbcab5d01512c3c04",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "4. Fragestellung Auf Grundlage dieser theoretischen Zugänge zu Ursachen von Schwierigkei- ten und Handlungsmöglichkeiten der Studierenden sind zwei Fragen zentral für die Etablierung eines Frühwarnsystems: 1. Welche Probleme haben Studierende während des Studiums? 2. Wie gehen Studierende mit Schwierigkeiten im Studium um? Im Folgenden geht es um die an der TU Dresden beschrittenen methodischen Wege, diese Fragen zu beantworten. 5. Methode 5.1 Kontext: Das Frühwarnsystem an der TU Dresden Das Frühwarnsystem „Partnerschaft · Studienerfolg · TU Dresden“ (kurz: PASST?!)2 ist Teil des Studienerfolgskonzepts der TU Dresden und wird ko- operativ von der Zentralen Studienberatung und dem Zentrum für Qualitäts- analyse koordiniert. Aus seinen drei zentralen Aufgabenbereichen (Abbildung 1) resultieren die unterschiedlichen Zugänge zu den für das Frühwarnsystem grundlegenden Informationen. Für das Frühwarnsystem wurden aufbauend auf den Erfahrungen der Zent- ralen Studienberatung der TU Dresden "
+      },
+      {
+        "rank": 4,
+        "id": "81978cd345a05b5a394eb49480256208050cc8b1c9ec4b4214e8a40001f9e75d",
+        "score": 0.7751624584197998,
+        "meta": {
+          "file_path": "9783839444856_chapter_0733.txt",
+          "source_id": "49b24248a218c8d45f82d86f56205210f88a633f70569e0099f3aebc522a0c69",
+          "page_number": 1,
+          "split_id": 13,
+          "split_idx_start": 14315,
+          "_split_overlap": [
+            {
+              "doc_id": "4227e9f4b72bbd998080f9c1acb4bcafa685c7304345622c58bb8a40fa837b8a",
+              "range": [
+                1136,
+                1512
+              ]
+            }
+          ]
+        },
+        "content": "gesellschaft­ lichen Wahrnehmung übereinstimmt. Die verstärkte Auseinandersetzung mit den Anforderungen der beruflichen Integration führt jedoch auch zu einer Veränderung in dem gesellschaftlichen Stellenwert und der Positio­ nierung der Beratungsstellen. »[D]as spricht sich natürlich rum in Unternehmen, dass es da top Leute gibt, die man da rauskriegt, und das ist, glaube ich, für das Bild unglaublich wich­ tig, weil wir damit irgendwie aus bestimmten Formen der Beratung, unter anderem jetzt eben der Anerkennungsberatung, aus diesem Sozialaspekt rausfallen und auf einmal irgendwie eigentlich in den Wirtschaftsbereich reingehen« (E/DE, Z. 722-727). Von den Interviewpartner_innen wird auf gesellschaftlicher Ebene einer­ seits die fehlende soziale Wertschätzung von formalen Anerkennungen thematisiert und zudem die teilweise geringe Bereitschaft von Arbeitgeber_ innen, im Ausland erworbene Qualifikationen auch anzuerkennen, wenn keine formale Anerkennung vorgesehen und möglich ist. Die ge"
+      },
+      {
+        "rank": 5,
+        "id": "f72105c963200eac8fe287014f9beb72fc8ac5f4e79fd509c79bcc215e2c27ff",
+        "score": 0.7517807483673096,
+        "meta": {
+          "file_path": "9783847412304_chapter_1048.txt",
+          "source_id": "0cf15bdeab9f2129e11e7332ddd430241e805b2eaeddcc0e40d5f96c7d3549d4",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "abaca7f7418e8dd209171f2148028bc56fcd859ba7708e259d3d6b6a7da7ad8b",
+              "range": [
+                0,
+                379
+              ]
+            }
+          ]
+        },
+        "content": "8. Fazit & Ausblick Im Namen des Programms „Partnerschaft · Studienerfolg · TU Dresden“ spiegelt sich Beratung als „fachkundige Partnerschaft auf Zeit“ (Hoff/Zwi- cker-Pelzer 2015: 16) wider, die durch Identifizierung und wissenschaftliche Begleitung ergänzt wird. Im Zuge der Professionalisierung von Beratung bieten Frühwarnsysteme wichtige Unterstützungsleistungen für die Beratung an, wenn es darum geht, Studierende mit Problemlagen zu erreichen. Dies geschieht jedoch nicht im Sinne einer ‚Klientifizierung‘ oder als ‚Erfüllungs- gehilfen‘ im Rahmen von Ökonomisierungstendenzen, wie etwa von Wilhelm (2017) befürchtet, sondern auf freiwilliger Basis und mit der Akzeptanz, dass individuelle Bildungswege auch abseits des ‚objektiven‘ Studienerfolgs mög- lich und nötig sind. Da die Erprobung des Programms erst 2020 endet, sind die Antworten auf die gestellten Fragen nach Problemen der Studierenden und deren Umgang vorläufig und weiter offen für Experimente mit der Praxis (Schüßler 2016). G"
+      }
+    ]
+  }
+]

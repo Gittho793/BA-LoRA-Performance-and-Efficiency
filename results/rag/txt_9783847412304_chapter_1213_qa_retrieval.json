@@ -1,0 +1,711 @@
+[
+  {
+    "filename": "9783847412304_chapter_1213.txt",
+    "question": "Was kritisiert Faulstich am Begriff der \"lernenden Organisation\"?",
+    "answer": "Faulstich kritisiert, dass der Begriff der \"lernenden Organisation\" unterstellt, dass Kriterien der Subjekthaftigkeit sich auch auf Gruppen- und Organisationszusammenhänge anwenden lassen. Er geht davon aus, dass damit ein überindividuelles Subjekt, ein gesellschaftliches Gesamtsubjekt, auf mystische Weise angesprochen wird. Faulstichs Kritik wurzelt in der Sorge, dass mit der \"Subjektivierung\" der Organisation ethische Probleme auftreten könnten. Er ist besorgt, dass bei der Konzeption organisationalen Lernens subjektmenschliche Vorgänge der individuellen Verfügung entzogen und bei der Organisation verortet werden könnten. Faulstichs Kritik wird in dem Kontext gesehen, dass Faulstich in einem Band mit dem Titel \"Menschliches Lernen\" seine Kritik formuliert hat und Illeris, dessen Lernmodell im Folgenden eine zentrale Rolle spielen wird, bezüglich der lernenden Organisation skeptisch ist und mehr die Beschäftigung mit \"Management und Floskeln als mit Lernen\" wahrnimmt. Faulstichs Kritik wurzelt in der Sorge, dass die Konzeption organisationalen Lernens zu einem radikalisierenden Individualismus führen könnte, der im Kontrast zur Vorstellung eines \"vergesellschaftlichten\" Subjekts steht, welches durch seine milieu- oder schichtspezifischen Erfahrungen geprägt und auch in diese Verhältnisse eingebunden ist. Faulstichs Kritik wurzelt auch in der Sorge, dass die Konzeption organisationalen Lernens zu einer marginalisierung des Lernens führen könnte, indem es losgelöst von der Herrschaftskritik und der Kritik bestehender Verhältnisse betrachtet wird. Faulstichs Kritik wurzelt in der Sorge, dass die Konzeption organisationalen Lernens zu einer Entmenschlichung der Organisation führen könnte, indem es subjektmenschliche Vorgänge der individuellen Verfügung entzogen und bei der Organisation verortet werden könnten. Faulstichs Kritik wurzelt in der Sorge, dass",
+    "expected": "Faulstich kritisiert, dass mit dem Begriff unterstellt werde, dass Kriterien der Subjekthaftigkeit auch auf Gruppen- und Organisationszusammenhänge angewendet werden können.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+        "score": 0.9990643858909607,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Lernen: Organisationales Lernen Hinsichtlich des Begriffs „lernende Organisation“ ist die oben angesprochene Diskussion deutlich intensiver geführt worden. So kritisiert Faulstich, dass mit dem Begriff unterstellt werde, „dass Kriterien der Subjekthaftigkeit sich auch auf Gruppen- und Organisationszusammenhänge anwenden lassen“ (Faulstich 2013: 195). Noch deutlich bissiger spricht Miller davon, hier werde lediglich „auf mystische Weise von einem überindividuellen Subjekt, einem gesellschaftlichen Gesamtsubjekt“ (Miller 1986: 210) ausgegangen. Nun ist „mystisch“ hier eine Art Gegenbegriff zu „real“ und damit wiederum ein Ver- such, das Problem ontologisch zu lösen. Schwerer wiegt die Frage, ob mit der „Subjektivierung“ der Organisation wiederum ethische Probleme auf- treten. Nicht umsonst formuliert Faulstich seine Kritik in einem Band mit dem Titel „Menschliches Lernen“ und auch Illeris (dessen Lernmodell im Folgenden eine zentrale Rolle spielen wird) ist bezüglich der lernenden Orga- "
+      },
+      {
+        "rank": 2,
+        "id": "7200c55007c095e2b94d814c4e553a9b563e2d01a7828ec88376cb86f7954617",
+        "score": 0.8543777465820312,
+        "meta": {
+          "file_path": "9783847412304_chapter_063.txt",
+          "source_id": "65b18e786ddc409b9f035044d904d132dc6c172ca3b03071571609601d01bc59",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2599,
+          "_split_overlap": [
+            {
+              "doc_id": "b84415825e725038debab29c9c696712d60e55ed781f3b637ae129e6f31180c0",
+              "range": [
+                1320,
+                1728
+              ]
+            }
+          ]
+        },
+        "content": "und seine Entwicklung fokussierten (Faulstich 2016: 55). Zugleich wird „Bildung zum Privileg der Gebildeten und zum Legitimationsinstrument der groben ‚feinen Unterschiede‘“ (Bourdieu 1982 in Faulstich 2016: 55) und losgelöst von der Herrschaftskritik bezie- hungsweise der Kritik bestehender Verhältnisse. Der Hamburger Erziehungs- wissenschaftler Peter Faulstich zeigt in diesem Zusammenhang einen aktuell wiederkehrenden radikalisierenden Individualismus auf, der im Kontrast zur Vorstellung eines „vergesellschaftlichten“ Subjekts steht, welches durch seine milieu- beziehungsweise schichtspezifischen Erfahrungen geprägt und auch in diese Verhältnisse eingebunden ist (Faulstich 2016: 56)."
+      },
+      {
+        "rank": 3,
+        "id": "d0427eef20a9e0affe7962224c62837f57d68aaea62def6db76dbe402fa1dcc5",
+        "score": 0.16522853076457977,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6826,
+          "_split_overlap": [
+            {
+              "doc_id": "9903190d4903148202eccd893c8eb622bd4589b7e888d359617456e9e7baf48c",
+              "range": [
+                1161,
+                1597
+              ]
+            },
+            {
+              "doc_id": "8238e17d9ee560da1393d0499dac17c91f1aaeffb88b569a513f1107ad4b0bdf",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "auf das organisationale Geschehen bewer- tet und so kontextualisiert. Abschließend sollen diese Beobachtungen durch einen Blick auf Möglichkeiten und Grenzen des Verständnisses von Organi- sationsberatung als Lernberatung von Organisationen ergänzt werden. Folgerungen – Möglichkeiten und Grenzen Versteht man Organisationsentwicklung als Ausdruck organisationalen Lernens und Beratung von Organisationen entsprechend als Lernberatung, so ergeben sich spezifische Perspektiven, aber natürlich auch blinde Flecke. Vor dem Hintergrund der oben dargestellten theoretischen Überlegungen und des ersten empirischen Einblicks lassen sich diese wie folgt zusammenfassen: Zunächst bestehen die Grenzen, die sich grundsätzlich aus dem Format der Beratung ergeben. Beratung ist ihrem Verständnis nach eine unsichere Intervention, d. h. sie setzt voraus, dass aufseiten des Klientensystems (sei es ein Individuum oder eine Organisation) eigenverantwortliche Entscheidungen getroffen und auch selbst verantwortet"
+      },
+      {
+        "rank": 4,
+        "id": "c724fe872348d1082676b6efc8f00d2024814ba589f8d8b66813f2b691e064d4",
+        "score": 0.16195058822631836,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10374,
+          "_split_overlap": [
+            {
+              "doc_id": "767728412f7d469c67db261c7b4c014091e1be71ce738884547ac98252660c71",
+              "range": [
+                1177,
+                1600
+              ]
+            },
+            {
+              "doc_id": "72d29a20688656f551d38a8ae4ae744c039fadf199b7ca09b4b76400f76c5c43",
+              "range": [
+                0,
+                347
+              ]
+            }
+          ]
+        },
+        "content": "des Lernens marginalisiert (vgl. Arnold 2008). Die Unterscheidung der Dimensionen Wissensmanagement, Organisati- onskultur und Organisationsumwelt erlaubt nach den bisherigen Erfahrungen eine umfassende und systematische Analyse und Konzeption von Organisa- tionsberatung und organisationalem Lernen, die sich gleichzeitig nicht in Di- chotomien verliert. Insbesondere erlaubt sie auch, die Beziehungen zwischen allen drei Polen – die Seiten des Dreiecks – analytisch zu nutzen. So wurde in den Beratungen vereinzelt angedeutet, dass bestimmte Partner der Orga- nisationsumwelt eher durch die Wissensseite, andere durch die Kulturseite einschließlich der durch die Organisation vertretenden Werte angesprochen würden. Die übergreifende Perspektive des Lernens verweist dabei auf einen im Organisationskontext in der Regel positiv konnotierten Vorgang, der den Blick auf Ressourcen öffnet. Hieran lässt sich auch anschließen, insofern der beschriebene Ansatz in vielen weiteren Bereichen an bestehende"
+      },
+      {
+        "rank": 5,
+        "id": "4fac8b27abff34ec9b393300e17fef254b51a2a8a11f769e8f0f6c72fdf18f90",
+        "score": 0.09192263334989548,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "VII.\tBeratung in organisationalen Kontexten: ­Lernen – Steuerung – Methoden Henning Pätzold Beratung im Kontext organisationalen Lernens Ausgangslage und Relevanz Organisationsberatung ist in den vergangenen Jahren verstärkt und aus verschiedensten Perspektiven als Gegenstand pädagogischer Forschung und Praxis wahrgenommen worden. Als pädagogisches Handlungsfeld wird sie beispielsweise in dem Handbuch von Gieseke und Nittel (2016) thematisiert, ebenso in verschiedenen Tagungsbänden der Kommission Organisationspädagogik der DGfE (insbesondere Göhlich, Weber, Seitter und Feld 2010) und zunehmend auch in Studiengangsbeschreibungen (z. B. in pädagogischen Studiengängen der Universitäten Heidelberg, Hildesheim, Koblenz-Landau und anderen). Die Rolle von Lernberatung in Organisationen wird u. a. in dem genannten Band von Göhlich thematisiert, daneben auch in früheren Untersuchungen zu Lernberatung in beruflichen Kontexten (vgl. z. B. Klein und Reutter 2005), auch wenn hier der Bezug zur Gesa"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1213.txt",
+    "question": "Wie beschreibt Illeris seine Haltung gegenüber dem Konzept der lernenden Organisation?",
+    "answer": "Illeris ist bezüglich der lernenden Organisation skeptisch und nimmt hier mehr die Beschäftigung mit „Management und Floskeln als mit Lernen“ (Illeris 2010: 222) wahr. Es erscheint wichtig, diesem Einwand gegenüber aufmerksam zu sein, indem bei einer Konzep- tion organisationalen Lernens (ebenso wie bei der Beratung) keine subjek- tiv-menschlichen Vorgänge der individuellen Verfügung entzogen und bei der Organisation verortet werden.",
+    "expected": "Illeris ist gegenüber der lernenden Organisation skeptisch und sieht darin eher eine Beschäftigung mit Management und Floskeln als mit echtem Lernen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+        "score": 0.9915924072265625,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1131,
+          "_split_overlap": [
+            {
+              "doc_id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+              "range": [
+                1131,
+                1528
+              ]
+            },
+            {
+              "doc_id": "a34e7fb3e059808d0c5126b2ca8bda185293a92ad677fc42447d4ac4f30556c0",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "erscheint wichtig, diesem Einwand gegenüber aufmerksam zu sein, indem bei einer Konzep- tion organisationalen Lernens (ebenso wie bei der Beratung) keine subjek- tiv-menschlichen Vorgänge der individuellen Verfügung entzogen und bei der Organisation verortet werden. Unter Einhaltung dieser Maßgabe erscheint es allerdings durchaus plausibel, organisationales Lernen auch in seiner histori- schen Entwicklung als „Veränderung eines organisationalen Ordnungs- und Sinnzusammenhangs“ (Behrmann 2010: 96) zu verstehen, die über das Ler- nen der Individuen hinausgeht. Folgt man also der Idee, dass es sinnvoll sein kann, von organisationalem Lernen als einem Prozess zu sprechen, bei dem eine Organisation lernt und sich dieses Lernen nicht linear auf Lernprozesse der Organisationsmitglieder zurückführen lässt, so stellt sich auch hier die Frage, wie dieser Prozess im Einzelnen modelliert und verstanden werden kann. Im vorliegenden Kontext wurde hierzu das Modell des Lerndreiecks von Knud Illeris v"
+      },
+      {
+        "rank": 2,
+        "id": "767728412f7d469c67db261c7b4c014091e1be71ce738884547ac98252660c71",
+        "score": 0.986500084400177,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9197,
+          "_split_overlap": [
+            {
+              "doc_id": "8238e17d9ee560da1393d0499dac17c91f1aaeffb88b569a513f1107ad4b0bdf",
+              "range": [
+                1161,
+                1533
+              ]
+            },
+            {
+              "doc_id": "c724fe872348d1082676b6efc8f00d2024814ba589f8d8b66813f2b691e064d4",
+              "range": [
+                0,
+                423
+              ]
+            }
+          ]
+        },
+        "content": "wenn zumindest mehr Befunde über die Verläufe, Folgen und Nebenfolgen von Organisationsberatung vorlägen, wie es in anderen Bereichen pädagogischer Beratung der Fall ist (vgl. Gieseke und Stimm 2016; Kossack 2006). Bei allen vorliegenden Einschränkungen zeigen die bisherigen Überle- gungen und Erfahrungen aber auch ermutigende Hinweise, das Konzept der Lernberatung von Organisationen weiter zu verfolgen. So ermöglicht es eine Überwindung des „Rationalitätsbias“, der der Organisationsberatung struk- turell immer noch oft zu eigen ist. Zwar werden Organisationen längst nicht mehr als Kollektive rational handelnder Akteure verstanden, gleichzeitig folgt aber das Konzept der Organisationsberatung selbst einem sehr ratio- nalen Modell der Arbeitsteilung (vgl. Pätzold 2016: 621f.). Herausforderun- gen des organisationalen Lernens werden dadurch häufig einseitig bearbeitet (etwa durch die Empfehlung eines organisationalen Wissensmanagements), während Herausforderungen der Organisationskultur "
+      },
+      {
+        "rank": 3,
+        "id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+        "score": 0.9864991903305054,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Lernen: Organisationales Lernen Hinsichtlich des Begriffs „lernende Organisation“ ist die oben angesprochene Diskussion deutlich intensiver geführt worden. So kritisiert Faulstich, dass mit dem Begriff unterstellt werde, „dass Kriterien der Subjekthaftigkeit sich auch auf Gruppen- und Organisationszusammenhänge anwenden lassen“ (Faulstich 2013: 195). Noch deutlich bissiger spricht Miller davon, hier werde lediglich „auf mystische Weise von einem überindividuellen Subjekt, einem gesellschaftlichen Gesamtsubjekt“ (Miller 1986: 210) ausgegangen. Nun ist „mystisch“ hier eine Art Gegenbegriff zu „real“ und damit wiederum ein Ver- such, das Problem ontologisch zu lösen. Schwerer wiegt die Frage, ob mit der „Subjektivierung“ der Organisation wiederum ethische Probleme auf- treten. Nicht umsonst formuliert Faulstich seine Kritik in einem Band mit dem Titel „Menschliches Lernen“ und auch Illeris (dessen Lernmodell im Folgenden eine zentrale Rolle spielen wird) ist bezüglich der lernenden Orga- "
+      },
+      {
+        "rank": 4,
+        "id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+        "score": 0.985052227973938,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2416,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                1187,
+                1616
+              ]
+            },
+            {
+              "doc_id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "organisationswissenschaftlicher Standardliteratur entliehen wird (vgl. hierzu Pätzold 2015: 29f.). Beratung wird also als pädagogische Aufgabenstellung auf Organisatio- nen bezogen und vielfältig ausgearbeitet. Lernen ist dabei ein wichtiger, aber keineswegs dominanter Bezugspunkt. Viel häufiger findet sich ein Verständ- nis von Organisationsberatung, bei dem diese auf Organisationsentwicklung abzielt (vgl. z. B. Schiersmann und Thiel 2014: 68). Organisationales Lernen wird dabei zwar mitgedacht, ist aber nicht in gleicher Weise profiliert, stellt es doch – im Gegensatz zu Beratung – keine Handlungsform dar, für deren Aus- übung ein professioneller Anspruch erhoben werden kann. Die im Folgenden zu entfaltende These setzt an diesem Punkt an, indem Organisationsbera- tung als Lernberatung von Organisationen konzipiert werden soll. Auf diese Weise soll das pädagogische Proprium eines disziplinären und professionel- len Beitrags zum Handlungsfeld Organisationsentwicklung herausgearbeitet w"
+      },
+      {
+        "rank": 5,
+        "id": "4fac8b27abff34ec9b393300e17fef254b51a2a8a11f769e8f0f6c72fdf18f90",
+        "score": 0.9800391793251038,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "VII.\tBeratung in organisationalen Kontexten: ­Lernen – Steuerung – Methoden Henning Pätzold Beratung im Kontext organisationalen Lernens Ausgangslage und Relevanz Organisationsberatung ist in den vergangenen Jahren verstärkt und aus verschiedensten Perspektiven als Gegenstand pädagogischer Forschung und Praxis wahrgenommen worden. Als pädagogisches Handlungsfeld wird sie beispielsweise in dem Handbuch von Gieseke und Nittel (2016) thematisiert, ebenso in verschiedenen Tagungsbänden der Kommission Organisationspädagogik der DGfE (insbesondere Göhlich, Weber, Seitter und Feld 2010) und zunehmend auch in Studiengangsbeschreibungen (z. B. in pädagogischen Studiengängen der Universitäten Heidelberg, Hildesheim, Koblenz-Landau und anderen). Die Rolle von Lernberatung in Organisationen wird u. a. in dem genannten Band von Göhlich thematisiert, daneben auch in früheren Untersuchungen zu Lernberatung in beruflichen Kontexten (vgl. z. B. Klein und Reutter 2005), auch wenn hier der Bezug zur Gesa"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1213.txt",
+    "question": "Welche Maßgabe wird als wichtig erachtet, um ethische Probleme bei der Subjektivierung von Organisationen zu vermeiden?",
+    "answer": "Unter Einhaltung dieser Maßgabe erscheint es allerdings durchaus plausibel, organisationales Lernen auch in seiner historischen Entwicklung als „Veränderung eines organisationalen Ordnungs- und Sinnzusammenhangs“ (Behrmann 2010: 96) zu verstehen, die über das Lernen der Individuen hinausgeht. Folgt man also der Idee, dass es sinnvoll sein kann, von organisationalen Lernen als einem Prozess zu sprechen, bei dem eine Organisation lernt und sich dieses Lernen nicht linear auf Lernprozesse der Organisationsmitglieder zurückführen lässt, so stellt sich auch hier die Frage, wie dieser Prozess im Einzelnen modelliert und verstanden werden kann. Im vorliegenden Kontext wurde hierzu das Modell des Lerndreiecks von Knud Illeris verwendet (vgl. Illeris 2010: 40; 2006: 32). Das Problem, dass dabei subjektgebundene Begriffe wie „Emotion“ Verwendung finden, wurde dahingehend bearbeitet, dass für die je individuellen Prozesse und Eigenschaften bei der Modellierung organisationalen Lernens funktionale Äquivalente gesucht wurden. Dabei ist es hilfreich, dass Illeris mit seinem Modell eine Heuristik liefert, die es erlaubt, wesentliche Dimensionen des Lernens Erwachsener in den Blick zu nehmen und \nI cannot find the answer in the provided context.",
+    "expected": "Es ist wichtig, keine subjektiv-menschlichen Vorgänge der individuellen Verfügung zu entziehen und bei der Organisation zu verorten, also individuelle Lernprozesse nicht einfach auf die Organisation zu übertragen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+        "score": 0.7832892537117004,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1131,
+          "_split_overlap": [
+            {
+              "doc_id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+              "range": [
+                1131,
+                1528
+              ]
+            },
+            {
+              "doc_id": "a34e7fb3e059808d0c5126b2ca8bda185293a92ad677fc42447d4ac4f30556c0",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "erscheint wichtig, diesem Einwand gegenüber aufmerksam zu sein, indem bei einer Konzep- tion organisationalen Lernens (ebenso wie bei der Beratung) keine subjek- tiv-menschlichen Vorgänge der individuellen Verfügung entzogen und bei der Organisation verortet werden. Unter Einhaltung dieser Maßgabe erscheint es allerdings durchaus plausibel, organisationales Lernen auch in seiner histori- schen Entwicklung als „Veränderung eines organisationalen Ordnungs- und Sinnzusammenhangs“ (Behrmann 2010: 96) zu verstehen, die über das Ler- nen der Individuen hinausgeht. Folgt man also der Idee, dass es sinnvoll sein kann, von organisationalem Lernen als einem Prozess zu sprechen, bei dem eine Organisation lernt und sich dieses Lernen nicht linear auf Lernprozesse der Organisationsmitglieder zurückführen lässt, so stellt sich auch hier die Frage, wie dieser Prozess im Einzelnen modelliert und verstanden werden kann. Im vorliegenden Kontext wurde hierzu das Modell des Lerndreiecks von Knud Illeris v"
+      },
+      {
+        "rank": 2,
+        "id": "8133cfd9daf12abf0702daad3913ef07dfb306aa2d2f61595b666017cb07f4a8",
+        "score": 0.5318527221679688,
+        "meta": {
+          "file_path": "9783847412304_chapter_1212.txt",
+          "source_id": "7f72ed28486a375a5f2192b161b78aabdf9031a6250251ea32c6c4b84dabc3de",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1130,
+          "_split_overlap": [
+            {
+              "doc_id": "82f37e380416df2d01c28cac517bb479d5262157568c63d816bedb90b41ed132",
+              "range": [
+                1130,
+                1521
+              ]
+            },
+            {
+              "doc_id": "dc09b182ff71dd43cc4cb88af71ce906b703d585034628ed73837143fcf4bb18",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Thema. Dass es zumindest analytisch weiterführend sein kann, Organisationen als reflexive, lernfähige Systeme zu konzipieren, sollen die folgenden Darlegungen deutlich machen. Eine ethische Problematik kann sich daraus ergeben, dass das Verständnis von Organisationen als Adressatinnen von Beratung verschleiern kann, dass in den Organisationen einzelne Personen Rat geben und empfangen und darauf Entscheidungen gründen, die dann möglicherweise zu Unrecht der Organisation attribuiert werden. Dieses Problem wird allerdings zumindest entschärft, wenn man Organisationsberatung als Lernberatung von Organisationen fasst, weil damit deutlich wird, dass die Beratung nicht unmittelbar zu Entscheidungen führt, sondern idealerweise Teil eines Lernprozesses ist. Von einem solchen wird kaum die Rede sein können, wenn Beratung und Entscheidung im Wesentlichen „im stillen Kämmerlein“ unter wenigen ausgewählten Personen erfolgen – und dann wäre es auch im klassischen Verständnis nicht angemessen, von Or"
+      },
+      {
+        "rank": 3,
+        "id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+        "score": 0.40893658995628357,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Lernen: Organisationales Lernen Hinsichtlich des Begriffs „lernende Organisation“ ist die oben angesprochene Diskussion deutlich intensiver geführt worden. So kritisiert Faulstich, dass mit dem Begriff unterstellt werde, „dass Kriterien der Subjekthaftigkeit sich auch auf Gruppen- und Organisationszusammenhänge anwenden lassen“ (Faulstich 2013: 195). Noch deutlich bissiger spricht Miller davon, hier werde lediglich „auf mystische Weise von einem überindividuellen Subjekt, einem gesellschaftlichen Gesamtsubjekt“ (Miller 1986: 210) ausgegangen. Nun ist „mystisch“ hier eine Art Gegenbegriff zu „real“ und damit wiederum ein Ver- such, das Problem ontologisch zu lösen. Schwerer wiegt die Frage, ob mit der „Subjektivierung“ der Organisation wiederum ethische Probleme auf- treten. Nicht umsonst formuliert Faulstich seine Kritik in einem Band mit dem Titel „Menschliches Lernen“ und auch Illeris (dessen Lernmodell im Folgenden eine zentrale Rolle spielen wird) ist bezüglich der lernenden Orga- "
+      },
+      {
+        "rank": 4,
+        "id": "9bee4540119261cda0b2b7708683c97081e14a6179b7b8d77fb4a64460a1f95e",
+        "score": 0.38359978795051575,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2416,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                1187,
+                1616
+              ]
+            },
+            {
+              "doc_id": "43f3161f3850487e591fa20c4c954b3dfb214e1a4b489816ef48b166f48cac6a",
+              "range": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        "content": "organisationswissenschaftlicher Standardliteratur entliehen wird (vgl. hierzu Pätzold 2015: 29f.). Beratung wird also als pädagogische Aufgabenstellung auf Organisatio- nen bezogen und vielfältig ausgearbeitet. Lernen ist dabei ein wichtiger, aber keineswegs dominanter Bezugspunkt. Viel häufiger findet sich ein Verständ- nis von Organisationsberatung, bei dem diese auf Organisationsentwicklung abzielt (vgl. z. B. Schiersmann und Thiel 2014: 68). Organisationales Lernen wird dabei zwar mitgedacht, ist aber nicht in gleicher Weise profiliert, stellt es doch – im Gegensatz zu Beratung – keine Handlungsform dar, für deren Aus- übung ein professioneller Anspruch erhoben werden kann. Die im Folgenden zu entfaltende These setzt an diesem Punkt an, indem Organisationsbera- tung als Lernberatung von Organisationen konzipiert werden soll. Auf diese Weise soll das pädagogische Proprium eines disziplinären und professionel- len Beitrags zum Handlungsfeld Organisationsentwicklung herausgearbeitet w"
+      },
+      {
+        "rank": 5,
+        "id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+        "score": 0.3624795377254486,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7104,
+          "_split_overlap": [
+            {
+              "doc_id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+              "range": [
+                1218,
+                1559
+              ]
+            },
+            {
+              "doc_id": "91a9db5d09afc0210b7cec6e4e834f615b9fb8a8de3a7f02b15786853c4e0524",
+              "range": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        "content": "drei Ebenen statt: 1. Auf der Subjektebe- ne wurden die jeweils Einzelnen zum partizipative Lernen mit dem Ziel der Ermächtigung für die Beteiligung an dem Entwicklungsprozess beraten. 2. Auf der Gruppenebene ermöglichte die Unterstützung des Lernens in den Gruppen – zum Beispiel in der „Kollegialen Beratung“ – einen Perspekti- venwechsel und die Spiegelung der eigenen Erfahrungen mit dem Thema Gleichstellung. 3. Auf der organisationalen Ebene der Unternehmen bestand die Beratung in der Begleitung des organisationalen Lernens der Unterneh- men – des systemischen Lernens. Transformatives Organisationales Lernen setzt den Anspruch um, die Be- ratungsthemen nicht nur theoretisch zu vermitteln und zu untermauern, son- dern auch im praktischen Handeln erfahrbar zu machen, wie zu Beispiel Un- gleichheit in Interaktionen hervorgebracht wird, wie Vorurteile wirken, aber auch, wie alternative Handlungsmöglichkeiten entwickelt und sogar als neue Regeln im Unternehmen verbindlich gemacht werden k"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1213.txt",
+    "question": "Wie wird organisationales Lernen im Text definiert und welche Rolle spielt Illeris' Lerndreieck-Modell dabei?",
+    "answer": "Organisationales Lernen wird im Text als „Veränderung eines organisationalen Ordnungs- und Sinnzusammenhangs“ (Behrmann 2010: 96) definiert, der über das Lernen der Individuen hinausgeht. Das Lerndreiecks-Modell von Knud Illeris wird verwendet, um den Prozess organisationalen Lernens zu modellieren und zu verstehen. Das Modell unterscheidet zwischen drei Polen: Wissensmanagement, Organisationskultur und Organisationsumwelt. Es ermöglicht eine umfassende und systematische Analyse und Konzeption von Organisationsberatung und organisationalen Lernen. \n\nIhre Antwort ist richtig.",
+    "expected": "Organisationales Lernen wird als Veränderung eines organisationalen Ordnungs- und Sinnzusammenhangs verstanden, die über das individuelle Lernen hinausgeht. Illeris' Lerndreieck dient als heuristisches Modell, um wesentliche Dimensionen des Lernens Erwachsener – insbesondere das Wechselspiel von Emotion und Kognition – zu analysieren und funktionale Äquivalente für individuelle Prozesse im organisationalen Kontext zu finden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+        "score": 0.9971601963043213,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+              "range": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        "content": "Lernen: Organisationales Lernen Hinsichtlich des Begriffs „lernende Organisation“ ist die oben angesprochene Diskussion deutlich intensiver geführt worden. So kritisiert Faulstich, dass mit dem Begriff unterstellt werde, „dass Kriterien der Subjekthaftigkeit sich auch auf Gruppen- und Organisationszusammenhänge anwenden lassen“ (Faulstich 2013: 195). Noch deutlich bissiger spricht Miller davon, hier werde lediglich „auf mystische Weise von einem überindividuellen Subjekt, einem gesellschaftlichen Gesamtsubjekt“ (Miller 1986: 210) ausgegangen. Nun ist „mystisch“ hier eine Art Gegenbegriff zu „real“ und damit wiederum ein Ver- such, das Problem ontologisch zu lösen. Schwerer wiegt die Frage, ob mit der „Subjektivierung“ der Organisation wiederum ethische Probleme auf- treten. Nicht umsonst formuliert Faulstich seine Kritik in einem Band mit dem Titel „Menschliches Lernen“ und auch Illeris (dessen Lernmodell im Folgenden eine zentrale Rolle spielen wird) ist bezüglich der lernenden Orga- "
+      },
+      {
+        "rank": 2,
+        "id": "4fac8b27abff34ec9b393300e17fef254b51a2a8a11f769e8f0f6c72fdf18f90",
+        "score": 0.9803333878517151,
+        "meta": {
+          "file_path": "9783847412304_chapter_12.txt",
+          "source_id": "0fd03f6cb18865044ab62037152fcbf290c129fb2cca6091569e25396c043b77",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "69536e3cb7bae2e0b87cb56825ef79184c2194491ed90448ec7a7f09e52bc1a6",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "VII.\tBeratung in organisationalen Kontexten: ­Lernen – Steuerung – Methoden Henning Pätzold Beratung im Kontext organisationalen Lernens Ausgangslage und Relevanz Organisationsberatung ist in den vergangenen Jahren verstärkt und aus verschiedensten Perspektiven als Gegenstand pädagogischer Forschung und Praxis wahrgenommen worden. Als pädagogisches Handlungsfeld wird sie beispielsweise in dem Handbuch von Gieseke und Nittel (2016) thematisiert, ebenso in verschiedenen Tagungsbänden der Kommission Organisationspädagogik der DGfE (insbesondere Göhlich, Weber, Seitter und Feld 2010) und zunehmend auch in Studiengangsbeschreibungen (z. B. in pädagogischen Studiengängen der Universitäten Heidelberg, Hildesheim, Koblenz-Landau und anderen). Die Rolle von Lernberatung in Organisationen wird u. a. in dem genannten Band von Göhlich thematisiert, daneben auch in früheren Untersuchungen zu Lernberatung in beruflichen Kontexten (vgl. z. B. Klein und Reutter 2005), auch wenn hier der Bezug zur Gesa"
+      },
+      {
+        "rank": 3,
+        "id": "fb5726f69c6638207dd0a0bd73f1786e3abd74883e08df3f7d09c5912ac6f6f4",
+        "score": 0.9782965183258057,
+        "meta": {
+          "file_path": "9783847412304_chapter_1222.txt",
+          "source_id": "5c70475f23efbd0eb937964657d356d4338df6d5407cffc8c56e579be74863a0",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5886,
+          "_split_overlap": [
+            {
+              "doc_id": "e1c1d6fa6bffac1efeb04374decf715e5a131be2044bf74c8860db597cf5d05c",
+              "range": [
+                1206,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f9b05d754cea88cc399a82801ac6eceac83657b14ca516c15d6ddb3fb9ef6e2a",
+              "range": [
+                0,
+                341
+              ]
+            }
+          ]
+        },
+        "content": "ansetzte und auch die Ebene der Gruppe und der Organisation mit einbezog. Dabei spielten kognitive, affektive, volitive und spirituelle Dimensionen wie Ziele und Visionen, Wissen, individuelle Motivationen, Kompetenzen, Macht-Strukturen und Perspektivenwechsel sowie auftretende Barrieren eine Rolle (Macha/Brendler 2014: 333). 2.3 Das Beratungskonzept der Interventionsprojekte Dem Beratungskonzept der Projekte lag die Methode des „Transformativen Organisationalen Lernens“ zugrunde. Sie wurde für die Projekte aus Ergeb- nissen der Forschung weiterentwickelt (Macha et al. 2011, 2014, 2015; Mezirow 2012; Bateson 2013; Schilling/Kluge 2009). Die Definition des Transformati- ven Organisationalen Lernens – TOL lautet: Transformatives Organisationa- les Lernen“ – TOL – im Unternehmen ist gekennzeichnet durch ein partizipa- tives, genderkritisches, pädagogisches und an gleichstellungspolitischen und ethischen Zielen orientiertes Beratungs- und Weiterbildungs-Handeln, das Räume für Lernvorgänge "
+      },
+      {
+        "rank": 4,
+        "id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+        "score": 0.9724304676055908,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1131,
+          "_split_overlap": [
+            {
+              "doc_id": "e00e6de8f7e4335cb886df5dcbd3013b4694ec96ec1a6b10860254ecb9d87582",
+              "range": [
+                1131,
+                1528
+              ]
+            },
+            {
+              "doc_id": "a34e7fb3e059808d0c5126b2ca8bda185293a92ad677fc42447d4ac4f30556c0",
+              "range": [
+                0,
+                374
+              ]
+            }
+          ]
+        },
+        "content": "erscheint wichtig, diesem Einwand gegenüber aufmerksam zu sein, indem bei einer Konzep- tion organisationalen Lernens (ebenso wie bei der Beratung) keine subjek- tiv-menschlichen Vorgänge der individuellen Verfügung entzogen und bei der Organisation verortet werden. Unter Einhaltung dieser Maßgabe erscheint es allerdings durchaus plausibel, organisationales Lernen auch in seiner histori- schen Entwicklung als „Veränderung eines organisationalen Ordnungs- und Sinnzusammenhangs“ (Behrmann 2010: 96) zu verstehen, die über das Ler- nen der Individuen hinausgeht. Folgt man also der Idee, dass es sinnvoll sein kann, von organisationalem Lernen als einem Prozess zu sprechen, bei dem eine Organisation lernt und sich dieses Lernen nicht linear auf Lernprozesse der Organisationsmitglieder zurückführen lässt, so stellt sich auch hier die Frage, wie dieser Prozess im Einzelnen modelliert und verstanden werden kann. Im vorliegenden Kontext wurde hierzu das Modell des Lerndreiecks von Knud Illeris v"
+      },
+      {
+        "rank": 5,
+        "id": "c724fe872348d1082676b6efc8f00d2024814ba589f8d8b66813f2b691e064d4",
+        "score": 0.971608579158783,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10374,
+          "_split_overlap": [
+            {
+              "doc_id": "767728412f7d469c67db261c7b4c014091e1be71ce738884547ac98252660c71",
+              "range": [
+                1177,
+                1600
+              ]
+            },
+            {
+              "doc_id": "72d29a20688656f551d38a8ae4ae744c039fadf199b7ca09b4b76400f76c5c43",
+              "range": [
+                0,
+                347
+              ]
+            }
+          ]
+        },
+        "content": "des Lernens marginalisiert (vgl. Arnold 2008). Die Unterscheidung der Dimensionen Wissensmanagement, Organisati- onskultur und Organisationsumwelt erlaubt nach den bisherigen Erfahrungen eine umfassende und systematische Analyse und Konzeption von Organisa- tionsberatung und organisationalem Lernen, die sich gleichzeitig nicht in Di- chotomien verliert. Insbesondere erlaubt sie auch, die Beziehungen zwischen allen drei Polen – die Seiten des Dreiecks – analytisch zu nutzen. So wurde in den Beratungen vereinzelt angedeutet, dass bestimmte Partner der Orga- nisationsumwelt eher durch die Wissensseite, andere durch die Kulturseite einschließlich der durch die Organisation vertretenden Werte angesprochen würden. Die übergreifende Perspektive des Lernens verweist dabei auf einen im Organisationskontext in der Regel positiv konnotierten Vorgang, der den Blick auf Ressourcen öffnet. Hieran lässt sich auch anschließen, insofern der beschriebene Ansatz in vielen weiteren Bereichen an bestehende"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1213.txt",
+    "question": "Warum wird das Wechselspiel von Emotion und Kognition im Lernprozess als unverzichtbar angesehen, und wie wurde dieses Problem bei der Modellierung organisationalen Lernens angegangen?",
+    "answer": "Das Wechselspiel von Emotion und Kognition im Lernprozess wird als unverzichtbar angesehen, weil es nicht nach einer Seite (etwa in Richtung „rein kognitiven“ Lernens) aufgelöst werden kann. Bei der Modellierung organisationalen Lernens wurde dieses Problem angegangen, indem die individuellen Prozesse und Eigenschaften berücksichtigt wurden, um funktionale Äquivalente für die Modellierung zu finden. Hierbei wurde die Heuristik von Illeris genutzt, um wesentliche Dimensionen des Lernens Erwachsener in den Blick zu nehmen und ins Verhältnis zu setzen. Somit wurde ein Modell des organisationalen Lerndreiecks entwickelt, das das Wechselspiel von Emotion und Kognition berücksichtigt. Die Plausibilität dieses Modells wurde im Rahmen einer ethnografischen Studie getestet. \n        (Basierend auf dem bereitgestellten Text) I cannot find the answer in the provided context.",
+    "expected": "Das Wechselspiel von Emotion und Kognition wird als unabdingbar angesehen, weil Lernen nicht rein kognitiv stattfinden kann, sondern emotionale Prozesse eine wesentliche Rolle spielen. Bei der Modellierung organisationalen Lernens wurden deshalb funktionale Äquivalente für subjektgebundene Begriffe wie \"Emotion\" gesucht, um individuelle Lernprozesse im organisationalen Kontext abzubilden.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a34e7fb3e059808d0c5126b2ca8bda185293a92ad677fc42447d4ac4f30556c0",
+        "score": 0.9943307638168335,
+        "meta": {
+          "file_path": "9783847412304_chapter_1213.txt",
+          "source_id": "645b3ff877cf73a65ae23b17cde6ecec04c427cde58f1daa732301fd1fd6deb6",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2231,
+          "_split_overlap": [
+            {
+              "doc_id": "959098ade3e5148423a07836d9822af14c1acfcbdd9a1007489894e520a7fd20",
+              "range": [
+                1100,
+                1474
+              ]
+            },
+            {
+              "doc_id": "2bee060ce1a47fdf438509667172b8b2e9f8fc4589809e980402848f2980d9da",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "„Emotion“ Verwendung finden, wurde dahingehend bearbeitet, dass für die je individuellen Prozesse und Eigenschaften bei der Modellierung or- ganisationalen Lernens funktionale Äquivalente gesucht wurden. Dabei ist es hilfreich, dass Illeris mit seinem Modell eine Heuristik liefert, die es erlaubt, wesentliche Dimensionen des Lernens Erwachsener in den Blick zu nehmen und ins Verhältnis zu setzen. So ist für ihn das Wechselspiel von Emotion und Kognition ein unhintergehbares Moment des Lernens, und es lässt sich nicht nach einer Seite (etwa in Richtung „rein kognitiven“ Lernens) auflö- sen. In ähnlicher Weise lässt sich auf organisationaler Ebene das Wechselspiel zwischen Wissensmanagement und Organisationskultur als ein dynamischer Ausgleichsprozess beschreiben, bei dem organisationales Lernen immer bei- de Dimensionen berührt (ausführlicher hierzu sowie zur Darstellung und em- pirischen Erprobung des Modells vgl. Pätzold 2017, 2018). Abbildung 1 zeigt das Modell des organisationalen L"
+      },
+      {
+        "rank": 2,
+        "id": "5a35a853a7b5f602aab319b661d6b22a7ad950ada4435075c8ddd0a02331f033",
+        "score": 0.9690020084381104,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 16,
+          "split_idx_start": 18631,
+          "_split_overlap": [
+            {
+              "doc_id": "560ac3aeeae7fea06fbabf5b6f4a11292bc41a7b01123789d7eddfaf833c9464",
+              "range": [
+                1177,
+                1554
+              ]
+            },
+            {
+              "doc_id": "336e80aaeef976b2842cd45f2903b622fa33ed41c1dcf30346f2837c74c769dd",
+              "range": [
+                0,
+                370
+              ]
+            }
+          ]
+        },
+        "content": "Lehrpersonen zu sehr auf ein reines Arrangieren von Lernum­ gebungen zurückziehen würden, ginge dies mit der Gefahr einer Beziehungs­ unterbrechung zwischen Lehrenden und Lernenden einher. Wiltrud Gieseke weist darauf hin, dass der wichtige Aspekt von Beziehung und Emotionen in Lernprozessen zu wenig in der konstruktivistischen Lerntheorie berücksich­ tigt werde: „Bindungen und Beziehungen als Bedingungen von Lernentwicklungen der einzelnen Individuen, und nicht Selbstreferenzialität und Autopoiese, sind emotionstheoretisch die Bedingungen und Voraussetzungen von Lernen und Ler­ nentwicklung, welche für theoretische pädagogische Betrachtungen in den Vor­ dergrund zu treten haben.“ (Gieseke 2007: 107) Denn auch das lässt sich aus den konstruktivistischen Lerntheorien ableiten: „Der Mensch lernt nicht allein für sich, sondern ist auf ein Gegenüber angewie­ sen. Er/Sie sucht relationale Bedingungen, um über sich und seine/ihre erlebte Si­ tuationen hinauszuwachsen. Gleichzeitig werden von"
+      },
+      {
+        "rank": 3,
+        "id": "b4b32b58f9011cd7e69b8e9520de1c0316e4353e1c10ae6fa430208f6f52bae7",
+        "score": 0.9517037272453308,
+        "meta": {
+          "file_path": "9783866496811_chapter_0911.txt",
+          "source_id": "849c7bd7a875c6f93396687262510c8fb926c721b6d4f18c68b739fffc1d3ed5",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1152,
+          "_split_overlap": [
+            {
+              "doc_id": "31f79691562087fe02fdef44ef74a6d93f8c3bd78a00ba5c6e799291f1104412",
+              "range": [
+                1152,
+                1570
+              ]
+            },
+            {
+              "doc_id": "c8d587518a11944e102d276ee3586a89202ec7dd3eb4031a1d76e67701b9b7aa",
+              "range": [
+                0,
+                369
+              ]
+            }
+          ]
+        },
+        "content": "gefordert mit den eigenen Bedürfnissen, Motiven, Erwartungen, dem Wissen und der Emotion umzuge- hen. Bildung in diesem umfänglichen Sinn ist Persönlichkeitsbildung und unterstützt Menschen bei einer selbst- und mitverantwortlichen Lebensweise. Zielsetzungen solcher Bildungsprozesse sind die Überwindung asymmetri- scher Beziehungen und die Ausrichtung auf emanzipatorische Ideale. (vgl. Sikora 2003) Die zukünftigen Entwicklungen in der Pflegelandschaft können derzeit nicht umfassend vorausgesehen werden. Daher werden auch zukünftig Pflegepersönlichkeiten benötigt, die in der Lage sind, sich den stets neuen Erfordernissen gegenüber zu positionieren und einzigartige und passende Entwicklungs- und Handlungsprozesse zu gestalten. Es scheint hilfreich zu sein, die körperlich situierte Lernerfahrung mit den je persönlichen Standpunkten, Perspektiven, Grenzerfahrungen mit anderen Menschen in Beziehung zu setzen und über die jeweilige Andersartigkeit ins Gespräch zu kommen. Die bewusste Auseina"
+      },
+      {
+        "rank": 4,
+        "id": "4c8878d973f66d5d786eb39be1bfce4f6457d53071866bfac0d65025495ab390",
+        "score": 0.8955511450767517,
+        "meta": {
+          "file_path": "9783839444856_chapter_0523.txt",
+          "source_id": "281ded2a675cd95106db283c9fd5d988bd5da4afd76d26f5ce956ebabb1a53d2",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1238,
+          "_split_overlap": [
+            {
+              "doc_id": "1ec6f381d6e1062dc864e2a4e1506815fab7aa1bf4c05d6531a003f11a41949e",
+              "range": [
+                1238,
+                1636
+              ]
+            },
+            {
+              "doc_id": "6de493a6c068b673423c0adb9a91471777315807a4056634db484b5ee7915ba7",
+              "range": [
+                0,
+                367
+              ]
+            }
+          ]
+        },
+        "content": "der empirischen Ergebnisse gesehen werden darf. Sie sind stattdessen als Teil eines theoretischen Modells zu ver­ stehen, durch das die unterschiedlichen Aufgabenfelder und Wirkungen der Bildungs- und Berufsberatung möglichst breit dargestellt werden sollen. Professionelle Form der emotionalen Anerkennung auf Ebene der Beratungsinteraktion Wie zuvor dargestellt, beschreibt Sprung (vgl. 2011) in ihrer Studie Erlebnisse der Interviewpartner_innen im Weiterbildungslehrgang als Anerkennungs­ erfahrungen. Neben der fachlichen Kompetenzerweiterung werden dabei vor allem auch die positive Beziehung zu den Lehrgangsleiter_innen bzw. den Trainer_innen und den weiteren Kursteilnehmer_innen thematisiert. Der pädagogische Kontext wird damit zu einem eigenen »Raum«, in dem Anerkennungserfahrungen gemacht werden können. Gleichzeitig bieten Bildungsprozesse die Möglichkeit, erfahrene Aberkennung bzw. Verweige­ rung von Anerkennung zu reflektieren und mögliche (alternative) Bewälti­ gungsstrategien zu"
+      },
+      {
+        "rank": 5,
+        "id": "024950a04f13cfc8577bb22890369962275b8a2802af81d5e83775042baf15c2",
+        "score": 0.887228786945343,
+        "meta": {
+          "file_path": "Hoefer_Kottmann_2021_Einbindung_von_Workshops_chapter_01.txt",
+          "source_id": "38bc5fb880efa57a34152988e27e56c0881b0517e9f75cf787f6a46eaae865b9",
+          "page_number": 1,
+          "split_id": 15,
+          "split_idx_start": 17211,
+          "_split_overlap": [
+            {
+              "doc_id": "e22ca397ad369d36ee7300b6a9ef64c3f4af69f8552e8c9613362b682f3c71da",
+              "range": [
+                1112,
+                1414
+              ]
+            },
+            {
+              "doc_id": "c44d5a435677a4df63a47dbabe746a97c715a8aecdca21e8d024e9a0e65f51dc",
+              "range": [
+                0,
+                371
+              ]
+            }
+          ]
+        },
+        "content": "Modelle in Gruppen z. B. durch Rollenspiele vertieft, erarbeitet und anschlie- ßend reflektiert. Der Schwerpunkt liegt hierbei auf dem Mediationsverfahren, bei dem u. a. verschiedene Modelle von Schulz von Thun (2010, S. 13–17 sowie Schulz von Thun et al., 2017, S. 52 ff., 59 ff. und 115 ff.) wie das Eisbergmodell, das Wertequadrat oder das Situationsmodell eingesetzt werden können. Viel Wert wird insgesamt auf aktives Zuhören gelegt, wobei die Studierenden Verständnis für die Haltung des Zu- hörenden und das Vorgehen beim aktiven Zuhören entwickeln und entsprechende Fragetechniken erlernen. Die in den Aussagen des Gegenübers wahrgenommenen Sachverhalte sowie Emotionen werden in eigenen Worten möglichst wertfrei gespie- gelt, um so das gegenseitige Verständnis und einen aufeinander aufbauenden Dialog zu fördern (vgl. Koschany-Rohbeck, 2015, S. 111 f.). Um die sozial-kommunikativen und persönlichen Kompetenzen im Bereich des Konfliktmanagements (weiter) zu entwickeln, sind auch methodis"
+      }
+    ]
+  }
+]

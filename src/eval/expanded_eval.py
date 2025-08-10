@@ -85,7 +85,7 @@ def load_question_json(path):
 
     question_map, answer_map = {}, {}
     for item in data["questions"]:
-        source_file = item["source_file"]  # e.g., "123.txt"
+        source_file = item["source_file"]
         question_map.setdefault(source_file, []).append(item["question"])
         answer_map.setdefault(source_file, []).append(item["answer"])
 
@@ -166,31 +166,6 @@ def cleanup():
     torch.cuda.empty_cache()
 
 
-def parse_questions_from_text(text, max_questions):
-    """Parse questions from generated text"""
-    questions = []
-
-    # Split by newlines and look for question patterns
-    lines = text.strip().split('\n')
-
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-
-        # Remove numbering (1. 2. etc.)
-        line = re.sub(r'^\d+\.\s*', '', line)
-
-        # Check if it looks like a question
-        if line.endswith('?') or any(wh in line.lower() for wh in ['what', 'when', 'where', 'why', 'who', 'how']):
-            questions.append(line)
-
-        if len(questions) >= max_questions:
-            break
-
-    return questions
-
-
 def generate_predictions(model, tokenizer, inputs, args):
     """Generate predictions using the model"""
     preds = {}
@@ -239,200 +214,6 @@ def generate_predictions(model, tokenizer, inputs, args):
             })
 
     return preds
-
-
-def evaluate_questions(questions, ground_truth_texts, args):
-    """Evaluate the quality of extracted questions"""
-    results = {}
-
-    for fname, question_list in questions.items():
-        gt_text = ground_truth_texts.get(fname, "")
-
-        # Simple metrics for question evaluation
-        question_metrics = {
-            'num_questions': len(question_list),
-            'avg_question_length': np.mean([len(q.split()) for q in question_list]) if question_list else 0,
-            'question_diversity': len(set(question_list)) / len(question_list) if question_list else 0,
-        }
-
-        # Check if questions are answerable from the ground truth
-        answerable_count = 0
-        for question in question_list:
-            # Simple check: if question contains keywords from ground truth
-            question_words = set(question.lower().split())
-            gt_words = set(gt_text.lower().split())
-            overlap = len(question_words & gt_words)
-            if overlap > 2:  # Basic threshold
-                answerable_count += 1
-
-        question_metrics['answerability_ratio'] = answerable_count / \
-            len(question_list) if question_list else 0
-        results[fname] = question_metrics
-
-    return results
-
-
-def evaluate(gt_texts, pred_texts, args):
-    """Evaluate predictions using various metrics"""
-
-    rouge_inst = rouge_scorer.RougeScorer(
-        ['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
-
-    bleu_weights = {
-        'bleu1': (1, 0, 0, 0),  # 100% weight on unigram
-        'bleu2': (0.5, 0.5, 0, 0),  # 50% weight on each uni- and bigram
-        'bleu3': (0.33, 0.33, 0.33, 0),  # 33.3% weight on uni-, bi- and 3-gram
-        'bleu4': (0.25, 0.25, 0.25, 0.25)  # 25% on each n-gram (up to 4)
-    }
-
-    results = {}
-
-    for fname, gt in gt_texts.items():
-        pred_fname = fname.replace('.txt', '_pred.txt')
-        pred = pred_texts.get(pred_fname, '')
-
-        res = {}
-
-        if args.bleu:
-            if args.bleu_type == 'all':
-                for btype, weights in bleu_weights.items():
-                    res[btype] = sentence_bleu(
-                        [gt.split()], pred.split(), weights=weights)
-            else:
-                weights = bleu_weights[args.bleu_type]
-                res[args.bleu_type] = sentence_bleu(
-                    [gt.split()], pred.split(), weights=weights)
-
-        if args.rouge:
-            sc = rouge_inst.score(gt, pred)
-            res['rouge1'] = sc['rouge1'].fmeasure
-            res['rouge2'] = sc['rouge2'].fmeasure
-            res['rougeL'] = sc['rougeL'].fmeasure
-
-        if args.bert_score:
-            torch.cuda.empty_cache()
-            precision, recall, f1_score = bert_score(
-                [pred], [gt],
-                model_type=args.bert_model,
-                lang=args.bert_lang,
-                batch_size=2,  # reduced from default 64 for vram
-                rescale_with_baseline=False
-            )
-            res['bert_precision'], res['bert_recall'], res['bert_f1'] = \
-                precision[0].item(), recall[0].item(), f1_score[0].item()
-
-        results[fname] = res
-
-    return results
-
-
-def evaluate_optimized(gt_texts, pred_texts, args):
-    """Optimized evaluate function with memory management for BERT score"""
-
-    # Enable mixed precision if available
-    use_amp = torch.cuda.is_available() and hasattr(torch.cuda.amp, 'autocast')
-
-    # Set memory fraction to prevent over-allocation
-    if torch.cuda.is_available():
-        torch.cuda.set_per_process_memory_fraction(
-            0.8)  # Use 80% of GPU memory max
-
-    rouge_inst = rouge_scorer.RougeScorer(
-        ['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
-
-    bleu_weights = {
-        'bleu1': (1, 0, 0, 0),
-        'bleu2': (0.5, 0.5, 0, 0),
-        'bleu3': (0.33, 0.33, 0.33, 0),
-        'bleu4': (0.25, 0.25, 0.25, 0.25)
-    }
-
-    results = {}
-
-    # Process in smaller chunks to manage memory
-    chunk_size = 2  # Process 2 files at a time
-    file_items = list(gt_texts.items())
-
-    for chunk_start in range(0, len(file_items), chunk_size):
-        chunk_end = min(chunk_start + chunk_size, len(file_items))
-        chunk_items = file_items[chunk_start:chunk_end]
-
-        # Clear GPU cache before processing each chunk
-        if torch.cuda.is_available():
-            torch.cuda.empty_cache()
-
-        for fname, gt in chunk_items:
-            pred = pred_texts.get(fname, '')
-
-            res = {}
-
-            # BLEU score calculation (no memory issues)
-            if args.bleu:
-                if args.bleu_type == 'all':
-                    for btype, weights in bleu_weights.items():
-                        res[btype] = sentence_bleu(
-                            [gt.split()], pred.split(), weights=weights)
-                else:
-                    weights = bleu_weights[args.bleu_type]
-                    res[args.bleu_type] = sentence_bleu(
-                        [gt.split()], pred.split(), weights=weights)
-
-            # ROUGE score calculation (no memory issues)
-            if args.rouge:
-                sc = rouge_inst.score(gt, pred)
-                res['rouge1'] = sc['rouge1'].fmeasure
-                res['rouge2'] = sc['rouge2'].fmeasure
-                res['rougeL'] = sc['rougeL'].fmeasure
-
-            # BERT score calculation with memory optimizations
-            if args.bert_score:
-                try:
-                    with torch.amp.autocast("cuda", enabled=False):
-                        precision, recall, f1_score = bert_score(
-                            [pred], [gt],
-                            model_type=args.bert_model,
-                            lang=args.bert_lang,
-                            batch_size=2,  # Minimum batch size
-                            rescale_with_baseline=False,
-                            device='cuda' if torch.cuda.is_available() else 'cpu'
-                        )
-
-                    res['bert_precision'] = precision[0].item()
-                    res['bert_recall'] = recall[0].item()
-                    res['bert_f1'] = f1_score[0].item()
-
-                except RuntimeError as e:
-                    if "out of memory" in str(e):
-                        print(
-                            f"GPU OOM for {fname}, falling back to smaller model...")
-                        # Fallback to CPU processing
-                        torch.cuda.empty_cache()
-                        precision, recall, f1_score = bert_score(
-                            [pred], [gt],
-                            model_type='distilbert-base-uncased',
-                            lang=args.bert_lang,
-                            batch_size=1,
-                            rescale_with_baseline=False,
-                            device='cuda' if torch.cuda.is_available() else 'cpu'
-                        )
-                        res['bert_precision'] = precision[0].item()
-                        res['bert_recall'] = recall[0].item()
-                        res['bert_f1'] = f1_score[0].item()
-                    else:
-                        raise e
-
-            results[fname] = res
-
-            # Clean up variables
-            del res
-            if torch.cuda.is_available():
-                torch.cuda.empty_cache()
-
-        # Clean up chunk variables
-        del chunk_items
-        gc.collect()
-
-    return results
 
 
 def evaluate_optimized_deepeval(deepeval_data, args):
@@ -682,19 +463,6 @@ def save_evaluation_results(results, aggregated, output_file):
     print(f"Results saved to {output_file}")
 
 
-def process_question_files(question_files, gt_texts):
-    prompts = {}
-    questions_dict = {}
-    for fname, q_text in question_files.items():
-        original_fname = fname.replace('_questions.txt', '.txt')
-        gt_text = gt_texts.get(original_fname, "")
-        prompt = f"Context: {gt_text[:1000]}\n\nQuestions: {q_text}\n\nAnswers:"
-        prompts[original_fname] = prompt
-        # Store per-file questions string
-        questions_dict[original_fname] = q_text
-    return prompts, questions_dict
-
-
 def main():
     try:
         args = parse_args()
@@ -717,6 +485,8 @@ def main():
             )
 
             FastLanguageModel.for_inference(model)
+
+            model = torch.compile(model)
 
             if tokenizer.pad_token is None or tokenizer.pad_token_id == tokenizer.eos_token_id:
                 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
@@ -780,7 +550,7 @@ def main():
 
             just_model_name = os.path.basename(args.model_name)
             save_evaluation_results(
-                results, aggregated, f"../../results/full(metrics+deepeval)/{just_model_name}_results.json")
+                results, aggregated, f"../../results/metrics_deepeval/{just_model_name}_results.json")
 
     except Exception as e:
         print(f"Error during evaluation: {e}")

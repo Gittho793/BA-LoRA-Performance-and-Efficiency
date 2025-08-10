@@ -1,0 +1,653 @@
+[
+  {
+    "filename": "9783866496811_chapter_0923.txt",
+    "question": "Was ist das Hauptziel der Lernprozesse in der Pflegeausbildung?",
+    "answer": "Die Entwicklung von Pflegekompetenzen, die die erfolgreiche Bewältigung relevanter Pflegebedarfe in Pflegesituationen gewährleisten.",
+    "expected": "Das Hauptziel der Lernprozesse in der Pflegeausbildung ist die Entwicklung von Pflegekompetenzen, die eine erfolgreiche Bewältigung relevanter Pflegebedarfe in Pflegesituationen gewährleisten.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.9972606897354126,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 2,
+        "id": "10587e6abf77ad5fbd9adbab3fc726d220e1c9522970616d2a22180b3c68f478",
+        "score": 0.9865039587020874,
+        "meta": {
+          "file_path": "9783866496811_chapter_0912.txt",
+          "source_id": "2657a4327bb62362b1aebe87c33202f353ee95bf2a80551de9e6a25dc79a3e27",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7269,
+          "_split_overlap": [
+            {
+              "doc_id": "c021347c4d3a1d485fd6ed500800643ebc99f61e144f4d3e9e2e1615a5a6594f",
+              "range": [
+                1146,
+                1535
+              ]
+            }
+          ]
+        },
+        "content": "die starke Verknüp- fung von verorteten Lernprozessen mit dem situationsbezogenen Handeln. Aufgrund der besonderen Ansprüche und organisatorischen Verankerung der Lehrenden, der Praxisanleiter und der Lernenden in den Pflegeausbildungen stellt sich deutlicher denn je die Frage, wie Lernprozesse zu gestalten und zu begleiten sind, um die notwendige Kompetenzentwicklung in den Pflegeaus- bildungen zu fundieren. Die aufgezeigte strukturelle Komplexität der Pflegeausbildungen ist bei den weiteren Überlegungen zur Integration von Beratungsprozessen zu beachten."
+      },
+      {
+        "rank": 3,
+        "id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+        "score": 0.9864107966423035,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1208,
+          "_split_overlap": [
+            {
+              "doc_id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+              "range": [
+                1208,
+                1585
+              ]
+            },
+            {
+              "doc_id": "c48d618d3fbe4f2d22e404f5ae19eb03ee63ffc5e679c68d7720f5732ee00469",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "(Veit 2004:129). Bei der Gestaltung der Lernprozesse wurde hervor gehoben, dass “die Ausbil- dung in der Pflege (...) stärker mit der Praxis zu vernetzen und Professionali- sierungsstrategien frühzeitig einzuleiten“ sind (Görres 1997. In: Roes 2004:141). Hierzu wurden verschiedene Modelle in Pflegeinrichtungen u.a. im Modell- projekt ‚Wissenstransfer in der Pflege‘ erprobt. (vgl. Roes 2004) Ausgehend von erlebten Schwierigkeiten im Pflegehandeln wurden den Lernenden im klinischen Kontext Hilfen angeboten, wie sie hilfreiches Wissen mit dem pflegeberuflichen Handeln verbinden konnten. Lehrer und Praxisanleiter haben einen Lernort, den sogenannten ‚dritten Lernort‘ gestaltet, und die Lernenden dabei unterstützt, die erkannte Schwierigkeit besser zu bewälti- gen. Zum Lerntransfer im Bereich der beruflichen Bildung, speziell der Pflege- ausbildung, sind bereits verschiedene Ansätze bekannt. Angeknüpft wird dabei an der zur Bewältigung berufsrelevanter Situationen mit ihren je spezi- fische"
+      },
+      {
+        "rank": 4,
+        "id": "9225a3efb7cc162b0f91c01274db2fcc1e6d72f69b06edccb86883ccfb0f445b",
+        "score": 0.9844285249710083,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "5.2.3. Zur Verortung von systemischer Beratung im und beim Lernen in den Pflegeausbildungen Ziel und Gegenstand der Lernprozesse in den Pflegeausbildungen ist die Entwicklung von Pflegekompetenzen, die die erfolgreiche Bewältigung rele- vanter Pflegebedarfe in Pflegesituationen gewährleisten. Hierzu sind Lernprozesse am schulischen und betrieblichen Lernort und wechselseitig aufeinander bezogen zu gestalten. Insgesamt steht hierbei der Lernort Betrieb und damit das Lernen am Arbeitsplatz im Vordergrund. Hier begegnet der Lernende in der Pflegeausbildung den Pflegebedürftigen in komplexen Pfle- gesituationen, die durch die Pflegebedürftigkeit und die damit verbundenen Pflegeanlässe konstituiert sind. Je nach Pflege- und Behandlungsbedarfen erfolgt die pflegebedarfsorientierte Betreuung und Versorgung in stationären, teilstationären oder ambulanten Einrichtungen. Praxisanleiter begleiten den Lernenden bei der Bewältigung vielfältiger Anforderungen und unterstützen ihn systematisch bei de"
+      },
+      {
+        "rank": 5,
+        "id": "b6b8a06ee0126b12878c832c2b71645387e8a7dcb8a9ed7bf7803be2d304f98e",
+        "score": 0.9822176098823547,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6224,
+          "_split_overlap": [
+            {
+              "doc_id": "ab5f5b028ebb79df18fc5de9d8e6a53eea46c9451d4a1a94454766bbe5363cc2",
+              "range": [
+                1281,
+                1691
+              ]
+            },
+            {
+              "doc_id": "b954f33dff6a163592a1bc142385171e307346858fa4d0b66e06c25a423ffae9",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Lehrenden und Lernenden ist bezogen auf die spezi- fischen Wirklichkeitskonstruktionen der Pflege bzw. des Pflegehandelns. Damit unterstützt diese Art von reflexiver Beratung die notwendigen domä- nenspezifischen Lernprozesse in den Kontexten der Pflegeausbildungen. Der ‚dritte Lernort‘ könnte den Kontext für diese Form pädagogischer Beratung des Innehaltens im Lernprozess der Pflegeausbildungen darstellen bzw. an- bieten. Im pädagogischen Handlungsfeld der Praxisbegleitung ist grundsätzlich eine Gestaltungsmöglichkeit für systemische Beratung gegeben. Bei einer vertief- ten und erweiterten konzeptionellen Gestaltung käme es hierbei auf die gewollte und durch Ressourcen unterstützten Aufgaben der Organisations- und Personalentwicklung der Ausbildungsträger an. Denn nur wenn diese es bejahen, dass nicht nur funktionale, sondern intentionale also auf (Selbst-) Bildung ausgerichtetes Lernen stattfinden kann und darf, können die hierfür notwendigen Ressourcen zur Verfügung gestellt werden."
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0923.txt",
+    "question": "Wie wird der sogenannte ‚dritte Lernort‘ in der beruflichen Pflegeausbildung definiert und welche Funktion hat er?",
+    "answer": "Der sogenannte ‚dritte Lernort‘ wird als institutionell klar definierter, relativ eigenständiger und von den beiden anderen Lernorten ‚Schule‘ und ‚Betrieb‘ klar abgegrenzter Teil der beruflichen Ausbildung beschrieben. Er dient als Theorie-Praxis- und Praxis-Theorie-verbindender Ausbildungsauftrag. Der dritte Lernort ist der Dazwischenbereich zwischen dem betrieblichen und schulischen Lernort, in dem weitere Unterstützungen angeboten werden können. Er soll dabei die Lernenden bei der Bewältigung vielfältiger Anforderungen unterstützen und ihnen systematisch bei der pflegeberuflichen Kompetenzentwicklung helfen.",
+    "expected": "Der ‚dritte Lernort‘ ist ein institutionell klar definierter, relativ eigenständiger und von den beiden anderen Lernorten ‚Schule‘ und ‚Betrieb‘ klar abgegrenzter Teil der beruflichen Ausbildung mit einem Theorie-Praxis- und Praxis-Theorie-verbindenden Ausbildungsauftrag. Er dient dazu, weitere Unterstützungen anzubieten, die zwischen dem schulischen und betrieblichen Lernen liegen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.9743229746818542,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 2,
+        "id": "9225a3efb7cc162b0f91c01274db2fcc1e6d72f69b06edccb86883ccfb0f445b",
+        "score": 0.9676969647407532,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "5.2.3. Zur Verortung von systemischer Beratung im und beim Lernen in den Pflegeausbildungen Ziel und Gegenstand der Lernprozesse in den Pflegeausbildungen ist die Entwicklung von Pflegekompetenzen, die die erfolgreiche Bewältigung rele- vanter Pflegebedarfe in Pflegesituationen gewährleisten. Hierzu sind Lernprozesse am schulischen und betrieblichen Lernort und wechselseitig aufeinander bezogen zu gestalten. Insgesamt steht hierbei der Lernort Betrieb und damit das Lernen am Arbeitsplatz im Vordergrund. Hier begegnet der Lernende in der Pflegeausbildung den Pflegebedürftigen in komplexen Pfle- gesituationen, die durch die Pflegebedürftigkeit und die damit verbundenen Pflegeanlässe konstituiert sind. Je nach Pflege- und Behandlungsbedarfen erfolgt die pflegebedarfsorientierte Betreuung und Versorgung in stationären, teilstationären oder ambulanten Einrichtungen. Praxisanleiter begleiten den Lernenden bei der Bewältigung vielfältiger Anforderungen und unterstützen ihn systematisch bei de"
+      },
+      {
+        "rank": 3,
+        "id": "6267b18d9608d029f4ee3520a49d847eca9013a9149f56c6f7b49e7d215630a5",
+        "score": 0.9402474761009216,
+        "meta": {
+          "file_path": "9783866496811_chapter_0713.txt",
+          "source_id": "190cb294dd0141911970c51ba3debe87cd81c09ed74d8e04ff4004e81b2ee2c7",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8b365c91f87eda87ddda538ea518c7b17a4c2e7a0179cd7351db383ab3f3c4a6",
+              "range": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        "content": "3.1.3. Studienübergreifende Ergebnisse Wesentliche gemeinsame Erkenntnisse der Studien von KNELANGE und SCHIERON sind, dass Beratung bereits von Pflegekräften durchgeführt wird. In der psychiatrischen Pflege werden die kommunikativen Anteile der Arbeit im Allgemeinen als Arbeitsbestandteil gesehen. Allerdings wird in der soma- tischen Pflege der Beratungsauftrag weniger als ein offizieller als ein persönlicher Arbeitsauftrag betrachtet. Auch wurde in beiden Studien gezeigt, dass die Pflegekräfte sich nicht durch ihre pflegerische Grundausbildung in der Beratung befähigt sehen, wohinge- gen die Pflegekräfte mit psychiatrischer Fachweiterbildung zumindest sich theoretisch für Beratung qualifiziert fühlten und Gesprächsbedarf erkannten (vgl. Knelange 2000). In der somatischen Pflege wird die Beratung anhand der Studie eher als eine persönliche Zusatzleistung von Seiten der Pflegekräfte bezeichnet, welche obendrein bedingt wird durch Sympathie und Antipathie zum Ratsuchenden (ebd.). Auch e"
+      },
+      {
+        "rank": 4,
+        "id": "073950d2f9640c37dd926d634655267af639a3bc5e2d2d458abb0c6686bbf9f8",
+        "score": 0.8969077467918396,
+        "meta": {
+          "file_path": "9783866496811_chapter_086.txt",
+          "source_id": "816954d1fd6a061bdd2fd0ad55b0a2f6f8c32ec97dc04734be74ffc6d12736ac",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1232,
+          "_split_overlap": [
+            {
+              "doc_id": "6a0685ba202c5a1a5cfb041be1eb10ffe32851d64d83ab315791b2d535f134c6",
+              "range": [
+                1232,
+                1671
+              ]
+            }
+          ]
+        },
+        "content": "Betreuung reicht demzufolge nicht pflegewissenschaftliches Wissen kombiniert mit beruflicher Praxis. Die Selbstreflexion eigener Bezüge, die Personwirksamkeit, die beratungstheore- tische Fundierung und beratungsdiagnostische ,wie auch beratungsintervento- rische Kenntnisse spielen in ihrem Miteinander und ihrer Bezogenheit eine sehr wesentliche Rolle. Aus genau diesem Grunde muss Beratung ‚eigens gelernt werden‘, dieses Lernen sollte alle Achsen miteinander in ihrer Wirkung entfalten."
+      },
+      {
+        "rank": 5,
+        "id": "7066c431df3d19cc7e3ddf38c77a2d43a0b83c5b33dc451251897e221bf70a56",
+        "score": 0.8504656553268433,
+        "meta": {
+          "file_path": "9783866496811_chapter_093.txt",
+          "source_id": "826d654414b5870a514b3ca850e10f6b57e45a6c67c324832e379dae664d3526",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9363,
+          "_split_overlap": [
+            {
+              "doc_id": "c6bfd2526414356fcbd6fa3573a766d65e10cdfc664829848104ba7c73920644",
+              "range": [
+                1206,
+                1612
+              ]
+            }
+          ]
+        },
+        "content": "2010:23) Es wird deutlich, dass aufgrund der zunehmenden Komplexität der Pflege- ausbildung eine systemische Beratung für die an der Ausbildung beteiligten Lernenden, Lehrer und Praxisanleiter zukünftig wichtig erscheint. Denn sie ermöglicht eine erweiterte Perspektive, die eine professionelle Distanzierung von den erheblichen beruflichen Belastungen erschafft. Sie hilft nicht in der Problemsichtigkeit unterzugehen, sondern den Blick auch auf die Ressourcen zu lenken. Hier gibt die Übersicht von ZWICKER-PELZER hilfreiche An- regungen. Sie hebt die Anschlussfähigkeit dieses Beratungsverständnisses für die Arbeitsfelder Pflege und Beratung, Pädagogik und Soziale Arbeit hervor. Auch hilft sie durch die Ressourcenorientierung die erhaltenswerten Anteile im System aufzuspüren und zu stärken. Damit können die vorhandenen Res- sourcen ,d.h. die Stärken zur Verminderung der Probleme oder Schwächen genutzt werden."
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0923.txt",
+    "question": "Welche Herausforderungen bestehen bei der Integration systemischer Beratung in den ‚dritten Lernort‘ der Pflegeausbildung?",
+    "answer": "Die Herausforderungen bestehen darin, dass die Integration systemischer Beratung in den ‚dritten Lernort‘ der Pflegeausbildung die Anforderungen an die Beratungskompetenzen der Pflegefachkräfte erhöht, die medizintherapeutisch-pflegerische Zielsetzung durch die Rahmungen aus SGB V und SGB XI und die daraus erwachsenden Behandlungs- bzw. Versorgungsverträge Grenzen setzt und es an Ressourcen und spezifischen Beratungskompetenzen mangelt, um den beraterischen Handeln der Pflegefachkräfte weiter zu verfolgen. Zudem ist eine angemessene Zahl von Fachkräften mit einer berufspädagogischen Zusatzqualifikation (Praxisanleiter) vorzuhalten, um die ‚Lernenden‘ an die eigenständige Wahrnehmung der beruflichen Aufgaben heranzuführen und die Verbindung mit der ‚Schule‘ zu gewährleisten.",
+    "expected": "Eine Herausforderung besteht darin, dass der ‚dritte Lernort‘ zunächst eine institutionelle bzw. organisatorische Verankerung benötigt. Zudem erfordert die bewusste Ausgestaltung der Aktivitäten Ressourcen von den beteiligten schulischen und betrieblichen Lernorten, die von den Ausbildungsträgern bereitgestellt werden müssen. Eine einseitige Anbindung an einen der traditionellen Lernorte könnte die Möglichkeiten einschränken, da die Arbeit dann stark von den Interessen eines Lernortes beeinflusst würde.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "d93bc48816cb42916ecc8b39a54d215181e32b30a4547cc6d051769db99de60c",
+        "score": 0.9931736588478088,
+        "meta": {
+          "file_path": "9783866496811_chapter_103.txt",
+          "source_id": "24956cf5e88c5c3632b63bb7e67ae6f8d33349dbde3bc5c591c35f4bc5d69f39",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "6.3. Zugehende Beratung pflegender Angehöriger Herausforderung für die Pflege Ursula Laag, Deutsches Institut für angewandte Pflegeforschung e. V., Köln Zugehende Beratung als zentrale Hilfe für pflegende Angehörige demenzer- kankter Menschen stand im Mittelpunkt der Interventionen im Modellprojekt ‚Entlastungsprogramm bei Demenz – EDe‘. Ein systemisch- lösungsorientierter Beratungsansatz war dabei ein Bestandteil im Gesamt- konzept der Beratung. Im folgenden Kapitel werden zunächst das Projekt und seine wichtigsten Ergebnisse vorgestellt. Im Anschluss erfolgt eine Schilde- rung der umfassenden Anforderungen zugehender Beratung, wie sie sich im Modellprojekt dargestellt haben. Dabei wird jeweils die Sicht der Beraterin- nen und Berater in die Betrachtung einbezogen. Vor welchem Hintergrund kann eine Professionalitätsentwicklung in der zugehenden Gesundheits- und Pflegeberatung stattfinden? Auf diese Frage, sowie auf die Frage der Umsetzung gibt das Modellprojekt eine mögliche Antwort, "
+      },
+      {
+        "rank": 2,
+        "id": "9225a3efb7cc162b0f91c01274db2fcc1e6d72f69b06edccb86883ccfb0f445b",
+        "score": 0.9732696413993835,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+              "range": [
+                0,
+                424
+              ]
+            }
+          ]
+        },
+        "content": "5.2.3. Zur Verortung von systemischer Beratung im und beim Lernen in den Pflegeausbildungen Ziel und Gegenstand der Lernprozesse in den Pflegeausbildungen ist die Entwicklung von Pflegekompetenzen, die die erfolgreiche Bewältigung rele- vanter Pflegebedarfe in Pflegesituationen gewährleisten. Hierzu sind Lernprozesse am schulischen und betrieblichen Lernort und wechselseitig aufeinander bezogen zu gestalten. Insgesamt steht hierbei der Lernort Betrieb und damit das Lernen am Arbeitsplatz im Vordergrund. Hier begegnet der Lernende in der Pflegeausbildung den Pflegebedürftigen in komplexen Pfle- gesituationen, die durch die Pflegebedürftigkeit und die damit verbundenen Pflegeanlässe konstituiert sind. Je nach Pflege- und Behandlungsbedarfen erfolgt die pflegebedarfsorientierte Betreuung und Versorgung in stationären, teilstationären oder ambulanten Einrichtungen. Praxisanleiter begleiten den Lernenden bei der Bewältigung vielfältiger Anforderungen und unterstützen ihn systematisch bei de"
+      },
+      {
+        "rank": 3,
+        "id": "06d3468c4495cfd0c98f6477ed0c033869f85a928132be155f3f45d5125ba8e6",
+        "score": 0.9529086351394653,
+        "meta": {
+          "file_path": "9783866496811_chapter_07.txt",
+          "source_id": "9b223c4106d02a7bf6655f9f456b53d983be5ba831424016f765550a47484ca2",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "8f2766612c85bd7b4d76f99af87fd272f7da6a0b5058f7ff331f1708a3bf303a",
+              "range": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        "content": "### 3. Systemische Bezüge von Pflege und Beratung ### 3. Systemische Bezüge von Pflege und Beratung Seit der Implementierung des aktuellen Krankenpflegegesetzes ist eine stei- gende Zahl an Veröffentlichungen zum Thema ‚Beratung in der Pflege‘ zu beobachten. Verschiedene Autoren beschreiben Beratung als ein neues pfle- gerisches Handlungsfeld, welches dringend benötigt wird und durch ein sich kontinuierlich veränderndes Aufgabenfeld in der Pflege begründet ist (vgl. Koch-Straube 2002:87; Mertin 2005:2). Ein Blick in ältere Literatur, bzw. in die Pflegegeschichte macht deutlich, dass Krankheit von jeher nicht als ein rein naturgebundenes Phänomen be- trachtet wurde und die Ursachen von Krankheiten und deren Heilung mit der religiös-geistigen Welt, den ökologischen und sozialen Umwelten, dem Le- benswandel und der Lebenssituation der Kranken in Verbindung gebracht wurden. Somit in den Ursachen der Krankheiten immer auch ein Wirkungs- Prinzip zu Grunde lag. Daher ist es auch nur nahe lieg"
+      },
+      {
+        "rank": 4,
+        "id": "887d03daa8256c681a8d7a6e2f0e27d6c2c0f4e1cf559af1d44c8c6fadb68207",
+        "score": 0.8946950435638428,
+        "meta": {
+          "file_path": "9783866496811_chapter_0912.txt",
+          "source_id": "2657a4327bb62362b1aebe87c33202f353ee95bf2a80551de9e6a25dc79a3e27",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1269,
+          "_split_overlap": [
+            {
+              "doc_id": "8ddd485bc59483cf18a558ba7e0a98649be4447e5a97026ff84b5736d818fcd6",
+              "range": [
+                1269,
+                1682
+              ]
+            },
+            {
+              "doc_id": "372103b9259e457a5e1fbd4bffa523e89acb86d020839456b1e6273114e42935",
+              "range": [
+                0,
+                408
+              ]
+            }
+          ]
+        },
+        "content": "beruflichen Tätigkeit anzuwenden. Dieser Anwendungsbezug findet sich ebenfalls in den Anforderungsprofilen zu den staatlichen Prüfungen am Ende der Pflegeaus- bildung. (vgl. KrPflGAPrV 2003, AltPflGAPrV 2003) Die im Rahmen der Pflegeausbildungen zu erwerbenden Handlungskompe- tenzen sind in den gesetzlichen Grundlagen beschrieben und in dem schulinternen Curriculum differenziert aufgeführt. Die geforderte und erwar- tete Integration des Pflegebedürftigen und seiner Angehörigen in den Pflegeprozess ist ohne Beratungskompetenzen der Pflegefachkräfte nicht einzulösen. Diese gilt es im Kontext der Themenbereiche/ Lernfelder grund- zulegen und in den Anleitungs- und Pflegeprozessen durch die Praxisanleiter weiter zu entwickeln. Die medizintherapeutisch-pflegerische Zielsetzung aufgrund der Rahmungen aus SGB V und SGB XI und den daraus erwach- senden Behandlungs- bzw. Versorgungsverträgen setzt hier dem beraterischen Handeln der Pflegefachkräfte Grenzen. Auch wenn sie einen Beratungsbedarf e"
+      },
+      {
+        "rank": 5,
+        "id": "d413c8d7d5cba62dfc7708b5f3018ad08ba2ed3724e09cd7a4c8c04bb0b92219",
+        "score": 0.8612497448921204,
+        "meta": {
+          "file_path": "9783866496811_chapter_05.txt",
+          "source_id": "f94971cb221a79adc5cf8aeef75db05cf36a3c7861848ac0e87a1f71633c314c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung ### 1. Systemische Beratung - Das neue Konzept für Pflegeberatung und Pflegebildung Auf die jeweilige Person zentriert, auf deren soziales Umfeld bezogen und im Feld der professionellen Pflege verortet, so tut sich ein komplexes Feld auf, in dem entsprechende Beratungsdienstleistungen auszudifferenzieren sind. Das Format „Beratung“ ist neu zu gestalten, ja es legt eine umfassendere Verortung nahe, die den gesellschaftlichen Entwicklungen ebenso Rechnung trägt, wie den rechtlichen Rahmenbedingungen. Systemisch ist die Beratung als konsequent kontextbezogen, die Ressourcen verfolgend, sich zirkulär verstehend und prozeßdiagnostisch angelegt. Sys- temische Beratung geht mutig mit notwendigen Interventionen um und balanciert hochsensibel mit den notwendigen Veränderungsprozessen, um der Not eine Wendung zu geben. In aller erster Linie gilt es, in Raum und Zeit den einzelnen Menschen und dessen sozialem Kont"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0923.txt",
+    "question": "Inwiefern unterstützt die Orientierung an Lernorten statt an Institutionen selbstorganisiertes Lernen in der Pflegeausbildung?",
+    "answer": "Die Orientierung an Lernorten statt an Institutionen unterstützt selbstorganisiertes Lernen in der Pflegeausbildung, indem am Ort der entstandenen Fragehaltung, meist aus dem konkreten Arbeitsprozess heraus entstanden, gelernt werden kann und das Bearbeiten des Lernanlasses nicht auf die geplante Unterrichts-einheit zu einem ganz anderen Zeitpunkt verlagert werden muss. Dadurch werden Lern- und Arbeitsplatz integrativ miteinander verknüpft. Dies ermöglicht es den Lernenden, an den sich aus dem konkreten Arbeitsprozess ergebenden Lernanlässen zu lernen, und unterstützt die Entwicklung von Lernprozessen, die auf die individuellen Bedürfnisse und Interessen der Lernenden ausgerichtet sind.",
+    "expected": "Die Orientierung an Lernorten ermöglicht, dass Lernen am Ort der entstandenen Fragehaltung stattfindet, meist direkt aus dem konkreten Arbeitsprozess heraus. Dadurch muss das Bearbeiten des Lernanlasses nicht auf eine geplante Unterrichtseinheit zu einem anderen Zeitpunkt verlagert werden. Dies verknüpft Lern- und Arbeitsplatz integrativ miteinander und fördert somit selbstorganisiertes Lernen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "6b24f4c865ce5baa8fb055578c4f9e2ed3bddad79e8b0bbf63e45a790c3b3b9d",
+        "score": 0.9966667294502258,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2456,
+          "_split_overlap": [
+            {
+              "doc_id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+              "range": [
+                1195,
+                1573
+              ]
+            },
+            {
+              "doc_id": "a26fc1bdfbfe4fe91a758eb12f5f116eb763fa6142a328732788dbc0e2d43150",
+              "range": [
+                0,
+                461
+              ]
+            }
+          ]
+        },
+        "content": "an Lernorten statt Institutionen trägt zur Förderung selbstorganisierten Lernen bei, indem am Ort der entstandenen Fragehaltung, meist aus dem konkreten Arbeitsprozess heraus entstanden, gelernt werden kann und das Bearbeiten des Lernanlasses nicht auf die geplante Unterrichts- einheit zu einem ganz anderen Zeitpunkt verlagert werden muss. Damit werden Lern- und Arbeitsplatz integrativ miteinander verknüpft. Wenn dar- über hinaus auch persönliche, soziale und familiäre oder auch berufspolitische/berufsethische Aspekte thematisiert werden könnten, wäre es möglich, Lernprozesse im Kontext einer umfassenden Lernkultur zu betrach- ten. Hier treffen sich Pflegelehrer, Praxisanleiter und Lernende. Der Pflegelehrer hat i.S. der Ausbildungsgesetze die Aufgabe, Lernende und Praxisanleiter in Dritte Lernorte Schulische Lernorte Betriebliche Lernorte Hochschulische Lernorte Systemische Beratung Systemische Beratung Systemische Beratung Systemische Beratung der Gestaltung von Lernsituationen zu un"
+      },
+      {
+        "rank": 2,
+        "id": "23810ffb4f35cedc7b4ca447464cf201f67c7ef25f48a876de0d458c5b89c64d",
+        "score": 0.9920057654380798,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1261,
+          "_split_overlap": [
+            {
+              "doc_id": "9225a3efb7cc162b0f91c01274db2fcc1e6d72f69b06edccb86883ccfb0f445b",
+              "range": [
+                1261,
+                1685
+              ]
+            },
+            {
+              "doc_id": "6b24f4c865ce5baa8fb055578c4f9e2ed3bddad79e8b0bbf63e45a790c3b3b9d",
+              "range": [
+                0,
+                378
+              ]
+            }
+          ]
+        },
+        "content": "Lernort‘, zwischen dem betrieblichen und schulischen Lernort, im Dazwischen, können und sollen weitere Unter- stützungen angeboten werden. „Der dritte Lernort ist ein institutionell klar definierter, relativ eigenständiger und von den beiden anderen Lernorten ‚Schule‘ und ‚Betrieb‘ klar abgegrenzter Teil der beruflichen Ausbildung mit einem Theorie-Praxis- und Praxis-Theorie-verbindenden Ausbildungsauf- trag.“ (Landwehr (2002) In: Goetze et.al. 2002:64) Könnte der ‚dritte Lernort‘ ein Ort für systemische Beratungen in den Pflege- ausbildungen sein oder bedarf es weiterer bzw. anderer Orte? Zunächst braucht der ‚dritte Lernort‘ eine institutionelle bzw. organisatorische Veran- kerung. Eine gewollte und bewusste Ausgestaltung der Aktivitäten im dritten Lernort erfordert Ressourcen der beteiligten schulischen und betrieblichen Lernorte. Hier sind die Ausbildungsträger gefordert, die notwendigen Res- sourcen zur Verfügung zu stellen. Eine einseitige Anbindung an einen der beiden traditione"
+      },
+      {
+        "rank": 3,
+        "id": "b6b8a06ee0126b12878c832c2b71645387e8a7dcb8a9ed7bf7803be2d304f98e",
+        "score": 0.9756150245666504,
+        "meta": {
+          "file_path": "9783866496811_chapter_0923.txt",
+          "source_id": "0f3c22941eff63ce6df7b69e66d3101b8d243093fad1e89cffd65de547f7b9b1",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6224,
+          "_split_overlap": [
+            {
+              "doc_id": "ab5f5b028ebb79df18fc5de9d8e6a53eea46c9451d4a1a94454766bbe5363cc2",
+              "range": [
+                1281,
+                1691
+              ]
+            },
+            {
+              "doc_id": "b954f33dff6a163592a1bc142385171e307346858fa4d0b66e06c25a423ffae9",
+              "range": [
+                0,
+                409
+              ]
+            }
+          ]
+        },
+        "content": "Lehrenden und Lernenden ist bezogen auf die spezi- fischen Wirklichkeitskonstruktionen der Pflege bzw. des Pflegehandelns. Damit unterstützt diese Art von reflexiver Beratung die notwendigen domä- nenspezifischen Lernprozesse in den Kontexten der Pflegeausbildungen. Der ‚dritte Lernort‘ könnte den Kontext für diese Form pädagogischer Beratung des Innehaltens im Lernprozess der Pflegeausbildungen darstellen bzw. an- bieten. Im pädagogischen Handlungsfeld der Praxisbegleitung ist grundsätzlich eine Gestaltungsmöglichkeit für systemische Beratung gegeben. Bei einer vertief- ten und erweiterten konzeptionellen Gestaltung käme es hierbei auf die gewollte und durch Ressourcen unterstützten Aufgaben der Organisations- und Personalentwicklung der Ausbildungsträger an. Denn nur wenn diese es bejahen, dass nicht nur funktionale, sondern intentionale also auf (Selbst-) Bildung ausgerichtetes Lernen stattfinden kann und darf, können die hierfür notwendigen Ressourcen zur Verfügung gestellt werden."
+      },
+      {
+        "rank": 4,
+        "id": "6d3c58fd640fc7146ca7ad4cfe71747e398d2e3e4390f0e58373c2ea73931f56",
+        "score": 0.9731993079185486,
+        "meta": {
+          "file_path": "9783866496811_chapter_095.txt",
+          "source_id": "63cb7a5b68fef3e795eb9f28ac326ec0c1b21a7787d4d606612270c6114028f7",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1122,
+          "_split_overlap": [
+            {
+              "doc_id": "9b6405fbe5edce9f79f120f7ce80982109d2cbb19dd52c8edc0275f76e05ca55",
+              "range": [
+                1122,
+                1508
+              ]
+            },
+            {
+              "doc_id": "9240424a19be83d5de4f91e04299be19fe854d8fbe262ccfbf722cac74c9ebe2",
+              "range": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        "content": "Stoffpläne orientieren. - Im Zentrum der Inhalte stünden die sich aus den Erfahrungen und Gesprächssituationen ergebenden Lern- bzw. Entwicklungsbedarfe und Anregungen. Die inhaltlichen Schwerpunkte orientieren sich an den in den Pflegesituationen beteiligten Menschen und den damit verbundenen Lernanlässen. Grund und Ziel der beruflichen Lern- prozesse wird wieder verstärkt auch der Pflegebedürftige. Lehrende und Praxisanleiter müssten sich nicht mehr an Klassen und Jahr- gängen orientieren. - Orientierungsgrößen für Lernprozesse wäre der Lernende selbst mit seinen Kompetenzen, Zielsetzungen, Interessenslagen, Erfahrungen, konkrete Lernergebnisse im Sinne eines Portfolio, Lerntempi oder Lernstilen. Hinzu kämen die spezifischen Lernorte mit ihren je eige- nen Anforderungen. Lehrende und Praxisanleiter sind nicht mehr alleine Rahmengebend für die Gestaltung von Lernprozessen. - Es wird viele verschiedene und hilfreiche Formen der Zusammenar- beit geben. Lernen findet in unmittelbarer zei"
+      },
+      {
+        "rank": 5,
+        "id": "4ad99ea0fe9f842a4d736b221af8698cb919e1689934c340c976345c3e578c6f",
+        "score": 0.9631792902946472,
+        "meta": {
+          "file_path": "9783847412304_chapter_0933.txt",
+          "source_id": "60697265942ec5b81afddf6cfb506c095ec0c57b3b16663f94fa4fb5f16b2c04",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2543,
+          "_split_overlap": [
+            {
+              "doc_id": "b747ddd941af43790c8a4384eb11ddee1c2341e89d39f6baf55454df9469e32c",
+              "range": [
+                1279,
+                1663
+              ]
+            },
+            {
+              "doc_id": "97e482c7c6dad413fa9bf3e09ad3166e7d7ed0ce8c7e322a94478d97f7c58bf9",
+              "range": [
+                0,
+                437
+              ]
+            }
+          ]
+        },
+        "content": "der Prozessierung des lebenslangen Lernens zukommt. Dieser Zusammenhang zeigt sich auch in anderen Kontexten, bspw. im Fall der Lernberatung im Erwachsenenalter (Ludwig 2016: 308–309) oder im Zuge der Übergangsberatung zur Förderung von biographischer Reflexivität (Walther 2016: 651). An einem der zentralen Ergebnisse der Primärstudie, nämlich der je nach pädagogischem Arbeitsfeld unterschiedlich stark ausgeprägten Orientierungskraft des lebenslangen Lernens (Wahl, Nittel & Tippelt 2014: 134–135), schloss die Sekundäranalyse an und differenzierte die zuvor entwickelten Ausprägungen der Orientierungskraft (hoch, moderat, niedrig) weiter aus. Dabei lag der Fokus der Untersuchung auf denjenigen Arbeitsfeldern, in denen eine hohe Orientierungskraft des lebenslangen Lernens diagnostiziert wurde. Dementsprechend wurden in der Sekundäranalyse die Wissensbestände und die damit verbundenen geschlossenen Sinnbereiche (Schütz 1971: 263) von pädagogisch Tätigen aus dem Elementarbereich, der berufl"
+      }
+    ]
+  },
+  {
+    "filename": "9783866496811_chapter_0923.txt",
+    "question": "Welche Rolle spielen Praxisanleiter und Pflegelehrer in den Lernprozessen der Pflegeausbildung?",
+    "answer": "Praxisanleiter und Pflegelehrer vermitteln an ihren je eigenen spezifischen Lehr-Lernorten domänenspezifisches Wissen der Pflege und unterstützen die Ausbildung in der Pflege. Sie sind in ihrem berufspädagogischen Handeln der Ausbildungszielsetzung verpflichtet und werden durch die Anforderungen und die Beteiligung an den staatlichen Prüfungen untermauert. Der Reflexion situativer Bewältigungsprozesse wird in beiden pflegeberuflichen Ausbildungen und Prüfungsprozessen erstmals eine besondere Bedeutung beigemessen. Praxisanleiter und Pflegelehrer sollen die Lernenden dazu anregen, nachdenklich über Gewußtes im Sinne eines prüfenden und vergleichenden Nachdenkens nachzudenken, um die Aneignung des Erkannten zu ermöglichen.",
+    "expected": "Praxisanleiter begleiten die Lernenden am betrieblichen Lernort bei der Bewältigung vielfältiger Anforderungen und unterstützen systematisch die pflegeberufliche Kompetenzentwicklung. Pflegelehrer bieten ergänzend im schulischen Lernort eine spezifische Lernbegleitung als Teil ihres Lehrauftrags an, indem sie Lernprozesse vorbereiten oder nachträglich erweitern und vertiefen.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "378914d716e77f5b5f128d464800e60b56a92bb3c1fea9984067e5b1a8f29038",
+        "score": 0.9833446145057678,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7049,
+          "_split_overlap": [
+            {
+              "doc_id": "aa9f8eb38f8e48d4cbc6f331ecb69babb6fceaf9033ec81d3a9982e8c4de874b",
+              "range": [
+                1180,
+                1581
+              ]
+            },
+            {
+              "doc_id": "5d0d593ec1a7cc593045584de84b52ff43371102df51b576b3015505e05c8862",
+              "range": [
+                0,
+                477
+              ]
+            }
+          ]
+        },
+        "content": "mit authentischen Problemen und Fragestellungen in Pflegesituationen und im pflegeberuflichen Handeln eine besondere Bedeutung beimessen. (vgl. Hundenborn 2007) Praxisanleiter und Pflegelehrer vermitteln an ihren je eigenen spezifischen Lehr-Lernorten domänenspezifisches Wissen der Pflege. HOLOCH stellt heraus, dass auch das schulische Lernen eine Form von Praxis ist und ExpertInnen und Neulin- ge partnerschaftlich „auf dem Weg zur vollen Kompetenz einer Expertenpraxis“ (Holoch 2002:66) sind. Praxisanleiter sind in ihrem berufspädagogischen Handeln der Ausbildungs- zielsetzung verpflichtet. Dies wird durch die Anforderungen und die Beteiligung an den staatlichen Prüfungen untermauert. Der Reflexion situati- ver Bewältigungsprozesse wird in beiden pflegeberuflichen Ausbildungen und Prüfungsprozessen erstmals eine besondere Bedeutung beigemessen. Praxis- anleiterIn Praxis- anleiterIn LehrerIn für Pflege und Gesundheit LehrerIn für Pflege und Gesundheit Lernende(r) Lernende(r) Reflektiere"
+      },
+      {
+        "rank": 2,
+        "id": "b52446a535faa23f68fc8d18ba43d6ec04c590ee470289c08d4dfe61085a376f",
+        "score": 0.9792842864990234,
+        "meta": {
+          "file_path": "9783866496811_chapter_0931.txt",
+          "source_id": "61ca144385bf1be7b5f16fc7b28d739d98f6731bbbc449d527c20d8752d991cc",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1233,
+          "_split_overlap": [
+            {
+              "doc_id": "e8ef78f9d4d3ace5632fb16935a7dd3293efaa2feaeb0cc93d6746cf783ea694",
+              "range": [
+                1233,
+                1638
+              ]
+            },
+            {
+              "doc_id": "1da1920d283df59453d061db786cf7129dd989bcbdd891045b8b810d825cfd84",
+              "range": [
+                0,
+                407
+              ]
+            }
+          ]
+        },
+        "content": "im Sinne von Zielvereinbarungen den lernortbezogenen Lernprozess steuern. Aus der Perspektive Kompetenzorientierung ergeben sich weitere Anforderungen. Ebenfalls hilfreich erscheinen hier die Ausfüh- rung von Christa OLBRICH zu den Dimensionen pflegerischer Kompetenzen und die auf den Forschungen von DREYFUS & DREYFUS basierenden Überlegungen von Patricia BENNER zur Kompetenzentwicklung in der Pflege. Abb.14: ‚Triadische Lernberatung‘ in der Pflegeausbildung (modifiziert nach Rappe- Giesecke 2008:50) Übertragen aus der Thematik der triadischen Karriereberatung könnte es in der systemischen Beratung in der Pflegeausbildung um die drei Systeme: Person, mitarbeitender Lernender (Rolle) bzw. lernender Mitarbeiter (Rolle) und die Organisationen gehen. Aus den (Sub-)Systemen oder auch von den beteiligten Pflegefachkräften, Lehrern oder Praxisanleitern kann es zu einer Indikationsstellung von syste- mischer Beratung kommen. Im Rahmen des Erstkontaktes wird dann zwischen dem Zu-Beratenden und "
+      },
+      {
+        "rank": 3,
+        "id": "8fca17dcd3c428aa9b9ceac697ca704be7af71219ebc324197a8519fb945b43f",
+        "score": 0.9284069538116455,
+        "meta": {
+          "file_path": "9783866496811_chapter_0913.txt",
+          "source_id": "22838dc3e9432141a0a2260342ce0efa5c1bee6bb4ecd294c2294a8554de500d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "dfcb47ca300d7318ae04232117722a7212798b301a1de77326b5a1cd9e45c869",
+              "range": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        "content": "5.1.3. Der Lernfall ‚Pflegen können‘ Zukunftsfähige Lernprozesse in den Pflegeausbildungen berücksichtigen die Professionalisierungsprozesse und das arbeitsplatzverbundene Lernen. So werden das Lernen und Lernprozesse in den Pflegeausbildungen in den Kon- text fallbezogener Pflegebildung und Professionalisierungsprozesse der Pflegeberufe gestellt (vgl. Hundenborn 2007:21). Das professionelle Handeln in Pflegesituationen ist das gemeinsame und sinnstiftende Ziel für die an den Pflegausbildungen Beteiligten. VEIT weist darauf hin, dass „[D]die ungenügend ausgeprägte hermeneutische Komponente (sowohl in der wissen- schaftlichen Diskussion als auch in der praktischen Arbeit) [ist] in besonderer[m] Maße dafür verantwortlich (ist A.d.V), dass der Krankenpflege gegenwärtig der Status einer Profession noch nicht zugestanden werden kann. Darüber hinaus lassen sich (...) auch auf der Ebene der wissenschaftlichen Reflexion krankenpflegerischer Arbeit noch erhebliche Mängel und strukturelle Defizi"
+      },
+      {
+        "rank": 4,
+        "id": "4dde24bf2e2db27cd59fe607457966bdcc2670fdb026ef456cc24f8a6f7918dd",
+        "score": 0.8665502667427063,
+        "meta": {
+          "file_path": "9783866496811_chapter_0734.txt",
+          "source_id": "73159f5e67b9c80ad40b780c8e9cc0619922ce540805a357880fa45cf8389fbb",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 4370,
+          "_split_overlap": [
+            {
+              "doc_id": "afb4668cd27ae6f85a2b05b16100fd8506580769daea0b430acee3a3060c58d5",
+              "range": [
+                1094,
+                1505
+              ]
+            }
+          ]
+        },
+        "content": "Pflege‘. Darin beschreibt sie unter anderem die somatischen und psychosozialen Problematiken, welche Patienten und deren Angehörige ausgesetzt sind. Um diesen Problemen und Nöten profes- sionell entgegenzutreten wird die Pflege vor zwei ‚Herausforderungen‘ gestellt. Dass die Pflege „den ganzheitlichen/ holistischen Charakter ihrer Profession akzeptiert und folgerichtig Beratung als ein unabdingbares Element des Pflegehandelns in den Alltag der Pflege integriert.“ (vgl. Koch-Straube 2002:83f) Ganzheitlichkeit ist eine zentrale Dimension auch im Beratungshandeln. Menschen nicht nur als defekt oder begrenzt, sondern vorübergehend einge- schränkt in einer der vielen Dimensionen zu betrachten, dies ist als eine gemeinsame Eigenschaft von Pflege und Beratung auszumachen. Diese ge- meinsamen Schnittstellen auch in die Theoriebildung von Beratung in der Pflege mit einzubeziehen, ist eine Entwicklung, die noch ziemlich in den Kinderschuhen zu stecken scheint. Theoriegeleitet in ein neues Praxis"
+      },
+      {
+        "rank": 5,
+        "id": "ee71426c438d77f65b1aac73409265a44e559757c6a37f908d3a5360a8578e44",
+        "score": 0.7470277547836304,
+        "meta": {
+          "file_path": "9783866496811_chapter_0631.txt",
+          "source_id": "2a024c8557b1767a477cc03ae9bd649b841b14c8102575617fe3cc8a0a9da627",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3508,
+          "_split_overlap": [
+            {
+              "doc_id": "6b34f685e86408d661c43812ca2accec6e7fd3ce74835856a69209d22df6ea38",
+              "range": [
+                1098,
+                1483
+              ]
+            },
+            {
+              "doc_id": "a5b87e351936856b623183949273c31986b80b4df19de02d7f9a0154a6c57d25",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "dem Pflegeberater oder der Pflegeberaterin stellen. Der Antrag ist unverzüglich der zuständigen Pflege- oder Krankenkasse zu übermitteln, die den Leistungsbescheid unverzüglich dem Antragsteller und zeitgleich dem Pflegeberater oder der Pflegeberaterin zuleitet. (3) Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu bemessen, dass die Aufgaben nach Absatz 1 im Interesse der Hilfesuchenden zeitnah und umfassend wahrge- nommen werden können. Die Pflegekassen setzen für die persönliche Beratung und Betreuung durch Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes Perso- nal ein, insbesondere Pflegefachkräfte, Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und Qualifikation von Pflegeberatern und Pflegeberaterinnen gibt der Spitzenver- band Bund der Pflegekassen bis zum 31. August 2008 Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen spätestens zum 30. Juni 20"
+      }
+    ]
+  }
+]

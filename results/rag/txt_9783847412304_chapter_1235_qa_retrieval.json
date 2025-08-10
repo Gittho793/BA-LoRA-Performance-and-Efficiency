@@ -1,0 +1,689 @@
+[
+  {
+    "filename": "9783847412304_chapter_1235.txt",
+    "question": "Was versteht man unter einem kritisch-emanzipativen Bildungsverständnis gemäß Bernhard (2001)?",
+    "answer": "Eine kritisch-emanzipative Subjektwerdung des Menschen im widerspruchsvollen Beziehungsgeflecht von Individualgenese und gesellschaftlichem Prozess.",
+    "expected": "Ein kritisch-emanzipatives Bildungsverständnis versteht Bildung als emanzipative Subjektwerdung des Menschen im widersprüchlichen Verhältnis von Individualgenese und gesellschaftlichem Prozess, ausgehend von einer unmündigen Gesellschaft, die ihre Entwicklung vor allem an ökonomischem Fortschritt und Gewinn orientiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "27dc17bdb1913d8864926eddb44fe9084e80983a320667a9856f942f48a46ca3",
+        "score": 0.959999144077301,
+        "meta": {
+          "file_path": "9783847412304_chapter_1235.txt",
+          "source_id": "12e89d3b3b28508839584d213989632af69be77450ca53c1981be45c74f51741",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "436f760dc2b808ace84af4a9251f5fcfeb62baea7d09657b3b725c84caa5805a",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "5. Ansätze einer kritisch-emanzipativ verorteten Beratung Basis einer kritisch-emanzipativ verorteten Beratung, wie sie nachfolgend verstanden werden soll, bildet ein kritisches Bildungsverständnis, das nicht nur die Widersprüchlichkeit von Individualisierung und Vergesellschaftung in den Blick nimmt, sondern Bildung an sich in ihrer Interdependenz begreift: „Gegenstand einer kritischen Theorie der Bildung ist die emanzipative Subjektwerdung des Menschen im widerspruchsvollen Beziehungsgeflecht von Individualgenese und ge- sellschaftlichem Prozess. Sie geht von einer grundlegend unmündigen Gesellschaft aus, die ihre Entwicklungsperspektiven nahezu ausschließlich an ökonomischem Fortschritt und wirtschaftlichem Gewinn anlegt“ (Bernhard 2001, S. 20). Und gleichzeitig ist Bildung die dichotome Kategorie, in welcher die Befrei- ung aus Abhängigkeitsverhältnissen und zugleich das Instrument zur Anpas- sung an gesellschaftliche Produktionsverhältnisse stecken (vgl. Drees 2017). Unter Berücks"
+      },
+      {
+        "rank": 2,
+        "id": "3411fd9dad5f9c7767cd63f5cbf433cb8b11443530211027182ebc01257faaec",
+        "score": 0.10601592063903809,
+        "meta": {
+          "file_path": "9783839444856_chapter_07213.txt",
+          "source_id": "dd5f3c266c99cf8991dcbed83f2002a4eba352bcaf4484ede529b7d0b4dc4f6b",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3737,
+          "_split_overlap": [
+            {
+              "doc_id": "f15f12336b598ea577611c4d384806c2e6ead9da990ecbffc1097886668201de",
+              "range": [
+                1283,
+                1668
+              ]
+            },
+            {
+              "doc_id": "d0f643711310ec8d54fa74db716064d09076a6f637a1be529a2aca1bd7a6552b",
+              "range": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        "content": "bei der Vermittlung zwischen unterschiedlichen Bildungs- und Qualifikations­ systemen. »Also ich glaube, das ist ganz platt gesagt, Anerkennungsberatung versucht eine Übersetzungsleistung zu erbringen zwischen allen Bildungssyste­ men dieser Welt zum deutschen Bildungssystem, also wenn man jetzt bei Deutschland bleibt. Das heißt, es wird versucht eine Einordnung zu finden oder eine Übersetzung zu finden. Also ich glaube, am schönsten transferiert ist der Begriff der Brücke, es überbrückt unterschiedliche Systeme […]. Und Anerkennungsberatung versucht diese Transferleistung zwischen allen Bil­ dungssystemen der Welt und dem Deutschen zu leisten, das ist eine riesige Aufgabe, die unglaublich viel verlangt von den Berater_innen […]. Ich glaube, das ist die große Herausforderung, aber auch der große Mehrwert von An­ erkennungsberatung, diese Brücke zu bilden, weil: Wer sollte das sonst ma­ chen?« (E/DE, Z. 562-583) Für die Klärung der Möglichkeiten und Zuständigkeiten im Anerkennungs- oder"
+      },
+      {
+        "rank": 3,
+        "id": "e98ea492216ba669eaec36f1670b30fe1824559a86e0a888ad033e5bd2ea1b08",
+        "score": 0.042533569037914276,
+        "meta": {
+          "file_path": "9783847412304_chapter_0722.txt",
+          "source_id": "fa0a11eece0b8889200da895ad081fd4c36ca5ed61d24d7a3c0d84c4ec55f92d",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2290,
+          "_split_overlap": [
+            {
+              "doc_id": "46f3f6f89e68d4ae270c5cfeab7fe42079d3d02a40388aff53035b32d8afa53f",
+              "range": [
+                1159,
+                1548
+              ]
+            },
+            {
+              "doc_id": "8dec3094e571338d7baeef623e49119bc7338570c882d38c3279e50d49882124",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "Zuschreibung einer defensiven Haltung des Stillstands, also über das Fehlen von Bewegung, charakterisiert (Adorno 1972: 108). In beiden Fällen bietet das verwendete bildungstheoretische Vokabular Anschlussmöglichkeiten für die Vorstellung, Bildung sei über das Mittel der Reise zu „erreichen“. Aus einer sozialgeschichtlichen Perspektive zeigt sich zudem ein Wandel darin, wie Bildung und Reisen historisch zueinandergefunden haben. Bildung und Reisen wurden seit der Spätrenaissance für höchst differente soziale Gruppen in unterschiedlichen Reiseformen möglich (vgl. Hlavin-Schulze 1998). Die jeweiligen Ansprüche an Bildung unterschieden sich entsprechend. So ist es naheliegend, dass die Grand Tour der jungen Adligen Europas in der Renaissance sich so sehr von den heutigen Erasmus-Studierenden unterscheidet, wie dies bei der Walz im 18. oder den politischen Wanderbewegungen des 19. Jahrhunderts der Fall ist (ebd.). Gleichzeitig wird daraus ersichtlich, dass das, was jeweils als Bildung galt"
+      },
+      {
+        "rank": 4,
+        "id": "155f958eca34bb2b0d464f656fe3c29560683140a7ffa9294b69a5ce4808e7ed",
+        "score": 0.02818828821182251,
+        "meta": {
+          "file_path": "9783847412304_chapter_1041.txt",
+          "source_id": "8a10b7834b77f53d2563deaab5db6059247f9af304bb740ee2730940a25d201b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "f03984255e9d56a160f46e3db5eef2552b8d61f95bb1e281efa2d3321ce8aff5",
+              "range": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        "content": "Franziska Schulze-Stocker / Christian Schäfer-Hock / Robert Pelz Intervention in den Studienverlauf und Beratung 1. Einleitung Vor dem Hintergrund des Lebenslangen Lernens und des Fachkräftemangels stellt die akademische Bildung (junger) Erwachsener eine zentrale Quelle für Produktivität und Wachstum dar. Lehr- und Lernkulturen und ihre Ausprä- gungsformen an Hochschulen in Deutschland sind daher von besonderem In- teresse für die Forschung im Bereich der Erwachsenenbildung (Rhein 2016). Insbesondere problematische Studienverläufe und Studienabbrüche sind der- zeit ein wichtiges Thema in bildungspolitischen Debatten (Heublein et al. 2017). Probleme im Studium können eine Studienabbruchneigung bedingen (für den Zusammenhang mit Studienabbruch: Bean 1982; Blüthmann 2012; Gold 1988), die als „die Häufigkeit bzw. die Ernsthaftigkeit von Gedanken an das Verlassen der Universität“ (Blüthmann 2012: 89) operationalisiert wird. Stimmt man mit Schüßler (2016) überein, dass Erwachsenenbildung die"
+      },
+      {
+        "rank": 5,
+        "id": "ed14216f09d45dc9380eaef72cb50abc62bcc6c86c7166386d7a885ef3cd8166",
+        "score": 0.022924991324543953,
+        "meta": {
+          "file_path": "9783866496811_chapter_0621.txt",
+          "source_id": "4f980fa2fd94761ca0729078c5ad8abb119f5a352952a73de71f28f8adb2b8e3",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3560,
+          "_split_overlap": [
+            {
+              "doc_id": "b8205733c70a1f198e62aadcbf20f1d4249bf456ef00c232e070b3db6a3da71e",
+              "range": [
+                1214,
+                1623
+              ]
+            },
+            {
+              "doc_id": "a608405f32d9a2d309fe73b89f2ed19bef934c4510d9c20c713778149ab0949f",
+              "range": [
+                0,
+                327
+              ]
+            }
+          ]
+        },
+        "content": "nachvollziehen. Die empfehlenden Ausbildungsrichtlinien von Nordrhein-Westfalen machen bereits im Teil A dem Begründungsrahmen deutlich, dass ein pädagogischer Einfluss nur indirekt erfolgen kann. Denn durch die verschiedenen Lehr- und Lernprozesse wird ein Angebot gegeben welches den Lernenden ermöglichen soll die eigene Persönlichkeit zu entfalten und weiterzuentwickeln, um dadurch die Verantwortung zur Anwendung des Wissens und den Umgang mit den eigenen Kompetenzen zu übernehmen (vgl. AltPflG 2003:15 f). Das Bildungsverständnis der Ausbildung liegt also primär auf der Persönlich- keitsentwicklung und Erlangung beruflicher Handlungskompetenzen, was im Teil B der Empfehlenden Ausbildungsrichtlinien, den vier verschiedenen Lernbereichen auch deutlich wird. Bereits im Lernbereich 1 ‚Aufgaben und Konzepte der Pflege‘, welcher allei- ne 1200 Unterrichtsstunden umfasst und somit den größten Teil der theoretischen Ausbildung abdeckt, wird das übergeordnete Ausbildungsziel ‚Beratung‘ als ei"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1235.txt",
+    "question": "Welche doppelte Funktion hat Bildung laut Drees (2017) in der kritisch-emanzipativen Beratung?",
+    "answer": "Die doppelte Funktion von Bildung in der kritisch-emanzipativen Beratung laut Drees (2017) ist, dass Bildung als Beratung und als Bildung gleichzeitig ist. Bildung vollzieht sich meist im Vorraum der Bildung, wobei die klassische Kurswahl oder Weiterbildung betreffende Beratung und die Beratung als Bildung fließend ineinander übergehen. Bildung kann als Grundprinzip in der Begleitung von Lernprozessen angesehen werden und erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können darunter gefasst werden, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie z.B. bei Coaching, Supervision und Mediation.",
+    "expected": "Bildung hat eine dichotome Funktion, indem sie sowohl die Befreiung aus Abhängigkeitsverhältnissen ermöglicht als auch gleichzeitig ein Instrument zur Anpassung an gesellschaftliche Produktionsverhältnisse darstellt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a80f96a9ff0ef6fa41cdc8f929d0a629ada8e5cc8e00301a5aa4808134dd3233",
+        "score": 0.41697657108306885,
+        "meta": {
+          "file_path": "9783847412304_chapter_0723.txt",
+          "source_id": "f915d6d4d9c0cb0af2d60edaf21cbae4963feb786bbfec5acb2120139ef15d94",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3466,
+          "_split_overlap": [
+            {
+              "doc_id": "4ef1932cb1f7f5762270514458795433728c060f07e434a50f2643d7978f7e1a",
+              "range": [
+                1217,
+                1657
+              ]
+            }
+          ]
+        },
+        "content": "vollziehende Handlungen. Im Kontext des Bildungsreisens lassen sich die hier stattfindenden Be- ratungsakte auf den Bereich der informellen Bildungsberatung eingrenzen (Ewers 2014). Reiseentscheidungen sind demgemäß Bildungsentscheidungen. Bezieht man die oben skizzierten Voraussetzungen einer doppelten Differenz des Beratungsbegriffs auf Bildungsreisen, so lassen sich die Formen der Ad- ressierung von potentiellen (Bildungs-)Reisenden dahingehend befragen, wie potentielle Reisende in informellen Ratgebern adressiert und wie subjektive Aneignungsprozesse von Welt durch spezifische Beratungssettings präfor- miert werden."
+      },
+      {
+        "rank": 2,
+        "id": "c01d2b0b56a47d4542c5a0458278fd546a4ea8bb2f9aeb79364baa590db8ba25",
+        "score": 0.3717321753501892,
+        "meta": {
+          "file_path": "9783847412304_chapter_0722.txt",
+          "source_id": "fa0a11eece0b8889200da895ad081fd4c36ca5ed61d24d7a3c0d84c4ec55f92d",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "46f3f6f89e68d4ae270c5cfeab7fe42079d3d02a40388aff53035b32d8afa53f",
+              "range": [
+                0,
+                437
+              ]
+            }
+          ]
+        },
+        "content": "2. Bildung, Reisen und Bewegung Die Verbindung von Bildung und Reisen zu untersuchen mag zunächst wenig innovativ wirken, da beide Konzepte fast schon „natürlich“ aneinander gekoppelt zu sein scheinen. Die romantisierende Grundannahme fußt dabei darauf, dass das Reisen die Wahrnehmung von „irritierender Fremdheit“(Schäfer 2011) ermögliche, Subjekte dadurch in Differenz zu ihren gewohnten Selbst- und Weltverhältnissen treten und im Zuge dessen ein reflexives Verhältnis zu sich selbst entwickeln können, welches transformative Bildungserfahrungen (u. a. Koller 2012) zu evozieren vermag. Wirft man einen Blick auf die Geschichte des (Bildungs-)Reisens, zeigt sich, dass das Reisen historisch über einen langen Zeitraum primär funktional-materiell bestimmt wurde. Die Legitimierung der Bewegung konnte dabei nur durch das Erfüllen mit ihr verbundener politischer, ökonomischer oder militärischer Zwecke erfolgen (vgl. Hlavin-Schulze 1998). Die ideelle Zusammenführung von Bildung und Reisen als „ni"
+      },
+      {
+        "rank": 3,
+        "id": "af4dc03f1742d3c01c9a4041e37e74f4289f197fe9322aaa358443d1dfbe0bc2",
+        "score": 0.22871097922325134,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 10661,
+          "_split_overlap": [
+            {
+              "doc_id": "55c72625eb6d8cc2ab9eae6678eded3199f1863ad32ca435ecc0fa8ad9a08711",
+              "range": [
+                1147,
+                1494
+              ]
+            },
+            {
+              "doc_id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+              "range": [
+                0,
+                361
+              ]
+            }
+          ]
+        },
+        "content": "der Regel entscheiden sich Ratsuchende in Phase drei oder vier dafür, eine Beratung aufzusuchen, wenn sie den eigenen Handlungsbedarf für sich bereits realisiert haben. Das heißt jedoch nicht, dass im Beratungsprozess Anteile der Leugnung oder star­ ker emotionaler Reaktionen nicht noch wieder auftreten können (s. 6.1 Was geschieht zwischen den Methoden?). „Dabei soll eine Beratung für bildungsferne Zielgruppen möglichst früh einsetzen, um Bildungsbarrieren überwinden zu können bzw. gar nicht erst entstehen zu lassen.“ (Schlüter 2016: 219) Hier liegen besondere Chancen der Bildungsberatung als niedrigschwelliger Zugang der Erwachsenenbildung. Bildungsberatung als Handlungsfeld der Erwachsenenbildung Der Bildungsberatung kommt bei der Begleitung von Selbstlern- und Verän­ derungsprozessen eine besondere Chance zu. Dies lässt sich nachvollziehen, wenn wir uns den doppelten Bezug zwischen Bildungsberatung und Erwach­ senenbildung vergegenwärtigen. Franz Pöggeler widmet der Bildungsberatun"
+      },
+      {
+        "rank": 4,
+        "id": "9b9a92f8e14455f0a19055c5e542b303b0210737b245fed79a972bcc8f1fd4fc",
+        "score": 0.09994754940271378,
+        "meta": {
+          "file_path": "9783839444856_chapter_0513.txt",
+          "source_id": "609a3a8d2d7eed18ca7d307a1a2edbd52a375eb1943873201611c22108f57758",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1261,
+          "_split_overlap": [
+            {
+              "doc_id": "816c068ea1a69ae93978190057c5e5822ac8a6882731928f75880c5fd02920f7",
+              "range": [
+                1261,
+                1667
+              ]
+            },
+            {
+              "doc_id": "d4181cd52317079e9d1d2aa386a6a4080a9809eb4719b3b72259104561617d2b",
+              "range": [
+                0,
+                443
+              ]
+            }
+          ]
+        },
+        "content": "des Be­ ratungsfeldes steht ebenfalls noch aus (vgl. Maier-Gutheil und Nierobisch 2015, S. 30). Stattdessen existieren unterschiedliche Theoriemodelle und Systematisierungsversuche, welche jedoch ein sehr umfassendes Bild von Bildungs- und Berufsberatung in unterschiedlichen Kontexten vermitteln. Die Darstellung dieser Zugänge soll hier genutzt werden, um das breite Auf­ gabenspektrum der Bildungs- und Berufsberatung und die unterschiedli­ chen Perspektiven auf die Zielsetzungen zu verdeutlichen. Nach Preißer (vgl. 2012, S. 14f.) erfolgen die Systematisierungen nach Leitideen, Themenfel­ dern, Beratungsanlässen, Zielgruppen, Zielen, Beratungsformen, der Reich­ weite, dem Medium und den Beratungsmethoden. Nachfolgend werden drei ausgewählte Systematisierungen nach Gieseke und Opelt (vgl. 2004), Schiersmann und Remmele (vgl. 2004) sowie Arnold und Mai (vgl. 2008) aus­ führlicher dargestellt und in Bezug auf die Einordnung von Anerkennungs­ beratung reflektiert. Auf der Grundlage von Gesp"
+      },
+      {
+        "rank": 5,
+        "id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+        "score": 0.09715812653303146,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12933,
+          "_split_overlap": [
+            {
+              "doc_id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+              "range": [
+                1104,
+                1495
+              ]
+            },
+            {
+              "doc_id": "720a21e474d1d982ad9e42c74276eb8280d32ec5285d3621366adce245ff53eb",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "man inzwischen von einem doppelten Bezug zwi­ schen Beratung und Erwachsenenbildung sprechen. Beratung kann seit dem ‚Shift from Teaching to Learning‘ implizit oder explizit5 selbst als Grundprin­ zip in der Begleitung von Lernprozessen angesehen werden. Damit erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können dann darunter gefasst wer­ den, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie es z.B. bei Coaching, Supervision und Mediation der Fall ist. Gleichzeitig bewegt sich die Didaktik der Erwachsenenbildung stärker auf die Integration von Beratungsprozessen zu (vgl. Gieseke 2000: 14 und Schiersmann 2015: 101).6 Es gehört zur Tradition der Erwachsenenbildung, Lehr-Lernprozesse als Begleitung von Selbstlernprozessen zu betrachten (vgl. Arnold 2010). Wir Menschen müssen uns jeden Tag auf Veränderungen und neue Situationen einstellen. Wir sind sozusagen perm"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1235.txt",
+    "question": "Wie unterscheidet sich die Rolle des Beraters in einer kritisch-emanzipativ verorteten Beratung von einer non-direktiven Haltung?",
+    "answer": "In einer kritisch-emanzipativ verorteten Beratung nimmt der Berater eine besondere Rolle ein, indem er Wissen und Haltung vermittelt, Normen und Werte zur Diskussion stellt und dazu anregt, in der Auseinandersetzung mit sich selbst eigene Normen und Werte zu entwickeln. Dies setzt eine professionelle Beziehung voraus, die mit dem Ratsuchenden in Kontakt geht, eine präsente, tragfähige Bindung aufbaut und Differenzen in den Blick nimmt. Im Gegensatz dazu wird in einer non-direktiven Haltung der Berater nicht als Wissens- und Haltungsvermittler wahrgenommen, sondern als jemand, der den Ratsuchenden in die Selbstfindung unterstützt, ohne ihn zu leiten oder zu steuern. Die kritisch-emanzipative Beratung betont die Bedeutung der Beratungskompetenz, die nicht nur die Fähigkeit zur Kommunikation und Interaktion umfasst, sondern auch die Fähigkeit, die eigene Rolle als Berater zu reflektieren und zu hinterfragen. Der Berater in einer kritisch-emanzipativ verorteten Beratung ist also nicht nur ein neutraler Mittler, sondern ein aktiver Partner im Beratungsprozess, der die Entwicklung der Ratsuchenden unterstützt und begleitet.",
+    "expected": "Der Berater nimmt nicht eine non-direktive Haltung ein, sondern vermittelt Wissen und Haltung, stellt Normen und Werte zur Diskussion und regt dazu an, dass Ratsuchende in Auseinandersetzung mit sich selbst eigene Normen und Werte entwickeln.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "4f9d24d8b5023c46853a5ebbbc133dd0fdf3192348b356f30cda9b0695a38b39",
+        "score": 0.9956691265106201,
+        "meta": {
+          "file_path": "9783847412304_chapter_11232.txt",
+          "source_id": "165cc2ca9f68fe354f24949bc4506990fd282fba69a1c40eb159a2adbcafaa63",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2202,
+          "_split_overlap": [
+            {
+              "doc_id": "c150a03ab688aa4a77892a2f0fc5a49202aeb4f7a517d3ce19de88816b6e7f4c",
+              "range": [
+                1060,
+                1429
+              ]
+            },
+            {
+              "doc_id": "8c468a81ccb0c0203138aef68a1f7cdfdb45a3ad3f68d9804dd6179eade358fd",
+              "range": [
+                0,
+                318
+              ]
+            }
+          ]
+        },
+        "content": "der Berater sein Rollenverständnis darlegt (z. B. „ich hab das aber soweit vorbereitet“). Der Coach konstituiert sich hier als kompetenter und vorbereiteter Berater, der zugleich flexibel ist. Die Eröffnung des Coachings erinnert insgesamt an das Heraufbeschwören eines gemeinsamen Weges, an dem beide Akteure mitentscheiden können, wobei die Gestaltungsmacht im Sinne der Rollen- und Auftragsklärung aber letztlich beim Berater liegt. Die nachfolgende Textsequenz stammt aus einem Gespräch am Ende des Beratungsprozesses: Der Berater spricht von der Schule ohne ein bestimmtes Thema daran zu knüpfen. Der Rahmen bleibt offen, die Coachee kann frei entscheiden, ob sie nun ein fallbezogenes Thema aufgreift oder ein neues Thema besprechen will. Nachdem der Anlass geklärt scheint, macht der Berater eine weitere Option auf, indem er anfügt: „möglicherweise nochmal son son anschluss“. Er schlägt damit eine Brücke zwischen zwei Alternativen, der des Beratungsabschlusses und eines Folgetermins, der j"
+      },
+      {
+        "rank": 2,
+        "id": "d3d79ec29f132d0c8a418cf0d8d389eb4e1911778bf6777fc3de32753ad9614b",
+        "score": 0.9940263032913208,
+        "meta": {
+          "file_path": "1001586_chapter_081.txt",
+          "source_id": "1c8bddd58cafbdc625d0fa89f3f6450453d434e7c9e1754f7241e9f9edc1598d",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1227,
+          "_split_overlap": [
+            {
+              "doc_id": "75ce25fa3face691f6391b9da944e0e98369f5b9da7df81aac651696d1fd8297",
+              "range": [
+                1227,
+                1627
+              ]
+            },
+            {
+              "doc_id": "f97941b9d5f8e189717a8b51bed17849614fe9cdecce8639562f6cbb1722181a",
+              "range": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        "content": "Entscheidungs- und Übergangsberatung resultieren kann, brauchen Beraterinnen und Berater Kenntnisse und Kompetenzen in der Durchführung methodisch angeleiteter Prozesse. Methodenbeschreibungen spielen für das Erlernen von Beratungskompe­ tenz eine wichtige Rolle. Sie haben den Vorteil, dass sie eine gute Orientierung für mögliche Beratungsprozesse bieten. Auch wenn es sich immer um abstra­ hierte Beratungsprozesse handelt, transportieren sie Ideen für ein Vorgehen, das erfahrene Beraterinnen und Berater entwickelt haben. Wir haben uns dafür entschieden, auf den Unterschied zwischen Metho­ den und Techniken wert zu legen, um deutlich zu machen, dass die Metho­ denkompetenz von Beraterinnen und Beratern nicht darin besteht, möglichst viele Methoden auswendig zu kennen. Erst die Veränderung und Anpassung von Methodenbeschreibungen auf die aktuelle Beratungssituation verspricht eine gelingende Beratung. Da für den Einsatz von Techniken als frei kombi­ nierbare Bausteine weniger äußere Vora"
+      },
+      {
+        "rank": 3,
+        "id": "436f760dc2b808ace84af4a9251f5fcfeb62baea7d09657b3b725c84caa5805a",
+        "score": 0.9897230863571167,
+        "meta": {
+          "file_path": "9783847412304_chapter_1235.txt",
+          "source_id": "12e89d3b3b28508839584d213989632af69be77450ca53c1981be45c74f51741",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1313,
+          "_split_overlap": [
+            {
+              "doc_id": "27dc17bdb1913d8864926eddb44fe9084e80983a320667a9856f942f48a46ca3",
+              "range": [
+                1313,
+                1702
+              ]
+            },
+            {
+              "doc_id": "6916b13f2ae1a1e2171fc78dbc7b1eeda21a080c7d2c480969643013bf802edf",
+              "range": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        "content": "Be- ratung4 nehmen nicht nur das Interaktions- und Kommunikationsgeschehen der Beratung in den Blick, sondern verfügen auch über eine (selbst-)kriti- sche beraterische Grundhaltung. Diese umfasst u. a. Fragen der Solidarität, der gesellschaftlichen Einbettung sowie der professionellen Beziehungs- und Bindungsfähigkeit. So kommt der Beraterin oder dem Berater in einem solchen Beratungs- verständnis eine besondere Rolle zu, da er oder sie nicht die von Ribolits kritisierte non-direktive Haltung einnimmt, sondern Wissen und Haltung vermittelt. Sie oder er stellt Normen und Werte zur Diskussion und regt dazu an, in der Auseinandersetzung mit sich selbst eigene Normen und Werte zu entwickeln. Hierzu bedarf es – erstens – einer professionellen Beziehung, die tatsächlich mit dem oder der Ratsuchenden in Kontakt geht, eine präsente, tragfähige Bindung aufbaut sowie Differenzen in den Blick nimmt. Das be- inhaltet – zweitens – auch das eigene Eingebunden-sein in gesellschaftliche Mechanismen zu"
+      },
+      {
+        "rank": 4,
+        "id": "9df225bb49b622058ca19b666b4bd456a03e61168da2f41348a7ddefa0ab6985",
+        "score": 0.9793757796287537,
+        "meta": {
+          "file_path": "9783866496811_chapter_084.txt",
+          "source_id": "6326151b9a4cb66a55f87d2ae580bb66a02d0515c8ad6817554d37d7fe1e2078",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1124,
+          "_split_overlap": [
+            {
+              "doc_id": "26a46e57d4057b46ef19adca26379987df979f5c2d39843b0bdc42069ac51cae",
+              "range": [
+                1124,
+                1468
+              ]
+            },
+            {
+              "doc_id": "db13ef91d02e1bb35b16c9171daa2e08835a66018f7e5b8b550ff8776463e7c2",
+              "range": [
+                0,
+                418
+              ]
+            }
+          ]
+        },
+        "content": "um die Kybernetik der 1. und 2. Ordnung sowie deren Unterscheidungen und den vollen Respekt vor der Haltung des beraterischen Gegenübers. In der Beziehungskompetenz geht es sowohl um die grundlegende Fähigkeit wie Empathie als auch um die Wahrnehmung und Deutung der Beziehungs- muster der zu beratenden Menschen. Diese Beziehungsmuster können aus der Art des Umgangs, der Reaktionen von Berater und Ratsuchenden und aus dessen Umgang im sozialen Bezug erschlossen werden. Systemische Kompetenz sollte sich in allen fünf beschriebenen Kern- kompetenzen wie ein roter Faden durchziehen. Bezogen auf die Diagnostik und die Interventionen zeigt sich lediglich ein eigenes Profil systemisch-beraterischen Handelns. Dieses beruht auf den systemisch-therapeutischen Schulen (wie sie auf das MRI in Palo Alto zu- rückgehen oder in Bezug auf Niklas LUHMANN sich bei uns vielfältig und breit gefächert entwickeln konnten). Zudem haben systemische Konzepte mittlerweile breiten Eingang in andere Schulen von Be"
+      },
+      {
+        "rank": 5,
+        "id": "8a1c91cb0fb31a699a1af5949f2128172476d398ca4612b513f90658303c9a1e",
+        "score": 0.9748484492301941,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5136,
+          "_split_overlap": [
+            {
+              "doc_id": "9dbc41cc1800ba31a1886e855e12fee66b06f6b7ff0b0ee1673bac683dae10a4",
+              "range": [
+                1287,
+                1718
+              ]
+            },
+            {
+              "doc_id": "874a79792f608f1638abc7d09b7190101ab64bbdc66041fdc8d04d6a51a7edc6",
+              "range": [
+                0,
+                507
+              ]
+            }
+          ]
+        },
+        "content": "zeigen sich Bedarfe für Beratung. Genannt seien hier unterschiedliche Ausprägungen/Varianten von Lernberatung, etwa im Rahmen selbstgesteuerter Lernprozesse, der didaktischen Gestaltung und Nutzung von Lernumgebungen (Stichwort: Selbstlernarchitekturen) oder auch der Dezentralisierung von Lernorten. Von Interesse sind auch Mikroanalysen, die der Prozesshaftigkeit von Beratung gerecht werden. Fragen richten sich darauf, wie die Relation von Beraten und anderen pädagogischen Handlungsformen in unterschiedlichen Settings ausgestaltet ist, welche Spannungsfelder sich möglicherweise ergeben (z. B. mit diagnostizierenden Aktivitäten) oder auch, welche Rolle Beraten in pädagogischen Handlungsfeldern vor dem Hintergrund der Verbreitung ökonomischer Orientierungen und Maßstäbe spielt. Beratung stellt eine anspruchsvolle soziale Dienstleistung dar. Wie bei vergleichbaren Berufen findet auch hier ein Professionalisierungsdiskurs statt. Dabei werden verschiedene Ebenen angesprochen: Kompetenzen al"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1235.txt",
+    "question": "Warum ist es wichtig, dass Berater in der kritisch-emanzipativen Beratung ihr eigenes Eingebundensein in gesellschaftliche Mechanismen thematisieren?",
+    "answer": "Es ist wichtig, dass Berater in der kritisch-emanzipativen Beratung ihr eigenes Eingebundensein in gesellschaftliche Mechanismen thematisieren, da dies ihnen ermöglicht, die eigenen Vorurteile und Annahmen zu reflektieren und zu überwinden. Dies ist unerlässlich, um die Klienten auf ihre eigenen Situationen und Möglichkeiten aufmerksam zu machen und sie zu befähigen, selbstbestimmt Entscheidungen zu treffen. Außerdem ermöglicht die Thematisierung des eigenen Eingebundenseins, dass die Berater ihre eigene Expertensicht reflektieren und ihre Rolle als Berater kritisch überdenken können, was zu einer stärkeren Sensibilität gegenüber den Klienten und ihren Bedürfnissen führt. Durch die Thematisierung des eigenen Eingebundenseins können Berater somit ihre eigene Professionalität stärken und ihre Arbeit effektiver und nachhaltiger gestalten. \n         Zitat aus dem Text: \"Der Mikrokosmos Beratung spiegelt das Ganze (die Bedingungen der Meso- und Makro-Ebene) auch immer wider.\" \n         Der Text erläutert, dass Berater nicht nur auf die individuellen Probleme der Klienten eingehen sollten, sondern auch die gesellschaftlichen Bedingungen und Mechanismen berücksichtigen sollten, in die sie und ihre Klienten eingebunden sind. Nur so können Berater ihre Klienten auf ihre eigenen Situationen und Möglichkeiten aufmerksam machen und sie befähigen, selbstbestimmt Entscheidungen zu treffen. \n         Die Thematisierung des eigenen Eingebundenseins ermöglicht es den Beratern, ihre eigene Expertensicht zu reflektieren und ihre Rolle als Berater kritisch zu überdenken. Dies führt zu einer stärkeren Sensibilität gegenüber den Klienten und ihren Bedürfnissen und ermöglicht es den Beratern, ihre eigene Professionalität zu stärken und ihre Arbeit effektiver und nachhaltiger zu gestalten. \n\n         Die Antwort auf die Frage kann dem Text entnommen werden. Der Text betont die Bedeutung der Berücksichtigung der gesellschaftlichen Bedingungen und Mechanismen, in die Berater und ihre Klienten eingeb",
+    "expected": "Weil sie sich im unauflösbaren Widerspruch von Freiheit und Herrschaft befinden, ist es wichtig, dass sie ihr eigenes gesellschaftliches Eingebundensein reflektieren, um authentisch und kritisch mit Ratsuchenden in Beziehung zu treten und gesellschaftliche Macht- und Abhängigkeitsverhältnisse zu thematisieren.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "68d9f8b21ee11ad0662f6dd327ee9d5c17dc6d3dba333963654f1a294107d67d",
+        "score": 0.9778372049331665,
+        "meta": {
+          "file_path": "9783866496811_chapter_0811.txt",
+          "source_id": "ad72cac51f47e9d1e367d7da51e8560dcd4d17025c33209b85038d0d2398ea49",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2422,
+          "_split_overlap": [
+            {
+              "doc_id": "4d95c8485606e2fe0223e3d12930abb5612d4916c523c922a7576ff3c3e1e9c4",
+              "range": [
+                1267,
+                1688
+              ]
+            }
+          ]
+        },
+        "content": "Veränderungsprozess, auch strukturelle Determi- nanten des gegenwärtigen Daseins von Menschen bleiben ausgeblendet. Das folgende Schaubild erweitert die Sichtweise, es verkompliziert damit das Geschehen innerhalb der Beratung, es ermöglicht gleichzeitig auch die Res- sourcen-Suche, die Netzwerk-Bezogenheit u.v.a.m. Klient, Patient, Bewohner, Ratsuchender, oder wie auch immer das berateri- sche Gegenüber benannt wird, sind sozial Verwobene und strukturell eingebundene Wesen in einem gemeinsamen Prozess, indem der Berater in eben diesen Kategorien ebenfalls (nur anders) eingebunden ist. Der Mikrokosmos Beratung spiegelt das Ganze (die Bedingungen der Meso- und Makro-Ebene) auch immer wider. Welt Ökologie Europa (Gesetze, Entwicklungen) Ökonomie Gesellschaft Familie Lebensorte Arbeitsorte Beratungsstelle Beratende Klienten Mikrokosmos „Beratung“ Mesokosmos „Lebenswelt in Beratung“ Makroebene von Beratung"
+      },
+      {
+        "rank": 2,
+        "id": "fbb884483a17418f37882a1223d6241fe57f85a36c1a8be99498e5e9561b8948",
+        "score": 0.9699938893318176,
+        "meta": {
+          "file_path": "9783847412304_chapter_07142.txt",
+          "source_id": "8c0e2ed9fc2baf66bcc77c52bdceb09818eeb64a4f10cefdb7dacc894b21f799",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 6117,
+          "_split_overlap": [
+            {
+              "doc_id": "20a699cfe9c61aa36719e71644736554189b41f387f017d0fb27f111263a7a26",
+              "range": [
+                1341,
+                1754
+              ]
+            }
+          ]
+        },
+        "content": "Komplexität des Beratungsanliegens eher ignoriert, greift der Berater im zweiten Eckfall die Komplexität auf und reflektiert diese darüber hinaus. Dies wird besonders deutlich, wenn man sieht, dass die Beraterin (K7) hier ohne Reflexionsfragen, Handlungsempfehlungen sowie Lösungsvorschläge auskommt, wohingegen der Berater (K27) mittels unterschiedlicher Fragen Reflexionsanlässe für den Ratsuchenden bietet und Handlungsempfehlungen sowie eigene Lösungsvor- schläge entwickelt und dadurch explizit seine Expertensicht verdeutlicht."
+      },
+      {
+        "rank": 3,
+        "id": "ad30cb7c484ad2dd904d250960dcea768cbe26ee64ca8dca2ebf98d398980f79",
+        "score": 0.9572508931159973,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 7752,
+          "_split_overlap": [
+            {
+              "doc_id": "6b9893e7df5aef25cf53eb4f5bc18fef8c7877467a2981bd76b2652523301d57",
+              "range": [
+                1129,
+                1519
+              ]
+            }
+          ]
+        },
+        "content": "wieder ihrer Wege. Diese Dimension der menschlichen Begegnung ist vor dem Hintergrund meiner persönlichen Beratungspraxis auch für die Beraterin und den Berater jedes Mal wieder eine besondere persönliche und berührende Erfahrung. Damit schließt die Prozessverantwortung der Beraterin und des Beraters aus professioneller und erfahrener Sicht mit einem Nachschwingen, einer Nachbetrachtung und Nachbereitung der Beratung, um sich reflektiert in gu­ ter, klarer und professioneller Distanz wieder einpendeln zu können, bereit für neue Beratungsherausforderungen. Abb. 3: Phasen im Beratungsgespräch und ihre Funktionen (eigene Darstellung)"
+      },
+      {
+        "rank": 4,
+        "id": "1332f2cd485bee23f78968af1c0ad2c673be2112a8d1ea4ba53c9450ef64352f",
+        "score": 0.9569824934005737,
+        "meta": {
+          "file_path": "9783839444856_chapter_0531.txt",
+          "source_id": "649bd3a766884e0baef53a496cd654d3109e5bda46a6ffba631a00e66cb5036e",
+          "page_number": 1,
+          "split_id": 4,
+          "split_idx_start": 5217,
+          "_split_overlap": [
+            {
+              "doc_id": "f4a2cc453bba79b903a586b0325e122385bd756ab2053fb91127e548c346f9aa",
+              "range": [
+                1274,
+                1659
+              ]
+            },
+            {
+              "doc_id": "f69581fb607db4c2a7d577c3d675c959f65cdccccb0b2d679b64697be91587eb",
+              "range": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        "content": "Handeln der Beratenden bewegt«. Enoch (2011, S. 83) versteht den Profes­ sionalisierungsprozess der Beratung als einen »Vergesellschaftungsprozess, um den emanzipativen Anspruch des Beraters mit den Wünschen und Be­ dürfnissen der Klienten und den Ansprüchen von Gesellschaft und Institu­ tionen in Einklang zu bringen«. Schröder und Schlögl (2014, S. 10) beschrei­ ben professionelle Beratung in einem »Spannungsfeld von divergierenden Anforderungen, Erwartungen und Interessenslagen«. Professionelles Bera­ tungshandeln stellt innerhalb dieser Widersprüche kein »regelgebundenes Handeln« (ebd., S. 11) dar, sondern zeigt sich stattdessen im bewussten Um­ gang und in der Auseinandersetzung mit diesen unterschiedlichen Anforde­ rungen und Erwartungen. Es sind jedoch nicht nur die unterschiedlichen Anforderungen und Er­ wartungen, die zu Spannungsfeldern in der Beratung führen. Professionel­ les Beratungshandeln umfasst unaufhebbare Paradoxien und Widersprüche, die bereits in dem Verständnis vo"
+      },
+      {
+        "rank": 5,
+        "id": "732ede48d730ebdcb492b7e4e56a962039a5f69b88fb7009eb7d4216768febeb",
+        "score": 0.956231415271759,
+        "meta": {
+          "file_path": "1001586_chapter_063.txt",
+          "source_id": "3a447150e0b9326fc36ae0b0658462bfb54fc0c16e0ead6874fcfa3bfbb08b9f",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "1ac8cbf2ed6ad7e48c1ad82608d12ba839860a1a769cc2f179ef9df959c24bf1",
+              "range": [
+                0,
+                394
+              ]
+            }
+          ]
+        },
+        "content": "3.3 Verantwortung der Beraterin und des Beraters in den Phasen des Beratungsprozesses Ein jedes Beratungsgespräch ist zuallererst die Begegnung zweier Menschen in einer wechselseitigen Rahmung der Erwartungen. Beraterinnen und Be­ rater stellen ihr Fachwissen und die Metaperspektive für den Prozess der Beratung zur Verfügung (vgl. Brüggemann u.a. 2009: 15). Die Ratsuchenden gestalten diesen Prozess der Begegnung insofern mit, als sie Expertin und Experte für das eigene Leben sind, für das, wie sie sich im Laufe der Bera­ tung verhalten und welche Entscheidungen sie treffen möchten (vgl. Hargens 2011: 26). Das Setting der Beratung ist von Anfang an über wechselseitige Er­ wartungen definiert. Beide Seiten erwarten ein professionelles, strukturiertes Gespräch unter (zunächst) Fremden. Nachfolgend werden wesentliche Elemente in den jeweiligen Beratungs­ phasen skizziert. Es sei an dieser Stelle darauf hingewiesen, dass sich die Beratungsphasen sowohl auf eine einmalige Beratung als auch a"
+      }
+    ]
+  },
+  {
+    "filename": "9783847412304_chapter_1235.txt",
+    "question": "Wie kann eine kritisch-emanzipative Beratung zur gesellschaftlichen Veränderung beitragen?",
+    "answer": "Eine kritisch-emanzipative Beratung kann zur gesellschaftlichen Veränderung beitragen, indem sie sich mit den Macht- und Abhängigkeitsverhältnissen in der Gesellschaft auseinandersetzt und die Klientinnen und Klienten dabei unterstützt, ihre eigene Subjektwerdung zu fördern. Sie geht von einer grundlegend unmündigen Gesellschaft aus, die ihre Entwicklungsperspektiven nahezu ausschließlich an ökonomischem Fortschritt und wirtschaftlichem Gewinn anlegt. Durch die Aufklärung und Auseinandersetzung mit den gesellschaftlichen Bedingungen kann die Beratung dazu beitragen, dass die Klientinnen und Klienten sich für ihre Rechte und Interessen einsetzen und die Gesellschaft in Richtung mehr Gerechtigkeit und Demokratie verändern. Die Beratung kann auch dazu beitragen, dass die Klientinnen und Klienten ihre eigene Identität und Selbstwahrnehmung stärken und sich in ihrer Rolle als Bürgerinnen und Bürger der Gesellschaft engagieren. Die Beratung kann auch dazu beitragen, dass die Klientinnen und Klienten ihre eigene Fähigkeit zur Selbstreflexion und Selbstentwicklung stärken und sich in ihrer Rolle als aktive Teilnehmerinnen und Teilnehmer der Gesellschaft engagieren. Durch die Förderung der Selbstreflexion und Selbstentwicklung kann die Beratung dazu beitragen, dass die Klientinnen und Klienten ihre eigene Position in der Gesellschaft stärken und sich in ihrer Rolle als Bürgerinnen und Bürger der Gesellschaft engagieren. Die Beratung kann auch dazu beitragen, dass die Klientinnen und Klienten ihre eigene Fähigkeit zur Partizipation und Mitgestaltung der Gesellschaft stärken und sich in ihrer Rolle als aktive Teilnehmerinnen und Teilnehmer der Gesellschaft engagieren. Durch die Förderung der Partizipation und Mitgestaltung kann die Beratung dazu beitragen, dass die Klientinnen und Klienten ihre eigene Position in der Gesellschaft stärken und sich in ihrer Rolle als Bürgerinnen und Bürger der Gesellschaft engagieren. Die Beratung kann auch dazu beitragen, dass die Klientinnen und",
+    "expected": "Indem sie neben der Förderung der Selbstverantwortung die Erfahrungen der Klientinnen anerkennt, Verantwortung für sie übernimmt und ihrem Leid eine öffentliche Stimme gibt, um auf strukturelle Defizite aufmerksam zu machen, und dabei progressive Responsibilisierung kritisch reflektiert, die ökonomische Zwänge in Eigenverantwortung der Einzelnen verlagert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "27dc17bdb1913d8864926eddb44fe9084e80983a320667a9856f942f48a46ca3",
+        "score": 0.9964930415153503,
+        "meta": {
+          "file_path": "9783847412304_chapter_1235.txt",
+          "source_id": "12e89d3b3b28508839584d213989632af69be77450ca53c1981be45c74f51741",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "436f760dc2b808ace84af4a9251f5fcfeb62baea7d09657b3b725c84caa5805a",
+              "range": [
+                0,
+                389
+              ]
+            }
+          ]
+        },
+        "content": "5. Ansätze einer kritisch-emanzipativ verorteten Beratung Basis einer kritisch-emanzipativ verorteten Beratung, wie sie nachfolgend verstanden werden soll, bildet ein kritisches Bildungsverständnis, das nicht nur die Widersprüchlichkeit von Individualisierung und Vergesellschaftung in den Blick nimmt, sondern Bildung an sich in ihrer Interdependenz begreift: „Gegenstand einer kritischen Theorie der Bildung ist die emanzipative Subjektwerdung des Menschen im widerspruchsvollen Beziehungsgeflecht von Individualgenese und ge- sellschaftlichem Prozess. Sie geht von einer grundlegend unmündigen Gesellschaft aus, die ihre Entwicklungsperspektiven nahezu ausschließlich an ökonomischem Fortschritt und wirtschaftlichem Gewinn anlegt“ (Bernhard 2001, S. 20). Und gleichzeitig ist Bildung die dichotome Kategorie, in welcher die Befrei- ung aus Abhängigkeitsverhältnissen und zugleich das Instrument zur Anpas- sung an gesellschaftliche Produktionsverhältnisse stecken (vgl. Drees 2017). Unter Berücks"
+      },
+      {
+        "rank": 2,
+        "id": "eb40cf14a9a2225258e159a2987f1d5b5790f5c8f16e6feb1114cb82d3530490",
+        "score": 0.9811644554138184,
+        "meta": {
+          "file_path": "1001586_chapter_062.txt",
+          "source_id": "a4d4fb5fa33743d0c0ea12ca87026a9384857117016ac9591be3407094a3e44d",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15316,
+          "_split_overlap": [
+            {
+              "doc_id": "06503ec9da0a74448c50962582013b70a20607902fa34b695fbd501562b9d47c",
+              "range": [
+                1175,
+                1624
+              ]
+            },
+            {
+              "doc_id": "9f007787e1d6f2d94097e5bdad66e8fe10ce006ae333914fa71c313e51bb3c90",
+              "range": [
+                0,
+                349
+              ]
+            }
+          ]
+        },
+        "content": "reines Beratungsstudium anbieten (Ausnahmen: Universität Heidelberg, Universität Münster, Hochschule der Bundesagentur für Arbeit)“ (Maier-Gutheil/Niero­ bisch 2015: 116), zur Verfügung stellen. „Stattdessen wird Beratung in einzelnen Disziplinen (z.B. Erziehungswissenschaft, Psychologie wie auch Theologie oder Betriebswirtschaftslehre […]) als Schwer­ punktfach innerhalb des Studiums oder als einzelne Bausteine und Module an­ geboten.“ (a.a.O: 117) Diese kritischen Reflexionen verweisen darauf, dass Beratende gut daran tun, sich auch über die sozialen, gesellschaftlichen und (bildungs-)politischen Zusammenhänge, in denen sie ihre Beratung anbieten, im Klaren sein sollten. Das macht deutlich, dass es nicht immer möglich ist, das Wissen zur Bedeu­ tung von guter Beziehungsarbeit uneingeschränkt umsetzen zu können, dass man sich im Rahmen der Möglichkeiten aber darauf einlassen muss, weil es die Grundlage jedweder Anwendung von Methoden und Techniken innerhalb der Beratung darstellt. Ber"
+      },
+      {
+        "rank": 3,
+        "id": "bf74bd2a4cbf731acf42ca99b38ebb1b6c556dce4942102016c1ece2c8284763",
+        "score": 0.9764591455459595,
+        "meta": {
+          "file_path": "9783866496811_chapter_08.txt",
+          "source_id": "c115a2d4c27ed4fa00440601fe42e54c121fee356ba9b3f5203d73b1a7fe3a04",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge ### 4. Beratungskompetenzen und beratungswissenschaftliche Bezüge Die Entwicklung der Beratungswissenschaft steht derzeit auf einem wichti- gen Prüfstand bezogen auf die wissenschaftliche Fundierung. Beratung wird als multiprofessionell, als interdisziplinär und als Handlungs- wissenschaft verstanden, die sich an verschiedenen wissenschaftlichen Disziplinen orientiert, je nach dem Kontext, dem Praxisbezug. International kann Beratung auf eine lange Tradition der fachlichen Fundie- rung zurückgreifen, ist quasi nicht neu zu definieren (Zwicker-Pelzer, 2010): Das interdisziplinäre Verständnis psychosozialer - darum ganzheitlicher - Beratung drückt sich nicht zuletzt in einem neuen Denken der Quervernet- zung aus. Unterschiedliche Fachvertreter sind sich einig, dass Beratungswissenschaft eine Querschnittswissenschaft ist, die der Kombinati- on verschiedener Lehrgebiete und Disziplinen bedarf, ja genau darin ihr je eigenes P"
+      },
+      {
+        "rank": 4,
+        "id": "3efc3e9aad03e762bf494714a25dee4a9ade17ce0707905798c19ec9e868cf20",
+        "score": 0.9705076217651367,
+        "meta": {
+          "file_path": "9783839444856_chapter_041.txt",
+          "source_id": "27152a5096b4032b99ce9012dda6b986515254e8c98ab629b4331d12e55e882c",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7479,
+          "_split_overlap": [
+            {
+              "doc_id": "94712b697e5472f1e4fba687e7128619814980d4953a2a5020f9b9a1d506ab96",
+              "range": [
+                1285,
+                1710
+              ]
+            },
+            {
+              "doc_id": "0e64858164cc7de689aef10f5784da2e30e1023ece43f87fbb3d66668ad9c86f",
+              "range": [
+                0,
+                411
+              ]
+            }
+          ]
+        },
+        "content": "Seel (2014, S. 30) reflektiert diese Entwicklung kritisch, indem er Beratung als auf dem Weg zu einer »Individualisierungsagentur der Selbstoptimierung« bezeichnet. Es stellt sich hier die Frage, wie Bera­ tung die individuelle Entscheidungs- und Handlungsfähigkeit unterstützen und gleichzeitig einer möglichen Individualisierung von sozialstrukturel­ len Rahmenbedingungen entgegenwirken kann. Für Schrödter (2014, S. 811) folgt daraus notwendigerweise ein »dezidierter gesellschaftlicher Werte­ bezug und Auftrag« der Beratung. Dieser wirkt sich über die Elemente der Professionalität, Institution und des Gesellschaftsbezugs auf die Beratungs­ praxis aus und bildet die widersprüchliche Basis für eine spezifische Sinn­ welt, welche gleichzeitig die relevanten Orientierungen für das professionel­ le Handeln bietet (vgl. ebd.). Voraussetzung hierfür ist ein entsprechendes Selbstverständnis in der Beratung, welches eine Abgrenzung von externen Erwartungen und Anfor­ derungen ermöglicht. Die He"
+      },
+      {
+        "rank": 5,
+        "id": "8133cfd9daf12abf0702daad3913ef07dfb306aa2d2f61595b666017cb07f4a8",
+        "score": 0.9555424451828003,
+        "meta": {
+          "file_path": "9783847412304_chapter_1212.txt",
+          "source_id": "7f72ed28486a375a5f2192b161b78aabdf9031a6250251ea32c6c4b84dabc3de",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1130,
+          "_split_overlap": [
+            {
+              "doc_id": "82f37e380416df2d01c28cac517bb479d5262157568c63d816bedb90b41ed132",
+              "range": [
+                1130,
+                1521
+              ]
+            },
+            {
+              "doc_id": "dc09b182ff71dd43cc4cb88af71ce906b703d585034628ed73837143fcf4bb18",
+              "range": [
+                0,
+                387
+              ]
+            }
+          ]
+        },
+        "content": "Thema. Dass es zumindest analytisch weiterführend sein kann, Organisationen als reflexive, lernfähige Systeme zu konzipieren, sollen die folgenden Darlegungen deutlich machen. Eine ethische Problematik kann sich daraus ergeben, dass das Verständnis von Organisationen als Adressatinnen von Beratung verschleiern kann, dass in den Organisationen einzelne Personen Rat geben und empfangen und darauf Entscheidungen gründen, die dann möglicherweise zu Unrecht der Organisation attribuiert werden. Dieses Problem wird allerdings zumindest entschärft, wenn man Organisationsberatung als Lernberatung von Organisationen fasst, weil damit deutlich wird, dass die Beratung nicht unmittelbar zu Entscheidungen führt, sondern idealerweise Teil eines Lernprozesses ist. Von einem solchen wird kaum die Rede sein können, wenn Beratung und Entscheidung im Wesentlichen „im stillen Kämmerlein“ unter wenigen ausgewählten Personen erfolgen – und dann wäre es auch im klassischen Verständnis nicht angemessen, von Or"
+      }
+    ]
+  }
+]

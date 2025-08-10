@@ -1,0 +1,675 @@
+[
+  {
+    "filename": "9783839444856_chapter_07433.txt",
+    "question": "Was wünschen sich Beratungssuchende laut dem Text im Zusammenhang mit ihrer mitgebrachten Qualifikation und dem Arbeitsplatz?",
+    "answer": "Eine Anerkennung ihrer mitgebrachten Qualifikation und einen entsprechenden Arbeitsplatz.",
+    "expected": "Beratungssuchende wünschen sich einerseits die Anerkennung ihrer mitgebrachten Qualifikation und andererseits einen entsprechenden Arbeitsplatz.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "236ea72440add4ceac68f0ac06f8892105d38229af0ed48029aa36f36244e507",
+        "score": 0.9978122711181641,
+        "meta": {
+          "file_path": "9783847412304_chapter_1042.txt",
+          "source_id": "ad5050796989f7a2c7f2eb3f1e111897805bdf7de85748cab6aff51826b24922",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "3e9a644f5d21c99740262864c9a46ba344f28ccaaaa5abf91b1ab77387774196",
+              "range": [
+                0,
+                362
+              ]
+            }
+          ]
+        },
+        "content": "2. Beratung und Intervention im Hochschulkontext Laut Schubert (2015) bemüht sich die Beratung derzeit um Professionalisie- rung hinsichtlich eines gemeinsamen Ausbildungs- und Beratungsverständ- nisses sowie der Qualitätssicherung unter Einbindung von Wissenschaft. „Beratung ist […] als professionelles Angebot zu ko-konstruktiven, reflexiven Hilfestellungen in der Bewältigung krisenhafter moderner Lebens- und Ar- beitsbedingungen“ (ebd.: 41) zu verstehen. Der Beratung kommt daher ein besonderer Stellenwert im Rahmen der Erwachsenenbildung an Hochschulen zu. Verschiedene Präventions- und Interventionsmaßnahmen werden derzeit mit dem Ziel, Studierende über die Beratung hinaus bei ihrem Studium zu un- terstützen und Abbrüche zu vermeiden, an deutschen Universitäten erprobt, eingerichtet oder evaluiert (Ahles et al. 2016; Blüthmann et al. 2008; Kolb et al. 2006; Pelz/Schulze-Stocker 2018). Zu diesen Maßnahmen, die zum Teil auch als zeitlich begrenzte Projek- te angeboten werden, zählen au"
+      },
+      {
+        "rank": 2,
+        "id": "7b5bf25c98eb825222af510bcc19e5e4bf330e83f47a562dcb9e74b4e2783734",
+        "score": 0.9969846606254578,
+        "meta": {
+          "file_path": "9783839444856_chapter_07433.txt",
+          "source_id": "427799164061fe4f50d2365e6d2afc071f695bd23a9378383b595f8522ae025b",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "b8439b8571df35428bc60b7435cd1a89eba355f23430b4ec6d5904b4fddb5db6",
+              "range": [
+                0,
+                427
+              ]
+            }
+          ]
+        },
+        "content": "5.4.3.3 Anerkennung von Beratung: »… dass alle damit dann weiterkommen« »Beratungssuchende wünschen sich einerseits eine Anerkennung ihrer mit­ gebrachten Qualifikation, andererseits einen entsprechenden Arbeitsplatz. Beide Wünsche können jedoch grundsätzlich durch die Beratung alleine nicht erreicht werden, da rechtliche Hürden und Rahmenbedingungen des Arbeitsmarktes dem entgegenstehen. Transparenz über mögliche weitere Schritte ist daher herzustellen« (Bichl 2016a). Das dritte rekonstruierte Handlungsmuster kann als eine Kombination aus den ersten beiden Zugängen zu Aushandlungsprozessen beschrieben wer­ den. Ähnlich wie im ersten Handlungsmuster wird erfolgreiche Beratung über die Erhöhung der individuellen Handlungs- und Entscheidungsfähig­ keit der Klient_innen definiert. In Auseinandersetzung mit restriktiven Rahmenbedingungen wird hier Beratung jedoch eher als eine vermittelnde Instanz gesehen. Diese Funktion der Vermittlung zwischen den unterschied­ lichen Systemen mit ihren j"
+      },
+      {
+        "rank": 3,
+        "id": "f0dffa0bc0f9d7804f1cce40bad6dfc7726024983d940960a72b9502225602df",
+        "score": 0.9927690029144287,
+        "meta": {
+          "file_path": "9783847412304_chapter_04.txt",
+          "source_id": "0ea38d0b4bc3c3b82fcbf1371b41a8abfa4306b60e7d251fc75ece8cce51df62",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 9089,
+          "_split_overlap": [
+            {
+              "doc_id": "df2a5fb76eec2d3e66905212d50d1a13342c21951168f6f379ef98cb12be727e",
+              "range": [
+                1343,
+                1771
+              ]
+            },
+            {
+              "doc_id": "516918759524de123d77ec523773783c737167245ba0263c2635cdccc1343207",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "Beratungsfelder aus, wie zum Beispiel in der Hochschulberatung, wo neben der klassischen Studienberatung durch den Bologna-Prozess und „heterogene(re)n“ Studierenden solche Felder wie Übergangs- und Laufbahnberatung, Lernberatung und Mentoring oder Organisationsberatung im Zuge von Akkreditierungs- und Qualitäts- entwicklungsprozessen hinzutreten. Mit Blick auf die politischen Ebenen ist Beratung insbesondere im Kontext der Politik Lebenslangen Lernens bedeutsam. Aus europäischer wie auch länderspezifischer Perspektive sind Fragen der Wirkung von Beratung sowie diesbezüglich geeignete Forschungsdesigns (Input-, Prozess-, Out- put-, Outcome-Dimensionen) virulent. Im Zusammenhang mit (bildungs-) politischen Steuerungsmechanismen kommen die Folgen in den Blick, die sich etwa auf der Ebene der Organisation auswirken können (Stichworte: Orientierung an wirtschaftlichen Effizienzkriterien und unklare Finanzie- rungsmodelle). Das Spannungsfeld zwischen Individualisierung und Öko- nomisierung "
+      },
+      {
+        "rank": 4,
+        "id": "a570f530fadc2bb44ae4911a9df297f758e73bfe2bd78cacafc02d2009032bbe",
+        "score": 0.9895227551460266,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "41908f3e2145edc7b3e057183a507a45d9a7235e471feb5ffc2493edd630fe7c",
+              "range": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        "content": "5.1.2 Informationen zu den Beratungsstellen Zu Beginn der Interviews wurde neben den Qualifikationen und Erfah­ rungen der Interviewpartner_innen auch nach der Zusammensetzung des Teams in der jeweiligen Beratungsstelle und den Qualifikationen der Kol­ leg_innen gefragt. Wie auch die Interviewpartner_innen selbst haben alle Berater_innen in den Teams eine akademische Ausbildung. Am häufigsten sind in Deutschland und Österreich die Abschlüsse Sozialpädagogik, Soziale Arbeit und Pädagogik vertreten. Darüber hinaus finden sich verschiedene sprachwissenschaftliche Abschlüsse sowie Rechts- und Politikwissenschaf­ ten. Vereinzelt werden zudem Islamwissenschaften, Betriebswirtschaft und (teilweise nicht anerkannte) Lehramtsabschlüsse genannt. Da es weder in Deutschland noch Österreich eine geregelte und einheitliche Ausbildung zum_zur Berater_in gibt, stellt sich bei der Beschreibung der Qualifikatio­ nen im Team auch die Frage, welche formalen Qualifikationen für die Ein­ stellung als Berate"
+      },
+      {
+        "rank": 5,
+        "id": "df69ced5b1494c434b558e3b7c71443d9781d14efad3e28541f53747f68b7383",
+        "score": 0.9849684834480286,
+        "meta": {
+          "file_path": "9783839444856_chapter_0723.txt",
+          "source_id": "9fe2379c21861edad14a5cf071ac8aa30c5f319b46f7de830329770f88a75a85",
+          "page_number": 1,
+          "split_id": 3,
+          "split_idx_start": 3804,
+          "_split_overlap": [
+            {
+              "doc_id": "22123385cdd16f38d88426f4e7d94a55d756a53e9861f3d9ea46e94a296aa02a",
+              "range": [
+                1272,
+                1689
+              ]
+            }
+          ]
+        },
+        "content": "päda­ gogischen Qualifikation die Fähigkeit zur professionellen Abgrenzung ver­ bunden, welche eine notwendige Voraussetzung für eine spezialisierte Fach­ beratung darstellt. Zusammenfassend ist für die weitere Analyse und Interpretation des empirischen Materials festzuhalten, dass der Begriff der Fachberatung in den Selbstbeschreibungen die Kombination eines emanzipativen Beratungs­ ansatzes mit dem Zugang einer fachlichen Expert_innenberatung ermög­ licht, wodurch auch der Handlungsspielraum der Beratung erweitert wird. Die Einordnung als Fachberatung wird dabei keiner prozessorientierten Beratung gegenübergestellt, sondern als Argumentationszusammenhang für den Einsatz bestimmter Ressourcen und fachlicher Kompetenzen in Ab­ grenzung zu anderen Beratungsleistungen herangezogen."
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_07433.txt",
+    "question": "Wie wird erfolgreiche Beratung im dritten rekonstruieren Handlungsmuster definiert?",
+    "answer": "Es wird nicht explizit gesagt, wie erfolgreiche Beratung im dritten Handlungsmuster definiert wird. Es wird jedoch erwähnt, dass die Interviewpartner_innen aufgrund ihres beruflichen Selbstverständnisses und in Auseinandersetzung mit den strukturellen Rahmenbedingungen die beschriebenen Zielsetzungen und Kriterien erfolgreicher Beratung formulieren. Im weiteren Verlauf werden vier verschiedene Handlungsweisen in Bezug auf die Handlungsstrategien in der Anerkennungsberatung beschrieben. Es ist jedoch nicht klar, wie erfolgreiche Beratung im dritten Handlungsmuster definiert wird. Es ist jedoch möglich, dass erfolgreiche Beratung im dritten Handlungsmuster definiert wird als die Fähigkeit, strukturelle Defizite aufzugreifen und die individuelle Entscheidungs- und Handlungsfähigkeit der Klient_innen zu stärken.",
+    "expected": "Erfolgreiche Beratung wird über die Erhöhung der individuellen Handlungs- und Entscheidungsfähigkeit der Klient_innen definiert.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "70b9a373d759b915be3e7637360b9608583da8276c3041f908651e8b7a28407b",
+        "score": 0.9885510802268982,
+        "meta": {
+          "file_path": "9783839444856_chapter_07.txt",
+          "source_id": "053f4034ab094a609834729c052d2e74d932c966584fbc59e9a39dae8d53d43e",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1321,
+          "_split_overlap": [
+            {
+              "doc_id": "07488078d6dd311ceadad023ad3b14387da068393084a86b13795e8e35a33652",
+              "range": [
+                1321,
+                1767
+              ]
+            }
+          ]
+        },
+        "content": "professionellen Handlungsstrategien, die innerhalb der identifizier­ ten Spannungsfelder entwickelt werden. Abschließend werden im dritten Schritt die professionellen Handlungsstrategien in Beziehung zu dem be­ ruflichen Selbstverständnis gesetzt, um in diesen spezifischen Kombinatio­ nen Ansatzpunkte für unterschiedliche Handlungsmuster in der Anerken­ nungsberatung zu rekonstruieren. Zur besseren Einordnung der Ergebnisse wird zunächst ein Überblick über die soziodemografischen Merkmale der Interviewpartner_innen und die jeweiligen Beratungsstellen gegeben, in denen die Interviews stattfanden."
+      },
+      {
+        "rank": 2,
+        "id": "6f0c6da8f2329db24d2729386e2f103651afeaba74816d6c1414b9c3c3b57e97",
+        "score": 0.9743075966835022,
+        "meta": {
+          "file_path": "9783839444856_chapter_074.txt",
+          "source_id": "d36940a7d6c8a9163902d7fb90da8b3925b48b081786036cd0a66a33217e8c74",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "4ecac239027f06772cc9196b40b2ede22cc60b6b7da1dd1ad91e9753c83f7d0b",
+              "range": [
+                0,
+                495
+              ]
+            }
+          ]
+        },
+        "content": "5.4 Professionelle Handlungsstrategien Professionelles Beratungshandeln ist durch den bewussten Umgang mit wi­ dersprüchlichen Anforderungen und Erwartungen gekennzeichnet. Diese Widersprüchlichkeiten ergeben sich in der Anerkennungsberatung in Aus­ einandersetzung mit den beschriebenen strukturellen Rahmenbedingun­ gen, welche die Beratungstätigkeit entsprechend dem beruflichen Selbst­ verständnis erschweren oder einschränken können. Es stellt sich die Frage, welche Handlungsstrategien die Berater_innen innerhalb der identifizierten Spannungsfelder in der Anerkennungsberatung entwickeln, um handlungs­ fähig zu bleiben. Zur Analyse der professionellen Handlungsstrategien wird Aufgabenfelder (restriktive) Rahmenbedingungen Orientierung knappe Zeit- und Personalressourcen Prozess Filterfunktion fehlende Anerkennung der Beratungsstellen Verfahrensbegleitung ausdifferenzierte, unübersichtliche rechtliche Rahmenbedingungen und Zuständigkeiten berufliche Integration fehlende (Weiter-) Bildun"
+      },
+      {
+        "rank": 3,
+        "id": "9a6dadffd23a2d1c380eb4e45f45eaf4d1ba43731b8d0145aca768826490cfb1",
+        "score": 0.9650686383247375,
+        "meta": {
+          "file_path": "9783839444856_chapter_0742.txt",
+          "source_id": "c8bb74c95bc947d3751af8e10d4f11b8f63e6b568f96411db39d47852eaf6ba0",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "9c5f5471092ecd36f94e56869956f7b24d08f48ab2d05d5a3824c7900837b90c",
+              "range": [
+                0,
+                425
+              ]
+            }
+          ]
+        },
+        "content": "5.4.2 Handlungsstrategien in der Anerkennungsberatung Die Interviewpartner_innen formulieren aufgrund ihres beruflichen Selbst­ verständnisses und in Auseinandersetzung mit den strukturellen Rahmen­ bedingungen die beschriebenen Zielsetzungen und Kriterien erfolgreicher Beratung. Es wird nun untersucht, welche Handlungsstrategien unter diesen Bedingungen entwickelt werden, um diese Ziele zu erreichen. Die rekonst­ ruierten Handlungsstrategien werden anhand des empirischen Materials und in Bezug auf die beschriebenen Kriterien für eine erfolgreiche Beratung kategorisiert. Dabei kann zwischen vier verschiedenen Handlungsweisen unterschieden werden. Bei verweigerter Anerkennung auf rechtlicher oder gesellschaftlicher Ebene werden in dem überwiegenden Teil der Interviews erstens Handlungen beschrieben, welche auf das Anerkennungsverhältnis auf der Interaktionsebene des Beratungsgesprächs zurückgreifen und die­ ses im Sinn eines emanzipativen Beratungsansatzes weiter stärken (5.4.2.1). In A"
+      },
+      {
+        "rank": 4,
+        "id": "5eadbe3ccf85f167ab86a6d8cf644d4b25ffb45bb9c43ca9bbeba9673dc7b266",
+        "score": 0.8988940715789795,
+        "meta": {
+          "file_path": "9783839444856_chapter_07222.txt",
+          "source_id": "9ed2ecb1c24fa62e9bdf58cfc4b532e355b8f57b729d3b7926583104aca50b9e",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "d7d5db76a9db781c28607823a715d35ff693ace6b57be6f2fc8586ff07fc5174",
+              "range": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        "content": "5.2.2.2 Pädagogisches Beratungsverständnis Beratung wurde bereits aus einer erziehungswissenschaftlichen Perspektive als eine pädagogische Handlungsform und als ein elementarer Bestandteil des Tätigkeitsfelds in der Erwachsenenbildung beschrieben. Pädagogische Beratung wird demnach als ein ressourcenorientiertes Unterstützungsange­ bot definiert, welches auf die Stärkung der Handlungs- und Entscheidungs­ fähigkeit der Klient_innen ausgerichtet ist. Beratung in der Sozialen Arbeit bezieht sich darüber hinaus auf ein emanzipatives Beratungsverständnis im Kontext sozialer Gerechtigkeit. Aus beratungstheoretischer Perspektive bieten diese disziplinären Schwerpunktsetzungen im Beratungsverständnis damit auch praxisrelevante Kriterien, um pädagogische Beratungsangebote von reinen Informationsgesprächen oder therapeutischen Interventionen abzugrenzen. Es stellt sich jedoch die Frage, inwiefern dieses erziehungs­ wissenschaftlich geprägte Beratungsverständnis auch für die Beratungs­ praxis rel"
+      },
+      {
+        "rank": 5,
+        "id": "0a8f985a728f9e78680be03b2777ff2492d311fb796411fed90c4710cbda1320",
+        "score": 0.8960567116737366,
+        "meta": {
+          "file_path": "9783839444856_chapter_0744.txt",
+          "source_id": "a915b38e43de0292854db1a4805d8c6f201d85e2193b1fe503f305f781d7595c",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "af1d4d5dfff285b5a1972e7a550ee17db34710bd8690c71643b842237f497cac",
+              "range": [
+                0,
+                482
+              ]
+            }
+          ]
+        },
+        "content": "5.4.4 Zusammenfassung: (Aus-)Handlungsmuster zwischen Handlungs- und Anerkennungsebene In den ersten beiden Zugängen zu Aushandlungsprozessen werden jeweils die beschriebenen beratungstheoretischen Zugänge eines emanzipativen Beratungsverständnisses und einer parteilichen Beratungshaltung deutlich. Aus einer beratungstheoretischen Perspektive kann der erste Handlungs­ zugang eher einem pädagogischen Beratungsverständnis zugeordnet wer­ den, während der zweite Zugang tendenziell dem Beratungsverständnis in der Sozialen Arbeit entspricht. In Bezug auf die Beratungshaltung kann der dritte Zugang als Kombination aus den ersten beiden Zugängen verstanden werden. In der Beratung generiertes Wissen wird genutzt, um gesellschaft­ liche und rechtliche Problemlagen aus einer parteilichen Haltung zu thema­ tisieren und damit strukturelle Defizite aufzugreifen, welche die individuel­ le Entscheidungs- und Handlungsfähigkeit der Klient_innen einschränken. Die Ergebnisse werden abschließend vertiefe"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_07433.txt",
+    "question": "Welche Rolle spielt die Herstellung von Transparenz in der Anerkennungsberatung und auf welchen Ebenen findet sie statt?",
+    "answer": "Die Herstellung von Transparenz in der Anerkennungsberatung ermöglicht den Zugang zu bestehenden Anerkennungsverhältnissen und unterstützt die Klient_innen dabei, eigenständige Entscheidungen zu treffen und Handlungsstrategien zu entwickeln. Sie findet auf beiden Ebenen statt: auf der Beratungsebene und auf der strukturellen Ebene. Durch die Herstellung von Transparenz wird fachspezifisches Expert_innenwissen generiert, das für die Beratung genutzt wird, um auf struktureller Ebene auf die Handlungsbedingungen einzuwirken. Die Beratungsstellen unterstützen die Herstellung von Transparenz durch die Einbindung von Dolmetscher_innen und die Anwendung von Sprachen, die von den Klient_innen gesprochen werden. Die Transparenzherstellung ist ein wichtiger Aspekt der Anerkennungsberatung, da sie die Klient_innen in die Lage versetzt, ihre individuellen Handlungsmöglichkeiten und die arbeitsmarkt- politisch und strukturell begründeten Handlungsbedingungen besser zu verstehen.",
+    "expected": "Die Herstellung von Transparenz unterstützt Klient_innen darin, eigenständige Entscheidungen zu treffen und Handlungsstrategien zu entwickeln. Sie ermöglicht den Zugang zu bestehenden Anerkennungsverhältnissen und findet sowohl auf Beratungsebene als auch auf struktureller Ebene statt.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "b8439b8571df35428bc60b7435cd1a89eba355f23430b4ec6d5904b4fddb5db6",
+        "score": 0.9904306530952454,
+        "meta": {
+          "file_path": "9783839444856_chapter_07433.txt",
+          "source_id": "427799164061fe4f50d2365e6d2afc071f695bd23a9378383b595f8522ae025b",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1260,
+          "_split_overlap": [
+            {
+              "doc_id": "7b5bf25c98eb825222af510bcc19e5e4bf330e83f47a562dcb9e74b4e2783734",
+              "range": [
+                1260,
+                1687
+              ]
+            }
+          ]
+        },
+        "content": "unterstützt werden, eigenständige Entscheidungen zu treffen und Hand­ lungsstrategien zu entwickeln. Die Herstellung von Transparenz ermöglicht damit auch den Zugang zu bestehenden Anerkennungsverhältnissen. Voraussetzung hierfür ist ein einheitliches und verlässliches System an strukturellen Rahmenbedingungen. Die Herstellung von Transparenz fin­ det daher nicht nur auf Beratungsebene statt, sondern auch auf struktureller Ebene. Durch die institutionenübergreifende Systematisierung und Gene­ ralisierung von Beratungsfällen wird fachspezifisches Expert_innenwissen für die Beratung generiert. Gleichzeitig wird diese fachliche Expertise auch genutzt, um auf struktureller Ebene auf die Handlungsbedingungen einzu­ wirken. Ähnlich wie im zweiten Handlungsmuster beschrieben, wird hier für die Klient_innen Partei ergriffen, deren Anliegen auch auf rechtlicher und gesellschaftlicher Ebene vertreten werden. Es handelt sich dabei jedoch nicht um einen alternativen, sondern um einen zusätzlichen "
+      },
+      {
+        "rank": 2,
+        "id": "26c5c85daf02fec77282751efd6695574702da0c52f8f570e8f50c5fc95e42eb",
+        "score": 0.9843356609344482,
+        "meta": {
+          "file_path": "9783839444856_chapter_08.txt",
+          "source_id": "77bfd832556bb91746ddd0857cc0f846b917e8717f1c258cd9732daf345a2d05",
+          "page_number": 1,
+          "split_id": 7,
+          "split_idx_start": 9008,
+          "_split_overlap": [
+            {
+              "doc_id": "1e7dda937564d036fc2d37eee7441e8af093d6e2c53b910d669c3b226cb45865",
+              "range": [
+                1284,
+                1685
+              ]
+            },
+            {
+              "doc_id": "2ca92252c1d62641d4f0de5d60ca76adc106054f057749c43347c0bfb121d1bf",
+              "range": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        "content": "Anerkennungsberatungsstellen. Diese Ergeb­ nisse bestätigen die Annahme von Ertelt (2007, S. 30), dass die Bildungs- und Berufsberatung »eine typische Weiterbildungs- und Netzwerksprofession zu sein scheint, bei der die homogene beraterische Grundqualifikation nur eine eher untergeordnete Rolle spielt«. Es ist also nicht die gemeinsame Erstaus­ bildung, sondern es sind die gemeinsame Weiterbildung und der Austausch, die eine identifikationsstiftende Rolle für die Berater_innen übernehmen. Dadurch wird jedoch zugleich der Ausbau von weiterqualifizierenden An­ geboten notwendig, um die Entwicklung eines gemeinsamen beruflichen Selbstverständnisses zu unterstützen. Ein gesellschaftlich anerkanntes Selbstverständnis stellt nach Seel (vgl. 2013) eine Voraussetzung für die Professionalisierung von Beratung dar. Professionelle Beratung muss demnach ihre spezifische Rolle in der Gesell­ schaft und die damit verbundenen Aufgaben definieren und sich positio­ nieren. Während etablierte Profession"
+      },
+      {
+        "rank": 3,
+        "id": "8f1f062976a08ac671a7709d250ef5abd09ab1aa0631a86ab176dfb9f27e406c",
+        "score": 0.8722671270370483,
+        "meta": {
+          "file_path": "9783839444856_chapter_0731.txt",
+          "source_id": "b3824e075b2fe2196e3f17b510714742cd34299925c9dab00157bb769b1d6a28",
+          "page_number": 1,
+          "split_id": 9,
+          "split_idx_start": 9973,
+          "_split_overlap": [
+            {
+              "doc_id": "7b33b43dc2b4d4dfb393b4707ca108dbf8098b0d52b051adea0e2e86eab62a09",
+              "range": [
+                1104,
+                1436
+              ]
+            },
+            {
+              "doc_id": "095ec463a27905c791bfb8f3777829566c3155da6fde15a90b2053932a5f520f",
+              "range": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        "content": "es für uns wichtig wieder mal von der Transparenzherstellung, ist halt der Vorteil, wenn wir Kolleg_innen haben, die noch andere Sprachen können, teilweise tatsächlich auch als Mutter- oder Vatersprache, andere, die es halt als Zweit-, Dritt- oder Viertsprache haben […], aber das ist natürlich in kleinen Einheiten nachher oft die Grenze« (A/AT, Z. 1004-1026). In einigen Beratungsstellen werden zusätzlich Dolmetscher_innen für die Beratung herangezogen, teilweise wird die Beratung über eine vermittelnde Person jedoch auch als Hindernis für die Herstellung einer persönlichen Be­ ratungsbeziehung gesehen. Dem Vorteil der Verständigung in der Mutter­ sprache steht die direkte Unmittelbarkeit des Beratungsgesprächs entgegen. »Ist nicht möglich und da haben wir, glaub ich, auch die innere Bereitschaft nicht, das würde unsere Tradition …, wir sind gewohnt, nicht mit Dolmet­ scher_innen zu arbeiten in dem Bereich […], weil halt mit Menschen in der Mutter- oder Vatersprache oder in einer Zweit-"
+      },
+      {
+        "rank": 4,
+        "id": "84a87b0ae3ef1352183a7905707f2860275942b17631384127190c508e4502f1",
+        "score": 0.86644047498703,
+        "meta": {
+          "file_path": "9783839444856_chapter_07411.txt",
+          "source_id": "25e1a45ebc51d8e50bf54793bbf5e41a3d88b0daf65384aa9e463bf4aee5ab63",
+          "page_number": 1,
+          "split_id": 5,
+          "split_idx_start": 5100,
+          "_split_overlap": [
+            {
+              "doc_id": "83d073d0adb02ea4248cf1dcf837d7c09d9b310f3748700f47d38fe027f099f0",
+              "range": [
+                1081,
+                1380
+              ]
+            },
+            {
+              "doc_id": "aaa0ce0df540fbb4ac0bb832bb3f0f610caf5730cb535376a5e6f7786d227054",
+              "range": [
+                0,
+                448
+              ]
+            }
+          ]
+        },
+        "content": "nicht mehr. B: Bis auf die Krankenschwester, die man irgendwo auf der Straße trifft und die sagt: ›Ich hab jetzt einen Job.‹ Oder du weißt es, höchstwahrscheinlich hat sie einen Job, aber sonst … A: Aber erfolgreiche Beratung ist, wo wir das Gefühl haben, es wurde eine Art Transparenz hergestellt, also Transparenz zwischen dem Diplom und, und, und. Da denken wir schon arbeitsmarktpolitischer – also eine Art Transpa­ renz zwischen mitgebrachtem Diplom und österreichischem Arbeitsmarkt. Das ist für mich …, wäre das eine erfolgreiche Beratung unter Anführungszei­ chen, und Transparenz bedeutet halt Transparenz, bedeutet nicht Arbeits­ platz, kann aber auch bedeuten, dass ich weiß, vergiss mein Diplom« (A, B/ AT 815-834). Bildungsadäquate berufliche Integration wird in diesem Interviewaus­ schnitt als Erfolgskriterium abgelehnt, da die Erreichung dieses Ziels im Kontext des unmittelbaren Beratungsgesprächs nicht erfahren werden kann. Stattdessen erfolgt ein Rückgriff auf die Perspektive un"
+      },
+      {
+        "rank": 5,
+        "id": "c972666e53ba44e96d0be72923bcd3119a013dc044f1eab70397b1380e30bc51",
+        "score": 0.8615986704826355,
+        "meta": {
+          "file_path": "9783847412304_chapter_1033.txt",
+          "source_id": "c0de31419b7ef2aaf978c0216f7965b4592ec6a29ff618c9504c9cbba2917c99",
+          "page_number": 1,
+          "split_id": 2,
+          "split_idx_start": 2391,
+          "_split_overlap": [
+            {
+              "doc_id": "075f8b6c2b7d80d2471b0cd3785142b52c787c65024b1a551c31099dd87c5229",
+              "range": [
+                1160,
+                1582
+              ]
+            },
+            {
+              "doc_id": "45d60a37d18124f9b7bc28cbf87316eaa94ee8df3693dd0eaa5b3e152c103b29",
+              "range": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        "content": "der Transfergesellschaft sind die Rollen des*der Beraters*in (Coach bzw. Transfer-Mitarbeiter*in) und des*der Ratsuchenden (Coachee bzw. Teilnehmer*in) konstitutiv, die aus ihren Rollenzuweisungen heraus für den jeweils anderen ihre Performance in dieser Situation ‚spielen‘. Durch Regeln, denen soziale Rollen unterliegen, wird eine Interaktionsordnung hergestellt (vgl. Bausch 2001: 204). Die Inszenierung der einzelnen Rollen kann durch intentionales Handeln und unbewusste Praktiken die Situation gestalten. Dabei ist ausschlaggebend, inwiefern Rollenerwartungen, Verhaltensregeln und Rollenverpflichtungen aufgeführt bzw. dargestellt werden (vgl. Reckwitz 2003; Bausch 2001: 219). Mit Rückbezug auf die Theorie sozialer Praktiken (vgl. Reckwitz 2003) erfolgt eine Abgrenzung von der Reduktion des Handelns auf Intentionalität. Soziale Ordnungen gelten hier als Konstrukt, das durch sozial geteilte Wissensordnungen hergestellt wird. Soziale Praktiken werden gefasst als Verhaltensroutinen, deren"
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_07433.txt",
+    "question": "Inwiefern erweitert die überinstitutionelle Zusammenarbeit zwischen Beratungsstellen die Wirkungsbereiche der Anerkennungsberatung?",
+    "answer": "Die überinstitutionelle Zusammenarbeit zwischen Beratungsstellen erweitert die Wirkungsbereiche der Anerkennungsberatung in mehreren Aspekten. Zunächst ermöglicht sie den Austausch von Erfahrungen und Kenntnissen zwischen den Beratungsstellen, was zu einer Verbesserung der Qualität der Beratung und einer höheren Effizienz der Prozesse führt. Darüber hinaus ermöglicht die Zusammenarbeit die Entwicklung gemeinsamer Strategien und Konzepte, um die Ziele der Anerkennungsberatung zu erreichen. Dies kann zu einer stärkeren Einheitlichkeit und Konsistenz der Beratungsangebote führen, was für die Ratsuchenden von Vorteil ist. Außerdem ermöglicht die überinstitutionelle Zusammenarbeit den Zugang zu Ressourcen und Experten, die in anderen Beratungsstellen vorhanden sind, was die Beratungsstellen stärken und ihre Fähigkeit verbessern kann, die Anliegen der Ratsuchenden zu bearbeiten. Insgesamt führt die überinstitutionelle Zusammenarbeit zu einer stärkeren Vernetzung und Zusammenarbeit zwischen den Beratungsstellen, was die Wirksamkeit der Anerkennungsberatung als Ganzes erhöht. \n\nIn den Interviewpassagen wird erwähnt, dass die Beratungsstellen in Österreich und Deutschland einen institutionenübergreifenden Weiterbildungsangebot für Berater_innen anbieten, welches parallel zum Aufbau der Anerkennungsberatung entwickelt wurde. Dieses Angebot ermöglicht den Austausch von Erfahrungen und Kenntnissen zwischen den Beratungsstellen, was zu einer Verbesserung der Qualität der Beratung und einer höheren Effizienz der Prozesse führt. Darüber hinaus wird der fachliche Austausch zwischen den Berater_innen als wichtiges Element der Zusammenarbeit hervorgehoben, bei dem auch die Reflexion der Zusammenarbeit mit unterschiedlichen Stellen und Behörden stattfindet. Dies zeigt, dass die überinstitutionelle Zusammenarbeit zwischen den Beratungsstellen nicht nur zu einer Verbesserung der Qualität der Beratung, sondern auch zu einer stärkeren Einheitlichkeit und Konsistenz der Beratungsangebote führt. \n\nInsgesamt kann",
+    "expected": "Die überinstitutionelle Zusammenarbeit ermöglicht einen zusätzlichen Wirkungsbereich der Anerkennungsberatung, bei dem fachliche Expertise genutzt wird, um auf struktureller Ebene auf Handlungsbedingungen einzuwirken und die Anliegen der Klient_innen auch auf rechtlicher und gesellschaftlicher Ebene zu vertreten, ohne dabei eine alternative Strategie zu sein.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "a568835f1272bac807cc4dfa768402917fea65cec28b33b655025c61d100aeae",
+        "score": 0.9941766262054443,
+        "meta": {
+          "file_path": "1001586_chapter_053.txt",
+          "source_id": "34157b125d7e5b657da7a3340c85d6b6d89f0b68bf4ec082f545f3fa3e9d55d7",
+          "page_number": 1,
+          "split_id": 11,
+          "split_idx_start": 12933,
+          "_split_overlap": [
+            {
+              "doc_id": "053441983b6201b0cbd22b2e5804f166a461171c4c00366a3a3a848f330bc3db",
+              "range": [
+                1104,
+                1495
+              ]
+            },
+            {
+              "doc_id": "720a21e474d1d982ad9e42c74276eb8280d32ec5285d3621366adce245ff53eb",
+              "range": [
+                0,
+                399
+              ]
+            }
+          ]
+        },
+        "content": "man inzwischen von einem doppelten Bezug zwi­ schen Beratung und Erwachsenenbildung sprechen. Beratung kann seit dem ‚Shift from Teaching to Learning‘ implizit oder explizit5 selbst als Grundprin­ zip in der Begleitung von Lernprozessen angesehen werden. Damit erweitert sich auch das Beratungsfeld Bildungsberatung. Nicht nur Beratungsformate, die über (Weiter-)Bildung informieren, können dann darunter gefasst wer­ den, auch Beratungsformate, deren erklärtes Ziel es ist, dass Ratsuchende ihre Kompetenzen erweitern, wie es z.B. bei Coaching, Supervision und Mediation der Fall ist. Gleichzeitig bewegt sich die Didaktik der Erwachsenenbildung stärker auf die Integration von Beratungsprozessen zu (vgl. Gieseke 2000: 14 und Schiersmann 2015: 101).6 Es gehört zur Tradition der Erwachsenenbildung, Lehr-Lernprozesse als Begleitung von Selbstlernprozessen zu betrachten (vgl. Arnold 2010). Wir Menschen müssen uns jeden Tag auf Veränderungen und neue Situationen einstellen. Wir sind sozusagen perm"
+      },
+      {
+        "rank": 2,
+        "id": "14b8bc2f2a67167ad5ed3ca9ef1b76fef1e5e672c63d02fca9b0de799587c171",
+        "score": 0.9920223951339722,
+        "meta": {
+          "file_path": "9783847412304_chapter_08263.txt",
+          "source_id": "bb4fb234e2a6d4534f3369ce1a0486b3d4e4f0d8e17192877f674e3112d965a1",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": []
+        },
+        "content": "Schluss Beratung zu Anrechnungsfragen, die als übergangsrelevant in der wissen- schaftlichen Weiterbildung anzunehmen ist, wird nach eigenen Angaben von einem Großteil der Befragten angeboten. Analysen von Handlungspraktiken zeigen allerdings im Hinblick auf die Öffnung von Hochschulen für beruflich Qualifizierte deutliche qualitative Unterschiede. Zunächst ist insgesamt festzuhalten, dass eine Kongruenz zwischen den Öffnungs- und Schließungstendenzen und der Beratung zu Anrechnungsfragen empirisch beobachtet werden kann. Dort, wo bestehende Grenzen erhalten bleiben sollen, wird Beratung in Bezug auf Student_innen geschildert, die bereits immatrikuliert sind. Sollen Zulassungsmöglichkeiten erweitert werden, wird zudem grenznah über Anrechnungsfragen informiert oder beraten. Die eingangs formulierte Problematik der negativen Beeinflussung von Weiterbildungsberatung durch angebots- bzw. trägereigene Interessen ist angesichts der empirischen Ergebnisse anzunehmen. Als Antwort auf die Frag"
+      },
+      {
+        "rank": 3,
+        "id": "5c5b76efb29b0161949e6a81861c6e487f037a5aa6cc766db16527a128dc758a",
+        "score": 0.9830030798912048,
+        "meta": {
+          "file_path": "9783839444856_chapter_052.txt",
+          "source_id": "f72caa194d067ed981201c4fdf329de21a7989f046c0a1941ae92037fea265a8",
+          "page_number": 1,
+          "split_id": 0,
+          "split_idx_start": 0,
+          "_split_overlap": [
+            {
+              "doc_id": "14c9128dfdd3ca89a54e361718580906ab7abe64b4de7ad1a0bf47114463f8ea",
+              "range": [
+                0,
+                413
+              ]
+            }
+          ]
+        },
+        "content": "3.2 Anerkennungstheoretische Perspektive Die Bezeichnung als »Anerkennungsberatung« bezieht sich auf die Zielset­ zung, den Anerkennungsprozess im Ausland erworbener Qualifikationen zu unterstützen (vgl. Bichl 2016a). Der in Österreich und Deutschland häufig verwendete Begriff der »Anlaufstellen« weist bereits darauf hin, dass der da­ mit verbundene Aufgabenbereich weiter gefasst wird. Anerkennung bezieht sich über die formale Anerkennung hinaus auf zusätzliche Dimensionen, die für eine erfolgreiche bildungsadäquate berufliche Integration relevant sind. Zur Beschreibung und Begründung dieser Aufgaben und Zielsetzungen von Beratung wird die zuvor erfolgte theoretische Einordnung als pädagogische Beratung im Bereich der Bildungs- und Berufsberatung um eine anerken­ nungstheoretische Perspektive erweitert. Pädagogisches Handeln soll damit unter den Bedingungen von Differenz und struktureller Ungleichheit näher konkretisiert werden. Balzer (2014, S. 585, Herv. i. Orig.) fasst die Bedeutung"
+      },
+      {
+        "rank": 4,
+        "id": "512d5a377e9eed0480c91478ff0c757f0ac6accefa5b4bc859e0a4439b83bec4",
+        "score": 0.9800909161567688,
+        "meta": {
+          "file_path": "9783839444856_chapter_0712.txt",
+          "source_id": "ec68581f6e539373bdbe55d1dde8be10c12ffd3eaff618dc7b8d60f57380c896",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9215,
+          "_split_overlap": [
+            {
+              "doc_id": "75e86134a7e1c8767d140dc5d9886ee59dede8c09010796d02c24086de2a1ea3",
+              "range": [
+                1115,
+                1510
+              ]
+            },
+            {
+              "doc_id": "af351bfb482696c1f6b1c8464819db6bbef6644a5e21dff54bc6407988e06e95",
+              "range": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        "content": "entwickeln« (K/AT, Z. 602-604). In Österreich werden spezifische Weiterbildungen für diesen Bereich über die Koordinierungsstelle organisiert. So fanden während des Aufbaus der Beratungsstellen Vor-Ort-Besuche in den Bundesländern statt, um die Er­ fahrungen der Beratungsstelle in Wien an die Kolleg_innen weiterzugeben. In den Interviews in Deutschland wird ebenfalls von einem institutionen­ übergreifenden Weiterbildungsangebot für Berater_innen berichtet, wel­ ches parallel zum Aufbau der Anerkennungsberatung entwickelt wurde. Diese Strukturen werden auch genutzt, um Weiterbildungen für weitere Akteur_innen anzubieten, die indirekt mit dem Thema der Anerkennung im Ausland erworbener Qualifikationen befasst sind. Zudem wird dem fachli­ chen Austausch zwischen den Berater_innen eine wichtige Rolle zugeschrie­ ben. Dabei findet neben den Fallbesprechungen auch eine Reflexion der Zu­ sammenarbeit mit unterschiedlichen Stellen und Behörden statt. »Dementsprechend ist es da wichtig, dass es"
+      },
+      {
+        "rank": 5,
+        "id": "6fe4b56a07e139629ed7b12c6ec8a9c808fb8d28d73f8c598e831d00bf0e4228",
+        "score": 0.9793757796287537,
+        "meta": {
+          "file_path": "9783839444856_chapter_07221.txt",
+          "source_id": "b3a48cf6fb011ed2bccc438f04f5cd4272f896589870605a8caaa517337bbf7b",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15574,
+          "_split_overlap": [
+            {
+              "doc_id": "5b173d9d0ba6e04915ec559466d161a27fc2c01b7be4945f4c8f339024ff0276",
+              "range": [
+                1087,
+                1510
+              ]
+            },
+            {
+              "doc_id": "7de3918a30172782f4697091b12feea6ab114c17a859b66e9d9581b982259f05",
+              "range": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        "content": "wird die Herstellung von sozialer Gerechtigkeit in diesem Bereich als eine Zielsetzung beschrieben, welche im Unterschied zu anderen Interventionen durch Anerkennungsberatung in einem bestimmten Um­ fang auch erreicht werden kann. Anerkennungsberatung wird in diesem Kontext von den Interviewpartner_innen als eine durchaus wirksame und erfolgreiche Beratung wahrgenommen. Anerkennungsberatung als unabhängige Fachberatung Im Unterschied zu den bisher dargestellten Perspektiven wird in mehreren Interviews das »Neue« in der Anerkennungsberatung nicht primär durch die Definition des Aufgabenfeldes oder die Zugänge der Berater_innen be­ schrieben, sondern in der Organisationsstruktur der Beratungsstellen gese­ hen. In Österreich wird hierfür der bundesweite Austausch hervorgehoben, organisiert durch die Koordinierungsstelle. »Es ist ja strukturiert, es ist auch, dass wir … durch die Anlaufstellen-Koordi­ nation haben wir zweimal im Jahr AST-Treffen, wo alle Beratungsstellen sich treffen, und "
+      }
+    ]
+  },
+  {
+    "filename": "9783839444856_chapter_07433.txt",
+    "question": "Wie trägt die Koordinationsebene zur Qualität und zum beruflichen Selbstverständnis in der Anerkennungsberatung bei?",
+    "answer": "Die Koordinationsebene trug durch die Vernetzung der Beratungsstellen und den Austausch von Erfahrungen zu einer Verbesserung der Qualität der Anerkennungsberatung bei. Die Interviewten diskutierten jedoch auch die Ergebnisse dieser Vernetzung kontrovers, insbesondere hinsichtlich der Definition von Qualitätsstandards und Aufgaben. Die Selbstverständlichkeit, mit der die Begriffe Fach- und Verweisberatung eingesetzt wurden, ohne weitere Erklärung, deutet darauf hin, dass die Koordinationsebene eine gewisse Autonomie bei der Definition ihrer Aufgaben und Qualitätsstandards hat. Die Koordinationsebene trug auch dazu bei, das berufliche Selbstverständnis der Beraterinnen und Berater zu prägen, indem sie ein Gefühl der Zugehörigkeit zu einem Netzwerk von Fachleuten vermittelte. Die Koordinationsebene wurde jedoch auch als eine Instanz diskutiert, die die Beratungsstellen unter Druck setzt, um die Qualitätsstandards zu erfüllen, was zu einer gewissen Spannung zwischen der Koordinationsebene und den Beratungsstellen führen kann. Insgesamt kann jedoch festgestellt werden, dass die Koordinationsebene eine wichtige Rolle bei der Verbesserung der Qualität und dem beruflichen Selbstverständnis in der Anerkennungsberatung spielt.",
+    "expected": "Die Koordinationsebene setzt die Handlungsstrategie der Anerkennungsberatung um, etabliert einrichtungsübergreifende Qualitätsstandards und fördert ein geteiltes Beratungsverständnis als Fachberatung, wodurch ein gemeinsames berufliches Selbstverständnis auch nach außen vertreten wird.",
+    "retrieval": [
+      {
+        "rank": 1,
+        "id": "846ae7fdc77ed9c6bda2f95342e0e91a3d56f559486955204a8f8939d9c58f15",
+        "score": 0.9976358413696289,
+        "meta": {
+          "file_path": "9783839444856_chapter_0514.txt",
+          "source_id": "56c28e7e3218ded2488dfb4f7f8b3848fc805801528f5320f40473d69d3c07ee",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 7365,
+          "_split_overlap": [
+            {
+              "doc_id": "c35b850be2ad7be0246d6e6a37f7b73eb4cc2099fa83e2d551fa0f05186c212f",
+              "range": [
+                1211,
+                1649
+              ]
+            },
+            {
+              "doc_id": "8b073ee7a774748620ec473523d03d98881c5beda27589f335544b1030b591b8",
+              "range": [
+                0,
+                438
+              ]
+            }
+          ]
+        },
+        "content": "Begriff der Fachberatung und eine selbstverständliche Verwendung zur Abgrenzung und Selbstbe­ schreibung. In der Qualitätsmatrix »Qualität in der Anerkennungs- und Qualifizierungsberatung« der IQ-Fachstelle »Beratung und Qualifizierung« findet sich eine Definition von Fachberatung als eine fachlich spezialisierte Beratungsleistung. »Fachberatung bezeichnet die Beratung durch Experten/-innen, die auf die­ ses Thema spezialisiert sind, indem sie Wissen zur Anerkennung von im Aus­ land erworbenen Qualifikationen vorhalten. Sie grenzt sich ab von ›fachlicher Beratung‹, die auch im Kontext weiterer Beratungsanlässe stattfinden kann. Die Beratenden müssen zwar in der Lage sein, Alternativen zum Anerken­ nungsverfahren zu erkennen und darüber zu informieren (z.B. Externenprü­ fung, Existenzgründung), für eine umfassende Beratung findet jedoch ein Verweis an die entsprechenden Netzwerkpartner statt« (Hauck et al. 2016, S. 4). In dem »Fachkonzept Beratung zu Bildung und Beruf im Land Berlin« (v"
+      },
+      {
+        "rank": 2,
+        "id": "ff277900abc476c09b717a123c811ca07da8e8911f5db7437bfd0a571286065b",
+        "score": 0.9973304271697998,
+        "meta": {
+          "file_path": "9783839444856_chapter_042.txt",
+          "source_id": "65414aa1d80825662f85bd1a867cb5f903ff3216cd14a3f246e909eddd9d9eb1",
+          "page_number": 1,
+          "split_id": 1,
+          "split_idx_start": 1235,
+          "_split_overlap": [
+            {
+              "doc_id": "0f4d549abb04016252c10f48dc998bbcf0e0ef32f6cc3dbf07f1ffa962c3192c",
+              "range": [
+                1235,
+                1556
+              ]
+            },
+            {
+              "doc_id": "4fcdc86a037e39df82e855b660f4b37ea94870c0e5575a6bea1600cd6c3596d4",
+              "range": [
+                0,
+                460
+              ]
+            }
+          ]
+        },
+        "content": "Bichl 2016a) sowie die Dokumente zur Qualitätssicherung (vgl. Hoffmann und Arians 2015; Hauck et al. 2016). In den Studien zu den Beratungsleistungen werden diese vor allem in Bezug auf die Wahrnehmung durch die Klient_in­ nen beschrieben und evaluiert (vgl. Müller und Ayan 2015). Es ist jedoch da­ von auszugehen, dass Anerkennungsberatung auch Aufgaben übernimmt, welche von den Klient_innen nicht direkt wahrgenommen und beurteilt wer­ den können. Aufbauend auf dem dargestellten Forschungsstand untersucht die vorliegende Arbeit daher Anerkennungsberatung aus der Perspektive der Berater_innen und Koordinator_innen auf Basis empirischer qualitati­ ver Daten vor dem Hintergrund beratungs- und anerkennungstheoretischer Konzepte. Im Mittelpunkt steht dabei die professionelle Ausgestaltung und Begründung des Beratungshandelns innerhalb der gegebenen institutionel­ len, gesellschaftlichen und rechtlichen Rahmenbedingungen. 2.2.1 Forschungsfrage Das dargestellte Forschungsinteresse in Bezug au"
+      },
+      {
+        "rank": 3,
+        "id": "21963833924b33b8773d663f25c1d6fc5ec2263f5d0bf80575e7d1a75a35e58a",
+        "score": 0.995664656162262,
+        "meta": {
+          "file_path": "9783839444856_chapter_07112.txt",
+          "source_id": "f79d2c737d593dcb44b454943f22fdd5ec54aeda7d1e6d44044c13d5ca74c7cb",
+          "page_number": 1,
+          "split_id": 8,
+          "split_idx_start": 9126,
+          "_split_overlap": [
+            {
+              "doc_id": "4d8339617ea455b8a82e1dc9115b3dd2263e5dbd71f6435554c02004a055c44a",
+              "range": [
+                1173,
+                1569
+              ]
+            },
+            {
+              "doc_id": "9bfb3989b7fa125c00db3b555ac4280d3a461c0e9f03ef7ba4007039d54c2de1",
+              "range": [
+                0,
+                447
+              ]
+            }
+          ]
+        },
+        "content": "ratungsleistung beschrieben und definiert werden kann. Es stellt sich zu­ dem die Frage, inwiefern die Qualifikationen und die Beratungserfahrung auch die Sichtweisen auf Anerkennungsberatung und damit das berufliche Selbstverständnis prägen. Zur Zusammenfassung und als Grundlage für die Einordnung der empirischen Ergebnisse wird hier abschließend eine tabellarische Übersicht zu den Kriterien »Berufserfahrung« und »Qualifika­ tion(en)« der Interviewpartner_innen gegeben. Ergänzend wird angegeben, ob von einer im Ausland erworbenen Qualifikation berichtet wurde und da­ mit eigene Erfahrungen mit dem Anerkennungsprozess stattgefunden ha­ ben. Übersicht zu den Interviewpartner_innen Interviewpart­ ner_innen Berufserfahrung (formal erworbene) Qualifikation(en) biografische Erfahrung mit Anerkennung im Ausland erworbener Qualifikation(en) A/AT langjährige Berufs­ erfahrung im Bereich der Anerkennung im Ausland erworbener Qualifikationen und in arbeitsmarktpolitischen, ausländerrechtlichen B"
+      },
+      {
+        "rank": 4,
+        "id": "911e53821416081086dbe624e3cc25219679fbaedc64eea15352db1258ac95ac",
+        "score": 0.9945085644721985,
+        "meta": {
+          "file_path": "9783839444856_chapter_07111.txt",
+          "source_id": "1de88b5cbf611f4710305cf8851e34af4b34d6b3d9900af60e7d4e5b628bd8c2",
+          "page_number": 1,
+          "split_id": 6,
+          "split_idx_start": 6955,
+          "_split_overlap": [
+            {
+              "doc_id": "5cc7bb984ddfb90679b28be6749c38bdc9e87c1dc2b96a05e47c9dcfa080248a",
+              "range": [
+                1224,
+                1628
+              ]
+            },
+            {
+              "doc_id": "a14a8d6f746577c10453a6b3ee47c2518a49e26cffb6a156b3e25e09e7592b0b",
+              "range": [
+                0,
+                365
+              ]
+            }
+          ]
+        },
+        "content": "und Berufsberatung nicht nur in Österreich eine Besonderheit dar. Auch in Deutschland wird in mehreren Interviews ein institutionen­ übergreifendes System der Qualitätssicherung diskutiert. Die Beratungs­ stellen sind im Rahmen des IQ-Netzwerkes deutschlandweit vernetzt und organisiert. Im Zeitraum der Datenerhebung trafen sich die Berater_innen der IQ-Beratungsstellen für diesen Austausch viermal im Jahr. Während die Interviewten diese Zusammenarbeit positiv bewerten, diskutieren sie die Ergebnisse teilweise auch kontrovers. »[W]as ist sozusagen die Pflicht und Kür der Anerkennungsberatung und die ist schon ziemlich breit. Das geht von dem Begriff Verweisberatung […] bis hin zu einer tiefen Fachberatung, wie wir sie hier haben. In der Zwischenzeit hat sich herauskristallisiert, dass der Schwerpunkt bundesweit doch eher auf eine fachlichere Beratung geht und wird gerade auch auf Bundesebene einen Prozess des Qualitätsmanagements versuchen aufzubauen« (E/DE, Z. 315-324). Der Versuch, ge"
+      },
+      {
+        "rank": 5,
+        "id": "4f8e9c84c04c223b2de83e957bed10468e29f35288c7312e0a135dcef75b7e4c",
+        "score": 0.9940624833106995,
+        "meta": {
+          "file_path": "9783839444856_chapter_0732.txt",
+          "source_id": "e17c5db9adbf4564e33d9b3d734a7f770370d1b76e2793fbb6d459d14526c9d2",
+          "page_number": 1,
+          "split_id": 14,
+          "split_idx_start": 15397,
+          "_split_overlap": [
+            {
+              "doc_id": "91d783c00d3271cdc8af9e571621feaf4b2b935fefa934fadf933f533e4ae721",
+              "range": [
+                1116,
+                1503
+              ]
+            },
+            {
+              "doc_id": "3766333f0a2217a9c6d05ec050eb63d7659d1ddc1a73fd03f09ae5db958cbc9e",
+              "range": [
+                0,
+                302
+              ]
+            }
+          ]
+        },
+        "content": "nung im Ausland erworbener Qualifikationen statt. Insbesondere durch die Ausweitung des Rechts auf ein Anerkennungsverfahren auch auf Dritt­ staatsangehörige wird zudem die Position der Antragsteller_innen gestärkt. »[A]lso es führt prinzipiell dazu, dass es selbstverständlicher wird, davon aus­ zugehen, dass jemand wirklich eine Qualifikation hat, dass man eine Mög­ lichkeit findet, diese Qualifikation auch irgendwie zu nutzen, und im Verfah­ ren kann man sich zumindest mal darauf berufen, und es ist auch eigentlich, es ist nicht völlig willkürlich, was wir da jetzt wollen, und eine Zumutung für eine zuständige Stelle, sondern es ist einfach das Recht der Person, einen An­ trag zu stellen, und auch eine gewisse Form von Antwort dann zu kriegen« (E/DE, Z. 462-468). Die gestärkte Position der Antragsteller_innen zeigt sich insbesondere auch in der Einführung einer dreimonatigen Frist zur Bearbeitung von Anträgen. Wie wichtig diese Frist ist, wird aus einer Fallbeschreibung in einem Inte"
+      }
+    ]
+  }
+]
