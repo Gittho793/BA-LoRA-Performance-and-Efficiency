@@ -11,4 +11,4 @@ src/eval/output/**/*.txt
 src/eval/cache/
 src/eval/results/
 **samples**
-src/eval/depreciated/** */
+src/eval/depreciated/**

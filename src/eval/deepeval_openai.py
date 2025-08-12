@@ -63,6 +63,7 @@ def evaluate_with_deepeval(gt_texts: dict,
                            pred_texts: dict,
                            question_map: dict,
                            answer_map: dict,
+                           retrieval_context = None
                            ) -> dict:
     """
     Evaluate every <question, predicted-answer, expected-answer> triple
@@ -93,12 +94,32 @@ def evaluate_with_deepeval(gt_texts: dict,
             file_scores = []
 
             for i in range(limit):
+                if retrieval_context is None:
+                    # Default: use ground truth text
+                    context_for_retrieval = [gt_text]
+                elif isinstance(retrieval_context, dict):
+                    # Per-file, per-question contexts
+                    file_contexts = retrieval_context.get(fname, [])
+                    if i < len(file_contexts):
+                        ctx = file_contexts[i]
+                        context_for_retrieval = [ctx] if isinstance(ctx, str) else ctx
+                    else:
+                        context_for_retrieval = [gt_text]
+                elif isinstance(retrieval_context, list):
+                    # Single context list for all
+                    context_for_retrieval = retrieval_context
+                elif isinstance(retrieval_context, str):
+                    # Single context string for all
+                    context_for_retrieval = [retrieval_context]
+                else:
+                    # Fallback
+                    context_for_retrieval = [gt_text]
                 tc = LLMTestCase(
                     input=qs[i],
                     actual_output=predicted_answers[i],
                     expected_output=gold_as[i],
                     context=[gt_text],
-                    retrieval_context=[gt_text]
+                    retrieval_context=context_for_retrieval
                 )
 
                 q_score = {}

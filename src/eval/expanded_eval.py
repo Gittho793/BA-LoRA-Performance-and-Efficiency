@@ -144,16 +144,6 @@ def read_json(path: str):
         return json.load(f)
 
 
-def save_questions(questions, out_folder):
-    """Save extracted questions to files"""
-    os.makedirs(out_folder, exist_ok=True)
-    for fname, question_list in questions.items():
-        question_fname = fname.replace('.txt', '_questions.txt')
-        with open(os.path.join(out_folder, question_fname), 'w', encoding='utf-8') as f:
-            for i, question in enumerate(question_list, 1):
-                f.write(f"{i}. {question.strip()}\n")
-
-
 def cleanup():
     """
     Based on https://github.com/vllm-project/vllm/issues/6544
@@ -264,7 +254,7 @@ def evaluate_optimized_deepeval(deepeval_data, args):
     chunk_size = 2  # Process 2 files at a time
     file_items = list(deepeval_data.items())
 
-    for chunk_start in range(0, len(file_items), chunk_size):
+    for chunk_start in tqdm(range(0, len(file_items), chunk_size), desc="Evaluating simple metrics."):
         chunk_end = min(chunk_start + chunk_size, len(file_items))
         chunk_items = file_items[chunk_start:chunk_end]
 
@@ -276,7 +266,7 @@ def evaluate_optimized_deepeval(deepeval_data, args):
             # Results for this file
             file_results = []
 
-            for i, qa_item in tqdm(enumerate(questions_list), desc="Evaluating simple metrics."):
+            for i, qa_item in enumerate(questions_list):
                 question = qa_item.get('question', '')
                 expected = qa_item.get('expected', '')
                 predicted = qa_item.get('predicted', '')

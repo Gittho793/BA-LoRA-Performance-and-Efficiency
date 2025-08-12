@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 import unsloth
 import json
-
+import time
 # Core Haystack imports
 from haystack import Pipeline, Document
 from haystack.document_stores.in_memory import InMemoryDocumentStore
@@ -85,22 +85,26 @@ class RAGPipeline:
         self.reranker = SentenceTransformersSimilarityRanker(
             model="cross-encoder/ms-marco-MiniLM-L-6-v2", top_k=5)
 
+        tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        pad_id = tokenizer.pad_token_id or tokenizer.eos_token_id
+
         # Local LLM generator using unsloth model
         self.llm_generator = HuggingFaceLocalGenerator(
             model=self.model_name,
             task="text-generation",
+            huggingface_pipeline_kwargs={
+                "device_map": "auto",
+                "torch_dtype": torch.bfloat16 if torch.cuda.is_bf16_supported() \
+                    else (torch.float16 if torch.cuda.is_available() else torch.float32)
+            },
             generation_kwargs={
                 "max_new_tokens": 512,
                 "temperature": 0.7,
                 "do_sample": True,
                 "top_p": 0.9,
-                "pad_token_id": 50256  # dummy
+                "pad_token_id": pad_id
             }
         )
-        # After initializing generator
-        tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-        pad_id = tokenizer.pad_token_id or tokenizer.eos_token_id
-        self.llm_generator.generation_kwargs["pad_token_id"] = pad_id
 
         # Prompt template for RAG
         self.prompt_template = '''
@@ -320,21 +324,63 @@ class RAGPipeline:
         return answer, retrieval
 
 
+def _bytes_to_gb(b: int) -> float:
+    try:
+        return float(b) / (1024 ** 3)
+    except Exception:
+        return 0.0
+
+
+def _write_memory_report(output_dir: Path,
+                         overall_peak_b: int,
+                         total_mem_b: int,
+                         generation_peak_b: int,
+                         generation_minutes: float):
+    total_mem_b = max(total_mem_b, 1)  # avoid div by zero
+    overall_pct = (overall_peak_b / total_mem_b) * 100.0
+    generation_pct = (generation_peak_b / total_mem_b) * 100.0
+
+    lines = [
+        f"Peak reserved memory = {_bytes_to_gb(overall_peak_b):.3f} GB.",
+        f"Peak reserved memory % of max memory = {overall_pct:.3f} %.",
+        f"Peak reserved memory for generation % of max memory = {generation_pct:.1f} %.",
+        f"{generation_minutes:.1f} minutes used for generation."
+    ]
+    (output_dir / "memory_usage.txt").write_text("\n".join(lines), encoding="utf-8")
+
+
 def main():
     """Main function demonstrating RAG pipeline usage."""
+
+    start = time.time()
 
     # Initialize RAG pipeline
     print("Initializing RAG Pipeline...")
     rag = RAGPipeline()
 
+    cuda_available = torch.cuda.is_available()
+    device_index = torch.cuda.current_device() if cuda_available else None
+    total_mem_b = torch.cuda.get_device_properties(
+        device_index).total_memory if cuda_available else 0
+    # Track overall peak (indexing + generation). Reset at very start.
+    if cuda_available:
+        torch.cuda.reset_peak_memory_stats(device_index)
+    overall_peak_before_gen_b = 0
+
     # Index documents
     print("Indexing documents...")
     rag.index_documents([str(p) for p in Path(
-        "../../data/raw_splitted_pdfs").rglob("*") if p.is_file()])
+        "../../data/raw_splitted_txt").rglob("*") if p.is_file()])
+
+    if cuda_available:
+        overall_peak_before_gen_b = torch.cuda.max_memory_reserved(
+            device_index)
+        # Reset before generation to isolate generation peak
+        torch.cuda.reset_peak_memory_stats(device_index)
 
     # Query the system
     questions_map, answer_map = load_question_json(
-        "../eval/output/pdf_questions.json")
+        "../eval/output/txt_questions.json")
 
     """for source_file, qs in questions_map.items():
         for i, q in enumerate(qs):
@@ -344,35 +390,52 @@ def main():
             print(f"\n\n\n\nExpected: {answer_map[source_file][i]}")
             print("-" * 30)"""
 
-    output_dir = Path("../../results/rag/pdf")
+    output_dir = Path("../../results/rag/txt")
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    for source_file, qs in questions_map.items():
-        results_for_source = []
+    results_by_file: Dict[str, List[Dict[str, Any]]] = {}
 
+    for source_file, qs in questions_map.items():
         for i, q in enumerate(qs):
             print(f"\nQuestion ({source_file}):\n{q}")
             answer, retrieval = rag.get_answer_and_retrieval(
-                q, top_k=5, keep_content_chars=1000)
-            expected = answer_map[source_file][i]
+                q, top_k=5, keep_content_chars=1000
+            )
+
+            # best retrieval context = top-1 reranked doc (rank 1 is first in list)
+            best_context = retrieval[0]["content"] if retrieval else None
 
             print(f"\n\n\n\nAnswer: {answer}")
-            print(f"\n\n\n\nExpected: {expected}")
+            print(f"\n\n\n\nExpected: {answer_map[source_file][i]}")
             print("-" * 30)
 
-            results_for_source.append({
-                "filename": source_file,
+            results_by_file.setdefault(source_file, []).append({
                 "question": q,
-                "answer": answer,
-                "expected": expected,
-                "retrieval": retrieval
+                "predicted_answer": answer,
+                "best_context": best_context
             })
+    minutes = (time.time() - start) / 60.0
 
-        out_name = output_dir / \
-            f"pdf_{Path(source_file).stem}_qa_retrieval.json"
-        with open(out_name, "w", encoding="utf-8") as f:
-            json.dump(results_for_source, f, ensure_ascii=False, indent=2)
-        print(f"Saved results to {out_name}")
+    # Write to a single file with the new structure
+    out_name = output_dir / "txt_rag_results.json"
+    with open(out_name, "w", encoding="utf-8") as f:
+        json.dump(results_by_file, f, ensure_ascii=False, indent=2)
+
+    print(f"Saved all results to {out_name}")
+
+    if cuda_available:
+        generation_peak_b = torch.cuda.max_memory_reserved(device_index)
+        overall_peak_b = max(overall_peak_before_gen_b, generation_peak_b)
+    else:
+        generation_peak_b = 0
+        overall_peak_b = 0
+    _write_memory_report(
+        output_dir=output_dir,
+        overall_peak_b=overall_peak_b,
+        total_mem_b=total_mem_b,
+        generation_peak_b=generation_peak_b,
+        generation_minutes=minutes,
+    )
 
 
 if __name__ == "__main__":
