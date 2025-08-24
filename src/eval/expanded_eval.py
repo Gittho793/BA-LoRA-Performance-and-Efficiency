@@ -6,6 +6,7 @@ prompts an LLM for predictions, and computes evaluation metrics using the deepev
 """
 import unsloth  # first for optimization
 import os
+import time
 import json
 import argparse
 import re
@@ -157,11 +158,39 @@ def cleanup():
 
 
 def generate_predictions(model, tokenizer, inputs, args):
-    """Generate predictions using the model"""
+    """Generate predictions using the model with comprehensive GPU memory monitoring"""
+
+    print("\n" + "="*60)
+    print("GPU MEMORY MONITORING - GENERATION START")
+    print("="*60)
+
+    # Setup variables for monitoring (before generation starts)
+    if torch.cuda.is_available():
+        gpu_stats = torch.cuda.get_device_properties(0)
+        torch.cuda.synchronize()
+        torch.cuda.reset_peak_memory_stats()
+        start_gpu_memory = round(torch.cuda.max_memory_reserved() / 1024 / 1024 / 1024, 3)
+        max_memory = round(gpu_stats.total_memory / 1024 / 1024 / 1024, 3)
+        print(f"GPU = {gpu_stats.name}. Max memory = {max_memory} GB.")
+        print(f"{start_gpu_memory} GB of memory reserved.")
+
+    else:
+        print("CUDA not available - GPU monitoring disabled")
+        gpu_stats, start_gpu_memory, max_memory = None, 0, 0
+
+    # Record start time for generation
+    start_time = time.time()
+
     preds = {}
-    for fname, q_list in tqdm(inputs.items()):
+    total_questions = sum(len(q_list['questions']) for q_list in inputs.values())
+    processed_questions = 0
+
+    print(f"Starting generation for {total_questions} questions across {len(inputs)} files")
+    print("-" * 60)
+
+    for fname, q_list in tqdm(inputs.items(), desc="Processing files"):
         preds[fname] = []
-        for q in q_list['questions']:
+        for q in tqdm(q_list['questions'], desc=f"Questions in {fname}", leave=False):
             prompt_text = f"Bitte beantworte die folgende Frage:\n{q['number']}. {q['text']}\nAntwort:"
 
             try:
@@ -188,20 +217,74 @@ def generate_predictions(model, tokenizer, inputs, args):
                     )
 
                 new_tokens = out[0][len(input_ids[0]):]
-                pred_text = tokenizer.decode(
-                    new_tokens, skip_special_tokens=True)
+                pred_text = tokenizer.decode(new_tokens, skip_special_tokens=True)
 
             except Exception as e:
-                logger.error(
-                    f"Error generating prediction for question in {fname}: {str(e)}")
+                logger.error(f"Error generating prediction for question in {fname}: {str(e)}")
                 pred_text = ""
 
             # Append dictionary with question, predicted answer
             preds[fname].append({
-                # just question text, without numbers/prefix
-                "question": q['text'],
+                "question": q['text'],  # just question text, without numbers/prefix
                 "predicted_answer": pred_text,
             })
+
+            processed_questions += 1
+
+    # Record end time and calculate final statistics
+    end_time = time.time()
+    generation_runtime = end_time - start_time
+
+    print("\n" + "="*60)
+    print("GPU MEMORY MONITORING - GENERATION COMPLETE")
+    print("="*60)
+
+    if torch.cuda.is_available():
+        # Get final stats after generation
+        used_memory = round(torch.cuda.max_memory_reserved() / 1024 / 1024 / 1024, 3)
+        used_memory_for_generation = round(used_memory - start_gpu_memory, 3)
+        used_percentage = round(used_memory / max_memory * 100, 3)
+        generation_percentage = round(used_memory_for_generation / max_memory * 100, 3)
+
+        # Print generation statistics
+        print(f"{generation_runtime:.2f} seconds used for generation.")
+        print(f"{round(generation_runtime/60, 2)} minutes used for generation.")
+        print(f"Peak reserved memory = {used_memory} GB.")
+        print(f"Peak reserved memory for generation = {used_memory_for_generation} GB.")
+        print(f"Peak reserved memory % of max memory = {used_percentage} %.")
+        print(f"Peak reserved memory for generation % of max memory = {generation_percentage} %.")
+
+        # Create output directory and save GPU usage statistics
+        os.makedirs(os.path.dirname(args.predictions), exist_ok=True)
+
+        # Write to file
+        stats_file = os.path.join(os.path.dirname(args.predictions), f"{args.model_name}-generation_gpu_usage.txt")
+        with open(stats_file, "w", encoding="utf-8") as f:
+            f.write(f"""Peak reserved memory = {used_memory} GB.
+Peak reserved memory for generation = {used_memory_for_generation} GB.
+Peak reserved memory % of max memory = {used_percentage} %.
+Peak reserved memory for generation % of max memory = {generation_percentage} %.
+{round(generation_runtime/60, 2)} minutes used for generation.
+
+Additional Statistics:
+GPU Device: {gpu_stats.name}
+Total GPU Memory: {max_memory} GB
+Starting Memory Reserved: {start_gpu_memory} GB
+Total Questions Processed: {processed_questions}
+Generation Runtime: {generation_runtime:.2f} seconds
+Average Time per Question: {round(generation_runtime/processed_questions, 2)} seconds
+
+Model Configuration:
+Max New Tokens: {args.max_new_tokens}
+Temperature: {args.temperature}
+Sampling: {args.do_sample}
+Device: {args.device}
+""")
+
+        print(f"GPU usage statistics saved to: {stats_file}")
+    else:
+        print(f"Generation completed in {round(generation_runtime/60, 2)} minutes")
+        print("CUDA not available - no GPU statistics collected")
 
     return preds
 

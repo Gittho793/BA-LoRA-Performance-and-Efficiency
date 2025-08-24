@@ -8,11 +8,11 @@ import sys
 import datetime
 from time import time
 from dotenv import load_dotenv
-from src.util.args import (TXT_OUTPUT_DIR as OUTPUT_DIR,
-                           TXT_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
-
 
 load_dotenv("../../.env")
+
+from src.util.args import (PDF_OUTPUT_DIR as OUTPUT_DIR,
+                           PDF_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
 
 project_root = os.path.abspath(
     os.path.join(os.path.dirname(__file__), "../.."))
@@ -33,7 +33,7 @@ elif "pdf" in OUTPUT_DIR and "pdf" in GROUND_TRUTH_FILES:
     top_level_subdirs = [
         os.path.join(BASE_DIR, name)
         for name in sorted(os.listdir(BASE_DIR))
-        if name.startswith("pdf") and os.path.isdir(os.path.join(BASE_DIR, name))
+        if name.startswith("pdf") and "4bit" in name and os.path.isdir(os.path.join(BASE_DIR, name))
     ]
     questions_json = "output/pdf_questions.json"
 else:

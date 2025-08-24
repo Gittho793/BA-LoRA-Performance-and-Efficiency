@@ -22,16 +22,13 @@ EVAL_MODEL = GPTModel(
 )
 
 
-def integrate_deepeval_metrics():
-    """Return a dict of DeepEval metrics that all use Gemini."""
-    return {
+def integrate_deepeval_metrics(include_contextual: bool = False):
+    """Return a dict of DeepEval metrics, optionally including contextual relevancy (for RAG)."""
+    metrics = {
         "answer_relevancy": AnswerRelevancyMetric(
             threshold=0.7, model=EVAL_MODEL
         ),
         "faithfulness": FaithfulnessMetric(
-            threshold=0.7, model=EVAL_MODEL
-        ),
-        "contextual_relevancy": ContextualRelevancyMetric(
             threshold=0.7, model=EVAL_MODEL
         ),
         "hallucination": HallucinationMetric(
@@ -45,6 +42,11 @@ def integrate_deepeval_metrics():
             model=EVAL_MODEL,
         ),
     }
+    if include_contextual:  # changed after evaluation finished but should work
+        metrics["contextual_relevancy"] = ContextualRelevancyMetric(
+            threshold=0.7, model=EVAL_MODEL
+        )
+    return metrics
 
 
 def parse_questions_string(questions_string):
@@ -69,7 +71,7 @@ def evaluate_with_deepeval(gt_texts: dict,
     Evaluate every <question, predicted-answer, expected-answer> triple
     independently with DeepEval metrics.
     """
-    metrics = integrate_deepeval_metrics()
+    metrics = integrate_deepeval_metrics(include_contextual=bool(retrieval_context))  # changed after evaluation finished but should work
     all_results = {}
 
     def _handler(signum, frame):

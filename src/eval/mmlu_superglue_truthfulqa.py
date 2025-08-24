@@ -486,6 +486,6 @@ if __name__ == "__main__":
     # tasks = get_available_tasks()
     # if tasks:
     #     print("Available evaluation tasks:")
-    #     print(tasks[:1000] + "..." if len(tasks) > 1000 else tasks)
+    #     print(tasks[:10000] + "..." if len(tasks) > 1000 else tasks)
 
     main()
