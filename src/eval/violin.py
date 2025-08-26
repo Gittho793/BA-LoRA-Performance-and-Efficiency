@@ -1,11 +1,11 @@
 """
-Analyze results JSON and save summaries + boxplots.
+Analyze results JSON and save summaries + violin/bar plots.
 
 Usage:
-  # Single file (unchanged behavior)
+  # Single file
   python analyze_results.py /path/to/<results>.json
 
-  # NEW: Directory mode (loads all json files whose basename starts with "pdf")
+  # Directory mode (loads all json files whose basename starts with "pdf")
   python analyze_results.py /path/to/dir
 
 What it does:
@@ -16,7 +16,9 @@ What it does:
 Single-file mode:
 - Prints overall averages to stdout.
 - Saves:
-    - <two-levels-up>/results/pictures/<file_stem>/boxplots/<metric>_boxplot.png
+    - <two-levels-up>/results/pictures/<file_stem>/boxplots/
+        - <metric>_violin.png            (for every numeric metric EXCEPT hallucination)
+        - <hallucination_col>_bar.png    (bar counts of raw 0/1 values)
     - <two-levels-up>/results/pictures/<file_stem>/summary.csv
     - <two-levels-up>/results/pictures/<file_stem>/summary_by_source.csv
 
@@ -27,23 +29,25 @@ Directory mode (argument is a directory path):
 - Saves (two-levels-up from the directory):
     - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/summary_combined.csv
     - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/summary_by_source_combined.csv
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/comparative_boxplots/<metric>_comparative.png
-      (each image = one metric; boxplots grouped by file)
+    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/comparative_boxplots/
+        - <metric>_comparative_violin.png   (for every numeric metric EXCEPT hallucination)
+        - <hallucination_col>_comparative_bar.png  (grouped bars per run: counts of 0 and 1)
 
 Comparative plot labeling rules:
 - If name contains "Meta-Llama" → show "Base"
 - Else if name contains "RAG" → show "RAG"
-- Else if the name ends with a pattern like a<digits>-r<digits> (e.g., "a3-r7") → show that suffix
+- Else if the name ends with "a<digits>-r<digits>" (e.g., "a3-r7") → show that suffix
 - Else → show the original stem
 
 Dependencies: pandas, matplotlib, numpy
 """
+from analyze_results import save_combined_summaries
 import matplotlib.pyplot as plt
 import argparse
 import json
 import os
 import re
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, Optional
 
 import pandas as pd
 import numpy as np
@@ -52,17 +56,9 @@ matplotlib.use("Agg")  # headless
 
 
 def flatten_records(data: Dict[str, Any]) -> pd.DataFrame:
-    """
-    Turn the JSON structure into a flat table of rows (one per Q/A item).
-    Handles:
-      - data['detailed_results'] = { source_file: [ { ... item ... }, ... ], ... }
-      - 'existing_metrics': { metric_name: {'score': float, ...}, ... }
-      - any top-level numeric fields in each item (e.g., bleu1, rouge1, bert_f1, ...)
-    """
     rows: List[Dict[str, Any]] = []
     detailed = data.get("detailed_results", {})
 
-    # If the file doesn't follow the expected structure, try to treat it as a list
     if isinstance(detailed, list):
         detailed = {"__unknown_source__": detailed}
 
@@ -105,16 +101,27 @@ def flatten_records(data: Dict[str, Any]) -> pd.DataFrame:
 
 def numeric_columns(df: pd.DataFrame) -> List[str]:
     num_cols = [c for c in df.columns if np.issubdtype(df[c].dtype, np.number)]
-    # Drop obvious non-metric numeric IDs if present
     return [c for c in num_cols if c not in ("row_id",)]
 
 
+# --- Metric locating helpers -------------------------------------------------
+
+def _norm(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", (s or "").lower())
+
+
+def find_first_hallucination_col(df: pd.DataFrame) -> Optional[str]:
+    targets = [_norm(s) for s in ["halluc", "hallucination", "hallucinations"]]
+    for col in df.columns:
+        ncol = _norm(col)
+        if any(t in ncol for t in targets) and np.issubdtype(df[col].dtype, np.number):
+            return col
+    return None
+
+
+# --- Output path helpers -----------------------------------------------------
+
 def make_output_paths_for_file(input_json: str) -> Dict[str, str]:
-    """
-    Build the output directory two levels up from the input file path:
-        ../../results/pictures/{file_stem}/
-    and the files within it.
-    """
     file_stem = os.path.splitext(os.path.basename(input_json))[0]
     two_up = os.path.abspath(os.path.join(
         os.path.dirname(input_json), "..", ".."))
@@ -122,6 +129,7 @@ def make_output_paths_for_file(input_json: str) -> Dict[str, str]:
     os.makedirs(out_dir, exist_ok=True)
     return {
         "dir": out_dir,
+        # kept name for compatibility
         "boxplot": os.path.join(out_dir, "boxplots"),
         "summary_csv": os.path.join(out_dir, "summary.csv"),
         "summary_by_source_csv": os.path.join(out_dir, "summary_by_source.csv"),
@@ -129,10 +137,6 @@ def make_output_paths_for_file(input_json: str) -> Dict[str, str]:
 
 
 def make_output_paths_for_dir(input_dir: str) -> Dict[str, str]:
-    """
-    Build the output directory two levels up from the directory path:
-        ../../results/pictures/{dir_basename}_comparative_pdf/
-    """
     dir_base = os.path.basename(os.path.normpath(input_dir))
     one_up = os.path.abspath(os.path.join(
         os.path.dirname(os.path.abspath(input_dir)), ".."))
@@ -141,11 +145,14 @@ def make_output_paths_for_dir(input_dir: str) -> Dict[str, str]:
     os.makedirs(out_dir, exist_ok=True)
     return {
         "dir": out_dir,
+        # kept name
         "comparative_boxplots": os.path.join(out_dir, "comparative_boxplots"),
         "summary_combined_csv": os.path.join(out_dir, "summary_combined.csv"),
         "summary_by_source_combined_csv": os.path.join(out_dir, "summary_by_source_combined.csv"),
     }
 
+
+# --- Summaries ---------------------------------------------------------------
 
 def save_summaries(df: pd.DataFrame, out_paths: Dict[str, str]) -> None:
     metrics = numeric_columns(df)
@@ -163,157 +170,207 @@ def save_summaries(df: pd.DataFrame, out_paths: Dict[str, str]) -> None:
     )
     by_src.to_csv(out_paths["summary_by_source_csv"])
 
-    # Also print a quick mean row to stdout for convenience
     print("\n=== Overall metric means ===")
     print(df[metrics].mean(numeric_only=True).sort_index().round(4))
 
 
-def save_boxplots(df: pd.DataFrame, out_dir: str) -> None:
-    """
-    Save one boxplot per metric into individual PNG files in out_dir.
-    """
+# --- Plotting ----------------------------------------------------------------
+
+def _violin(vals: np.ndarray, title: str, out_path: str) -> None:
+    vals = vals[np.isfinite(vals)]
+    if vals.size == 0:
+        print(f"Skipping {title} (no valid data)")
+        return
+    plt.figure(figsize=(4.5, 4.5))
+    plt.violinplot(vals, showmedians=True)
+    plt.title(title)
+    plt.xticks([])
+    plt.grid(axis="y", linestyle=":", alpha=0.5)
+    plt.savefig(out_path, dpi=200, bbox_inches="tight")
+    plt.close()
+    print(f"Saved: {out_path}")
+
+
+def _bar(categories: List[str], values: List[float], title: str, out_path: str, rot: int = 0) -> None:
+    if not values:
+        print(f"Skipping {title} (no valid data)")
+        return
+    plt.figure(figsize=(max(4.5, 1 + 0.6 * len(categories)), 4.5))
+    x = np.arange(len(categories))
+    plt.bar(x, values)
+    plt.title(title)
+    plt.xticks(x, categories, rotation=rot, ha="right" if rot else "center")
+    plt.grid(axis="y", linestyle=":", alpha=0.5)
+    plt.savefig(out_path, dpi=200, bbox_inches="tight")
+    plt.close()
+    print(f"Saved: {out_path}")
+
+
+def _grouped_bar(labels: List[str], zeros: List[float], ones: List[float], title: str, out_path: str) -> None:
+    if not labels:
+        print(f"Skipping {title} (no valid data)")
+        return
+    width = 0.4
+    x = np.arange(len(labels))
+    plt.figure(figsize=(max(6, 1 + 1.0 * len(labels)), 5))
+    plt.bar(x - width/2, zeros, width, label="0")
+    plt.bar(x + width/2, ones, width, label="1")
+    plt.title(title)
+    plt.xticks(x, labels, rotation=45, ha="right")
+    plt.legend(title="Value")
+    plt.grid(axis="y", linestyle=":", alpha=0.5)
+    plt.savefig(out_path, dpi=200, bbox_inches="tight")
+    plt.close()
+    print(f"Saved: {out_path}")
+
+
+def save_violins_all_metrics_except_halluc(df: pd.DataFrame, out_dir: str) -> None:
+    os.makedirs(out_dir, exist_ok=True)
     metrics = numeric_columns(df)
     if not metrics:
         print("No numeric metrics to plot.")
         return
 
-    os.makedirs(out_dir, exist_ok=True)
-
+    halluc_col = find_first_hallucination_col(df)
     for col in metrics:
-        vals = df[col].values
-        vals = vals[np.isfinite(vals)]
-        if vals.size == 0:
-            print(f"Skipping {col} (no valid data)")
+        if halluc_col and col == halluc_col:
             continue
+        vals = pd.to_numeric(df[col], errors="coerce").values
+        _violin(vals, f"{col} (violin)", os.path.join(
+            out_dir, f"{col}_violin.png"))
 
-        plt.figure(figsize=(4, 4))
-        plt.boxplot(vals, vert=True, widths=0.6)
-        plt.title(col)
-        plt.xticks([])
-        plt.grid(axis="y", linestyle=":", alpha=0.5)
 
-        out_path = os.path.join(out_dir, f"{col}_boxplot.png")
-        plt.savefig(out_path, dpi=200, bbox_inches="tight")
-        plt.close()
-        print(f"Saved: {out_path}")
+def save_hallucination_bar_raw(df: pd.DataFrame, out_dir: str) -> None:
+    os.makedirs(out_dir, exist_ok=True)
+    halluc_col = find_first_hallucination_col(df)
+    if not halluc_col:
+        print("Hallucination column not found.")
+        return
+    vals = pd.to_numeric(df[halluc_col], errors="coerce").replace(
+        [np.inf, -np.inf], np.nan).dropna()
+    # Keep raw 0/1 values; count each exactly
+    counts = vals.value_counts().sort_index()
+    zeros = int(counts.get(0, 0))
+    ones = int(counts.get(1, 0))
+    out_path = os.path.join(out_dir, f"{halluc_col}_bar.png")
+    _bar(["0", "1"], [zeros, ones],
+         f"{halluc_col} (counts of raw 0/1)", out_path)
 
 
 def pretty_run_label(name: str) -> str:
-    """
-    Normalize run labels for comparative plots:
-    - If contains 'Meta-Llama' -> 'Base'
-    - Else if contains 'RAG' -> 'RAG'
-    - Else if ends with a<digits>-r<digits> (optionally followed by _results) -> that suffix
-    - Else -> original name
-    """
     s = str(name or "")
-    # Meta-Llama takes precedence over RAG if both appear (unlikely)
     if re.search(r"meta[-\s]?llama", s, flags=re.IGNORECASE):
         return "Base"
-    if re.search(r"rag", s, flags=re.IGNORECASE):
+    if re.search(r"\brag\b", s, flags=re.IGNORECASE) or re.search(r"rag", s, flags=re.IGNORECASE):
         return "RAG"
-
-    # Match aN-rM at end, optionally followed by _results
-    m = re.search(r"(r\d+-a\d+)(?:_results)?$", s)
+    m = re.search(r"(r\d+-a\d+)(?:_results)?$", s, flags=re.IGNORECASE)
     if m:
         return m.group(1)
-
-    # (Optional) if last token matches the pattern, use it
     last_token = re.split(r"[_\s\-]+", s)[-1]
-    if re.fullmatch(r"a\d+-r\d+", last_token):
+    if re.fullmatch(r"a\d+-r\d+", last_token, flags=re.IGNORECASE):
         return last_token
-
     return s
 
 
 def sort_labels_numerically(labels: List[str]) -> List[str]:
-    """
-    Sorts run labels in a human-friendly numeric order.
-    E.g., "a8-r2" will come before "a128-r2".
-    Falls back to plain string comparison if no numbers are present.
-    """
     def sort_key(label: str):
-        # Extract all integers in the label
         nums = [int(x) for x in re.findall(r"\d+", label)]
-        # If no numbers, use the label itself as fallback
         return nums if nums else [float("inf"), label]
-
     return sorted(labels, key=sort_key)
 
 
-def save_combined_summaries(df_all: pd.DataFrame, out_paths: Dict[str, str], run_col: str = "run") -> None:
-    metrics = numeric_columns(df_all)
-    if not metrics:
-        print("No numeric metrics found to summarize (combined).")
-        return
-
-    overall = df_all[metrics].describe().T.sort_index()
-    overall.to_csv(out_paths["summary_combined_csv"])
-
-    by_src = (
-        df_all.groupby([run_col, "source_file"], dropna=False)[metrics]
-        .agg(["count", "mean", "std", "min", "max"])
-        .sort_index()
-    )
-    by_src.to_csv(out_paths["summary_by_source_combined_csv"])
-
-    print("\n=== Combined overall metric means across all runs ===")
-    print(df_all[metrics].mean(numeric_only=True).sort_index().round(4))
-
-
-def save_comparative_boxplots(df_all: pd.DataFrame, out_dir: str, run_col: str = "run") -> None:
+def save_comparative_violins_all_metrics_except_halluc(df_all: pd.DataFrame, out_dir: str, run_col: str = "run") -> None:
+    os.makedirs(out_dir, exist_ok=True)
     metrics = numeric_columns(df_all)
     if not metrics:
         print("No numeric metrics to plot (combined).")
         return
 
-    os.makedirs(out_dir, exist_ok=True)
-
+    halluc_col = find_first_hallucination_col(df_all)
     runs = list(df_all[run_col].dropna().unique())
     if not runs:
         print("No runs found for comparative plots.")
         return
 
-    # Map original run → pretty label
     run_to_label = {r: pretty_run_label(r) for r in runs}
-
-    # Deduplicate labels before sorting
     unique_labels = list(set(run_to_label.values()))
     sorted_labels = sort_labels_numerically(unique_labels)
 
     for metric in metrics:
+        if halluc_col and metric == halluc_col:
+            continue
+
+        # Collect values for each pretty label
         data = []
         labels = []
         for label in sorted_labels:
-            # Gather all runs that share this pretty label
             matching_runs = [
                 r for r, pl in run_to_label.items() if pl == label]
-            vals = df_all.loc[df_all[run_col].isin(
-                matching_runs), metric].astype(float)
-            vals = vals[np.isfinite(vals.values)]
+            vals = pd.to_numeric(
+                df_all.loc[df_all[run_col].isin(matching_runs), metric],
+                errors="coerce"
+            ).replace([np.inf, -np.inf], np.nan).dropna().values
             if vals.size > 0:
-                data.append(vals.values)
+                data.append(vals)
                 labels.append(label)
 
         if not data:
             print(f"Skipping {metric} (no valid data across runs)")
             continue
 
-        fig_width = max(5, 1 + 0.6 * len(labels))
+        fig_width = max(6, 1 + 0.8 * len(labels))
         plt.figure(figsize=(fig_width, 5))
-        plt.boxplot(data, vert=True, widths=0.6)
-        plt.title(f"{metric} — comparative")
+        plt.violinplot(data, showmedians=True)
+        plt.title(f"{metric} — comparative (violin)")
         plt.xticks(range(1, len(labels) + 1), labels, rotation=45, ha="right")
         plt.grid(axis="y", linestyle=":", alpha=0.5)
-
-        out_path = os.path.join(out_dir, f"{metric}_comparative.png")
+        out_path = os.path.join(out_dir, f"{metric}_comparative_violin.png")
         plt.savefig(out_path, dpi=200, bbox_inches="tight")
         plt.close()
         print(f"Saved comparative: {out_path}")
 
 
+def save_comparative_hallucination_bar_raw(df_all: pd.DataFrame, out_dir: str, run_col: str = "run") -> None:
+    os.makedirs(out_dir, exist_ok=True)
+    halluc_col = find_first_hallucination_col(df_all)
+    if not halluc_col:
+        print("Hallucination column not found for comparative plots.")
+        return
+
+    runs = list(df_all[run_col].dropna().unique())
+    if not runs:
+        print("No runs found for comparative plots.")
+        return
+
+    run_to_label = {r: pretty_run_label(r) for r in runs}
+    unique_labels = list(set(run_to_label.values()))
+    sorted_labels = sort_labels_numerically(unique_labels)
+
+    zeros, ones, labels = [], [], []
+    for label in sorted_labels:
+        matching_runs = [r for r, pl in run_to_label.items() if pl == label]
+        vals = pd.to_numeric(
+            df_all.loc[df_all[run_col].isin(matching_runs), halluc_col],
+            errors="coerce"
+        ).replace([np.inf, -np.inf], np.nan).dropna()
+        if not vals.empty:
+            vc = vals.value_counts().sort_index()
+            zeros.append(int(vc.get(0, 0)))
+            ones.append(int(vc.get(1, 0)))
+            labels.append(label)
+
+    if not labels:
+        print(f"Skipping {halluc_col} (no valid data across runs)")
+        return
+
+    out_path = os.path.join(out_dir, f"{halluc_col}_comparative_bar.png")
+    _grouped_bar(labels, zeros, ones,
+                 f"{halluc_col} — comparative (counts of raw 0/1)", out_path)
+
+
+# --- I/O orchestration -------------------------------------------------------
+
 def load_json_safely(path: str) -> Tuple[str, pd.DataFrame]:
-    """Load one results JSON into a DataFrame with error handling. Returns (run_label, df)."""
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -336,7 +393,8 @@ def process_single_file(input_json: str) -> None:
 
     out_paths = make_output_paths_for_file(input_json)
     save_summaries(df, out_paths)
-    save_boxplots(df, out_paths["boxplot"])
+    save_violins_all_metrics_except_halluc(df, out_paths["boxplot"])
+    save_hallucination_bar_raw(df, out_paths["boxplot"])
     print("\nDone.")
 
 
@@ -356,7 +414,6 @@ def process_directory(input_dir: str) -> None:
         return
 
     frames = []
-    run_labels = []
     for path in sorted(candidates):
         run, df = load_json_safely(path)
         if df.empty:
@@ -365,7 +422,6 @@ def process_directory(input_dir: str) -> None:
         df = df.copy()
         df["run"] = run
         frames.append(df)
-        run_labels.append(run)
 
     if not frames:
         print("No valid data loaded from directory.")
@@ -374,13 +430,11 @@ def process_directory(input_dir: str) -> None:
     df_all = pd.concat(frames, ignore_index=True)
     out_paths = make_output_paths_for_dir(input_dir)
 
-    # Save combined summaries
     save_combined_summaries(df_all, out_paths, run_col="run")
-
-    # Save comparative boxplots (one image per metric, with runs side-by-side)
-    save_comparative_boxplots(
+    save_comparative_violins_all_metrics_except_halluc(
         df_all, out_paths["comparative_boxplots"], run_col="run")
-
+    save_comparative_hallucination_bar_raw(
+        df_all, out_paths["comparative_boxplots"], run_col="run")
     print("\nDone.")
 
 
