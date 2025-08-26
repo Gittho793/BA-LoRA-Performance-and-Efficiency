@@ -13273,7 +13273,12 @@
       "hallucination_count": 255,
       "factual_correctness_mean": 0.8361772413361738,
       "factual_correctness_std": 0.15654669668745677,
-      "factual_correctness_count": 255
+      "factual_correctness_count": 255,
+      "answer_relevancy_var": 0.041305188772656175,
+      "faithfulness_var": 0.0120949721698463,
+      "contextual_relevancy_var": 0.11321271434257558,
+      "hallucination_var": 0.21530180699730875,
+      "factual_correctness_var": 0.02450686824375459
     }
   }
 }

@@ -53,6 +53,7 @@ def compute_metrics_statistics(json_file_path):
             stats_results[metric_name] = {
                 'mean': float(np.mean(values_array)),
                 'std': float(np.std(values_array)),
+                'variance': float(np.var(values_array)),
                 'count': len(values),
                 'min': float(np.min(values_array)),
                 'max': float(np.max(values_array))
@@ -95,6 +96,7 @@ def add_existing_metrics_to_aggregated(json_file_path):
             base_name = metric_name.lower()
             existing_stats[f"{base_name}_mean"] = float(np.mean(values_array))
             existing_stats[f"{base_name}_std"] = float(np.std(values_array))
+            existing_stats[f"{base_name}_var"] = float(np.var(values_array))
             existing_stats[f"{base_name}_count"] = len(values)
 
     # Add to aggregated_metrics.overall
