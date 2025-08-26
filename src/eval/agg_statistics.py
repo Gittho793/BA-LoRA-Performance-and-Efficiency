@@ -62,6 +62,12 @@ def compute_metrics_statistics(json_file_path):
     return stats_results
 
 
+def numpy_mode(data):
+    values, counts = np.unique(data, return_counts=True)
+    max_count_index = np.argmax(counts)
+    return values[max_count_index]
+
+
 def add_existing_metrics_to_aggregated(json_file_path):
     """
     Extract only existing_metrics from detailed_results and add them to aggregated_metrics.overall
@@ -97,6 +103,8 @@ def add_existing_metrics_to_aggregated(json_file_path):
             existing_stats[f"{base_name}_mean"] = float(np.mean(values_array))
             existing_stats[f"{base_name}_std"] = float(np.std(values_array))
             existing_stats[f"{base_name}_var"] = float(np.var(values_array))
+            existing_stats[f"{base_name}_median"] = float(np.median(values_array))
+            existing_stats[f"{base_name}_mode"] = numpy_mode(values_array)
             existing_stats[f"{base_name}_count"] = len(values)
 
     # Add to aggregated_metrics.overall
