@@ -12478,7 +12478,22 @@
       "bert_recall_count": 255,
       "bert_f1_mean": 0.8569305969219582,
       "bert_f1_std": 0.028448390606938694,
-      "bert_f1_count": 255
+      "bert_f1_count": 255,
+      "answer_relevancy_mean": 0.9476377217553688,
+      "answer_relevancy_std": 0.15201944047455135,
+      "answer_relevancy_count": 255,
+      "faithfulness_mean": 0.8755700798838053,
+      "faithfulness_std": 0.2515898393672497,
+      "faithfulness_count": 255,
+      "contextual_relevancy_mean": 0.7827757279188333,
+      "contextual_relevancy_std": 0.20834211829837174,
+      "contextual_relevancy_count": 255,
+      "hallucination_mean": 0.43137254901960786,
+      "hallucination_std": 0.4952678800123564,
+      "hallucination_count": 255,
+      "factual_correctness_mean": 0.687568476041596,
+      "factual_correctness_std": 0.21014368869618202,
+      "factual_correctness_count": 255
     }
   }
 }

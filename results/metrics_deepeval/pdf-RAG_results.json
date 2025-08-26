@@ -13258,7 +13258,22 @@
       "deepeval_hallucination_count": 255,
       "deepeval_factual_correctness_mean": 0.8361772413361738,
       "deepeval_factual_correctness_std": 0.15654669668745677,
-      "deepeval_factual_correctness_count": 255
+      "deepeval_factual_correctness_count": 255,
+      "answer_relevancy_mean": 0.8857098886740965,
+      "answer_relevancy_std": 0.20323678006860907,
+      "answer_relevancy_count": 255,
+      "faithfulness_mean": 0.9653085150143974,
+      "faithfulness_std": 0.10997714385201272,
+      "faithfulness_count": 255,
+      "contextual_relevancy_mean": 0.669680983504513,
+      "contextual_relevancy_std": 0.3364709710251028,
+      "contextual_relevancy_count": 255,
+      "hallucination_mean": 0.3137254901960784,
+      "hallucination_std": 0.4640062574980091,
+      "hallucination_count": 255,
+      "factual_correctness_mean": 0.8361772413361738,
+      "factual_correctness_std": 0.15654669668745677,
+      "factual_correctness_count": 255
     }
   }
 }

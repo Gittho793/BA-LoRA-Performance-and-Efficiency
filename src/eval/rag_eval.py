@@ -1,14 +1,6 @@
 """
 Evaluate RAG pipeline results using the same metrics as expanded_eval.py
 """
-from src.eval.deepeval_openai import evaluate_with_deepeval
-from src.eval.expanded_eval import (
-    load_question_json,
-    read_text_files,
-    evaluate_optimized_deepeval,
-    aggregate_question_metrics,
-    save_evaluation_results
-)
 import os
 import sys
 import json
@@ -19,6 +11,14 @@ from pathlib import Path
 project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
+from src.eval.deepeval_openai import evaluate_with_deepeval
+from src.eval.expanded_eval import (
+    load_question_json,
+    read_text_files,
+    evaluate_optimized_deepeval,
+    aggregate_question_metrics,
+    save_evaluation_results
+)
 
 def convert_rag_to_deepeval_format(rag_results, question_map, answer_map):
     """Convert RAG results to the same format as expanded_eval.py output"""
