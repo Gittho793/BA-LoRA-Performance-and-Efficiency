@@ -1,0 +1,38 @@
+EVALUATION METRICS SUMMARY REPORT: pdf-Meta-Llama-3.1-8B-Instruct_results.json
+================================================================================
+
+Total number of evaluations: 255
+
+Quality Metrics:
+---------------
+ANSWER_RELEVANCY     | Mean: 0.7543 | Std: 0.2727 | Range: [0.0357, 1.0000]
+FAITHFULNESS         | Mean: 0.8766 | Std: 0.2404 | Range: [0.0000, 1.0000]
+CONTEXTUAL_RELEVANCY | Mean: 0.7997 | Std: 0.1994 | Range: [0.1429, 1.0000]
+HALLUCINATION        | Mean: 0.8392 | Std: 0.3673 | Range: [0.0000, 1.0000]
+FACTUAL_CORRECTNESS  | Mean: 0.6961 | Std: 0.2321 | Range: [0.0953, 0.9562]
+
+BLEU Scores:
+-----------
+BLEU1                | Mean: 0.0186 | Std: 0.0141 | Range: [0.0028, 0.1034]
+BLEU2                | Mean: 0.0085 | Std: 0.0071 | Range: [0.0000, 0.0599]
+BLEU3                | Mean: 0.0042 | Std: 0.0051 | Range: [0.0000, 0.0441]
+BLEU4                | Mean: 0.0022 | Std: 0.0037 | Range: [0.0000, 0.0342]
+
+ROUGE Scores:
+------------
+ROUGE1               | Mean: 0.0403 | Std: 0.0279 | Range: [0.0054, 0.2152]
+ROUGE2               | Mean: 0.0114 | Std: 0.0092 | Range: [0.0000, 0.0701]
+ROUGEL               | Mean: 0.0321 | Std: 0.0194 | Range: [0.0054, 0.1646]
+
+BERT Scores:
+-----------
+BERT_PRECISION       | Mean: 0.7464 | Std: 0.0408 | Range: [0.5731, 0.8334]
+BERT_RECALL          | Mean: 0.8146 | Std: 0.0268 | Range: [0.7003, 0.8710]
+BERT_F1              | Mean: 0.7787 | Std: 0.0325 | Range: [0.6303, 0.8502]
+
+KEY INSIGHTS:
+-------------
+• Highest mean score: faithfulness (0.8766)
+• Lowest mean score: rouge2 (0.0114)
+• Most variable metric: hallucination (std: 0.3673)
+• Least variable metric: bleu4 (std: 0.0037)

@@ -4,6 +4,39 @@ import pandas as pd
 import os
 from collections import defaultdict
 from pathlib import Path
+from scipy import stats  # Add this import for confidence intervals
+
+
+def compute_confidence_interval(data, confidence=0.95):
+    """
+    Compute confidence interval for a dataset
+
+    Args:
+        data: numpy array or list of values
+        confidence: confidence level (default 0.95 for 95% CI)
+
+    Returns:
+        tuple: (lower_bound, upper_bound)
+    """
+    data = np.array(data)
+    n = len(data)
+
+    if n < 2:
+        return (float(data[0]), float(data[0])) if n == 1 else (np.nan, np.nan)
+
+    # Calculate mean and standard error
+    mean = np.mean(data)
+    std_err = stats.sem(data)  # Standard error of the mean
+
+    # Calculate confidence interval using t-distribution
+    alpha = 1 - confidence
+    t_value = stats.t.ppf(1 - alpha / 2, n - 1)
+    margin_error = t_value * std_err
+
+    lower_bound = mean - margin_error
+    upper_bound = mean + margin_error
+
+    return (float(lower_bound), float(upper_bound))
 
 
 def compute_metrics_statistics(json_file_path):
@@ -68,7 +101,7 @@ def numpy_mode(data):
     return values[max_count_index]
 
 
-def add_existing_metrics_to_aggregated(json_file_path):
+def add_existing_metrics_to_aggregated(json_file_path, confidence_level=0.95):
     """
     Extract only existing_metrics from detailed_results and add them to aggregated_metrics.overall
     """
@@ -100,12 +133,19 @@ def add_existing_metrics_to_aggregated(json_file_path):
             values_array = np.array(values)
             # Create the metric name format: metric_name + "_mean", metric_name + "_std", metric_name + "_count"
             base_name = metric_name.lower()
+
+            # Compute confidence interval
+            ci_lower, ci_upper = compute_confidence_interval(values_array, confidence_level)
+
             existing_stats[f"{base_name}_mean"] = float(np.mean(values_array))
             existing_stats[f"{base_name}_std"] = float(np.std(values_array))
             existing_stats[f"{base_name}_var"] = float(np.var(values_array))
             existing_stats[f"{base_name}_median"] = float(np.median(values_array))
             existing_stats[f"{base_name}_mode"] = numpy_mode(values_array)
             existing_stats[f"{base_name}_count"] = len(values)
+            existing_stats[f"{base_name}_ci_lower"] = ci_lower
+            existing_stats[f"{base_name}_ci_upper"] = ci_upper
+            existing_stats[f"{base_name}_ci_level"] = confidence_level
 
     # Add to aggregated_metrics.overall
     if 'aggregated_metrics' not in data:

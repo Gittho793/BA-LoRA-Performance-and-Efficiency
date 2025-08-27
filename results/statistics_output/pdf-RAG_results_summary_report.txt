@@ -1,0 +1,38 @@
+EVALUATION METRICS SUMMARY REPORT: pdf-RAG_results.json
+================================================================================
+
+Total number of evaluations: 255
+
+Quality Metrics:
+---------------
+ANSWER_RELEVANCY     | Mean: 0.8857 | Std: 0.2032 | Range: [0.0000, 1.0000]
+FAITHFULNESS         | Mean: 0.9653 | Std: 0.1100 | Range: [0.0000, 1.0000]
+CONTEXTUAL_RELEVANCY | Mean: 0.6697 | Std: 0.3365 | Range: [0.0000, 1.0000]
+HALLUCINATION        | Mean: 0.3137 | Std: 0.4640 | Range: [0.0000, 1.0000]
+FACTUAL_CORRECTNESS  | Mean: 0.8362 | Std: 0.1565 | Range: [0.1971, 1.0000]
+
+BLEU Scores:
+-----------
+BLEU1                | Mean: 0.1928 | Std: 0.1491 | Range: [0.0000, 0.8512]
+BLEU2                | Mean: 0.1240 | Std: 0.1422 | Range: [0.0000, 0.8095]
+BLEU3                | Mean: 0.0916 | Std: 0.1332 | Range: [0.0000, 0.7662]
+BLEU4                | Mean: 0.0684 | Std: 0.1216 | Range: [0.0000, 0.7152]
+
+ROUGE Scores:
+------------
+ROUGE1               | Mean: 0.3008 | Std: 0.1787 | Range: [0.0000, 1.0000]
+ROUGE2               | Mean: 0.1462 | Std: 0.1680 | Range: [0.0000, 1.0000]
+ROUGEL               | Mean: 0.2383 | Std: 0.1683 | Range: [0.0000, 1.0000]
+
+BERT Scores:
+-----------
+BERT_PRECISION       | Mean: 0.8180 | Std: 0.0590 | Range: [0.6508, 0.9943]
+BERT_RECALL          | Mean: 0.8582 | Std: 0.0496 | Range: [0.5803, 0.9894]
+BERT_F1              | Mean: 0.8370 | Std: 0.0509 | Range: [0.6135, 0.9918]
+
+KEY INSIGHTS:
+-------------
+• Highest mean score: faithfulness (0.9653)
+• Lowest mean score: rouge2 (0.1462)
+• Most variable metric: hallucination (std: 0.4640)
+• Least variable metric: bert_recall (std: 0.0496)
