@@ -36,12 +36,12 @@ Directory mode (argument is a directory path):
 Comparative plot labeling rules:
 - If name contains "Meta-Llama" → show "Base"
 - Else if name contains "RAG" → show "RAG"
-- Else if the name ends with "a<digits>-r<digits>" (e.g., "a3-r7") → show that suffix
+- Else if the name ends with "r<digits>-a<digits>" → show that suffix
 - Else → show the original stem
 
 Dependencies: pandas, matplotlib, numpy
 """
-from analyze_results import save_combined_summaries
+from src.eval.boxplot_analyze_results import save_combined_summaries
 import matplotlib.pyplot as plt
 import argparse
 import json
