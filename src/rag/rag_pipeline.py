@@ -25,23 +25,197 @@ from transformers import AutoTokenizer
 import torch
 from src.eval.expanded_eval import load_question_json
 
+import contextlib
+from dataclasses import dataclass, asdict
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-class RAGPipeline:
-    """
-    A comprehensive RAG pipeline using Haystack with local unsloth/Meta-Llama-3.1-8B-Instruct model.
-    Supports PDF and TXT file processing.
-    """
+@dataclass
+class StepStat:
+    label: str
+    start_time_s: float
+    end_time_s: float
+    runtime_s: float
+    baseline_reserved_gb: float
+    step_peak_reserved_gb: float
+    step_increment_gb: float
+    pct_of_max_total: float
+    pct_increment_of_max: float
 
+class GPUMemoryMonitor:
+    """
+    Per-step GPU memory monitor. Use with MonitoredComponent to instrument Haystack components.
+    Produces both a .txt and a .json report.
+    """
+    def __init__(self, device_index: Optional[int] = None):
+        self.cuda = torch.cuda.is_available()
+        self.device_index = (torch.cuda.current_device() if self.cuda else None) if device_index is None else device_index
+        self.device_name = ""
+        self.total_gb = 0.0
+        self.sections: List[StepStat] = []
+        self._overall_peak_reserved_b = 0
+        self.session_started = False
+        if self.cuda:
+            props = torch.cuda.get_device_properties(self.device_index)
+            self.device_name = props.name
+            self.total_gb = round(props.total_memory / 1024 / 1024 / 1024, 3)
+
+    def _bytes_to_gb(self, b: int) -> float:
+        return round(b / 1024 / 1024 / 1024, 3)
+
+    @contextlib.contextmanager
+    def section(self, label: str):
+        """
+        Context manager to measure a single step (e.g., 'rag:llm', 'index:document_embedder').
+        Resets CUDA peak stats inside the section to isolate the step.
+        """
+        start = time.time()
+        if self.cuda:
+            torch.cuda.synchronize(self.device_index)
+            baseline_reserved_b = torch.cuda.memory_reserved(self.device_index)
+            # isolate this step's peak
+            torch.cuda.reset_peak_memory_stats(self.device_index)
+        else:
+            baseline_reserved_b = 0
+
+        try:
+            yield {}
+        finally:
+            end = time.time()
+            if self.cuda:
+                torch.cuda.synchronize(self.device_index)
+                step_peak_b = torch.cuda.max_memory_reserved(self.device_index)
+                step_increment_b = max(0, step_peak_b - baseline_reserved_b)
+                # track overall absolute peak across all steps
+                self._overall_peak_reserved_b = max(self._overall_peak_reserved_b, step_peak_b)
+            else:
+                step_peak_b = 0
+                step_increment_b = 0
+
+            step = StepStat(
+                label=label,
+                start_time_s=start,
+                end_time_s=end,
+                runtime_s=round(end - start, 4),
+                baseline_reserved_gb=self._bytes_to_gb(baseline_reserved_b),
+                step_peak_reserved_gb=self._bytes_to_gb(step_peak_b),
+                step_increment_gb=self._bytes_to_gb(step_increment_b),
+                pct_of_max_total=(self._bytes_to_gb(step_peak_b) / self.total_gb * 100.0) if self.cuda and self.total_gb > 0 else 0.0,
+                pct_increment_of_max=(self._bytes_to_gb(step_increment_b) / self.total_gb * 100.0) if self.cuda and self.total_gb > 0 else 0.0,
+            )
+            self.sections.append(step)
+
+            # Console summary for the step (matches your style)
+            print(f"\n[GPU] STEP '{label}' complete in {step.runtime_s:.2f}s")
+            if self.cuda:
+                print(f"      Peak reserved = {step.step_peak_reserved_gb} GB "
+                      f"({step.pct_of_max_total:.2f}% of {self.total_gb} GB). "
+                      f"Increment = {step.step_increment_gb} GB "
+                      f"({step.pct_increment_of_max:.2f}%).")
+            else:
+                print("      CUDA not available - no GPU stats for this step.")
+
+    def print_session_header(self, title: str = "GPU MEMORY MONITORING"):
+        print("\n" + "=" * 60)
+        print(f"{title} - START")
+        print("=" * 60)
+        if self.cuda:
+            print(f"GPU = {self.device_name}. Max memory = {self.total_gb} GB.")
+        else:
+            print("CUDA not available - GPU monitoring disabled")
+        self.session_started = True
+
+    def print_session_footer(self):
+        print("\n" + "=" * 60)
+        print("GPU MEMORY MONITORING - COMPLETE")
+        print("=" * 60)
+        if self.cuda:
+            print(f"Overall peak reserved (across steps) = {self._bytes_to_gb(self._overall_peak_reserved_b)} GB "
+                  f"({(self._bytes_to_gb(self._overall_peak_reserved_b) / self.total_gb * 100.0):.2f}% of total).")
+        else:
+            print("CUDA not available - no overall GPU stats.")
+
+    def write_reports(self, output_dir: Path, filename_prefix: str = "gpu_memory_report",
+                      extra_meta: Optional[Dict[str, Any]] = None):
+        output_dir.mkdir(parents=True, exist_ok=True)
+        txt_path = output_dir / f"{filename_prefix}.txt"
+        json_path = output_dir / f"{filename_prefix}.json"
+
+        # TXT (human-readable)
+        with open(txt_path, "w", encoding="utf-8") as f:
+            f.write(f"GPU Memory Report\n")
+            f.write(f"=================\n")
+            if self.cuda:
+                f.write(f"GPU Device: {self.device_name}\n")
+                f.write(f"Total GPU Memory: {self.total_gb} GB\n")
+                f.write(f"Overall Peak Reserved: {self._bytes_to_gb(self._overall_peak_reserved_b)} GB\n\n")
+            else:
+                f.write("CUDA not available - no GPU stats\n\n")
+
+            if extra_meta:
+                f.write("Additional Metadata:\n")
+                for k, v in extra_meta.items():
+                    f.write(f"- {k}: {v}\n")
+                f.write("\n")
+
+            f.write("Per-step Statistics:\n")
+            for s in self.sections:
+                f.write(
+                    f"- {s.label}\n"
+                    f"  runtime: {s.runtime_s:.2f}s\n"
+                    f"  baseline_reserved: {s.baseline_reserved_gb} GB\n"
+                    f"  step_peak_reserved: {s.step_peak_reserved_gb} GB "
+                    f"({s.pct_of_max_total:.2f}% of total)\n"
+                    f"  step_increment: {s.step_increment_gb} GB "
+                    f"({s.pct_increment_of_max:.2f}% of total)\n"
+                )
+
+        # JSON (machine-readable)
+        payload = {
+            "cuda_available": self.cuda,
+            "device_index": self.device_index,
+            "device_name": self.device_name,
+            "total_memory_gb": self.total_gb,
+            "overall_peak_reserved_gb": self._bytes_to_gb(self._overall_peak_reserved_b),
+            "steps": [asdict(s) for s in self.sections],
+            "meta": extra_meta or {},
+        }
+        with open(json_path, "w", encoding="utf-8") as jf:
+            json.dump(payload, jf, ensure_ascii=False, indent=2)
+
+        print(f"\nGPU memory reports saved:\n- {txt_path}\n- {json_path}")
+
+
+class MonitoredComponent:
+    """
+    Thin proxy for any Haystack component that intercepts .run() and measures GPU memory.
+    """
+    def __init__(self, inner, label: str, monitor: GPUMemoryMonitor):
+        self._inner = inner
+        self._label = label
+        self._monitor = monitor
+
+    def run(self, *args, **kwargs):
+        with self._monitor.section(self._label):
+            return self._inner.run(*args, **kwargs)
+
+    def __getattr__(self, name):
+        # Delegate all attribute access to the wrapped component
+        return getattr(self._inner, name)
+
+
+class RAGPipeline:
     def __init__(self, model_name: str = "unsloth/Meta-Llama-3.1-8B-Instruct"):
         self.model_name = model_name
-        self.document_store = InMemoryDocumentStore(
-            embedding_similarity_function="cosine")
+        self.document_store = InMemoryDocumentStore(embedding_similarity_function="cosine")
         self.indexing_pipeline = None
         self.rag_pipeline = None
+
+        # NEW: GPU monitor
+        self.gpu_monitor = GPUMemoryMonitor()  # uses current CUDA device if available
 
         # Initialize components
         self._setup_components()
@@ -95,7 +269,10 @@ class RAGPipeline:
             huggingface_pipeline_kwargs={
                 "device_map": "auto",
                 "torch_dtype": torch.bfloat16 if torch.cuda.is_bf16_supported() \
-                    else (torch.float16 if torch.cuda.is_available() else torch.float32)
+                    else (torch.float16 if torch.cuda.is_available() else torch.float32),
+                "model_kwargs": {
+                    "load_in_4bit": False,
+                }
             },
             generation_kwargs={
                 "max_new_tokens": 512,
@@ -123,61 +300,51 @@ class RAGPipeline:
         self.prompt_builder = PromptBuilder(template=self.prompt_template)
 
     def _build_indexing_pipeline(self):
-        """Build the document indexing pipeline."""
-
         self.indexing_pipeline = Pipeline()
 
-        # Add components to pipeline
-        self.indexing_pipeline.add_component(
-            "file_type_router", self.file_type_router)
-        self.indexing_pipeline.add_component(
-            "text_file_converter", self.text_file_converter)
-        self.indexing_pipeline.add_component(
-            "pdf_converter", self.pdf_converter)
-        self.indexing_pipeline.add_component(
-            "document_joiner", self.document_joiner)
-        self.indexing_pipeline.add_component(
-            "document_cleaner", self.document_cleaner)
-        self.indexing_pipeline.add_component(
-            "document_splitter", self.document_splitter)
-        self.indexing_pipeline.add_component(
-            "document_embedder", self.document_embedder)
-        self.indexing_pipeline.add_component(
-            "document_writer", self.document_writer)
+        def wrap(comp, label):
+            return MonitoredComponent(comp, label, self.gpu_monitor)
 
-        # Connect components
-        self.indexing_pipeline.connect(
-            "file_type_router.text/plain", "text_file_converter.sources")
-        self.indexing_pipeline.connect(
-            "file_type_router.application/pdf", "pdf_converter.sources")
-        self.indexing_pipeline.connect(
-            "text_file_converter", "document_joiner.documents")
-        self.indexing_pipeline.connect(
-            "pdf_converter", "document_joiner.documents")
+        # Add components (wrapped)
+        self.indexing_pipeline.add_component("file_type_router", wrap(self.file_type_router, "index:file_type_router"))
+        self.indexing_pipeline.add_component("text_file_converter", wrap(self.text_file_converter, "index:text_file_converter"))
+        self.indexing_pipeline.add_component("pdf_converter", wrap(self.pdf_converter, "index:pdf_converter"))
+        self.indexing_pipeline.add_component("document_joiner", wrap(self.document_joiner, "index:document_joiner"))
+        self.indexing_pipeline.add_component("document_cleaner", wrap(self.document_cleaner, "index:document_cleaner"))
+        self.indexing_pipeline.add_component("document_splitter", wrap(self.document_splitter, "index:document_splitter"))
+        self.indexing_pipeline.add_component("document_embedder", wrap(self.document_embedder, "index:document_embedder"))
+        self.indexing_pipeline.add_component("document_writer", wrap(self.document_writer, "index:document_writer"))
+
+        # Connect unchanged
+        self.indexing_pipeline.connect("file_type_router.text/plain", "text_file_converter.sources")
+        self.indexing_pipeline.connect("file_type_router.application/pdf", "pdf_converter.sources")
+        self.indexing_pipeline.connect("text_file_converter", "document_joiner.documents")
+        self.indexing_pipeline.connect("pdf_converter", "document_joiner.documents")
         self.indexing_pipeline.connect("document_joiner", "document_cleaner")
         self.indexing_pipeline.connect("document_cleaner", "document_splitter")
-        self.indexing_pipeline.connect(
-            "document_splitter", "document_embedder")
+        self.indexing_pipeline.connect("document_splitter", "document_embedder")
         self.indexing_pipeline.connect("document_embedder", "document_writer")
 
-    def _build_rag_pipeline(self):
-        """Build the RAG query pipeline."""
 
+    def _build_rag_pipeline(self):
         self.rag_pipeline = Pipeline()
 
-        # Add components
-        self.rag_pipeline.add_component("text_embedder", self.text_embedder)
-        self.rag_pipeline.add_component("retriever", self.retriever)
-        self.rag_pipeline.add_component("reranker", self.reranker)
-        self.rag_pipeline.add_component("prompt_builder", self.prompt_builder)
-        self.rag_pipeline.add_component("llm", self.llm_generator)
+        def wrap(comp, label):
+            return MonitoredComponent(comp, label, self.gpu_monitor)
 
-        # Connect components
-        self.rag_pipeline.connect(
-            "text_embedder.embedding", "retriever.query_embedding")
+        # Add components (wrapped)
+        self.rag_pipeline.add_component("text_embedder", wrap(self.text_embedder, "rag:text_embedder"))
+        self.rag_pipeline.add_component("retriever", wrap(self.retriever, "rag:retriever"))
+        self.rag_pipeline.add_component("reranker", wrap(self.reranker, "rag:reranker"))
+        self.rag_pipeline.add_component("prompt_builder", wrap(self.prompt_builder, "rag:prompt_builder"))
+        self.rag_pipeline.add_component("llm", wrap(self.llm_generator, "rag:llm"))
+
+        # Connect unchanged
+        self.rag_pipeline.connect("text_embedder.embedding", "retriever.query_embedding")
         self.rag_pipeline.connect("retriever", "reranker.documents")
         self.rag_pipeline.connect("reranker", "prompt_builder.documents")
         self.rag_pipeline.connect("prompt_builder", "llm")
+
 
     def index_documents(self, file_paths: List[str]) -> Dict[str, Any]:
         """
@@ -350,59 +517,42 @@ def _write_memory_report(output_dir: Path,
 
 
 def main():
-    """Main function demonstrating RAG pipeline usage."""
-
     start = time.time()
 
-    # Initialize RAG pipeline
+    # Initialize RAG pipeline + monitor
     print("Initializing RAG Pipeline...")
     rag = RAGPipeline()
+    monitor = rag.gpu_monitor
+    monitor.print_session_header("GPU MEMORY MONITORING (RAG)")
 
     cuda_available = torch.cuda.is_available()
     device_index = torch.cuda.current_device() if cuda_available else None
-    total_mem_b = torch.cuda.get_device_properties(
-        device_index).total_memory if cuda_available else 0
-    # Track overall peak (indexing + generation). Reset at very start.
+    total_mem_b = torch.cuda.get_device_properties(device_index).total_memory if cuda_available else 0
+
+    # Track overall (compatible with your existing summary file)
     if cuda_available:
         torch.cuda.reset_peak_memory_stats(device_index)
     overall_peak_before_gen_b = 0
 
-    # Index documents
+    # Index documents (per-step stats will be recorded automatically)
     print("Indexing documents...")
-    rag.index_documents([str(p) for p in Path(
-        "../../data/raw_splitted_txt").rglob("*") if p.is_file()])
+    rag.index_documents([str(p) for p in Path("../../data/raw_splitted_pdfs").rglob("*") if p.is_file()])
 
     if cuda_available:
-        overall_peak_before_gen_b = torch.cuda.max_memory_reserved(
-            device_index)
-        # Reset before generation to isolate generation peak
+        overall_peak_before_gen_b = torch.cuda.max_memory_reserved(device_index)
         torch.cuda.reset_peak_memory_stats(device_index)
 
-    # Query the system
-    questions_map, answer_map = load_question_json(
-        "../eval/output/txt_questions.json")
+    # Query/eval loop (per-step includes retriever/reranker/prompt/llm)
+    questions_map, answer_map = load_question_json("../eval/output/pdf_questions.json")
 
-    """for source_file, qs in questions_map.items():
-        for i, q in enumerate(qs):
-            print(f"\nQuestion ({source_file}):\n{q}")
-            answer = rag.get_answer(q)
-            print(f"\n\n\n\nAnswer: {answer}")
-            print(f"\n\n\n\nExpected: {answer_map[source_file][i]}")
-            print("-" * 30)"""
-
-    output_dir = Path("../../results/rag/txt")
+    output_dir = Path("../../results/rag/pdf")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     results_by_file: Dict[str, List[Dict[str, Any]]] = {}
-
     for source_file, qs in questions_map.items():
         for i, q in enumerate(qs):
             print(f"\nQuestion ({source_file}):\n{q}")
-            answer, retrieval = rag.get_answer_and_retrieval(
-                q, top_k=5, keep_content_chars=1000
-            )
-
-            # best retrieval context = top-1 reranked doc (rank 1 is first in list)
+            answer, retrieval = rag.get_answer_and_retrieval(q, top_k=5, keep_content_chars=1000)
             best_context = retrieval[0]["content"] if retrieval else None
 
             print(f"\n\n\n\nAnswer: {answer}")
@@ -414,15 +564,16 @@ def main():
                 "predicted_answer": answer,
                 "best_context": best_context
             })
+
     minutes = (time.time() - start) / 60.0
 
-    # Write to a single file with the new structure
-    out_name = output_dir / "txt_rag_results.json"
+    # Save results
+    out_name = output_dir / "pdf_rag_results.json"
     with open(out_name, "w", encoding="utf-8") as f:
         json.dump(results_by_file, f, ensure_ascii=False, indent=2)
-
     print(f"Saved all results to {out_name}")
 
+    # Your original overall summary (kept intact)
     if cuda_available:
         generation_peak_b = torch.cuda.max_memory_reserved(device_index)
         overall_peak_b = max(overall_peak_before_gen_b, generation_peak_b)
@@ -436,6 +587,14 @@ def main():
         generation_peak_b=generation_peak_b,
         generation_minutes=minutes,
     )
+
+    # NEW: write detailed per-step + overall GPU memory reports
+    monitor.print_session_footer()
+    meta = {
+        "model_name": rag.model_name,
+        "total_minutes": round(minutes, 2),
+    }
+    monitor.write_reports(output_dir=output_dir, filename_prefix="gpu_memory_report", extra_meta=meta)
 
 
 if __name__ == "__main__":

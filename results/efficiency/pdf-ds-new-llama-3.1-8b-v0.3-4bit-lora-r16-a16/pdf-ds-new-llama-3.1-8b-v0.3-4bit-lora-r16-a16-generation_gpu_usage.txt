@@ -1,0 +1,19 @@
+Peak reserved memory = 15.625 GB.
+Peak reserved memory for generation = 0.467 GB.
+Peak reserved memory % of max memory = 19.741 %.
+Peak reserved memory for generation % of max memory = 0.59 %.
+11.18 minutes used for generation.
+
+Additional Statistics:
+GPU Device: NVIDIA A100-SXM4-80GB
+Total GPU Memory: 79.151 GB
+Starting Memory Reserved: 15.158 GB
+Total Questions Processed: 255
+Generation Runtime: 671.01 seconds
+Average Time per Question: 2.63 seconds
+
+Model Configuration:
+Max New Tokens: 2048
+Temperature: 0.7
+Sampling: True
+Device: cuda
