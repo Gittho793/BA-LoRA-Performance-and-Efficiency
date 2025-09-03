@@ -109,7 +109,7 @@ def get_sfttrainer(model, tokenizer, formatted_dataset, args, dataset_text_field
 
 def main():
     model, tokenizer = get_pretrained_model_and_tokenizer(
-        load_in_4bit=False, load_in_8bit=True)
+        load_in_4bit=True, load_in_8bit=False)
 
     model = get_lora_model(model)
 
@@ -148,17 +148,17 @@ def main():
     # setup variables for monitoring from https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_v0.3_(7B)-CPT.ipynb#scrollTo=2ejIt2xSNKKp&line=1&uniqifier=1
     gpu_stats = torch.cuda.get_device_properties(0)
     start_gpu_memory = round(
-        torch.cuda.max_memory_reserved() / 1024 / 1024 / 1024, 3)
-    max_memory = round(gpu_stats.total_memory / 1024 / 1024 / 1024, 3)
-    print(f"GPU = {gpu_stats.name}. Max memory = {max_memory} GB.")
-    print(f"{start_gpu_memory} GB of memory reserved.")
+        torch.cuda.max_memory_reserved() / 1024 / 1024 , 3)
+    max_memory = round(gpu_stats.total_memory / 1024 / 1024 , 3)
+    print(f"GPU = {gpu_stats.name}. Max memory = {max_memory} MB.")
+    print(f"{start_gpu_memory} MB of memory reserved.")
 
     # get stats from training
     trainer_stats = trainer.train()
 
     # from https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_v0.3_(7B)-CPT.ipynb#scrollTo=pCqnaKmlO1U9&line=3&uniqifier=1
     used_memory = round(torch.cuda.max_memory_reserved() /
-                        1024 / 1024 / 1024, 3)
+                        1024 / 1024 , 3)
     used_memory_for_lora = round(used_memory - start_gpu_memory, 3)
     used_percentage = round(used_memory / max_memory * 100, 3)
     lora_percentage = round(used_memory_for_lora / max_memory * 100, 3)
@@ -167,8 +167,8 @@ def main():
     print(
         f"{round(trainer_stats.metrics['train_runtime']/60, 2)} minutes used for training."
     )
-    print(f"Peak reserved memory = {used_memory} GB.")
-    print(f"Peak reserved memory for training = {used_memory_for_lora} GB.")
+    print(f"Peak reserved memory = {used_memory} MB.")
+    print(f"Peak reserved memory for training = {used_memory_for_lora} MB.")
     print(f"Peak reserved memory % of max memory = {used_percentage} %.")
     print(
         f"Peak reserved memory for training % of max memory = {lora_percentage} %.")
@@ -177,8 +177,8 @@ def main():
     # Write to file
     with open(OUTPUT_DIR + "/gpu_usage.txt", "w", encoding="utf-8") as f:
         f.write(
-            f"""Peak reserved memory = {used_memory} GB.
-Peak reserved memory for training = {used_memory_for_lora} GB.
+            f"""Peak reserved memory = {used_memory} MB.
+Peak reserved memory for training = {used_memory_for_lora} MB.
 Peak reserved memory % of max memory = {used_percentage} %.
 Peak reserved memory for training % of max memory = {lora_percentage} %.
 {round(trainer_stats.metrics['train_runtime']/60, 2)} minutes used for training.""")

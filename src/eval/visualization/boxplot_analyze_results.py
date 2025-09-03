@@ -49,6 +49,7 @@ import pandas as pd
 import numpy as np
 import matplotlib
 matplotlib.use("Agg")  # headless
+plt.rcParams['font.size'] = 16
 
 
 def flatten_records(data: Dict[str, Any]) -> pd.DataFrame:

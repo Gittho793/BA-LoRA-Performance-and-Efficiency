@@ -41,7 +41,7 @@ Comparative plot labeling rules:
 
 Dependencies: pandas, matplotlib, numpy
 """
-from src.eval.boxplot_analyze_results import save_combined_summaries
+from src.eval.visualization.boxplot_analyze_results import save_combined_summaries
 import matplotlib.pyplot as plt
 import argparse
 import json
@@ -53,6 +53,7 @@ import pandas as pd
 import numpy as np
 import matplotlib
 matplotlib.use("Agg")  # headless
+plt.rcParams['font.size'] = 20
 
 
 def flatten_records(data: Dict[str, Any]) -> pd.DataFrame:
@@ -124,7 +125,7 @@ def find_first_hallucination_col(df: pd.DataFrame) -> Optional[str]:
 def make_output_paths_for_file(input_json: str) -> Dict[str, str]:
     file_stem = os.path.splitext(os.path.basename(input_json))[0]
     two_up = os.path.abspath(os.path.join(
-        os.path.dirname(input_json), "..", ".."))
+        os.path.dirname(input_json), "..", "..", ".."))
     out_dir = os.path.join(two_up, "results", "pictures", file_stem)
     os.makedirs(out_dir, exist_ok=True)
     return {

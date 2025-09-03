@@ -517,7 +517,6 @@ def _write_memory_report(output_dir: Path,
 
 
 def main():
-    start = time.time()
 
     # Initialize RAG pipeline + monitor
     print("Initializing RAG Pipeline...")
@@ -547,6 +546,8 @@ def main():
 
     output_dir = Path("../../results/rag/pdf")
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    start = time.time()
 
     results_by_file: Dict[str, List[Dict[str, Any]]] = {}
     for source_file, qs in questions_map.items():

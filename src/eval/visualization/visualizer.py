@@ -8,7 +8,9 @@ import re
 from pathlib import Path
 from typing import Dict, List
 # Add import for pretty label helpers
-from src.eval.violin import pretty_run_label, sort_labels_numerically
+from src.eval.visualization.violin import pretty_run_label, sort_labels_numerically
+
+plt.rcParams['font.size'] = 16
 
 
 class EvaluationVisualizer:
@@ -228,7 +230,7 @@ class EvaluationVisualizer:
             f"SuperGLUE Performance Comparison ({title_suffix} models)", fontsize=16, fontweight="bold")
         plt.xlabel("Task_Metric")
         plt.ylabel("Model")
-        plt.xticks(rotation=45)
+        plt.xticks(rotation=45, fontsize=16)
         plt.tight_layout()
         out = self.results_dir / "pictures" / f"superglue_comparison_{filename_suffix}.png"
         out.parent.mkdir(parents=True, exist_ok=True)
@@ -265,7 +267,7 @@ class EvaluationVisualizer:
         ax.set_xlabel("Model")
         ax.set_ylabel("Accuracy")
         ax.legend(title="Metric")
-        ax.set_xticklabels(pivot_df.index.tolist(), rotation=45, ha="right")
+        ax.set_xticklabels(pivot_df.index.tolist(), rotation=45, ha="right", fontsize=16)
         ax.grid(axis="y", alpha=0.3)
         plt.tight_layout()
         out = self.results_dir / "pictures" / f"truthfulqa_comparison_{filename_suffix}.png"
@@ -463,7 +465,7 @@ class EvaluationVisualizer:
             return
 
         # Optional style
-        plt.style.use("seaborn-v0_8")
+        # plt.style.use("seaborn-v0_8")
         sns.set_palette("husl")
 
         # Split by type
@@ -499,7 +501,7 @@ class EvaluationVisualizer:
 
 def main():
     # Adjust this path to wherever your results live
-    out_dir = Path("../../results")
+    out_dir = Path("../../../results")
     (out_dir / "pictures").mkdir(parents=True, exist_ok=True)
     visualizer = EvaluationVisualizer(results_dir=str(out_dir))
     visualizer.run_full_analysis()

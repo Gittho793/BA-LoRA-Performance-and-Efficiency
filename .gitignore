@@ -12,3 +12,5 @@ src/eval/cache/
 src/eval/results/
 **samples**
 src/eval/depreciated/**
+src/eval/output/cache_predictions/
+**cache**
