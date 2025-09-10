@@ -2,10 +2,19 @@
 Test tokenization with sliding window approach and print decoded outputs.
 Just to ensure tokenization works as expected.
 """
-import torch
+import os
+import sys
 from datasets import load_dataset
 from transformers.models.auto.tokenization_auto import AutoTokenizer  # Use standard tokenizer
-from args import MODEL_NAME, DATA_PATH, MAX_SEQ_LENGTH
+from dotenv import load_dotenv
+
+load_dotenv("../../../../.env")
+
+project_root = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "../../../.."))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+from src.util.args import MODEL_NAME, PDF_DATA_PATH, MAX_SEQ_LENGTH
 
 def load_tokenizer():
     return AutoTokenizer.from_pretrained(MODEL_NAME)
@@ -31,7 +40,7 @@ def sliding_tokenize(examples, tokenizer, stride=256):
 def main():
     tokenizer = load_tokenizer()
 
-    dataset = load_dataset("json", data_files=DATA_PATH, split="train")
+    dataset = load_dataset("json", data_files=PDF_DATA_PATH, split="train")
 
     tokenized_dataset = dataset.map(
         sliding_tokenize,

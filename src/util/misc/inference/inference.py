@@ -20,52 +20,53 @@ from src.util.args import MAX_SEQ_LENGTH, PDF_OUTPUT_DIR
 
 # based on https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb#scrollTo=kR3gIAX-SM2q
 
+if __name__ == "__main__":
 
-model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name="../../"+PDF_OUTPUT_DIR,
-    max_seq_length=MAX_SEQ_LENGTH,
-    load_in_4bit=False,
-    load_in_8bit=False,
-)
+    model, tokenizer = FastLanguageModel.from_pretrained(
+        model_name="../../"+PDF_OUTPUT_DIR,
+        max_seq_length=MAX_SEQ_LENGTH,
+        load_in_4bit=False,
+        load_in_8bit=False,
+    )
 
-FastLanguageModel.for_inference(model)
+    FastLanguageModel.for_inference(model)
 
-text_streamer = TextStreamer(tokenizer, skip_prompt=True)
-
-
-alpaca_prompt = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
-
-### Instruction:
-{}
-
-### Input:
-{}
-
-### Response:
-{}"""
-
-# from Schlueter_Kress_2017_Methoden_und_Techniken_chapter_08_qa_pairs_cleaned.json
-prompt = "Was ist die Bodenanker-Übung und was beinhaltet sie?"
-# prompt = "Was ist Microcounseling?"
-
-# sanity check
-# prompt = "The colors of the rainbow are:"
+    text_streamer = TextStreamer(tokenizer, skip_prompt=True)
 
 
-inputs = tokenizer([alpaca_prompt.format(
-    "Beantworte die folgende Frage",  # instruction
-    prompt,  # input
-    ""  # output -> blank for generation
-)], return_tensors="pt").to("cuda")
+    alpaca_prompt = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+    ### Instruction:
+    {}
+
+    ### Input:
+    {}
+
+    ### Response:
+    {}"""
+
+    # from Schlueter_Kress_2017_Methoden_und_Techniken_chapter_08_qa_pairs_cleaned.json
+    prompt = "Was ist die Bodenanker-Übung und was beinhaltet sie?"
+    # prompt = "Was ist Microcounseling?"
+
+    # sanity check
+    # prompt = "The colors of the rainbow are:"
 
 
-_ = model.generate(
-    **inputs,
-    streamer=text_streamer,
-    max_new_tokens=2048,
-    do_sample=True,
-    eos_token_id=tokenizer.eos_token_id,
-    pad_token_id=tokenizer.eos_token_id,
-    repetition_penalty=1.2,
-    num_beams=1
-)
+    inputs = tokenizer([alpaca_prompt.format(
+        "Beantworte die folgende Frage",  # instruction
+        prompt,  # input
+        ""  # output -> blank for generation
+    )], return_tensors="pt").to("cuda")
+
+
+    _ = model.generate(
+        **inputs,
+        streamer=text_streamer,
+        max_new_tokens=2048,
+        do_sample=True,
+        eos_token_id=tokenizer.eos_token_id,
+        pad_token_id=tokenizer.eos_token_id,
+        repetition_penalty=1.2,
+        num_beams=1
+    )
