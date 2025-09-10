@@ -1,4 +1,5 @@
-unsloth 
+unsloth
+babel
 transformers
 datasets
 bitsandbytes
@@ -8,6 +9,11 @@ vllm
 xformers
 lm-eval
 seaborn
+bert-score
+haystack-ai
+pydantic >=2.11
+pypdf
+sentence-transformers>=4.1.0
 --extra-index-url https://download.pytorch.org/whl/cu118
 torch
 torchvision

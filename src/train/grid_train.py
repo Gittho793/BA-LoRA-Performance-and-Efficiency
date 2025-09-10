@@ -6,7 +6,7 @@ import os
 import sys
 from dotenv import load_dotenv
 
-load_dotenv("../../.env")
+load_dotenv("../../.env")  # necessary for local imports on cluster
 
 ranks: list[int] = [4, 8, 16, 32, 64, 128]
 

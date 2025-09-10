@@ -1,3 +1,7 @@
+"""
+Extract text by chapter from PDFs using their Table of Contents (if available).
+Saves each chapter as a separate .txt file. If no TOC is found, saves the entire PDF as one .txt file.
+"""
 # extract_by_chapter.py
 import re
 import fitz  # PyMuPDF

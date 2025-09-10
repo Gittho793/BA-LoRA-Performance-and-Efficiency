@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Robust analyzer for GPU usage logs across a directory tree.
 
@@ -15,7 +14,6 @@ Fixes vs v1:
 Usage remains the same:
     python analyze_gpu_usage.py --root /path/to/root [--vram-metric gb|pct|phase-gb] [--gen-choice max-minutes|newest]
 """
-from src.eval.visualization.violin import pretty_run_label, sort_labels_numerically
 import matplotlib.pyplot as plt
 import os
 import re
@@ -25,24 +23,41 @@ from typing import Optional, List, Dict, Tuple
 import pandas as pd
 import numpy as np
 import matplotlib
+from dotenv import load_dotenv
+import sys
 matplotlib.use("Agg")
-plt.rcParams['font.size'] = 16
-# ---------- Filename matching ----------
+plt.rcParams['font.size'] = 16  # larger font for readability
+
+load_dotenv("../../../.env")  # necessary for local imports on cluster
+
+project_root = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "../../.."))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
+from src.eval.visualization.violin import pretty_run_label, sort_labels_numerically
 
 
 def is_training_file(fn: str) -> bool:
+    """
+    Check if the filename indicates a training GPU usage log file.
+    """
     name = fn.lower()
     return name.startswith("gpu_usage") and ("generation" not in name)
 
 
 def is_generation_file(fn: str) -> bool:
+    """
+    Check if the filename indicates a inference GPU usage log file.
+    """
     name = fn.lower()
     return ("gpu_usage" in name) and ("generation" in name)
 
-# ---------- Flexible number parsing ----------
-
 
 def parse_num(s: str) -> float:
+    """
+    Parse a numeric string that may use '.' or ',' as decimal separator.
+    """
     # convert decimal comma -> dot, strip spaces
     s = s.strip().replace(",", ".")
     return float(s)
@@ -51,7 +66,7 @@ def parse_num(s: str) -> float:
 # Common numeric token (supports '.' or ',')
 NUM = r"([0-9]+(?:[.,][0-9]+)?)"
 
-# ---------- Regexes (more tolerant) ----------
+# ---------- Regexes  ----------
 RE_TRAIN_MIN = re.compile(
     rf"{NUM}\s*(?:min(?:ute)?s?)\s+used\s+(?:for|in)\s+training",
     re.IGNORECASE,
@@ -82,6 +97,9 @@ RE_PEAK_TRAIN_GB = re.compile(
 
 @dataclass
 class FolderStats:
+    """
+    Statistics for a single folder.
+    """
     folder: str
     train_minutes: Optional[float] = None
     gen_minutes: Optional[float] = None
@@ -94,11 +112,17 @@ class FolderStats:
 
 
 def read_text(path: str) -> str:
+    """
+    Read text file with utf-8 encoding, ignoring errors.
+    """
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         return f.read()
 
 
 def parse_training_file(path: str) -> Dict[str, Optional[float]]:
+    """
+    parse a training gpu_usage file
+    """
     txt = read_text(path)
     out = dict(train_minutes=None, train_vram_gb=None,
                train_vram_pct=None, train_vram_for_phase_gb=None)
@@ -118,6 +142,9 @@ def parse_training_file(path: str) -> Dict[str, Optional[float]]:
 
 
 def parse_generation_file(path: str) -> Dict[str, Optional[float]]:
+    """
+    parse a inference gpu_usage file
+    """
     txt = read_text(path)
     out = dict(gen_minutes=None, gen_vram_gb=None,
                gen_vram_pct=None, gen_vram_for_phase_gb=None)
@@ -148,6 +175,9 @@ def _choose_generation(entries: List[Tuple[str, Dict[str, Optional[float]]]], ch
 
 
 def gather_stats(root_dir: str, gen_choice: str) -> List[FolderStats]:
+    """
+    gather stats from all folders under root_dir
+    """
     stats: List[FolderStats] = []
     for dirpath, _, filenames in os.walk(root_dir):
         train_files = [os.path.join(dirpath, fn)
@@ -201,6 +231,9 @@ def gather_stats(root_dir: str, gen_choice: str) -> List[FolderStats]:
 
 
 def make_dataframe(stats: List[FolderStats]) -> pd.DataFrame:
+    """
+    Create a DataFrame from the gathered stats.
+    """
     df = pd.DataFrame([asdict(s) for s in stats])
     cols = [
         "folder",
@@ -214,6 +247,9 @@ def make_dataframe(stats: List[FolderStats]) -> pd.DataFrame:
 
 
 def plot_grouped_bars(x_labels, v1, v2, title, ylabel, legend_labels=("Training", "Generation"), outfile=None):
+    """
+    plot grouped bar chart comparing v1 and v2 across x_labels
+    """
     vals1 = np.array([0 if v is None else v for v in v1], dtype=float)
     vals2 = np.array([0 if v is None else v for v in v2], dtype=float)
     missing1 = [v is None for v in v1]
@@ -256,6 +292,9 @@ def analyze(root_dir: str, gen_choice: str = "max-minutes", vram_metric: str = "
             out_times: str = "training_generation_times.png",
             out_vram: str = "training_generation_vram.png",
             out_csv: str = "gpu_usage_summary.csv") -> None:
+    """
+    Analyze GPU usage logs under root_dir and generate plots and CSV summary.
+    """
     stats = gather_stats(root_dir, gen_choice=gen_choice)
     if not stats:
         print(f"No matching files found under: {root_dir}")
@@ -264,7 +303,6 @@ def analyze(root_dir: str, gen_choice: str = "max-minutes", vram_metric: str = "
     df = make_dataframe(stats)
     df.to_csv(os.path.join(root_dir, out_csv), index=False)
 
-    # ✨ INSERT HERE ✨
     raw_labels = df["folder"].tolist()
     pretty_labels = [pretty_run_label(lbl) for lbl in raw_labels]
     x_labels = sort_labels_numerically(pretty_labels)
@@ -273,7 +311,6 @@ def analyze(root_dir: str, gen_choice: str = "max-minutes", vram_metric: str = "
     df["_pretty_label"] = pretty_labels
     df = df.set_index("_pretty_label").loc[x_labels].reset_index()
 
-    # now replace this old line:
     # x_labels = df["folder"].tolist()
     x_labels = df["_pretty_label"].tolist()
 
@@ -328,6 +365,9 @@ def analyze(root_dir: str, gen_choice: str = "max-minutes", vram_metric: str = "
 
 
 def main():
+    """
+    Main execution function for command-line usage.
+    """
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", type=str, default=".",
                     help="Root directory to search")

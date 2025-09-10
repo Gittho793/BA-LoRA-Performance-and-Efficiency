@@ -1,11 +1,12 @@
+"""
+Accumulate statistics (mean, std, variance, count, min, max) for all metrics in the results JSON file.
+"""
 import json
-import numpy as np
-import pandas as pd
-import os
 from collections import defaultdict
 from pathlib import Path
-from scipy import stats  # Add this import for confidence intervals
-
+from scipy import stats  # import for confidence intervals
+import numpy as np
+import pandas as pd
 
 def compute_confidence_interval(data, confidence=0.95):
     """
@@ -54,7 +55,7 @@ def compute_metrics_statistics(json_file_path):
     # Extract metrics from detailed_results
     detailed_results = data.get('detailed_results', {})
 
-    for file_name, results_list in detailed_results.items():
+    for _, results_list in detailed_results.items():
         for result in results_list:
             # Extract existing_metrics scores
             existing_metrics = result.get('existing_metrics', {})
@@ -96,6 +97,9 @@ def compute_metrics_statistics(json_file_path):
 
 
 def numpy_mode(data):
+    """
+    Compute the mode of a numpy array
+    """
     values, counts = np.unique(data, return_counts=True)
     max_count_index = np.argmax(counts)
     return values[max_count_index]

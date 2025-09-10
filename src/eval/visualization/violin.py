@@ -8,36 +8,8 @@ Usage:
   # Directory mode (loads all json files whose basename starts with "pdf")
   python analyze_results.py /path/to/dir
 
-What it does:
-- Loads JSON (expects a top-level key "detailed_results", but is tolerant).
-- Flattens per-question metrics (both nested "existing_metrics.*.score" and any
-  numeric top-level metrics like bleu*, rouge*, bert_*).
-
-Single-file mode:
-- Prints overall averages to stdout.
-- Saves:
-    - <two-levels-up>/results/pictures/<file_stem>/boxplots/
-        - <metric>_violin.png            (for every numeric metric EXCEPT hallucination)
-        - <hallucination_col>_bar.png    (bar counts of raw 0/1 values)
-    - <two-levels-up>/results/pictures/<file_stem>/summary.csv
-    - <two-levels-up>/results/pictures/<file_stem>/summary_by_source.csv
-
-Directory mode (argument is a directory path):
-- Finds all files in that directory matching: basename starts with "pdf" and ends with ".json".
-- Loads and merges them, tagging rows by file stem.
-- Prints combined overall averages to stdout.
-- Saves (two-levels-up from the directory):
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/summary_combined.csv
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/summary_by_source_combined.csv
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/comparative_boxplots/
-        - <metric>_comparative_violin.png   (for every numeric metric EXCEPT hallucination)
-        - <hallucination_col>_comparative_bar.png  (grouped bars per run: counts of 0 and 1)
-
-Comparative plot labeling rules:
-- If name contains "Meta-Llama" → show "Base"
-- Else if name contains "RAG" → show "RAG"
-- Else if the name ends with "r<digits>-a<digits>" → show that suffix
-- Else → show the original stem
+Very similar to boxplot_analyze_results.py but uses violin plots instead of boxplots.
+Could've imported but no time so copied
 
 Dependencies: pandas, matplotlib, numpy
 """
@@ -105,9 +77,10 @@ def numeric_columns(df: pd.DataFrame) -> List[str]:
     return [c for c in num_cols if c not in ("row_id",)]
 
 
-# --- Metric locating helpers -------------------------------------------------
-
 def _norm(s: str) -> str:
+    """
+    Normalize string for matching (lowercase, alphanumeric only).
+    """
     return re.sub(r"[^a-z0-9]+", "", (s or "").lower())
 
 

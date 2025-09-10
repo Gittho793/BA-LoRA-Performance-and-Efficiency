@@ -1,9 +1,8 @@
 """
 Use the deepeval library to evaluate predictions of an LLM with ground truth text and expected answers
 """
-from tqdm import tqdm
-import os
 import signal
+from tqdm import tqdm
 from deepeval.metrics import (
     AnswerRelevancyMetric,
     FaithfulnessMetric,
@@ -17,7 +16,7 @@ from deepeval.models import GPTModel
 
 EVAL_MODEL = GPTModel(
     model="gpt-4.1-mini",
-    api_key=os.getenv("OPEN_AI"),
+    # api_key=os.getenv("OPEN_AI"),  # on purpose not set here
     temperature=0,
 )
 
@@ -49,29 +48,18 @@ def integrate_deepeval_metrics(include_contextual: bool = False):
     return metrics
 
 
-def parse_questions_string(questions_string):
-    if not questions_string:
-        return {}
-    questions_dict, current = {}, []
-    for line in questions_string.strip().split("\n"):
-        if line and line[0].isdigit() and ". " in line:
-            current.append(line.split(". ", 1)[1])
-    if current:
-        questions_dict["default"] = current
-    return questions_dict
-
-
 def evaluate_with_deepeval(gt_texts: dict,
                            pred_texts: dict,
                            question_map: dict,
                            answer_map: dict,
-                           retrieval_context = None
+                           retrieval_context=None
                            ) -> dict:
     """
     Evaluate every <question, predicted-answer, expected-answer> triple
     independently with DeepEval metrics.
     """
-    metrics = integrate_deepeval_metrics(include_contextual=bool(retrieval_context))  # changed after evaluation finished but should work
+    metrics = integrate_deepeval_metrics(include_contextual=bool(
+        retrieval_context))  # changed after evaluation finished but should work
     all_results = {}
 
     def _handler(signum, frame):
@@ -82,7 +70,8 @@ def evaluate_with_deepeval(gt_texts: dict,
     try:
         for fname, gt_text in tqdm(gt_texts.items()):
             preds_block = pred_texts.get(fname, [])
-            predicted_answers = [entry['predicted_answer'] for entry in preds_block]
+            predicted_answers = [entry['predicted_answer']
+                                 for entry in preds_block]
 
             qs = question_map.get(fname, [])
             gold_as = answer_map.get(fname, [])
@@ -104,7 +93,8 @@ def evaluate_with_deepeval(gt_texts: dict,
                     file_contexts = retrieval_context.get(fname, [])
                     if i < len(file_contexts):
                         ctx = file_contexts[i]
-                        context_for_retrieval = [ctx] if isinstance(ctx, str) else ctx
+                        context_for_retrieval = [
+                            ctx] if isinstance(ctx, str) else ctx
                     else:
                         context_for_retrieval = [gt_text]
                 elif isinstance(retrieval_context, list):
@@ -133,7 +123,7 @@ def evaluate_with_deepeval(gt_texts: dict,
                             "success": metric.success,
                             "reason": getattr(metric, "reason", "N/A"),
                         }
-                    except Exception as e:
+                    except Exception as e:  # Don't know what Exception types to expect here
                         q_score[mname] = {
                             "score": 0.0,
                             "success": False,

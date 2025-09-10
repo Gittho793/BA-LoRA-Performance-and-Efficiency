@@ -4,7 +4,6 @@ Merge DeepEval results into traditional metrics results without re-running DeepE
 import json
 import argparse
 import numpy as np
-from pathlib import Path
 
 
 def merge_deepeval_into_traditional(deepeval_file: str, traditional_file: str, output_file: str = None):

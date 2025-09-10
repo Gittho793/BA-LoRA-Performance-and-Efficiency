@@ -5,11 +5,15 @@ import os
 import sys
 import json
 import argparse
-from pathlib import Path
+from dotenv import load_dotenv
 
-# Add project root to path
-project_root = Path(__file__).parent.parent.parent
-sys.path.insert(0, str(project_root))
+load_dotenv("../../.env")  # necessary for local imports on cluster
+
+project_root = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "../.."))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 
 from src.eval.deepeval_openai import evaluate_with_deepeval
 from src.eval.expanded_eval import (
@@ -63,6 +67,9 @@ def extract_retrieval_context(rag_results):
 
 
 def main():
+    """
+    Main function to evaluate RAG results using specified metrics.
+    """
     parser = argparse.ArgumentParser(description="Evaluate RAG results")
     parser.add_argument('--rag-results', required=True,
                         help='Path to RAG results JSON')

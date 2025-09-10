@@ -9,16 +9,15 @@ import datetime
 from time import time
 from dotenv import load_dotenv
 
-load_dotenv("../../.env")
-
-from src.util.args import (PDF_OUTPUT_DIR as OUTPUT_DIR,
-                           PDF_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
+load_dotenv("../../.env")  # necessary for local imports on cluster
 
 project_root = os.path.abspath(
     os.path.join(os.path.dirname(__file__), "../.."))
 if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
+from src.util.args import (PDF_OUTPUT_DIR as OUTPUT_DIR,
+                           PDF_GROUND_TRUTH_FILES as GROUND_TRUTH_FILES)
 
 BASE_DIR = os.path.dirname(os.path.abspath(OUTPUT_DIR))
 

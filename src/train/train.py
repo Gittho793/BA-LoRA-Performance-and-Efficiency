@@ -1,4 +1,8 @@
+"""
+Script to fine-tune an LLM with LoRA using different ranks and alphas. Meant to be started from grid_train.py
+"""
 import os
+# only working if started from grid_train.py else load the .env
 from src.util.args import (MODEL_NAME, 
                            PDF_DATA_PATH as DATA_PATH, 
                            PDF_OUTPUT_DIR as OUTPUT_DIR, 
@@ -14,6 +18,9 @@ from datasets import load_dataset
 
 
 def get_pretrained_model_and_tokenizer(load_in_4bit: bool, load_in_8bit: bool, full_finetuning=False):
+    """
+    Get a pretrained model and tokenizer for fine-tuning from Hugging Face.
+    """
     return FastLanguageModel.from_pretrained(
         model_name=MODEL_NAME,
         max_seq_length=MAX_SEQ_LENGTH,
@@ -24,6 +31,9 @@ def get_pretrained_model_and_tokenizer(load_in_4bit: bool, load_in_8bit: bool, f
 
 
 def get_lora_model(model, lora_dropout=0, bias="none", use_gradient_checkpointing="unsloth", use_rslora=False, loftq_config=None):
+    """
+    Get a LoRA model with specified parameters
+    """
     return FastLanguageModel.get_peft_model(
         model,
         r=RANK,
@@ -39,6 +49,9 @@ def get_lora_model(model, lora_dropout=0, bias="none", use_gradient_checkpointin
 
 
 def get_alpaca_prompt():
+    """
+    Return the alpaca style prompt for training
+    """
     return """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -52,6 +65,9 @@ def get_alpaca_prompt():
 
 
 def formatting_prompts_func(examples, alpaca_prompt, eos_token):
+    """
+    Format dataset to Alpaca style with instruction, input, output
+    """
     instructions = examples["instruction"]
     inputs = examples["input"]
     outputs = examples["output"]
@@ -96,6 +112,9 @@ def get_train_args(per_device_train_batch_size=2,
 
 
 def get_sfttrainer(model, tokenizer, formatted_dataset, args, dataset_text_field="text", dataset_num_processes=2, packing=False):
+    """
+    Get a Supervised Fine-Tuning Trainer with specified args
+    """
     return SFTTrainer(model=model,
                       tokenizer=tokenizer,
                       train_dataset=formatted_dataset,
@@ -108,6 +127,9 @@ def get_sfttrainer(model, tokenizer, formatted_dataset, args, dataset_text_field
 
 
 def main():
+    """
+    Main training function
+    """
     model, tokenizer = get_pretrained_model_and_tokenizer(
         load_in_4bit=True, load_in_8bit=False)
 

@@ -8,7 +8,7 @@ import time
 import logging
 import argparse
 from pathlib import Path
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Optional
 from dataclasses import dataclass
 
 # Third-party import
@@ -27,6 +27,9 @@ MIN_TEXT_LENGTH = 100  # Minimum text length to process
 
 @dataclass
 class QuestionAnswer:
+    """
+    Represents a question, its corresponding answer, and additional data.
+    """
     question: str
     answer: str
     difficulty: str
@@ -35,10 +38,14 @@ class QuestionAnswer:
 
 
 class TextProcessor:
+    """
+    Processes text files for question-answer pairs.
+    """
     def __init__(self):
         self.logger = logging.getLogger(__name__)
 
     def extract_text_from_file(self, txt_path: Path) -> Optional[str]:
+        """Extract text from a .txt file"""
         try:
             self.logger.info(f"Reading text from: {txt_path}")
             with open(txt_path, 'r', encoding='utf-8') as f:
@@ -53,6 +60,7 @@ class TextProcessor:
             return None
 
     def chunk_text(self, text: str, chunk_size: int = CHUNK_SIZE) -> List[str]:
+        """Chunk text into manageable pieces for the API."""
         # Identical to PDF version
         if len(text) <= chunk_size:
             return [text]
@@ -72,6 +80,9 @@ class TextProcessor:
 
 
 class OpenAIQuestionGenerator:
+    """
+    Generates question-answer pairs using OpenAI GPT-4.1-mini.
+    """
     def __init__(self, api_key: str):
         self.client = OpenAI(api_key=api_key)
         self.logger = logging.getLogger(__name__)
@@ -114,6 +125,9 @@ class OpenAIQuestionGenerator:
         return None
 
     def generate_questions(self, text: str, source_file: str) -> List[QuestionAnswer]:
+        """
+        Generate the questions for evaluation from the provided text.
+        """
         self.logger.info(f"Generating questions for text from {source_file}")
         response_format = {
             "type": "json_schema",
@@ -191,12 +205,18 @@ Generate questions that span different difficulty levels and topics covered in t
 
 
 class TextQuestionProcessor:
+    """
+    Main processor to handle directories of text files, generate qa pairs and save json.
+    """
     def __init__(self, api_key: str):
         self.text_processor = TextProcessor()
         self.question_generator = OpenAIQuestionGenerator(api_key)
         self.logger = logging.getLogger(__name__)
 
     def process_directory(self, directory_path: Path, output_file: Path) -> bool:
+        """
+        Process all .txt files in the given directory and generate question-answer pairs.
+        Saves results to output_file in JSON format."""
         self.logger.info(f"Processing text directory: {directory_path}")
         txt_files = list(directory_path.glob("*.txt"))
         if not txt_files:
@@ -274,6 +294,9 @@ class TextQuestionProcessor:
 
 
 def setup_logging(log_level: str = "INFO") -> None:
+    """
+    Setup logging configuration
+    """
     log_format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
     logging.basicConfig(
         level=getattr(logging, log_level.upper()),
@@ -289,6 +312,9 @@ def setup_logging(log_level: str = "INFO") -> None:
 
 
 def main():
+    """
+    Main entry point for the script
+    """
     parser = argparse.ArgumentParser(
         description="Generate test questions from text files using OpenAI GPT-4.1-mini",
         formatter_class=argparse.RawDescriptionHelpFormatter,

@@ -1,3 +1,6 @@
+"""
+Simply test the inference of a local LLM using unsloth FastLanguageModel.
+"""
 import unsloth  # wants to be on top for optimization
 from dotenv import load_dotenv
 from transformers.generation.streamers import TextStreamer
@@ -6,20 +9,20 @@ import os
 import sys
 
 
-load_dotenv("../../.env")
+load_dotenv("../../../../.env")
 
 project_root = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "../.."))
+    os.path.join(os.path.dirname(__file__), "../../../.."))
 if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
-from src.util.args import MAX_SEQ_LENGTH, OUTPUT_DIR
+from src.util.args import MAX_SEQ_LENGTH, PDF_OUTPUT_DIR
 
 # based on https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb#scrollTo=kR3gIAX-SM2q
 
 
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name=OUTPUT_DIR,
+    model_name="../../"+PDF_OUTPUT_DIR,
     max_seq_length=MAX_SEQ_LENGTH,
     load_in_4bit=False,
     load_in_8bit=False,

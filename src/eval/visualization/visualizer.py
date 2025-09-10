@@ -3,11 +3,21 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 import json
-import os
 import re
 from pathlib import Path
 from typing import Dict, List
+from dotenv import load_dotenv
+import os
+import sys
 # Add import for pretty label helpers
+
+load_dotenv("../../../.env")  # necessary for local imports on cluster
+
+project_root = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "../../.."))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 from src.eval.visualization.violin import pretty_run_label, sort_labels_numerically
 
 plt.rcParams['font.size'] = 16

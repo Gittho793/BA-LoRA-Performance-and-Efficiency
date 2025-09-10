@@ -1,3 +1,7 @@
+"""
+Test tokenization with sliding window approach and print decoded outputs.
+Just to ensure tokenization works as expected.
+"""
 import torch
 from datasets import load_dataset
 from transformers.models.auto.tokenization_auto import AutoTokenizer  # Use standard tokenizer

@@ -5,14 +5,6 @@ This script demonstrates:
 1. Loading a fine-tuned model with Unsloth and LoRA adapters
 2. Evaluating on MMLU benchmark using LM Evaluation Harness
 3. Evaluating on SuperGLUE benchmark 
-
-Requirements:
-- unsloth
-- lm_eval (EleutherAI LM Evaluation Harness)
-- transformers
-- torch
-- datasets
-- accelerate
 """
 
 import os
@@ -20,7 +12,6 @@ import re
 import json
 import subprocess
 import argparse
-import sys
 from typing import Dict, List, Optional
 import datetime
 import logging
@@ -32,20 +23,6 @@ from src.util.args import MODEL_NAME
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
-
-
-def install_requirements():
-    """Install required packages"""
-    packages = [
-        "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git",
-        "lm_eval[api] @ git+https://github.com/EleutherAI/lm-evaluation-harness.git",
-        "--no-deps xformers<0.0.27 trl<0.9.0 peft accelerate bitsandbytes"
-    ]
-
-    for package in packages:
-        logger.info(f"Installing {package}...")
-        subprocess.check_call(
-            [sys.executable, "-m", "pip", "install"] + package.split())
 
 
 def parse_args():
@@ -481,11 +458,5 @@ def get_available_tasks():
 if __name__ == "__main__":
     # Setup environment
     setup_environment()
-
-    # Get available tasks
-    # tasks = get_available_tasks()
-    # if tasks:
-    #     print("Available evaluation tasks:")
-    #     print(tasks[:10000] + "..." if len(tasks) > 1000 else tasks)
 
     main()

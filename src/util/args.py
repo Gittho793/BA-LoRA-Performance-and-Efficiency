@@ -1,3 +1,6 @@
+"""
+Global constants and configurations for the project.
+"""
 import os
 
 RANK = int(os.getenv("RANK", "16"))  # as sting for default of getenv

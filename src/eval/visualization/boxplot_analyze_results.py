@@ -8,33 +8,8 @@ Usage:
   # NEW: Directory mode (loads all json files whose basename starts with "pdf")
   python analyze_results.py /path/to/dir
 
-What it does:
-- Loads JSON (expects a top-level key "detailed_results", but is tolerant).
-- Flattens per-question metrics (both nested "existing_metrics.*.score" and any
-  numeric top-level metrics like bleu*, rouge*, bert_*).
-
-Single-file mode:
-- Prints overall averages to stdout.
-- Saves:
-    - <two-levels-up>/results/pictures/<file_stem>/boxplots/<metric>_boxplot.png
-    - <two-levels-up>/results/pictures/<file_stem>/summary.csv
-    - <two-levels-up>/results/pictures/<file_stem>/summary_by_source.csv
-
-Directory mode (argument is a directory path):
-- Finds all files in that directory matching: basename starts with "pdf" and ends with ".json".
-- Loads and merges them, tagging rows by file stem.
-- Prints combined overall averages to stdout.
-- Saves (two-levels-up from the directory):
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/summary_combined.csv
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/summary_by_source_combined.csv
-    - <two-levels-up>/results/pictures/<dir_basename>_comparative_pdf/comparative_boxplots/<metric>_comparative.png
-      (each image = one metric; boxplots grouped by file)
-
-Comparative plot labeling rules:
-- If name contains "Meta-Llama" → show "Base"
-- Else if name contains "RAG" → show "RAG"
-- Else if the name ends with a pattern like a<digits>-r<digits> (e.g., "a3-r7") → show that suffix
-- Else → show the original stem
+Very similar to violin_analyze_results.py but uses boxplots instead of violin plots.
+Could've imported but no time so copied it
 
 Dependencies: pandas, matplotlib, numpy
 """

@@ -1,3 +1,7 @@
+"""
+Convert JSON files with question-answer pairs into a standardized format.
+Not necessary if meta-synthetic-data-kit is used correctly
+"""
 import json
 from pathlib import Path
 
