@@ -16,7 +16,7 @@ from deepeval.models import GPTModel
 
 EVAL_MODEL = GPTModel(
     model="gpt-4.1-mini",
-    # api_key=os.getenv("OPEN_AI"),  # on purpose not set here
+    # api_key=os.getenv("OPEN_AI"),  # on purpose not set here as the implementation seemingly gets it
     temperature=0,
 )
 

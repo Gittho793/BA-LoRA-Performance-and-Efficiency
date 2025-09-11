@@ -24,7 +24,7 @@ from src.eval.expanded_eval import (
     save_evaluation_results
 )
 
-def convert_rag_to_deepeval_format(rag_results, question_map, answer_map):
+def convert_rag_to_deepeval_format(rag_results, question_map, answer_map) -> dict:
     """Convert RAG results to the same format as expanded_eval.py output"""
     deepeval_data = {}
 
@@ -51,7 +51,7 @@ def convert_rag_to_deepeval_format(rag_results, question_map, answer_map):
     return deepeval_data
 
 
-def extract_retrieval_context(rag_results):
+def extract_retrieval_context(rag_results) -> dict:
     """Extract retrieval context from RAG results in the format expected by deepeval_openai"""
     retrieval_context = {}
 

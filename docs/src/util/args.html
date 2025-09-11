@@ -101,7 +101,7 @@
 </span><span id="L-13"><a href="#L-13"><span class="linenos">13</span></a><span class="n">TXT_GROUND_TRUTH_FILES</span> <span class="o">=</span> <span class="s2">&quot;../../data/raw_splitted_txt&quot;</span>
 </span><span id="L-14"><a href="#L-14"><span class="linenos">14</span></a><span class="n">TXT_OUTPUT_DIR</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;../../../unslothLora/Llama/txt-ds-new-llama-3.1-8b-v0.3-4bit-lora-r</span><span class="si">{</span><span class="n">RANK</span><span class="si">}</span><span class="s2">-a</span><span class="si">{</span><span class="n">ALPHA</span><span class="si">}</span><span class="s2">&quot;</span>
 </span><span id="L-15"><a href="#L-15"><span class="linenos">15</span></a><span class="n">MAX_SEQ_LENGTH</span><span class="p">:</span> <span class="nb">int</span> <span class="o">=</span> <span class="mi">4096</span>
-</span><span id="L-16"><a href="#L-16"><span class="linenos">16</span></a><span class="n">TARGET_MODULES</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;q_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;k_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;v_proj&quot;</span><span class="p">,</span>
+</span><span id="L-16"><a href="#L-16"><span class="linenos">16</span></a><span class="n">TARGET_MODULES</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;q_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;k_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;v_proj&quot;</span><span class="p">,</span>
 </span><span id="L-17"><a href="#L-17"><span class="linenos">17</span></a>                  <span class="s2">&quot;o_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;gate_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;up_proj&quot;</span><span class="p">,</span> <span class="s2">&quot;down_proj&quot;</span><span class="p">]</span>
 </span></pre></div>
 
@@ -229,7 +229,7 @@
                 </section>
                 <section id="TARGET_MODULES">
                     <div class="attr variable">
-            <span class="name">TARGET_MODULES</span>        =
+            <span class="name">TARGET_MODULES</span><span class="annotation">: list[str]</span>        =
 <span class="default_value">[&#39;q_proj&#39;, &#39;k_proj&#39;, &#39;v_proj&#39;, &#39;o_proj&#39;, &#39;gate_proj&#39;, &#39;up_proj&#39;, &#39;down_proj&#39;]</span>
 
         

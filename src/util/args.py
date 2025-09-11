@@ -13,5 +13,5 @@ TXT_DATA_PATH = "../../data/splitted_txts/"
 TXT_GROUND_TRUTH_FILES = "../../data/raw_splitted_txt"
 TXT_OUTPUT_DIR = f"../../../unslothLora/Llama/txt-ds-new-llama-3.1-8b-v0.3-4bit-lora-r{RANK}-a{ALPHA}"
 MAX_SEQ_LENGTH: int = 4096
-TARGET_MODULES = ["q_proj", "k_proj", "v_proj",
+TARGET_MODULES: list[str] = ["q_proj", "k_proj", "v_proj",
                   "o_proj", "gate_proj", "up_proj", "down_proj"]
