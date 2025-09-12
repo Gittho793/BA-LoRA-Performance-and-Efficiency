@@ -2,7 +2,7 @@
 Script to fine-tune an LLM with LoRA using different ranks and alphas. Meant to be started from grid_train.py
 """
 import os
-# only working if started from grid_train.py else load the .env
+# only working if started from grid_train.py else load the .env as shown in e.g. eval/grid_eval.py
 from src.util.args import (MODEL_NAME, 
                            PDF_DATA_PATH as DATA_PATH, 
                            PDF_OUTPUT_DIR as OUTPUT_DIR, 

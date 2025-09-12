@@ -1,6 +1,7 @@
-# LlamaLora
+# Fine-Tuning Large Language Models with Low-Rank Adaptation: An Evaluation of Performance and Efficiency
 
-A comprehensive machine learning project for training, evaluating, and deploying LoRA (Low-Rank Adaptation) models on educational content, specifically focused on German educational texts about counseling and guidance.
+This study investigates the performance and efficiency of Low-Rank Adaptation (LoRA) as a parameter-efficient fine-tuning method for injecting knowledge into large language models (LLMs) in the context of academic and career counseling. A foundation model was fine-tuned with LoRA on an AI-generated domain-specific dataset and compared to both the baseline and a Retrieval-Augmented Generation (RAG) pipeline. Evaluation combined LLM-as-a-judge metrics, general capabilities benchmarks, and efficiency indicators such as training time, inference latency, and VRAM usage. Results show that LoRA-enhanced models generally outperform the baseline in answer relevancy, hallucination reduction, and factual correctness, though performance varies across configurations and sometimes even declines in factual correctness and general capabilities benchmarks. Training is highly efficient, requiring only $\approx$ 30 minutes on a single GPU, but dataset creation introduces significant overhead. RAG achieved stronger factual accuracy, faithfulness, and output stability than LoRA-models, albeit with higher inference latency and memory demands. LoRA proved particularly effective for domain-specific contextual alignment, shown by the answer relevancy metric, whereas RAG excelled in factual grounding and robustness. These findings highlight the trade-offs and complementary advantages of both methods, suggesting that the choice between LoRA and RAG should depend on application-specific priorities concerning accuracy, efficiency, and resource constraints.
+
 
 ## Project Overview
 
@@ -10,9 +11,6 @@ This project implements a complete pipeline for:
 - Question-answer generation for educational content
 - Model evaluation using various metrics and benchmarks
 
-## Abstract
-
-This study investigates the performance and efficiency of Low-Rank Adaptation (LoRA) as a parameter-efficient fine-tuning method for injecting knowledge into large language models (LLMs) in the context of academic and career counseling. A foundation model was fine-tuned with LoRA on an AI-generated domain-specific dataset and compared to both the baseline and a Retrieval-Augmented Generation (RAG) pipeline. Evaluation combined LLM-as-a-judge metrics, general capabilities benchmarks, and efficiency indicators such as training time, inference latency, and VRAM usage. Results show that LoRA-enhanced models generally outperform the baseline in answer relevancy, hallucination reduction, and factual correctness, though performance varies across configurations and sometimes even declines in factual correctness and general capabilities benchmarks. Training is highly efficient, requiring only $\approx$ 30 minutes on a single GPU, but dataset creation introduces significant overhead. RAG achieved stronger factual accuracy, faithfulness, and output stability than LoRA-models, albeit with higher inference latency and memory demands. LoRA proved particularly effective for domain-specific contextual alignment, shown by the answer relevancy metric, whereas RAG excelled in factual grounding and robustness. These findings highlight the trade-offs and complementary advantages of both methods, suggesting that the choice between LoRA and RAG should depend on application-specific priorities concerning accuracy, efficiency, and resource constraints.
 
 ## Project Structure
 
