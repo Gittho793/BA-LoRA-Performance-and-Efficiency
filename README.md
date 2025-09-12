@@ -53,7 +53,7 @@ The project works with German open-access educational texts covering topics such
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies (Python3.11 with CUDA 11.8 is standard. Switching versions requires changed requirements.):
 ```bash
 pip install -r requirements.txt
 ```
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 3. Set up environment variables:
 ```bash
 cp example.env .env
-# Edit .env with your configuration
+# Edit .env with your PYTHONPATH
 ```
 
 ## Configuration
@@ -89,9 +89,9 @@ For grid search training (!Recommended!):
 python grid_train.py
 ```
 
-### Question Generation
+### Golden Generation
 
-Generate evaluation questions from text files:
+Generate evaluation questions from text files using OpenAI API:
 
 ```bash
 cd src/eval
@@ -109,7 +109,7 @@ python rag_pipeline.py
 
 ### Comprehensive Evaluation
 
-Run full evaluation suite:
+Run full evaluation suite(!Recommended!):
 
 ```bash
 cd src/eval
